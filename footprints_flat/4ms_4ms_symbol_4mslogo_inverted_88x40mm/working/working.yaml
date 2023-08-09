@@ -13,13 +13,14 @@
     github_src_repo: https://github.com/4ms/4ms-kicad-lib
     oomp_bot: footprints/4ms_4ms_symbol_4mslogo_inverted_88x40mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/4ms_4ms_symbol_4mslogo_inverted_88x40mm/working
-    oomp_doc: footprints/footprints/4ms/4ms_Symbol/4msLogo_Inverted_88x40mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/4ms/4ms_Symbol/4msLogo_Inverted_88x40mm/working
     oomp_src_flat: footprints_flat/footprints_flat/4ms_4ms_symbol_4mslogo_inverted_88x40mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/4ms_4ms_symbol_4mslogo_inverted_88x40mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/4ms/4ms_Symbol/4msLogo_Inverted_88x40mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/4ms/4ms_Symbol/4msLogo_Inverted_88x40mm/working
   name: 4ms-kicad-lib
+  oomp:
+    footprint_name: 4mslogo_inverted_88x40mm
+    library_name: 4ms_symbol
+    original_filename: 4ms-kicad-lib/footprints/4ms_Symbol.pretty/4msLogo_Inverted_88x40mm.kicad_mod
+    owner_name: 4ms
   oomp_key: oomp_4ms_4ms_symbol_4mslogo_inverted_88x40mm
   oomp_key_simple: 4ms_4ms_symbol_4mslogo_inverted_88x40mm
   owner: 4ms

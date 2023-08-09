@@ -7,23 +7,141 @@
   footprint_library_directory_flat: footprints_flat/garrettsworkshop_stdpads_powertestpoint_paste/working
   github_path: http://github.com/garrettsworkshop/stdpads.pretty/blob/master/PowerTestPoint_Paste.kicad_mod
   links:
-    github_src: http://gitlab.com/garrettsworkshop/stdpads.pretty/blob/master/ZipHole_3.048mm_NPTH.kicad_mod
-    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
+    github_owner: garrettsworkshop
+    github_repo_name: stdpads.pretty
+    github_src: http://github.com/garrettsworkshop/stdpads.pretty/blob/master/ZipHole_3.048mm_NPTH.kicad_mod
+    github_src_repo: https://github.com/garrettsworkshop/stdpads.pretty
     oomp_bot: footprints/garrettsworkshop_stdpads_powertestpoint_paste/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/garrettsworkshop_stdpads_powertestpoint_paste/working
-    oomp_doc: footprints/footprints/garrettsworkshop/stdpads/PowerTestPoint_Paste/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/garrettsworkshop/stdpads/PowerTestPoint_Paste/working
     oomp_src_flat: footprints_flat/footprints_flat/garrettsworkshop_stdpads_powertestpoint_paste/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/garrettsworkshop_stdpads_powertestpoint_paste/working
-    oomp_src_folder: footprints_folder/footprints_folder/garrettsworkshop/stdpads/PowerTestPoint_Paste/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/garrettsworkshop/stdpads/PowerTestPoint_Paste/working
   name: stdpads.pretty
+  oomp:
+    footprint_name: powertestpoint_paste
+    library_name: stdpads
+    original_filename: stdpads.pretty/PowerTestPoint_Paste.kicad_mod
+    owner_name: garrettsworkshop
   oomp_key: oomp_garrettsworkshop_stdpads_powertestpoint_paste
   oomp_key_simple: garrettsworkshop_stdpads_powertestpoint_paste
   owner: garrettsworkshop
   repo:
-    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
-    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
-      Authenticated requests get a higher rate limit. Check out the documentation
-      for more details.)'
+    allow_forking: true
+    archive_url: https://api.github.com/repos/garrettsworkshop/stdpads.pretty/{archive_format}{/ref}
+    archived: false
+    assignees_url: https://api.github.com/repos/garrettsworkshop/stdpads.pretty/assignees{/user}
+    blobs_url: https://api.github.com/repos/garrettsworkshop/stdpads.pretty/git/blobs{/sha}
+    branches_url: https://api.github.com/repos/garrettsworkshop/stdpads.pretty/branches{/branch}
+    clone_url: https://github.com/garrettsworkshop/stdpads.pretty.git
+    collaborators_url: https://api.github.com/repos/garrettsworkshop/stdpads.pretty/collaborators{/collaborator}
+    comments_url: https://api.github.com/repos/garrettsworkshop/stdpads.pretty/comments{/number}
+    commits_url: https://api.github.com/repos/garrettsworkshop/stdpads.pretty/commits{/sha}
+    compare_url: https://api.github.com/repos/garrettsworkshop/stdpads.pretty/compare/{base}...{head}
+    contents_url: https://api.github.com/repos/garrettsworkshop/stdpads.pretty/contents/{+path}
+    contributors_url: https://api.github.com/repos/garrettsworkshop/stdpads.pretty/contributors
+    created_at: '2018-07-13T07:26:20Z'
+    default_branch: master
+    deployments_url: https://api.github.com/repos/garrettsworkshop/stdpads.pretty/deployments
+    description: KiCAD footprint library for Garrett's Workshop products
+    disabled: false
+    downloads_url: https://api.github.com/repos/garrettsworkshop/stdpads.pretty/downloads
+    events_url: https://api.github.com/repos/garrettsworkshop/stdpads.pretty/events
+    fork: false
+    forks: 1
+    forks_count: 1
+    forks_url: https://api.github.com/repos/garrettsworkshop/stdpads.pretty/forks
+    full_name: garrettsworkshop/stdpads.pretty
+    git_commits_url: https://api.github.com/repos/garrettsworkshop/stdpads.pretty/git/commits{/sha}
+    git_refs_url: https://api.github.com/repos/garrettsworkshop/stdpads.pretty/git/refs{/sha}
+    git_tags_url: https://api.github.com/repos/garrettsworkshop/stdpads.pretty/git/tags{/sha}
+    git_url: git://github.com/garrettsworkshop/stdpads.pretty.git
+    has_discussions: false
+    has_downloads: true
+    has_issues: true
+    has_pages: false
+    has_projects: true
+    has_wiki: true
+    homepage: ''
+    hooks_url: https://api.github.com/repos/garrettsworkshop/stdpads.pretty/hooks
+    html_url: https://github.com/garrettsworkshop/stdpads.pretty
+    id: 140812594
+    is_template: false
+    issue_comment_url: https://api.github.com/repos/garrettsworkshop/stdpads.pretty/issues/comments{/number}
+    issue_events_url: https://api.github.com/repos/garrettsworkshop/stdpads.pretty/issues/events{/number}
+    issues_url: https://api.github.com/repos/garrettsworkshop/stdpads.pretty/issues{/number}
+    keys_url: https://api.github.com/repos/garrettsworkshop/stdpads.pretty/keys{/key_id}
+    labels_url: https://api.github.com/repos/garrettsworkshop/stdpads.pretty/labels{/name}
+    language: null
+    languages_url: https://api.github.com/repos/garrettsworkshop/stdpads.pretty/languages
+    license: null
+    merges_url: https://api.github.com/repos/garrettsworkshop/stdpads.pretty/merges
+    milestones_url: https://api.github.com/repos/garrettsworkshop/stdpads.pretty/milestones{/number}
+    mirror_url: null
+    name: stdpads.pretty
+    network_count: 1
+    node_id: MDEwOlJlcG9zaXRvcnkxNDA4MTI1OTQ=
+    notifications_url: https://api.github.com/repos/garrettsworkshop/stdpads.pretty/notifications{?since,all,participating}
+    open_issues: 0
+    open_issues_count: 0
+    organization:
+      avatar_url: https://avatars.githubusercontent.com/u/65582366?v=4
+      events_url: https://api.github.com/users/garrettsworkshop/events{/privacy}
+      followers_url: https://api.github.com/users/garrettsworkshop/followers
+      following_url: https://api.github.com/users/garrettsworkshop/following{/other_user}
+      gists_url: https://api.github.com/users/garrettsworkshop/gists{/gist_id}
+      gravatar_id: ''
+      html_url: https://github.com/garrettsworkshop
+      id: 65582366
+      login: garrettsworkshop
+      node_id: MDEyOk9yZ2FuaXphdGlvbjY1NTgyMzY2
+      organizations_url: https://api.github.com/users/garrettsworkshop/orgs
+      received_events_url: https://api.github.com/users/garrettsworkshop/received_events
+      repos_url: https://api.github.com/users/garrettsworkshop/repos
+      site_admin: false
+      starred_url: https://api.github.com/users/garrettsworkshop/starred{/owner}{/repo}
+      subscriptions_url: https://api.github.com/users/garrettsworkshop/subscriptions
+      type: Organization
+      url: https://api.github.com/users/garrettsworkshop
+    owner:
+      avatar_url: https://avatars.githubusercontent.com/u/65582366?v=4
+      events_url: https://api.github.com/users/garrettsworkshop/events{/privacy}
+      followers_url: https://api.github.com/users/garrettsworkshop/followers
+      following_url: https://api.github.com/users/garrettsworkshop/following{/other_user}
+      gists_url: https://api.github.com/users/garrettsworkshop/gists{/gist_id}
+      gravatar_id: ''
+      html_url: https://github.com/garrettsworkshop
+      id: 65582366
+      login: garrettsworkshop
+      node_id: MDEyOk9yZ2FuaXphdGlvbjY1NTgyMzY2
+      organizations_url: https://api.github.com/users/garrettsworkshop/orgs
+      received_events_url: https://api.github.com/users/garrettsworkshop/received_events
+      repos_url: https://api.github.com/users/garrettsworkshop/repos
+      site_admin: false
+      starred_url: https://api.github.com/users/garrettsworkshop/starred{/owner}{/repo}
+      subscriptions_url: https://api.github.com/users/garrettsworkshop/subscriptions
+      type: Organization
+      url: https://api.github.com/users/garrettsworkshop
+    private: false
+    pulls_url: https://api.github.com/repos/garrettsworkshop/stdpads.pretty/pulls{/number}
+    pushed_at: '2023-06-07T22:53:30Z'
+    releases_url: https://api.github.com/repos/garrettsworkshop/stdpads.pretty/releases{/id}
+    size: 582
+    ssh_url: git@github.com:garrettsworkshop/stdpads.pretty.git
+    stargazers_count: 4
+    stargazers_url: https://api.github.com/repos/garrettsworkshop/stdpads.pretty/stargazers
+    statuses_url: https://api.github.com/repos/garrettsworkshop/stdpads.pretty/statuses/{sha}
+    subscribers_count: 3
+    subscribers_url: https://api.github.com/repos/garrettsworkshop/stdpads.pretty/subscribers
+    subscription_url: https://api.github.com/repos/garrettsworkshop/stdpads.pretty/subscription
+    svn_url: https://github.com/garrettsworkshop/stdpads.pretty
+    tags_url: https://api.github.com/repos/garrettsworkshop/stdpads.pretty/tags
+    teams_url: https://api.github.com/repos/garrettsworkshop/stdpads.pretty/teams
+    temp_clone_token: null
+    topics: []
+    trees_url: https://api.github.com/repos/garrettsworkshop/stdpads.pretty/git/trees{/sha}
+    updated_at: '2023-01-13T07:23:09Z'
+    url: https://api.github.com/repos/garrettsworkshop/stdpads.pretty
+    visibility: public
+    watchers: 4
+    watchers_count: 4
+    web_commit_signoff_required: false
   url: http://github.com/garrettsworkshop/stdpads.pretty

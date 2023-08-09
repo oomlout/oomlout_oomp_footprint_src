@@ -11,13 +11,14 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cosmikwolf_zetaohm_via/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cosmikwolf_zetaohm_via/working
-    oomp_doc: footprints/footprints/cosmikwolf/Zetaohm/Via/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cosmikwolf/Zetaohm/Via/working
     oomp_src_flat: footprints_flat/footprints_flat/cosmikwolf_zetaohm_via/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cosmikwolf_zetaohm_via/working
-    oomp_src_folder: footprints_folder/footprints_folder/cosmikwolf/Zetaohm/Via/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cosmikwolf/Zetaohm/Via/working
   name: Zetaohm.pretty
+  oomp:
+    footprint_name: via
+    library_name: zetaohm
+    original_filename: Zetaohm.pretty/Via.kicad_mod
+    owner_name: cosmikwolf
   oomp_key: oomp_cosmikwolf_zetaohm_via
   oomp_key_simple: cosmikwolf_zetaohm_via
   owner: cosmikwolf

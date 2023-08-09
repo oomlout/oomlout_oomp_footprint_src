@@ -11,13 +11,14 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/brunoeagle_rha0j561mcn1gs_rha0j561mcn1gs/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/brunoeagle_rha0j561mcn1gs_rha0j561mcn1gs/working
-    oomp_doc: footprints/footprints/brunoeagle/RHA0J561MCN1GS.kicad_mod/RHA0J561MCN1GS/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/brunoeagle/RHA0J561MCN1GS.kicad_mod/RHA0J561MCN1GS/working
     oomp_src_flat: footprints_flat/footprints_flat/brunoeagle_rha0j561mcn1gs_rha0j561mcn1gs/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/brunoeagle_rha0j561mcn1gs_rha0j561mcn1gs/working
-    oomp_src_folder: footprints_folder/footprints_folder/brunoeagle/RHA0J561MCN1GS.kicad_mod/RHA0J561MCN1GS/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/brunoeagle/RHA0J561MCN1GS.kicad_mod/RHA0J561MCN1GS/working
   name: kicad-open-modules
+  oomp:
+    footprint_name: rha0j561mcn1gs
+    library_name: kicad_open_modules
+    original_filename: kicad-open-modules/RHA0J561MCN1GS.kicad_mod
+    owner_name: brunoeagle
   oomp_key: oomp_brunoeagle_rha0j561mcn1gs_rha0j561mcn1gs
   oomp_key_simple: brunoeagle_rha0j561mcn1gs_rha0j561mcn1gs
   owner: brunoeagle

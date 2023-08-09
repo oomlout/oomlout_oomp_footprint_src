@@ -7,23 +7,122 @@
   footprint_library_directory_flat: footprints_flat/f6itu_coax_2mm_coax_2mm/working
   github_path: http://github.com/F6ITU/Kicad_Modules/blob/master/Coax_2mm.pretty/coax_2mm.kicad_mod
   links:
-    github_src: http://gitlab.com/F6ITU/Kicad_Modules/blob/master/Wurt_1mH.pretty/Wurt_1mH.kicad_mod
-    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
+    github_owner: F6ITU
+    github_repo_name: Kicad_Modules
+    github_src: http://github.com/F6ITU/Kicad_Modules/blob/master/Wurt_1mH.pretty/Wurt_1mH.kicad_mod
+    github_src_repo: https://github.com/F6ITU/Kicad_Modules
     oomp_bot: footprints/f6itu_coax_2mm_coax_2mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/f6itu_coax_2mm_coax_2mm/working
-    oomp_doc: footprints/footprints/F6ITU/Coax_2mm/coax_2mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/F6ITU/Coax_2mm/coax_2mm/working
     oomp_src_flat: footprints_flat/footprints_flat/f6itu_coax_2mm_coax_2mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/f6itu_coax_2mm_coax_2mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/F6ITU/Coax_2mm/coax_2mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/F6ITU/Coax_2mm/coax_2mm/working
   name: Kicad_Modules
+  oomp:
+    footprint_name: coax_2mm
+    library_name: coax_2mm
+    original_filename: Kicad_Modules/Coax_2mm.pretty/coax_2mm.kicad_mod
+    owner_name: f6itu
   oomp_key: oomp_f6itu_coax_2mm_coax_2mm
   oomp_key_simple: f6itu_coax_2mm_coax_2mm
   owner: F6ITU
   repo:
-    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
-    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
-      Authenticated requests get a higher rate limit. Check out the documentation
-      for more details.)'
+    allow_forking: true
+    archive_url: https://api.github.com/repos/F6ITU/Kicad_Modules/{archive_format}{/ref}
+    archived: false
+    assignees_url: https://api.github.com/repos/F6ITU/Kicad_Modules/assignees{/user}
+    blobs_url: https://api.github.com/repos/F6ITU/Kicad_Modules/git/blobs{/sha}
+    branches_url: https://api.github.com/repos/F6ITU/Kicad_Modules/branches{/branch}
+    clone_url: https://github.com/F6ITU/Kicad_Modules.git
+    collaborators_url: https://api.github.com/repos/F6ITU/Kicad_Modules/collaborators{/collaborator}
+    comments_url: https://api.github.com/repos/F6ITU/Kicad_Modules/comments{/number}
+    commits_url: https://api.github.com/repos/F6ITU/Kicad_Modules/commits{/sha}
+    compare_url: https://api.github.com/repos/F6ITU/Kicad_Modules/compare/{base}...{head}
+    contents_url: https://api.github.com/repos/F6ITU/Kicad_Modules/contents/{+path}
+    contributors_url: https://api.github.com/repos/F6ITU/Kicad_Modules/contributors
+    created_at: '2017-01-20T18:48:38Z'
+    default_branch: master
+    deployments_url: https://api.github.com/repos/F6ITU/Kicad_Modules/deployments
+    description: "personal kicad modules designed for projects\_located in these repo"
+    disabled: false
+    downloads_url: https://api.github.com/repos/F6ITU/Kicad_Modules/downloads
+    events_url: https://api.github.com/repos/F6ITU/Kicad_Modules/events
+    fork: false
+    forks: 0
+    forks_count: 0
+    forks_url: https://api.github.com/repos/F6ITU/Kicad_Modules/forks
+    full_name: F6ITU/Kicad_Modules
+    git_commits_url: https://api.github.com/repos/F6ITU/Kicad_Modules/git/commits{/sha}
+    git_refs_url: https://api.github.com/repos/F6ITU/Kicad_Modules/git/refs{/sha}
+    git_tags_url: https://api.github.com/repos/F6ITU/Kicad_Modules/git/tags{/sha}
+    git_url: git://github.com/F6ITU/Kicad_Modules.git
+    has_discussions: false
+    has_downloads: true
+    has_issues: true
+    has_pages: false
+    has_projects: true
+    has_wiki: true
+    homepage: null
+    hooks_url: https://api.github.com/repos/F6ITU/Kicad_Modules/hooks
+    html_url: https://github.com/F6ITU/Kicad_Modules
+    id: 79587344
+    is_template: false
+    issue_comment_url: https://api.github.com/repos/F6ITU/Kicad_Modules/issues/comments{/number}
+    issue_events_url: https://api.github.com/repos/F6ITU/Kicad_Modules/issues/events{/number}
+    issues_url: https://api.github.com/repos/F6ITU/Kicad_Modules/issues{/number}
+    keys_url: https://api.github.com/repos/F6ITU/Kicad_Modules/keys{/key_id}
+    labels_url: https://api.github.com/repos/F6ITU/Kicad_Modules/labels{/name}
+    language: null
+    languages_url: https://api.github.com/repos/F6ITU/Kicad_Modules/languages
+    license: null
+    merges_url: https://api.github.com/repos/F6ITU/Kicad_Modules/merges
+    milestones_url: https://api.github.com/repos/F6ITU/Kicad_Modules/milestones{/number}
+    mirror_url: null
+    name: Kicad_Modules
+    network_count: 0
+    node_id: MDEwOlJlcG9zaXRvcnk3OTU4NzM0NA==
+    notifications_url: https://api.github.com/repos/F6ITU/Kicad_Modules/notifications{?since,all,participating}
+    open_issues: 0
+    open_issues_count: 0
+    owner:
+      avatar_url: https://avatars.githubusercontent.com/u/19146590?v=4
+      events_url: https://api.github.com/users/F6ITU/events{/privacy}
+      followers_url: https://api.github.com/users/F6ITU/followers
+      following_url: https://api.github.com/users/F6ITU/following{/other_user}
+      gists_url: https://api.github.com/users/F6ITU/gists{/gist_id}
+      gravatar_id: ''
+      html_url: https://github.com/F6ITU
+      id: 19146590
+      login: F6ITU
+      node_id: MDQ6VXNlcjE5MTQ2NTkw
+      organizations_url: https://api.github.com/users/F6ITU/orgs
+      received_events_url: https://api.github.com/users/F6ITU/received_events
+      repos_url: https://api.github.com/users/F6ITU/repos
+      site_admin: false
+      starred_url: https://api.github.com/users/F6ITU/starred{/owner}{/repo}
+      subscriptions_url: https://api.github.com/users/F6ITU/subscriptions
+      type: User
+      url: https://api.github.com/users/F6ITU
+    private: false
+    pulls_url: https://api.github.com/repos/F6ITU/Kicad_Modules/pulls{/number}
+    pushed_at: '2017-01-20T18:49:43Z'
+    releases_url: https://api.github.com/repos/F6ITU/Kicad_Modules/releases{/id}
+    size: 2666
+    ssh_url: git@github.com:F6ITU/Kicad_Modules.git
+    stargazers_count: 0
+    stargazers_url: https://api.github.com/repos/F6ITU/Kicad_Modules/stargazers
+    statuses_url: https://api.github.com/repos/F6ITU/Kicad_Modules/statuses/{sha}
+    subscribers_count: 2
+    subscribers_url: https://api.github.com/repos/F6ITU/Kicad_Modules/subscribers
+    subscription_url: https://api.github.com/repos/F6ITU/Kicad_Modules/subscription
+    svn_url: https://github.com/F6ITU/Kicad_Modules
+    tags_url: https://api.github.com/repos/F6ITU/Kicad_Modules/tags
+    teams_url: https://api.github.com/repos/F6ITU/Kicad_Modules/teams
+    temp_clone_token: null
+    topics: []
+    trees_url: https://api.github.com/repos/F6ITU/Kicad_Modules/git/trees{/sha}
+    updated_at: '2017-01-20T18:48:38Z'
+    url: https://api.github.com/repos/F6ITU/Kicad_Modules
+    visibility: public
+    watchers: 0
+    watchers_count: 0
+    web_commit_signoff_required: false
   url: http://github.com/F6ITU/Kicad_Modules

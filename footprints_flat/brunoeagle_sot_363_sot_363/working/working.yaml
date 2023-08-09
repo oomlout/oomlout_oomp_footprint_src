@@ -11,13 +11,14 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/brunoeagle_sot_363_sot_363/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/brunoeagle_sot_363_sot_363/working
-    oomp_doc: footprints/footprints/brunoeagle/SOT-363.kicad_mod/SOT-363/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/brunoeagle/SOT-363.kicad_mod/SOT-363/working
     oomp_src_flat: footprints_flat/footprints_flat/brunoeagle_sot_363_sot_363/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/brunoeagle_sot_363_sot_363/working
-    oomp_src_folder: footprints_folder/footprints_folder/brunoeagle/SOT-363.kicad_mod/SOT-363/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/brunoeagle/SOT-363.kicad_mod/SOT-363/working
   name: kicad-open-modules
+  oomp:
+    footprint_name: sot_363
+    library_name: kicad_open_modules
+    original_filename: kicad-open-modules/SOT-363.kicad_mod
+    owner_name: brunoeagle
   oomp_key: oomp_brunoeagle_sot_363_sot_363
   oomp_key_simple: brunoeagle_sot_363_sot_363
   owner: brunoeagle

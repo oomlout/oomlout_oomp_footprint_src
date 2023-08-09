@@ -11,13 +11,14 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/asukiaaa_asukiaaa_kicad_footprints_sparkfun_promicro/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/asukiaaa_asukiaaa_kicad_footprints_sparkfun_promicro/working
-    oomp_doc: footprints/footprints/asukiaaa/asukiaaa-kicad-footprints/SparkFun_ProMicro/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/asukiaaa/asukiaaa-kicad-footprints/SparkFun_ProMicro/working
     oomp_src_flat: footprints_flat/footprints_flat/asukiaaa_asukiaaa_kicad_footprints_sparkfun_promicro/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/asukiaaa_asukiaaa_kicad_footprints_sparkfun_promicro/working
-    oomp_src_folder: footprints_folder/footprints_folder/asukiaaa/asukiaaa-kicad-footprints/SparkFun_ProMicro/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/asukiaaa/asukiaaa-kicad-footprints/SparkFun_ProMicro/working
   name: asukiaaa-kicad-footprints.pretty
+  oomp:
+    footprint_name: sparkfun_promicro
+    library_name: asukiaaa_kicad_footprints
+    original_filename: asukiaaa-kicad-footprints.pretty/SparkFun_ProMicro.kicad_mod
+    owner_name: asukiaaa
   oomp_key: oomp_asukiaaa_asukiaaa_kicad_footprints_sparkfun_promicro
   oomp_key_simple: asukiaaa_asukiaaa_kicad_footprints_sparkfun_promicro
   owner: asukiaaa

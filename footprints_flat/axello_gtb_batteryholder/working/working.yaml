@@ -11,13 +11,14 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/axello_gtb_batteryholder/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/axello_gtb_batteryholder/working
-    oomp_doc: footprints/footprints/axello/GTB/BatteryHolder/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/axello/GTB/BatteryHolder/working
     oomp_src_flat: footprints_flat/footprints_flat/axello_gtb_batteryholder/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/axello_gtb_batteryholder/working
-    oomp_src_folder: footprints_folder/footprints_folder/axello/GTB/BatteryHolder/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/axello/GTB/BatteryHolder/working
   name: kicad
+  oomp:
+    footprint_name: batteryholder
+    library_name: gtb
+    original_filename: kicad/GettingToBlinky/GTB.pretty/BatteryHolder.kicad_mod
+    owner_name: axello
   oomp_key: oomp_axello_gtb_batteryholder
   oomp_key_simple: axello_gtb_batteryholder
   owner: axello

@@ -100,9 +100,9 @@ def make_base_owner_footprint_library(**kwargs):
     kicad_mod = kwargs['kicad_mod']
     owner_footprint_library_directory = f'footprint_library_owner/{owner}_{name}'
     #if it doesn't exist make it with all needed subfolders
-    if not os.path.exists(owner_footprint_library_directory):
+    #if not os.path.exists(owner_footprint_library_directory):
         #make with all needed subfodlers
-        os.makedirs(owner_footprint_library_directory)
+    #    os.makedirs(owner_footprint_library_directory)
         
 
 
@@ -252,10 +252,10 @@ def make_base_owner_footprint_library(**kwargs):
         links['oomp_src_flat_github'] = oomp_src_flat_github
         
         #oomp source folder lnk
-        oomp_src_folder = f'footprints_folder/{folder_0}'
-        links['oomp_src_folder'] = oomp_src_folder
-        oomp_src_folder_github = f'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/{folder_0}'
-        links['oomp_src_folder_github'] = oomp_src_folder_github
+        #oomp_src_folder = f'footprints_folder/{folder_0}'
+        #links['oomp_src_folder'] = oomp_src_folder
+        #oomp_src_folder_github = f'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/{folder_0}'
+        #links['oomp_src_folder_github'] = oomp_src_folder_github
         
         #oomp_bot link
         oomp_bot_folder = folder.replace("footprints_flat","footprints")
@@ -265,11 +265,11 @@ def make_base_owner_footprint_library(**kwargs):
         links['oomp_bot_github'] = oomp_bot_github
         
         #doc folder
-        oomp_doc_folder = folder_0.replace("footprints_folder","footprints")
-        oomp_doc = f'footprints/{oomp_doc_folder}/'
-        links['oomp_doc'] = oomp_doc
-        oomp_doc_github = f'https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/{oomp_doc_folder}'
-        links['oomp_doc_github'] = oomp_doc_github
+        #oomp_doc_folder = folder_0.replace("footprints_folder","footprints")
+        #oomp_doc = f'footprints/{oomp_doc_folder}/'
+        #links['oomp_doc'] = oomp_doc
+        #oomp_doc_github = f'https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/{oomp_doc_folder}'
+        #links['oomp_doc_github'] = oomp_doc_github
 
         
 
@@ -290,12 +290,35 @@ def make_base_owner_footprint_library(**kwargs):
             print(e)
             footprint_details['error'] = str(e)
             pass
+
+        import oom_base
+
+        oomp_deets = {}
+
+        footprint_name = footprint["file"].split('/')[-1]
+        footprint_name = footprint_name.replace('.kicad_mod', '')
+        #lower and remove special
+        footprint_name = oom_base.remove_special_characters(footprint_name.lower())
+
+        library_name = footprint["file"].split('/')[-2]
+        library_name = library_name.replace('.pretty', '')
+        #lower and remove special
+        library_name = oom_base.remove_special_characters(library_name.lower())
+
+
+        oomp_deets['footprint_name'] = footprint_name
+        oomp_deets['library_name'] = library_name
+        oomp_deets['owner_name'] = oom_base.remove_special_characters(footprint_details['owner'].lower())
+        oomp_deets['original_filename'] = footprint["file"]
+
+        footprint_details['oomp'] = oomp_deets
+        pass
         #dump to yaml in flat directory
         with open(f'{folder}/working.yaml', 'w') as f:
             yaml.dump([footprint_details], f)
         #dump to yaml in flat directory
-        with open(f'{folder_0}/working.yaml', 'w') as f:
-            yaml.dump([footprint_details], f)
+        #with open(f'{folder_0}/working.yaml', 'w') as f:
+        #    yaml.dump([footprint_details], f)
         #print a progress dot
         print('.', end='', flush=True)
     #except Exception as e:
@@ -427,11 +450,20 @@ Note: It was auto harvested and if the original repo had more than one board fil
     return readme
 
 def get_footprint_details(**kwargs):
+    
     footprint = kwargs['footprint']
     return_value = {}
-    return_value['description'] = footprint.description
-    return_value['libraryLink'] = footprint.libraryLink
-    return_value['number_of_pads'] = len(footprint.pads)
+    try:
+        return_value['description'] = footprint.description
+        try:
+            return_value['libraryLink'] = footprint.libraryLink
+        except:
+            return_value['libraryLink'] = footprint.libId
+        return_value['number_of_pads'] = len(footprint.pads)
+    except Exception as e:
+        print(f'error getting footprint details')
+        #print(e)
+        pass
     return return_value
 
 def get_repo_details(**kwargs):

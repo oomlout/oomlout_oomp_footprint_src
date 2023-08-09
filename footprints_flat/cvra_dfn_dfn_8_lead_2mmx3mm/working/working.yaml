@@ -11,13 +11,14 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cvra_dfn_dfn_8_lead_2mmx3mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cvra_dfn_dfn_8_lead_2mmx3mm/working
-    oomp_doc: footprints/footprints/cvra/_dfn/DFN_8-Lead_2mmx3mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cvra/_dfn/DFN_8-Lead_2mmx3mm/working
     oomp_src_flat: footprints_flat/footprints_flat/cvra_dfn_dfn_8_lead_2mmx3mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cvra_dfn_dfn_8_lead_2mmx3mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/cvra/_dfn/DFN_8-Lead_2mmx3mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cvra/_dfn/DFN_8-Lead_2mmx3mm/working
   name: kicad-lib
+  oomp:
+    footprint_name: dfn_8_lead_2mmx3mm
+    library_name: _dfn
+    original_filename: kicad-lib/footprints/_dfn.pretty/DFN_8-Lead_2mmx3mm.kicad_mod
+    owner_name: cvra
   oomp_key: oomp_cvra_dfn_dfn_8_lead_2mmx3mm
   oomp_key_simple: cvra_dfn_dfn_8_lead_2mmx3mm
   owner: cvra

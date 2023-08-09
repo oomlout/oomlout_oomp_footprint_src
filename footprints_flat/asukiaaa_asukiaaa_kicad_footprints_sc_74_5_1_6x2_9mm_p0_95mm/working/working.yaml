@@ -11,13 +11,14 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/asukiaaa_asukiaaa_kicad_footprints_sc_74_5_1_6x2_9mm_p0_95mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/asukiaaa_asukiaaa_kicad_footprints_sc_74_5_1_6x2_9mm_p0_95mm/working
-    oomp_doc: footprints/footprints/asukiaaa/asukiaaa-kicad-footprints/SC-74-5_1.6x2.9mm_P0.95mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/asukiaaa/asukiaaa-kicad-footprints/SC-74-5_1.6x2.9mm_P0.95mm/working
     oomp_src_flat: footprints_flat/footprints_flat/asukiaaa_asukiaaa_kicad_footprints_sc_74_5_1_6x2_9mm_p0_95mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/asukiaaa_asukiaaa_kicad_footprints_sc_74_5_1_6x2_9mm_p0_95mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/asukiaaa/asukiaaa-kicad-footprints/SC-74-5_1.6x2.9mm_P0.95mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/asukiaaa/asukiaaa-kicad-footprints/SC-74-5_1.6x2.9mm_P0.95mm/working
   name: asukiaaa-kicad-footprints.pretty
+  oomp:
+    footprint_name: sc_74_5_1_6x2_9mm_p0_95mm
+    library_name: asukiaaa_kicad_footprints
+    original_filename: asukiaaa-kicad-footprints.pretty/SC-74-5_1.6x2.9mm_P0.95mm.kicad_mod
+    owner_name: asukiaaa
   oomp_key: oomp_asukiaaa_asukiaaa_kicad_footprints_sc_74_5_1_6x2_9mm_p0_95mm
   oomp_key_simple: asukiaaa_asukiaaa_kicad_footprints_sc_74_5_1_6x2_9mm_p0_95mm
   owner: asukiaaa

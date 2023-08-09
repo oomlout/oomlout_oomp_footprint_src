@@ -11,13 +11,14 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/cvra_led_rgb_crgb1318fse_tm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cvra_led_rgb_crgb1318fse_tm/working
-    oomp_doc: footprints/footprints/cvra/_led_rgb/CRGB1318FSE-TM/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/cvra/_led_rgb/CRGB1318FSE-TM/working
     oomp_src_flat: footprints_flat/footprints_flat/cvra_led_rgb_crgb1318fse_tm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cvra_led_rgb_crgb1318fse_tm/working
-    oomp_src_folder: footprints_folder/footprints_folder/cvra/_led_rgb/CRGB1318FSE-TM/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/cvra/_led_rgb/CRGB1318FSE-TM/working
   name: kicad-lib
+  oomp:
+    footprint_name: crgb1318fse_tm
+    library_name: _led_rgb
+    original_filename: kicad-lib/footprints/_led_rgb.pretty/CRGB1318FSE-TM.kicad_mod
+    owner_name: cvra
   oomp_key: oomp_cvra_led_rgb_crgb1318fse_tm
   oomp_key_simple: cvra_led_rgb_crgb1318fse_tm
   owner: cvra
