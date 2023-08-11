@@ -1,5 +1,6 @@
 import oomlout_footprint_src as oom_f_s
- 
+import oom_kicad 
+
 def main():
     #set a start time using time
     import time
@@ -9,7 +10,7 @@ def main():
     oom_f_s.make_footprints_readme()
     #print the time it took to complete
     print('That took {} seconds'.format(time.time() - starttime))
-
+    oom_kicad.push_to_git()
 
 
 

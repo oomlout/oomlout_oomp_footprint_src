@@ -211,6 +211,7 @@ def make_base_owner_footprint_library(**kwargs):
         #add repo to footprint details
         
         footprint_details['oomp_key'] = f'oomp_{folder_flat}'
+        footprint_details['oomp_key_full'] = f'oomp_footprint_{folder_flat}'
         footprint_details['oomp_key_simple'] = f'{folder_flat}'
 
         #add various useful links to footprint details
@@ -295,21 +296,27 @@ def make_base_owner_footprint_library(**kwargs):
 
         oomp_deets = {}
 
-        footprint_name = footprint["file"].split('/')[-1]
-        footprint_name = footprint_name.replace('.kicad_mod', '')
-        #lower and remove special
-        footprint_name = oom_base.remove_special_characters(footprint_name.lower())
-
-        library_name = footprint["file"].split('/')[-2]
-        library_name = library_name.replace('.pretty', '')
-        #lower and remove special
-        library_name = oom_base.remove_special_characters(library_name.lower())
-
-
-        oomp_deets['footprint_name'] = footprint_name
-        oomp_deets['library_name'] = library_name
-        oomp_deets['owner_name'] = oom_base.remove_special_characters(footprint_details['owner'].lower())
+        
+        #add a md5 hash of the id as a keyed item to kwargs
+        import hashlib
+        md5 = hashlib.md5(folder_flat.encode()).hexdigest() 
+        oomp_deets["md5"] = md5
+        #trim md5 to 6 and add it as md5_6
+        oomp_deets["md5_5"] = md5[0:5]
+        #add to md5_5 dict
+        md5_6 = md5[0:6]
+        oomp_deets["md5_6"] = md5_6
+        oomp_deets["md5_10"] = md5[0:10]
+        
+        oomp_deets['footprint_name'] = oom_base.remove_special_characters(footprint_name).lower()
+        oomp_deets['library_name'] = oom_base.remove_special_characters(library).lower()
+        oomp_deets['owner_name'] = oom_base.remove_special_characters(owner).lower()
         oomp_deets['original_filename'] = footprint["file"]
+        oomp_deets['oomp_key'] = f'oomp_{folder_flat}'
+        oomp_deets['oomp_key_extra'] = f'oomp_footprint_{folder_flat}'
+        oomp_deets['oomp_key_full'] = f'oomp_footprint_{folder_flat}_md5_6'
+        oomp_deets['oomp_key_simple'] = f'{folder_flat}'
+
 
         footprint_details['oomp'] = oomp_deets
         pass
