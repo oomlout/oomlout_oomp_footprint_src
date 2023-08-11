@@ -18,9 +18,18 @@
   oomp:
     footprint_name: esp32_c6_devkitc_1
     library_name: espressif
+    md5: 2e690eea589558ebd2f5dab41c620ccb
+    md5_10: 2e690eea58
+    md5_5: 2e690
+    md5_6: 2e690e
+    oomp_key: oomp_tinkerforge_espressif_esp32_c6_devkitc_1
+    oomp_key_extra: oomp_footprint_tinkerforge_espressif_esp32_c6_devkitc_1
+    oomp_key_full: oomp_footprint_tinkerforge_espressif_esp32_c6_devkitc_1_2e690e
+    oomp_key_simple: tinkerforge_espressif_esp32_c6_devkitc_1
     original_filename: kicad-libraries/footprints/Espressif.pretty/ESP32-C6-DevKitC-1.kicad_mod
     owner_name: tinkerforge
   oomp_key: oomp_tinkerforge_espressif_esp32_c6_devkitc_1
+  oomp_key_full: oomp_footprint_tinkerforge_espressif_esp32_c6_devkitc_1
   oomp_key_simple: tinkerforge_espressif_esp32_c6_devkitc_1
   owner: Tinkerforge
   repo:

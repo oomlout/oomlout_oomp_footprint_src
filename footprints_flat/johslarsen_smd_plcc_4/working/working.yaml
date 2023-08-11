@@ -17,9 +17,18 @@
   oomp:
     footprint_name: plcc_4
     library_name: smd
+    md5: b8442413137320385d139d34869f5c3f
+    md5_10: b844241313
+    md5_5: b8442
+    md5_6: b84424
+    oomp_key: oomp_johslarsen_smd_plcc_4
+    oomp_key_extra: oomp_footprint_johslarsen_smd_plcc_4
+    oomp_key_full: oomp_footprint_johslarsen_smd_plcc_4_b84424
+    oomp_key_simple: johslarsen_smd_plcc_4
     original_filename: SMD.pretty/PLCC-4.kicad_mod
     owner_name: johslarsen
   oomp_key: oomp_johslarsen_smd_plcc_4
+  oomp_key_full: oomp_footprint_johslarsen_smd_plcc_4
   oomp_key_simple: johslarsen_smd_plcc_4
   owner: johslarsen
   repo:

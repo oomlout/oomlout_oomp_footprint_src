@@ -17,9 +17,18 @@
   oomp:
     footprint_name: htqfp_64
     library_name: agg
+    md5: d04f7c7700a4000ff6ec5ca99e2c2972
+    md5_10: d04f7c7700
+    md5_5: d04f7
+    md5_6: d04f7c
+    oomp_key: oomp_adamgreig_agg_htqfp_64
+    oomp_key_extra: oomp_footprint_adamgreig_agg_htqfp_64
+    oomp_key_full: oomp_footprint_adamgreig_agg_htqfp_64_d04f7c
+    oomp_key_simple: adamgreig_agg_htqfp_64
     original_filename: agg-kicad/agg.pretty/HTQFP-64.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_htqfp_64
+  oomp_key_full: oomp_footprint_adamgreig_agg_htqfp_64
   oomp_key_simple: adamgreig_agg_htqfp_64
   owner: adamgreig
   repo:

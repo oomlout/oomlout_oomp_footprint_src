@@ -18,9 +18,18 @@
   oomp:
     footprint_name: dip_6_w8_89mm_smdsocket_longpads
     library_name: package_dip
+    md5: d5390f34a9597370fcdd94f197b5a238
+    md5_10: d5390f34a9
+    md5_5: d5390
+    md5_6: d5390f
+    oomp_key: oomp_kicad_package_dip_dip_6_w8_89mm_smdsocket_longpads
+    oomp_key_extra: oomp_footprint_kicad_package_dip_dip_6_w8_89mm_smdsocket_longpads
+    oomp_key_full: oomp_footprint_kicad_package_dip_dip_6_w8_89mm_smdsocket_longpads_d5390f
+    oomp_key_simple: kicad_package_dip_dip_6_w8_89mm_smdsocket_longpads
     original_filename: libraries/kicad-footprints/Package_DIP.pretty/DIP-6_W8.89mm_SMDSocket_LongPads.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_dip_dip_6_w8_89mm_smdsocket_longpads
+  oomp_key_full: oomp_footprint_kicad_package_dip_dip_6_w8_89mm_smdsocket_longpads
   oomp_key_simple: kicad_package_dip_dip_6_w8_89mm_smdsocket_longpads
   owner: kicad
   repo:

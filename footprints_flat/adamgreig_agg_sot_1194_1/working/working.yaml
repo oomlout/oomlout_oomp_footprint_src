@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sot_1194_1
     library_name: agg
+    md5: 6d53abdb7586d5eae2d9d0c411450ea7
+    md5_10: 6d53abdb75
+    md5_5: 6d53a
+    md5_6: 6d53ab
+    oomp_key: oomp_adamgreig_agg_sot_1194_1
+    oomp_key_extra: oomp_footprint_adamgreig_agg_sot_1194_1
+    oomp_key_full: oomp_footprint_adamgreig_agg_sot_1194_1_6d53ab
+    oomp_key_simple: adamgreig_agg_sot_1194_1
     original_filename: agg-kicad/agg.pretty/SOT-1194-1.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_sot_1194_1
+  oomp_key_full: oomp_footprint_adamgreig_agg_sot_1194_1
   oomp_key_simple: adamgreig_agg_sot_1194_1
   owner: adamgreig
   repo:

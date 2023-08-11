@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_ecap_smt_4mm
     library_name: xess
+    md5: a4ab76bc7d65647b85066fddd5738503
+    md5_10: a4ab76bc7d
+    md5_5: a4ab7
+    md5_6: a4ab76
+    oomp_key: oomp_xesscorp_xess_xess_ecap_smt_4mm
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_ecap_smt_4mm
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_ecap_smt_4mm_a4ab76
+    oomp_key_simple: xesscorp_xess_xess_ecap_smt_4mm
     original_filename: xess.pretty/xess-ECAP-SMT-4MM.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_ecap_smt_4mm
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_ecap_smt_4mm
   oomp_key_simple: xesscorp_xess_xess_ecap_smt_4mm
   owner: xesscorp
   repo:

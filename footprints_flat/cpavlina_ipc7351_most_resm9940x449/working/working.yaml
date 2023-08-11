@@ -17,9 +17,18 @@
   oomp:
     footprint_name: resm9940x449
     library_name: ipc7351_most
+    md5: f3c0ff35e5e05047ad1b217bdda6ceaf
+    md5_10: f3c0ff35e5
+    md5_5: f3c0f
+    md5_6: f3c0ff
+    oomp_key: oomp_cpavlina_ipc7351_most_resm9940x449
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_most_resm9940x449
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_most_resm9940x449_f3c0ff
+    oomp_key_simple: cpavlina_ipc7351_most_resm9940x449
     original_filename: kicad-pcblib/IPC7351-Most.pretty/RESM9940X449.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_most_resm9940x449
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_most_resm9940x449
   oomp_key_simple: cpavlina_ipc7351_most_resm9940x449
   owner: cpavlina
   repo:

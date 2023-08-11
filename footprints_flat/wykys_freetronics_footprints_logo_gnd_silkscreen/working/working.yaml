@@ -17,9 +17,18 @@
   oomp:
     footprint_name: logo_gnd_silkscreen
     library_name: freetronics_footprints
+    md5: ac57dfe43c9bd4fb27943ba75ad89b7f
+    md5_10: ac57dfe43c
+    md5_5: ac57d
+    md5_6: ac57df
+    oomp_key: oomp_wykys_freetronics_footprints_logo_gnd_silkscreen
+    oomp_key_extra: oomp_footprint_wykys_freetronics_footprints_logo_gnd_silkscreen
+    oomp_key_full: oomp_footprint_wykys_freetronics_footprints_logo_gnd_silkscreen_ac57df
+    oomp_key_simple: wykys_freetronics_footprints_logo_gnd_silkscreen
     original_filename: kicad/mods/freetronics_footprints.pretty/LOGO_GND_SILKSCREEN.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_freetronics_footprints_logo_gnd_silkscreen
+  oomp_key_full: oomp_footprint_wykys_freetronics_footprints_logo_gnd_silkscreen
   oomp_key_simple: wykys_freetronics_footprints_logo_gnd_silkscreen
   owner: wykys
   repo:

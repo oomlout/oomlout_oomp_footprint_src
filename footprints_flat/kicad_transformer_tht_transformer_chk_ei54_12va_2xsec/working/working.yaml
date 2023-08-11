@@ -17,9 +17,18 @@
   oomp:
     footprint_name: transformer_chk_ei54_12va_2xsec
     library_name: transformer_tht
+    md5: 85376cdd3be78a20fc7fbc5ffbc84ca7
+    md5_10: 85376cdd3b
+    md5_5: '85376'
+    md5_6: 85376c
+    oomp_key: oomp_kicad_transformer_tht_transformer_chk_ei54_12va_2xsec
+    oomp_key_extra: oomp_footprint_kicad_transformer_tht_transformer_chk_ei54_12va_2xsec
+    oomp_key_full: oomp_footprint_kicad_transformer_tht_transformer_chk_ei54_12va_2xsec_85376c
+    oomp_key_simple: kicad_transformer_tht_transformer_chk_ei54_12va_2xsec
     original_filename: libraries/kicad-footprints/Transformer_THT.pretty/Transformer_CHK_EI54-12VA_2xSec.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_transformer_tht_transformer_chk_ei54_12va_2xsec
+  oomp_key_full: oomp_footprint_kicad_transformer_tht_transformer_chk_ei54_12va_2xsec
   oomp_key_simple: kicad_transformer_tht_transformer_chk_ei54_12va_2xsec
   owner: kicad
   repo:

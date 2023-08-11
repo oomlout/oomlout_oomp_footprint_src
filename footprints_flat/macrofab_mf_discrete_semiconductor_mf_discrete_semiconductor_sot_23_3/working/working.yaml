@@ -17,9 +17,18 @@
   oomp:
     footprint_name: mf_discrete_semiconductor_sot_23_3
     library_name: mf_discrete_semiconductor
+    md5: e3e1223a5eea68e4e39a9d8cb77a096a
+    md5_10: e3e1223a5e
+    md5_5: e3e12
+    md5_6: e3e122
+    oomp_key: oomp_macrofab_mf_discrete_semiconductor_mf_discrete_semiconductor_sot_23_3
+    oomp_key_extra: oomp_footprint_macrofab_mf_discrete_semiconductor_mf_discrete_semiconductor_sot_23_3
+    oomp_key_full: oomp_footprint_macrofab_mf_discrete_semiconductor_mf_discrete_semiconductor_sot_23_3_e3e122
+    oomp_key_simple: macrofab_mf_discrete_semiconductor_mf_discrete_semiconductor_sot_23_3
     original_filename: EDALibraries/KiCad/Footprints/MF_Discrete_Semiconductor.pretty/MF_Discrete_Semiconductor-SOT-23-3.kicad_mod
     owner_name: macrofab
   oomp_key: oomp_macrofab_mf_discrete_semiconductor_mf_discrete_semiconductor_sot_23_3
+  oomp_key_full: oomp_footprint_macrofab_mf_discrete_semiconductor_mf_discrete_semiconductor_sot_23_3
   oomp_key_simple: macrofab_mf_discrete_semiconductor_mf_discrete_semiconductor_sot_23_3
   owner: MacroFab
   repo:

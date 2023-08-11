@@ -17,9 +17,18 @@
   oomp:
     footprint_name: th_hole_single
     library_name: kicadfootprint
+    md5: 5b95b7938ee8a4b05c986af903278e56
+    md5_10: 5b95b7938e
+    md5_5: 5b95b
+    md5_6: 5b95b7
+    oomp_key: oomp_vivitainc_kicadfootprint_th_hole_single
+    oomp_key_extra: oomp_footprint_vivitainc_kicadfootprint_th_hole_single
+    oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_th_hole_single_5b95b7
+    oomp_key_simple: vivitainc_kicadfootprint_th_hole_single
     original_filename: KiCADfootprint.pretty/TH_Hole_Single.kicad_mod
     owner_name: vivitainc
   oomp_key: oomp_vivitainc_kicadfootprint_th_hole_single
+  oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_th_hole_single
   oomp_key_simple: vivitainc_kicadfootprint_th_hole_single
   owner: vivitainc
   repo:

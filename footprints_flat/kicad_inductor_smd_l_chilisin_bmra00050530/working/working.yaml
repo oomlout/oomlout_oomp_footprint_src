@@ -17,9 +17,18 @@
   oomp:
     footprint_name: l_chilisin_bmra00050530
     library_name: inductor_smd
+    md5: be48826c58e86e4bb5abd7cf9db614dd
+    md5_10: be48826c58
+    md5_5: be488
+    md5_6: be4882
+    oomp_key: oomp_kicad_inductor_smd_l_chilisin_bmra00050530
+    oomp_key_extra: oomp_footprint_kicad_inductor_smd_l_chilisin_bmra00050530
+    oomp_key_full: oomp_footprint_kicad_inductor_smd_l_chilisin_bmra00050530_be4882
+    oomp_key_simple: kicad_inductor_smd_l_chilisin_bmra00050530
     original_filename: libraries/kicad-footprints/Inductor_SMD.pretty/L_Chilisin_BMRA00050530.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_inductor_smd_l_chilisin_bmra00050530
+  oomp_key_full: oomp_footprint_kicad_inductor_smd_l_chilisin_bmra00050530
   oomp_key_simple: kicad_inductor_smd_l_chilisin_bmra00050530
   owner: kicad
   repo:

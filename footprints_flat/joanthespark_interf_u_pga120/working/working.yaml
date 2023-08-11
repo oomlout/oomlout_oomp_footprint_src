@@ -17,9 +17,18 @@
   oomp:
     footprint_name: pga120
     library_name: interf_u
+    md5: 9997add0351405aed4553912925458ae
+    md5_10: 9997add035
+    md5_5: 9997a
+    md5_6: 9997ad
+    oomp_key: oomp_joanthespark_interf_u_pga120
+    oomp_key_extra: oomp_footprint_joanthespark_interf_u_pga120
+    oomp_key_full: oomp_footprint_joanthespark_interf_u_pga120_9997ad
+    oomp_key_simple: joanthespark_interf_u_pga120
     original_filename: KiCAD/demos/interf_u/interf_u.pretty/PGA120.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_interf_u_pga120
+  oomp_key_full: oomp_footprint_joanthespark_interf_u_pga120
   oomp_key_simple: joanthespark_interf_u_pga120
   owner: JoanTheSpark
   repo:

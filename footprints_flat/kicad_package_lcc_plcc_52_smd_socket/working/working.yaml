@@ -17,9 +17,18 @@
   oomp:
     footprint_name: plcc_52_smd_socket
     library_name: package_lcc
+    md5: 4158e0a4739e3d016db69c99213cf817
+    md5_10: 4158e0a473
+    md5_5: 4158e
+    md5_6: 4158e0
+    oomp_key: oomp_kicad_package_lcc_plcc_52_smd_socket
+    oomp_key_extra: oomp_footprint_kicad_package_lcc_plcc_52_smd_socket
+    oomp_key_full: oomp_footprint_kicad_package_lcc_plcc_52_smd_socket_4158e0
+    oomp_key_simple: kicad_package_lcc_plcc_52_smd_socket
     original_filename: libraries/kicad-footprints/Package_LCC.pretty/PLCC-52_SMD-Socket.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_lcc_plcc_52_smd_socket
+  oomp_key_full: oomp_footprint_kicad_package_lcc_plcc_52_smd_socket
   oomp_key_simple: kicad_package_lcc_plcc_52_smd_socket
   owner: kicad
   repo:

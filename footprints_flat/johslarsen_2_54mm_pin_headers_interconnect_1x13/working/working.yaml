@@ -17,9 +17,18 @@
   oomp:
     footprint_name: interconnect_1x13
     library_name: 2_54mm_pin_headers
+    md5: 7504cc8494057f047092160f7c63fca1
+    md5_10: 7504cc8494
+    md5_5: 7504c
+    md5_6: 7504cc
+    oomp_key: oomp_johslarsen_2_54mm_pin_headers_interconnect_1x13
+    oomp_key_extra: oomp_footprint_johslarsen_2_54mm_pin_headers_interconnect_1x13
+    oomp_key_full: oomp_footprint_johslarsen_2_54mm_pin_headers_interconnect_1x13_7504cc
+    oomp_key_simple: johslarsen_2_54mm_pin_headers_interconnect_1x13
     original_filename: 2.54mm_Pin_Headers.pretty/Interconnect_1x13.kicad_mod
     owner_name: johslarsen
   oomp_key: oomp_johslarsen_2_54mm_pin_headers_interconnect_1x13
+  oomp_key_full: oomp_footprint_johslarsen_2_54mm_pin_headers_interconnect_1x13
   oomp_key_simple: johslarsen_2_54mm_pin_headers_interconnect_1x13
   owner: johslarsen
   repo:

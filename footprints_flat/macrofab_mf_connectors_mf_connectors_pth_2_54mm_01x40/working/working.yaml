@@ -18,9 +18,18 @@
   oomp:
     footprint_name: mf_connectors_pth_2_54mm_01x40
     library_name: mf_connectors
+    md5: 6d0a7e3c9579403cc508e52e29924435
+    md5_10: 6d0a7e3c95
+    md5_5: 6d0a7
+    md5_6: 6d0a7e
+    oomp_key: oomp_macrofab_mf_connectors_mf_connectors_pth_2_54mm_01x40
+    oomp_key_extra: oomp_footprint_macrofab_mf_connectors_mf_connectors_pth_2_54mm_01x40
+    oomp_key_full: oomp_footprint_macrofab_mf_connectors_mf_connectors_pth_2_54mm_01x40_6d0a7e
+    oomp_key_simple: macrofab_mf_connectors_mf_connectors_pth_2_54mm_01x40
     original_filename: EDALibraries/KiCad/Footprints/MF_Connectors.pretty/MF_Connectors-PTH_2.54MM_01X40.kicad_mod
     owner_name: macrofab
   oomp_key: oomp_macrofab_mf_connectors_mf_connectors_pth_2_54mm_01x40
+  oomp_key_full: oomp_footprint_macrofab_mf_connectors_mf_connectors_pth_2_54mm_01x40
   oomp_key_simple: macrofab_mf_connectors_mf_connectors_pth_2_54mm_01x40
   owner: MacroFab
   repo:

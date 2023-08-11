@@ -18,9 +18,18 @@
   oomp:
     footprint_name: vson_8_1_5x2mm_p0_5mm
     library_name: package_son
+    md5: 390f20a5168056fcc757e996982934ee
+    md5_10: 390f20a516
+    md5_5: 390f2
+    md5_6: 390f20
+    oomp_key: oomp_kicad_package_son_vson_8_1_5x2mm_p0_5mm
+    oomp_key_extra: oomp_footprint_kicad_package_son_vson_8_1_5x2mm_p0_5mm
+    oomp_key_full: oomp_footprint_kicad_package_son_vson_8_1_5x2mm_p0_5mm_390f20
+    oomp_key_simple: kicad_package_son_vson_8_1_5x2mm_p0_5mm
     original_filename: libraries/kicad-footprints/Package_SON.pretty/VSON-8_1.5x2mm_P0.5mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_son_vson_8_1_5x2mm_p0_5mm
+  oomp_key_full: oomp_footprint_kicad_package_son_vson_8_1_5x2mm_p0_5mm
   oomp_key_simple: kicad_package_son_vson_8_1_5x2mm_p0_5mm
   owner: kicad
   repo:

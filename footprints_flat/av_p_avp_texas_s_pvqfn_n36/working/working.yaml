@@ -17,9 +17,18 @@
   oomp:
     footprint_name: texas_s_pvqfn_n36
     library_name: avp
+    md5: aca5fdcb6f135a21c6c39f267518917c
+    md5_10: aca5fdcb6f
+    md5_5: aca5f
+    md5_6: aca5fd
+    oomp_key: oomp_av_p_avp_texas_s_pvqfn_n36
+    oomp_key_extra: oomp_footprint_av_p_avp_texas_s_pvqfn_n36
+    oomp_key_full: oomp_footprint_av_p_avp_texas_s_pvqfn_n36_aca5fd
+    oomp_key_simple: av_p_avp_texas_s_pvqfn_n36
     original_filename: Avp.pretty/Texas_S-PVQFN-N36.kicad_mod
     owner_name: av_p
   oomp_key: oomp_av_p_avp_texas_s_pvqfn_n36
+  oomp_key_full: oomp_footprint_av_p_avp_texas_s_pvqfn_n36
   oomp_key_simple: av_p_avp_texas_s_pvqfn_n36
   owner: av-p
   repo:

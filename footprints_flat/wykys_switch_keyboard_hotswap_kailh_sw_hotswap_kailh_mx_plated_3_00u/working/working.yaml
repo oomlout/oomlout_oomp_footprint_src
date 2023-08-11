@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sw_hotswap_kailh_mx_plated_3_00u
     library_name: switch_keyboard_hotswap_kailh
+    md5: abaca8b3eecd6e3b7c3d0a7a95a64010
+    md5_10: abaca8b3ee
+    md5_5: abaca
+    md5_6: abaca8
+    oomp_key: oomp_wykys_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_mx_plated_3_00u
+    oomp_key_extra: oomp_footprint_wykys_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_mx_plated_3_00u
+    oomp_key_full: oomp_footprint_wykys_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_mx_plated_3_00u_abaca8
+    oomp_key_simple: wykys_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_mx_plated_3_00u
     original_filename: kicad/6.0/3rdparty/footprints/com_github_perigoso_keyswitch-kicad-library/Switch_Keyboard_Hotswap_Kailh.pretty/SW_Hotswap_Kailh_MX_plated_3.00u.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_mx_plated_3_00u
+  oomp_key_full: oomp_footprint_wykys_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_mx_plated_3_00u
   oomp_key_simple: wykys_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_mx_plated_3_00u
   owner: wykys
   repo:

@@ -18,9 +18,18 @@
   oomp:
     footprint_name: sw_tactile_spst_no_straight_ck_pts636sx25smtrlfs
     library_name: button_switch_smd
+    md5: ddfe2c3051ad89a32875398d988a57da
+    md5_10: ddfe2c3051
+    md5_5: ddfe2
+    md5_6: ddfe2c
+    oomp_key: oomp_kicad_button_switch_smd_sw_tactile_spst_no_straight_ck_pts636sx25smtrlfs
+    oomp_key_extra: oomp_footprint_kicad_button_switch_smd_sw_tactile_spst_no_straight_ck_pts636sx25smtrlfs
+    oomp_key_full: oomp_footprint_kicad_button_switch_smd_sw_tactile_spst_no_straight_ck_pts636sx25smtrlfs_ddfe2c
+    oomp_key_simple: kicad_button_switch_smd_sw_tactile_spst_no_straight_ck_pts636sx25smtrlfs
     original_filename: libraries/kicad-footprints/Button_Switch_SMD.pretty/SW_Tactile_SPST_NO_Straight_CK_PTS636Sx25SMTRLFS.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_button_switch_smd_sw_tactile_spst_no_straight_ck_pts636sx25smtrlfs
+  oomp_key_full: oomp_footprint_kicad_button_switch_smd_sw_tactile_spst_no_straight_ck_pts636sx25smtrlfs
   oomp_key_simple: kicad_button_switch_smd_sw_tactile_spst_no_straight_ck_pts636sx25smtrlfs
   owner: kicad
   repo:

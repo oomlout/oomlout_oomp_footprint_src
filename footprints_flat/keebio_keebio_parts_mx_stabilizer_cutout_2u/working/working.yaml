@@ -17,9 +17,18 @@
   oomp:
     footprint_name: mx_stabilizer_cutout_2u
     library_name: keebio_parts
+    md5: 59f11a2cc716de6060ff2cbc2397bc35
+    md5_10: 59f11a2cc7
+    md5_5: 59f11
+    md5_6: 59f11a
+    oomp_key: oomp_keebio_keebio_parts_mx_stabilizer_cutout_2u
+    oomp_key_extra: oomp_footprint_keebio_keebio_parts_mx_stabilizer_cutout_2u
+    oomp_key_full: oomp_footprint_keebio_keebio_parts_mx_stabilizer_cutout_2u_59f11a
+    oomp_key_simple: keebio_keebio_parts_mx_stabilizer_cutout_2u
     original_filename: Keebio-Parts.pretty/MX_Stabilizer_Cutout-2u.kicad_mod
     owner_name: keebio
   oomp_key: oomp_keebio_keebio_parts_mx_stabilizer_cutout_2u
+  oomp_key_full: oomp_footprint_keebio_keebio_parts_mx_stabilizer_cutout_2u
   oomp_key_simple: keebio_keebio_parts_mx_stabilizer_cutout_2u
   owner: keebio
   repo:

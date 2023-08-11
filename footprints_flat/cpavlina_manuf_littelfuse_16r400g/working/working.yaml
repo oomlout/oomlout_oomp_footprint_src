@@ -17,9 +17,18 @@
   oomp:
     footprint_name: littelfuse_16r400g
     library_name: manuf
+    md5: 377f59c221599023e99ffa312810c5cf
+    md5_10: 377f59c221
+    md5_5: 377f5
+    md5_6: 377f59
+    oomp_key: oomp_cpavlina_manuf_littelfuse_16r400g
+    oomp_key_extra: oomp_footprint_cpavlina_manuf_littelfuse_16r400g
+    oomp_key_full: oomp_footprint_cpavlina_manuf_littelfuse_16r400g_377f59
+    oomp_key_simple: cpavlina_manuf_littelfuse_16r400g
     original_filename: kicad-pcblib/manuf.pretty/LITTELFUSE-16R400G.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_manuf_littelfuse_16r400g
+  oomp_key_full: oomp_footprint_cpavlina_manuf_littelfuse_16r400g
   oomp_key_simple: cpavlina_manuf_littelfuse_16r400g
   owner: cpavlina
   repo:

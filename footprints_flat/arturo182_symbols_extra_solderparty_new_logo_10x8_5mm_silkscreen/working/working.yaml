@@ -19,9 +19,18 @@
   oomp:
     footprint_name: solderparty_new_logo_10x8_5mm_silkscreen
     library_name: symbols_extra
+    md5: e9050b21c2a7578b8331237bfa4259c1
+    md5_10: e9050b21c2
+    md5_5: e9050
+    md5_6: e9050b
+    oomp_key: oomp_arturo182_symbols_extra_solderparty_new_logo_10x8_5mm_silkscreen
+    oomp_key_extra: oomp_footprint_arturo182_symbols_extra_solderparty_new_logo_10x8_5mm_silkscreen
+    oomp_key_full: oomp_footprint_arturo182_symbols_extra_solderparty_new_logo_10x8_5mm_silkscreen_e9050b
+    oomp_key_simple: arturo182_symbols_extra_solderparty_new_logo_10x8_5mm_silkscreen
     original_filename: kicad-modules/Symbols_Extra.pretty/SolderParty-New-Logo_10x8.5mm_SilkScreen.kicad_mod
     owner_name: arturo182
   oomp_key: oomp_arturo182_symbols_extra_solderparty_new_logo_10x8_5mm_silkscreen
+  oomp_key_full: oomp_footprint_arturo182_symbols_extra_solderparty_new_logo_10x8_5mm_silkscreen
   oomp_key_simple: arturo182_symbols_extra_solderparty_new_logo_10x8_5mm_silkscreen
   owner: arturo182
   repo:

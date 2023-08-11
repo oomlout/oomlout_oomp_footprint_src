@@ -18,9 +18,18 @@
   oomp:
     footprint_name: signalcommunications_we_tmsb_0201
     library_name: signalcommunications
+    md5: a3f617265a78e7841cbcbd4383798363
+    md5_10: a3f617265a
+    md5_5: a3f61
+    md5_6: a3f617
+    oomp_key: oomp_electroniccats_signalcommunications_signalcommunications_we_tmsb_0201
+    oomp_key_extra: oomp_footprint_electroniccats_signalcommunications_signalcommunications_we_tmsb_0201
+    oomp_key_full: oomp_footprint_electroniccats_signalcommunications_signalcommunications_we_tmsb_0201_a3f617
+    oomp_key_simple: electroniccats_signalcommunications_signalcommunications_we_tmsb_0201
     original_filename: ComponentLibrariesKicadWurthElektronik/SIGNAL-COMMUNICATIONS-rev18a/SignalCommunications.pretty/SignalCommunications-WE-TMSB_0201.kicad_mod
     owner_name: electroniccats
   oomp_key: oomp_electroniccats_signalcommunications_signalcommunications_we_tmsb_0201
+  oomp_key_full: oomp_footprint_electroniccats_signalcommunications_signalcommunications_we_tmsb_0201
   oomp_key_simple: electroniccats_signalcommunications_signalcommunications_we_tmsb_0201
   owner: ElectronicCats
   repo:

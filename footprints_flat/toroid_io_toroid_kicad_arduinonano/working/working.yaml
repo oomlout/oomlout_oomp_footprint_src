@@ -17,9 +17,18 @@
   oomp:
     footprint_name: arduinonano
     library_name: toroid_kicad
+    md5: 95914a9540db9ac24bf21e499310072a
+    md5_10: 95914a9540
+    md5_5: '95914'
+    md5_6: 95914a
+    oomp_key: oomp_toroid_io_toroid_kicad_arduinonano
+    oomp_key_extra: oomp_footprint_toroid_io_toroid_kicad_arduinonano
+    oomp_key_full: oomp_footprint_toroid_io_toroid_kicad_arduinonano_95914a
+    oomp_key_simple: toroid_io_toroid_kicad_arduinonano
     original_filename: toroid-kicad.pretty/ArduinoNano.kicad_mod
     owner_name: toroid_io
   oomp_key: oomp_toroid_io_toroid_kicad_arduinonano
+  oomp_key_full: oomp_footprint_toroid_io_toroid_kicad_arduinonano
   oomp_key_simple: toroid_io_toroid_kicad_arduinonano
   owner: Toroid-io
   repo:

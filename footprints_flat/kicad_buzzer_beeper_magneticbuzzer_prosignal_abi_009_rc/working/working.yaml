@@ -17,9 +17,18 @@
   oomp:
     footprint_name: magneticbuzzer_prosignal_abi_009_rc
     library_name: buzzer_beeper
+    md5: ed097210298c19474bbe2895731296f8
+    md5_10: ed09721029
+    md5_5: ed097
+    md5_6: ed0972
+    oomp_key: oomp_kicad_buzzer_beeper_magneticbuzzer_prosignal_abi_009_rc
+    oomp_key_extra: oomp_footprint_kicad_buzzer_beeper_magneticbuzzer_prosignal_abi_009_rc
+    oomp_key_full: oomp_footprint_kicad_buzzer_beeper_magneticbuzzer_prosignal_abi_009_rc_ed0972
+    oomp_key_simple: kicad_buzzer_beeper_magneticbuzzer_prosignal_abi_009_rc
     original_filename: libraries/kicad-footprints/Buzzer_Beeper.pretty/MagneticBuzzer_ProSignal_ABI-009-RC.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_buzzer_beeper_magneticbuzzer_prosignal_abi_009_rc
+  oomp_key_full: oomp_footprint_kicad_buzzer_beeper_magneticbuzzer_prosignal_abi_009_rc
   oomp_key_simple: kicad_buzzer_beeper_magneticbuzzer_prosignal_abi_009_rc
   owner: kicad
   repo:

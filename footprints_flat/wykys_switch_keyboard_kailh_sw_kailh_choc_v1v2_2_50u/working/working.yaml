@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sw_kailh_choc_v1v2_2_50u
     library_name: switch_keyboard_kailh
+    md5: 4487eb6b6e6f06a94928e2349414bce4
+    md5_10: 4487eb6b6e
+    md5_5: 4487e
+    md5_6: 4487eb
+    oomp_key: oomp_wykys_switch_keyboard_kailh_sw_kailh_choc_v1v2_2_50u
+    oomp_key_extra: oomp_footprint_wykys_switch_keyboard_kailh_sw_kailh_choc_v1v2_2_50u
+    oomp_key_full: oomp_footprint_wykys_switch_keyboard_kailh_sw_kailh_choc_v1v2_2_50u_4487eb
+    oomp_key_simple: wykys_switch_keyboard_kailh_sw_kailh_choc_v1v2_2_50u
     original_filename: kicad/6.0/3rdparty/footprints/com_github_perigoso_keyswitch-kicad-library/Switch_Keyboard_Kailh.pretty/SW_Kailh_Choc_V1V2_2.50u.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_switch_keyboard_kailh_sw_kailh_choc_v1v2_2_50u
+  oomp_key_full: oomp_footprint_wykys_switch_keyboard_kailh_sw_kailh_choc_v1v2_2_50u
   oomp_key_simple: wykys_switch_keyboard_kailh_sw_kailh_choc_v1v2_2_50u
   owner: wykys
   repo:

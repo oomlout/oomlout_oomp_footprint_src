@@ -17,9 +17,18 @@
   oomp:
     footprint_name: r_cat16_8
     library_name: apex_smd_resistors
+    md5: c1a9a1f8959eeae19981fbdae8730945
+    md5_10: c1a9a1f895
+    md5_5: c1a9a
+    md5_6: c1a9a1
+    oomp_key: oomp_apexelectrix_apex_smd_resistors_r_cat16_8
+    oomp_key_extra: oomp_footprint_apexelectrix_apex_smd_resistors_r_cat16_8
+    oomp_key_full: oomp_footprint_apexelectrix_apex_smd_resistors_r_cat16_8_c1a9a1
+    oomp_key_simple: apexelectrix_apex_smd_resistors_r_cat16_8
     original_filename: apex-smd-resistors.pretty/R_Cat16-8.kicad_mod
     owner_name: apexelectrix
   oomp_key: oomp_apexelectrix_apex_smd_resistors_r_cat16_8
+  oomp_key_full: oomp_footprint_apexelectrix_apex_smd_resistors_r_cat16_8
   oomp_key_simple: apexelectrix_apex_smd_resistors_r_cat16_8
   owner: apexelectrix
   repo:

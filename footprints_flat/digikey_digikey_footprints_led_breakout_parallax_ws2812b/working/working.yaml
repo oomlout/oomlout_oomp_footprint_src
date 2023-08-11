@@ -17,9 +17,18 @@
   oomp:
     footprint_name: led_breakout_parallax_ws2812b
     library_name: digikey_footprints
+    md5: cb54783553ac3be27529261fc0ec1b09
+    md5_10: cb54783553
+    md5_5: cb547
+    md5_6: cb5478
+    oomp_key: oomp_digikey_digikey_footprints_led_breakout_parallax_ws2812b
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_led_breakout_parallax_ws2812b
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_led_breakout_parallax_ws2812b_cb5478
+    oomp_key_simple: digikey_digikey_footprints_led_breakout_parallax_ws2812b
     original_filename: digikey-kicad-library/digikey-footprints.pretty/LED_Breakout_Parallax_WS2812B.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_led_breakout_parallax_ws2812b
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_led_breakout_parallax_ws2812b
   oomp_key_simple: digikey_digikey_footprints_led_breakout_parallax_ws2812b
   owner: digikey
   repo:

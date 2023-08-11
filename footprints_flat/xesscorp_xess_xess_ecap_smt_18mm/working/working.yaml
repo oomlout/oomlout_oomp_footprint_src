@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_ecap_smt_18mm
     library_name: xess
+    md5: 4d39fc831d5c54ee010cf3898dbb42c2
+    md5_10: 4d39fc831d
+    md5_5: 4d39f
+    md5_6: 4d39fc
+    oomp_key: oomp_xesscorp_xess_xess_ecap_smt_18mm
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_ecap_smt_18mm
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_ecap_smt_18mm_4d39fc
+    oomp_key_simple: xesscorp_xess_xess_ecap_smt_18mm
     original_filename: xess.pretty/xess-ECAP-SMT-18MM.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_ecap_smt_18mm
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_ecap_smt_18mm
   oomp_key_simple: xesscorp_xess_xess_ecap_smt_18mm
   owner: xesscorp
   repo:

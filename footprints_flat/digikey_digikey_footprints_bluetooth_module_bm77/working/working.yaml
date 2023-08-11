@@ -17,9 +17,18 @@
   oomp:
     footprint_name: bluetooth_module_bm77
     library_name: digikey_footprints
+    md5: 3500f1f8af94f00083c582c523df3e9e
+    md5_10: 3500f1f8af
+    md5_5: 3500f
+    md5_6: 3500f1
+    oomp_key: oomp_digikey_digikey_footprints_bluetooth_module_bm77
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_bluetooth_module_bm77
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_bluetooth_module_bm77_3500f1
+    oomp_key_simple: digikey_digikey_footprints_bluetooth_module_bm77
     original_filename: digikey-kicad-library/digikey-footprints.pretty/Bluetooth_Module_BM77.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_bluetooth_module_bm77
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_bluetooth_module_bm77
   oomp_key_simple: digikey_digikey_footprints_bluetooth_module_bm77
   owner: digikey
   repo:

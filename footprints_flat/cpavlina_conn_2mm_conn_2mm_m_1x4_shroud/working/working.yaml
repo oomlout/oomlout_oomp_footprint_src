@@ -17,9 +17,18 @@
   oomp:
     footprint_name: conn_2mm_m_1x4_shroud
     library_name: conn_2mm
+    md5: e80eff335790610a4f6219c015100c92
+    md5_10: e80eff3357
+    md5_5: e80ef
+    md5_6: e80eff
+    oomp_key: oomp_cpavlina_conn_2mm_conn_2mm_m_1x4_shroud
+    oomp_key_extra: oomp_footprint_cpavlina_conn_2mm_conn_2mm_m_1x4_shroud
+    oomp_key_full: oomp_footprint_cpavlina_conn_2mm_conn_2mm_m_1x4_shroud_e80eff
+    oomp_key_simple: cpavlina_conn_2mm_conn_2mm_m_1x4_shroud
     original_filename: kicad-pcblib/conn-2mm.pretty/CONN-2MM-M-1x4-SHROUD.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_conn_2mm_conn_2mm_m_1x4_shroud
+  oomp_key_full: oomp_footprint_cpavlina_conn_2mm_conn_2mm_m_1x4_shroud
   oomp_key_simple: cpavlina_conn_2mm_conn_2mm_m_1x4_shroud
   owner: cpavlina
   repo:

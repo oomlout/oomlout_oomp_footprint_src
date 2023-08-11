@@ -17,9 +17,18 @@
   oomp:
     footprint_name: silk
     library_name: keebee
+    md5: 1e07ffcef22998eaad087beeccbbb7fd
+    md5_10: 1e07ffcef2
+    md5_5: 1e07f
+    md5_6: 1e07ff
+    oomp_key: oomp_jmding8_keebee_silk
+    oomp_key_extra: oomp_footprint_jmding8_keebee_silk
+    oomp_key_full: oomp_footprint_jmding8_keebee_silk_1e07ff
+    oomp_key_simple: jmding8_keebee_silk
     original_filename: keebee.pretty/silk.kicad_mod
     owner_name: jmding8
   oomp_key: oomp_jmding8_keebee_silk
+  oomp_key_full: oomp_footprint_jmding8_keebee_silk
   oomp_key_simple: jmding8_keebee_silk
   owner: jmding8
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: rcv
     library_name: rf
+    md5: 227f127d6e3c62b72747a57f13c3e045
+    md5_10: 227f127d6e
+    md5_5: 227f1
+    md5_6: 227f12
+    oomp_key: oomp_wykys_rf_rcv
+    oomp_key_extra: oomp_footprint_wykys_rf_rcv
+    oomp_key_full: oomp_footprint_wykys_rf_rcv_227f12
+    oomp_key_simple: wykys_rf_rcv
     original_filename: kicad/mods/RF.pretty/RCV.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_rf_rcv
+  oomp_key_full: oomp_footprint_wykys_rf_rcv
   oomp_key_simple: wykys_rf_rcv
   owner: wykys
   repo:

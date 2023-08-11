@@ -17,9 +17,18 @@
   oomp:
     footprint_name: wlcsp72
     library_name: agg
+    md5: aa29a5e31b4adc0fb9d525ee1123caa6
+    md5_10: aa29a5e31b
+    md5_5: aa29a
+    md5_6: aa29a5
+    oomp_key: oomp_adamgreig_agg_wlcsp72
+    oomp_key_extra: oomp_footprint_adamgreig_agg_wlcsp72
+    oomp_key_full: oomp_footprint_adamgreig_agg_wlcsp72_aa29a5
+    oomp_key_simple: adamgreig_agg_wlcsp72
     original_filename: agg-kicad/agg.pretty/WLCSP72.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_wlcsp72
+  oomp_key_full: oomp_footprint_adamgreig_agg_wlcsp72
   oomp_key_simple: adamgreig_agg_wlcsp72
   owner: adamgreig
   repo:

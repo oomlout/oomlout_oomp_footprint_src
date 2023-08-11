@@ -17,9 +17,18 @@
   oomp:
     footprint_name: s07b_pask_2
     library_name: agg
+    md5: 80c072fac26649a6bf5c2aa042976ad3
+    md5_10: 80c072fac2
+    md5_5: 80c07
+    md5_6: 80c072
+    oomp_key: oomp_adamgreig_agg_s07b_pask_2
+    oomp_key_extra: oomp_footprint_adamgreig_agg_s07b_pask_2
+    oomp_key_full: oomp_footprint_adamgreig_agg_s07b_pask_2_80c072
+    oomp_key_simple: adamgreig_agg_s07b_pask_2
     original_filename: agg-kicad/agg.pretty/S07B-PASK-2.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_s07b_pask_2
+  oomp_key_full: oomp_footprint_adamgreig_agg_s07b_pask_2
   oomp_key_simple: adamgreig_agg_s07b_pask_2
   owner: adamgreig
   repo:

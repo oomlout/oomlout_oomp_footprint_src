@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sw_push_e_switch_fs5700dp_dpdt
     library_name: button_switch_tht
+    md5: 60d7d7f6b845cd8ccb83ed17eacb058b
+    md5_10: 60d7d7f6b8
+    md5_5: 60d7d
+    md5_6: 60d7d7
+    oomp_key: oomp_kicad_button_switch_tht_sw_push_e_switch_fs5700dp_dpdt
+    oomp_key_extra: oomp_footprint_kicad_button_switch_tht_sw_push_e_switch_fs5700dp_dpdt
+    oomp_key_full: oomp_footprint_kicad_button_switch_tht_sw_push_e_switch_fs5700dp_dpdt_60d7d7
+    oomp_key_simple: kicad_button_switch_tht_sw_push_e_switch_fs5700dp_dpdt
     original_filename: libraries/kicad-footprints/Button_Switch_THT.pretty/SW_PUSH_E-Switch_FS5700DP_DPDT.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_button_switch_tht_sw_push_e_switch_fs5700dp_dpdt
+  oomp_key_full: oomp_footprint_kicad_button_switch_tht_sw_push_e_switch_fs5700dp_dpdt
   oomp_key_simple: kicad_button_switch_tht_sw_push_e_switch_fs5700dp_dpdt
   owner: kicad
   repo:

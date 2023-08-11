@@ -17,9 +17,18 @@
   oomp:
     footprint_name: standalone_1x11
     library_name: 2_54mm_pin_headers
+    md5: 5ff3cf8cb3ad378834fdb3c43b4daa2f
+    md5_10: 5ff3cf8cb3
+    md5_5: 5ff3c
+    md5_6: 5ff3cf
+    oomp_key: oomp_johslarsen_2_54mm_pin_headers_standalone_1x11
+    oomp_key_extra: oomp_footprint_johslarsen_2_54mm_pin_headers_standalone_1x11
+    oomp_key_full: oomp_footprint_johslarsen_2_54mm_pin_headers_standalone_1x11_5ff3cf
+    oomp_key_simple: johslarsen_2_54mm_pin_headers_standalone_1x11
     original_filename: 2.54mm_Pin_Headers.pretty/Standalone_1x11.kicad_mod
     owner_name: johslarsen
   oomp_key: oomp_johslarsen_2_54mm_pin_headers_standalone_1x11
+  oomp_key_full: oomp_footprint_johslarsen_2_54mm_pin_headers_standalone_1x11
   oomp_key_simple: johslarsen_2_54mm_pin_headers_standalone_1x11
   owner: johslarsen
   repo:

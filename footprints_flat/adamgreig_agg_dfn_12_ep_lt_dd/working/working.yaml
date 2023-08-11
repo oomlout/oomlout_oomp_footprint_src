@@ -17,9 +17,18 @@
   oomp:
     footprint_name: dfn_12_ep_lt_dd
     library_name: agg
+    md5: 0669f4af9835e318d5cfc0a230b1db69
+    md5_10: 0669f4af98
+    md5_5: 0669f
+    md5_6: 0669f4
+    oomp_key: oomp_adamgreig_agg_dfn_12_ep_lt_dd
+    oomp_key_extra: oomp_footprint_adamgreig_agg_dfn_12_ep_lt_dd
+    oomp_key_full: oomp_footprint_adamgreig_agg_dfn_12_ep_lt_dd_0669f4
+    oomp_key_simple: adamgreig_agg_dfn_12_ep_lt_dd
     original_filename: agg-kicad/agg.pretty/DFN-12-EP-LT-DD.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_dfn_12_ep_lt_dd
+  oomp_key_full: oomp_footprint_adamgreig_agg_dfn_12_ep_lt_dd
   oomp_key_simple: adamgreig_agg_dfn_12_ep_lt_dd
   owner: adamgreig
   repo:

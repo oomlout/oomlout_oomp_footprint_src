@@ -17,9 +17,18 @@
   oomp:
     footprint_name: heatsink_stonecold_hs_s02_13_21x9_53mm
     library_name: heatsink
+    md5: a99ef6bd3a4e9fb44e0b66e265ba02ac
+    md5_10: a99ef6bd3a
+    md5_5: a99ef
+    md5_6: a99ef6
+    oomp_key: oomp_kicad_heatsink_heatsink_stonecold_hs_s02_13_21x9_53mm
+    oomp_key_extra: oomp_footprint_kicad_heatsink_heatsink_stonecold_hs_s02_13_21x9_53mm
+    oomp_key_full: oomp_footprint_kicad_heatsink_heatsink_stonecold_hs_s02_13_21x9_53mm_a99ef6
+    oomp_key_simple: kicad_heatsink_heatsink_stonecold_hs_s02_13_21x9_53mm
     original_filename: libraries/kicad-footprints/Heatsink.pretty/Heatsink_Stonecold_HS-S02_13.21x9.53mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_heatsink_heatsink_stonecold_hs_s02_13_21x9_53mm
+  oomp_key_full: oomp_footprint_kicad_heatsink_heatsink_stonecold_hs_s02_13_21x9_53mm
   oomp_key_simple: kicad_heatsink_heatsink_stonecold_hs_s02_13_21x9_53mm
   owner: kicad
   repo:

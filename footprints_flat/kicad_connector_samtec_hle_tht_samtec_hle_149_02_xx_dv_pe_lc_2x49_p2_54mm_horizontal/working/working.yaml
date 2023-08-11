@@ -19,9 +19,18 @@
   oomp:
     footprint_name: samtec_hle_149_02_xx_dv_pe_lc_2x49_p2_54mm_horizontal
     library_name: connector_samtec_hle_tht
+    md5: b1621622ecc8d9714fe12e3c4c02a8c9
+    md5_10: b1621622ec
+    md5_5: b1621
+    md5_6: b16216
+    oomp_key: oomp_kicad_connector_samtec_hle_tht_samtec_hle_149_02_xx_dv_pe_lc_2x49_p2_54mm_horizontal
+    oomp_key_extra: oomp_footprint_kicad_connector_samtec_hle_tht_samtec_hle_149_02_xx_dv_pe_lc_2x49_p2_54mm_horizontal
+    oomp_key_full: oomp_footprint_kicad_connector_samtec_hle_tht_samtec_hle_149_02_xx_dv_pe_lc_2x49_p2_54mm_horizontal_b16216
+    oomp_key_simple: kicad_connector_samtec_hle_tht_samtec_hle_149_02_xx_dv_pe_lc_2x49_p2_54mm_horizontal
     original_filename: libraries/kicad-footprints/Connector_Samtec_HLE_THT.pretty/Samtec_HLE-149-02-xx-DV-PE-LC_2x49_P2.54mm_Horizontal.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_samtec_hle_tht_samtec_hle_149_02_xx_dv_pe_lc_2x49_p2_54mm_horizontal
+  oomp_key_full: oomp_footprint_kicad_connector_samtec_hle_tht_samtec_hle_149_02_xx_dv_pe_lc_2x49_p2_54mm_horizontal
   oomp_key_simple: kicad_connector_samtec_hle_tht_samtec_hle_149_02_xx_dv_pe_lc_2x49_p2_54mm_horizontal
   owner: kicad
   repo:

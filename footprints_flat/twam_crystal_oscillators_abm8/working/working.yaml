@@ -17,9 +17,18 @@
   oomp:
     footprint_name: abm8
     library_name: crystal_oscillators
+    md5: 7a69801f6233424c9d6f4d9771cf764a
+    md5_10: 7a69801f62
+    md5_5: 7a698
+    md5_6: 7a6980
+    oomp_key: oomp_twam_crystal_oscillators_abm8
+    oomp_key_extra: oomp_footprint_twam_crystal_oscillators_abm8
+    oomp_key_full: oomp_footprint_twam_crystal_oscillators_abm8_7a6980
+    oomp_key_simple: twam_crystal_oscillators_abm8
     original_filename: Crystal_Oscillators.pretty/ABM8.kicad_mod
     owner_name: twam
   oomp_key: oomp_twam_crystal_oscillators_abm8
+  oomp_key_full: oomp_footprint_twam_crystal_oscillators_abm8
   oomp_key_simple: twam_crystal_oscillators_abm8
   owner: twam
   repo:

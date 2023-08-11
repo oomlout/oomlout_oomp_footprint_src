@@ -18,9 +18,18 @@
   oomp:
     footprint_name: usb_c_receptacle_gct_usb4135_gf_a_6p_topmnt_horizontal
     library_name: connector_usb
+    md5: 7dbff17d71846af83a07111fbbc8f296
+    md5_10: 7dbff17d71
+    md5_5: 7dbff
+    md5_6: 7dbff1
+    oomp_key: oomp_kicad_connector_usb_usb_c_receptacle_gct_usb4135_gf_a_6p_topmnt_horizontal
+    oomp_key_extra: oomp_footprint_kicad_connector_usb_usb_c_receptacle_gct_usb4135_gf_a_6p_topmnt_horizontal
+    oomp_key_full: oomp_footprint_kicad_connector_usb_usb_c_receptacle_gct_usb4135_gf_a_6p_topmnt_horizontal_7dbff1
+    oomp_key_simple: kicad_connector_usb_usb_c_receptacle_gct_usb4135_gf_a_6p_topmnt_horizontal
     original_filename: libraries/kicad-footprints/Connector_USB.pretty/USB_C_Receptacle_GCT_USB4135-GF-A_6P_TopMnt_Horizontal.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_usb_usb_c_receptacle_gct_usb4135_gf_a_6p_topmnt_horizontal
+  oomp_key_full: oomp_footprint_kicad_connector_usb_usb_c_receptacle_gct_usb4135_gf_a_6p_topmnt_horizontal
   oomp_key_simple: kicad_connector_usb_usb_c_receptacle_gct_usb4135_gf_a_6p_topmnt_horizontal
   owner: kicad
   repo:

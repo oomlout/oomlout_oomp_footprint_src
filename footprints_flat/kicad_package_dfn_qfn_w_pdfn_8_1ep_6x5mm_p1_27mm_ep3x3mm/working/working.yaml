@@ -18,9 +18,18 @@
   oomp:
     footprint_name: w_pdfn_8_1ep_6x5mm_p1_27mm_ep3x3mm
     library_name: package_dfn_qfn
+    md5: 9fad420a0a3ad2acc9d0a9a1f64333a7
+    md5_10: 9fad420a0a
+    md5_5: 9fad4
+    md5_6: 9fad42
+    oomp_key: oomp_kicad_package_dfn_qfn_w_pdfn_8_1ep_6x5mm_p1_27mm_ep3x3mm
+    oomp_key_extra: oomp_footprint_kicad_package_dfn_qfn_w_pdfn_8_1ep_6x5mm_p1_27mm_ep3x3mm
+    oomp_key_full: oomp_footprint_kicad_package_dfn_qfn_w_pdfn_8_1ep_6x5mm_p1_27mm_ep3x3mm_9fad42
+    oomp_key_simple: kicad_package_dfn_qfn_w_pdfn_8_1ep_6x5mm_p1_27mm_ep3x3mm
     original_filename: libraries/kicad-footprints/Package_DFN_QFN.pretty/W-PDFN-8-1EP_6x5mm_P1.27mm_EP3x3mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_dfn_qfn_w_pdfn_8_1ep_6x5mm_p1_27mm_ep3x3mm
+  oomp_key_full: oomp_footprint_kicad_package_dfn_qfn_w_pdfn_8_1ep_6x5mm_p1_27mm_ep3x3mm
   oomp_key_simple: kicad_package_dfn_qfn_w_pdfn_8_1ep_6x5mm_p1_27mm_ep3x3mm
   owner: kicad
   repo:

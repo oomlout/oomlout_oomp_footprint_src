@@ -17,9 +17,18 @@
   oomp:
     footprint_name: oscillator_mems_sit1533ai_h4_dcc_32_768e
     library_name: digikey_footprints
+    md5: 15be03b9ead1acca198860f0150bf90c
+    md5_10: 15be03b9ea
+    md5_5: 15be0
+    md5_6: 15be03
+    oomp_key: oomp_digikey_digikey_footprints_oscillator_mems_sit1533ai_h4_dcc_32_768e
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_oscillator_mems_sit1533ai_h4_dcc_32_768e
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_oscillator_mems_sit1533ai_h4_dcc_32_768e_15be03
+    oomp_key_simple: digikey_digikey_footprints_oscillator_mems_sit1533ai_h4_dcc_32_768e
     original_filename: digikey-kicad-library/digikey-footprints.pretty/Oscillator_MEMS_SIT1533AI-H4-DCC-32.768E.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_oscillator_mems_sit1533ai_h4_dcc_32_768e
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_oscillator_mems_sit1533ai_h4_dcc_32_768e
   oomp_key_simple: digikey_digikey_footprints_oscillator_mems_sit1533ai_h4_dcc_32_768e
   owner: digikey
   repo:

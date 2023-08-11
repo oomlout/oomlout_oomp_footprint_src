@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ptn7820h
     library_name: usst_footprints
+    md5: 73b103ba14bc1aa905661be5504686ee
+    md5_10: 73b103ba14
+    md5_5: 73b10
+    md5_6: 73b103
+    oomp_key: oomp_uofsspaceteam_usst_footprints_ptn7820h
+    oomp_key_extra: oomp_footprint_uofsspaceteam_usst_footprints_ptn7820h
+    oomp_key_full: oomp_footprint_uofsspaceteam_usst_footprints_ptn7820h_73b103
+    oomp_key_simple: uofsspaceteam_usst_footprints_ptn7820h
     original_filename: USST-footprints.pretty/PTN7820H.kicad_mod
     owner_name: uofsspaceteam
   oomp_key: oomp_uofsspaceteam_usst_footprints_ptn7820h
+  oomp_key_full: oomp_footprint_uofsspaceteam_usst_footprints_ptn7820h
   oomp_key_simple: uofsspaceteam_usst_footprints_ptn7820h
   owner: UofSSpaceTeam
   repo:

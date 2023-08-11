@@ -17,9 +17,18 @@
   oomp:
     footprint_name: esp32_devkit_v1_doit_jwm
     library_name: jwm_kicad_footprints_misc
+    md5: c9158517e792ecd1eae00341e4d96f61
+    md5_10: c9158517e7
+    md5_5: c9158
+    md5_6: c91585
+    oomp_key: oomp_joem_jwm_kicad_footprints_misc_esp32_devkit_v1_doit_jwm
+    oomp_key_extra: oomp_footprint_joem_jwm_kicad_footprints_misc_esp32_devkit_v1_doit_jwm
+    oomp_key_full: oomp_footprint_joem_jwm_kicad_footprints_misc_esp32_devkit_v1_doit_jwm_c91585
+    oomp_key_simple: joem_jwm_kicad_footprints_misc_esp32_devkit_v1_doit_jwm
     original_filename: jwm_kicad_footprints_misc.pretty/ESP32_Devkit_V1_DOIT_JWM.kicad_mod
     owner_name: joem
   oomp_key: oomp_joem_jwm_kicad_footprints_misc_esp32_devkit_v1_doit_jwm
+  oomp_key_full: oomp_footprint_joem_jwm_kicad_footprints_misc_esp32_devkit_v1_doit_jwm
   oomp_key_simple: joem_jwm_kicad_footprints_misc_esp32_devkit_v1_doit_jwm
   owner: joem
   repo:

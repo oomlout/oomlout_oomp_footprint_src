@@ -17,9 +17,18 @@
   oomp:
     footprint_name: adafruit_ssd1306
     library_name: display
+    md5: 0e30082dfcbfbfbed8043285ea3e5130
+    md5_10: 0e30082dfc
+    md5_5: 0e300
+    md5_6: 0e3008
+    oomp_key: oomp_kicad_display_adafruit_ssd1306
+    oomp_key_extra: oomp_footprint_kicad_display_adafruit_ssd1306
+    oomp_key_full: oomp_footprint_kicad_display_adafruit_ssd1306_0e3008
+    oomp_key_simple: kicad_display_adafruit_ssd1306
     original_filename: libraries/kicad-footprints/Display.pretty/Adafruit_SSD1306.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_display_adafruit_ssd1306
+  oomp_key_full: oomp_footprint_kicad_display_adafruit_ssd1306
   oomp_key_simple: kicad_display_adafruit_ssd1306
   owner: kicad
   repo:

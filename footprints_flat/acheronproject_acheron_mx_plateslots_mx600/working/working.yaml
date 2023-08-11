@@ -17,9 +17,18 @@
   oomp:
     footprint_name: mx600
     library_name: acheron_mx_plateslots
+    md5: 84d450aecb5717fa2eab567a618e5460
+    md5_10: 84d450aecb
+    md5_5: 84d45
+    md5_6: 84d450
+    oomp_key: oomp_acheronproject_acheron_mx_plateslots_mx600
+    oomp_key_extra: oomp_footprint_acheronproject_acheron_mx_plateslots_mx600
+    oomp_key_full: oomp_footprint_acheronproject_acheron_mx_plateslots_mx600_84d450
+    oomp_key_simple: acheronproject_acheron_mx_plateslots_mx600
     original_filename: acheron_MX_PlateSlots.pretty/MX600.kicad_mod
     owner_name: acheronproject
   oomp_key: oomp_acheronproject_acheron_mx_plateslots_mx600
+  oomp_key_full: oomp_footprint_acheronproject_acheron_mx_plateslots_mx600
   oomp_key_simple: acheronproject_acheron_mx_plateslots_mx600
   owner: AcheronProject
   repo:

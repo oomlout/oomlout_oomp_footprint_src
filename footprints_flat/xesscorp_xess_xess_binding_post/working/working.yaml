@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_binding_post
     library_name: xess
+    md5: ac07177734c6c0e0026d9cfd39ee8d18
+    md5_10: ac07177734
+    md5_5: ac071
+    md5_6: ac0717
+    oomp_key: oomp_xesscorp_xess_xess_binding_post
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_binding_post
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_binding_post_ac0717
+    oomp_key_simple: xesscorp_xess_xess_binding_post
     original_filename: xess.pretty/xess-BINDING_POST.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_binding_post
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_binding_post
   oomp_key_simple: xesscorp_xess_xess_binding_post
   owner: xesscorp
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: soic254p1821x1321_8
     library_name: ipc7351_least
+    md5: 28a2ac7a426936a2402d1fbdb7ba147f
+    md5_10: 28a2ac7a42
+    md5_5: 28a2a
+    md5_6: 28a2ac
+    oomp_key: oomp_cpavlina_ipc7351_least_soic254p1821x1321_8
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_least_soic254p1821x1321_8
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_least_soic254p1821x1321_8_28a2ac
+    oomp_key_simple: cpavlina_ipc7351_least_soic254p1821x1321_8
     original_filename: kicad-pcblib/IPC7351-Least.pretty/SOIC254P1821X1321-8.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_least_soic254p1821x1321_8
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_least_soic254p1821x1321_8
   oomp_key_simple: cpavlina_ipc7351_least_soic254p1821x1321_8
   owner: cpavlina
   repo:

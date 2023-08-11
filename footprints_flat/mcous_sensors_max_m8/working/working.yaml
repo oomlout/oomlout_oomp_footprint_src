@@ -17,9 +17,18 @@
   oomp:
     footprint_name: max_m8
     library_name: _sensors
+    md5: adb1242b1e436311c9ababa93b94673c
+    md5_10: adb1242b1e
+    md5_5: adb12
+    md5_6: adb124
+    oomp_key: oomp_mcous_sensors_max_m8
+    oomp_key_extra: oomp_footprint_mcous_sensors_max_m8
+    oomp_key_full: oomp_footprint_mcous_sensors_max_m8_adb124
+    oomp_key_simple: mcous_sensors_max_m8
     original_filename: kicad-lib/footprints/_sensors.pretty/MAX-M8.kicad_mod
     owner_name: mcous
   oomp_key: oomp_mcous_sensors_max_m8
+  oomp_key_full: oomp_footprint_mcous_sensors_max_m8
   oomp_key_simple: mcous_sensors_max_m8
   owner: mcous
   repo:

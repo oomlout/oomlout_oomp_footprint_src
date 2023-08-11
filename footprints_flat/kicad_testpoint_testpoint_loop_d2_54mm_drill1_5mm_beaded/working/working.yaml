@@ -18,9 +18,18 @@
   oomp:
     footprint_name: testpoint_loop_d2_54mm_drill1_5mm_beaded
     library_name: testpoint
+    md5: 7023dd94cebd48eaabd1e20f303f5bde
+    md5_10: 7023dd94ce
+    md5_5: 7023d
+    md5_6: 7023dd
+    oomp_key: oomp_kicad_testpoint_testpoint_loop_d2_54mm_drill1_5mm_beaded
+    oomp_key_extra: oomp_footprint_kicad_testpoint_testpoint_loop_d2_54mm_drill1_5mm_beaded
+    oomp_key_full: oomp_footprint_kicad_testpoint_testpoint_loop_d2_54mm_drill1_5mm_beaded_7023dd
+    oomp_key_simple: kicad_testpoint_testpoint_loop_d2_54mm_drill1_5mm_beaded
     original_filename: libraries/kicad-footprints/TestPoint.pretty/TestPoint_Loop_D2.54mm_Drill1.5mm_Beaded.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_testpoint_testpoint_loop_d2_54mm_drill1_5mm_beaded
+  oomp_key_full: oomp_footprint_kicad_testpoint_testpoint_loop_d2_54mm_drill1_5mm_beaded
   oomp_key_simple: kicad_testpoint_testpoint_loop_d2_54mm_drill1_5mm_beaded
   owner: kicad
   repo:

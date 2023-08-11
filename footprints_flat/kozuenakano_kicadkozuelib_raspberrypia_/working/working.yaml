@@ -17,9 +17,18 @@
   oomp:
     footprint_name: raspberrypia_
     library_name: kicadkozuelib
+    md5: 595af148022821543fd93b95aa5870cc
+    md5_10: 595af14802
+    md5_5: 595af
+    md5_6: 595af1
+    oomp_key: oomp_kozuenakano_kicadkozuelib_raspberrypia_
+    oomp_key_extra: oomp_footprint_kozuenakano_kicadkozuelib_raspberrypia_
+    oomp_key_full: oomp_footprint_kozuenakano_kicadkozuelib_raspberrypia__595af1
+    oomp_key_simple: kozuenakano_kicadkozuelib_raspberrypia_
     original_filename: KiCADKozueLib.pretty/RaspberryPiA+.kicad_mod
     owner_name: kozuenakano
   oomp_key: oomp_kozuenakano_kicadkozuelib_raspberrypia_
+  oomp_key_full: oomp_footprint_kozuenakano_kicadkozuelib_raspberrypia_
   oomp_key_simple: kozuenakano_kicadkozuelib_raspberrypia_
   owner: KozueNakano
   repo:

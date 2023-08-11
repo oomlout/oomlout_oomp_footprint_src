@@ -17,9 +17,18 @@
   oomp:
     footprint_name: dil_254p_24
     library_name: agg
+    md5: 790b9e6fe20e8ac8934fa4ceb5eaadd6
+    md5_10: 790b9e6fe2
+    md5_5: 790b9
+    md5_6: 790b9e
+    oomp_key: oomp_adamgreig_agg_dil_254p_24
+    oomp_key_extra: oomp_footprint_adamgreig_agg_dil_254p_24
+    oomp_key_full: oomp_footprint_adamgreig_agg_dil_254p_24_790b9e
+    oomp_key_simple: adamgreig_agg_dil_254p_24
     original_filename: agg-kicad/agg.pretty/DIL-254P-24.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_dil_254p_24
+  oomp_key_full: oomp_footprint_adamgreig_agg_dil_254p_24
   oomp_key_simple: adamgreig_agg_dil_254p_24
   owner: adamgreig
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: bm02b_pass
     library_name: agg
+    md5: 7f68e69371a0122f828ec1c8084a8006
+    md5_10: 7f68e69371
+    md5_5: 7f68e
+    md5_6: 7f68e6
+    oomp_key: oomp_adamgreig_agg_bm02b_pass
+    oomp_key_extra: oomp_footprint_adamgreig_agg_bm02b_pass
+    oomp_key_full: oomp_footprint_adamgreig_agg_bm02b_pass_7f68e6
+    oomp_key_simple: adamgreig_agg_bm02b_pass
     original_filename: agg-kicad/agg.pretty/BM02B-PASS.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_bm02b_pass
+  oomp_key_full: oomp_footprint_adamgreig_agg_bm02b_pass
   oomp_key_simple: adamgreig_agg_bm02b_pass
   owner: adamgreig
   repo:

@@ -18,9 +18,18 @@
   oomp:
     footprint_name: lqfp_52_14x14mm_p1mm
     library_name: package_qfp
+    md5: 726aa239ffc185cc88a42ba739bd11fc
+    md5_10: 726aa239ff
+    md5_5: 726aa
+    md5_6: 726aa2
+    oomp_key: oomp_kicad_package_qfp_lqfp_52_14x14mm_p1mm
+    oomp_key_extra: oomp_footprint_kicad_package_qfp_lqfp_52_14x14mm_p1mm
+    oomp_key_full: oomp_footprint_kicad_package_qfp_lqfp_52_14x14mm_p1mm_726aa2
+    oomp_key_simple: kicad_package_qfp_lqfp_52_14x14mm_p1mm
     original_filename: libraries/kicad-footprints/Package_QFP.pretty/LQFP-52_14x14mm_P1mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_qfp_lqfp_52_14x14mm_p1mm
+  oomp_key_full: oomp_footprint_kicad_package_qfp_lqfp_52_14x14mm_p1mm
   oomp_key_simple: kicad_package_qfp_lqfp_52_14x14mm_p1mm
   owner: kicad
   repo:

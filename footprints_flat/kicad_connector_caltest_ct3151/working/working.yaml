@@ -17,9 +17,18 @@
   oomp:
     footprint_name: caltest_ct3151
     library_name: connector
+    md5: 4f9e220cb694f28687959369d1b43c52
+    md5_10: 4f9e220cb6
+    md5_5: 4f9e2
+    md5_6: 4f9e22
+    oomp_key: oomp_kicad_connector_caltest_ct3151
+    oomp_key_extra: oomp_footprint_kicad_connector_caltest_ct3151
+    oomp_key_full: oomp_footprint_kicad_connector_caltest_ct3151_4f9e22
+    oomp_key_simple: kicad_connector_caltest_ct3151
     original_filename: libraries/kicad-footprints/Connector.pretty/CalTest_CT3151.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_caltest_ct3151
+  oomp_key_full: oomp_footprint_kicad_connector_caltest_ct3151
   oomp_key_simple: kicad_connector_caltest_ct3151
   owner: kicad
   repo:

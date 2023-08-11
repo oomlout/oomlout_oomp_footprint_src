@@ -17,9 +17,18 @@
   oomp:
     footprint_name: diodes_sip_3_4_1x1_5mm_p2_65mm
     library_name: sensor_current
+    md5: cf31a3ebd661d9f1cf286938136c5e55
+    md5_10: cf31a3ebd6
+    md5_5: cf31a
+    md5_6: cf31a3
+    oomp_key: oomp_kicad_sensor_current_diodes_sip_3_4_1x1_5mm_p2_65mm
+    oomp_key_extra: oomp_footprint_kicad_sensor_current_diodes_sip_3_4_1x1_5mm_p2_65mm
+    oomp_key_full: oomp_footprint_kicad_sensor_current_diodes_sip_3_4_1x1_5mm_p2_65mm_cf31a3
+    oomp_key_simple: kicad_sensor_current_diodes_sip_3_4_1x1_5mm_p2_65mm
     original_filename: libraries/kicad-footprints/Sensor_Current.pretty/Diodes_SIP-3_4.1x1.5mm_P2.65mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_sensor_current_diodes_sip_3_4_1x1_5mm_p2_65mm
+  oomp_key_full: oomp_footprint_kicad_sensor_current_diodes_sip_3_4_1x1_5mm_p2_65mm
   oomp_key_simple: kicad_sensor_current_diodes_sip_3_4_1x1_5mm_p2_65mm
   owner: kicad
   repo:

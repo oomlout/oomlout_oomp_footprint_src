@@ -17,9 +17,18 @@
   oomp:
     footprint_name: r_array_convex_2x0603
     library_name: resistor_smd
+    md5: 48ac159bc0f5a6d0585a5bd2a8dae6ea
+    md5_10: 48ac159bc0
+    md5_5: 48ac1
+    md5_6: 48ac15
+    oomp_key: oomp_kicad_resistor_smd_r_array_convex_2x0603
+    oomp_key_extra: oomp_footprint_kicad_resistor_smd_r_array_convex_2x0603
+    oomp_key_full: oomp_footprint_kicad_resistor_smd_r_array_convex_2x0603_48ac15
+    oomp_key_simple: kicad_resistor_smd_r_array_convex_2x0603
     original_filename: libraries/kicad-footprints/Resistor_SMD.pretty/R_Array_Convex_2x0603.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_resistor_smd_r_array_convex_2x0603
+  oomp_key_full: oomp_footprint_kicad_resistor_smd_r_array_convex_2x0603
   oomp_key_simple: kicad_resistor_smd_r_array_convex_2x0603
   owner: kicad
   repo:

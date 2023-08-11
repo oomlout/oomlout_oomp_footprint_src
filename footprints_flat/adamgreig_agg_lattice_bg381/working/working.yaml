@@ -17,9 +17,18 @@
   oomp:
     footprint_name: lattice_bg381
     library_name: agg
+    md5: c5ac5282afb4ff863004ec5eab27fb21
+    md5_10: c5ac5282af
+    md5_5: c5ac5
+    md5_6: c5ac52
+    oomp_key: oomp_adamgreig_agg_lattice_bg381
+    oomp_key_extra: oomp_footprint_adamgreig_agg_lattice_bg381
+    oomp_key_full: oomp_footprint_adamgreig_agg_lattice_bg381_c5ac52
+    oomp_key_simple: adamgreig_agg_lattice_bg381
     original_filename: agg-kicad/agg.pretty/Lattice-BG381.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_lattice_bg381
+  oomp_key_full: oomp_footprint_adamgreig_agg_lattice_bg381
   oomp_key_simple: adamgreig_agg_lattice_bg381
   owner: adamgreig
   repo:

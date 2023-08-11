@@ -17,9 +17,18 @@
   oomp:
     footprint_name: testpoint_100mil
     library_name: primarypoints
+    md5: db3ac72799f9c54f011076fcdc982362
+    md5_10: db3ac72799
+    md5_5: db3ac
+    md5_6: db3ac7
+    oomp_key: oomp_zanekaminski_primarypoints_testpoint_100mil
+    oomp_key_extra: oomp_footprint_zanekaminski_primarypoints_testpoint_100mil
+    oomp_key_full: oomp_footprint_zanekaminski_primarypoints_testpoint_100mil_db3ac7
+    oomp_key_simple: zanekaminski_primarypoints_testpoint_100mil
     original_filename: primarypoints.pretty/TestPoint_100mil.kicad_mod
     owner_name: zanekaminski
   oomp_key: oomp_zanekaminski_primarypoints_testpoint_100mil
+  oomp_key_full: oomp_footprint_zanekaminski_primarypoints_testpoint_100mil
   oomp_key_simple: zanekaminski_primarypoints_testpoint_100mil
   owner: ZaneKaminski
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ind_srn8040
     library_name: freetronics_footprints
+    md5: 22a5da4a700611aef35e7ee6fa26dded
+    md5_10: 22a5da4a70
+    md5_5: 22a5d
+    md5_6: 22a5da
+    oomp_key: oomp_axello_freetronics_footprints_ind_srn8040
+    oomp_key_extra: oomp_footprint_axello_freetronics_footprints_ind_srn8040
+    oomp_key_full: oomp_footprint_axello_freetronics_footprints_ind_srn8040_22a5da
+    oomp_key_simple: axello_freetronics_footprints_ind_srn8040
     original_filename: kicad/mods/freetronics_footprints.pretty/IND_SRN8040.kicad_mod
     owner_name: axello
   oomp_key: oomp_axello_freetronics_footprints_ind_srn8040
+  oomp_key_full: oomp_footprint_axello_freetronics_footprints_ind_srn8040
   oomp_key_simple: axello_freetronics_footprints_ind_srn8040
   owner: axello
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: rotaryencoder_ec11_no_legs
     library_name: keebio_parts
+    md5: 23e67201e137cf3fc992038c2ac400c5
+    md5_10: 23e67201e1
+    md5_5: 23e67
+    md5_6: 23e672
+    oomp_key: oomp_keebio_keebio_parts_rotaryencoder_ec11_no_legs
+    oomp_key_extra: oomp_footprint_keebio_keebio_parts_rotaryencoder_ec11_no_legs
+    oomp_key_full: oomp_footprint_keebio_keebio_parts_rotaryencoder_ec11_no_legs_23e672
+    oomp_key_simple: keebio_keebio_parts_rotaryencoder_ec11_no_legs
     original_filename: Keebio-Parts.pretty/RotaryEncoder_EC11-no-legs.kicad_mod
     owner_name: keebio
   oomp_key: oomp_keebio_keebio_parts_rotaryencoder_ec11_no_legs
+  oomp_key_full: oomp_footprint_keebio_keebio_parts_rotaryencoder_ec11_no_legs
   oomp_key_simple: keebio_keebio_parts_rotaryencoder_ec11_no_legs
   owner: keebio
   repo:

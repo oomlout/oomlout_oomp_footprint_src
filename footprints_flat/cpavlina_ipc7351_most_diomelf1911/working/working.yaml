@@ -17,9 +17,18 @@
   oomp:
     footprint_name: diomelf1911
     library_name: ipc7351_most
+    md5: b03299d7155415b34db1334b15c4142d
+    md5_10: b03299d715
+    md5_5: b0329
+    md5_6: b03299
+    oomp_key: oomp_cpavlina_ipc7351_most_diomelf1911
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_most_diomelf1911
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_most_diomelf1911_b03299
+    oomp_key_simple: cpavlina_ipc7351_most_diomelf1911
     original_filename: kicad-pcblib/IPC7351-Most.pretty/DIOMELF1911.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_most_diomelf1911
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_most_diomelf1911
   oomp_key_simple: cpavlina_ipc7351_most_diomelf1911
   owner: cpavlina
   repo:

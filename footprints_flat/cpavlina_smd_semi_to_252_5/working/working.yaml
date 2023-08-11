@@ -17,9 +17,18 @@
   oomp:
     footprint_name: to_252_5
     library_name: smd_semi
+    md5: 0e56c3057aae8a44b07c6b698189809a
+    md5_10: 0e56c3057a
+    md5_5: 0e56c
+    md5_6: 0e56c3
+    oomp_key: oomp_cpavlina_smd_semi_to_252_5
+    oomp_key_extra: oomp_footprint_cpavlina_smd_semi_to_252_5
+    oomp_key_full: oomp_footprint_cpavlina_smd_semi_to_252_5_0e56c3
+    oomp_key_simple: cpavlina_smd_semi_to_252_5
     original_filename: kicad-pcblib/smd-semi.pretty/TO-252-5.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_smd_semi_to_252_5
+  oomp_key_full: oomp_footprint_cpavlina_smd_semi_to_252_5
   oomp_key_simple: cpavlina_smd_semi_to_252_5
   owner: cpavlina
   repo:

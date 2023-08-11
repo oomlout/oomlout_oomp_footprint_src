@@ -19,8 +19,9 @@ Please consult that link for additional, details, files, and license information
 | github_path | http://github.com/ai03-2725/MX_Alps_Hybrid.pretty/blob/master/Alps_Only.pretty/ALPS-7U.kicad_mod |  
 | links | {'github_src': 'http://gitlab.com/ai03-2725/MX_Alps_Hybrid.pretty/blob/master/MX_Only.pretty/MXOnly-LEDONLY.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/ai03_2725_mx_alps_hybrid_alps_7u/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/ai03_2725_mx_alps_hybrid_alps_7u/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/ai03_2725_mx_alps_hybrid_alps_7u/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/ai03_2725_mx_alps_hybrid_alps_7u/working'} |  
 | name | MX_Alps_Hybrid.pretty |  
-| oomp | {'footprint_name': 'alps_7u', 'library_name': 'alps_only', 'original_filename': 'MX_Alps_Hybrid.pretty/Alps_Only.pretty/ALPS-7U.kicad_mod', 'owner_name': 'ai03_2725'} |  
+| oomp | {'footprint_name': 'alps_7u', 'library_name': 'mx_alps_hybrid', 'md5': '6912d8ac6f50521c8a44637b9bb8abb7', 'md5_10': '6912d8ac6f', 'md5_5': '6912d', 'md5_6': '6912d8', 'oomp_key': 'oomp_ai03_2725_mx_alps_hybrid_alps_7u', 'oomp_key_extra': 'oomp_footprint_ai03_2725_mx_alps_hybrid_alps_7u', 'oomp_key_full': 'oomp_footprint_ai03_2725_mx_alps_hybrid_alps_7u_6912d8', 'oomp_key_simple': 'ai03_2725_mx_alps_hybrid_alps_7u', 'original_filename': 'MX_Alps_Hybrid.pretty/Alps_Only.pretty/ALPS-7U.kicad_mod', 'owner_name': 'ai03_2725'} |  
 | oomp_key | oomp_ai03_2725_mx_alps_hybrid_alps_7u |  
+| oomp_key_full | oomp_footprint_ai03_2725_mx_alps_hybrid_alps_7u |  
 | oomp_key_simple | ai03_2725_mx_alps_hybrid_alps_7u |  
 | owner | ai03-2725 |  
 | repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: l_tdk_mlz2012_h1_25mm
     library_name: inductor_smd
+    md5: ac1f8b7b157cd28b7c8386c90fad3024
+    md5_10: ac1f8b7b15
+    md5_5: ac1f8
+    md5_6: ac1f8b
+    oomp_key: oomp_kicad_inductor_smd_l_tdk_mlz2012_h1_25mm
+    oomp_key_extra: oomp_footprint_kicad_inductor_smd_l_tdk_mlz2012_h1_25mm
+    oomp_key_full: oomp_footprint_kicad_inductor_smd_l_tdk_mlz2012_h1_25mm_ac1f8b
+    oomp_key_simple: kicad_inductor_smd_l_tdk_mlz2012_h1_25mm
     original_filename: libraries/kicad-footprints/Inductor_SMD.pretty/L_TDK_MLZ2012_h1.25mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_inductor_smd_l_tdk_mlz2012_h1_25mm
+  oomp_key_full: oomp_footprint_kicad_inductor_smd_l_tdk_mlz2012_h1_25mm
   oomp_key_simple: kicad_inductor_smd_l_tdk_mlz2012_h1_25mm
   owner: kicad
   repo:

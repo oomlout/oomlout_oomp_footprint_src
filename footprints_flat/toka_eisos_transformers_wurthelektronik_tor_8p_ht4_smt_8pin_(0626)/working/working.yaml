@@ -17,9 +17,18 @@
   oomp:
     footprint_name: tor_8p_ht4_smt_8pin_(0626)
     library_name: transformers_wurthelektronik
+    md5: b1a1b7fef9e078aa989b127da85091f8
+    md5_10: b1a1b7fef9
+    md5_5: b1a1b
+    md5_6: b1a1b7
+    oomp_key: oomp_toka_eisos_transformers_wurthelektronik_tor_8p_ht4_smt_8pin_(0626)
+    oomp_key_extra: oomp_footprint_toka_eisos_transformers_wurthelektronik_tor_8p_ht4_smt_8pin_(0626)
+    oomp_key_full: oomp_footprint_toka_eisos_transformers_wurthelektronik_tor_8p_ht4_smt_8pin_(0626)_b1a1b7
+    oomp_key_simple: toka_eisos_transformers_wurthelektronik_tor_8p_ht4_smt_8pin_(0626)
     original_filename: Transformers_WurthElektronik.pretty/TOR-8P-HT4_SMT_8PIN_(0626).kicad_mod
     owner_name: toka_eisos
   oomp_key: oomp_toka_eisos_transformers_wurthelektronik_tor_8p_ht4_smt_8pin_(0626)
+  oomp_key_full: oomp_footprint_toka_eisos_transformers_wurthelektronik_tor_8p_ht4_smt_8pin_(0626)
   oomp_key_simple: toka_eisos_transformers_wurthelektronik_tor_8p_ht4_smt_8pin_(0626)
   owner: toka-eisos
   repo:

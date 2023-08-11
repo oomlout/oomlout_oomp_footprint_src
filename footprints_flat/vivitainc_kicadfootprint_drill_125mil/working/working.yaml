@@ -17,9 +17,18 @@
   oomp:
     footprint_name: drill_125mil
     library_name: kicadfootprint
+    md5: 7d81d05fa80ebdcda5f43c49b3085790
+    md5_10: 7d81d05fa8
+    md5_5: 7d81d
+    md5_6: 7d81d0
+    oomp_key: oomp_vivitainc_kicadfootprint_drill_125mil
+    oomp_key_extra: oomp_footprint_vivitainc_kicadfootprint_drill_125mil
+    oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_drill_125mil_7d81d0
+    oomp_key_simple: vivitainc_kicadfootprint_drill_125mil
     original_filename: KiCADfootprint.pretty/Drill_125mil.kicad_mod
     owner_name: vivitainc
   oomp_key: oomp_vivitainc_kicadfootprint_drill_125mil
+  oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_drill_125mil
   oomp_key_simple: vivitainc_kicadfootprint_drill_125mil
   owner: vivitainc
   repo:

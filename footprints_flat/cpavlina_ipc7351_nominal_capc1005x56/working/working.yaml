@@ -17,9 +17,18 @@
   oomp:
     footprint_name: capc1005x56
     library_name: ipc7351_nominal
+    md5: f8a56dda53be574a806164709eea780f
+    md5_10: f8a56dda53
+    md5_5: f8a56
+    md5_6: f8a56d
+    oomp_key: oomp_cpavlina_ipc7351_nominal_capc1005x56
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_nominal_capc1005x56
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_capc1005x56_f8a56d
+    oomp_key_simple: cpavlina_ipc7351_nominal_capc1005x56
     original_filename: kicad-pcblib/IPC7351-Nominal.pretty/CAPC1005X56.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_nominal_capc1005x56
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_capc1005x56
   oomp_key_simple: cpavlina_ipc7351_nominal_capc1005x56
   owner: cpavlina
   repo:

@@ -19,9 +19,18 @@
   oomp:
     footprint_name: oscillator_smd_fordahl_dfas15_4pin_5_0x3_2mm_handsoldering
     library_name: oscillator
+    md5: fe74e19d7e30ec776a93ef1662f88bc1
+    md5_10: fe74e19d7e
+    md5_5: fe74e
+    md5_6: fe74e1
+    oomp_key: oomp_kicad_oscillator_oscillator_smd_fordahl_dfas15_4pin_5_0x3_2mm_handsoldering
+    oomp_key_extra: oomp_footprint_kicad_oscillator_oscillator_smd_fordahl_dfas15_4pin_5_0x3_2mm_handsoldering
+    oomp_key_full: oomp_footprint_kicad_oscillator_oscillator_smd_fordahl_dfas15_4pin_5_0x3_2mm_handsoldering_fe74e1
+    oomp_key_simple: kicad_oscillator_oscillator_smd_fordahl_dfas15_4pin_5_0x3_2mm_handsoldering
     original_filename: libraries/kicad-footprints/Oscillator.pretty/Oscillator_SMD_Fordahl_DFAS15-4Pin_5.0x3.2mm_HandSoldering.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_oscillator_oscillator_smd_fordahl_dfas15_4pin_5_0x3_2mm_handsoldering
+  oomp_key_full: oomp_footprint_kicad_oscillator_oscillator_smd_fordahl_dfas15_4pin_5_0x3_2mm_handsoldering
   oomp_key_simple: kicad_oscillator_oscillator_smd_fordahl_dfas15_4pin_5_0x3_2mm_handsoldering
   owner: kicad
   repo:

@@ -18,9 +18,18 @@
   oomp:
     footprint_name: so_8_5_3x5_3mm_p1_27mm
     library_name: rhais_package_smd
+    md5: 4f20822444e76ca1c137af474de7c37f
+    md5_10: 4f20822444
+    md5_5: 4f208
+    md5_6: 4f2082
+    oomp_key: oomp_dx_mon_rhais_package_smd_so_8_5_3x5_3mm_p1_27mm
+    oomp_key_extra: oomp_footprint_dx_mon_rhais_package_smd_so_8_5_3x5_3mm_p1_27mm
+    oomp_key_full: oomp_footprint_dx_mon_rhais_package_smd_so_8_5_3x5_3mm_p1_27mm_4f2082
+    oomp_key_simple: dx_mon_rhais_package_smd_so_8_5_3x5_3mm_p1_27mm
     original_filename: rhais_package-smd.pretty/SO-8_5.3x5.3mm_P1.27mm.kicad_mod
     owner_name: dx_mon
   oomp_key: oomp_dx_mon_rhais_package_smd_so_8_5_3x5_3mm_p1_27mm
+  oomp_key_full: oomp_footprint_dx_mon_rhais_package_smd_so_8_5_3x5_3mm_p1_27mm
   oomp_key_simple: dx_mon_rhais_package_smd_so_8_5_3x5_3mm_p1_27mm
   owner: DX-MON
   repo:

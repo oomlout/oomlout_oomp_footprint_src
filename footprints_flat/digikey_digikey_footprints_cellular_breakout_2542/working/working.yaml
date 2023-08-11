@@ -17,9 +17,18 @@
   oomp:
     footprint_name: cellular_breakout_2542
     library_name: digikey_footprints
+    md5: 8fa87cb52374b0402c988ab72c32ca71
+    md5_10: 8fa87cb523
+    md5_5: 8fa87
+    md5_6: 8fa87c
+    oomp_key: oomp_digikey_digikey_footprints_cellular_breakout_2542
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_cellular_breakout_2542
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_cellular_breakout_2542_8fa87c
+    oomp_key_simple: digikey_digikey_footprints_cellular_breakout_2542
     original_filename: digikey-kicad-library/digikey-footprints.pretty/Cellular_Breakout_2542.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_cellular_breakout_2542
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_cellular_breakout_2542
   oomp_key_simple: digikey_digikey_footprints_cellular_breakout_2542
   owner: digikey
   repo:

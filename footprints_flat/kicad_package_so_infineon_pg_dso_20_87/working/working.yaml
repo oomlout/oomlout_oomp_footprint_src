@@ -17,9 +17,18 @@
   oomp:
     footprint_name: infineon_pg_dso_20_87
     library_name: package_so
+    md5: 3638b00f3c68d0ec7565bd4de265dc2e
+    md5_10: 3638b00f3c
+    md5_5: 3638b
+    md5_6: 3638b0
+    oomp_key: oomp_kicad_package_so_infineon_pg_dso_20_87
+    oomp_key_extra: oomp_footprint_kicad_package_so_infineon_pg_dso_20_87
+    oomp_key_full: oomp_footprint_kicad_package_so_infineon_pg_dso_20_87_3638b0
+    oomp_key_simple: kicad_package_so_infineon_pg_dso_20_87
     original_filename: libraries/kicad-footprints/Package_SO.pretty/Infineon_PG-DSO-20-87.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_so_infineon_pg_dso_20_87
+  oomp_key_full: oomp_footprint_kicad_package_so_infineon_pg_dso_20_87
   oomp_key_simple: kicad_package_so_infineon_pg_dso_20_87
   owner: kicad
   repo:

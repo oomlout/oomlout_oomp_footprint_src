@@ -17,9 +17,18 @@
   oomp:
     footprint_name: rpr_220
     library_name: kicadfootprint
+    md5: eab4f46e39ef00bdb1a90cb00d30f5f5
+    md5_10: eab4f46e39
+    md5_5: eab4f
+    md5_6: eab4f4
+    oomp_key: oomp_vivitainc_kicadfootprint_rpr_220
+    oomp_key_extra: oomp_footprint_vivitainc_kicadfootprint_rpr_220
+    oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_rpr_220_eab4f4
+    oomp_key_simple: vivitainc_kicadfootprint_rpr_220
     original_filename: KiCADfootprint.pretty/RPR-220.kicad_mod
     owner_name: vivitainc
   oomp_key: oomp_vivitainc_kicadfootprint_rpr_220
+  oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_rpr_220
   oomp_key_simple: vivitainc_kicadfootprint_rpr_220
   owner: vivitainc
   repo:

@@ -18,9 +18,18 @@
   oomp:
     footprint_name: soj127p866x375_26
     library_name: ipc7351_nominal
+    md5: 791859ad0574ac914cc6ee5e0657172c
+    md5_10: 791859ad05
+    md5_5: '79185'
+    md5_6: '791859'
+    oomp_key: oomp_cpavlina_ipc7351_nominal_soj127p866x375_26
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_nominal_soj127p866x375_26
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_soj127p866x375_26_791859
+    oomp_key_simple: cpavlina_ipc7351_nominal_soj127p866x375_26
     original_filename: kicad-pcblib/IPC7351-Nominal.pretty/SOJ127P866X375-26.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_nominal_soj127p866x375_26
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_soj127p866x375_26
   oomp_key_simple: cpavlina_ipc7351_nominal_soj127p866x375_26
   owner: cpavlina
   repo:

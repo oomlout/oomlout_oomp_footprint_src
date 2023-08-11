@@ -19,9 +19,18 @@
   oomp:
     footprint_name: silabs_dfn_si501_b
     library_name: manuf
+    md5: 8f1e90ef2a11b4a7cfca1dd505ff4329
+    md5_10: 8f1e90ef2a
+    md5_5: 8f1e9
+    md5_6: 8f1e90
+    oomp_key: oomp_iangitpers_manuf_silabs_dfn_si501_b
+    oomp_key_extra: oomp_footprint_iangitpers_manuf_silabs_dfn_si501_b
+    oomp_key_full: oomp_footprint_iangitpers_manuf_silabs_dfn_si501_b_8f1e90
+    oomp_key_simple: iangitpers_manuf_silabs_dfn_si501_b
     original_filename: 4a/manuf.pretty/SILABS-DFN-SI501-B.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_manuf_silabs_dfn_si501_b
+  oomp_key_full: oomp_footprint_iangitpers_manuf_silabs_dfn_si501_b
   oomp_key_simple: iangitpers_manuf_silabs_dfn_si501_b
   owner: Iangitpers
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: capc2012x100
     library_name: ipc7351_least
+    md5: 4f58952f2345285b72a4c9ee5d69a44e
+    md5_10: 4f58952f23
+    md5_5: 4f589
+    md5_6: 4f5895
+    oomp_key: oomp_cpavlina_ipc7351_least_capc2012x100
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_least_capc2012x100
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_least_capc2012x100_4f5895
+    oomp_key_simple: cpavlina_ipc7351_least_capc2012x100
     original_filename: kicad-pcblib/IPC7351-Least.pretty/CAPC2012X100.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_least_capc2012x100
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_least_capc2012x100
   oomp_key_simple: cpavlina_ipc7351_least_capc2012x100
   owner: cpavlina
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: dil08
     library_name: freetronics_footprints
+    md5: b6ea0671bc37ad671c7e45e6860c3941
+    md5_10: b6ea0671bc
+    md5_5: b6ea0
+    md5_6: b6ea06
+    oomp_key: oomp_joanthespark_freetronics_footprints_dil08
+    oomp_key_extra: oomp_footprint_joanthespark_freetronics_footprints_dil08
+    oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_dil08_b6ea06
+    oomp_key_simple: joanthespark_freetronics_footprints_dil08
     original_filename: KiCAD/mods/freetronics_footprints.pretty/DIL08.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_freetronics_footprints_dil08
+  oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_dil08
   oomp_key_simple: joanthespark_freetronics_footprints_dil08
   owner: JoanTheSpark
   repo:

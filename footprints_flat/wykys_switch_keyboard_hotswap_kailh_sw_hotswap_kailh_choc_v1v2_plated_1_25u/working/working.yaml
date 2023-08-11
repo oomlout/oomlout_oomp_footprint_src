@@ -18,9 +18,18 @@
   oomp:
     footprint_name: sw_hotswap_kailh_choc_v1v2_plated_1_25u
     library_name: switch_keyboard_hotswap_kailh
+    md5: 0589e7fec98b9736a5fc5c891437b18d
+    md5_10: 0589e7fec9
+    md5_5: 0589e
+    md5_6: 0589e7
+    oomp_key: oomp_wykys_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_choc_v1v2_plated_1_25u
+    oomp_key_extra: oomp_footprint_wykys_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_choc_v1v2_plated_1_25u
+    oomp_key_full: oomp_footprint_wykys_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_choc_v1v2_plated_1_25u_0589e7
+    oomp_key_simple: wykys_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_choc_v1v2_plated_1_25u
     original_filename: kicad/6.0/3rdparty/footprints/com_github_perigoso_keyswitch-kicad-library/Switch_Keyboard_Hotswap_Kailh.pretty/SW_Hotswap_Kailh_Choc_V1V2_Plated_1.25u.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_choc_v1v2_plated_1_25u
+  oomp_key_full: oomp_footprint_wykys_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_choc_v1v2_plated_1_25u
   oomp_key_simple: wykys_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_choc_v1v2_plated_1_25u
   owner: wykys
   repo:

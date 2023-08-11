@@ -17,9 +17,18 @@
   oomp:
     footprint_name: tcxo
     library_name: kicad
+    md5: 2574467cb3bfe5c4afe205d0e363a5d6
+    md5_10: 2574467cb3
+    md5_5: '25744'
+    md5_6: '257446'
+    oomp_key: oomp_kubix89_kicad_tcxo
+    oomp_key_extra: oomp_footprint_kubix89_kicad_tcxo
+    oomp_key_full: oomp_footprint_kubix89_kicad_tcxo_257446
+    oomp_key_simple: kubix89_kicad_tcxo
     original_filename: kiCAD.pretty/TCXO.kicad_mod
     owner_name: kubix89
   oomp_key: oomp_kubix89_kicad_tcxo
+  oomp_key_full: oomp_footprint_kubix89_kicad_tcxo
   oomp_key_simple: kubix89_kicad_tcxo
   owner: kubiX89
   repo:

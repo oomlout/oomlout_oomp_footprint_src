@@ -17,9 +17,18 @@
   oomp:
     footprint_name: adafruit_feather_m0_wifi
     library_name: module
+    md5: d545bfdd2edde03c893537196d30e545
+    md5_10: d545bfdd2e
+    md5_5: d545b
+    md5_6: d545bf
+    oomp_key: oomp_kicad_module_adafruit_feather_m0_wifi
+    oomp_key_extra: oomp_footprint_kicad_module_adafruit_feather_m0_wifi
+    oomp_key_full: oomp_footprint_kicad_module_adafruit_feather_m0_wifi_d545bf
+    oomp_key_simple: kicad_module_adafruit_feather_m0_wifi
     original_filename: libraries/kicad-footprints/Module.pretty/Adafruit_Feather_M0_Wifi.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_module_adafruit_feather_m0_wifi
+  oomp_key_full: oomp_footprint_kicad_module_adafruit_feather_m0_wifi
   oomp_key_simple: kicad_module_adafruit_feather_m0_wifi
   owner: kicad
   repo:

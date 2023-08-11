@@ -17,9 +17,18 @@
   oomp:
     footprint_name: rcv
     library_name: rf
+    md5: 8b71a8bc39d89d237bc7f3cc5c176c6d
+    md5_10: 8b71a8bc39
+    md5_5: 8b71a
+    md5_6: 8b71a8
+    oomp_key: oomp_axello_rf_rcv
+    oomp_key_extra: oomp_footprint_axello_rf_rcv
+    oomp_key_full: oomp_footprint_axello_rf_rcv_8b71a8
+    oomp_key_simple: axello_rf_rcv
     original_filename: kicad/mods/RF.pretty/RCV.kicad_mod
     owner_name: axello
   oomp_key: oomp_axello_rf_rcv
+  oomp_key_full: oomp_footprint_axello_rf_rcv
   oomp_key_simple: axello_rf_rcv
   owner: axello
   repo:

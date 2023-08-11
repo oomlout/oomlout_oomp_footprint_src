@@ -17,9 +17,18 @@
   oomp:
     footprint_name: lqfp_64
     library_name: agg
+    md5: a721e4e1be28527e3bef11ca76ec52c8
+    md5_10: a721e4e1be
+    md5_5: a721e
+    md5_6: a721e4
+    oomp_key: oomp_adamgreig_agg_lqfp_64
+    oomp_key_extra: oomp_footprint_adamgreig_agg_lqfp_64
+    oomp_key_full: oomp_footprint_adamgreig_agg_lqfp_64_a721e4
+    oomp_key_simple: adamgreig_agg_lqfp_64
     original_filename: agg-kicad/agg.pretty/LQFP-64.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_lqfp_64
+  oomp_key_full: oomp_footprint_adamgreig_agg_lqfp_64
   oomp_key_simple: adamgreig_agg_lqfp_64
   owner: adamgreig
   repo:

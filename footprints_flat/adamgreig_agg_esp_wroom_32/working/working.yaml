@@ -17,9 +17,18 @@
   oomp:
     footprint_name: esp_wroom_32
     library_name: agg
+    md5: 4d809b07a8a8d7c4bc1ee3725b32fe30
+    md5_10: 4d809b07a8
+    md5_5: 4d809
+    md5_6: 4d809b
+    oomp_key: oomp_adamgreig_agg_esp_wroom_32
+    oomp_key_extra: oomp_footprint_adamgreig_agg_esp_wroom_32
+    oomp_key_full: oomp_footprint_adamgreig_agg_esp_wroom_32_4d809b
+    oomp_key_simple: adamgreig_agg_esp_wroom_32
     original_filename: agg-kicad/agg.pretty/ESP-WROOM-32.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_esp_wroom_32
+  oomp_key_full: oomp_footprint_adamgreig_agg_esp_wroom_32
   oomp_key_simple: adamgreig_agg_esp_wroom_32
   owner: adamgreig
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: transformer_nf_etal_p2781_handsoldering
     library_name: transformer_smd
+    md5: 68fa981562f4d98022f7bc49e2d6cd94
+    md5_10: 68fa981562
+    md5_5: 68fa9
+    md5_6: 68fa98
+    oomp_key: oomp_kicad_transformer_smd_transformer_nf_etal_p2781_handsoldering
+    oomp_key_extra: oomp_footprint_kicad_transformer_smd_transformer_nf_etal_p2781_handsoldering
+    oomp_key_full: oomp_footprint_kicad_transformer_smd_transformer_nf_etal_p2781_handsoldering_68fa98
+    oomp_key_simple: kicad_transformer_smd_transformer_nf_etal_p2781_handsoldering
     original_filename: libraries/kicad-footprints/Transformer_SMD.pretty/Transformer_NF_ETAL_P2781_HandSoldering.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_transformer_smd_transformer_nf_etal_p2781_handsoldering
+  oomp_key_full: oomp_footprint_kicad_transformer_smd_transformer_nf_etal_p2781_handsoldering
   oomp_key_simple: kicad_transformer_smd_transformer_nf_etal_p2781_handsoldering
   owner: kicad
   repo:

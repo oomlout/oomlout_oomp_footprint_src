@@ -18,9 +18,18 @@
   oomp:
     footprint_name: samtec_mecf_30_02_np_l_dv_wt_2x30_p1_27mm_socket_horizontal
     library_name: connector_pcbedge
+    md5: 210fc276a8d2a11e7f7c3877343425c8
+    md5_10: 210fc276a8
+    md5_5: 210fc
+    md5_6: 210fc2
+    oomp_key: oomp_kicad_connector_pcbedge_samtec_mecf_30_02_np_l_dv_wt_2x30_p1_27mm_socket_horizontal
+    oomp_key_extra: oomp_footprint_kicad_connector_pcbedge_samtec_mecf_30_02_np_l_dv_wt_2x30_p1_27mm_socket_horizontal
+    oomp_key_full: oomp_footprint_kicad_connector_pcbedge_samtec_mecf_30_02_np_l_dv_wt_2x30_p1_27mm_socket_horizontal_210fc2
+    oomp_key_simple: kicad_connector_pcbedge_samtec_mecf_30_02_np_l_dv_wt_2x30_p1_27mm_socket_horizontal
     original_filename: libraries/kicad-footprints/Connector_PCBEdge.pretty/Samtec_MECF-30-02-NP-L-DV-WT_2x30_P1.27mm_Socket_Horizontal.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_pcbedge_samtec_mecf_30_02_np_l_dv_wt_2x30_p1_27mm_socket_horizontal
+  oomp_key_full: oomp_footprint_kicad_connector_pcbedge_samtec_mecf_30_02_np_l_dv_wt_2x30_p1_27mm_socket_horizontal
   oomp_key_simple: kicad_connector_pcbedge_samtec_mecf_30_02_np_l_dv_wt_2x30_p1_27mm_socket_horizontal
   owner: kicad
   repo:

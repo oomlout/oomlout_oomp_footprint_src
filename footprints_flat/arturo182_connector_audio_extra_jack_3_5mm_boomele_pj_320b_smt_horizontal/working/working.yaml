@@ -19,9 +19,18 @@
   oomp:
     footprint_name: jack_3_5mm_boomele_pj_320b_smt_horizontal
     library_name: connector_audio_extra
+    md5: 22d39aca582e82ee273c2be3874a2cd3
+    md5_10: 22d39aca58
+    md5_5: 22d39
+    md5_6: 22d39a
+    oomp_key: oomp_arturo182_connector_audio_extra_jack_3_5mm_boomele_pj_320b_smt_horizontal
+    oomp_key_extra: oomp_footprint_arturo182_connector_audio_extra_jack_3_5mm_boomele_pj_320b_smt_horizontal
+    oomp_key_full: oomp_footprint_arturo182_connector_audio_extra_jack_3_5mm_boomele_pj_320b_smt_horizontal_22d39a
+    oomp_key_simple: arturo182_connector_audio_extra_jack_3_5mm_boomele_pj_320b_smt_horizontal
     original_filename: kicad-modules/Connector_Audio_Extra.pretty/Jack_3.5mm_Boomele_PJ-320B-SMT_Horizontal.kicad_mod
     owner_name: arturo182
   oomp_key: oomp_arturo182_connector_audio_extra_jack_3_5mm_boomele_pj_320b_smt_horizontal
+  oomp_key_full: oomp_footprint_arturo182_connector_audio_extra_jack_3_5mm_boomele_pj_320b_smt_horizontal
   oomp_key_simple: arturo182_connector_audio_extra_jack_3_5mm_boomele_pj_320b_smt_horizontal
   owner: arturo182
   repo:

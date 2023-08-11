@@ -17,9 +17,18 @@
   oomp:
     footprint_name: arduino_pro_mini
     library_name: crumpprints
+    md5: f4bc688cb687301387e6ff4b392da478
+    md5_10: f4bc688cb6
+    md5_5: f4bc6
+    md5_6: f4bc68
+    oomp_key: oomp_tylercrumpton_crumpprints_arduino_pro_mini
+    oomp_key_extra: oomp_footprint_tylercrumpton_crumpprints_arduino_pro_mini
+    oomp_key_full: oomp_footprint_tylercrumpton_crumpprints_arduino_pro_mini_f4bc68
+    oomp_key_simple: tylercrumpton_crumpprints_arduino_pro_mini
     original_filename: CrumpPrints.pretty/Arduino_Pro_Mini.kicad_mod
     owner_name: tylercrumpton
   oomp_key: oomp_tylercrumpton_crumpprints_arduino_pro_mini
+  oomp_key_full: oomp_footprint_tylercrumpton_crumpprints_arduino_pro_mini
   oomp_key_simple: tylercrumpton_crumpprints_arduino_pro_mini
   owner: tylercrumpton
   repo:

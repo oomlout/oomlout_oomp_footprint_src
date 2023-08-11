@@ -19,9 +19,18 @@
   oomp:
     footprint_name: bourns_pm3604
     library_name: manuf
+    md5: e80970bef1b84d7f468a63dcd4719e71
+    md5_10: e80970bef1
+    md5_5: e8097
+    md5_6: e80970
+    oomp_key: oomp_iangitpers_manuf_bourns_pm3604
+    oomp_key_extra: oomp_footprint_iangitpers_manuf_bourns_pm3604
+    oomp_key_full: oomp_footprint_iangitpers_manuf_bourns_pm3604_e80970
+    oomp_key_simple: iangitpers_manuf_bourns_pm3604
     original_filename: 4a/manuf.pretty/BOURNS-PM3604.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_manuf_bourns_pm3604
+  oomp_key_full: oomp_footprint_iangitpers_manuf_bourns_pm3604
   oomp_key_simple: iangitpers_manuf_bourns_pm3604
   owner: Iangitpers
   repo:

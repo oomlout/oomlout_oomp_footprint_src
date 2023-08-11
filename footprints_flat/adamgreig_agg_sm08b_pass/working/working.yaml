@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sm08b_pass
     library_name: agg
+    md5: a91e66217d6f329d1fe767f40a6e9255
+    md5_10: a91e66217d
+    md5_5: a91e6
+    md5_6: a91e66
+    oomp_key: oomp_adamgreig_agg_sm08b_pass
+    oomp_key_extra: oomp_footprint_adamgreig_agg_sm08b_pass
+    oomp_key_full: oomp_footprint_adamgreig_agg_sm08b_pass_a91e66
+    oomp_key_simple: adamgreig_agg_sm08b_pass
     original_filename: agg-kicad/agg.pretty/SM08B-PASS.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_sm08b_pass
+  oomp_key_full: oomp_footprint_adamgreig_agg_sm08b_pass
   oomp_key_simple: adamgreig_agg_sm08b_pass
   owner: adamgreig
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: panasonic_sssmini3_f2_b
     library_name: manuf
+    md5: e1a5b67cbdba7547fa93bbe206427dec
+    md5_10: e1a5b67cbd
+    md5_5: e1a5b
+    md5_6: e1a5b6
+    oomp_key: oomp_cpavlina_manuf_panasonic_sssmini3_f2_b
+    oomp_key_extra: oomp_footprint_cpavlina_manuf_panasonic_sssmini3_f2_b
+    oomp_key_full: oomp_footprint_cpavlina_manuf_panasonic_sssmini3_f2_b_e1a5b6
+    oomp_key_simple: cpavlina_manuf_panasonic_sssmini3_f2_b
     original_filename: kicad-pcblib/manuf.pretty/PANASONIC-SSSMini3-F2-B.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_manuf_panasonic_sssmini3_f2_b
+  oomp_key_full: oomp_footprint_cpavlina_manuf_panasonic_sssmini3_f2_b
   oomp_key_simple: cpavlina_manuf_panasonic_sssmini3_f2_b
   owner: cpavlina
   repo:

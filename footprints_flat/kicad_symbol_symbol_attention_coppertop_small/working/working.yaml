@@ -17,9 +17,18 @@
   oomp:
     footprint_name: symbol_attention_coppertop_small
     library_name: symbol
+    md5: 728a7cb746e2850219fd0072cad212e9
+    md5_10: 728a7cb746
+    md5_5: 728a7
+    md5_6: 728a7c
+    oomp_key: oomp_kicad_symbol_symbol_attention_coppertop_small
+    oomp_key_extra: oomp_footprint_kicad_symbol_symbol_attention_coppertop_small
+    oomp_key_full: oomp_footprint_kicad_symbol_symbol_attention_coppertop_small_728a7c
+    oomp_key_simple: kicad_symbol_symbol_attention_coppertop_small
     original_filename: libraries/kicad-footprints/Symbol.pretty/Symbol_Attention_CopperTop_Small.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_symbol_symbol_attention_coppertop_small
+  oomp_key_full: oomp_footprint_kicad_symbol_symbol_attention_coppertop_small
   oomp_key_simple: kicad_symbol_symbol_attention_coppertop_small
   owner: kicad
   repo:

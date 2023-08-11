@@ -17,9 +17,18 @@
   oomp:
     footprint_name: s3b_eh
     library_name: agg
+    md5: 97cfb24e2c69dbb8ed1d01318571a396
+    md5_10: 97cfb24e2c
+    md5_5: 97cfb
+    md5_6: 97cfb2
+    oomp_key: oomp_adamgreig_agg_s3b_eh
+    oomp_key_extra: oomp_footprint_adamgreig_agg_s3b_eh
+    oomp_key_full: oomp_footprint_adamgreig_agg_s3b_eh_97cfb2
+    oomp_key_simple: adamgreig_agg_s3b_eh
     original_filename: agg-kicad/agg.pretty/S3B-EH.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_s3b_eh
+  oomp_key_full: oomp_footprint_adamgreig_agg_s3b_eh
   oomp_key_simple: adamgreig_agg_s3b_eh
   owner: adamgreig
   repo:

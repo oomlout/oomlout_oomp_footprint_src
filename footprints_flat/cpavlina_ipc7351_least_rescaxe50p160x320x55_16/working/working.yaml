@@ -18,9 +18,18 @@
   oomp:
     footprint_name: rescaxe50p160x320x55_16
     library_name: ipc7351_least
+    md5: 58c6d7584ca3b19ecacec6635445b05f
+    md5_10: 58c6d7584c
+    md5_5: 58c6d
+    md5_6: 58c6d7
+    oomp_key: oomp_cpavlina_ipc7351_least_rescaxe50p160x320x55_16
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_least_rescaxe50p160x320x55_16
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_least_rescaxe50p160x320x55_16_58c6d7
+    oomp_key_simple: cpavlina_ipc7351_least_rescaxe50p160x320x55_16
     original_filename: kicad-pcblib/IPC7351-Least.pretty/RESCAXE50P160X320X55-16.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_least_rescaxe50p160x320x55_16
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_least_rescaxe50p160x320x55_16
   oomp_key_simple: cpavlina_ipc7351_least_rescaxe50p160x320x55_16
   owner: cpavlina
   repo:

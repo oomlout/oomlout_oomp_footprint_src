@@ -19,9 +19,18 @@
   oomp:
     footprint_name: pinsocket_2x46_p1_27mm_horizontal
     library_name: connector_pinsocket_1_27mm
+    md5: b61df898fde874baaa3f28c0036959a6
+    md5_10: b61df898fd
+    md5_5: b61df
+    md5_6: b61df8
+    oomp_key: oomp_kicad_connector_pinsocket_1_27mm_pinsocket_2x46_p1_27mm_horizontal
+    oomp_key_extra: oomp_footprint_kicad_connector_pinsocket_1_27mm_pinsocket_2x46_p1_27mm_horizontal
+    oomp_key_full: oomp_footprint_kicad_connector_pinsocket_1_27mm_pinsocket_2x46_p1_27mm_horizontal_b61df8
+    oomp_key_simple: kicad_connector_pinsocket_1_27mm_pinsocket_2x46_p1_27mm_horizontal
     original_filename: libraries/kicad-footprints/Connector_PinSocket_1.27mm.pretty/PinSocket_2x46_P1.27mm_Horizontal.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_pinsocket_1_27mm_pinsocket_2x46_p1_27mm_horizontal
+  oomp_key_full: oomp_footprint_kicad_connector_pinsocket_1_27mm_pinsocket_2x46_p1_27mm_horizontal
   oomp_key_simple: kicad_connector_pinsocket_1_27mm_pinsocket_2x46_p1_27mm_horizontal
   owner: kicad
   repo:

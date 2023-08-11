@@ -17,9 +17,18 @@
   oomp:
     footprint_name: tys5040
     library_name: agg
+    md5: 5e801e9e5ec5d24c7acd0bcd6db587be
+    md5_10: 5e801e9e5e
+    md5_5: 5e801
+    md5_6: 5e801e
+    oomp_key: oomp_adamgreig_agg_tys5040
+    oomp_key_extra: oomp_footprint_adamgreig_agg_tys5040
+    oomp_key_full: oomp_footprint_adamgreig_agg_tys5040_5e801e
+    oomp_key_simple: adamgreig_agg_tys5040
     original_filename: agg-kicad/agg.pretty/TYS5040.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_tys5040
+  oomp_key_full: oomp_footprint_adamgreig_agg_tys5040
   oomp_key_simple: adamgreig_agg_tys5040
   owner: adamgreig
   repo:

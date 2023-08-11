@@ -17,9 +17,18 @@
   oomp:
     footprint_name: murata_resonator_smd_cstce16m0v53_r0
     library_name: resonators
+    md5: bb4d141d5e07c25c37cb5c130349a5ee
+    md5_10: bb4d141d5e
+    md5_5: bb4d1
+    md5_6: bb4d14
+    oomp_key: oomp_madworm_resonators_murata_resonator_smd_cstce16m0v53_r0
+    oomp_key_extra: oomp_footprint_madworm_resonators_murata_resonator_smd_cstce16m0v53_r0
+    oomp_key_full: oomp_footprint_madworm_resonators_murata_resonator_smd_cstce16m0v53_r0_bb4d14
+    oomp_key_simple: madworm_resonators_murata_resonator_smd_cstce16m0v53_r0
     original_filename: Resonators.pretty/murata-resonator_SMD_CSTCE16M0V53-R0.kicad_mod
     owner_name: madworm
   oomp_key: oomp_madworm_resonators_murata_resonator_smd_cstce16m0v53_r0
+  oomp_key_full: oomp_footprint_madworm_resonators_murata_resonator_smd_cstce16m0v53_r0
   oomp_key_simple: madworm_resonators_murata_resonator_smd_cstce16m0v53_r0
   owner: madworm
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sot89
     library_name: freetronics_footprints
+    md5: 8d9d3cea2cff607ad1344a923f1d03ee
+    md5_10: 8d9d3cea2c
+    md5_5: 8d9d3
+    md5_6: 8d9d3c
+    oomp_key: oomp_axello_freetronics_footprints_sot89
+    oomp_key_extra: oomp_footprint_axello_freetronics_footprints_sot89
+    oomp_key_full: oomp_footprint_axello_freetronics_footprints_sot89_8d9d3c
+    oomp_key_simple: axello_freetronics_footprints_sot89
     original_filename: kicad/mods/freetronics_footprints.pretty/SOT89.kicad_mod
     owner_name: axello
   oomp_key: oomp_axello_freetronics_footprints_sot89
+  oomp_key_full: oomp_footprint_axello_freetronics_footprints_sot89
   oomp_key_simple: axello_freetronics_footprints_sot89
   owner: axello
   repo:

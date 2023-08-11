@@ -17,9 +17,18 @@
   oomp:
     footprint_name: oscillator_smd_tcxo_g158
     library_name: oscillator
+    md5: ca9e687c23a1c2a9c2c404000277cf69
+    md5_10: ca9e687c23
+    md5_5: ca9e6
+    md5_6: ca9e68
+    oomp_key: oomp_kicad_oscillator_oscillator_smd_tcxo_g158
+    oomp_key_extra: oomp_footprint_kicad_oscillator_oscillator_smd_tcxo_g158
+    oomp_key_full: oomp_footprint_kicad_oscillator_oscillator_smd_tcxo_g158_ca9e68
+    oomp_key_simple: kicad_oscillator_oscillator_smd_tcxo_g158
     original_filename: libraries/kicad-footprints/Oscillator.pretty/Oscillator_SMD_TCXO_G158.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_oscillator_oscillator_smd_tcxo_g158
+  oomp_key_full: oomp_footprint_kicad_oscillator_oscillator_smd_tcxo_g158
   oomp_key_simple: kicad_oscillator_oscillator_smd_tcxo_g158
   owner: kicad
   repo:

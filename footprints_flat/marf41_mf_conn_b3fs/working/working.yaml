@@ -17,9 +17,18 @@
   oomp:
     footprint_name: b3fs
     library_name: mf_conn
+    md5: c07df4f8738d7936f0091b168910d37a
+    md5_10: c07df4f873
+    md5_5: c07df
+    md5_6: c07df4
+    oomp_key: oomp_marf41_mf_conn_b3fs
+    oomp_key_extra: oomp_footprint_marf41_mf_conn_b3fs
+    oomp_key_full: oomp_footprint_marf41_mf_conn_b3fs_c07df4
+    oomp_key_simple: marf41_mf_conn_b3fs
     original_filename: MF-conn.pretty/B3FS.kicad_mod
     owner_name: marf41
   oomp_key: oomp_marf41_mf_conn_b3fs
+  oomp_key_full: oomp_footprint_marf41_mf_conn_b3fs
   oomp_key_simple: marf41_mf_conn_b3fs
   owner: marf41
   repo:

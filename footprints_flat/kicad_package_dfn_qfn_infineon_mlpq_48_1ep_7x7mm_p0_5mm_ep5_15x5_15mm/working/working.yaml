@@ -17,9 +17,18 @@
   oomp:
     footprint_name: infineon_mlpq_48_1ep_7x7mm_p0_5mm_ep5_15x5_15mm
     library_name: package_dfn_qfn
+    md5: 7065888da99a4ce9f5ae3e55e82367d1
+    md5_10: 7065888da9
+    md5_5: '70658'
+    md5_6: '706588'
+    oomp_key: oomp_kicad_package_dfn_qfn_infineon_mlpq_48_1ep_7x7mm_p0_5mm_ep5_15x5_15mm
+    oomp_key_extra: oomp_footprint_kicad_package_dfn_qfn_infineon_mlpq_48_1ep_7x7mm_p0_5mm_ep5_15x5_15mm
+    oomp_key_full: oomp_footprint_kicad_package_dfn_qfn_infineon_mlpq_48_1ep_7x7mm_p0_5mm_ep5_15x5_15mm_706588
+    oomp_key_simple: kicad_package_dfn_qfn_infineon_mlpq_48_1ep_7x7mm_p0_5mm_ep5_15x5_15mm
     original_filename: libraries/kicad-footprints/Package_DFN_QFN.pretty/Infineon_MLPQ-48-1EP_7x7mm_P0.5mm_EP5.15x5.15mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_dfn_qfn_infineon_mlpq_48_1ep_7x7mm_p0_5mm_ep5_15x5_15mm
+  oomp_key_full: oomp_footprint_kicad_package_dfn_qfn_infineon_mlpq_48_1ep_7x7mm_p0_5mm_ep5_15x5_15mm
   oomp_key_simple: kicad_package_dfn_qfn_infineon_mlpq_48_1ep_7x7mm_p0_5mm_ep5_15x5_15mm
   owner: kicad
   repo:

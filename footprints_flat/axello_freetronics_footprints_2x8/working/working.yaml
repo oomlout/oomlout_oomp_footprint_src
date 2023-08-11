@@ -17,9 +17,18 @@
   oomp:
     footprint_name: 2x8
     library_name: freetronics_footprints
+    md5: 709bc933f994b6014d14b76848184efc
+    md5_10: 709bc933f9
+    md5_5: 709bc
+    md5_6: 709bc9
+    oomp_key: oomp_axello_freetronics_footprints_2x8
+    oomp_key_extra: oomp_footprint_axello_freetronics_footprints_2x8
+    oomp_key_full: oomp_footprint_axello_freetronics_footprints_2x8_709bc9
+    oomp_key_simple: axello_freetronics_footprints_2x8
     original_filename: kicad/mods/freetronics_footprints.pretty/2X8.kicad_mod
     owner_name: axello
   oomp_key: oomp_axello_freetronics_footprints_2x8
+  oomp_key_full: oomp_footprint_axello_freetronics_footprints_2x8
   oomp_key_simple: axello_freetronics_footprints_2x8
   owner: axello
   repo:

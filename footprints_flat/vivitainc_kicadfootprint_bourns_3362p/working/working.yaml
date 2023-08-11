@@ -17,9 +17,18 @@
   oomp:
     footprint_name: bourns_3362p
     library_name: kicadfootprint
+    md5: 927ce607fa010a9eed83275d6e0c46c7
+    md5_10: 927ce607fa
+    md5_5: 927ce
+    md5_6: 927ce6
+    oomp_key: oomp_vivitainc_kicadfootprint_bourns_3362p
+    oomp_key_extra: oomp_footprint_vivitainc_kicadfootprint_bourns_3362p
+    oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_bourns_3362p_927ce6
+    oomp_key_simple: vivitainc_kicadfootprint_bourns_3362p
     original_filename: KiCADfootprint.pretty/BOURNS_3362P.kicad_mod
     owner_name: vivitainc
   oomp_key: oomp_vivitainc_kicadfootprint_bourns_3362p
+  oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_bourns_3362p
   oomp_key_simple: vivitainc_kicadfootprint_bourns_3362p
   owner: vivitainc
   repo:

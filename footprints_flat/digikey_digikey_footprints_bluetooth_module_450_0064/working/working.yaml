@@ -17,9 +17,18 @@
   oomp:
     footprint_name: bluetooth_module_450_0064
     library_name: digikey_footprints
+    md5: 95ce496685fe503523aac5fdf6975ec4
+    md5_10: 95ce496685
+    md5_5: 95ce4
+    md5_6: 95ce49
+    oomp_key: oomp_digikey_digikey_footprints_bluetooth_module_450_0064
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_bluetooth_module_450_0064
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_bluetooth_module_450_0064_95ce49
+    oomp_key_simple: digikey_digikey_footprints_bluetooth_module_450_0064
     original_filename: digikey-kicad-library/digikey-footprints.pretty/Bluetooth_Module_450-0064.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_bluetooth_module_450_0064
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_bluetooth_module_450_0064
   oomp_key_simple: digikey_digikey_footprints_bluetooth_module_450_0064
   owner: digikey
   repo:

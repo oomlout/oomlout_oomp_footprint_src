@@ -17,9 +17,18 @@
   oomp:
     footprint_name: mx_quad
     library_name: keebio_parts
+    md5: 2b33f295b09e43b40f44c43b820570f8
+    md5_10: 2b33f295b0
+    md5_5: 2b33f
+    md5_6: 2b33f2
+    oomp_key: oomp_keebio_keebio_parts_mx_quad
+    oomp_key_extra: oomp_footprint_keebio_keebio_parts_mx_quad
+    oomp_key_full: oomp_footprint_keebio_keebio_parts_mx_quad_2b33f2
+    oomp_key_simple: keebio_keebio_parts_mx_quad
     original_filename: Keebio-Parts.pretty/MX-Quad.kicad_mod
     owner_name: keebio
   oomp_key: oomp_keebio_keebio_parts_mx_quad
+  oomp_key_full: oomp_footprint_keebio_keebio_parts_mx_quad
   oomp_key_simple: keebio_keebio_parts_mx_quad
   owner: keebio
   repo:

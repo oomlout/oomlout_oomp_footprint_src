@@ -17,9 +17,18 @@
   oomp:
     footprint_name: diodes_v_dfn3030_8
     library_name: manuf
+    md5: 3cdc1a49ccf8c47fbd495dcfbe621943
+    md5_10: 3cdc1a49cc
+    md5_5: 3cdc1
+    md5_6: 3cdc1a
+    oomp_key: oomp_cpavlina_manuf_diodes_v_dfn3030_8
+    oomp_key_extra: oomp_footprint_cpavlina_manuf_diodes_v_dfn3030_8
+    oomp_key_full: oomp_footprint_cpavlina_manuf_diodes_v_dfn3030_8_3cdc1a
+    oomp_key_simple: cpavlina_manuf_diodes_v_dfn3030_8
     original_filename: kicad-pcblib/manuf.pretty/DIODES-V-DFN3030-8.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_manuf_diodes_v_dfn3030_8
+  oomp_key_full: oomp_footprint_cpavlina_manuf_diodes_v_dfn3030_8
   oomp_key_simple: cpavlina_manuf_diodes_v_dfn3030_8
   owner: cpavlina
   repo:

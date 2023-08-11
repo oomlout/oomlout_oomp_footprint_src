@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_cdrh104r
     library_name: xess
+    md5: d45a71dcb7bc81413c6d127e64329271
+    md5_10: d45a71dcb7
+    md5_5: d45a7
+    md5_6: d45a71
+    oomp_key: oomp_xesscorp_xess_xess_cdrh104r
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_cdrh104r
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_cdrh104r_d45a71
+    oomp_key_simple: xesscorp_xess_xess_cdrh104r
     original_filename: xess.pretty/xess-CDRH104R.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_cdrh104r
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_cdrh104r
   oomp_key_simple: xesscorp_xess_xess_cdrh104r
   owner: xesscorp
   repo:

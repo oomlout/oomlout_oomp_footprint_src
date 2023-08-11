@@ -17,9 +17,18 @@
   oomp:
     footprint_name: led_10mm
     library_name: freetronics_footprints
+    md5: eba54adb35514234b40675f044d0e934
+    md5_10: eba54adb35
+    md5_5: eba54
+    md5_6: eba54a
+    oomp_key: oomp_axello_freetronics_footprints_led_10mm
+    oomp_key_extra: oomp_footprint_axello_freetronics_footprints_led_10mm
+    oomp_key_full: oomp_footprint_axello_freetronics_footprints_led_10mm_eba54a
+    oomp_key_simple: axello_freetronics_footprints_led_10mm
     original_filename: kicad/mods/freetronics_footprints.pretty/LED-10MM.kicad_mod
     owner_name: axello
   oomp_key: oomp_axello_freetronics_footprints_led_10mm
+  oomp_key_full: oomp_footprint_axello_freetronics_footprints_led_10mm
   oomp_key_simple: axello_freetronics_footprints_led_10mm
   owner: axello
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: mini_usb
     library_name: keebio_parts
+    md5: bec6abdb310d970ce5a8168bb151aa56
+    md5_10: bec6abdb31
+    md5_5: bec6a
+    md5_6: bec6ab
+    oomp_key: oomp_keebio_keebio_parts_mini_usb
+    oomp_key_extra: oomp_footprint_keebio_keebio_parts_mini_usb
+    oomp_key_full: oomp_footprint_keebio_keebio_parts_mini_usb_bec6ab
+    oomp_key_simple: keebio_keebio_parts_mini_usb
     original_filename: Keebio-Parts.pretty/Mini-USB.kicad_mod
     owner_name: keebio
   oomp_key: oomp_keebio_keebio_parts_mini_usb
+  oomp_key_full: oomp_footprint_keebio_keebio_parts_mini_usb
   oomp_key_simple: keebio_keebio_parts_mini_usb
   owner: keebio
   repo:

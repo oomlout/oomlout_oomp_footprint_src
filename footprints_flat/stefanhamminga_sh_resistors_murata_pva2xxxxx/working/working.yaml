@@ -17,9 +17,18 @@
   oomp:
     footprint_name: murata_pva2xxxxx
     library_name: sh_resistors
+    md5: cf15aea4cfc5e2ac38f8228d2e8733e6
+    md5_10: cf15aea4cf
+    md5_5: cf15a
+    md5_6: cf15ae
+    oomp_key: oomp_stefanhamminga_sh_resistors_murata_pva2xxxxx
+    oomp_key_extra: oomp_footprint_stefanhamminga_sh_resistors_murata_pva2xxxxx
+    oomp_key_full: oomp_footprint_stefanhamminga_sh_resistors_murata_pva2xxxxx_cf15ae
+    oomp_key_simple: stefanhamminga_sh_resistors_murata_pva2xxxxx
     original_filename: SH_Resistors.pretty/Murata_PVA2xxxxx.kicad_mod
     owner_name: stefanhamminga
   oomp_key: oomp_stefanhamminga_sh_resistors_murata_pva2xxxxx
+  oomp_key_full: oomp_footprint_stefanhamminga_sh_resistors_murata_pva2xxxxx
   oomp_key_simple: stefanhamminga_sh_resistors_murata_pva2xxxxx
   owner: StefanHamminga
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: led0606_clockwise
     library_name: rhais_led
+    md5: 08cd1df81c1bc7755cbdbd2e755ab53a
+    md5_10: 08cd1df81c
+    md5_5: 08cd1
+    md5_6: 08cd1d
+    oomp_key: oomp_dx_mon_rhais_led_led0606_clockwise
+    oomp_key_extra: oomp_footprint_dx_mon_rhais_led_led0606_clockwise
+    oomp_key_full: oomp_footprint_dx_mon_rhais_led_led0606_clockwise_08cd1d
+    oomp_key_simple: dx_mon_rhais_led_led0606_clockwise
     original_filename: rhais_led.pretty/LED0606_Clockwise.kicad_mod
     owner_name: dx_mon
   oomp_key: oomp_dx_mon_rhais_led_led0606_clockwise
+  oomp_key_full: oomp_footprint_dx_mon_rhais_led_led0606_clockwise
   oomp_key_simple: dx_mon_rhais_led_led0606_clockwise
   owner: DX-MON
   repo:

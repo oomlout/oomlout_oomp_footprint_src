@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sip_4_dcdc
     library_name: agg
+    md5: a36cf425ff4de36e1ae23d0d943b59a9
+    md5_10: a36cf425ff
+    md5_5: a36cf
+    md5_6: a36cf4
+    oomp_key: oomp_adamgreig_agg_sip_4_dcdc
+    oomp_key_extra: oomp_footprint_adamgreig_agg_sip_4_dcdc
+    oomp_key_full: oomp_footprint_adamgreig_agg_sip_4_dcdc_a36cf4
+    oomp_key_simple: adamgreig_agg_sip_4_dcdc
     original_filename: agg-kicad/agg.pretty/SIP-4-DCDC.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_sip_4_dcdc
+  oomp_key_full: oomp_footprint_adamgreig_agg_sip_4_dcdc
   oomp_key_simple: adamgreig_agg_sip_4_dcdc
   owner: adamgreig
   repo:

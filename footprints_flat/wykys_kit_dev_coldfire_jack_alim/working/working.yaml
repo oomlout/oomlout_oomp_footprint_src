@@ -17,9 +17,18 @@
   oomp:
     footprint_name: jack_alim
     library_name: kit_dev_coldfire
+    md5: bc6e986e39499477f5261aaf6c133db7
+    md5_10: bc6e986e39
+    md5_5: bc6e9
+    md5_6: bc6e98
+    oomp_key: oomp_wykys_kit_dev_coldfire_jack_alim
+    oomp_key_extra: oomp_footprint_wykys_kit_dev_coldfire_jack_alim
+    oomp_key_full: oomp_footprint_wykys_kit_dev_coldfire_jack_alim_bc6e98
+    oomp_key_simple: wykys_kit_dev_coldfire_jack_alim
     original_filename: kicad/demos/kit-dev-coldfire-xilinx_5213/kit-dev-coldfire.pretty/JACK_ALIM.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_kit_dev_coldfire_jack_alim
+  oomp_key_full: oomp_footprint_wykys_kit_dev_coldfire_jack_alim
   oomp_key_simple: wykys_kit_dev_coldfire_jack_alim
   owner: wykys
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ind_sdr2207
     library_name: freetronics_footprints
+    md5: 8f9775cd38ec5bad4d08f3078cb13e60
+    md5_10: 8f9775cd38
+    md5_5: 8f977
+    md5_6: 8f9775
+    oomp_key: oomp_axello_freetronics_footprints_ind_sdr2207
+    oomp_key_extra: oomp_footprint_axello_freetronics_footprints_ind_sdr2207
+    oomp_key_full: oomp_footprint_axello_freetronics_footprints_ind_sdr2207_8f9775
+    oomp_key_simple: axello_freetronics_footprints_ind_sdr2207
     original_filename: kicad/mods/freetronics_footprints.pretty/IND_SDR2207.kicad_mod
     owner_name: axello
   oomp_key: oomp_axello_freetronics_footprints_ind_sdr2207
+  oomp_key_full: oomp_footprint_axello_freetronics_footprints_ind_sdr2207
   oomp_key_simple: axello_freetronics_footprints_ind_sdr2207
   owner: axello
   repo:

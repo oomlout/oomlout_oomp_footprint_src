@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sim_473080001
     library_name: digikey_footprints
+    md5: 79d16bca226ad6482d28e5cd8a8e171f
+    md5_10: 79d16bca22
+    md5_5: 79d16
+    md5_6: 79d16b
+    oomp_key: oomp_digikey_digikey_footprints_sim_473080001
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_sim_473080001
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_sim_473080001_79d16b
+    oomp_key_simple: digikey_digikey_footprints_sim_473080001
     original_filename: digikey-kicad-library/digikey-footprints.pretty/SIM_473080001.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_sim_473080001
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_sim_473080001
   oomp_key_simple: digikey_digikey_footprints_sim_473080001
   owner: digikey
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xilinx_csg324
     library_name: manuf
+    md5: f71166e2f7f21c180ae8dbdff6efd07c
+    md5_10: f71166e2f7
+    md5_5: f7116
+    md5_6: f71166
+    oomp_key: oomp_cpavlina_manuf_xilinx_csg324
+    oomp_key_extra: oomp_footprint_cpavlina_manuf_xilinx_csg324
+    oomp_key_full: oomp_footprint_cpavlina_manuf_xilinx_csg324_f71166
+    oomp_key_simple: cpavlina_manuf_xilinx_csg324
     original_filename: kicad-pcblib/manuf.pretty/XILINX-CSG324.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_manuf_xilinx_csg324
+  oomp_key_full: oomp_footprint_cpavlina_manuf_xilinx_csg324
   oomp_key_simple: cpavlina_manuf_xilinx_csg324
   owner: cpavlina
   repo:

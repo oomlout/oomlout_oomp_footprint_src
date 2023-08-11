@@ -17,9 +17,18 @@
   oomp:
     footprint_name: texas_qfn_41_10x16mm
     library_name: package_dfn_qfn
+    md5: 70954c80cf721319c12e8077be46fe8d
+    md5_10: 70954c80cf
+    md5_5: '70954'
+    md5_6: 70954c
+    oomp_key: oomp_kicad_package_dfn_qfn_texas_qfn_41_10x16mm
+    oomp_key_extra: oomp_footprint_kicad_package_dfn_qfn_texas_qfn_41_10x16mm
+    oomp_key_full: oomp_footprint_kicad_package_dfn_qfn_texas_qfn_41_10x16mm_70954c
+    oomp_key_simple: kicad_package_dfn_qfn_texas_qfn_41_10x16mm
     original_filename: libraries/kicad-footprints/Package_DFN_QFN.pretty/Texas_QFN-41_10x16mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_dfn_qfn_texas_qfn_41_10x16mm
+  oomp_key_full: oomp_footprint_kicad_package_dfn_qfn_texas_qfn_41_10x16mm
   oomp_key_simple: kicad_package_dfn_qfn_texas_qfn_41_10x16mm
   owner: kicad
   repo:

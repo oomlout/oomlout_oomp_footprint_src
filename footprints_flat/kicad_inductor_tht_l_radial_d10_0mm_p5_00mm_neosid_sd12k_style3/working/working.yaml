@@ -18,9 +18,18 @@
   oomp:
     footprint_name: l_radial_d10_0mm_p5_00mm_neosid_sd12k_style3
     library_name: inductor_tht
+    md5: b004ab2359a78a8edc48fa039ae5269f
+    md5_10: b004ab2359
+    md5_5: b004a
+    md5_6: b004ab
+    oomp_key: oomp_kicad_inductor_tht_l_radial_d10_0mm_p5_00mm_neosid_sd12k_style3
+    oomp_key_extra: oomp_footprint_kicad_inductor_tht_l_radial_d10_0mm_p5_00mm_neosid_sd12k_style3
+    oomp_key_full: oomp_footprint_kicad_inductor_tht_l_radial_d10_0mm_p5_00mm_neosid_sd12k_style3_b004ab
+    oomp_key_simple: kicad_inductor_tht_l_radial_d10_0mm_p5_00mm_neosid_sd12k_style3
     original_filename: libraries/kicad-footprints/Inductor_THT.pretty/L_Radial_D10.0mm_P5.00mm_Neosid_SD12k_style3.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_inductor_tht_l_radial_d10_0mm_p5_00mm_neosid_sd12k_style3
+  oomp_key_full: oomp_footprint_kicad_inductor_tht_l_radial_d10_0mm_p5_00mm_neosid_sd12k_style3
   oomp_key_simple: kicad_inductor_tht_l_radial_d10_0mm_p5_00mm_neosid_sd12k_style3
   owner: kicad
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: bus_pc
     library_name: interf_u
+    md5: 39e1b5090572cad5752a0d4ff014ecd6
+    md5_10: 39e1b50905
+    md5_5: 39e1b
+    md5_6: 39e1b5
+    oomp_key: oomp_wykys_interf_u_bus_pc
+    oomp_key_extra: oomp_footprint_wykys_interf_u_bus_pc
+    oomp_key_full: oomp_footprint_wykys_interf_u_bus_pc_39e1b5
+    oomp_key_simple: wykys_interf_u_bus_pc
     original_filename: kicad/demos/interf_u/interf_u.pretty/BUS_PC.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_interf_u_bus_pc
+  oomp_key_full: oomp_footprint_wykys_interf_u_bus_pc
   oomp_key_simple: wykys_interf_u_bus_pc
   owner: wykys
   repo:

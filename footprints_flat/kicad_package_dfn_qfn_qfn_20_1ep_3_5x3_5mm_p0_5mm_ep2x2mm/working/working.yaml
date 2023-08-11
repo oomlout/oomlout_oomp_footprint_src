@@ -18,9 +18,18 @@
   oomp:
     footprint_name: qfn_20_1ep_3_5x3_5mm_p0_5mm_ep2x2mm
     library_name: package_dfn_qfn
+    md5: e678b47ec23ee2836c60e0a7390d90a8
+    md5_10: e678b47ec2
+    md5_5: e678b
+    md5_6: e678b4
+    oomp_key: oomp_kicad_package_dfn_qfn_qfn_20_1ep_3_5x3_5mm_p0_5mm_ep2x2mm
+    oomp_key_extra: oomp_footprint_kicad_package_dfn_qfn_qfn_20_1ep_3_5x3_5mm_p0_5mm_ep2x2mm
+    oomp_key_full: oomp_footprint_kicad_package_dfn_qfn_qfn_20_1ep_3_5x3_5mm_p0_5mm_ep2x2mm_e678b4
+    oomp_key_simple: kicad_package_dfn_qfn_qfn_20_1ep_3_5x3_5mm_p0_5mm_ep2x2mm
     original_filename: libraries/kicad-footprints/Package_DFN_QFN.pretty/QFN-20-1EP_3.5x3.5mm_P0.5mm_EP2x2mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_dfn_qfn_qfn_20_1ep_3_5x3_5mm_p0_5mm_ep2x2mm
+  oomp_key_full: oomp_footprint_kicad_package_dfn_qfn_qfn_20_1ep_3_5x3_5mm_p0_5mm_ep2x2mm
   oomp_key_simple: kicad_package_dfn_qfn_qfn_20_1ep_3_5x3_5mm_p0_5mm_ep2x2mm
   owner: kicad
   repo:

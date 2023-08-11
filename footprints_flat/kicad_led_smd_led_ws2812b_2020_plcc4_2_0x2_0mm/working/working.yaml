@@ -17,9 +17,18 @@
   oomp:
     footprint_name: led_ws2812b_2020_plcc4_2_0x2_0mm
     library_name: led_smd
+    md5: 264d5dd04b5764abfab5bdc03e5d3a22
+    md5_10: 264d5dd04b
+    md5_5: 264d5
+    md5_6: 264d5d
+    oomp_key: oomp_kicad_led_smd_led_ws2812b_2020_plcc4_2_0x2_0mm
+    oomp_key_extra: oomp_footprint_kicad_led_smd_led_ws2812b_2020_plcc4_2_0x2_0mm
+    oomp_key_full: oomp_footprint_kicad_led_smd_led_ws2812b_2020_plcc4_2_0x2_0mm_264d5d
+    oomp_key_simple: kicad_led_smd_led_ws2812b_2020_plcc4_2_0x2_0mm
     original_filename: libraries/kicad-footprints/LED_SMD.pretty/LED_WS2812B-2020_PLCC4_2.0x2.0mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_led_smd_led_ws2812b_2020_plcc4_2_0x2_0mm
+  oomp_key_full: oomp_footprint_kicad_led_smd_led_ws2812b_2020_plcc4_2_0x2_0mm
   oomp_key_simple: kicad_led_smd_led_ws2812b_2020_plcc4_2_0x2_0mm
   owner: kicad
   repo:

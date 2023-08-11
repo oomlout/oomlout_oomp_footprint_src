@@ -18,9 +18,18 @@
   oomp:
     footprint_name: sbh11_xbpc_d22_ra_xx
     library_name: connectors_sullins
+    md5: 56a81bdafd084e49b19e5a40a5c37fd3
+    md5_10: 56a81bdafd
+    md5_5: 56a81
+    md5_6: 56a81b
+    oomp_key: oomp_twam_connectors_sullins_sbh11_xbpc_d22_ra_xx
+    oomp_key_extra: oomp_footprint_twam_connectors_sullins_sbh11_xbpc_d22_ra_xx
+    oomp_key_full: oomp_footprint_twam_connectors_sullins_sbh11_xbpc_d22_ra_xx_56a81b
+    oomp_key_simple: twam_connectors_sullins_sbh11_xbpc_d22_ra_xx
     original_filename: Connectors_Sullins.pretty/SBH11-xBPC-D22-RA-xx.kicad_mod
     owner_name: twam
   oomp_key: oomp_twam_connectors_sullins_sbh11_xbpc_d22_ra_xx
+  oomp_key_full: oomp_footprint_twam_connectors_sullins_sbh11_xbpc_d22_ra_xx
   oomp_key_simple: twam_connectors_sullins_sbh11_xbpc_d22_ra_xx
   owner: twam
   repo:

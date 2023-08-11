@@ -17,9 +17,18 @@
   oomp:
     footprint_name: socket_strip_arduino_1x10
     library_name: socket_arduino_mega
+    md5: dcd69707cfed47ab3ac9061ab3422896
+    md5_10: dcd69707cf
+    md5_5: dcd69
+    md5_6: dcd697
+    oomp_key: oomp_axello_socket_arduino_mega_socket_strip_arduino_1x10
+    oomp_key_extra: oomp_footprint_axello_socket_arduino_mega_socket_strip_arduino_1x10
+    oomp_key_full: oomp_footprint_axello_socket_arduino_mega_socket_strip_arduino_1x10_dcd697
+    oomp_key_simple: axello_socket_arduino_mega_socket_strip_arduino_1x10
     original_filename: kicad/Arduino_Mega_433Mhz_Shield/Socket_Arduino_Mega.pretty/Socket_Strip_Arduino_1x10.kicad_mod
     owner_name: axello
   oomp_key: oomp_axello_socket_arduino_mega_socket_strip_arduino_1x10
+  oomp_key_full: oomp_footprint_axello_socket_arduino_mega_socket_strip_arduino_1x10
   oomp_key_simple: axello_socket_arduino_mega_socket_strip_arduino_1x10
   owner: axello
   repo:

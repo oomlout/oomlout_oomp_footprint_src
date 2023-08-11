@@ -17,9 +17,18 @@
   oomp:
     footprint_name: pushbutton_12x12mm_tht_gpts203211b
     library_name: digikey_footprints
+    md5: 22744de1f9beee20213ad2197c289ff7
+    md5_10: 22744de1f9
+    md5_5: '22744'
+    md5_6: 22744d
+    oomp_key: oomp_digikey_digikey_footprints_pushbutton_12x12mm_tht_gpts203211b
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_pushbutton_12x12mm_tht_gpts203211b
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_pushbutton_12x12mm_tht_gpts203211b_22744d
+    oomp_key_simple: digikey_digikey_footprints_pushbutton_12x12mm_tht_gpts203211b
     original_filename: digikey-kicad-library/digikey-footprints.pretty/PushButton_12x12mm_THT_GPTS203211B.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_pushbutton_12x12mm_tht_gpts203211b
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_pushbutton_12x12mm_tht_gpts203211b
   oomp_key_simple: digikey_digikey_footprints_pushbutton_12x12mm_tht_gpts203211b
   owner: digikey
   repo:

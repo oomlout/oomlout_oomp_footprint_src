@@ -18,9 +18,18 @@
   oomp:
     footprint_name: signalcommunications_we_mapi_20xx
     library_name: signalcommunications
+    md5: f2d80355f872429bbdeea165e6dd8d02
+    md5_10: f2d80355f8
+    md5_5: f2d80
+    md5_6: f2d803
+    oomp_key: oomp_electroniccats_signalcommunications_signalcommunications_we_mapi_20xx
+    oomp_key_extra: oomp_footprint_electroniccats_signalcommunications_signalcommunications_we_mapi_20xx
+    oomp_key_full: oomp_footprint_electroniccats_signalcommunications_signalcommunications_we_mapi_20xx_f2d803
+    oomp_key_simple: electroniccats_signalcommunications_signalcommunications_we_mapi_20xx
     original_filename: ComponentLibrariesKicadWurthElektronik/SIGNAL-COMMUNICATIONS-rev18a/SignalCommunications.pretty/SignalCommunications-WE-MAPI_20XX.kicad_mod
     owner_name: electroniccats
   oomp_key: oomp_electroniccats_signalcommunications_signalcommunications_we_mapi_20xx
+  oomp_key_full: oomp_footprint_electroniccats_signalcommunications_signalcommunications_we_mapi_20xx
   oomp_key_simple: electroniccats_signalcommunications_signalcommunications_we_mapi_20xx
   owner: ElectronicCats
   repo:

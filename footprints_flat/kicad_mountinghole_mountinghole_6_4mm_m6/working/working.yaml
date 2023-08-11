@@ -17,9 +17,18 @@
   oomp:
     footprint_name: mountinghole_6_4mm_m6
     library_name: mountinghole
+    md5: 74794313eb9e7282fa908ff46af51dff
+    md5_10: 74794313eb
+    md5_5: '74794'
+    md5_6: '747943'
+    oomp_key: oomp_kicad_mountinghole_mountinghole_6_4mm_m6
+    oomp_key_extra: oomp_footprint_kicad_mountinghole_mountinghole_6_4mm_m6
+    oomp_key_full: oomp_footprint_kicad_mountinghole_mountinghole_6_4mm_m6_747943
+    oomp_key_simple: kicad_mountinghole_mountinghole_6_4mm_m6
     original_filename: libraries/kicad-footprints/MountingHole.pretty/MountingHole_6.4mm_M6.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_mountinghole_mountinghole_6_4mm_m6
+  oomp_key_full: oomp_footprint_kicad_mountinghole_mountinghole_6_4mm_m6
   oomp_key_simple: kicad_mountinghole_mountinghole_6_4mm_m6
   owner: kicad
   repo:

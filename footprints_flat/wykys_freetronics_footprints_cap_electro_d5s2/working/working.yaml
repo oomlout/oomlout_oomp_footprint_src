@@ -17,9 +17,18 @@
   oomp:
     footprint_name: cap_electro_d5s2
     library_name: freetronics_footprints
+    md5: 503a217f503a74d9a92f40f61f83b62a
+    md5_10: 503a217f50
+    md5_5: 503a2
+    md5_6: 503a21
+    oomp_key: oomp_wykys_freetronics_footprints_cap_electro_d5s2
+    oomp_key_extra: oomp_footprint_wykys_freetronics_footprints_cap_electro_d5s2
+    oomp_key_full: oomp_footprint_wykys_freetronics_footprints_cap_electro_d5s2_503a21
+    oomp_key_simple: wykys_freetronics_footprints_cap_electro_d5s2
     original_filename: kicad/mods/freetronics_footprints.pretty/CAP_ELECTRO_D5S2.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_freetronics_footprints_cap_electro_d5s2
+  oomp_key_full: oomp_footprint_wykys_freetronics_footprints_cap_electro_d5s2
   oomp_key_simple: wykys_freetronics_footprints_cap_electro_d5s2
   owner: wykys
   repo:

@@ -18,9 +18,18 @@
   oomp:
     footprint_name: pulse_pa2002nl_pa2008nl_pa2009nl
     library_name: transformer_smd
+    md5: 7a09ee7ab129effaaa01688fc8e08f45
+    md5_10: 7a09ee7ab1
+    md5_5: 7a09e
+    md5_6: 7a09ee
+    oomp_key: oomp_kicad_transformer_smd_pulse_pa2002nl_pa2008nl_pa2009nl
+    oomp_key_extra: oomp_footprint_kicad_transformer_smd_pulse_pa2002nl_pa2008nl_pa2009nl
+    oomp_key_full: oomp_footprint_kicad_transformer_smd_pulse_pa2002nl_pa2008nl_pa2009nl_7a09ee
+    oomp_key_simple: kicad_transformer_smd_pulse_pa2002nl_pa2008nl_pa2009nl
     original_filename: libraries/kicad-footprints/Transformer_SMD.pretty/Pulse_PA2002NL-PA2008NL-PA2009NL.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_transformer_smd_pulse_pa2002nl_pa2008nl_pa2009nl
+  oomp_key_full: oomp_footprint_kicad_transformer_smd_pulse_pa2002nl_pa2008nl_pa2009nl
   oomp_key_simple: kicad_transformer_smd_pulse_pa2002nl_pa2008nl_pa2009nl
   owner: kicad
   repo:

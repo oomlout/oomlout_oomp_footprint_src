@@ -17,9 +17,18 @@
   oomp:
     footprint_name: jp_1_oval_5x3mm
     library_name: sh_jumper_pins
+    md5: a7ff6878a20147b38912627572cfceea
+    md5_10: a7ff6878a2
+    md5_5: a7ff6
+    md5_6: a7ff68
+    oomp_key: oomp_stefanhamminga_sh_jumper_pins_jp_1_oval_5x3mm
+    oomp_key_extra: oomp_footprint_stefanhamminga_sh_jumper_pins_jp_1_oval_5x3mm
+    oomp_key_full: oomp_footprint_stefanhamminga_sh_jumper_pins_jp_1_oval_5x3mm_a7ff68
+    oomp_key_simple: stefanhamminga_sh_jumper_pins_jp_1_oval_5x3mm
     original_filename: SH_Jumper_Pins.pretty/JP-1_Oval_5x3mm.kicad_mod
     owner_name: stefanhamminga
   oomp_key: oomp_stefanhamminga_sh_jumper_pins_jp_1_oval_5x3mm
+  oomp_key_full: oomp_footprint_stefanhamminga_sh_jumper_pins_jp_1_oval_5x3mm
   oomp_key_simple: stefanhamminga_sh_jumper_pins_jp_1_oval_5x3mm
   owner: StefanHamminga
   repo:

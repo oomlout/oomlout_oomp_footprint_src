@@ -17,9 +17,18 @@
   oomp:
     footprint_name: eps7_smt_h_8pin_(4971)
     library_name: transformers_wurthelektronik
+    md5: f8d1bee486c931bc1c7c4c3e75478219
+    md5_10: f8d1bee486
+    md5_5: f8d1b
+    md5_6: f8d1be
+    oomp_key: oomp_wurthelectronics_transformers_wurthelektronik_eps7_smt_h_8pin_(4971)
+    oomp_key_extra: oomp_footprint_wurthelectronics_transformers_wurthelektronik_eps7_smt_h_8pin_(4971)
+    oomp_key_full: oomp_footprint_wurthelectronics_transformers_wurthelektronik_eps7_smt_h_8pin_(4971)_f8d1be
+    oomp_key_simple: wurthelectronics_transformers_wurthelektronik_eps7_smt_h_8pin_(4971)
     original_filename: Transformers_WurthElektronik.pretty/EPS7_SMT_H_8PIN_(4971).kicad_mod
     owner_name: wurthelectronics
   oomp_key: oomp_wurthelectronics_transformers_wurthelektronik_eps7_smt_h_8pin_(4971)
+  oomp_key_full: oomp_footprint_wurthelectronics_transformers_wurthelektronik_eps7_smt_h_8pin_(4971)
   oomp_key_simple: wurthelectronics_transformers_wurthelektronik_eps7_smt_h_8pin_(4971)
   owner: WurthElectronics
   repo:

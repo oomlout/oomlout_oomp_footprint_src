@@ -17,9 +17,18 @@
   oomp:
     footprint_name: _tsot23_6
     library_name: _std
+    md5: e8aea2be76558b797e30f4c3c4237e73
+    md5_10: e8aea2be76
+    md5_5: e8aea
+    md5_6: e8aea2
+    oomp_key: oomp_mcous_std_tsot23_6
+    oomp_key_extra: oomp_footprint_mcous_std_tsot23_6
+    oomp_key_full: oomp_footprint_mcous_std_tsot23_6_e8aea2
+    oomp_key_simple: mcous_std_tsot23_6
     original_filename: kicad-lib/footprints/_std.pretty/_TSOT23-6.kicad_mod
     owner_name: mcous
   oomp_key: oomp_mcous_std_tsot23_6
+  oomp_key_full: oomp_footprint_mcous_std_tsot23_6
   oomp_key_simple: mcous_std_tsot23_6
   owner: mcous
   repo:

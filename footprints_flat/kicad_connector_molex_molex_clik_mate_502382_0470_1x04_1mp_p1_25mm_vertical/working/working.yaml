@@ -18,9 +18,18 @@
   oomp:
     footprint_name: molex_clik_mate_502382_0470_1x04_1mp_p1_25mm_vertical
     library_name: connector_molex
+    md5: 46e942ce39d1a2a94fbce42d400160e4
+    md5_10: 46e942ce39
+    md5_5: 46e94
+    md5_6: 46e942
+    oomp_key: oomp_kicad_connector_molex_molex_clik_mate_502382_0470_1x04_1mp_p1_25mm_vertical
+    oomp_key_extra: oomp_footprint_kicad_connector_molex_molex_clik_mate_502382_0470_1x04_1mp_p1_25mm_vertical
+    oomp_key_full: oomp_footprint_kicad_connector_molex_molex_clik_mate_502382_0470_1x04_1mp_p1_25mm_vertical_46e942
+    oomp_key_simple: kicad_connector_molex_molex_clik_mate_502382_0470_1x04_1mp_p1_25mm_vertical
     original_filename: libraries/kicad-footprints/Connector_Molex.pretty/Molex_CLIK-Mate_502382-0470_1x04-1MP_P1.25mm_Vertical.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_molex_molex_clik_mate_502382_0470_1x04_1mp_p1_25mm_vertical
+  oomp_key_full: oomp_footprint_kicad_connector_molex_molex_clik_mate_502382_0470_1x04_1mp_p1_25mm_vertical
   oomp_key_simple: kicad_connector_molex_molex_clik_mate_502382_0470_1x04_1mp_p1_25mm_vertical
   owner: kicad
   repo:

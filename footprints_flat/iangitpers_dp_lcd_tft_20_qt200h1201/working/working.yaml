@@ -19,9 +19,18 @@
   oomp:
     footprint_name: tft_20_qt200h1201
     library_name: dp_lcd
+    md5: 3188e4abc7cb23b42819e2db25eed714
+    md5_10: 3188e4abc7
+    md5_5: 3188e
+    md5_6: 3188e4
+    oomp_key: oomp_iangitpers_dp_lcd_tft_20_qt200h1201
+    oomp_key_extra: oomp_footprint_iangitpers_dp_lcd_tft_20_qt200h1201
+    oomp_key_full: oomp_footprint_iangitpers_dp_lcd_tft_20_qt200h1201_3188e4
+    oomp_key_simple: iangitpers_dp_lcd_tft_20_qt200h1201
     original_filename: 4a/dp-lcd/dp-lcd.pretty/TFT_20_QT200H1201.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_dp_lcd_tft_20_qt200h1201
+  oomp_key_full: oomp_footprint_iangitpers_dp_lcd_tft_20_qt200h1201
   oomp_key_simple: iangitpers_dp_lcd_tft_20_qt200h1201
   owner: Iangitpers
   repo:

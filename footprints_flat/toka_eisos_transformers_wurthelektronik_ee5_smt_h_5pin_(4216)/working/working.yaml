@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ee5_smt_h_5pin_(4216)
     library_name: transformers_wurthelektronik
+    md5: d18f7e7ef3179b0d0c51d7d78922cc6c
+    md5_10: d18f7e7ef3
+    md5_5: d18f7
+    md5_6: d18f7e
+    oomp_key: oomp_toka_eisos_transformers_wurthelektronik_ee5_smt_h_5pin_(4216)
+    oomp_key_extra: oomp_footprint_toka_eisos_transformers_wurthelektronik_ee5_smt_h_5pin_(4216)
+    oomp_key_full: oomp_footprint_toka_eisos_transformers_wurthelektronik_ee5_smt_h_5pin_(4216)_d18f7e
+    oomp_key_simple: toka_eisos_transformers_wurthelektronik_ee5_smt_h_5pin_(4216)
     original_filename: Transformers_WurthElektronik.pretty/EE5_SMT_H_5PIN_(4216).kicad_mod
     owner_name: toka_eisos
   oomp_key: oomp_toka_eisos_transformers_wurthelektronik_ee5_smt_h_5pin_(4216)
+  oomp_key_full: oomp_footprint_toka_eisos_transformers_wurthelektronik_ee5_smt_h_5pin_(4216)
   oomp_key_simple: toka_eisos_transformers_wurthelektronik_ee5_smt_h_5pin_(4216)
   owner: toka-eisos
   repo:

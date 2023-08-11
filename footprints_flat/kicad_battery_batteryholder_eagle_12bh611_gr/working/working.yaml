@@ -17,9 +17,18 @@
   oomp:
     footprint_name: batteryholder_eagle_12bh611_gr
     library_name: battery
+    md5: 34efa5b4a548eb4ccf9b9d9c0cc9e2a9
+    md5_10: 34efa5b4a5
+    md5_5: 34efa
+    md5_6: 34efa5
+    oomp_key: oomp_kicad_battery_batteryholder_eagle_12bh611_gr
+    oomp_key_extra: oomp_footprint_kicad_battery_batteryholder_eagle_12bh611_gr
+    oomp_key_full: oomp_footprint_kicad_battery_batteryholder_eagle_12bh611_gr_34efa5
+    oomp_key_simple: kicad_battery_batteryholder_eagle_12bh611_gr
     original_filename: libraries/kicad-footprints/Battery.pretty/BatteryHolder_Eagle_12BH611-GR.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_battery_batteryholder_eagle_12bh611_gr
+  oomp_key_full: oomp_footprint_kicad_battery_batteryholder_eagle_12bh611_gr
   oomp_key_simple: kicad_battery_batteryholder_eagle_12bh611_gr
   owner: kicad
   repo:

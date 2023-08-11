@@ -17,9 +17,18 @@
   oomp:
     footprint_name: pin_header_straight_1x05b
     library_name: esp_rs232
+    md5: 27a1b9540d670d65284b19cfe421db6b
+    md5_10: 27a1b9540d
+    md5_5: 27a1b
+    md5_6: 27a1b9
+    oomp_key: oomp_wykys_esp_rs232_pin_header_straight_1x05b
+    oomp_key_extra: oomp_footprint_wykys_esp_rs232_pin_header_straight_1x05b
+    oomp_key_full: oomp_footprint_wykys_esp_rs232_pin_header_straight_1x05b_27a1b9
+    oomp_key_simple: wykys_esp_rs232_pin_header_straight_1x05b
     original_filename: kicad/mods/ESP-RS232.pretty/Pin_Header_Straight_1x05b.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_esp_rs232_pin_header_straight_1x05b
+  oomp_key_full: oomp_footprint_wykys_esp_rs232_pin_header_straight_1x05b
   oomp_key_simple: wykys_esp_rs232_pin_header_straight_1x05b
   owner: wykys
   repo:

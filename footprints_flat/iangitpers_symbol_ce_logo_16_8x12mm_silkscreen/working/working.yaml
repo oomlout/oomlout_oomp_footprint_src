@@ -19,9 +19,18 @@
   oomp:
     footprint_name: ce_logo_16_8x12mm_silkscreen
     library_name: symbol
+    md5: 66bce58ebf478c360257d11bd52ed4fa
+    md5_10: 66bce58ebf
+    md5_5: 66bce
+    md5_6: 66bce5
+    oomp_key: oomp_iangitpers_symbol_ce_logo_16_8x12mm_silkscreen
+    oomp_key_extra: oomp_footprint_iangitpers_symbol_ce_logo_16_8x12mm_silkscreen
+    oomp_key_full: oomp_footprint_iangitpers_symbol_ce_logo_16_8x12mm_silkscreen_66bce5
+    oomp_key_simple: iangitpers_symbol_ce_logo_16_8x12mm_silkscreen
     original_filename: 4a/Symbol.pretty/CE-Logo_16.8x12mm_SilkScreen.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_symbol_ce_logo_16_8x12mm_silkscreen
+  oomp_key_full: oomp_footprint_iangitpers_symbol_ce_logo_16_8x12mm_silkscreen
   oomp_key_simple: iangitpers_symbol_ce_logo_16_8x12mm_silkscreen
   owner: Iangitpers
   repo:

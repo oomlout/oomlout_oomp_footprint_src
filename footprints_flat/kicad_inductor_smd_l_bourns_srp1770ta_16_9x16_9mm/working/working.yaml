@@ -17,9 +17,18 @@
   oomp:
     footprint_name: l_bourns_srp1770ta_16_9x16_9mm
     library_name: inductor_smd
+    md5: 9a2aea509e43346295b820489bc4ad35
+    md5_10: 9a2aea509e
+    md5_5: 9a2ae
+    md5_6: 9a2aea
+    oomp_key: oomp_kicad_inductor_smd_l_bourns_srp1770ta_16_9x16_9mm
+    oomp_key_extra: oomp_footprint_kicad_inductor_smd_l_bourns_srp1770ta_16_9x16_9mm
+    oomp_key_full: oomp_footprint_kicad_inductor_smd_l_bourns_srp1770ta_16_9x16_9mm_9a2aea
+    oomp_key_simple: kicad_inductor_smd_l_bourns_srp1770ta_16_9x16_9mm
     original_filename: libraries/kicad-footprints/Inductor_SMD.pretty/L_Bourns_SRP1770TA_16.9x16.9mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_inductor_smd_l_bourns_srp1770ta_16_9x16_9mm
+  oomp_key_full: oomp_footprint_kicad_inductor_smd_l_bourns_srp1770ta_16_9x16_9mm
   oomp_key_simple: kicad_inductor_smd_l_bourns_srp1770ta_16_9x16_9mm
   owner: kicad
   repo:

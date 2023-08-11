@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ttgo_t7_v1_4
     library_name: 1w_grove_v0_1
+    md5: c3c256c50dac4a3eb67f6ef1453f39a9
+    md5_10: c3c256c50d
+    md5_5: c3c25
+    md5_6: c3c256
+    oomp_key: oomp_joanthespark_1w_grove_v0_1_ttgo_t7_v1_4
+    oomp_key_extra: oomp_footprint_joanthespark_1w_grove_v0_1_ttgo_t7_v1_4
+    oomp_key_full: oomp_footprint_joanthespark_1w_grove_v0_1_ttgo_t7_v1_4_c3c256
+    oomp_key_simple: joanthespark_1w_grove_v0_1_ttgo_t7_v1_4
     original_filename: KiCAD/6.0/projects/1w-grove-v0.1/1w-grove-v0.1.pretty/TTGO_T7-V1.4.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_1w_grove_v0_1_ttgo_t7_v1_4
+  oomp_key_full: oomp_footprint_joanthespark_1w_grove_v0_1_ttgo_t7_v1_4
   oomp_key_simple: joanthespark_1w_grove_v0_1_ttgo_t7_v1_4
   owner: JoanTheSpark
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: diode_sod_123
     library_name: freetronics_footprints
+    md5: 00117ad909ab5f34fb43a99ab0035429
+    md5_10: 00117ad909
+    md5_5: '00117'
+    md5_6: 00117a
+    oomp_key: oomp_joanthespark_freetronics_footprints_diode_sod_123
+    oomp_key_extra: oomp_footprint_joanthespark_freetronics_footprints_diode_sod_123
+    oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_diode_sod_123_00117a
+    oomp_key_simple: joanthespark_freetronics_footprints_diode_sod_123
     original_filename: KiCAD/mods/freetronics_footprints.pretty/DIODE_SOD-123.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_freetronics_footprints_diode_sod_123
+  oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_diode_sod_123
   oomp_key_simple: joanthespark_freetronics_footprints_diode_sod_123
   owner: JoanTheSpark
   repo:

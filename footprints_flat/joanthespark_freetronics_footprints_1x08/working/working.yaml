@@ -17,9 +17,18 @@
   oomp:
     footprint_name: 1x08
     library_name: freetronics_footprints
+    md5: ae1262bf6a733252cfc40d0e25fc4780
+    md5_10: ae1262bf6a
+    md5_5: ae126
+    md5_6: ae1262
+    oomp_key: oomp_joanthespark_freetronics_footprints_1x08
+    oomp_key_extra: oomp_footprint_joanthespark_freetronics_footprints_1x08
+    oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_1x08_ae1262
+    oomp_key_simple: joanthespark_freetronics_footprints_1x08
     original_filename: KiCAD/mods/freetronics_footprints.pretty/1X08.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_freetronics_footprints_1x08
+  oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_1x08
   oomp_key_simple: joanthespark_freetronics_footprints_1x08
   owner: JoanTheSpark
   repo:

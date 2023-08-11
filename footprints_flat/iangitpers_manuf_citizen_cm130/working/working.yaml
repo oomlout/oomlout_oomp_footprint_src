@@ -19,9 +19,18 @@
   oomp:
     footprint_name: citizen_cm130
     library_name: manuf
+    md5: 208968aa55cd356c61278dc5b0cadfd0
+    md5_10: 208968aa55
+    md5_5: '20896'
+    md5_6: '208968'
+    oomp_key: oomp_iangitpers_manuf_citizen_cm130
+    oomp_key_extra: oomp_footprint_iangitpers_manuf_citizen_cm130
+    oomp_key_full: oomp_footprint_iangitpers_manuf_citizen_cm130_208968
+    oomp_key_simple: iangitpers_manuf_citizen_cm130
     original_filename: 4a/manuf.pretty/CITIZEN-CM130.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_manuf_citizen_cm130
+  oomp_key_full: oomp_footprint_iangitpers_manuf_citizen_cm130
   oomp_key_simple: iangitpers_manuf_citizen_cm130
   owner: Iangitpers
   repo:

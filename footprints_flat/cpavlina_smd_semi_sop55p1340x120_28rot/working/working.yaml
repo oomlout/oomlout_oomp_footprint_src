@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sop55p1340x120_28rot
     library_name: smd_semi
+    md5: 5feab6d19f03a042cb0cb84b8a5bbe97
+    md5_10: 5feab6d19f
+    md5_5: 5feab
+    md5_6: 5feab6
+    oomp_key: oomp_cpavlina_smd_semi_sop55p1340x120_28rot
+    oomp_key_extra: oomp_footprint_cpavlina_smd_semi_sop55p1340x120_28rot
+    oomp_key_full: oomp_footprint_cpavlina_smd_semi_sop55p1340x120_28rot_5feab6
+    oomp_key_simple: cpavlina_smd_semi_sop55p1340x120_28rot
     original_filename: kicad-pcblib/smd-semi.pretty/SOP55P1340X120-28ROT.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_smd_semi_sop55p1340x120_28rot
+  oomp_key_full: oomp_footprint_cpavlina_smd_semi_sop55p1340x120_28rot
   oomp_key_simple: cpavlina_smd_semi_sop55p1340x120_28rot
   owner: cpavlina
   repo:

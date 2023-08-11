@@ -19,9 +19,18 @@
   oomp:
     footprint_name: oceanoptics_spark_det_vis
     library_name: manuf
+    md5: 48321f18d1e167d67a82d94d6fab2a4b
+    md5_10: 48321f18d1
+    md5_5: '48321'
+    md5_6: 48321f
+    oomp_key: oomp_iangitpers_manuf_oceanoptics_spark_det_vis
+    oomp_key_extra: oomp_footprint_iangitpers_manuf_oceanoptics_spark_det_vis
+    oomp_key_full: oomp_footprint_iangitpers_manuf_oceanoptics_spark_det_vis_48321f
+    oomp_key_simple: iangitpers_manuf_oceanoptics_spark_det_vis
     original_filename: 4a/manuf.pretty/OCEANOPTICS_SPARK-DET-VIS.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_manuf_oceanoptics_spark_det_vis
+  oomp_key_full: oomp_footprint_iangitpers_manuf_oceanoptics_spark_det_vis
   oomp_key_simple: iangitpers_manuf_oceanoptics_spark_det_vis
   owner: Iangitpers
   repo:

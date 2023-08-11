@@ -17,9 +17,18 @@
   oomp:
     footprint_name: plcc_20_smd_socket
     library_name: package_lcc
+    md5: e4098f88ff9e0f44798643b6e0b50905
+    md5_10: e4098f88ff
+    md5_5: e4098
+    md5_6: e4098f
+    oomp_key: oomp_kicad_package_lcc_plcc_20_smd_socket
+    oomp_key_extra: oomp_footprint_kicad_package_lcc_plcc_20_smd_socket
+    oomp_key_full: oomp_footprint_kicad_package_lcc_plcc_20_smd_socket_e4098f
+    oomp_key_simple: kicad_package_lcc_plcc_20_smd_socket
     original_filename: libraries/kicad-footprints/Package_LCC.pretty/PLCC-20_SMD-Socket.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_lcc_plcc_20_smd_socket
+  oomp_key_full: oomp_footprint_kicad_package_lcc_plcc_20_smd_socket
   oomp_key_simple: kicad_package_lcc_plcc_20_smd_socket
   owner: kicad
   repo:

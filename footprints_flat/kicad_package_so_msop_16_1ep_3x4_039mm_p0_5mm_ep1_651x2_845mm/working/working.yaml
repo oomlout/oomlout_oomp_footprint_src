@@ -18,9 +18,18 @@
   oomp:
     footprint_name: msop_16_1ep_3x4_039mm_p0_5mm_ep1_651x2_845mm
     library_name: package_so
+    md5: 86ac4f3dae64c6a14b1f419c40c2ace0
+    md5_10: 86ac4f3dae
+    md5_5: 86ac4
+    md5_6: 86ac4f
+    oomp_key: oomp_kicad_package_so_msop_16_1ep_3x4_039mm_p0_5mm_ep1_651x2_845mm
+    oomp_key_extra: oomp_footprint_kicad_package_so_msop_16_1ep_3x4_039mm_p0_5mm_ep1_651x2_845mm
+    oomp_key_full: oomp_footprint_kicad_package_so_msop_16_1ep_3x4_039mm_p0_5mm_ep1_651x2_845mm_86ac4f
+    oomp_key_simple: kicad_package_so_msop_16_1ep_3x4_039mm_p0_5mm_ep1_651x2_845mm
     original_filename: libraries/kicad-footprints/Package_SO.pretty/MSOP-16-1EP_3x4.039mm_P0.5mm_EP1.651x2.845mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_so_msop_16_1ep_3x4_039mm_p0_5mm_ep1_651x2_845mm
+  oomp_key_full: oomp_footprint_kicad_package_so_msop_16_1ep_3x4_039mm_p0_5mm_ep1_651x2_845mm
   oomp_key_simple: kicad_package_so_msop_16_1ep_3x4_039mm_p0_5mm_ep1_651x2_845mm
   owner: kicad
   repo:

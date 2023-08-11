@@ -17,9 +17,18 @@
   oomp:
     footprint_name: via_1_0mm
     library_name: xess
+    md5: cb2f64d2edccaf94eb09500ff139a4a8
+    md5_10: cb2f64d2ed
+    md5_5: cb2f6
+    md5_6: cb2f64
+    oomp_key: oomp_xesscorp_xess_via_1_0mm
+    oomp_key_extra: oomp_footprint_xesscorp_xess_via_1_0mm
+    oomp_key_full: oomp_footprint_xesscorp_xess_via_1_0mm_cb2f64
+    oomp_key_simple: xesscorp_xess_via_1_0mm
     original_filename: xess.pretty/via-1.0mm.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_via_1_0mm
+  oomp_key_full: oomp_footprint_xesscorp_xess_via_1_0mm
   oomp_key_simple: xesscorp_xess_via_1_0mm
   owner: xesscorp
   repo:

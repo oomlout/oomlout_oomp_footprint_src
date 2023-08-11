@@ -18,9 +18,18 @@
   oomp:
     footprint_name: jack_xlr_neutrik_nc3mbv_1_vertical
     library_name: connector_audio
+    md5: 3ddb2a69c7fc6d3bc2bc9da9908930a2
+    md5_10: 3ddb2a69c7
+    md5_5: 3ddb2
+    md5_6: 3ddb2a
+    oomp_key: oomp_kicad_connector_audio_jack_xlr_neutrik_nc3mbv_1_vertical
+    oomp_key_extra: oomp_footprint_kicad_connector_audio_jack_xlr_neutrik_nc3mbv_1_vertical
+    oomp_key_full: oomp_footprint_kicad_connector_audio_jack_xlr_neutrik_nc3mbv_1_vertical_3ddb2a
+    oomp_key_simple: kicad_connector_audio_jack_xlr_neutrik_nc3mbv_1_vertical
     original_filename: libraries/kicad-footprints/Connector_Audio.pretty/Jack_XLR_Neutrik_NC3MBV-1_Vertical.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_audio_jack_xlr_neutrik_nc3mbv_1_vertical
+  oomp_key_full: oomp_footprint_kicad_connector_audio_jack_xlr_neutrik_nc3mbv_1_vertical
   oomp_key_simple: kicad_connector_audio_jack_xlr_neutrik_nc3mbv_1_vertical
   owner: kicad
   repo:

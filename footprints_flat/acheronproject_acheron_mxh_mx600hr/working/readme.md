@@ -19,8 +19,9 @@ Please consult that link for additional, details, files, and license information
 | github_path | http://github.com/AcheronProject/acheron_MXH.pretty/blob/master/MX600HR.kicad_mod |  
 | links | {'github_src': 'http://gitlab.com/AcheronProject/acheron_MXH.pretty/blob/master/MX_ISOEnterH.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/acheronproject_acheron_mxh_mx600hr/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/acheronproject_acheron_mxh_mx600hr/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/acheronproject_acheron_mxh_mx600hr/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/acheronproject_acheron_mxh_mx600hr/working'} |  
 | name | acheron_MXH.pretty |  
-| oomp | {'footprint_name': 'mx600hr', 'library_name': 'acheron_mxh', 'original_filename': 'acheron_MXH.pretty/MX600HR.kicad_mod', 'owner_name': 'acheronproject'} |  
+| oomp | {'footprint_name': 'mx600hr', 'library_name': 'acheron_mxh', 'md5': '04a2930282928e1f2f26b020ed305e79', 'md5_10': '04a2930282', 'md5_5': '04a29', 'md5_6': '04a293', 'oomp_key': 'oomp_acheronproject_acheron_mxh_mx600hr', 'oomp_key_extra': 'oomp_footprint_acheronproject_acheron_mxh_mx600hr', 'oomp_key_full': 'oomp_footprint_acheronproject_acheron_mxh_mx600hr_04a293', 'oomp_key_simple': 'acheronproject_acheron_mxh_mx600hr', 'original_filename': 'acheron_MXH.pretty/MX600HR.kicad_mod', 'owner_name': 'acheronproject'} |  
 | oomp_key | oomp_acheronproject_acheron_mxh_mx600hr |  
+| oomp_key_full | oomp_footprint_acheronproject_acheron_mxh_mx600hr |  
 | oomp_key_simple | acheronproject_acheron_mxh_mx600hr |  
 | owner | AcheronProject |  
 | repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  

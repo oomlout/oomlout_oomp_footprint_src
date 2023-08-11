@@ -17,9 +17,18 @@
   oomp:
     footprint_name: fuse_bourns_mf_rg700
     library_name: fuse
+    md5: 85785f0655db90ec458d341f11ebd310
+    md5_10: 85785f0655
+    md5_5: '85785'
+    md5_6: 85785f
+    oomp_key: oomp_kicad_fuse_fuse_bourns_mf_rg700
+    oomp_key_extra: oomp_footprint_kicad_fuse_fuse_bourns_mf_rg700
+    oomp_key_full: oomp_footprint_kicad_fuse_fuse_bourns_mf_rg700_85785f
+    oomp_key_simple: kicad_fuse_fuse_bourns_mf_rg700
     original_filename: libraries/kicad-footprints/Fuse.pretty/Fuse_Bourns_MF-RG700.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_fuse_fuse_bourns_mf_rg700
+  oomp_key_full: oomp_footprint_kicad_fuse_fuse_bourns_mf_rg700
   oomp_key_simple: kicad_fuse_fuse_bourns_mf_rg700
   owner: kicad
   repo:

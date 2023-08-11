@@ -17,9 +17,18 @@
   oomp:
     footprint_name: 4_lfpak
     library_name: apex_smd
+    md5: 7eecf7e791b84eb1b274719f116eb69f
+    md5_10: 7eecf7e791
+    md5_5: 7eecf
+    md5_6: 7eecf7
+    oomp_key: oomp_apexelectrix_apex_smd_4_lfpak
+    oomp_key_extra: oomp_footprint_apexelectrix_apex_smd_4_lfpak
+    oomp_key_full: oomp_footprint_apexelectrix_apex_smd_4_lfpak_7eecf7
+    oomp_key_simple: apexelectrix_apex_smd_4_lfpak
     original_filename: apex-smd.pretty/4-LFPAK.kicad_mod
     owner_name: apexelectrix
   oomp_key: oomp_apexelectrix_apex_smd_4_lfpak
+  oomp_key_full: oomp_footprint_apexelectrix_apex_smd_4_lfpak
   oomp_key_simple: apexelectrix_apex_smd_4_lfpak
   owner: apexelectrix
   repo:

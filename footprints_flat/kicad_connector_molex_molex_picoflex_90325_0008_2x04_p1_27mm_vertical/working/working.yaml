@@ -18,9 +18,18 @@
   oomp:
     footprint_name: molex_picoflex_90325_0008_2x04_p1_27mm_vertical
     library_name: connector_molex
+    md5: 4782f575db911c10a7aceb31d1b9f8f3
+    md5_10: 4782f575db
+    md5_5: 4782f
+    md5_6: 4782f5
+    oomp_key: oomp_kicad_connector_molex_molex_picoflex_90325_0008_2x04_p1_27mm_vertical
+    oomp_key_extra: oomp_footprint_kicad_connector_molex_molex_picoflex_90325_0008_2x04_p1_27mm_vertical
+    oomp_key_full: oomp_footprint_kicad_connector_molex_molex_picoflex_90325_0008_2x04_p1_27mm_vertical_4782f5
+    oomp_key_simple: kicad_connector_molex_molex_picoflex_90325_0008_2x04_p1_27mm_vertical
     original_filename: libraries/kicad-footprints/Connector_Molex.pretty/Molex_Picoflex_90325-0008_2x04_P1.27mm_Vertical.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_molex_molex_picoflex_90325_0008_2x04_p1_27mm_vertical
+  oomp_key_full: oomp_footprint_kicad_connector_molex_molex_picoflex_90325_0008_2x04_p1_27mm_vertical
   oomp_key_simple: kicad_connector_molex_molex_picoflex_90325_0008_2x04_p1_27mm_vertical
   owner: kicad
   repo:

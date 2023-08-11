@@ -17,9 +17,18 @@
   oomp:
     footprint_name: bitech_hm78d_1210
     library_name: manuf
+    md5: f82f3fe4eda537fbfc80ff77139c101d
+    md5_10: f82f3fe4ed
+    md5_5: f82f3
+    md5_6: f82f3f
+    oomp_key: oomp_cpavlina_manuf_bitech_hm78d_1210
+    oomp_key_extra: oomp_footprint_cpavlina_manuf_bitech_hm78d_1210
+    oomp_key_full: oomp_footprint_cpavlina_manuf_bitech_hm78d_1210_f82f3f
+    oomp_key_simple: cpavlina_manuf_bitech_hm78d_1210
     original_filename: kicad-pcblib/manuf.pretty/BITECH-HM78D-1210.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_manuf_bitech_hm78d_1210
+  oomp_key_full: oomp_footprint_cpavlina_manuf_bitech_hm78d_1210
   oomp_key_simple: cpavlina_manuf_bitech_hm78d_1210
   owner: cpavlina
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: s_pvson_n10
     library_name: kicadprints
+    md5: eb9d5623f76cdf330d9a9646b930f96e
+    md5_10: eb9d5623f7
+    md5_5: eb9d5
+    md5_6: eb9d56
+    oomp_key: oomp_d3philip_kicadprints_s_pvson_n10
+    oomp_key_extra: oomp_footprint_d3philip_kicadprints_s_pvson_n10
+    oomp_key_full: oomp_footprint_d3philip_kicadprints_s_pvson_n10_eb9d56
+    oomp_key_simple: d3philip_kicadprints_s_pvson_n10
     original_filename: kicadprints.pretty/S-PVSON-N10.kicad_mod
     owner_name: d3philip
   oomp_key: oomp_d3philip_kicadprints_s_pvson_n10
+  oomp_key_full: oomp_footprint_d3philip_kicadprints_s_pvson_n10
   oomp_key_simple: d3philip_kicadprints_s_pvson_n10
   owner: d3philip
   repo:

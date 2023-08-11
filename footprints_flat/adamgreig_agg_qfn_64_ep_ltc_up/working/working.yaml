@@ -17,9 +17,18 @@
   oomp:
     footprint_name: qfn_64_ep_ltc_up
     library_name: agg
+    md5: 2b77523c4d030338d53a5053502a79d3
+    md5_10: 2b77523c4d
+    md5_5: 2b775
+    md5_6: 2b7752
+    oomp_key: oomp_adamgreig_agg_qfn_64_ep_ltc_up
+    oomp_key_extra: oomp_footprint_adamgreig_agg_qfn_64_ep_ltc_up
+    oomp_key_full: oomp_footprint_adamgreig_agg_qfn_64_ep_ltc_up_2b7752
+    oomp_key_simple: adamgreig_agg_qfn_64_ep_ltc_up
     original_filename: agg-kicad/agg.pretty/QFN-64-EP-LTC-UP.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_qfn_64_ep_ltc_up
+  oomp_key_full: oomp_footprint_adamgreig_agg_qfn_64_ep_ltc_up
   oomp_key_simple: adamgreig_agg_qfn_64_ep_ltc_up
   owner: adamgreig
   repo:

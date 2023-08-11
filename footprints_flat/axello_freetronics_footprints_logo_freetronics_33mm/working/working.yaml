@@ -17,9 +17,18 @@
   oomp:
     footprint_name: logo_freetronics_33mm
     library_name: freetronics_footprints
+    md5: 375a2b7156114e0c53e4e37312c1b41b
+    md5_10: 375a2b7156
+    md5_5: 375a2
+    md5_6: 375a2b
+    oomp_key: oomp_axello_freetronics_footprints_logo_freetronics_33mm
+    oomp_key_extra: oomp_footprint_axello_freetronics_footprints_logo_freetronics_33mm
+    oomp_key_full: oomp_footprint_axello_freetronics_footprints_logo_freetronics_33mm_375a2b
+    oomp_key_simple: axello_freetronics_footprints_logo_freetronics_33mm
     original_filename: kicad/mods/freetronics_footprints.pretty/LOGO_FREETRONICS_33mm.kicad_mod
     owner_name: axello
   oomp_key: oomp_axello_freetronics_footprints_logo_freetronics_33mm
+  oomp_key_full: oomp_footprint_axello_freetronics_footprints_logo_freetronics_33mm
   oomp_key_simple: axello_freetronics_footprints_logo_freetronics_33mm
   owner: axello
   repo:

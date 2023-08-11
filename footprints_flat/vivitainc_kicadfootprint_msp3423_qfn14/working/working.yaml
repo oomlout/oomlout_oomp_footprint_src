@@ -17,9 +17,18 @@
   oomp:
     footprint_name: msp3423_qfn14
     library_name: kicadfootprint
+    md5: 3d9c7ba2f904fe9c1e669217b10a4c13
+    md5_10: 3d9c7ba2f9
+    md5_5: 3d9c7
+    md5_6: 3d9c7b
+    oomp_key: oomp_vivitainc_kicadfootprint_msp3423_qfn14
+    oomp_key_extra: oomp_footprint_vivitainc_kicadfootprint_msp3423_qfn14
+    oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_msp3423_qfn14_3d9c7b
+    oomp_key_simple: vivitainc_kicadfootprint_msp3423_qfn14
     original_filename: KiCADfootprint.pretty/MSP3423-QFN14.kicad_mod
     owner_name: vivitainc
   oomp_key: oomp_vivitainc_kicadfootprint_msp3423_qfn14
+  oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_msp3423_qfn14
   oomp_key_simple: vivitainc_kicadfootprint_msp3423_qfn14
   owner: vivitainc
   repo:

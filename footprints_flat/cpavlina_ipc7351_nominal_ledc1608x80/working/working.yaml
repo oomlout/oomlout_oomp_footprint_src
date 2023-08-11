@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ledc1608x80
     library_name: ipc7351_nominal
+    md5: 7bcf32bb5c424c59e738fd3897e793d0
+    md5_10: 7bcf32bb5c
+    md5_5: 7bcf3
+    md5_6: 7bcf32
+    oomp_key: oomp_cpavlina_ipc7351_nominal_ledc1608x80
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_nominal_ledc1608x80
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_ledc1608x80_7bcf32
+    oomp_key_simple: cpavlina_ipc7351_nominal_ledc1608x80
     original_filename: kicad-pcblib/IPC7351-Nominal.pretty/LEDC1608X80.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_nominal_ledc1608x80
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_ledc1608x80
   oomp_key_simple: cpavlina_ipc7351_nominal_ledc1608x80
   owner: cpavlina
   repo:

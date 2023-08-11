@@ -17,9 +17,18 @@
   oomp:
     footprint_name: solderwirepad_1x01_smd_1x2mm
     library_name: connector_wire
+    md5: 37e9407e9e6d39ec6b58110c7cccaf7f
+    md5_10: 37e9407e9e
+    md5_5: 37e94
+    md5_6: 37e940
+    oomp_key: oomp_kicad_connector_wire_solderwirepad_1x01_smd_1x2mm
+    oomp_key_extra: oomp_footprint_kicad_connector_wire_solderwirepad_1x01_smd_1x2mm
+    oomp_key_full: oomp_footprint_kicad_connector_wire_solderwirepad_1x01_smd_1x2mm_37e940
+    oomp_key_simple: kicad_connector_wire_solderwirepad_1x01_smd_1x2mm
     original_filename: libraries/kicad-footprints/Connector_Wire.pretty/SolderWirePad_1x01_SMD_1x2mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_wire_solderwirepad_1x01_smd_1x2mm
+  oomp_key_full: oomp_footprint_kicad_connector_wire_solderwirepad_1x01_smd_1x2mm
   oomp_key_simple: kicad_connector_wire_solderwirepad_1x01_smd_1x2mm
   owner: kicad
   repo:

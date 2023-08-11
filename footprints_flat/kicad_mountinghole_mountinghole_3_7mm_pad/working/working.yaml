@@ -17,9 +17,18 @@
   oomp:
     footprint_name: mountinghole_3_7mm_pad
     library_name: mountinghole
+    md5: 5658581ca44c8af04a7b6cc583366d60
+    md5_10: 5658581ca4
+    md5_5: '56585'
+    md5_6: '565858'
+    oomp_key: oomp_kicad_mountinghole_mountinghole_3_7mm_pad
+    oomp_key_extra: oomp_footprint_kicad_mountinghole_mountinghole_3_7mm_pad
+    oomp_key_full: oomp_footprint_kicad_mountinghole_mountinghole_3_7mm_pad_565858
+    oomp_key_simple: kicad_mountinghole_mountinghole_3_7mm_pad
     original_filename: libraries/kicad-footprints/MountingHole.pretty/MountingHole_3.7mm_Pad.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_mountinghole_mountinghole_3_7mm_pad
+  oomp_key_full: oomp_footprint_kicad_mountinghole_mountinghole_3_7mm_pad
   oomp_key_simple: kicad_mountinghole_mountinghole_3_7mm_pad
   owner: kicad
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: module_arduino_nano
     library_name: kicad
+    md5: 67ffc381e245ad7b8a4b64940367f7d5
+    md5_10: 67ffc381e2
+    md5_5: 67ffc
+    md5_6: 67ffc3
+    oomp_key: oomp_kubix89_kicad_module_arduino_nano
+    oomp_key_extra: oomp_footprint_kubix89_kicad_module_arduino_nano
+    oomp_key_full: oomp_footprint_kubix89_kicad_module_arduino_nano_67ffc3
+    oomp_key_simple: kubix89_kicad_module_arduino_nano
     original_filename: kiCAD.pretty/MODULE_ARDUINO_NANO.kicad_mod
     owner_name: kubix89
   oomp_key: oomp_kubix89_kicad_module_arduino_nano
+  oomp_key_full: oomp_footprint_kubix89_kicad_module_arduino_nano
   oomp_key_simple: kubix89_kicad_module_arduino_nano
   owner: kubiX89
   repo:

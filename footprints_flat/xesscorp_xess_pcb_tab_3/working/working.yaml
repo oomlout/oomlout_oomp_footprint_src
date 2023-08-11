@@ -17,9 +17,18 @@
   oomp:
     footprint_name: pcb_tab_3
     library_name: xess
+    md5: cce14e2e5761ab22c6f0ded2fc9cfa83
+    md5_10: cce14e2e57
+    md5_5: cce14
+    md5_6: cce14e
+    oomp_key: oomp_xesscorp_xess_pcb_tab_3
+    oomp_key_extra: oomp_footprint_xesscorp_xess_pcb_tab_3
+    oomp_key_full: oomp_footprint_xesscorp_xess_pcb_tab_3_cce14e
+    oomp_key_simple: xesscorp_xess_pcb_tab_3
     original_filename: xess.pretty/PCB-TAB-3.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_pcb_tab_3
+  oomp_key_full: oomp_footprint_xesscorp_xess_pcb_tab_3
   oomp_key_simple: xesscorp_xess_pcb_tab_3
   owner: xesscorp
   repo:

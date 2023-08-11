@@ -17,9 +17,18 @@
   oomp:
     footprint_name: er11_5_smt_h_8pin_(2664)
     library_name: transformers_wurthelektronik
+    md5: d5bb6480845490a2fdf8a94a82dbfc7c
+    md5_10: d5bb648084
+    md5_5: d5bb6
+    md5_6: d5bb64
+    oomp_key: oomp_toka_eisos_transformers_wurthelektronik_er11_5_smt_h_8pin_(2664)
+    oomp_key_extra: oomp_footprint_toka_eisos_transformers_wurthelektronik_er11_5_smt_h_8pin_(2664)
+    oomp_key_full: oomp_footprint_toka_eisos_transformers_wurthelektronik_er11_5_smt_h_8pin_(2664)_d5bb64
+    oomp_key_simple: toka_eisos_transformers_wurthelektronik_er11_5_smt_h_8pin_(2664)
     original_filename: Transformers_WurthElektronik.pretty/ER11.5_SMT_H_8PIN_(2664).kicad_mod
     owner_name: toka_eisos
   oomp_key: oomp_toka_eisos_transformers_wurthelektronik_er11_5_smt_h_8pin_(2664)
+  oomp_key_full: oomp_footprint_toka_eisos_transformers_wurthelektronik_er11_5_smt_h_8pin_(2664)
   oomp_key_simple: toka_eisos_transformers_wurthelektronik_er11_5_smt_h_8pin_(2664)
   owner: toka-eisos
   repo:

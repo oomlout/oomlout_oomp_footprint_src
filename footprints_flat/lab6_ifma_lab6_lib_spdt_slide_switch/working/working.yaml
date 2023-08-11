@@ -17,9 +17,18 @@
   oomp:
     footprint_name: spdt_slide_switch
     library_name: lab6_lib
+    md5: aa265cf1b454099a9eaaf6bd6e3cf12c
+    md5_10: aa265cf1b4
+    md5_5: aa265
+    md5_6: aa265c
+    oomp_key: oomp_lab6_ifma_lab6_lib_spdt_slide_switch
+    oomp_key_extra: oomp_footprint_lab6_ifma_lab6_lib_spdt_slide_switch
+    oomp_key_full: oomp_footprint_lab6_ifma_lab6_lib_spdt_slide_switch_aa265c
+    oomp_key_simple: lab6_ifma_lab6_lib_spdt_slide_switch
     original_filename: LAB6-LIB.pretty/SPDT_slide_switch.kicad_mod
     owner_name: lab6_ifma
   oomp_key: oomp_lab6_ifma_lab6_lib_spdt_slide_switch
+  oomp_key_full: oomp_footprint_lab6_ifma_lab6_lib_spdt_slide_switch
   oomp_key_simple: lab6_ifma_lab6_lib_spdt_slide_switch
   owner: lab6-ifma
   repo:

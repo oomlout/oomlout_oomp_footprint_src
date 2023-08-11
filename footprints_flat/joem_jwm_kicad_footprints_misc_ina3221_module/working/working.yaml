@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ina3221_module
     library_name: jwm_kicad_footprints_misc
+    md5: 690e038d39ef2229cd998d1dea3899f4
+    md5_10: 690e038d39
+    md5_5: 690e0
+    md5_6: 690e03
+    oomp_key: oomp_joem_jwm_kicad_footprints_misc_ina3221_module
+    oomp_key_extra: oomp_footprint_joem_jwm_kicad_footprints_misc_ina3221_module
+    oomp_key_full: oomp_footprint_joem_jwm_kicad_footprints_misc_ina3221_module_690e03
+    oomp_key_simple: joem_jwm_kicad_footprints_misc_ina3221_module
     original_filename: jwm_kicad_footprints_misc.pretty/INA3221_Module.kicad_mod
     owner_name: joem
   oomp_key: oomp_joem_jwm_kicad_footprints_misc_ina3221_module
+  oomp_key_full: oomp_footprint_joem_jwm_kicad_footprints_misc_ina3221_module
   oomp_key_simple: joem_jwm_kicad_footprints_misc_ina3221_module
   owner: joem
   repo:

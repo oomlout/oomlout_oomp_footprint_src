@@ -18,9 +18,18 @@
   oomp:
     footprint_name: sw_hotswap_kailh_choc_v1v2_plated_3_00u_90deg
     library_name: switch_keyboard_hotswap_kailh
+    md5: 3081ad9ae5adc86495d7351bade8cb36
+    md5_10: 3081ad9ae5
+    md5_5: 3081a
+    md5_6: 3081ad
+    oomp_key: oomp_wykys_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_choc_v1v2_plated_3_00u_90deg
+    oomp_key_extra: oomp_footprint_wykys_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_choc_v1v2_plated_3_00u_90deg
+    oomp_key_full: oomp_footprint_wykys_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_choc_v1v2_plated_3_00u_90deg_3081ad
+    oomp_key_simple: wykys_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_choc_v1v2_plated_3_00u_90deg
     original_filename: kicad/6.0/3rdparty/footprints/com_github_perigoso_keyswitch-kicad-library/Switch_Keyboard_Hotswap_Kailh.pretty/SW_Hotswap_Kailh_Choc_V1V2_Plated_3.00u_90deg.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_choc_v1v2_plated_3_00u_90deg
+  oomp_key_full: oomp_footprint_wykys_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_choc_v1v2_plated_3_00u_90deg
   oomp_key_simple: wykys_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_choc_v1v2_plated_3_00u_90deg
   owner: wykys
   repo:

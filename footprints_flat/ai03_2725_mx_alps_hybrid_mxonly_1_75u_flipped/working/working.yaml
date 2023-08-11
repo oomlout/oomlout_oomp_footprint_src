@@ -16,10 +16,19 @@
   name: MX_Alps_Hybrid.pretty
   oomp:
     footprint_name: mxonly_1_75u_flipped
-    library_name: mx_only
+    library_name: mx_alps_hybrid
+    md5: 5f07cc9a2cba86f228356e3d5ef1c35c
+    md5_10: 5f07cc9a2c
+    md5_5: 5f07c
+    md5_6: 5f07cc
+    oomp_key: oomp_ai03_2725_mx_alps_hybrid_mxonly_1_75u_flipped
+    oomp_key_extra: oomp_footprint_ai03_2725_mx_alps_hybrid_mxonly_1_75u_flipped
+    oomp_key_full: oomp_footprint_ai03_2725_mx_alps_hybrid_mxonly_1_75u_flipped_5f07cc
+    oomp_key_simple: ai03_2725_mx_alps_hybrid_mxonly_1_75u_flipped
     original_filename: MX_Alps_Hybrid.pretty/MX_Only.pretty/MXOnly-1.75U-FLIPPED.kicad_mod
     owner_name: ai03_2725
   oomp_key: oomp_ai03_2725_mx_alps_hybrid_mxonly_1_75u_flipped
+  oomp_key_full: oomp_footprint_ai03_2725_mx_alps_hybrid_mxonly_1_75u_flipped
   oomp_key_simple: ai03_2725_mx_alps_hybrid_mxonly_1_75u_flipped
   owner: ai03-2725
   repo:

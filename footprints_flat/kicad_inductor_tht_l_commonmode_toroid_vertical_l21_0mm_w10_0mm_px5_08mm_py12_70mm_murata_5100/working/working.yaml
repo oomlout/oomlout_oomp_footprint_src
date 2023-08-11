@@ -18,9 +18,18 @@
   oomp:
     footprint_name: l_commonmode_toroid_vertical_l21_0mm_w10_0mm_px5_08mm_py12_70mm_murata_5100
     library_name: inductor_tht
+    md5: a313a3bd711281c1c514a3a885da7d21
+    md5_10: a313a3bd71
+    md5_5: a313a
+    md5_6: a313a3
+    oomp_key: oomp_kicad_inductor_tht_l_commonmode_toroid_vertical_l21_0mm_w10_0mm_px5_08mm_py12_70mm_murata_5100
+    oomp_key_extra: oomp_footprint_kicad_inductor_tht_l_commonmode_toroid_vertical_l21_0mm_w10_0mm_px5_08mm_py12_70mm_murata_5100
+    oomp_key_full: oomp_footprint_kicad_inductor_tht_l_commonmode_toroid_vertical_l21_0mm_w10_0mm_px5_08mm_py12_70mm_murata_5100_a313a3
+    oomp_key_simple: kicad_inductor_tht_l_commonmode_toroid_vertical_l21_0mm_w10_0mm_px5_08mm_py12_70mm_murata_5100
     original_filename: libraries/kicad-footprints/Inductor_THT.pretty/L_CommonMode_Toroid_Vertical_L21.0mm_W10.0mm_Px5.08mm_Py12.70mm_Murata_5100.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_inductor_tht_l_commonmode_toroid_vertical_l21_0mm_w10_0mm_px5_08mm_py12_70mm_murata_5100
+  oomp_key_full: oomp_footprint_kicad_inductor_tht_l_commonmode_toroid_vertical_l21_0mm_w10_0mm_px5_08mm_py12_70mm_murata_5100
   oomp_key_simple: kicad_inductor_tht_l_commonmode_toroid_vertical_l21_0mm_w10_0mm_px5_08mm_py12_70mm_murata_5100
   owner: kicad
   repo:

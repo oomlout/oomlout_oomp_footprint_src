@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sc70_5
     library_name: xess
+    md5: 61d9502daa5d0253d097628b132f7eab
+    md5_10: 61d9502daa
+    md5_5: 61d95
+    md5_6: 61d950
+    oomp_key: oomp_xesscorp_xess_sc70_5
+    oomp_key_extra: oomp_footprint_xesscorp_xess_sc70_5
+    oomp_key_full: oomp_footprint_xesscorp_xess_sc70_5_61d950
+    oomp_key_simple: xesscorp_xess_sc70_5
     original_filename: xess.pretty/SC70-5.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_sc70_5
+  oomp_key_full: oomp_footprint_xesscorp_xess_sc70_5
   oomp_key_simple: xesscorp_xess_sc70_5
   owner: xesscorp
   repo:

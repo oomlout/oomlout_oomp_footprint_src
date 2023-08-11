@@ -17,9 +17,18 @@
   oomp:
     footprint_name: cap_electro_d4s1_8
     library_name: freetronics_footprints
+    md5: a43832bf3b1c16c0ab1f3b9daebde77b
+    md5_10: a43832bf3b
+    md5_5: a4383
+    md5_6: a43832
+    oomp_key: oomp_wykys_freetronics_footprints_cap_electro_d4s1_8
+    oomp_key_extra: oomp_footprint_wykys_freetronics_footprints_cap_electro_d4s1_8
+    oomp_key_full: oomp_footprint_wykys_freetronics_footprints_cap_electro_d4s1_8_a43832
+    oomp_key_simple: wykys_freetronics_footprints_cap_electro_d4s1_8
     original_filename: kicad/mods/freetronics_footprints.pretty/CAP_ELECTRO_D4S1.8.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_freetronics_footprints_cap_electro_d4s1_8
+  oomp_key_full: oomp_footprint_wykys_freetronics_footprints_cap_electro_d4s1_8
   oomp_key_simple: wykys_freetronics_footprints_cap_electro_d4s1_8
   owner: wykys
   repo:

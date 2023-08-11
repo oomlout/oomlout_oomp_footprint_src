@@ -18,9 +18,18 @@
   oomp:
     footprint_name: tsop_i_24_14_4x6mm_p0_5mm
     library_name: package_so
+    md5: 35c6f70f4d7b2ec1aa4879888a12a515
+    md5_10: 35c6f70f4d
+    md5_5: 35c6f
+    md5_6: 35c6f7
+    oomp_key: oomp_kicad_package_so_tsop_i_24_14_4x6mm_p0_5mm
+    oomp_key_extra: oomp_footprint_kicad_package_so_tsop_i_24_14_4x6mm_p0_5mm
+    oomp_key_full: oomp_footprint_kicad_package_so_tsop_i_24_14_4x6mm_p0_5mm_35c6f7
+    oomp_key_simple: kicad_package_so_tsop_i_24_14_4x6mm_p0_5mm
     original_filename: libraries/kicad-footprints/Package_SO.pretty/TSOP-I-24_14.4x6mm_P0.5mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_so_tsop_i_24_14_4x6mm_p0_5mm
+  oomp_key_full: oomp_footprint_kicad_package_so_tsop_i_24_14_4x6mm_p0_5mm
   oomp_key_simple: kicad_package_so_tsop_i_24_14_4x6mm_p0_5mm
   owner: kicad
   repo:

@@ -19,8 +19,9 @@ Please consult that link for additional, details, files, and license information
 | github_path | http://github.com/av-p/Avp.pretty/blob/master/SOIC-8-N.kicad_mod |  
 | links | {'github_src': 'http://gitlab.com/av-p/Avp.pretty/blob/master/XTAL-3215.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/av_p_avp_soic_8_n/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/av_p_avp_soic_8_n/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/av_p_avp_soic_8_n/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/av_p_avp_soic_8_n/working'} |  
 | name | Avp.pretty |  
-| oomp | {'footprint_name': 'soic_8_n', 'library_name': 'avp', 'original_filename': 'Avp.pretty/SOIC-8-N.kicad_mod', 'owner_name': 'av_p'} |  
+| oomp | {'footprint_name': 'soic_8_n', 'library_name': 'avp', 'md5': 'bdf214a8a078364f915e9f7f359fa656', 'md5_10': 'bdf214a8a0', 'md5_5': 'bdf21', 'md5_6': 'bdf214', 'oomp_key': 'oomp_av_p_avp_soic_8_n', 'oomp_key_extra': 'oomp_footprint_av_p_avp_soic_8_n', 'oomp_key_full': 'oomp_footprint_av_p_avp_soic_8_n_bdf214', 'oomp_key_simple': 'av_p_avp_soic_8_n', 'original_filename': 'Avp.pretty/SOIC-8-N.kicad_mod', 'owner_name': 'av_p'} |  
 | oomp_key | oomp_av_p_avp_soic_8_n |  
+| oomp_key_full | oomp_footprint_av_p_avp_soic_8_n |  
 | oomp_key_simple | av_p_avp_soic_8_n |  
 | owner | av-p |  
 | repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sw_spst_3x3
     library_name: keebio_parts
+    md5: 61476d2f07aeefe0560ef6b579b17f3e
+    md5_10: 61476d2f07
+    md5_5: '61476'
+    md5_6: 61476d
+    oomp_key: oomp_keebio_keebio_parts_sw_spst_3x3
+    oomp_key_extra: oomp_footprint_keebio_keebio_parts_sw_spst_3x3
+    oomp_key_full: oomp_footprint_keebio_keebio_parts_sw_spst_3x3_61476d
+    oomp_key_simple: keebio_keebio_parts_sw_spst_3x3
     original_filename: Keebio-Parts.pretty/SW_SPST_3x3.kicad_mod
     owner_name: keebio
   oomp_key: oomp_keebio_keebio_parts_sw_spst_3x3
+  oomp_key_full: oomp_footprint_keebio_keebio_parts_sw_spst_3x3
   oomp_key_simple: keebio_keebio_parts_sw_spst_3x3
   owner: keebio
   repo:

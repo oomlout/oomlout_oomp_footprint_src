@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_protocolumn_vcc
     library_name: xess
+    md5: 10ce16d1603dc474823780b178b10dee
+    md5_10: 10ce16d160
+    md5_5: 10ce1
+    md5_6: 10ce16
+    oomp_key: oomp_xesscorp_xess_xess_protocolumn_vcc
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_protocolumn_vcc
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_protocolumn_vcc_10ce16
+    oomp_key_simple: xesscorp_xess_xess_protocolumn_vcc
     original_filename: xess.pretty/xess-PROTOCOLUMN-VCC.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_protocolumn_vcc
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_protocolumn_vcc
   oomp_key_simple: xesscorp_xess_xess_protocolumn_vcc
   owner: xesscorp
   repo:

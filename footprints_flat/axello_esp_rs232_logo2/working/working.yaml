@@ -17,9 +17,18 @@
   oomp:
     footprint_name: logo2
     library_name: esp_rs232
+    md5: 6900aa2618e69074b374c1afb8b50cd6
+    md5_10: 6900aa2618
+    md5_5: 6900a
+    md5_6: 6900aa
+    oomp_key: oomp_axello_esp_rs232_logo2
+    oomp_key_extra: oomp_footprint_axello_esp_rs232_logo2
+    oomp_key_full: oomp_footprint_axello_esp_rs232_logo2_6900aa
+    oomp_key_simple: axello_esp_rs232_logo2
     original_filename: kicad/mods/ESP-RS232.pretty/LOGO2.kicad_mod
     owner_name: axello
   oomp_key: oomp_axello_esp_rs232_logo2
+  oomp_key_full: oomp_footprint_axello_esp_rs232_logo2
   oomp_key_simple: axello_esp_rs232_logo2
   owner: axello
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: connector_eth_magjack
     library_name: awallinkicadfootprints
+    md5: b39134f8ebe3ccb74345d920bee80c74
+    md5_10: b39134f8eb
+    md5_5: b3913
+    md5_6: b39134
+    oomp_key: oomp_aewallin_awallinkicadfootprints_connector_eth_magjack
+    oomp_key_extra: oomp_footprint_aewallin_awallinkicadfootprints_connector_eth_magjack
+    oomp_key_full: oomp_footprint_aewallin_awallinkicadfootprints_connector_eth_magjack_b39134
+    oomp_key_simple: aewallin_awallinkicadfootprints_connector_eth_magjack
     original_filename: awallinKiCadFootprints.pretty/Connector_ETH-MAGJACK.kicad_mod
     owner_name: aewallin
   oomp_key: oomp_aewallin_awallinkicadfootprints_connector_eth_magjack
+  oomp_key_full: oomp_footprint_aewallin_awallinkicadfootprints_connector_eth_magjack
   oomp_key_simple: aewallin_awallinkicadfootprints_connector_eth_magjack
   owner: aewallin
   repo:

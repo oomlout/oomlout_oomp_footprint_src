@@ -19,9 +19,18 @@
   oomp:
     footprint_name: oshw_symbol_22_3x20mm_copper
     library_name: symbol
+    md5: 152d5299add0728b377e5520e885d388
+    md5_10: 152d5299ad
+    md5_5: 152d5
+    md5_6: 152d52
+    oomp_key: oomp_iangitpers_symbol_oshw_symbol_22_3x20mm_copper
+    oomp_key_extra: oomp_footprint_iangitpers_symbol_oshw_symbol_22_3x20mm_copper
+    oomp_key_full: oomp_footprint_iangitpers_symbol_oshw_symbol_22_3x20mm_copper_152d52
+    oomp_key_simple: iangitpers_symbol_oshw_symbol_22_3x20mm_copper
     original_filename: 4a/Symbol.pretty/OSHW-Symbol_22.3x20mm_Copper.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_symbol_oshw_symbol_22_3x20mm_copper
+  oomp_key_full: oomp_footprint_iangitpers_symbol_oshw_symbol_22_3x20mm_copper
   oomp_key_simple: iangitpers_symbol_oshw_symbol_22_3x20mm_copper
   owner: Iangitpers
   repo:

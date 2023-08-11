@@ -17,9 +17,18 @@
   oomp:
     footprint_name: f_pth_amphenol
     library_name: agg
+    md5: 0e1ad8e416c573cfe781dbbff9e159c2
+    md5_10: 0e1ad8e416
+    md5_5: 0e1ad
+    md5_6: 0e1ad8
+    oomp_key: oomp_adamgreig_agg_f_pth_amphenol
+    oomp_key_extra: oomp_footprint_adamgreig_agg_f_pth_amphenol
+    oomp_key_full: oomp_footprint_adamgreig_agg_f_pth_amphenol_0e1ad8
+    oomp_key_simple: adamgreig_agg_f_pth_amphenol
     original_filename: agg-kicad/agg.pretty/F-PTH-AMPHENOL.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_f_pth_amphenol
+  oomp_key_full: oomp_footprint_adamgreig_agg_f_pth_amphenol
   oomp_key_simple: adamgreig_agg_f_pth_amphenol
   owner: adamgreig
   repo:

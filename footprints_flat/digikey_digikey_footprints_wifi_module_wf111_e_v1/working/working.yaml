@@ -17,9 +17,18 @@
   oomp:
     footprint_name: wifi_module_wf111_e_v1
     library_name: digikey_footprints
+    md5: 805a4537de2032f6036cf7ea40898193
+    md5_10: 805a4537de
+    md5_5: 805a4
+    md5_6: 805a45
+    oomp_key: oomp_digikey_digikey_footprints_wifi_module_wf111_e_v1
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_wifi_module_wf111_e_v1
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_wifi_module_wf111_e_v1_805a45
+    oomp_key_simple: digikey_digikey_footprints_wifi_module_wf111_e_v1
     original_filename: digikey-kicad-library/digikey-footprints.pretty/WIFI_Module_WF111-E-V1.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_wifi_module_wf111_e_v1
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_wifi_module_wf111_e_v1
   oomp_key_simple: digikey_digikey_footprints_wifi_module_wf111_e_v1
   owner: digikey
   repo:

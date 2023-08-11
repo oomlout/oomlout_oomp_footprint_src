@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sw_alps_matias_3_00u
     library_name: switch_keyboard_alps_matias
+    md5: c01261530297fe624db72f4a58c62b6d
+    md5_10: c012615302
+    md5_5: c0126
+    md5_6: c01261
+    oomp_key: oomp_wykys_switch_keyboard_alps_matias_sw_alps_matias_3_00u
+    oomp_key_extra: oomp_footprint_wykys_switch_keyboard_alps_matias_sw_alps_matias_3_00u
+    oomp_key_full: oomp_footprint_wykys_switch_keyboard_alps_matias_sw_alps_matias_3_00u_c01261
+    oomp_key_simple: wykys_switch_keyboard_alps_matias_sw_alps_matias_3_00u
     original_filename: kicad/6.0/3rdparty/footprints/com_github_perigoso_keyswitch-kicad-library/Switch_Keyboard_Alps_Matias.pretty/SW_Alps_Matias_3.00u.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_switch_keyboard_alps_matias_sw_alps_matias_3_00u
+  oomp_key_full: oomp_footprint_wykys_switch_keyboard_alps_matias_sw_alps_matias_3_00u
   oomp_key_simple: wykys_switch_keyboard_alps_matias_sw_alps_matias_3_00u
   owner: wykys
   repo:

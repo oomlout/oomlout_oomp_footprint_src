@@ -17,9 +17,18 @@
   oomp:
     footprint_name: linear_ls8_reflow
     library_name: manuf
+    md5: 65a1ce91d307f4831e68694043a1dfd1
+    md5_10: 65a1ce91d3
+    md5_5: 65a1c
+    md5_6: 65a1ce
+    oomp_key: oomp_cpavlina_manuf_linear_ls8_reflow
+    oomp_key_extra: oomp_footprint_cpavlina_manuf_linear_ls8_reflow
+    oomp_key_full: oomp_footprint_cpavlina_manuf_linear_ls8_reflow_65a1ce
+    oomp_key_simple: cpavlina_manuf_linear_ls8_reflow
     original_filename: kicad-pcblib/manuf.pretty/LINEAR-LS8-REFLOW.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_manuf_linear_ls8_reflow
+  oomp_key_full: oomp_footprint_cpavlina_manuf_linear_ls8_reflow
   oomp_key_simple: cpavlina_manuf_linear_ls8_reflow
   owner: cpavlina
   repo:

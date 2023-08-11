@@ -17,9 +17,18 @@
   oomp:
     footprint_name: psg01550
     library_name: agg
+    md5: 6d4999e5f89e4073a4b12efd292a134d
+    md5_10: 6d4999e5f8
+    md5_5: 6d499
+    md5_6: 6d4999
+    oomp_key: oomp_adamgreig_agg_psg01550
+    oomp_key_extra: oomp_footprint_adamgreig_agg_psg01550
+    oomp_key_full: oomp_footprint_adamgreig_agg_psg01550_6d4999
+    oomp_key_simple: adamgreig_agg_psg01550
     original_filename: agg-kicad/agg.pretty/PSG01550.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_psg01550
+  oomp_key_full: oomp_footprint_adamgreig_agg_psg01550
   oomp_key_simple: adamgreig_agg_psg01550
   owner: adamgreig
   repo:

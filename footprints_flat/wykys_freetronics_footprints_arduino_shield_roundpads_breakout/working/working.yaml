@@ -17,9 +17,18 @@
   oomp:
     footprint_name: arduino_shield_roundpads_breakout
     library_name: freetronics_footprints
+    md5: 323b2f6e06e7c4142131064a2e43ec6e
+    md5_10: 323b2f6e06
+    md5_5: 323b2
+    md5_6: 323b2f
+    oomp_key: oomp_wykys_freetronics_footprints_arduino_shield_roundpads_breakout
+    oomp_key_extra: oomp_footprint_wykys_freetronics_footprints_arduino_shield_roundpads_breakout
+    oomp_key_full: oomp_footprint_wykys_freetronics_footprints_arduino_shield_roundpads_breakout_323b2f
+    oomp_key_simple: wykys_freetronics_footprints_arduino_shield_roundpads_breakout
     original_filename: kicad/mods/freetronics_footprints.pretty/ARDUINO_SHIELD_ROUNDPADS_BREAKOUT.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_freetronics_footprints_arduino_shield_roundpads_breakout
+  oomp_key_full: oomp_footprint_wykys_freetronics_footprints_arduino_shield_roundpads_breakout
   oomp_key_simple: wykys_freetronics_footprints_arduino_shield_roundpads_breakout
   owner: wykys
   repo:

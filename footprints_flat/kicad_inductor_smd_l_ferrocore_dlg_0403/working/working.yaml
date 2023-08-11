@@ -18,9 +18,18 @@
   oomp:
     footprint_name: l_ferrocore_dlg_0403
     library_name: inductor_smd
+    md5: 6e3598e941fc94abd7006b51072a434e
+    md5_10: 6e3598e941
+    md5_5: 6e359
+    md5_6: 6e3598
+    oomp_key: oomp_kicad_inductor_smd_l_ferrocore_dlg_0403
+    oomp_key_extra: oomp_footprint_kicad_inductor_smd_l_ferrocore_dlg_0403
+    oomp_key_full: oomp_footprint_kicad_inductor_smd_l_ferrocore_dlg_0403_6e3598
+    oomp_key_simple: kicad_inductor_smd_l_ferrocore_dlg_0403
     original_filename: libraries/kicad-footprints/Inductor_SMD.pretty/L_Ferrocore_DLG-0403.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_inductor_smd_l_ferrocore_dlg_0403
+  oomp_key_full: oomp_footprint_kicad_inductor_smd_l_ferrocore_dlg_0403
   oomp_key_simple: kicad_inductor_smd_l_ferrocore_dlg_0403
   owner: kicad
   repo:

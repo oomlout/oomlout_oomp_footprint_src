@@ -17,9 +17,18 @@
   oomp:
     footprint_name: 0603_led
     library_name: agg
+    md5: b856ab4ec364518475602928d8b09626
+    md5_10: b856ab4ec3
+    md5_5: b856a
+    md5_6: b856ab
+    oomp_key: oomp_adamgreig_agg_0603_led
+    oomp_key_extra: oomp_footprint_adamgreig_agg_0603_led
+    oomp_key_full: oomp_footprint_adamgreig_agg_0603_led_b856ab
+    oomp_key_simple: adamgreig_agg_0603_led
     original_filename: agg-kicad/agg.pretty/0603-LED.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_0603_led
+  oomp_key_full: oomp_footprint_adamgreig_agg_0603_led
   oomp_key_simple: adamgreig_agg_0603_led
   owner: adamgreig
   repo:

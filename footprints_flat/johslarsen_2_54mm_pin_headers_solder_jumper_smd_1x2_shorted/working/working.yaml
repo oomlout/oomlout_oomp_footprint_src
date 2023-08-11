@@ -17,9 +17,18 @@
   oomp:
     footprint_name: solder_jumper_smd_1x2_shorted
     library_name: 2_54mm_pin_headers
+    md5: 6af6f7f32dd30a4dab75c365035fb477
+    md5_10: 6af6f7f32d
+    md5_5: 6af6f
+    md5_6: 6af6f7
+    oomp_key: oomp_johslarsen_2_54mm_pin_headers_solder_jumper_smd_1x2_shorted
+    oomp_key_extra: oomp_footprint_johslarsen_2_54mm_pin_headers_solder_jumper_smd_1x2_shorted
+    oomp_key_full: oomp_footprint_johslarsen_2_54mm_pin_headers_solder_jumper_smd_1x2_shorted_6af6f7
+    oomp_key_simple: johslarsen_2_54mm_pin_headers_solder_jumper_smd_1x2_shorted
     original_filename: 2.54mm_Pin_Headers.pretty/Solder_Jumper_SMD_1x2_Shorted.kicad_mod
     owner_name: johslarsen
   oomp_key: oomp_johslarsen_2_54mm_pin_headers_solder_jumper_smd_1x2_shorted
+  oomp_key_full: oomp_footprint_johslarsen_2_54mm_pin_headers_solder_jumper_smd_1x2_shorted
   oomp_key_simple: johslarsen_2_54mm_pin_headers_solder_jumper_smd_1x2_shorted
   owner: johslarsen
   repo:

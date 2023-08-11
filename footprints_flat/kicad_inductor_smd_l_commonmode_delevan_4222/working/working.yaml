@@ -17,9 +17,18 @@
   oomp:
     footprint_name: l_commonmode_delevan_4222
     library_name: inductor_smd
+    md5: 12168c888a24fdbb2f55b5bd53a1d474
+    md5_10: 12168c888a
+    md5_5: '12168'
+    md5_6: 12168c
+    oomp_key: oomp_kicad_inductor_smd_l_commonmode_delevan_4222
+    oomp_key_extra: oomp_footprint_kicad_inductor_smd_l_commonmode_delevan_4222
+    oomp_key_full: oomp_footprint_kicad_inductor_smd_l_commonmode_delevan_4222_12168c
+    oomp_key_simple: kicad_inductor_smd_l_commonmode_delevan_4222
     original_filename: libraries/kicad-footprints/Inductor_SMD.pretty/L_CommonMode_Delevan_4222.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_inductor_smd_l_commonmode_delevan_4222
+  oomp_key_full: oomp_footprint_kicad_inductor_smd_l_commonmode_delevan_4222
   oomp_key_simple: kicad_inductor_smd_l_commonmode_delevan_4222
   owner: kicad
   repo:

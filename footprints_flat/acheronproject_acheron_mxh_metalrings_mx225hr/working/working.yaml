@@ -17,9 +17,18 @@
   oomp:
     footprint_name: mx225hr
     library_name: acheron_mxh_metalrings
+    md5: 15b5b568018c008d31ea9555ba92ab9b
+    md5_10: 15b5b56801
+    md5_5: 15b5b
+    md5_6: 15b5b5
+    oomp_key: oomp_acheronproject_acheron_mxh_metalrings_mx225hr
+    oomp_key_extra: oomp_footprint_acheronproject_acheron_mxh_metalrings_mx225hr
+    oomp_key_full: oomp_footprint_acheronproject_acheron_mxh_metalrings_mx225hr_15b5b5
+    oomp_key_simple: acheronproject_acheron_mxh_metalrings_mx225hr
     original_filename: acheron_MXH_metalrings.pretty/MX225HR.kicad_mod
     owner_name: acheronproject
   oomp_key: oomp_acheronproject_acheron_mxh_metalrings_mx225hr
+  oomp_key_full: oomp_footprint_acheronproject_acheron_mxh_metalrings_mx225hr
   oomp_key_simple: acheronproject_acheron_mxh_metalrings_mx225hr
   owner: AcheronProject
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: rotaryencoder_alps_ec11e_and_cherrymx_hotswap
     library_name: tahutech
+    md5: 2d235674a516b08ee25ad68da21f194c
+    md5_10: 2d235674a5
+    md5_5: 2d235
+    md5_6: 2d2356
+    oomp_key: oomp_tahutech_tahutech_rotaryencoder_alps_ec11e_and_cherrymx_hotswap
+    oomp_key_extra: oomp_footprint_tahutech_tahutech_rotaryencoder_alps_ec11e_and_cherrymx_hotswap
+    oomp_key_full: oomp_footprint_tahutech_tahutech_rotaryencoder_alps_ec11e_and_cherrymx_hotswap_2d2356
+    oomp_key_simple: tahutech_tahutech_rotaryencoder_alps_ec11e_and_cherrymx_hotswap
     original_filename: tahutech.pretty/RotaryEncoder_Alps_EC11E-and-CherryMX-Hotswap.kicad_mod
     owner_name: tahutech
   oomp_key: oomp_tahutech_tahutech_rotaryencoder_alps_ec11e_and_cherrymx_hotswap
+  oomp_key_full: oomp_footprint_tahutech_tahutech_rotaryencoder_alps_ec11e_and_cherrymx_hotswap
   oomp_key_simple: tahutech_tahutech_rotaryencoder_alps_ec11e_and_cherrymx_hotswap
   owner: TahuTech
   repo:

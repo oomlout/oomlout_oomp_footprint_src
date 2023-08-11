@@ -17,9 +17,18 @@
   oomp:
     footprint_name: mount_hole_m1_6
     library_name: sh_mechanical
+    md5: 7ac0740b6ab8ca7baf5e449733b60528
+    md5_10: 7ac0740b6a
+    md5_5: 7ac07
+    md5_6: 7ac074
+    oomp_key: oomp_stefanhamminga_sh_mechanical_mount_hole_m1_6
+    oomp_key_extra: oomp_footprint_stefanhamminga_sh_mechanical_mount_hole_m1_6
+    oomp_key_full: oomp_footprint_stefanhamminga_sh_mechanical_mount_hole_m1_6_7ac074
+    oomp_key_simple: stefanhamminga_sh_mechanical_mount_hole_m1_6
     original_filename: SH_Mechanical.pretty/MOUNT_HOLE_M1.6.kicad_mod
     owner_name: stefanhamminga
   oomp_key: oomp_stefanhamminga_sh_mechanical_mount_hole_m1_6
+  oomp_key_full: oomp_footprint_stefanhamminga_sh_mechanical_mount_hole_m1_6
   oomp_key_simple: stefanhamminga_sh_mechanical_mount_hole_m1_6
   owner: StefanHamminga
   repo:

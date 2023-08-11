@@ -17,9 +17,18 @@
   oomp:
     footprint_name: usb_board_edge
     library_name: crumpprints
+    md5: bdac727fca2a8f36e45f435f81dff1fc
+    md5_10: bdac727fca
+    md5_5: bdac7
+    md5_6: bdac72
+    oomp_key: oomp_tylercrumpton_crumpprints_usb_board_edge
+    oomp_key_extra: oomp_footprint_tylercrumpton_crumpprints_usb_board_edge
+    oomp_key_full: oomp_footprint_tylercrumpton_crumpprints_usb_board_edge_bdac72
+    oomp_key_simple: tylercrumpton_crumpprints_usb_board_edge
     original_filename: CrumpPrints.pretty/USB_Board_Edge.kicad_mod
     owner_name: tylercrumpton
   oomp_key: oomp_tylercrumpton_crumpprints_usb_board_edge
+  oomp_key_full: oomp_footprint_tylercrumpton_crumpprints_usb_board_edge
   oomp_key_simple: tylercrumpton_crumpprints_usb_board_edge
   owner: tylercrumpton
   repo:

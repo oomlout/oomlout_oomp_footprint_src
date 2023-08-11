@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sc_74
     library_name: digikey_footprints
+    md5: e28f93a0a56ec72e77b437dd1c545fda
+    md5_10: e28f93a0a5
+    md5_5: e28f9
+    md5_6: e28f93
+    oomp_key: oomp_digikey_digikey_footprints_sc_74
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_sc_74
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_sc_74_e28f93
+    oomp_key_simple: digikey_digikey_footprints_sc_74
     original_filename: digikey-kicad-library/digikey-footprints.pretty/SC-74.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_sc_74
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_sc_74
   oomp_key_simple: digikey_digikey_footprints_sc_74
   owner: digikey
   repo:

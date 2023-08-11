@@ -18,9 +18,18 @@
   oomp:
     footprint_name: eqfp_144_1ep_20x20mm_p0_5mm_ep6_61x5_615mm
     library_name: package_qfp
+    md5: a815c75cda7447833c4a666cd823f3ad
+    md5_10: a815c75cda
+    md5_5: a815c
+    md5_6: a815c7
+    oomp_key: oomp_kicad_package_qfp_eqfp_144_1ep_20x20mm_p0_5mm_ep6_61x5_615mm
+    oomp_key_extra: oomp_footprint_kicad_package_qfp_eqfp_144_1ep_20x20mm_p0_5mm_ep6_61x5_615mm
+    oomp_key_full: oomp_footprint_kicad_package_qfp_eqfp_144_1ep_20x20mm_p0_5mm_ep6_61x5_615mm_a815c7
+    oomp_key_simple: kicad_package_qfp_eqfp_144_1ep_20x20mm_p0_5mm_ep6_61x5_615mm
     original_filename: libraries/kicad-footprints/Package_QFP.pretty/EQFP-144-1EP_20x20mm_P0.5mm_EP6.61x5.615mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_qfp_eqfp_144_1ep_20x20mm_p0_5mm_ep6_61x5_615mm
+  oomp_key_full: oomp_footprint_kicad_package_qfp_eqfp_144_1ep_20x20mm_p0_5mm_ep6_61x5_615mm
   oomp_key_simple: kicad_package_qfp_eqfp_144_1ep_20x20mm_p0_5mm_ep6_61x5_615mm
   owner: kicad
   repo:

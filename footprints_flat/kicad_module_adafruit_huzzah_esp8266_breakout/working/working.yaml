@@ -17,9 +17,18 @@
   oomp:
     footprint_name: adafruit_huzzah_esp8266_breakout
     library_name: module
+    md5: 14295c0419decd047f2b8a518aa87691
+    md5_10: 14295c0419
+    md5_5: '14295'
+    md5_6: 14295c
+    oomp_key: oomp_kicad_module_adafruit_huzzah_esp8266_breakout
+    oomp_key_extra: oomp_footprint_kicad_module_adafruit_huzzah_esp8266_breakout
+    oomp_key_full: oomp_footprint_kicad_module_adafruit_huzzah_esp8266_breakout_14295c
+    oomp_key_simple: kicad_module_adafruit_huzzah_esp8266_breakout
     original_filename: libraries/kicad-footprints/Module.pretty/Adafruit_HUZZAH_ESP8266_breakout.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_module_adafruit_huzzah_esp8266_breakout
+  oomp_key_full: oomp_footprint_kicad_module_adafruit_huzzah_esp8266_breakout
   oomp_key_simple: kicad_module_adafruit_huzzah_esp8266_breakout
   owner: kicad
   repo:

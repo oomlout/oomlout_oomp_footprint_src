@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sw_tactile_skhh_angled
     library_name: button_switch_tht
+    md5: d411d75e5d0e129686cd01b289766c22
+    md5_10: d411d75e5d
+    md5_5: d411d
+    md5_6: d411d7
+    oomp_key: oomp_kicad_button_switch_tht_sw_tactile_skhh_angled
+    oomp_key_extra: oomp_footprint_kicad_button_switch_tht_sw_tactile_skhh_angled
+    oomp_key_full: oomp_footprint_kicad_button_switch_tht_sw_tactile_skhh_angled_d411d7
+    oomp_key_simple: kicad_button_switch_tht_sw_tactile_skhh_angled
     original_filename: libraries/kicad-footprints/Button_Switch_THT.pretty/SW_Tactile_SKHH_Angled.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_button_switch_tht_sw_tactile_skhh_angled
+  oomp_key_full: oomp_footprint_kicad_button_switch_tht_sw_tactile_skhh_angled
   oomp_key_simple: kicad_button_switch_tht_sw_tactile_skhh_angled
   owner: kicad
   repo:

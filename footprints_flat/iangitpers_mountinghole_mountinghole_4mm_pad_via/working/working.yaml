@@ -19,9 +19,18 @@
   oomp:
     footprint_name: mountinghole_4mm_pad_via
     library_name: mountinghole
+    md5: e576edf09054cf8c07a3bdd7bf16b045
+    md5_10: e576edf090
+    md5_5: e576e
+    md5_6: e576ed
+    oomp_key: oomp_iangitpers_mountinghole_mountinghole_4mm_pad_via
+    oomp_key_extra: oomp_footprint_iangitpers_mountinghole_mountinghole_4mm_pad_via
+    oomp_key_full: oomp_footprint_iangitpers_mountinghole_mountinghole_4mm_pad_via_e576ed
+    oomp_key_simple: iangitpers_mountinghole_mountinghole_4mm_pad_via
     original_filename: 4a/MountingHole.pretty/MountingHole_4mm_Pad_Via.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_mountinghole_mountinghole_4mm_pad_via
+  oomp_key_full: oomp_footprint_iangitpers_mountinghole_mountinghole_4mm_pad_via
   oomp_key_simple: iangitpers_mountinghole_mountinghole_4mm_pad_via
   owner: Iangitpers
   repo:

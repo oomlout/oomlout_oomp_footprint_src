@@ -17,9 +17,18 @@
   oomp:
     footprint_name: tor_8p_ht4_smt_8pin_(0626)
     library_name: transformers_wurthelektronik
+    md5: 452209da70516b17f734900a52f82e27
+    md5_10: 452209da70
+    md5_5: '45220'
+    md5_6: '452209'
+    oomp_key: oomp_wurthelectronics_transformers_wurthelektronik_tor_8p_ht4_smt_8pin_(0626)
+    oomp_key_extra: oomp_footprint_wurthelectronics_transformers_wurthelektronik_tor_8p_ht4_smt_8pin_(0626)
+    oomp_key_full: oomp_footprint_wurthelectronics_transformers_wurthelektronik_tor_8p_ht4_smt_8pin_(0626)_452209
+    oomp_key_simple: wurthelectronics_transformers_wurthelektronik_tor_8p_ht4_smt_8pin_(0626)
     original_filename: Transformers_WurthElektronik.pretty/TOR-8P-HT4_SMT_8PIN_(0626).kicad_mod
     owner_name: wurthelectronics
   oomp_key: oomp_wurthelectronics_transformers_wurthelektronik_tor_8p_ht4_smt_8pin_(0626)
+  oomp_key_full: oomp_footprint_wurthelectronics_transformers_wurthelektronik_tor_8p_ht4_smt_8pin_(0626)
   oomp_key_simple: wurthelectronics_transformers_wurthelektronik_tor_8p_ht4_smt_8pin_(0626)
   owner: WurthElectronics
   repo:

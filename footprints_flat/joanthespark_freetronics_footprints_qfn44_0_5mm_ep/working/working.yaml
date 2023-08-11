@@ -17,9 +17,18 @@
   oomp:
     footprint_name: qfn44_0_5mm_ep
     library_name: freetronics_footprints
+    md5: 5961b63468c786b424e7f401a13bf7a7
+    md5_10: 5961b63468
+    md5_5: 5961b
+    md5_6: 5961b6
+    oomp_key: oomp_joanthespark_freetronics_footprints_qfn44_0_5mm_ep
+    oomp_key_extra: oomp_footprint_joanthespark_freetronics_footprints_qfn44_0_5mm_ep
+    oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_qfn44_0_5mm_ep_5961b6
+    oomp_key_simple: joanthespark_freetronics_footprints_qfn44_0_5mm_ep
     original_filename: KiCAD/mods/freetronics_footprints.pretty/QFN44_0.5mm_EP.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_freetronics_footprints_qfn44_0_5mm_ep
+  oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_qfn44_0_5mm_ep
   oomp_key_simple: joanthespark_freetronics_footprints_qfn44_0_5mm_ep
   owner: JoanTheSpark
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: diode_eia7343
     library_name: freetronics_footprints
+    md5: f9ba95f83b0f14c83c3075db722f27cc
+    md5_10: f9ba95f83b
+    md5_5: f9ba9
+    md5_6: f9ba95
+    oomp_key: oomp_joanthespark_freetronics_footprints_diode_eia7343
+    oomp_key_extra: oomp_footprint_joanthespark_freetronics_footprints_diode_eia7343
+    oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_diode_eia7343_f9ba95
+    oomp_key_simple: joanthespark_freetronics_footprints_diode_eia7343
     original_filename: KiCAD/mods/freetronics_footprints.pretty/DIODE_EIA7343.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_freetronics_footprints_diode_eia7343
+  oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_diode_eia7343
   oomp_key_simple: joanthespark_freetronics_footprints_diode_eia7343
   owner: JoanTheSpark
   repo:

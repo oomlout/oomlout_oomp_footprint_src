@@ -17,9 +17,18 @@
   oomp:
     footprint_name: connector_sata_7_smd_mod
     library_name: awallinkicadfootprints
+    md5: 79b526b7bc9c6d77058d04a4ab0e4838
+    md5_10: 79b526b7bc
+    md5_5: 79b52
+    md5_6: 79b526
+    oomp_key: oomp_aewallin_awallinkicadfootprints_connector_sata_7_smd_mod
+    oomp_key_extra: oomp_footprint_aewallin_awallinkicadfootprints_connector_sata_7_smd_mod
+    oomp_key_full: oomp_footprint_aewallin_awallinkicadfootprints_connector_sata_7_smd_mod_79b526
+    oomp_key_simple: aewallin_awallinkicadfootprints_connector_sata_7_smd_mod
     original_filename: awallinKiCadFootprints.pretty/Connector_SATA-7_SMD_mod.kicad_mod
     owner_name: aewallin
   oomp_key: oomp_aewallin_awallinkicadfootprints_connector_sata_7_smd_mod
+  oomp_key_full: oomp_footprint_aewallin_awallinkicadfootprints_connector_sata_7_smd_mod
   oomp_key_simple: aewallin_awallinkicadfootprints_connector_sata_7_smd_mod
   owner: aewallin
   repo:

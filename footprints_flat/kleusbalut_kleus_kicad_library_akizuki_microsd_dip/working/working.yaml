@@ -17,9 +17,18 @@
   oomp:
     footprint_name: akizuki_microsd_dip
     library_name: kleus_kicad_library
+    md5: f057b9485897a741dc506d072d6640fd
+    md5_10: f057b94858
+    md5_5: f057b
+    md5_6: f057b9
+    oomp_key: oomp_kleusbalut_kleus_kicad_library_akizuki_microsd_dip
+    oomp_key_extra: oomp_footprint_kleusbalut_kleus_kicad_library_akizuki_microsd_dip
+    oomp_key_full: oomp_footprint_kleusbalut_kleus_kicad_library_akizuki_microsd_dip_f057b9
+    oomp_key_simple: kleusbalut_kleus_kicad_library_akizuki_microsd_dip
     original_filename: kleus_kicad_library.pretty/Akizuki_microSD-Dip.kicad_mod
     owner_name: kleusbalut
   oomp_key: oomp_kleusbalut_kleus_kicad_library_akizuki_microsd_dip
+  oomp_key_full: oomp_footprint_kleusbalut_kleus_kicad_library_akizuki_microsd_dip
   oomp_key_simple: kleusbalut_kleus_kicad_library_akizuki_microsd_dip
   owner: kleusbalut
   repo:

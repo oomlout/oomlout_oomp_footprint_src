@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_eg1271
     library_name: xess
+    md5: 1d57ce77cea097c99ecad9729e256744
+    md5_10: 1d57ce77ce
+    md5_5: 1d57c
+    md5_6: 1d57ce
+    oomp_key: oomp_xesscorp_xess_xess_eg1271
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_eg1271
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_eg1271_1d57ce
+    oomp_key_simple: xesscorp_xess_xess_eg1271
     original_filename: xess.pretty/xess-EG1271.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_eg1271
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_eg1271
   oomp_key_simple: xesscorp_xess_xess_eg1271
   owner: xesscorp
   repo:

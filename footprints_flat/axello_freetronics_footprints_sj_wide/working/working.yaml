@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sj_wide
     library_name: freetronics_footprints
+    md5: 0651a0bd2b1cb61c5b3b2db8a5c671dd
+    md5_10: 0651a0bd2b
+    md5_5: 0651a
+    md5_6: 0651a0
+    oomp_key: oomp_axello_freetronics_footprints_sj_wide
+    oomp_key_extra: oomp_footprint_axello_freetronics_footprints_sj_wide
+    oomp_key_full: oomp_footprint_axello_freetronics_footprints_sj_wide_0651a0
+    oomp_key_simple: axello_freetronics_footprints_sj_wide
     original_filename: kicad/mods/freetronics_footprints.pretty/SJ_WIDE.kicad_mod
     owner_name: axello
   oomp_key: oomp_axello_freetronics_footprints_sj_wide
+  oomp_key_full: oomp_footprint_axello_freetronics_footprints_sj_wide
   oomp_key_simple: axello_freetronics_footprints_sj_wide
   owner: axello
   repo:

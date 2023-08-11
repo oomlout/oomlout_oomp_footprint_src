@@ -17,9 +17,18 @@
   oomp:
     footprint_name: rohs_logo_12mm_silkscreen
     library_name: symbol
+    md5: a19d86606a8c1cfccf7ff4a3d9e6d00b
+    md5_10: a19d86606a
+    md5_5: a19d8
+    md5_6: a19d86
+    oomp_key: oomp_kicad_symbol_rohs_logo_12mm_silkscreen
+    oomp_key_extra: oomp_footprint_kicad_symbol_rohs_logo_12mm_silkscreen
+    oomp_key_full: oomp_footprint_kicad_symbol_rohs_logo_12mm_silkscreen_a19d86
+    oomp_key_simple: kicad_symbol_rohs_logo_12mm_silkscreen
     original_filename: libraries/kicad-footprints/Symbol.pretty/RoHS-Logo_12mm_SilkScreen.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_symbol_rohs_logo_12mm_silkscreen
+  oomp_key_full: oomp_footprint_kicad_symbol_rohs_logo_12mm_silkscreen
   oomp_key_simple: kicad_symbol_rohs_logo_12mm_silkscreen
   owner: kicad
   repo:

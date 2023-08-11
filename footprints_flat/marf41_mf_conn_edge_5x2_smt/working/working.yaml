@@ -17,9 +17,18 @@
   oomp:
     footprint_name: edge_5x2_smt
     library_name: mf_conn
+    md5: 5fc777ced123b0c72bc2716145362ad6
+    md5_10: 5fc777ced1
+    md5_5: 5fc77
+    md5_6: 5fc777
+    oomp_key: oomp_marf41_mf_conn_edge_5x2_smt
+    oomp_key_extra: oomp_footprint_marf41_mf_conn_edge_5x2_smt
+    oomp_key_full: oomp_footprint_marf41_mf_conn_edge_5x2_smt_5fc777
+    oomp_key_simple: marf41_mf_conn_edge_5x2_smt
     original_filename: MF-conn.pretty/EDGE-5x2-SMT.kicad_mod
     owner_name: marf41
   oomp_key: oomp_marf41_mf_conn_edge_5x2_smt
+  oomp_key_full: oomp_footprint_marf41_mf_conn_edge_5x2_smt
   oomp_key_simple: marf41_mf_conn_edge_5x2_smt
   owner: marf41
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: swd_pogo
     library_name: mf_conn
+    md5: 7640af51a0869f60a6c74921ae55d56c
+    md5_10: 7640af51a0
+    md5_5: 7640a
+    md5_6: 7640af
+    oomp_key: oomp_marf41_mf_conn_swd_pogo
+    oomp_key_extra: oomp_footprint_marf41_mf_conn_swd_pogo
+    oomp_key_full: oomp_footprint_marf41_mf_conn_swd_pogo_7640af
+    oomp_key_simple: marf41_mf_conn_swd_pogo
     original_filename: MF-conn.pretty/SWD-POGO.kicad_mod
     owner_name: marf41
   oomp_key: oomp_marf41_mf_conn_swd_pogo
+  oomp_key_full: oomp_footprint_marf41_mf_conn_swd_pogo
   oomp_key_simple: marf41_mf_conn_swd_pogo
   owner: marf41
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: teensy_4_0
     library_name: usst_footprints
+    md5: 7f83542801fde1ef9f91c7a4fef11f28
+    md5_10: 7f83542801
+    md5_5: 7f835
+    md5_6: 7f8354
+    oomp_key: oomp_uofsspacedesignteam_usst_footprints_teensy_4_0
+    oomp_key_extra: oomp_footprint_uofsspacedesignteam_usst_footprints_teensy_4_0
+    oomp_key_full: oomp_footprint_uofsspacedesignteam_usst_footprints_teensy_4_0_7f8354
+    oomp_key_simple: uofsspacedesignteam_usst_footprints_teensy_4_0
     original_filename: USST-footprints.pretty/Teensy_4.0.kicad_mod
     owner_name: uofsspacedesignteam
   oomp_key: oomp_uofsspacedesignteam_usst_footprints_teensy_4_0
+  oomp_key_full: oomp_footprint_uofsspacedesignteam_usst_footprints_teensy_4_0
   oomp_key_simple: uofsspacedesignteam_usst_footprints_teensy_4_0
   owner: UofSSpaceDesignTeam
   repo:

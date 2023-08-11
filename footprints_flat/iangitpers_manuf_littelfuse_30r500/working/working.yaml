@@ -19,9 +19,18 @@
   oomp:
     footprint_name: littelfuse_30r500
     library_name: manuf
+    md5: 4d3ba13ed14f8b60e97a9b4cf08e7b05
+    md5_10: 4d3ba13ed1
+    md5_5: 4d3ba
+    md5_6: 4d3ba1
+    oomp_key: oomp_iangitpers_manuf_littelfuse_30r500
+    oomp_key_extra: oomp_footprint_iangitpers_manuf_littelfuse_30r500
+    oomp_key_full: oomp_footprint_iangitpers_manuf_littelfuse_30r500_4d3ba1
+    oomp_key_simple: iangitpers_manuf_littelfuse_30r500
     original_filename: 4a/manuf.pretty/LITTELFUSE-30R500.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_manuf_littelfuse_30r500
+  oomp_key_full: oomp_footprint_iangitpers_manuf_littelfuse_30r500
   oomp_key_simple: iangitpers_manuf_littelfuse_30r500
   owner: Iangitpers
   repo:

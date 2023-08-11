@@ -17,9 +17,18 @@
   oomp:
     footprint_name: oshw_10mm
     library_name: mech
+    md5: e1d5f2a9bb1b3bb3e30d718c15ad857a
+    md5_10: e1d5f2a9bb
+    md5_5: e1d5f
+    md5_6: e1d5f2
+    oomp_key: oomp_cpavlina_mech_oshw_10mm
+    oomp_key_extra: oomp_footprint_cpavlina_mech_oshw_10mm
+    oomp_key_full: oomp_footprint_cpavlina_mech_oshw_10mm_e1d5f2
+    oomp_key_simple: cpavlina_mech_oshw_10mm
     original_filename: kicad-pcblib/mech.pretty/OSHW-10mm.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_mech_oshw_10mm
+  oomp_key_full: oomp_footprint_cpavlina_mech_oshw_10mm
   oomp_key_simple: cpavlina_mech_oshw_10mm
   owner: cpavlina
   repo:

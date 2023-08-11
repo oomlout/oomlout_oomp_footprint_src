@@ -19,9 +19,18 @@
   oomp:
     footprint_name: phoenixcontact_mstb_2,5_7_gf_1x07_p5_00mm_horizontal_threadedflange
     library_name: connector_phoenix_mstb
+    md5: 54c24d5583f11135e3a36c3c7ba2e1c5
+    md5_10: 54c24d5583
+    md5_5: 54c24
+    md5_6: 54c24d
+    oomp_key: oomp_kicad_connector_phoenix_mstb_phoenixcontact_mstb_2,5_7_gf_1x07_p5_00mm_horizontal_threadedflange
+    oomp_key_extra: oomp_footprint_kicad_connector_phoenix_mstb_phoenixcontact_mstb_2,5_7_gf_1x07_p5_00mm_horizontal_threadedflange
+    oomp_key_full: oomp_footprint_kicad_connector_phoenix_mstb_phoenixcontact_mstb_2,5_7_gf_1x07_p5_00mm_horizontal_threadedflange_54c24d
+    oomp_key_simple: kicad_connector_phoenix_mstb_phoenixcontact_mstb_2,5_7_gf_1x07_p5_00mm_horizontal_threadedflange
     original_filename: libraries/kicad-footprints/Connector_Phoenix_MSTB.pretty/PhoenixContact_MSTB_2,5_7-GF_1x07_P5.00mm_Horizontal_ThreadedFlange.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_phoenix_mstb_phoenixcontact_mstb_2,5_7_gf_1x07_p5_00mm_horizontal_threadedflange
+  oomp_key_full: oomp_footprint_kicad_connector_phoenix_mstb_phoenixcontact_mstb_2,5_7_gf_1x07_p5_00mm_horizontal_threadedflange
   oomp_key_simple: kicad_connector_phoenix_mstb_phoenixcontact_mstb_2,5_7_gf_1x07_p5_00mm_horizontal_threadedflange
   owner: kicad
   repo:

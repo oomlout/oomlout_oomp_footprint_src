@@ -17,9 +17,18 @@
   oomp:
     footprint_name: tc_wide_18mm
     library_name: crumpprintsymbols
+    md5: ce61986f3df3b5ff6db1c2e71fdce286
+    md5_10: ce61986f3d
+    md5_5: ce619
+    md5_6: ce6198
+    oomp_key: oomp_tylercrumpton_crumpprintsymbols_tc_wide_18mm
+    oomp_key_extra: oomp_footprint_tylercrumpton_crumpprintsymbols_tc_wide_18mm
+    oomp_key_full: oomp_footprint_tylercrumpton_crumpprintsymbols_tc_wide_18mm_ce6198
+    oomp_key_simple: tylercrumpton_crumpprintsymbols_tc_wide_18mm
     original_filename: CrumpPrintSymbols.pretty/tc_wide_18mm.kicad_mod
     owner_name: tylercrumpton
   oomp_key: oomp_tylercrumpton_crumpprintsymbols_tc_wide_18mm
+  oomp_key_full: oomp_footprint_tylercrumpton_crumpprintsymbols_tc_wide_18mm
   oomp_key_simple: tylercrumpton_crumpprintsymbols_tc_wide_18mm
   owner: tylercrumpton
   repo:

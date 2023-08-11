@@ -17,9 +17,18 @@
   oomp:
     footprint_name: mx250h
     library_name: acheron_mxh
+    md5: a962352ca07cb404aad5fe76fe94f0e5
+    md5_10: a962352ca0
+    md5_5: a9623
+    md5_6: a96235
+    oomp_key: oomp_acheronproject_acheron_mxh_mx250h
+    oomp_key_extra: oomp_footprint_acheronproject_acheron_mxh_mx250h
+    oomp_key_full: oomp_footprint_acheronproject_acheron_mxh_mx250h_a96235
+    oomp_key_simple: acheronproject_acheron_mxh_mx250h
     original_filename: acheron_MXH.pretty/MX250H.kicad_mod
     owner_name: acheronproject
   oomp_key: oomp_acheronproject_acheron_mxh_mx250h
+  oomp_key_full: oomp_footprint_acheronproject_acheron_mxh_mx250h
   oomp_key_simple: acheronproject_acheron_mxh_mx250h
   owner: AcheronProject
   repo:

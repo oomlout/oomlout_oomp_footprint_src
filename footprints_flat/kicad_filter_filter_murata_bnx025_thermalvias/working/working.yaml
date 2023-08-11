@@ -17,9 +17,18 @@
   oomp:
     footprint_name: filter_murata_bnx025_thermalvias
     library_name: filter
+    md5: a02e8286948558fe80df263d0b09738e
+    md5_10: a02e828694
+    md5_5: a02e8
+    md5_6: a02e82
+    oomp_key: oomp_kicad_filter_filter_murata_bnx025_thermalvias
+    oomp_key_extra: oomp_footprint_kicad_filter_filter_murata_bnx025_thermalvias
+    oomp_key_full: oomp_footprint_kicad_filter_filter_murata_bnx025_thermalvias_a02e82
+    oomp_key_simple: kicad_filter_filter_murata_bnx025_thermalvias
     original_filename: libraries/kicad-footprints/Filter.pretty/Filter_Murata_BNX025_ThermalVias.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_filter_filter_murata_bnx025_thermalvias
+  oomp_key_full: oomp_footprint_kicad_filter_filter_murata_bnx025_thermalvias
   oomp_key_simple: kicad_filter_filter_murata_bnx025_thermalvias
   owner: kicad
   repo:

@@ -19,8 +19,9 @@ Please consult that link for additional, details, files, and license information
 | github_path | http://github.com/antonchromjak/kicad_subory.pretty/blob/master/DFN5.kicad_mod |  
 | links | {'github_src': 'http://gitlab.com/antonchromjak/kicad_subory.pretty/blob/master/WSON10__.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/antonchromjak_kicad_subory_dfn5/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/antonchromjak_kicad_subory_dfn5/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/antonchromjak_kicad_subory_dfn5/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/antonchromjak_kicad_subory_dfn5/working'} |  
 | name | kicad_subory.pretty |  
-| oomp | {'footprint_name': 'dfn5', 'library_name': 'kicad_subory', 'original_filename': 'kicad_subory.pretty/DFN5.kicad_mod', 'owner_name': 'antonchromjak'} |  
+| oomp | {'footprint_name': 'dfn5', 'library_name': 'kicad_subory', 'md5': 'd658d251f8b027339a9f7ada512674d5', 'md5_10': 'd658d251f8', 'md5_5': 'd658d', 'md5_6': 'd658d2', 'oomp_key': 'oomp_antonchromjak_kicad_subory_dfn5', 'oomp_key_extra': 'oomp_footprint_antonchromjak_kicad_subory_dfn5', 'oomp_key_full': 'oomp_footprint_antonchromjak_kicad_subory_dfn5_d658d2', 'oomp_key_simple': 'antonchromjak_kicad_subory_dfn5', 'original_filename': 'kicad_subory.pretty/DFN5.kicad_mod', 'owner_name': 'antonchromjak'} |  
 | oomp_key | oomp_antonchromjak_kicad_subory_dfn5 |  
+| oomp_key_full | oomp_footprint_antonchromjak_kicad_subory_dfn5 |  
 | oomp_key_simple | antonchromjak_kicad_subory_dfn5 |  
 | owner | antonchromjak |  
 | repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  

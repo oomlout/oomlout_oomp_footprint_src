@@ -18,9 +18,18 @@
   oomp:
     footprint_name: jst_jwpf_b08b_jwpf_sk_r_2x04_p2_00mm_vertical
     library_name: connector_jst
+    md5: d2b068d70da11f402354d949a7ec2074
+    md5_10: d2b068d70d
+    md5_5: d2b06
+    md5_6: d2b068
+    oomp_key: oomp_kicad_connector_jst_jst_jwpf_b08b_jwpf_sk_r_2x04_p2_00mm_vertical
+    oomp_key_extra: oomp_footprint_kicad_connector_jst_jst_jwpf_b08b_jwpf_sk_r_2x04_p2_00mm_vertical
+    oomp_key_full: oomp_footprint_kicad_connector_jst_jst_jwpf_b08b_jwpf_sk_r_2x04_p2_00mm_vertical_d2b068
+    oomp_key_simple: kicad_connector_jst_jst_jwpf_b08b_jwpf_sk_r_2x04_p2_00mm_vertical
     original_filename: libraries/kicad-footprints/Connector_JST.pretty/JST_JWPF_B08B-JWPF-SK-R_2x04_P2.00mm_Vertical.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_jst_jst_jwpf_b08b_jwpf_sk_r_2x04_p2_00mm_vertical
+  oomp_key_full: oomp_footprint_kicad_connector_jst_jst_jwpf_b08b_jwpf_sk_r_2x04_p2_00mm_vertical
   oomp_key_simple: kicad_connector_jst_jst_jwpf_b08b_jwpf_sk_r_2x04_p2_00mm_vertical
   owner: kicad
   repo:

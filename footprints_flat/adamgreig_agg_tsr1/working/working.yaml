@@ -17,9 +17,18 @@
   oomp:
     footprint_name: tsr1
     library_name: agg
+    md5: bad8bdd3435f1e32bf699a23f878d75b
+    md5_10: bad8bdd343
+    md5_5: bad8b
+    md5_6: bad8bd
+    oomp_key: oomp_adamgreig_agg_tsr1
+    oomp_key_extra: oomp_footprint_adamgreig_agg_tsr1
+    oomp_key_full: oomp_footprint_adamgreig_agg_tsr1_bad8bd
+    oomp_key_simple: adamgreig_agg_tsr1
     original_filename: agg-kicad/agg.pretty/TSR1.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_tsr1
+  oomp_key_full: oomp_footprint_adamgreig_agg_tsr1
   oomp_key_simple: adamgreig_agg_tsr1
   owner: adamgreig
   repo:

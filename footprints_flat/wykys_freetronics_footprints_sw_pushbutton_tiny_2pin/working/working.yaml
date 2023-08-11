@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sw_pushbutton_tiny_2pin
     library_name: freetronics_footprints
+    md5: 1dfa8dc1ff6ba837643d7cda4b1fe8a0
+    md5_10: 1dfa8dc1ff
+    md5_5: 1dfa8
+    md5_6: 1dfa8d
+    oomp_key: oomp_wykys_freetronics_footprints_sw_pushbutton_tiny_2pin
+    oomp_key_extra: oomp_footprint_wykys_freetronics_footprints_sw_pushbutton_tiny_2pin
+    oomp_key_full: oomp_footprint_wykys_freetronics_footprints_sw_pushbutton_tiny_2pin_1dfa8d
+    oomp_key_simple: wykys_freetronics_footprints_sw_pushbutton_tiny_2pin
     original_filename: kicad/mods/freetronics_footprints.pretty/SW_PUSHBUTTON_TINY_2PIN.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_freetronics_footprints_sw_pushbutton_tiny_2pin
+  oomp_key_full: oomp_footprint_wykys_freetronics_footprints_sw_pushbutton_tiny_2pin
   oomp_key_simple: wykys_freetronics_footprints_sw_pushbutton_tiny_2pin
   owner: wykys
   repo:

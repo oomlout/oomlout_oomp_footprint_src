@@ -17,9 +17,18 @@
   oomp:
     footprint_name: usb_c_male_edgemnt_dx07p024aj1r1500
     library_name: digikey_footprints
+    md5: 0828832ec8c9b0a6e262980ca54a22e8
+    md5_10: 0828832ec8
+    md5_5: 08288
+    md5_6: 082883
+    oomp_key: oomp_digikey_digikey_footprints_usb_c_male_edgemnt_dx07p024aj1r1500
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_usb_c_male_edgemnt_dx07p024aj1r1500
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_usb_c_male_edgemnt_dx07p024aj1r1500_082883
+    oomp_key_simple: digikey_digikey_footprints_usb_c_male_edgemnt_dx07p024aj1r1500
     original_filename: digikey-kicad-library/digikey-footprints.pretty/USB-C_Male_EdgeMnt_DX07P024AJ1R1500.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_usb_c_male_edgemnt_dx07p024aj1r1500
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_usb_c_male_edgemnt_dx07p024aj1r1500
   oomp_key_simple: digikey_digikey_footprints_usb_c_male_edgemnt_dx07p024aj1r1500
   owner: digikey
   repo:

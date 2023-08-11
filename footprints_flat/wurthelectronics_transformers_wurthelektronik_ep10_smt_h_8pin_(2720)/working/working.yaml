@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ep10_smt_h_8pin_(2720)
     library_name: transformers_wurthelektronik
+    md5: 02db0d9a1545c260aefe38d523c72e5c
+    md5_10: 02db0d9a15
+    md5_5: 02db0
+    md5_6: 02db0d
+    oomp_key: oomp_wurthelectronics_transformers_wurthelektronik_ep10_smt_h_8pin_(2720)
+    oomp_key_extra: oomp_footprint_wurthelectronics_transformers_wurthelektronik_ep10_smt_h_8pin_(2720)
+    oomp_key_full: oomp_footprint_wurthelectronics_transformers_wurthelektronik_ep10_smt_h_8pin_(2720)_02db0d
+    oomp_key_simple: wurthelectronics_transformers_wurthelektronik_ep10_smt_h_8pin_(2720)
     original_filename: Transformers_WurthElektronik.pretty/EP10_SMT_H_8PIN_(2720).kicad_mod
     owner_name: wurthelectronics
   oomp_key: oomp_wurthelectronics_transformers_wurthelektronik_ep10_smt_h_8pin_(2720)
+  oomp_key_full: oomp_footprint_wurthelectronics_transformers_wurthelektronik_ep10_smt_h_8pin_(2720)
   oomp_key_simple: wurthelectronics_transformers_wurthelektronik_ep10_smt_h_8pin_(2720)
   owner: WurthElectronics
   repo:

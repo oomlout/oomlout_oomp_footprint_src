@@ -17,9 +17,18 @@
   oomp:
     footprint_name: oc_logo
     library_name: vontrapp
+    md5: 151e24739171396eeee9082aec8cc00d
+    md5_10: 151e247391
+    md5_5: 151e2
+    md5_6: 151e24
+    oomp_key: oomp_vontrapp_vontrapp_oc_logo
+    oomp_key_extra: oomp_footprint_vontrapp_vontrapp_oc_logo
+    oomp_key_full: oomp_footprint_vontrapp_vontrapp_oc_logo_151e24
+    oomp_key_simple: vontrapp_vontrapp_oc_logo
     original_filename: vontrapp.pretty/OC_Logo.kicad_mod
     owner_name: vontrapp
   oomp_key: oomp_vontrapp_vontrapp_oc_logo
+  oomp_key_full: oomp_footprint_vontrapp_vontrapp_oc_logo
   oomp_key_simple: vontrapp_vontrapp_oc_logo
   owner: vontrapp
   repo:

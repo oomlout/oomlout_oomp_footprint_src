@@ -17,9 +17,18 @@
   oomp:
     footprint_name: mx625
     library_name: acheron_mx
+    md5: 4ae723162039ea433e2b4f4d51636db9
+    md5_10: 4ae7231620
+    md5_5: 4ae72
+    md5_6: 4ae723
+    oomp_key: oomp_acheronproject_acheron_mx_mx625
+    oomp_key_extra: oomp_footprint_acheronproject_acheron_mx_mx625
+    oomp_key_full: oomp_footprint_acheronproject_acheron_mx_mx625_4ae723
+    oomp_key_simple: acheronproject_acheron_mx_mx625
     original_filename: acheron_MX.pretty/MX625.kicad_mod
     owner_name: acheronproject
   oomp_key: oomp_acheronproject_acheron_mx_mx625
+  oomp_key_full: oomp_footprint_acheronproject_acheron_mx_mx625
   oomp_key_simple: acheronproject_acheron_mx_mx625
   owner: AcheronProject
   repo:

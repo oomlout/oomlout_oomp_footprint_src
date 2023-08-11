@@ -19,9 +19,18 @@
   oomp:
     footprint_name: mountinghole_2_2mm_m2_din965_pad_topbottom
     library_name: mountinghole
+    md5: 1df52e902ddf105a7f776a521437c66a
+    md5_10: 1df52e902d
+    md5_5: 1df52
+    md5_6: 1df52e
+    oomp_key: oomp_iangitpers_mountinghole_mountinghole_2_2mm_m2_din965_pad_topbottom
+    oomp_key_extra: oomp_footprint_iangitpers_mountinghole_mountinghole_2_2mm_m2_din965_pad_topbottom
+    oomp_key_full: oomp_footprint_iangitpers_mountinghole_mountinghole_2_2mm_m2_din965_pad_topbottom_1df52e
+    oomp_key_simple: iangitpers_mountinghole_mountinghole_2_2mm_m2_din965_pad_topbottom
     original_filename: 4a/MountingHole.pretty/MountingHole_2.2mm_M2_DIN965_Pad_TopBottom.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_mountinghole_mountinghole_2_2mm_m2_din965_pad_topbottom
+  oomp_key_full: oomp_footprint_iangitpers_mountinghole_mountinghole_2_2mm_m2_din965_pad_topbottom
   oomp_key_simple: iangitpers_mountinghole_mountinghole_2_2mm_m2_din965_pad_topbottom
   owner: Iangitpers
   repo:

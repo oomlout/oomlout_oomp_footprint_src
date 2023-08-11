@@ -17,9 +17,18 @@
   oomp:
     footprint_name: tc2030_nl
     library_name: agg
+    md5: a678cfe013232f0d3046acf7ebb75a45
+    md5_10: a678cfe013
+    md5_5: a678c
+    md5_6: a678cf
+    oomp_key: oomp_adamgreig_agg_tc2030_nl
+    oomp_key_extra: oomp_footprint_adamgreig_agg_tc2030_nl
+    oomp_key_full: oomp_footprint_adamgreig_agg_tc2030_nl_a678cf
+    oomp_key_simple: adamgreig_agg_tc2030_nl
     original_filename: agg-kicad/agg.pretty/TC2030-NL.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_tc2030_nl
+  oomp_key_full: oomp_footprint_adamgreig_agg_tc2030_nl
   oomp_key_simple: adamgreig_agg_tc2030_nl
   owner: adamgreig
   repo:

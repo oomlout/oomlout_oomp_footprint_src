@@ -18,9 +18,18 @@
   oomp:
     footprint_name: dsub_15_female_horizontal_p2_77x2_54mm_edgepinoffset9_40mm
     library_name: connector_dsub
+    md5: 0298de996c0ce2347ab0d268c0a4f1a2
+    md5_10: 0298de996c
+    md5_5: 0298d
+    md5_6: 0298de
+    oomp_key: oomp_kicad_connector_dsub_dsub_15_female_horizontal_p2_77x2_54mm_edgepinoffset9_40mm
+    oomp_key_extra: oomp_footprint_kicad_connector_dsub_dsub_15_female_horizontal_p2_77x2_54mm_edgepinoffset9_40mm
+    oomp_key_full: oomp_footprint_kicad_connector_dsub_dsub_15_female_horizontal_p2_77x2_54mm_edgepinoffset9_40mm_0298de
+    oomp_key_simple: kicad_connector_dsub_dsub_15_female_horizontal_p2_77x2_54mm_edgepinoffset9_40mm
     original_filename: libraries/kicad-footprints/Connector_Dsub.pretty/DSUB-15_Female_Horizontal_P2.77x2.54mm_EdgePinOffset9.40mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_dsub_dsub_15_female_horizontal_p2_77x2_54mm_edgepinoffset9_40mm
+  oomp_key_full: oomp_footprint_kicad_connector_dsub_dsub_15_female_horizontal_p2_77x2_54mm_edgepinoffset9_40mm
   oomp_key_simple: kicad_connector_dsub_dsub_15_female_horizontal_p2_77x2_54mm_edgepinoffset9_40mm
   owner: kicad
   repo:

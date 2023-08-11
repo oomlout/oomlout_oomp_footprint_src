@@ -18,9 +18,18 @@
   oomp:
     footprint_name: tqfp_100_1ep_14x14mm_p0_5mm_ep5x5mm
     library_name: package_qfp
+    md5: 7194c68af6c7116cb60737f939bfac3f
+    md5_10: 7194c68af6
+    md5_5: 7194c
+    md5_6: 7194c6
+    oomp_key: oomp_kicad_package_qfp_tqfp_100_1ep_14x14mm_p0_5mm_ep5x5mm
+    oomp_key_extra: oomp_footprint_kicad_package_qfp_tqfp_100_1ep_14x14mm_p0_5mm_ep5x5mm
+    oomp_key_full: oomp_footprint_kicad_package_qfp_tqfp_100_1ep_14x14mm_p0_5mm_ep5x5mm_7194c6
+    oomp_key_simple: kicad_package_qfp_tqfp_100_1ep_14x14mm_p0_5mm_ep5x5mm
     original_filename: libraries/kicad-footprints/Package_QFP.pretty/TQFP-100-1EP_14x14mm_P0.5mm_EP5x5mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_qfp_tqfp_100_1ep_14x14mm_p0_5mm_ep5x5mm
+  oomp_key_full: oomp_footprint_kicad_package_qfp_tqfp_100_1ep_14x14mm_p0_5mm_ep5x5mm
   oomp_key_simple: kicad_package_qfp_tqfp_100_1ep_14x14mm_p0_5mm_ep5x5mm
   owner: kicad
   repo:

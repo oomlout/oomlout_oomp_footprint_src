@@ -19,9 +19,18 @@
   oomp:
     footprint_name: phoenixcontact_mcv_1,5_10_gf_3_5_1x10_p3_50mm_vertical_threadedflange
     library_name: connector_phoenix_mc
+    md5: a8d79b0db36bff7e18ebd04e05a7d1df
+    md5_10: a8d79b0db3
+    md5_5: a8d79
+    md5_6: a8d79b
+    oomp_key: oomp_kicad_connector_phoenix_mc_phoenixcontact_mcv_1,5_10_gf_3_5_1x10_p3_50mm_vertical_threadedflange
+    oomp_key_extra: oomp_footprint_kicad_connector_phoenix_mc_phoenixcontact_mcv_1,5_10_gf_3_5_1x10_p3_50mm_vertical_threadedflange
+    oomp_key_full: oomp_footprint_kicad_connector_phoenix_mc_phoenixcontact_mcv_1,5_10_gf_3_5_1x10_p3_50mm_vertical_threadedflange_a8d79b
+    oomp_key_simple: kicad_connector_phoenix_mc_phoenixcontact_mcv_1,5_10_gf_3_5_1x10_p3_50mm_vertical_threadedflange
     original_filename: libraries/kicad-footprints/Connector_Phoenix_MC.pretty/PhoenixContact_MCV_1,5_10-GF-3.5_1x10_P3.50mm_Vertical_ThreadedFlange.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_phoenix_mc_phoenixcontact_mcv_1,5_10_gf_3_5_1x10_p3_50mm_vertical_threadedflange
+  oomp_key_full: oomp_footprint_kicad_connector_phoenix_mc_phoenixcontact_mcv_1,5_10_gf_3_5_1x10_p3_50mm_vertical_threadedflange
   oomp_key_simple: kicad_connector_phoenix_mc_phoenixcontact_mcv_1,5_10_gf_3_5_1x10_p3_50mm_vertical_threadedflange
   owner: kicad
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: diode
     library_name: keyboard
+    md5: 268c95308c28b8fc2011284a085b71c9
+    md5_10: 268c95308c
+    md5_5: 268c9
+    md5_6: 268c95
+    oomp_key: oomp_stormboard_keyboard_diode
+    oomp_key_extra: oomp_footprint_stormboard_keyboard_diode
+    oomp_key_full: oomp_footprint_stormboard_keyboard_diode_268c95
+    oomp_key_simple: stormboard_keyboard_diode
     original_filename: Keyboard.pretty/DIODE.kicad_mod
     owner_name: stormboard
   oomp_key: oomp_stormboard_keyboard_diode
+  oomp_key_full: oomp_footprint_stormboard_keyboard_diode
   oomp_key_simple: stormboard_keyboard_diode
   owner: stormboard
   repo:

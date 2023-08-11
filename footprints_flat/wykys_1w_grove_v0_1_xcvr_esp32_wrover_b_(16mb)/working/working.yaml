@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xcvr_esp32_wrover_b_(16mb)
     library_name: 1w_grove_v0_1
+    md5: 1d0bbeeff3ca74b19eceb0c60e4bfa18
+    md5_10: 1d0bbeeff3
+    md5_5: 1d0bb
+    md5_6: 1d0bbe
+    oomp_key: oomp_wykys_1w_grove_v0_1_xcvr_esp32_wrover_b_(16mb)
+    oomp_key_extra: oomp_footprint_wykys_1w_grove_v0_1_xcvr_esp32_wrover_b_(16mb)
+    oomp_key_full: oomp_footprint_wykys_1w_grove_v0_1_xcvr_esp32_wrover_b_(16mb)_1d0bbe
+    oomp_key_simple: wykys_1w_grove_v0_1_xcvr_esp32_wrover_b_(16mb)
     original_filename: kicad/6.0/projects/1w-grove-v0.1/1w-grove-v0.1.pretty/XCVR_ESP32-WROVER-B_(16MB).kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_1w_grove_v0_1_xcvr_esp32_wrover_b_(16mb)
+  oomp_key_full: oomp_footprint_wykys_1w_grove_v0_1_xcvr_esp32_wrover_b_(16mb)
   oomp_key_simple: wykys_1w_grove_v0_1_xcvr_esp32_wrover_b_(16mb)
   owner: wykys
   repo:

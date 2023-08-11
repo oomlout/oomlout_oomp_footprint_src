@@ -17,9 +17,18 @@
   oomp:
     footprint_name: qfp80_10mm_0_4mm
     library_name: freetronics_footprints
+    md5: 603808aac63b2b8be51c2410aea4c5d6
+    md5_10: 603808aac6
+    md5_5: '60380'
+    md5_6: '603808'
+    oomp_key: oomp_axello_freetronics_footprints_qfp80_10mm_0_4mm
+    oomp_key_extra: oomp_footprint_axello_freetronics_footprints_qfp80_10mm_0_4mm
+    oomp_key_full: oomp_footprint_axello_freetronics_footprints_qfp80_10mm_0_4mm_603808
+    oomp_key_simple: axello_freetronics_footprints_qfp80_10mm_0_4mm
     original_filename: kicad/mods/freetronics_footprints.pretty/QFP80_10mm_0.4mm.kicad_mod
     owner_name: axello
   oomp_key: oomp_axello_freetronics_footprints_qfp80_10mm_0_4mm
+  oomp_key_full: oomp_footprint_axello_freetronics_footprints_qfp80_10mm_0_4mm
   oomp_key_simple: axello_freetronics_footprints_qfp80_10mm_0_4mm
   owner: axello
   repo:

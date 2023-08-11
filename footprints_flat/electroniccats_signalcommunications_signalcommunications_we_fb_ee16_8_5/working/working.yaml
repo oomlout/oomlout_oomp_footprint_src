@@ -18,9 +18,18 @@
   oomp:
     footprint_name: signalcommunications_we_fb_ee16_8_5
     library_name: signalcommunications
+    md5: 6a5798e622bda77683d77747d134eb12
+    md5_10: 6a5798e622
+    md5_5: 6a579
+    md5_6: 6a5798
+    oomp_key: oomp_electroniccats_signalcommunications_signalcommunications_we_fb_ee16_8_5
+    oomp_key_extra: oomp_footprint_electroniccats_signalcommunications_signalcommunications_we_fb_ee16_8_5
+    oomp_key_full: oomp_footprint_electroniccats_signalcommunications_signalcommunications_we_fb_ee16_8_5_6a5798
+    oomp_key_simple: electroniccats_signalcommunications_signalcommunications_we_fb_ee16_8_5
     original_filename: ComponentLibrariesKicadWurthElektronik/SIGNAL-COMMUNICATIONS-rev18a/SignalCommunications.pretty/SignalCommunications-WE-FB_EE16_8_5.kicad_mod
     owner_name: electroniccats
   oomp_key: oomp_electroniccats_signalcommunications_signalcommunications_we_fb_ee16_8_5
+  oomp_key_full: oomp_footprint_electroniccats_signalcommunications_signalcommunications_we_fb_ee16_8_5
   oomp_key_simple: electroniccats_signalcommunications_signalcommunications_we_fb_ee16_8_5
   owner: ElectronicCats
   repo:

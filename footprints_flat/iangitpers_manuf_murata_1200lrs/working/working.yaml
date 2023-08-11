@@ -19,9 +19,18 @@
   oomp:
     footprint_name: murata_1200lrs
     library_name: manuf
+    md5: 061c469bff8f9f88ecdc9387e67102f6
+    md5_10: 061c469bff
+    md5_5: 061c4
+    md5_6: 061c46
+    oomp_key: oomp_iangitpers_manuf_murata_1200lrs
+    oomp_key_extra: oomp_footprint_iangitpers_manuf_murata_1200lrs
+    oomp_key_full: oomp_footprint_iangitpers_manuf_murata_1200lrs_061c46
+    oomp_key_simple: iangitpers_manuf_murata_1200lrs
     original_filename: 4a/manuf.pretty/MURATA-1200LRS.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_manuf_murata_1200lrs
+  oomp_key_full: oomp_footprint_iangitpers_manuf_murata_1200lrs
   oomp_key_simple: iangitpers_manuf_murata_1200lrs
   owner: Iangitpers
   repo:

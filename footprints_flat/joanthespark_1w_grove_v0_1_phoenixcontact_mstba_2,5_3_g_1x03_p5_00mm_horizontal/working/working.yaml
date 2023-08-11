@@ -19,9 +19,18 @@
   oomp:
     footprint_name: phoenixcontact_mstba_2,5_3_g_1x03_p5_00mm_horizontal
     library_name: 1w_grove_v0_1
+    md5: e8f8e9be5523b27ef06fdfe9bb8b10b7
+    md5_10: e8f8e9be55
+    md5_5: e8f8e
+    md5_6: e8f8e9
+    oomp_key: oomp_joanthespark_1w_grove_v0_1_phoenixcontact_mstba_2,5_3_g_1x03_p5_00mm_horizontal
+    oomp_key_extra: oomp_footprint_joanthespark_1w_grove_v0_1_phoenixcontact_mstba_2,5_3_g_1x03_p5_00mm_horizontal
+    oomp_key_full: oomp_footprint_joanthespark_1w_grove_v0_1_phoenixcontact_mstba_2,5_3_g_1x03_p5_00mm_horizontal_e8f8e9
+    oomp_key_simple: joanthespark_1w_grove_v0_1_phoenixcontact_mstba_2,5_3_g_1x03_p5_00mm_horizontal
     original_filename: KiCAD/6.0/projects/1w-grove-v0.1/1w-grove-v0.1.pretty/PhoenixContact_MSTBA_2,5_3-G_1x03_P5.00mm_Horizontal.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_1w_grove_v0_1_phoenixcontact_mstba_2,5_3_g_1x03_p5_00mm_horizontal
+  oomp_key_full: oomp_footprint_joanthespark_1w_grove_v0_1_phoenixcontact_mstba_2,5_3_g_1x03_p5_00mm_horizontal
   oomp_key_simple: joanthespark_1w_grove_v0_1_phoenixcontact_mstba_2,5_3_g_1x03_p5_00mm_horizontal
   owner: JoanTheSpark
   repo:

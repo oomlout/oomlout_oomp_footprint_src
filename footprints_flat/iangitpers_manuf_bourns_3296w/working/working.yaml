@@ -19,9 +19,18 @@
   oomp:
     footprint_name: bourns_3296w
     library_name: manuf
+    md5: 3711086720216e35f96b160029690fcb
+    md5_10: '3711086720'
+    md5_5: '37110'
+    md5_6: '371108'
+    oomp_key: oomp_iangitpers_manuf_bourns_3296w
+    oomp_key_extra: oomp_footprint_iangitpers_manuf_bourns_3296w
+    oomp_key_full: oomp_footprint_iangitpers_manuf_bourns_3296w_371108
+    oomp_key_simple: iangitpers_manuf_bourns_3296w
     original_filename: 4a/manuf.pretty/BOURNS-3296W.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_manuf_bourns_3296w
+  oomp_key_full: oomp_footprint_iangitpers_manuf_bourns_3296w
   oomp_key_simple: iangitpers_manuf_bourns_3296w
   owner: Iangitpers
   repo:

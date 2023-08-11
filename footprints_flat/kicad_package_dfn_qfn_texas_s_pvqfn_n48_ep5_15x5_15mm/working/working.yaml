@@ -18,9 +18,18 @@
   oomp:
     footprint_name: texas_s_pvqfn_n48_ep5_15x5_15mm
     library_name: package_dfn_qfn
+    md5: 6b1275c40289b7e75d0c70f1262b59c0
+    md5_10: 6b1275c402
+    md5_5: 6b127
+    md5_6: 6b1275
+    oomp_key: oomp_kicad_package_dfn_qfn_texas_s_pvqfn_n48_ep5_15x5_15mm
+    oomp_key_extra: oomp_footprint_kicad_package_dfn_qfn_texas_s_pvqfn_n48_ep5_15x5_15mm
+    oomp_key_full: oomp_footprint_kicad_package_dfn_qfn_texas_s_pvqfn_n48_ep5_15x5_15mm_6b1275
+    oomp_key_simple: kicad_package_dfn_qfn_texas_s_pvqfn_n48_ep5_15x5_15mm
     original_filename: libraries/kicad-footprints/Package_DFN_QFN.pretty/Texas_S-PVQFN-N48_EP5.15x5.15mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_dfn_qfn_texas_s_pvqfn_n48_ep5_15x5_15mm
+  oomp_key_full: oomp_footprint_kicad_package_dfn_qfn_texas_s_pvqfn_n48_ep5_15x5_15mm
   oomp_key_simple: kicad_package_dfn_qfn_texas_s_pvqfn_n48_ep5_15x5_15mm
   owner: kicad
   repo:

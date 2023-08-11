@@ -17,9 +17,18 @@
   oomp:
     footprint_name: bga_64_05p_st
     library_name: agg
+    md5: b95d21487dc74cdc859b61296324eec6
+    md5_10: b95d21487d
+    md5_5: b95d2
+    md5_6: b95d21
+    oomp_key: oomp_adamgreig_agg_bga_64_05p_st
+    oomp_key_extra: oomp_footprint_adamgreig_agg_bga_64_05p_st
+    oomp_key_full: oomp_footprint_adamgreig_agg_bga_64_05p_st_b95d21
+    oomp_key_simple: adamgreig_agg_bga_64_05p_st
     original_filename: agg-kicad/agg.pretty/BGA-64-05P-ST.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_bga_64_05p_st
+  oomp_key_full: oomp_footprint_adamgreig_agg_bga_64_05p_st
   oomp_key_simple: adamgreig_agg_bga_64_05p_st
   owner: adamgreig
   repo:

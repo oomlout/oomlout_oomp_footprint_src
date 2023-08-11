@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sop65p780x200_8
     library_name: ipc7351_nominal
+    md5: 5944ea22f91be8961211b129b653f27a
+    md5_10: 5944ea22f9
+    md5_5: 5944e
+    md5_6: 5944ea
+    oomp_key: oomp_cpavlina_ipc7351_nominal_sop65p780x200_8
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_nominal_sop65p780x200_8
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_sop65p780x200_8_5944ea
+    oomp_key_simple: cpavlina_ipc7351_nominal_sop65p780x200_8
     original_filename: kicad-pcblib/IPC7351-Nominal.pretty/SOP65P780X200-8.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_nominal_sop65p780x200_8
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_sop65p780x200_8
   oomp_key_simple: cpavlina_ipc7351_nominal_sop65p780x200_8
   owner: cpavlina
   repo:

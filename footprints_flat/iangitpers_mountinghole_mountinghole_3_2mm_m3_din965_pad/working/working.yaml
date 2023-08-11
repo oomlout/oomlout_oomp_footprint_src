@@ -19,9 +19,18 @@
   oomp:
     footprint_name: mountinghole_3_2mm_m3_din965_pad
     library_name: mountinghole
+    md5: 51a83762d6106089c26a1ab4b2918e54
+    md5_10: 51a83762d6
+    md5_5: 51a83
+    md5_6: 51a837
+    oomp_key: oomp_iangitpers_mountinghole_mountinghole_3_2mm_m3_din965_pad
+    oomp_key_extra: oomp_footprint_iangitpers_mountinghole_mountinghole_3_2mm_m3_din965_pad
+    oomp_key_full: oomp_footprint_iangitpers_mountinghole_mountinghole_3_2mm_m3_din965_pad_51a837
+    oomp_key_simple: iangitpers_mountinghole_mountinghole_3_2mm_m3_din965_pad
     original_filename: 4a/MountingHole.pretty/MountingHole_3.2mm_M3_DIN965_Pad.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_mountinghole_mountinghole_3_2mm_m3_din965_pad
+  oomp_key_full: oomp_footprint_iangitpers_mountinghole_mountinghole_3_2mm_m3_din965_pad
   oomp_key_simple: iangitpers_mountinghole_mountinghole_3_2mm_m3_din965_pad
   owner: Iangitpers
   repo:

@@ -18,9 +18,18 @@
   oomp:
     footprint_name: pson80p400x400x100_9
     library_name: ipc7351_most
+    md5: a2a38cdc96da6bd04807f413f210a928
+    md5_10: a2a38cdc96
+    md5_5: a2a38
+    md5_6: a2a38c
+    oomp_key: oomp_cpavlina_ipc7351_most_pson80p400x400x100_9
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_most_pson80p400x400x100_9
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_most_pson80p400x400x100_9_a2a38c
+    oomp_key_simple: cpavlina_ipc7351_most_pson80p400x400x100_9
     original_filename: kicad-pcblib/IPC7351-Most.pretty/PSON80P400X400X100-9.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_most_pson80p400x400x100_9
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_most_pson80p400x400x100_9
   oomp_key_simple: cpavlina_ipc7351_most_pson80p400x400x100_9
   owner: cpavlina
   repo:

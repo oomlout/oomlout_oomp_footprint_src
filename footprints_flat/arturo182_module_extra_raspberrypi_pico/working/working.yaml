@@ -19,9 +19,18 @@
   oomp:
     footprint_name: raspberrypi_pico
     library_name: module_extra
+    md5: 0f3cf0a418d9284d4cafc95566d464a8
+    md5_10: 0f3cf0a418
+    md5_5: 0f3cf
+    md5_6: 0f3cf0
+    oomp_key: oomp_arturo182_module_extra_raspberrypi_pico
+    oomp_key_extra: oomp_footprint_arturo182_module_extra_raspberrypi_pico
+    oomp_key_full: oomp_footprint_arturo182_module_extra_raspberrypi_pico_0f3cf0
+    oomp_key_simple: arturo182_module_extra_raspberrypi_pico
     original_filename: kicad-modules/Module_Extra.pretty/RaspberryPi_Pico.kicad_mod
     owner_name: arturo182
   oomp_key: oomp_arturo182_module_extra_raspberrypi_pico
+  oomp_key_full: oomp_footprint_arturo182_module_extra_raspberrypi_pico
   oomp_key_simple: arturo182_module_extra_raspberrypi_pico
   owner: arturo182
   repo:

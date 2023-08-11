@@ -17,9 +17,18 @@
   oomp:
     footprint_name: phototransistor_4_4x1_5mm_p2_54_radial
     library_name: digikey_footprints
+    md5: bc2506089af7080112fea52012c8e556
+    md5_10: bc2506089a
+    md5_5: bc250
+    md5_6: bc2506
+    oomp_key: oomp_digikey_digikey_footprints_phototransistor_4_4x1_5mm_p2_54_radial
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_phototransistor_4_4x1_5mm_p2_54_radial
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_phototransistor_4_4x1_5mm_p2_54_radial_bc2506
+    oomp_key_simple: digikey_digikey_footprints_phototransistor_4_4x1_5mm_p2_54_radial
     original_filename: digikey-kicad-library/digikey-footprints.pretty/Phototransistor_4.4x1.5mm_P2.54_Radial.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_phototransistor_4_4x1_5mm_p2_54_radial
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_phototransistor_4_4x1_5mm_p2_54_radial
   oomp_key_simple: digikey_digikey_footprints_phototransistor_4_4x1_5mm_p2_54_radial
   owner: digikey
   repo:

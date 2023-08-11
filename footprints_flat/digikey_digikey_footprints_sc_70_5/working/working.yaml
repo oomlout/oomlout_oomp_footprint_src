@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sc_70_5
     library_name: digikey_footprints
+    md5: 432364941b4c65db8af162b37289ccdd
+    md5_10: 432364941b
+    md5_5: '43236'
+    md5_6: '432364'
+    oomp_key: oomp_digikey_digikey_footprints_sc_70_5
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_sc_70_5
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_sc_70_5_432364
+    oomp_key_simple: digikey_digikey_footprints_sc_70_5
     original_filename: digikey-kicad-library/digikey-footprints.pretty/SC-70-5.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_sc_70_5
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_sc_70_5
   oomp_key_simple: digikey_digikey_footprints_sc_70_5
   owner: digikey
   repo:

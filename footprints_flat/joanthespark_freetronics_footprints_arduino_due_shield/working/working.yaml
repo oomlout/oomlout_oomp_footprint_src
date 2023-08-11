@@ -17,9 +17,18 @@
   oomp:
     footprint_name: arduino_due_shield
     library_name: freetronics_footprints
+    md5: f6969425b040d5d3d8bf087cef249673
+    md5_10: f6969425b0
+    md5_5: f6969
+    md5_6: f69694
+    oomp_key: oomp_joanthespark_freetronics_footprints_arduino_due_shield
+    oomp_key_extra: oomp_footprint_joanthespark_freetronics_footprints_arduino_due_shield
+    oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_arduino_due_shield_f69694
+    oomp_key_simple: joanthespark_freetronics_footprints_arduino_due_shield
     original_filename: KiCAD/mods/freetronics_footprints.pretty/ARDUINO_DUE_SHIELD.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_freetronics_footprints_arduino_due_shield
+  oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_arduino_due_shield
   oomp_key_simple: joanthespark_freetronics_footprints_arduino_due_shield
   owner: JoanTheSpark
   repo:

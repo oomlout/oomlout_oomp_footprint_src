@@ -18,9 +18,18 @@
   oomp:
     footprint_name: dsub_37_male_edgemount_p2_77mm
     library_name: connector_dsub
+    md5: f571312c5c6dbe43d892ee34a9150632
+    md5_10: f571312c5c
+    md5_5: f5713
+    md5_6: f57131
+    oomp_key: oomp_kicad_connector_dsub_dsub_37_male_edgemount_p2_77mm
+    oomp_key_extra: oomp_footprint_kicad_connector_dsub_dsub_37_male_edgemount_p2_77mm
+    oomp_key_full: oomp_footprint_kicad_connector_dsub_dsub_37_male_edgemount_p2_77mm_f57131
+    oomp_key_simple: kicad_connector_dsub_dsub_37_male_edgemount_p2_77mm
     original_filename: libraries/kicad-footprints/Connector_Dsub.pretty/DSUB-37_Male_EdgeMount_P2.77mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_dsub_dsub_37_male_edgemount_p2_77mm
+  oomp_key_full: oomp_footprint_kicad_connector_dsub_dsub_37_male_edgemount_p2_77mm
   oomp_key_simple: kicad_connector_dsub_dsub_37_male_edgemount_p2_77mm
   owner: kicad
   repo:

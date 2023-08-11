@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ssd1306_i2c_oled_module_0_96_inch
     library_name: jwm_kicad_footprints_misc
+    md5: caeede0953bb67492f93fae1ecc7ef3b
+    md5_10: caeede0953
+    md5_5: caeed
+    md5_6: caeede
+    oomp_key: oomp_joem_jwm_kicad_footprints_misc_ssd1306_i2c_oled_module_0_96_inch
+    oomp_key_extra: oomp_footprint_joem_jwm_kicad_footprints_misc_ssd1306_i2c_oled_module_0_96_inch
+    oomp_key_full: oomp_footprint_joem_jwm_kicad_footprints_misc_ssd1306_i2c_oled_module_0_96_inch_caeede
+    oomp_key_simple: joem_jwm_kicad_footprints_misc_ssd1306_i2c_oled_module_0_96_inch
     original_filename: jwm_kicad_footprints_misc.pretty/SSD1306_I2C_OLED_Module_0.96_inch.kicad_mod
     owner_name: joem
   oomp_key: oomp_joem_jwm_kicad_footprints_misc_ssd1306_i2c_oled_module_0_96_inch
+  oomp_key_full: oomp_footprint_joem_jwm_kicad_footprints_misc_ssd1306_i2c_oled_module_0_96_inch
   oomp_key_simple: joem_jwm_kicad_footprints_misc_ssd1306_i2c_oled_module_0_96_inch
   owner: joem
   repo:

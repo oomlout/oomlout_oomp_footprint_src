@@ -17,9 +17,18 @@
   oomp:
     footprint_name: teconn_rt2
     library_name: manuf
+    md5: b01b129c8d783d470c9952ed42c18eda
+    md5_10: b01b129c8d
+    md5_5: b01b1
+    md5_6: b01b12
+    oomp_key: oomp_cpavlina_manuf_teconn_rt2
+    oomp_key_extra: oomp_footprint_cpavlina_manuf_teconn_rt2
+    oomp_key_full: oomp_footprint_cpavlina_manuf_teconn_rt2_b01b12
+    oomp_key_simple: cpavlina_manuf_teconn_rt2
     original_filename: kicad-pcblib/manuf.pretty/TECONN-RT2.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_manuf_teconn_rt2
+  oomp_key_full: oomp_footprint_cpavlina_manuf_teconn_rt2
   oomp_key_simple: cpavlina_manuf_teconn_rt2
   owner: cpavlina
   repo:

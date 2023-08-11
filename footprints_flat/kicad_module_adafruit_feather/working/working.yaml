@@ -17,9 +17,18 @@
   oomp:
     footprint_name: adafruit_feather
     library_name: module
+    md5: 7e91df4af25be1d411a2092079ee88b1
+    md5_10: 7e91df4af2
+    md5_5: 7e91d
+    md5_6: 7e91df
+    oomp_key: oomp_kicad_module_adafruit_feather
+    oomp_key_extra: oomp_footprint_kicad_module_adafruit_feather
+    oomp_key_full: oomp_footprint_kicad_module_adafruit_feather_7e91df
+    oomp_key_simple: kicad_module_adafruit_feather
     original_filename: libraries/kicad-footprints/Module.pretty/Adafruit_Feather.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_module_adafruit_feather
+  oomp_key_full: oomp_footprint_kicad_module_adafruit_feather
   oomp_key_simple: kicad_module_adafruit_feather
   owner: kicad
   repo:

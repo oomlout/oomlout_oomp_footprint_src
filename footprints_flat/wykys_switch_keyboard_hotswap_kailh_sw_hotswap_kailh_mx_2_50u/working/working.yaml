@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sw_hotswap_kailh_mx_2_50u
     library_name: switch_keyboard_hotswap_kailh
+    md5: cf5d787093a0643a96344fcf2e687787
+    md5_10: cf5d787093
+    md5_5: cf5d7
+    md5_6: cf5d78
+    oomp_key: oomp_wykys_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_mx_2_50u
+    oomp_key_extra: oomp_footprint_wykys_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_mx_2_50u
+    oomp_key_full: oomp_footprint_wykys_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_mx_2_50u_cf5d78
+    oomp_key_simple: wykys_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_mx_2_50u
     original_filename: kicad/6.0/3rdparty/footprints/com_github_perigoso_keyswitch-kicad-library/Switch_Keyboard_Hotswap_Kailh.pretty/SW_Hotswap_Kailh_MX_2.50u.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_mx_2_50u
+  oomp_key_full: oomp_footprint_wykys_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_mx_2_50u
   oomp_key_simple: wykys_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_mx_2_50u
   owner: wykys
   repo:

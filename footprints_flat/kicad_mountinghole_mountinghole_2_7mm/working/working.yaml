@@ -17,9 +17,18 @@
   oomp:
     footprint_name: mountinghole_2_7mm
     library_name: mountinghole
+    md5: 695ebce6f8ef265887b4617a0e42058b
+    md5_10: 695ebce6f8
+    md5_5: 695eb
+    md5_6: 695ebc
+    oomp_key: oomp_kicad_mountinghole_mountinghole_2_7mm
+    oomp_key_extra: oomp_footprint_kicad_mountinghole_mountinghole_2_7mm
+    oomp_key_full: oomp_footprint_kicad_mountinghole_mountinghole_2_7mm_695ebc
+    oomp_key_simple: kicad_mountinghole_mountinghole_2_7mm
     original_filename: libraries/kicad-footprints/MountingHole.pretty/MountingHole_2.7mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_mountinghole_mountinghole_2_7mm
+  oomp_key_full: oomp_footprint_kicad_mountinghole_mountinghole_2_7mm
   oomp_key_simple: kicad_mountinghole_mountinghole_2_7mm
   owner: kicad
   repo:

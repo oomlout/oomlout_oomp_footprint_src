@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sw_hotswap_kailh_mx_plated_4_50u
     library_name: switch_keyboard_hotswap_kailh
+    md5: 30b556b954fa3a75df8b1caa41cd9165
+    md5_10: 30b556b954
+    md5_5: 30b55
+    md5_6: 30b556
+    oomp_key: oomp_joanthespark_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_mx_plated_4_50u
+    oomp_key_extra: oomp_footprint_joanthespark_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_mx_plated_4_50u
+    oomp_key_full: oomp_footprint_joanthespark_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_mx_plated_4_50u_30b556
+    oomp_key_simple: joanthespark_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_mx_plated_4_50u
     original_filename: KiCAD/6.0/3rdparty/footprints/com_github_perigoso_keyswitch-kicad-library/Switch_Keyboard_Hotswap_Kailh.pretty/SW_Hotswap_Kailh_MX_plated_4.50u.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_mx_plated_4_50u
+  oomp_key_full: oomp_footprint_joanthespark_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_mx_plated_4_50u
   oomp_key_simple: joanthespark_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_mx_plated_4_50u
   owner: JoanTheSpark
   repo:

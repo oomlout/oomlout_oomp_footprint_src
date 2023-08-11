@@ -18,9 +18,18 @@
   oomp:
     footprint_name: jst_sh_sm04b_srss_tb_1x04_1mp_p1_00mm_horizontal
     library_name: footprints
+    md5: f8108402ac5a79503005c6695fabcd75
+    md5_10: f8108402ac
+    md5_5: f8108
+    md5_6: f81084
+    oomp_key: oomp_axello_footprints_jst_sh_sm04b_srss_tb_1x04_1mp_p1_00mm_horizontal
+    oomp_key_extra: oomp_footprint_axello_footprints_jst_sh_sm04b_srss_tb_1x04_1mp_p1_00mm_horizontal
+    oomp_key_full: oomp_footprint_axello_footprints_jst_sh_sm04b_srss_tb_1x04_1mp_p1_00mm_horizontal_f81084
+    oomp_key_simple: axello_footprints_jst_sh_sm04b_srss_tb_1x04_1mp_p1_00mm_horizontal
     original_filename: kicad/demos/stickhub/footprints.pretty/JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal.kicad_mod
     owner_name: axello
   oomp_key: oomp_axello_footprints_jst_sh_sm04b_srss_tb_1x04_1mp_p1_00mm_horizontal
+  oomp_key_full: oomp_footprint_axello_footprints_jst_sh_sm04b_srss_tb_1x04_1mp_p1_00mm_horizontal
   oomp_key_simple: axello_footprints_jst_sh_sm04b_srss_tb_1x04_1mp_p1_00mm_horizontal
   owner: axello
   repo:

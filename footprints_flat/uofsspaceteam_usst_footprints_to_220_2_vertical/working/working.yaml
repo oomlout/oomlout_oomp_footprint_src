@@ -17,9 +17,18 @@
   oomp:
     footprint_name: to_220_2_vertical
     library_name: usst_footprints
+    md5: 36bfefa7eac3f2237c3dfcb0fdb70da1
+    md5_10: 36bfefa7ea
+    md5_5: 36bfe
+    md5_6: 36bfef
+    oomp_key: oomp_uofsspaceteam_usst_footprints_to_220_2_vertical
+    oomp_key_extra: oomp_footprint_uofsspaceteam_usst_footprints_to_220_2_vertical
+    oomp_key_full: oomp_footprint_uofsspaceteam_usst_footprints_to_220_2_vertical_36bfef
+    oomp_key_simple: uofsspaceteam_usst_footprints_to_220_2_vertical
     original_filename: USST-footprints.pretty/TO-220-2_Vertical.kicad_mod
     owner_name: uofsspaceteam
   oomp_key: oomp_uofsspaceteam_usst_footprints_to_220_2_vertical
+  oomp_key_full: oomp_footprint_uofsspaceteam_usst_footprints_to_220_2_vertical
   oomp_key_simple: uofsspaceteam_usst_footprints_to_220_2_vertical
   owner: UofSSpaceTeam
   repo:

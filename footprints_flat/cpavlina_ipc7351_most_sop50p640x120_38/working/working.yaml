@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sop50p640x120_38
     library_name: ipc7351_most
+    md5: abb5249be5cc7994c5e3272321637406
+    md5_10: abb5249be5
+    md5_5: abb52
+    md5_6: abb524
+    oomp_key: oomp_cpavlina_ipc7351_most_sop50p640x120_38
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_most_sop50p640x120_38
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_most_sop50p640x120_38_abb524
+    oomp_key_simple: cpavlina_ipc7351_most_sop50p640x120_38
     original_filename: kicad-pcblib/IPC7351-Most.pretty/SOP50P640X120-38.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_most_sop50p640x120_38
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_most_sop50p640x120_38
   oomp_key_simple: cpavlina_ipc7351_most_sop50p640x120_38
   owner: cpavlina
   repo:

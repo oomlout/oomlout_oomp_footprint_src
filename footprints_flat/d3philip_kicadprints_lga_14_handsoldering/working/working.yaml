@@ -17,9 +17,18 @@
   oomp:
     footprint_name: lga_14_handsoldering
     library_name: kicadprints
+    md5: 6a799da7add731ce5301b63d6a5447da
+    md5_10: 6a799da7ad
+    md5_5: 6a799
+    md5_6: 6a799d
+    oomp_key: oomp_d3philip_kicadprints_lga_14_handsoldering
+    oomp_key_extra: oomp_footprint_d3philip_kicadprints_lga_14_handsoldering
+    oomp_key_full: oomp_footprint_d3philip_kicadprints_lga_14_handsoldering_6a799d
+    oomp_key_simple: d3philip_kicadprints_lga_14_handsoldering
     original_filename: kicadprints.pretty/LGA-14_handsoldering.kicad_mod
     owner_name: d3philip
   oomp_key: oomp_d3philip_kicadprints_lga_14_handsoldering
+  oomp_key_full: oomp_footprint_d3philip_kicadprints_lga_14_handsoldering
   oomp_key_simple: d3philip_kicadprints_lga_14_handsoldering
   owner: d3philip
   repo:

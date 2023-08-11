@@ -17,9 +17,18 @@
   oomp:
     footprint_name: kailh_pg1350_2u
     library_name: keebio_parts
+    md5: 09790aa933614b1e0bcd33656a69780b
+    md5_10: 09790aa933
+    md5_5: 09790
+    md5_6: 09790a
+    oomp_key: oomp_keebio_keebio_parts_kailh_pg1350_2u
+    oomp_key_extra: oomp_footprint_keebio_keebio_parts_kailh_pg1350_2u
+    oomp_key_full: oomp_footprint_keebio_keebio_parts_kailh_pg1350_2u_09790a
+    oomp_key_simple: keebio_keebio_parts_kailh_pg1350_2u
     original_filename: Keebio-Parts.pretty/Kailh-PG1350-2u.kicad_mod
     owner_name: keebio
   oomp_key: oomp_keebio_keebio_parts_kailh_pg1350_2u
+  oomp_key_full: oomp_footprint_keebio_keebio_parts_kailh_pg1350_2u
   oomp_key_simple: keebio_keebio_parts_kailh_pg1350_2u
   owner: keebio
   repo:

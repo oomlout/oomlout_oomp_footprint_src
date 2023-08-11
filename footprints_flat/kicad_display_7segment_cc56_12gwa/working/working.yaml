@@ -17,9 +17,18 @@
   oomp:
     footprint_name: cc56_12gwa
     library_name: display_7segment
+    md5: 068fb5bdd1694fa0fcbe0209cea80c90
+    md5_10: 068fb5bdd1
+    md5_5: 068fb
+    md5_6: 068fb5
+    oomp_key: oomp_kicad_display_7segment_cc56_12gwa
+    oomp_key_extra: oomp_footprint_kicad_display_7segment_cc56_12gwa
+    oomp_key_full: oomp_footprint_kicad_display_7segment_cc56_12gwa_068fb5
+    oomp_key_simple: kicad_display_7segment_cc56_12gwa
     original_filename: libraries/kicad-footprints/Display_7Segment.pretty/CC56-12GWA.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_display_7segment_cc56_12gwa
+  oomp_key_full: oomp_footprint_kicad_display_7segment_cc56_12gwa
   oomp_key_simple: kicad_display_7segment_cc56_12gwa
   owner: kicad
   repo:

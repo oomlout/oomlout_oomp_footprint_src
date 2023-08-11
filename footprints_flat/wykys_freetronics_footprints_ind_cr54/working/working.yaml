@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ind_cr54
     library_name: freetronics_footprints
+    md5: fa54c52fc30f4b07e776912c2b26901d
+    md5_10: fa54c52fc3
+    md5_5: fa54c
+    md5_6: fa54c5
+    oomp_key: oomp_wykys_freetronics_footprints_ind_cr54
+    oomp_key_extra: oomp_footprint_wykys_freetronics_footprints_ind_cr54
+    oomp_key_full: oomp_footprint_wykys_freetronics_footprints_ind_cr54_fa54c5
+    oomp_key_simple: wykys_freetronics_footprints_ind_cr54
     original_filename: kicad/mods/freetronics_footprints.pretty/IND_CR54.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_freetronics_footprints_ind_cr54
+  oomp_key_full: oomp_footprint_wykys_freetronics_footprints_ind_cr54
   oomp_key_simple: wykys_freetronics_footprints_ind_cr54
   owner: wykys
   repo:

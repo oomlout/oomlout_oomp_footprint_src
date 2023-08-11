@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sop80p1034x264_44
     library_name: ipc7351_nominal
+    md5: dffd1abf692c9532587c8b91b1d4fec8
+    md5_10: dffd1abf69
+    md5_5: dffd1
+    md5_6: dffd1a
+    oomp_key: oomp_cpavlina_ipc7351_nominal_sop80p1034x264_44
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_nominal_sop80p1034x264_44
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_sop80p1034x264_44_dffd1a
+    oomp_key_simple: cpavlina_ipc7351_nominal_sop80p1034x264_44
     original_filename: kicad-pcblib/IPC7351-Nominal.pretty/SOP80P1034X264-44.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_nominal_sop80p1034x264_44
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_sop80p1034x264_44
   oomp_key_simple: cpavlina_ipc7351_nominal_sop80p1034x264_44
   owner: cpavlina
   repo:

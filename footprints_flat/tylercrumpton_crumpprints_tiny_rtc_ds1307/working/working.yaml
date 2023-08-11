@@ -17,9 +17,18 @@
   oomp:
     footprint_name: tiny_rtc_ds1307
     library_name: crumpprints
+    md5: 31c3619567ede253fdf382f59e7bece4
+    md5_10: 31c3619567
+    md5_5: 31c36
+    md5_6: 31c361
+    oomp_key: oomp_tylercrumpton_crumpprints_tiny_rtc_ds1307
+    oomp_key_extra: oomp_footprint_tylercrumpton_crumpprints_tiny_rtc_ds1307
+    oomp_key_full: oomp_footprint_tylercrumpton_crumpprints_tiny_rtc_ds1307_31c361
+    oomp_key_simple: tylercrumpton_crumpprints_tiny_rtc_ds1307
     original_filename: CrumpPrints.pretty/Tiny_RTC_DS1307.kicad_mod
     owner_name: tylercrumpton
   oomp_key: oomp_tylercrumpton_crumpprints_tiny_rtc_ds1307
+  oomp_key_full: oomp_footprint_tylercrumpton_crumpprints_tiny_rtc_ds1307
   oomp_key_simple: tylercrumpton_crumpprints_tiny_rtc_ds1307
   owner: tylercrumpton
   repo:

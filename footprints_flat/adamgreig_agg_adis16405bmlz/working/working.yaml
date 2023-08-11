@@ -17,9 +17,18 @@
   oomp:
     footprint_name: adis16405bmlz
     library_name: agg
+    md5: 9bb2e8a12ff3a53d75cf3991be9876d9
+    md5_10: 9bb2e8a12f
+    md5_5: 9bb2e
+    md5_6: 9bb2e8
+    oomp_key: oomp_adamgreig_agg_adis16405bmlz
+    oomp_key_extra: oomp_footprint_adamgreig_agg_adis16405bmlz
+    oomp_key_full: oomp_footprint_adamgreig_agg_adis16405bmlz_9bb2e8
+    oomp_key_simple: adamgreig_agg_adis16405bmlz
     original_filename: agg-kicad/agg.pretty/ADIS16405BMLZ.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_adis16405bmlz
+  oomp_key_full: oomp_footprint_adamgreig_agg_adis16405bmlz
   oomp_key_simple: adamgreig_agg_adis16405bmlz
   owner: adamgreig
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: transformer_minicircuits_at224_1a
     library_name: transformer_smd
+    md5: 70b1b86088f629fb50dc10a6324ed7f5
+    md5_10: 70b1b86088
+    md5_5: 70b1b
+    md5_6: 70b1b8
+    oomp_key: oomp_kicad_transformer_smd_transformer_minicircuits_at224_1a
+    oomp_key_extra: oomp_footprint_kicad_transformer_smd_transformer_minicircuits_at224_1a
+    oomp_key_full: oomp_footprint_kicad_transformer_smd_transformer_minicircuits_at224_1a_70b1b8
+    oomp_key_simple: kicad_transformer_smd_transformer_minicircuits_at224_1a
     original_filename: libraries/kicad-footprints/Transformer_SMD.pretty/Transformer_MiniCircuits_AT224-1A.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_transformer_smd_transformer_minicircuits_at224_1a
+  oomp_key_full: oomp_footprint_kicad_transformer_smd_transformer_minicircuits_at224_1a
   oomp_key_simple: kicad_transformer_smd_transformer_minicircuits_at224_1a
   owner: kicad
   repo:

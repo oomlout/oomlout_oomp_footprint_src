@@ -17,9 +17,18 @@
   oomp:
     footprint_name: eh_side_2pin
     library_name: fujimoto
+    md5: 5b52a81cc662f0f2e0c373f68f36a3d4
+    md5_10: 5b52a81cc6
+    md5_5: 5b52a
+    md5_6: 5b52a8
+    oomp_key: oomp_kujimoto_fujimoto_eh_side_2pin
+    oomp_key_extra: oomp_footprint_kujimoto_fujimoto_eh_side_2pin
+    oomp_key_full: oomp_footprint_kujimoto_fujimoto_eh_side_2pin_5b52a8
+    oomp_key_simple: kujimoto_fujimoto_eh_side_2pin
     original_filename: fujimoto.pretty/EH_side_2pin.kicad_mod
     owner_name: kujimoto
   oomp_key: oomp_kujimoto_fujimoto_eh_side_2pin
+  oomp_key_full: oomp_footprint_kujimoto_fujimoto_eh_side_2pin
   oomp_key_simple: kujimoto_fujimoto_eh_side_2pin
   owner: Kujimoto
   repo:

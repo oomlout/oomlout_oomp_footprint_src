@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ssop08_5mm
     library_name: freetronics_footprints
+    md5: 66d2f5c3dcb076de92ac52995be6d0f3
+    md5_10: 66d2f5c3dc
+    md5_5: 66d2f
+    md5_6: 66d2f5
+    oomp_key: oomp_axello_freetronics_footprints_ssop08_5mm
+    oomp_key_extra: oomp_footprint_axello_freetronics_footprints_ssop08_5mm
+    oomp_key_full: oomp_footprint_axello_freetronics_footprints_ssop08_5mm_66d2f5
+    oomp_key_simple: axello_freetronics_footprints_ssop08_5mm
     original_filename: kicad/mods/freetronics_footprints.pretty/SSOP08_5mm.kicad_mod
     owner_name: axello
   oomp_key: oomp_axello_freetronics_footprints_ssop08_5mm
+  oomp_key_full: oomp_footprint_axello_freetronics_footprints_ssop08_5mm
   oomp_key_simple: axello_freetronics_footprints_ssop08_5mm
   owner: axello
   repo:

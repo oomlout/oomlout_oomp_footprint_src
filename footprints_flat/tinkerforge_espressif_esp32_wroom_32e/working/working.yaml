@@ -14,9 +14,18 @@
   oomp:
     footprint_name: esp32_wroom_32e
     library_name: espressif
+    md5: d579bfbf3feffb6ab8ab7cfa55fc0cbd
+    md5_10: d579bfbf3f
+    md5_5: d579b
+    md5_6: d579bf
+    oomp_key: oomp_tinkerforge_espressif_esp32_wroom_32e
+    oomp_key_extra: oomp_footprint_tinkerforge_espressif_esp32_wroom_32e
+    oomp_key_full: oomp_footprint_tinkerforge_espressif_esp32_wroom_32e_d579bf
+    oomp_key_simple: tinkerforge_espressif_esp32_wroom_32e
     original_filename: kicad-libraries/footprints/Espressif.pretty/ESP32-WROOM-32E.kicad_mod
     owner_name: tinkerforge
   oomp_key: oomp_tinkerforge_espressif_esp32_wroom_32e
+  oomp_key_full: oomp_footprint_tinkerforge_espressif_esp32_wroom_32e
   oomp_key_simple: tinkerforge_espressif_esp32_wroom_32e
   owner: Tinkerforge
   repo:

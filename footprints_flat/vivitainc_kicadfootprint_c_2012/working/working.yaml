@@ -17,9 +17,18 @@
   oomp:
     footprint_name: c_2012
     library_name: kicadfootprint
+    md5: 9d992827d84cf5d455134420cc56ebcf
+    md5_10: 9d992827d8
+    md5_5: 9d992
+    md5_6: 9d9928
+    oomp_key: oomp_vivitainc_kicadfootprint_c_2012
+    oomp_key_extra: oomp_footprint_vivitainc_kicadfootprint_c_2012
+    oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_c_2012_9d9928
+    oomp_key_simple: vivitainc_kicadfootprint_c_2012
     original_filename: KiCADfootprint.pretty/C_2012.kicad_mod
     owner_name: vivitainc
   oomp_key: oomp_vivitainc_kicadfootprint_c_2012
+  oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_c_2012
   oomp_key_simple: vivitainc_kicadfootprint_c_2012
   owner: vivitainc
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: lsoj_6_w3_76mm
     library_name: digikey_footprints
+    md5: 681df2c8263801027926cd27528499a9
+    md5_10: 681df2c826
+    md5_5: 681df
+    md5_6: 681df2
+    oomp_key: oomp_digikey_digikey_footprints_lsoj_6_w3_76mm
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_lsoj_6_w3_76mm
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_lsoj_6_w3_76mm_681df2
+    oomp_key_simple: digikey_digikey_footprints_lsoj_6_w3_76mm
     original_filename: digikey-kicad-library/digikey-footprints.pretty/LSOJ-6_W3.76mm.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_lsoj_6_w3_76mm
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_lsoj_6_w3_76mm
   oomp_key_simple: digikey_digikey_footprints_lsoj_6_w3_76mm
   owner: digikey
   repo:

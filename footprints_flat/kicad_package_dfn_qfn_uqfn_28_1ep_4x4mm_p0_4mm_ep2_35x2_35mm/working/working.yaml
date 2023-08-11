@@ -18,9 +18,18 @@
   oomp:
     footprint_name: uqfn_28_1ep_4x4mm_p0_4mm_ep2_35x2_35mm
     library_name: package_dfn_qfn
+    md5: 3a55ca5b345efe941b8483b1dbc184a9
+    md5_10: 3a55ca5b34
+    md5_5: 3a55c
+    md5_6: 3a55ca
+    oomp_key: oomp_kicad_package_dfn_qfn_uqfn_28_1ep_4x4mm_p0_4mm_ep2_35x2_35mm
+    oomp_key_extra: oomp_footprint_kicad_package_dfn_qfn_uqfn_28_1ep_4x4mm_p0_4mm_ep2_35x2_35mm
+    oomp_key_full: oomp_footprint_kicad_package_dfn_qfn_uqfn_28_1ep_4x4mm_p0_4mm_ep2_35x2_35mm_3a55ca
+    oomp_key_simple: kicad_package_dfn_qfn_uqfn_28_1ep_4x4mm_p0_4mm_ep2_35x2_35mm
     original_filename: libraries/kicad-footprints/Package_DFN_QFN.pretty/UQFN-28-1EP_4x4mm_P0.4mm_EP2.35x2.35mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_dfn_qfn_uqfn_28_1ep_4x4mm_p0_4mm_ep2_35x2_35mm
+  oomp_key_full: oomp_footprint_kicad_package_dfn_qfn_uqfn_28_1ep_4x4mm_p0_4mm_ep2_35x2_35mm
   oomp_key_simple: kicad_package_dfn_qfn_uqfn_28_1ep_4x4mm_p0_4mm_ep2_35x2_35mm
   owner: kicad
   repo:

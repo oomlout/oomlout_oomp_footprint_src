@@ -17,9 +17,18 @@
   oomp:
     footprint_name: stickit2_hdr
     library_name: xess
+    md5: 99cbcac9fbb21385a99593066cbba4cb
+    md5_10: 99cbcac9fb
+    md5_5: 99cbc
+    md5_6: 99cbca
+    oomp_key: oomp_xesscorp_xess_stickit2_hdr
+    oomp_key_extra: oomp_footprint_xesscorp_xess_stickit2_hdr
+    oomp_key_full: oomp_footprint_xesscorp_xess_stickit2_hdr_99cbca
+    oomp_key_simple: xesscorp_xess_stickit2_hdr
     original_filename: xess.pretty/STICKIT2_HDR.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_stickit2_hdr
+  oomp_key_full: oomp_footprint_xesscorp_xess_stickit2_hdr
   oomp_key_simple: xesscorp_xess_stickit2_hdr
   owner: xesscorp
   repo:

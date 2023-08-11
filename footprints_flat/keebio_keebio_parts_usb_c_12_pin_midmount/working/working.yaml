@@ -17,9 +17,18 @@
   oomp:
     footprint_name: usb_c_12_pin_midmount
     library_name: keebio_parts
+    md5: 92a7986893c734921d79624154963376
+    md5_10: 92a7986893
+    md5_5: 92a79
+    md5_6: 92a798
+    oomp_key: oomp_keebio_keebio_parts_usb_c_12_pin_midmount
+    oomp_key_extra: oomp_footprint_keebio_keebio_parts_usb_c_12_pin_midmount
+    oomp_key_full: oomp_footprint_keebio_keebio_parts_usb_c_12_pin_midmount_92a798
+    oomp_key_simple: keebio_keebio_parts_usb_c_12_pin_midmount
     original_filename: Keebio-Parts.pretty/USB-C-12-Pin-MidMount.kicad_mod
     owner_name: keebio
   oomp_key: oomp_keebio_keebio_parts_usb_c_12_pin_midmount
+  oomp_key_full: oomp_footprint_keebio_keebio_parts_usb_c_12_pin_midmount
   oomp_key_simple: keebio_keebio_parts_usb_c_12_pin_midmount
   owner: keebio
   repo:

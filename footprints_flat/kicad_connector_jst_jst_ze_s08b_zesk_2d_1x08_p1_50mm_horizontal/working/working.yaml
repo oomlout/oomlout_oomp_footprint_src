@@ -18,9 +18,18 @@
   oomp:
     footprint_name: jst_ze_s08b_zesk_2d_1x08_p1_50mm_horizontal
     library_name: connector_jst
+    md5: 472ccf5958c54b71b3015fb8b1b85f89
+    md5_10: 472ccf5958
+    md5_5: 472cc
+    md5_6: 472ccf
+    oomp_key: oomp_kicad_connector_jst_jst_ze_s08b_zesk_2d_1x08_p1_50mm_horizontal
+    oomp_key_extra: oomp_footprint_kicad_connector_jst_jst_ze_s08b_zesk_2d_1x08_p1_50mm_horizontal
+    oomp_key_full: oomp_footprint_kicad_connector_jst_jst_ze_s08b_zesk_2d_1x08_p1_50mm_horizontal_472ccf
+    oomp_key_simple: kicad_connector_jst_jst_ze_s08b_zesk_2d_1x08_p1_50mm_horizontal
     original_filename: libraries/kicad-footprints/Connector_JST.pretty/JST_ZE_S08B-ZESK-2D_1x08_P1.50mm_Horizontal.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_jst_jst_ze_s08b_zesk_2d_1x08_p1_50mm_horizontal
+  oomp_key_full: oomp_footprint_kicad_connector_jst_jst_ze_s08b_zesk_2d_1x08_p1_50mm_horizontal
   oomp_key_simple: kicad_connector_jst_jst_ze_s08b_zesk_2d_1x08_p1_50mm_horizontal
   owner: kicad
   repo:

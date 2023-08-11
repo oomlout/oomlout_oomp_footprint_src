@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_schd3a0100
     library_name: xess
+    md5: 556739ee02c8c078ca67800e08259ef3
+    md5_10: 556739ee02
+    md5_5: '55673'
+    md5_6: '556739'
+    oomp_key: oomp_xesscorp_xess_xess_schd3a0100
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_schd3a0100
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_schd3a0100_556739
+    oomp_key_simple: xesscorp_xess_xess_schd3a0100
     original_filename: xess.pretty/xess-SCHD3A0100.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_schd3a0100
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_schd3a0100
   oomp_key_simple: xesscorp_xess_xess_schd3a0100
   owner: xesscorp
   repo:

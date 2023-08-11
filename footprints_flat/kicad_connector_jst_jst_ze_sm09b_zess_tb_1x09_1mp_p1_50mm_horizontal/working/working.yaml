@@ -18,9 +18,18 @@
   oomp:
     footprint_name: jst_ze_sm09b_zess_tb_1x09_1mp_p1_50mm_horizontal
     library_name: connector_jst
+    md5: 9d38cc2d82204d6095871da3762478ae
+    md5_10: 9d38cc2d82
+    md5_5: 9d38c
+    md5_6: 9d38cc
+    oomp_key: oomp_kicad_connector_jst_jst_ze_sm09b_zess_tb_1x09_1mp_p1_50mm_horizontal
+    oomp_key_extra: oomp_footprint_kicad_connector_jst_jst_ze_sm09b_zess_tb_1x09_1mp_p1_50mm_horizontal
+    oomp_key_full: oomp_footprint_kicad_connector_jst_jst_ze_sm09b_zess_tb_1x09_1mp_p1_50mm_horizontal_9d38cc
+    oomp_key_simple: kicad_connector_jst_jst_ze_sm09b_zess_tb_1x09_1mp_p1_50mm_horizontal
     original_filename: libraries/kicad-footprints/Connector_JST.pretty/JST_ZE_SM09B-ZESS-TB_1x09-1MP_P1.50mm_Horizontal.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_jst_jst_ze_sm09b_zess_tb_1x09_1mp_p1_50mm_horizontal
+  oomp_key_full: oomp_footprint_kicad_connector_jst_jst_ze_sm09b_zess_tb_1x09_1mp_p1_50mm_horizontal
   oomp_key_simple: kicad_connector_jst_jst_ze_sm09b_zess_tb_1x09_1mp_p1_50mm_horizontal
   owner: kicad
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: res_axial_400mil
     library_name: freetronics_footprints
+    md5: a15471d7687ee9f85d32582c41184990
+    md5_10: a15471d768
+    md5_5: a1547
+    md5_6: a15471
+    oomp_key: oomp_axello_freetronics_footprints_res_axial_400mil
+    oomp_key_extra: oomp_footprint_axello_freetronics_footprints_res_axial_400mil
+    oomp_key_full: oomp_footprint_axello_freetronics_footprints_res_axial_400mil_a15471
+    oomp_key_simple: axello_freetronics_footprints_res_axial_400mil
     original_filename: kicad/mods/freetronics_footprints.pretty/RES_AXIAL_400MIL.kicad_mod
     owner_name: axello
   oomp_key: oomp_axello_freetronics_footprints_res_axial_400mil
+  oomp_key_full: oomp_footprint_axello_freetronics_footprints_res_axial_400mil
   oomp_key_simple: axello_freetronics_footprints_res_axial_400mil
   owner: axello
   repo:

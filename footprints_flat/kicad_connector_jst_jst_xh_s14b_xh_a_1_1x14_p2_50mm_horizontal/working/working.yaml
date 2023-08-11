@@ -18,9 +18,18 @@
   oomp:
     footprint_name: jst_xh_s14b_xh_a_1_1x14_p2_50mm_horizontal
     library_name: connector_jst
+    md5: a0d42a6f73ed8bb19ea764dd8f3d99ff
+    md5_10: a0d42a6f73
+    md5_5: a0d42
+    md5_6: a0d42a
+    oomp_key: oomp_kicad_connector_jst_jst_xh_s14b_xh_a_1_1x14_p2_50mm_horizontal
+    oomp_key_extra: oomp_footprint_kicad_connector_jst_jst_xh_s14b_xh_a_1_1x14_p2_50mm_horizontal
+    oomp_key_full: oomp_footprint_kicad_connector_jst_jst_xh_s14b_xh_a_1_1x14_p2_50mm_horizontal_a0d42a
+    oomp_key_simple: kicad_connector_jst_jst_xh_s14b_xh_a_1_1x14_p2_50mm_horizontal
     original_filename: libraries/kicad-footprints/Connector_JST.pretty/JST_XH_S14B-XH-A-1_1x14_P2.50mm_Horizontal.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_jst_jst_xh_s14b_xh_a_1_1x14_p2_50mm_horizontal
+  oomp_key_full: oomp_footprint_kicad_connector_jst_jst_xh_s14b_xh_a_1_1x14_p2_50mm_horizontal
   oomp_key_simple: kicad_connector_jst_jst_xh_s14b_xh_a_1_1x14_p2_50mm_horizontal
   owner: kicad
   repo:

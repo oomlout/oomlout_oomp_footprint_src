@@ -19,9 +19,18 @@
   oomp:
     footprint_name: panasonic_evejb
     library_name: manuf
+    md5: af67e08c7acdf202e1aebc6debe29890
+    md5_10: af67e08c7a
+    md5_5: af67e
+    md5_6: af67e0
+    oomp_key: oomp_iangitpers_manuf_panasonic_evejb
+    oomp_key_extra: oomp_footprint_iangitpers_manuf_panasonic_evejb
+    oomp_key_full: oomp_footprint_iangitpers_manuf_panasonic_evejb_af67e0
+    oomp_key_simple: iangitpers_manuf_panasonic_evejb
     original_filename: 4a/manuf.pretty/PANASONIC-EVEJB.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_manuf_panasonic_evejb
+  oomp_key_full: oomp_footprint_iangitpers_manuf_panasonic_evejb
   oomp_key_simple: iangitpers_manuf_panasonic_evejb
   owner: Iangitpers
   repo:

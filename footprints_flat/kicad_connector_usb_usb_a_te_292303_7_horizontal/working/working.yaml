@@ -17,9 +17,18 @@
   oomp:
     footprint_name: usb_a_te_292303_7_horizontal
     library_name: connector_usb
+    md5: 37dea8fed37af234a0174a072d1e2ce3
+    md5_10: 37dea8fed3
+    md5_5: 37dea
+    md5_6: 37dea8
+    oomp_key: oomp_kicad_connector_usb_usb_a_te_292303_7_horizontal
+    oomp_key_extra: oomp_footprint_kicad_connector_usb_usb_a_te_292303_7_horizontal
+    oomp_key_full: oomp_footprint_kicad_connector_usb_usb_a_te_292303_7_horizontal_37dea8
+    oomp_key_simple: kicad_connector_usb_usb_a_te_292303_7_horizontal
     original_filename: libraries/kicad-footprints/Connector_USB.pretty/USB_A_TE_292303-7_Horizontal.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_usb_usb_a_te_292303_7_horizontal
+  oomp_key_full: oomp_footprint_kicad_connector_usb_usb_a_te_292303_7_horizontal
   oomp_key_simple: kicad_connector_usb_usb_a_te_292303_7_horizontal
   owner: kicad
   repo:

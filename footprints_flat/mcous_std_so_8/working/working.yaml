@@ -17,9 +17,18 @@
   oomp:
     footprint_name: _so_8
     library_name: _std
+    md5: b38d515e201e986ada2482c4cae1cfb0
+    md5_10: b38d515e20
+    md5_5: b38d5
+    md5_6: b38d51
+    oomp_key: oomp_mcous_std_so_8
+    oomp_key_extra: oomp_footprint_mcous_std_so_8
+    oomp_key_full: oomp_footprint_mcous_std_so_8_b38d51
+    oomp_key_simple: mcous_std_so_8
     original_filename: kicad-lib/footprints/_std.pretty/_SO-8.kicad_mod
     owner_name: mcous
   oomp_key: oomp_mcous_std_so_8
+  oomp_key_full: oomp_footprint_mcous_std_so_8
   oomp_key_simple: mcous_std_so_8
   owner: mcous
   repo:

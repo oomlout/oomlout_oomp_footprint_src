@@ -17,9 +17,18 @@
   oomp:
     footprint_name: soic_8_powerpad
     library_name: agg
+    md5: ec30f0a3b26a166d6cecfb93b0c0abe5
+    md5_10: ec30f0a3b2
+    md5_5: ec30f
+    md5_6: ec30f0
+    oomp_key: oomp_adamgreig_agg_soic_8_powerpad
+    oomp_key_extra: oomp_footprint_adamgreig_agg_soic_8_powerpad
+    oomp_key_full: oomp_footprint_adamgreig_agg_soic_8_powerpad_ec30f0
+    oomp_key_simple: adamgreig_agg_soic_8_powerpad
     original_filename: agg-kicad/agg.pretty/SOIC-8-PowerPAD.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_soic_8_powerpad
+  oomp_key_full: oomp_footprint_adamgreig_agg_soic_8_powerpad
   oomp_key_simple: adamgreig_agg_soic_8_powerpad
   owner: adamgreig
   repo:

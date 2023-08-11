@@ -19,9 +19,18 @@
   oomp:
     footprint_name: bourns_rlb0914
     library_name: manuf
+    md5: ac2fa68ae01b1f5faa58f6dd3f4a6c29
+    md5_10: ac2fa68ae0
+    md5_5: ac2fa
+    md5_6: ac2fa6
+    oomp_key: oomp_iangitpers_manuf_bourns_rlb0914
+    oomp_key_extra: oomp_footprint_iangitpers_manuf_bourns_rlb0914
+    oomp_key_full: oomp_footprint_iangitpers_manuf_bourns_rlb0914_ac2fa6
+    oomp_key_simple: iangitpers_manuf_bourns_rlb0914
     original_filename: 4a/manuf.pretty/BOURNS-RLB0914.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_manuf_bourns_rlb0914
+  oomp_key_full: oomp_footprint_iangitpers_manuf_bourns_rlb0914
   oomp_key_simple: iangitpers_manuf_bourns_rlb0914
   owner: Iangitpers
   repo:

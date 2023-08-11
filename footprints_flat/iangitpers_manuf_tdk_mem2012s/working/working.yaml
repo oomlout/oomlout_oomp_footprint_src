@@ -19,9 +19,18 @@
   oomp:
     footprint_name: tdk_mem2012s
     library_name: manuf
+    md5: f53bd7ac88354b53ba21ac0fea6c69bb
+    md5_10: f53bd7ac88
+    md5_5: f53bd
+    md5_6: f53bd7
+    oomp_key: oomp_iangitpers_manuf_tdk_mem2012s
+    oomp_key_extra: oomp_footprint_iangitpers_manuf_tdk_mem2012s
+    oomp_key_full: oomp_footprint_iangitpers_manuf_tdk_mem2012s_f53bd7
+    oomp_key_simple: iangitpers_manuf_tdk_mem2012s
     original_filename: 4a/manuf.pretty/TDK-MEM2012S.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_manuf_tdk_mem2012s
+  oomp_key_full: oomp_footprint_iangitpers_manuf_tdk_mem2012s
   oomp_key_simple: iangitpers_manuf_tdk_mem2012s
   owner: Iangitpers
   repo:

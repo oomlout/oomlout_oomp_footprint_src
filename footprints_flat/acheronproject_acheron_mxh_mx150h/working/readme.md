@@ -19,8 +19,9 @@ Please consult that link for additional, details, files, and license information
 | github_path | http://github.com/AcheronProject/acheron_MXH.pretty/blob/master/MX150H.kicad_mod |  
 | links | {'github_src': 'http://gitlab.com/AcheronProject/acheron_MXH.pretty/blob/master/MX_ISOEnterH.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/acheronproject_acheron_mxh_mx150h/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/acheronproject_acheron_mxh_mx150h/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/acheronproject_acheron_mxh_mx150h/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/acheronproject_acheron_mxh_mx150h/working'} |  
 | name | acheron_MXH.pretty |  
-| oomp | {'footprint_name': 'mx150h', 'library_name': 'acheron_mxh', 'original_filename': 'acheron_MXH.pretty/MX150H.kicad_mod', 'owner_name': 'acheronproject'} |  
+| oomp | {'footprint_name': 'mx150h', 'library_name': 'acheron_mxh', 'md5': 'b3161350cd65dc4fdbe17ad0b2e2797f', 'md5_10': 'b3161350cd', 'md5_5': 'b3161', 'md5_6': 'b31613', 'oomp_key': 'oomp_acheronproject_acheron_mxh_mx150h', 'oomp_key_extra': 'oomp_footprint_acheronproject_acheron_mxh_mx150h', 'oomp_key_full': 'oomp_footprint_acheronproject_acheron_mxh_mx150h_b31613', 'oomp_key_simple': 'acheronproject_acheron_mxh_mx150h', 'original_filename': 'acheron_MXH.pretty/MX150H.kicad_mod', 'owner_name': 'acheronproject'} |  
 | oomp_key | oomp_acheronproject_acheron_mxh_mx150h |  
+| oomp_key_full | oomp_footprint_acheronproject_acheron_mxh_mx150h |  
 | oomp_key_simple | acheronproject_acheron_mxh_mx150h |  
 | owner | AcheronProject |  
 | repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  

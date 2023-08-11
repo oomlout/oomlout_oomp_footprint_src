@@ -17,9 +17,18 @@
   oomp:
     footprint_name: vfqfn_40_1ep_6x6mm
     library_name: digikey_footprints
+    md5: 65ff1e7e156dd6e6c2c919307b4a713a
+    md5_10: 65ff1e7e15
+    md5_5: 65ff1
+    md5_6: 65ff1e
+    oomp_key: oomp_digikey_digikey_footprints_vfqfn_40_1ep_6x6mm
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_vfqfn_40_1ep_6x6mm
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_vfqfn_40_1ep_6x6mm_65ff1e
+    oomp_key_simple: digikey_digikey_footprints_vfqfn_40_1ep_6x6mm
     original_filename: digikey-kicad-library/digikey-footprints.pretty/VFQFN-40-1EP_6x6mm.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_vfqfn_40_1ep_6x6mm
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_vfqfn_40_1ep_6x6mm
   oomp_key_simple: digikey_digikey_footprints_vfqfn_40_1ep_6x6mm
   owner: digikey
   repo:

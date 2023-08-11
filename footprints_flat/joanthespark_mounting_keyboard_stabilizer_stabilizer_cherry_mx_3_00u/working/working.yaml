@@ -17,9 +17,18 @@
   oomp:
     footprint_name: stabilizer_cherry_mx_3_00u
     library_name: mounting_keyboard_stabilizer
+    md5: c7c49ac6c18951bbec3824a9aebd6446
+    md5_10: c7c49ac6c1
+    md5_5: c7c49
+    md5_6: c7c49a
+    oomp_key: oomp_joanthespark_mounting_keyboard_stabilizer_stabilizer_cherry_mx_3_00u
+    oomp_key_extra: oomp_footprint_joanthespark_mounting_keyboard_stabilizer_stabilizer_cherry_mx_3_00u
+    oomp_key_full: oomp_footprint_joanthespark_mounting_keyboard_stabilizer_stabilizer_cherry_mx_3_00u_c7c49a
+    oomp_key_simple: joanthespark_mounting_keyboard_stabilizer_stabilizer_cherry_mx_3_00u
     original_filename: KiCAD/6.0/3rdparty/footprints/com_github_perigoso_keyswitch-kicad-library/Mounting_Keyboard_Stabilizer.pretty/Stabilizer_Cherry_MX_3.00u.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_mounting_keyboard_stabilizer_stabilizer_cherry_mx_3_00u
+  oomp_key_full: oomp_footprint_joanthespark_mounting_keyboard_stabilizer_stabilizer_cherry_mx_3_00u
   oomp_key_simple: joanthespark_mounting_keyboard_stabilizer_stabilizer_cherry_mx_3_00u
   owner: JoanTheSpark
   repo:

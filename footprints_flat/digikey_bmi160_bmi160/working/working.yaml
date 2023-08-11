@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: bmi160
-    library_name: source_footprints
+    library_name: bmi160_kicad_mod
+    md5: 22d496b44fbba02f51532ff941a4d5b2
+    md5_10: 22d496b44f
+    md5_5: 22d49
+    md5_6: 22d496
+    oomp_key: oomp_digikey_bmi160_bmi160
+    oomp_key_extra: oomp_footprint_digikey_bmi160_bmi160
+    oomp_key_full: oomp_footprint_digikey_bmi160_bmi160_22d496
+    oomp_key_simple: digikey_bmi160_bmi160
     original_filename: digikey-kicad-library/src/Source_Footprints/BMI160.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_bmi160_bmi160
+  oomp_key_full: oomp_footprint_digikey_bmi160_bmi160
   oomp_key_simple: digikey_bmi160_bmi160
   owner: digikey
   repo:

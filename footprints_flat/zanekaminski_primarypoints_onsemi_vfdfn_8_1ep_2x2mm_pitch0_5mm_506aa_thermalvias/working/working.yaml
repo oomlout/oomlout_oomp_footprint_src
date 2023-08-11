@@ -17,9 +17,18 @@
   oomp:
     footprint_name: onsemi_vfdfn_8_1ep_2x2mm_pitch0_5mm_506aa_thermalvias
     library_name: primarypoints
+    md5: 3560a89c80491b6659535785e3089767
+    md5_10: 3560a89c80
+    md5_5: 3560a
+    md5_6: 3560a8
+    oomp_key: oomp_zanekaminski_primarypoints_onsemi_vfdfn_8_1ep_2x2mm_pitch0_5mm_506aa_thermalvias
+    oomp_key_extra: oomp_footprint_zanekaminski_primarypoints_onsemi_vfdfn_8_1ep_2x2mm_pitch0_5mm_506aa_thermalvias
+    oomp_key_full: oomp_footprint_zanekaminski_primarypoints_onsemi_vfdfn_8_1ep_2x2mm_pitch0_5mm_506aa_thermalvias_3560a8
+    oomp_key_simple: zanekaminski_primarypoints_onsemi_vfdfn_8_1ep_2x2mm_pitch0_5mm_506aa_thermalvias
     original_filename: primarypoints.pretty/OnSemi_VFDFN-8-1EP_2x2mm_Pitch0.5mm_506AA_ThermalVias.kicad_mod
     owner_name: zanekaminski
   oomp_key: oomp_zanekaminski_primarypoints_onsemi_vfdfn_8_1ep_2x2mm_pitch0_5mm_506aa_thermalvias
+  oomp_key_full: oomp_footprint_zanekaminski_primarypoints_onsemi_vfdfn_8_1ep_2x2mm_pitch0_5mm_506aa_thermalvias
   oomp_key_simple: zanekaminski_primarypoints_onsemi_vfdfn_8_1ep_2x2mm_pitch0_5mm_506aa_thermalvias
   owner: ZaneKaminski
   repo:

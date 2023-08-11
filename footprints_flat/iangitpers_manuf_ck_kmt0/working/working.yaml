@@ -19,9 +19,18 @@
   oomp:
     footprint_name: ck_kmt0
     library_name: manuf
+    md5: 2e5389919200c24b85c05cb67014d918
+    md5_10: 2e53899192
+    md5_5: 2e538
+    md5_6: 2e5389
+    oomp_key: oomp_iangitpers_manuf_ck_kmt0
+    oomp_key_extra: oomp_footprint_iangitpers_manuf_ck_kmt0
+    oomp_key_full: oomp_footprint_iangitpers_manuf_ck_kmt0_2e5389
+    oomp_key_simple: iangitpers_manuf_ck_kmt0
     original_filename: 4a/manuf.pretty/CK_KMT0.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_manuf_ck_kmt0
+  oomp_key_full: oomp_footprint_iangitpers_manuf_ck_kmt0
   oomp_key_simple: iangitpers_manuf_ck_kmt0
   owner: Iangitpers
   repo:

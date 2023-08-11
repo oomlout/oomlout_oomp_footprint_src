@@ -17,9 +17,18 @@
   oomp:
     footprint_name: lcd_16x2_rear
     library_name: freetronics_footprints
+    md5: 7073e6a8f279caa1ce1aaf1cf6f976b0
+    md5_10: 7073e6a8f2
+    md5_5: 7073e
+    md5_6: 7073e6
+    oomp_key: oomp_axello_freetronics_footprints_lcd_16x2_rear
+    oomp_key_extra: oomp_footprint_axello_freetronics_footprints_lcd_16x2_rear
+    oomp_key_full: oomp_footprint_axello_freetronics_footprints_lcd_16x2_rear_7073e6
+    oomp_key_simple: axello_freetronics_footprints_lcd_16x2_rear
     original_filename: kicad/mods/freetronics_footprints.pretty/LCD_16X2_REAR.kicad_mod
     owner_name: axello
   oomp_key: oomp_axello_freetronics_footprints_lcd_16x2_rear
+  oomp_key_full: oomp_footprint_axello_freetronics_footprints_lcd_16x2_rear
   oomp_key_simple: axello_freetronics_footprints_lcd_16x2_rear
   owner: axello
   repo:

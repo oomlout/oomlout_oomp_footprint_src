@@ -18,9 +18,18 @@
   oomp:
     footprint_name: pson130p160x205x115_4
     library_name: ipc7351_nominal
+    md5: b388bcdc5590668e85bc45ead8a4ff4e
+    md5_10: b388bcdc55
+    md5_5: b388b
+    md5_6: b388bc
+    oomp_key: oomp_cpavlina_ipc7351_nominal_pson130p160x205x115_4
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_nominal_pson130p160x205x115_4
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_pson130p160x205x115_4_b388bc
+    oomp_key_simple: cpavlina_ipc7351_nominal_pson130p160x205x115_4
     original_filename: kicad-pcblib/IPC7351-Nominal.pretty/PSON130P160X205X115-4.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_nominal_pson130p160x205x115_4
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_pson130p160x205x115_4
   oomp_key_simple: cpavlina_ipc7351_nominal_pson130p160x205x115_4
   owner: cpavlina
   repo:

@@ -18,9 +18,18 @@
   oomp:
     footprint_name: dip_32_w15_24mm_socket_longpads
     library_name: package_dip
+    md5: 3c249f61df6d2dc1673f19f5cd2fb831
+    md5_10: 3c249f61df
+    md5_5: 3c249
+    md5_6: 3c249f
+    oomp_key: oomp_kicad_package_dip_dip_32_w15_24mm_socket_longpads
+    oomp_key_extra: oomp_footprint_kicad_package_dip_dip_32_w15_24mm_socket_longpads
+    oomp_key_full: oomp_footprint_kicad_package_dip_dip_32_w15_24mm_socket_longpads_3c249f
+    oomp_key_simple: kicad_package_dip_dip_32_w15_24mm_socket_longpads
     original_filename: libraries/kicad-footprints/Package_DIP.pretty/DIP-32_W15.24mm_Socket_LongPads.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_dip_dip_32_w15_24mm_socket_longpads
+  oomp_key_full: oomp_footprint_kicad_package_dip_dip_32_w15_24mm_socket_longpads
   oomp_key_simple: kicad_package_dip_dip_32_w15_24mm_socket_longpads
   owner: kicad
   repo:

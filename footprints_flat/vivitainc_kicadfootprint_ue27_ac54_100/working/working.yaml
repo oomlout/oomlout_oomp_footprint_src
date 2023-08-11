@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ue27_ac54_100
     library_name: kicadfootprint
+    md5: 6037f6494bc86639d4279712fd811293
+    md5_10: 6037f6494b
+    md5_5: 6037f
+    md5_6: 6037f6
+    oomp_key: oomp_vivitainc_kicadfootprint_ue27_ac54_100
+    oomp_key_extra: oomp_footprint_vivitainc_kicadfootprint_ue27_ac54_100
+    oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_ue27_ac54_100_6037f6
+    oomp_key_simple: vivitainc_kicadfootprint_ue27_ac54_100
     original_filename: KiCADfootprint.pretty/UE27-AC54-100.kicad_mod
     owner_name: vivitainc
   oomp_key: oomp_vivitainc_kicadfootprint_ue27_ac54_100
+  oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_ue27_ac54_100
   oomp_key_simple: vivitainc_kicadfootprint_ue27_ac54_100
   owner: vivitainc
   repo:

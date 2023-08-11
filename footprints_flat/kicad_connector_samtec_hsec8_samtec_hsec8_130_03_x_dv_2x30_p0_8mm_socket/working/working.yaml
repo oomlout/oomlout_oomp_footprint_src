@@ -18,9 +18,18 @@
   oomp:
     footprint_name: samtec_hsec8_130_03_x_dv_2x30_p0_8mm_socket
     library_name: connector_samtec_hsec8
+    md5: 9b5d90680149e5ed3f8f4180572ab753
+    md5_10: 9b5d906801
+    md5_5: 9b5d9
+    md5_6: 9b5d90
+    oomp_key: oomp_kicad_connector_samtec_hsec8_samtec_hsec8_130_03_x_dv_2x30_p0_8mm_socket
+    oomp_key_extra: oomp_footprint_kicad_connector_samtec_hsec8_samtec_hsec8_130_03_x_dv_2x30_p0_8mm_socket
+    oomp_key_full: oomp_footprint_kicad_connector_samtec_hsec8_samtec_hsec8_130_03_x_dv_2x30_p0_8mm_socket_9b5d90
+    oomp_key_simple: kicad_connector_samtec_hsec8_samtec_hsec8_130_03_x_dv_2x30_p0_8mm_socket
     original_filename: libraries/kicad-footprints/Connector_Samtec_HSEC8.pretty/Samtec_HSEC8-130-03-X-DV_2x30_P0.8mm_Socket.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_samtec_hsec8_samtec_hsec8_130_03_x_dv_2x30_p0_8mm_socket
+  oomp_key_full: oomp_footprint_kicad_connector_samtec_hsec8_samtec_hsec8_130_03_x_dv_2x30_p0_8mm_socket
   oomp_key_simple: kicad_connector_samtec_hsec8_samtec_hsec8_130_03_x_dv_2x30_p0_8mm_socket
   owner: kicad
   repo:

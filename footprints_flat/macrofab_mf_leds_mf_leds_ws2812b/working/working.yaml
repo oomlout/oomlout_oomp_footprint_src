@@ -17,9 +17,18 @@
   oomp:
     footprint_name: mf_leds_ws2812b
     library_name: mf_leds
+    md5: e35ddda2dce341a43665353ed202c495
+    md5_10: e35ddda2dc
+    md5_5: e35dd
+    md5_6: e35ddd
+    oomp_key: oomp_macrofab_mf_leds_mf_leds_ws2812b
+    oomp_key_extra: oomp_footprint_macrofab_mf_leds_mf_leds_ws2812b
+    oomp_key_full: oomp_footprint_macrofab_mf_leds_mf_leds_ws2812b_e35ddd
+    oomp_key_simple: macrofab_mf_leds_mf_leds_ws2812b
     original_filename: EDALibraries/KiCad/Footprints/MF_LEDs.pretty/MF_LEDs-WS2812B.kicad_mod
     owner_name: macrofab
   oomp_key: oomp_macrofab_mf_leds_mf_leds_ws2812b
+  oomp_key_full: oomp_footprint_macrofab_mf_leds_mf_leds_ws2812b
   oomp_key_simple: macrofab_mf_leds_mf_leds_ws2812b
   owner: MacroFab
   repo:

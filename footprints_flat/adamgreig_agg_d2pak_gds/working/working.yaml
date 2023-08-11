@@ -17,9 +17,18 @@
   oomp:
     footprint_name: d2pak_gds
     library_name: agg
+    md5: f4a338fec87bfeabce5b96052e81825c
+    md5_10: f4a338fec8
+    md5_5: f4a33
+    md5_6: f4a338
+    oomp_key: oomp_adamgreig_agg_d2pak_gds
+    oomp_key_extra: oomp_footprint_adamgreig_agg_d2pak_gds
+    oomp_key_full: oomp_footprint_adamgreig_agg_d2pak_gds_f4a338
+    oomp_key_simple: adamgreig_agg_d2pak_gds
     original_filename: agg-kicad/agg.pretty/D2PAK_GDS.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_d2pak_gds
+  oomp_key_full: oomp_footprint_adamgreig_agg_d2pak_gds
   oomp_key_simple: adamgreig_agg_d2pak_gds
   owner: adamgreig
   repo:

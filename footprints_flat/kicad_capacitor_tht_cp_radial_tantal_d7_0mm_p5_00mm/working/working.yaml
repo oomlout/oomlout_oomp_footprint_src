@@ -18,9 +18,18 @@
   oomp:
     footprint_name: cp_radial_tantal_d7_0mm_p5_00mm
     library_name: capacitor_tht
+    md5: 1cbedb7e090a37e7cbd17c737e05b293
+    md5_10: 1cbedb7e09
+    md5_5: 1cbed
+    md5_6: 1cbedb
+    oomp_key: oomp_kicad_capacitor_tht_cp_radial_tantal_d7_0mm_p5_00mm
+    oomp_key_extra: oomp_footprint_kicad_capacitor_tht_cp_radial_tantal_d7_0mm_p5_00mm
+    oomp_key_full: oomp_footprint_kicad_capacitor_tht_cp_radial_tantal_d7_0mm_p5_00mm_1cbedb
+    oomp_key_simple: kicad_capacitor_tht_cp_radial_tantal_d7_0mm_p5_00mm
     original_filename: libraries/kicad-footprints/Capacitor_THT.pretty/CP_Radial_Tantal_D7.0mm_P5.00mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_capacitor_tht_cp_radial_tantal_d7_0mm_p5_00mm
+  oomp_key_full: oomp_footprint_kicad_capacitor_tht_cp_radial_tantal_d7_0mm_p5_00mm
   oomp_key_simple: kicad_capacitor_tht_cp_radial_tantal_d7_0mm_p5_00mm
   owner: kicad
   repo:

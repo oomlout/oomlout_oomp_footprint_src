@@ -17,9 +17,18 @@
   oomp:
     footprint_name: arduino_nano_withmountingholes
     library_name: module
+    md5: af5a930492e671f9ac2175499b26a1c0
+    md5_10: af5a930492
+    md5_5: af5a9
+    md5_6: af5a93
+    oomp_key: oomp_kicad_module_arduino_nano_withmountingholes
+    oomp_key_extra: oomp_footprint_kicad_module_arduino_nano_withmountingholes
+    oomp_key_full: oomp_footprint_kicad_module_arduino_nano_withmountingholes_af5a93
+    oomp_key_simple: kicad_module_arduino_nano_withmountingholes
     original_filename: libraries/kicad-footprints/Module.pretty/Arduino_Nano_WithMountingHoles.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_module_arduino_nano_withmountingholes
+  oomp_key_full: oomp_footprint_kicad_module_arduino_nano_withmountingholes
   oomp_key_simple: kicad_module_arduino_nano_withmountingholes
   owner: kicad
   repo:

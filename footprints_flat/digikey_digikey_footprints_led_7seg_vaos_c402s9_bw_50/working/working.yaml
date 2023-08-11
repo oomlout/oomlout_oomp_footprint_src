@@ -17,9 +17,18 @@
   oomp:
     footprint_name: led_7seg_vaos_c402s9_bw_50
     library_name: digikey_footprints
+    md5: 92ef7b861e57976d6f52a8a298c9e83d
+    md5_10: 92ef7b861e
+    md5_5: 92ef7
+    md5_6: 92ef7b
+    oomp_key: oomp_digikey_digikey_footprints_led_7seg_vaos_c402s9_bw_50
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_led_7seg_vaos_c402s9_bw_50
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_led_7seg_vaos_c402s9_bw_50_92ef7b
+    oomp_key_simple: digikey_digikey_footprints_led_7seg_vaos_c402s9_bw_50
     original_filename: digikey-kicad-library/digikey-footprints.pretty/LED_7Seg_VAOS-C402S9-BW_50.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_led_7seg_vaos_c402s9_bw_50
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_led_7seg_vaos_c402s9_bw_50
   oomp_key_simple: digikey_digikey_footprints_led_7seg_vaos_c402s9_bw_50
   owner: digikey
   repo:

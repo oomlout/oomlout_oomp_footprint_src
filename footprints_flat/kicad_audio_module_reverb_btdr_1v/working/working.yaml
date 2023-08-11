@@ -18,9 +18,18 @@
   oomp:
     footprint_name: reverb_btdr_1v
     library_name: audio_module
+    md5: e51aad50c4f0cb006fa2ad533ecae0aa
+    md5_10: e51aad50c4
+    md5_5: e51aa
+    md5_6: e51aad
+    oomp_key: oomp_kicad_audio_module_reverb_btdr_1v
+    oomp_key_extra: oomp_footprint_kicad_audio_module_reverb_btdr_1v
+    oomp_key_full: oomp_footprint_kicad_audio_module_reverb_btdr_1v_e51aad
+    oomp_key_simple: kicad_audio_module_reverb_btdr_1v
     original_filename: libraries/kicad-footprints/Audio_Module.pretty/Reverb_BTDR-1V.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_audio_module_reverb_btdr_1v
+  oomp_key_full: oomp_footprint_kicad_audio_module_reverb_btdr_1v
   oomp_key_simple: kicad_audio_module_reverb_btdr_1v
   owner: kicad
   repo:

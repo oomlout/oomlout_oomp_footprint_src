@@ -17,9 +17,18 @@
   oomp:
     footprint_name: l_fastron_pisr_handsoldering
     library_name: inductor_smd
+    md5: bffb8a88862b278d417449a3131af3fc
+    md5_10: bffb8a8886
+    md5_5: bffb8
+    md5_6: bffb8a
+    oomp_key: oomp_kicad_inductor_smd_l_fastron_pisr_handsoldering
+    oomp_key_extra: oomp_footprint_kicad_inductor_smd_l_fastron_pisr_handsoldering
+    oomp_key_full: oomp_footprint_kicad_inductor_smd_l_fastron_pisr_handsoldering_bffb8a
+    oomp_key_simple: kicad_inductor_smd_l_fastron_pisr_handsoldering
     original_filename: libraries/kicad-footprints/Inductor_SMD.pretty/L_Fastron_PISR_Handsoldering.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_inductor_smd_l_fastron_pisr_handsoldering
+  oomp_key_full: oomp_footprint_kicad_inductor_smd_l_fastron_pisr_handsoldering
   oomp_key_simple: kicad_inductor_smd_l_fastron_pisr_handsoldering
   owner: kicad
   repo:

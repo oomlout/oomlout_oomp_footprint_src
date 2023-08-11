@@ -24,9 +24,18 @@
   oomp:
     footprint_name: pqfn_8_ep_6x5mm_p1_27mm_generic
     library_name: package_dfn_qfn
+    md5: 5c070945dded4952d752157b208e9700
+    md5_10: 5c070945dd
+    md5_5: 5c070
+    md5_6: 5c0709
+    oomp_key: oomp_kicad_package_dfn_qfn_pqfn_8_ep_6x5mm_p1_27mm_generic
+    oomp_key_extra: oomp_footprint_kicad_package_dfn_qfn_pqfn_8_ep_6x5mm_p1_27mm_generic
+    oomp_key_full: oomp_footprint_kicad_package_dfn_qfn_pqfn_8_ep_6x5mm_p1_27mm_generic_5c0709
+    oomp_key_simple: kicad_package_dfn_qfn_pqfn_8_ep_6x5mm_p1_27mm_generic
     original_filename: libraries/kicad-footprints/Package_DFN_QFN.pretty/PQFN-8-EP_6x5mm_P1.27mm_Generic.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_dfn_qfn_pqfn_8_ep_6x5mm_p1_27mm_generic
+  oomp_key_full: oomp_footprint_kicad_package_dfn_qfn_pqfn_8_ep_6x5mm_p1_27mm_generic
   oomp_key_simple: kicad_package_dfn_qfn_pqfn_8_ep_6x5mm_p1_27mm_generic
   owner: kicad
   repo:

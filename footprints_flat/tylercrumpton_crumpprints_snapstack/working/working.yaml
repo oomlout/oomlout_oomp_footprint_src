@@ -17,9 +17,18 @@
   oomp:
     footprint_name: snapstack
     library_name: crumpprints
+    md5: c104ee0e57a0f31ffec2cac32e28767a
+    md5_10: c104ee0e57
+    md5_5: c104e
+    md5_6: c104ee
+    oomp_key: oomp_tylercrumpton_crumpprints_snapstack
+    oomp_key_extra: oomp_footprint_tylercrumpton_crumpprints_snapstack
+    oomp_key_full: oomp_footprint_tylercrumpton_crumpprints_snapstack_c104ee
+    oomp_key_simple: tylercrumpton_crumpprints_snapstack
     original_filename: CrumpPrints.pretty/SnapStack.kicad_mod
     owner_name: tylercrumpton
   oomp_key: oomp_tylercrumpton_crumpprints_snapstack
+  oomp_key_full: oomp_footprint_tylercrumpton_crumpprints_snapstack
   oomp_key_simple: tylercrumpton_crumpprints_snapstack
   owner: tylercrumpton
   repo:

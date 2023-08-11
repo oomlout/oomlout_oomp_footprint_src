@@ -17,9 +17,18 @@
   oomp:
     footprint_name: do_220aa
     library_name: gbd_smd
+    md5: 3f1c656ddcaf30c9b0a640e5caf85108
+    md5_10: 3f1c656ddc
+    md5_5: 3f1c6
+    md5_6: 3f1c65
+    oomp_key: oomp_asofttech_gbd_smd_do_220aa
+    oomp_key_extra: oomp_footprint_asofttech_gbd_smd_do_220aa
+    oomp_key_full: oomp_footprint_asofttech_gbd_smd_do_220aa_3f1c65
+    oomp_key_simple: asofttech_gbd_smd_do_220aa
     original_filename: CAD.KiCad.Libs/modules/GBD-SMD.pretty/DO-220AA.kicad_mod
     owner_name: asofttech
   oomp_key: oomp_asofttech_gbd_smd_do_220aa
+  oomp_key_full: oomp_footprint_asofttech_gbd_smd_do_220aa
   oomp_key_simple: asofttech_gbd_smd_do_220aa
   owner: ASoftTech
   repo:

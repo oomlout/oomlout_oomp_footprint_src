@@ -18,9 +18,18 @@
   oomp:
     footprint_name: pinsocket_1x34_p1_00mm_vertical
     library_name: connector_pinsocket_1_00mm
+    md5: 9033de9ee41d5402a374c08743ce13b2
+    md5_10: 9033de9ee4
+    md5_5: 9033d
+    md5_6: 9033de
+    oomp_key: oomp_kicad_connector_pinsocket_1_00mm_pinsocket_1x34_p1_00mm_vertical
+    oomp_key_extra: oomp_footprint_kicad_connector_pinsocket_1_00mm_pinsocket_1x34_p1_00mm_vertical
+    oomp_key_full: oomp_footprint_kicad_connector_pinsocket_1_00mm_pinsocket_1x34_p1_00mm_vertical_9033de
+    oomp_key_simple: kicad_connector_pinsocket_1_00mm_pinsocket_1x34_p1_00mm_vertical
     original_filename: libraries/kicad-footprints/Connector_PinSocket_1.00mm.pretty/PinSocket_1x34_P1.00mm_Vertical.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_pinsocket_1_00mm_pinsocket_1x34_p1_00mm_vertical
+  oomp_key_full: oomp_footprint_kicad_connector_pinsocket_1_00mm_pinsocket_1x34_p1_00mm_vertical
   oomp_key_simple: kicad_connector_pinsocket_1_00mm_pinsocket_1x34_p1_00mm_vertical
   owner: kicad
   repo:

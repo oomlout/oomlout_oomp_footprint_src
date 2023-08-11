@@ -17,9 +17,18 @@
   oomp:
     footprint_name: hitek725_1u_dudpad
     library_name: hitek725
+    md5: 337bd8d27c9c6ae00d9af523021afde0
+    md5_10: 337bd8d27c
+    md5_5: 337bd
+    md5_6: 337bd8
+    oomp_key: oomp_alasofia_hitek725_hitek725_1u_dudpad
+    oomp_key_extra: oomp_footprint_alasofia_hitek725_hitek725_1u_dudpad
+    oomp_key_full: oomp_footprint_alasofia_hitek725_hitek725_1u_dudpad_337bd8
+    oomp_key_simple: alasofia_hitek725_hitek725_1u_dudpad
     original_filename: hitek725.pretty/Hitek725-1U-DudPad.kicad_mod
     owner_name: alasofia
   oomp_key: oomp_alasofia_hitek725_hitek725_1u_dudpad
+  oomp_key_full: oomp_footprint_alasofia_hitek725_hitek725_1u_dudpad
   oomp_key_simple: alasofia_hitek725_hitek725_1u_dudpad
   owner: Alasofia
   repo:

@@ -18,9 +18,18 @@
   oomp:
     footprint_name: tssop_20_4_4x6_5mm_p0_65mm
     library_name: package_so
+    md5: 33e295dd8ac3a951c154739b3cf3a64c
+    md5_10: 33e295dd8a
+    md5_5: 33e29
+    md5_6: 33e295
+    oomp_key: oomp_kicad_package_so_tssop_20_4_4x6_5mm_p0_65mm
+    oomp_key_extra: oomp_footprint_kicad_package_so_tssop_20_4_4x6_5mm_p0_65mm
+    oomp_key_full: oomp_footprint_kicad_package_so_tssop_20_4_4x6_5mm_p0_65mm_33e295
+    oomp_key_simple: kicad_package_so_tssop_20_4_4x6_5mm_p0_65mm
     original_filename: libraries/kicad-footprints/Package_SO.pretty/TSSOP-20_4.4x6.5mm_P0.65mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_so_tssop_20_4_4x6_5mm_p0_65mm
+  oomp_key_full: oomp_footprint_kicad_package_so_tssop_20_4_4x6_5mm_p0_65mm
   oomp_key_simple: kicad_package_so_tssop_20_4_4x6_5mm_p0_65mm
   owner: kicad
   repo:

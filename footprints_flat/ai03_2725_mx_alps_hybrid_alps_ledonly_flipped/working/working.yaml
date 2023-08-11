@@ -16,10 +16,19 @@
   name: MX_Alps_Hybrid.pretty
   oomp:
     footprint_name: alps_ledonly_flipped
-    library_name: alps_only
+    library_name: mx_alps_hybrid
+    md5: 46ef04a122bc5903f83afa837a269b78
+    md5_10: 46ef04a122
+    md5_5: 46ef0
+    md5_6: 46ef04
+    oomp_key: oomp_ai03_2725_mx_alps_hybrid_alps_ledonly_flipped
+    oomp_key_extra: oomp_footprint_ai03_2725_mx_alps_hybrid_alps_ledonly_flipped
+    oomp_key_full: oomp_footprint_ai03_2725_mx_alps_hybrid_alps_ledonly_flipped_46ef04
+    oomp_key_simple: ai03_2725_mx_alps_hybrid_alps_ledonly_flipped
     original_filename: MX_Alps_Hybrid.pretty/Alps_Only.pretty/ALPS-LEDONLY-FLIPPED.kicad_mod
     owner_name: ai03_2725
   oomp_key: oomp_ai03_2725_mx_alps_hybrid_alps_ledonly_flipped
+  oomp_key_full: oomp_footprint_ai03_2725_mx_alps_hybrid_alps_ledonly_flipped
   oomp_key_simple: ai03_2725_mx_alps_hybrid_alps_ledonly_flipped
   owner: ai03-2725
   repo:

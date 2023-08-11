@@ -17,9 +17,18 @@
   oomp:
     footprint_name: engi
     library_name: mf_conn
+    md5: 52822a7cef9ff7469a073c4a0746e62a
+    md5_10: 52822a7cef
+    md5_5: '52822'
+    md5_6: 52822a
+    oomp_key: oomp_marf41_mf_conn_engi
+    oomp_key_extra: oomp_footprint_marf41_mf_conn_engi
+    oomp_key_full: oomp_footprint_marf41_mf_conn_engi_52822a
+    oomp_key_simple: marf41_mf_conn_engi
     original_filename: MF-conn.pretty/engi.kicad_mod
     owner_name: marf41
   oomp_key: oomp_marf41_mf_conn_engi
+  oomp_key_full: oomp_footprint_marf41_mf_conn_engi
   oomp_key_simple: marf41_mf_conn_engi
   owner: marf41
   repo:

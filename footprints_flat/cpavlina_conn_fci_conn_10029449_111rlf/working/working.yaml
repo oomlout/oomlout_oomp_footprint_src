@@ -17,9 +17,18 @@
   oomp:
     footprint_name: conn_10029449_111rlf
     library_name: conn_fci
+    md5: 16bda5e966a7b1a10e79efcda3cf0240
+    md5_10: 16bda5e966
+    md5_5: 16bda
+    md5_6: 16bda5
+    oomp_key: oomp_cpavlina_conn_fci_conn_10029449_111rlf
+    oomp_key_extra: oomp_footprint_cpavlina_conn_fci_conn_10029449_111rlf
+    oomp_key_full: oomp_footprint_cpavlina_conn_fci_conn_10029449_111rlf_16bda5
+    oomp_key_simple: cpavlina_conn_fci_conn_10029449_111rlf
     original_filename: kicad-pcblib/conn-fci.pretty/CONN-10029449-111RLF.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_conn_fci_conn_10029449_111rlf
+  oomp_key_full: oomp_footprint_cpavlina_conn_fci_conn_10029449_111rlf
   oomp_key_simple: cpavlina_conn_fci_conn_10029449_111rlf
   owner: cpavlina
   repo:

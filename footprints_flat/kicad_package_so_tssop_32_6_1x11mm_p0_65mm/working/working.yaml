@@ -18,9 +18,18 @@
   oomp:
     footprint_name: tssop_32_6_1x11mm_p0_65mm
     library_name: package_so
+    md5: 3bfe861aabfd43a4e8ec2fb0a73e099e
+    md5_10: 3bfe861aab
+    md5_5: 3bfe8
+    md5_6: 3bfe86
+    oomp_key: oomp_kicad_package_so_tssop_32_6_1x11mm_p0_65mm
+    oomp_key_extra: oomp_footprint_kicad_package_so_tssop_32_6_1x11mm_p0_65mm
+    oomp_key_full: oomp_footprint_kicad_package_so_tssop_32_6_1x11mm_p0_65mm_3bfe86
+    oomp_key_simple: kicad_package_so_tssop_32_6_1x11mm_p0_65mm
     original_filename: libraries/kicad-footprints/Package_SO.pretty/TSSOP-32_6.1x11mm_P0.65mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_so_tssop_32_6_1x11mm_p0_65mm
+  oomp_key_full: oomp_footprint_kicad_package_so_tssop_32_6_1x11mm_p0_65mm
   oomp_key_simple: kicad_package_so_tssop_32_6_1x11mm_p0_65mm
   owner: kicad
   repo:

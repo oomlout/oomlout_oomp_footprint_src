@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sw_push_small
     library_name: kit_dev_coldfire
+    md5: ac384cf7df4afdbf7a6bd75c6e155b25
+    md5_10: ac384cf7df
+    md5_5: ac384
+    md5_6: ac384c
+    oomp_key: oomp_wykys_kit_dev_coldfire_sw_push_small
+    oomp_key_extra: oomp_footprint_wykys_kit_dev_coldfire_sw_push_small
+    oomp_key_full: oomp_footprint_wykys_kit_dev_coldfire_sw_push_small_ac384c
+    oomp_key_simple: wykys_kit_dev_coldfire_sw_push_small
     original_filename: kicad/demos/kit-dev-coldfire-xilinx_5213/kit-dev-coldfire.pretty/SW_PUSH_SMALL.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_kit_dev_coldfire_sw_push_small
+  oomp_key_full: oomp_footprint_wykys_kit_dev_coldfire_sw_push_small
   oomp_key_simple: wykys_kit_dev_coldfire_sw_push_small
   owner: wykys
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: mini_b_usbr
     library_name: usst_footprints
+    md5: 317b6497c5dc6429d79d06c6d7424269
+    md5_10: 317b6497c5
+    md5_5: 317b6
+    md5_6: 317b64
+    oomp_key: oomp_uofsspacedesignteam_usst_footprints_mini_b_usbr
+    oomp_key_extra: oomp_footprint_uofsspacedesignteam_usst_footprints_mini_b_usbr
+    oomp_key_full: oomp_footprint_uofsspacedesignteam_usst_footprints_mini_b_usbr_317b64
+    oomp_key_simple: uofsspacedesignteam_usst_footprints_mini_b_usbr
     original_filename: USST-footprints.pretty/MINI-B-USBR.kicad_mod
     owner_name: uofsspacedesignteam
   oomp_key: oomp_uofsspacedesignteam_usst_footprints_mini_b_usbr
+  oomp_key_full: oomp_footprint_uofsspacedesignteam_usst_footprints_mini_b_usbr
   oomp_key_simple: uofsspacedesignteam_usst_footprints_mini_b_usbr
   owner: UofSSpaceDesignTeam
   repo:

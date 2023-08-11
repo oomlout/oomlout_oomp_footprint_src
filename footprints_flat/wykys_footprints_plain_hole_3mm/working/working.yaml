@@ -17,9 +17,18 @@
   oomp:
     footprint_name: plain_hole_3mm
     library_name: footprints
+    md5: 3b8f8c2f38abeaab5e9cb85426735ac6
+    md5_10: 3b8f8c2f38
+    md5_5: 3b8f8
+    md5_6: 3b8f8c
+    oomp_key: oomp_wykys_footprints_plain_hole_3mm
+    oomp_key_extra: oomp_footprint_wykys_footprints_plain_hole_3mm
+    oomp_key_full: oomp_footprint_wykys_footprints_plain_hole_3mm_3b8f8c
+    oomp_key_simple: wykys_footprints_plain_hole_3mm
     original_filename: kicad/demos/stickhub/footprints.pretty/Plain_Hole_3mm.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_footprints_plain_hole_3mm
+  oomp_key_full: oomp_footprint_wykys_footprints_plain_hole_3mm
   oomp_key_simple: wykys_footprints_plain_hole_3mm
   owner: wykys
   repo:

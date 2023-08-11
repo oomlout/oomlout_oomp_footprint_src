@@ -17,9 +17,18 @@
   oomp:
     footprint_name: battery_cr1225
     library_name: battery
+    md5: 841205e9aceb51ca3561568af47f9007
+    md5_10: 841205e9ac
+    md5_5: '84120'
+    md5_6: '841205'
+    oomp_key: oomp_kicad_battery_battery_cr1225
+    oomp_key_extra: oomp_footprint_kicad_battery_battery_cr1225
+    oomp_key_full: oomp_footprint_kicad_battery_battery_cr1225_841205
+    oomp_key_simple: kicad_battery_battery_cr1225
     original_filename: libraries/kicad-footprints/Battery.pretty/Battery_CR1225.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_battery_battery_cr1225
+  oomp_key_full: oomp_footprint_kicad_battery_battery_cr1225
   oomp_key_simple: kicad_battery_battery_cr1225
   owner: kicad
   repo:

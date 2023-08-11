@@ -19,9 +19,18 @@
   oomp:
     footprint_name: abracon_aisc_1008
     library_name: manuf
+    md5: fd187b7bc389d7770dfc5b6db0559c41
+    md5_10: fd187b7bc3
+    md5_5: fd187
+    md5_6: fd187b
+    oomp_key: oomp_iangitpers_manuf_abracon_aisc_1008
+    oomp_key_extra: oomp_footprint_iangitpers_manuf_abracon_aisc_1008
+    oomp_key_full: oomp_footprint_iangitpers_manuf_abracon_aisc_1008_fd187b
+    oomp_key_simple: iangitpers_manuf_abracon_aisc_1008
     original_filename: 4a/manuf.pretty/ABRACON-AISC-1008.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_manuf_abracon_aisc_1008
+  oomp_key_full: oomp_footprint_iangitpers_manuf_abracon_aisc_1008
   oomp_key_simple: iangitpers_manuf_abracon_aisc_1008
   owner: Iangitpers
   repo:

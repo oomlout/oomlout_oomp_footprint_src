@@ -19,9 +19,18 @@
   oomp:
     footprint_name: pinsocket_1x06_p1_00mm_vertical_smd_pin1right
     library_name: connector_pinsocket_1_00mm
+    md5: ff05e60053b3fe8d9a3293e5e0e01077
+    md5_10: ff05e60053
+    md5_5: ff05e
+    md5_6: ff05e6
+    oomp_key: oomp_kicad_connector_pinsocket_1_00mm_pinsocket_1x06_p1_00mm_vertical_smd_pin1right
+    oomp_key_extra: oomp_footprint_kicad_connector_pinsocket_1_00mm_pinsocket_1x06_p1_00mm_vertical_smd_pin1right
+    oomp_key_full: oomp_footprint_kicad_connector_pinsocket_1_00mm_pinsocket_1x06_p1_00mm_vertical_smd_pin1right_ff05e6
+    oomp_key_simple: kicad_connector_pinsocket_1_00mm_pinsocket_1x06_p1_00mm_vertical_smd_pin1right
     original_filename: libraries/kicad-footprints/Connector_PinSocket_1.00mm.pretty/PinSocket_1x06_P1.00mm_Vertical_SMD_Pin1Right.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_pinsocket_1_00mm_pinsocket_1x06_p1_00mm_vertical_smd_pin1right
+  oomp_key_full: oomp_footprint_kicad_connector_pinsocket_1_00mm_pinsocket_1x06_p1_00mm_vertical_smd_pin1right
   oomp_key_simple: kicad_connector_pinsocket_1_00mm_pinsocket_1x06_p1_00mm_vertical_smd_pin1right
   owner: kicad
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_dimm_socket_184
     library_name: xess
+    md5: 9b4bd647f5e890a6f801ecc2bd1d555a
+    md5_10: 9b4bd647f5
+    md5_5: 9b4bd
+    md5_6: 9b4bd6
+    oomp_key: oomp_xesscorp_xess_xess_dimm_socket_184
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_dimm_socket_184
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_dimm_socket_184_9b4bd6
+    oomp_key_simple: xesscorp_xess_xess_dimm_socket_184
     original_filename: xess.pretty/xess-DIMM-SOCKET-184.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_dimm_socket_184
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_dimm_socket_184
   oomp_key_simple: xesscorp_xess_xess_dimm_socket_184
   owner: xesscorp
   repo:

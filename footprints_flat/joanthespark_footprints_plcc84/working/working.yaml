@@ -17,9 +17,18 @@
   oomp:
     footprint_name: plcc84
     library_name: footprints
+    md5: 1cc87d8b15db84d68ffd2aac26e81b7d
+    md5_10: 1cc87d8b15
+    md5_5: 1cc87
+    md5_6: 1cc87d
+    oomp_key: oomp_joanthespark_footprints_plcc84
+    oomp_key_extra: oomp_footprint_joanthespark_footprints_plcc84
+    oomp_key_full: oomp_footprint_joanthespark_footprints_plcc84_1cc87d
+    oomp_key_simple: joanthespark_footprints_plcc84
     original_filename: KiCAD/demos/video/libs/footprints.pretty/PLCC84.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_footprints_plcc84
+  oomp_key_full: oomp_footprint_joanthespark_footprints_plcc84
   oomp_key_simple: joanthespark_footprints_plcc84
   owner: JoanTheSpark
   repo:

@@ -19,9 +19,18 @@
   oomp:
     footprint_name: fuse_1210_3225metric_pad1_42x2_65mm_handsolder
     library_name: fuse
+    md5: e8958ed9f037f916da297009593452d3
+    md5_10: e8958ed9f0
+    md5_5: e8958
+    md5_6: e8958e
+    oomp_key: oomp_kicad_fuse_fuse_1210_3225metric_pad1_42x2_65mm_handsolder
+    oomp_key_extra: oomp_footprint_kicad_fuse_fuse_1210_3225metric_pad1_42x2_65mm_handsolder
+    oomp_key_full: oomp_footprint_kicad_fuse_fuse_1210_3225metric_pad1_42x2_65mm_handsolder_e8958e
+    oomp_key_simple: kicad_fuse_fuse_1210_3225metric_pad1_42x2_65mm_handsolder
     original_filename: libraries/kicad-footprints/Fuse.pretty/Fuse_1210_3225Metric_Pad1.42x2.65mm_HandSolder.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_fuse_fuse_1210_3225metric_pad1_42x2_65mm_handsolder
+  oomp_key_full: oomp_footprint_kicad_fuse_fuse_1210_3225metric_pad1_42x2_65mm_handsolder
   oomp_key_simple: kicad_fuse_fuse_1210_3225metric_pad1_42x2_65mm_handsolder
   owner: kicad
   repo:

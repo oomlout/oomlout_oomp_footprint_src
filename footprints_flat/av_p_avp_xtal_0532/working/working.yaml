@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xtal_0532
     library_name: avp
+    md5: f1770ac19a6f9a1fa29bcfd34739ffc9
+    md5_10: f1770ac19a
+    md5_5: f1770
+    md5_6: f1770a
+    oomp_key: oomp_av_p_avp_xtal_0532
+    oomp_key_extra: oomp_footprint_av_p_avp_xtal_0532
+    oomp_key_full: oomp_footprint_av_p_avp_xtal_0532_f1770a
+    oomp_key_simple: av_p_avp_xtal_0532
     original_filename: Avp.pretty/XTAL-0532.kicad_mod
     owner_name: av_p
   oomp_key: oomp_av_p_avp_xtal_0532
+  oomp_key_full: oomp_footprint_av_p_avp_xtal_0532
   oomp_key_simple: av_p_avp_xtal_0532
   owner: av-p
   repo:

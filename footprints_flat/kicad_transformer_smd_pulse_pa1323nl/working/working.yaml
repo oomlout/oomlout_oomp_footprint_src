@@ -17,9 +17,18 @@
   oomp:
     footprint_name: pulse_pa1323nl
     library_name: transformer_smd
+    md5: 63503aa26a51b15c05b27cdfe02d46b0
+    md5_10: 63503aa26a
+    md5_5: '63503'
+    md5_6: 63503a
+    oomp_key: oomp_kicad_transformer_smd_pulse_pa1323nl
+    oomp_key_extra: oomp_footprint_kicad_transformer_smd_pulse_pa1323nl
+    oomp_key_full: oomp_footprint_kicad_transformer_smd_pulse_pa1323nl_63503a
+    oomp_key_simple: kicad_transformer_smd_pulse_pa1323nl
     original_filename: libraries/kicad-footprints/Transformer_SMD.pretty/Pulse_PA1323NL.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_transformer_smd_pulse_pa1323nl
+  oomp_key_full: oomp_footprint_kicad_transformer_smd_pulse_pa1323nl
   oomp_key_simple: kicad_transformer_smd_pulse_pa1323nl
   owner: kicad
   repo:

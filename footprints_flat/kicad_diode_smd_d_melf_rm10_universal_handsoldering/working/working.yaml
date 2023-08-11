@@ -17,9 +17,18 @@
   oomp:
     footprint_name: d_melf_rm10_universal_handsoldering
     library_name: diode_smd
+    md5: 8183a534bdb05aea7d79b13c0fcb8064
+    md5_10: 8183a534bd
+    md5_5: 8183a
+    md5_6: 8183a5
+    oomp_key: oomp_kicad_diode_smd_d_melf_rm10_universal_handsoldering
+    oomp_key_extra: oomp_footprint_kicad_diode_smd_d_melf_rm10_universal_handsoldering
+    oomp_key_full: oomp_footprint_kicad_diode_smd_d_melf_rm10_universal_handsoldering_8183a5
+    oomp_key_simple: kicad_diode_smd_d_melf_rm10_universal_handsoldering
     original_filename: libraries/kicad-footprints/Diode_SMD.pretty/D_MELF-RM10_Universal_Handsoldering.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_diode_smd_d_melf_rm10_universal_handsoldering
+  oomp_key_full: oomp_footprint_kicad_diode_smd_d_melf_rm10_universal_handsoldering
   oomp_key_simple: kicad_diode_smd_d_melf_rm10_universal_handsoldering
   owner: kicad
   repo:

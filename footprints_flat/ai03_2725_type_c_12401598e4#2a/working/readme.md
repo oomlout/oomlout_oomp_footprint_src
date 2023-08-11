@@ -19,8 +19,9 @@ Please consult that link for additional, details, files, and license information
 | github_path | http://github.com/ai03-2725/Type-C.pretty/blob/master/12401598E4#2A.kicad_mod |  
 | links | {'github_src': 'http://gitlab.com/ai03-2725/Type-C.pretty/blob/master/Wurth-632723300011.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/ai03_2725_type_c_12401598e4#2a/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/ai03_2725_type_c_12401598e4#2a/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/ai03_2725_type_c_12401598e4#2a/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/ai03_2725_type_c_12401598e4#2a/working'} |  
 | name | Type-C.pretty |  
-| oomp | {'footprint_name': '12401598e4#2a', 'library_name': 'type_c', 'original_filename': 'Type-C.pretty/12401598E4#2A.kicad_mod', 'owner_name': 'ai03_2725'} |  
+| oomp | {'footprint_name': '12401598e4#2a', 'library_name': 'type_c', 'md5': '8cb5daed4da9f60cc496573e00979f21', 'md5_10': '8cb5daed4d', 'md5_5': '8cb5d', 'md5_6': '8cb5da', 'oomp_key': 'oomp_ai03_2725_type_c_12401598e4#2a', 'oomp_key_extra': 'oomp_footprint_ai03_2725_type_c_12401598e4#2a', 'oomp_key_full': 'oomp_footprint_ai03_2725_type_c_12401598e4#2a_8cb5da', 'oomp_key_simple': 'ai03_2725_type_c_12401598e4#2a', 'original_filename': 'Type-C.pretty/12401598E4#2A.kicad_mod', 'owner_name': 'ai03_2725'} |  
 | oomp_key | oomp_ai03_2725_type_c_12401598e4#2a |  
+| oomp_key_full | oomp_footprint_ai03_2725_type_c_12401598e4#2a |  
 | oomp_key_simple | ai03_2725_type_c_12401598e4#2a |  
 | owner | ai03-2725 |  
 | repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  

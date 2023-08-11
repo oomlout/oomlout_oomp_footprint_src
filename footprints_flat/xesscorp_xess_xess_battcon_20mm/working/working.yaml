@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_battcon_20mm
     library_name: xess
+    md5: 72b7ec61b9f4fdfda91ac8d3b31f0a86
+    md5_10: 72b7ec61b9
+    md5_5: 72b7e
+    md5_6: 72b7ec
+    oomp_key: oomp_xesscorp_xess_xess_battcon_20mm
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_battcon_20mm
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_battcon_20mm_72b7ec
+    oomp_key_simple: xesscorp_xess_xess_battcon_20mm
     original_filename: xess.pretty/xess-BATTCON_20MM.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_battcon_20mm
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_battcon_20mm
   oomp_key_simple: xesscorp_xess_xess_battcon_20mm
   owner: xesscorp
   repo:

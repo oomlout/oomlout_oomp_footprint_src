@@ -17,9 +17,18 @@
   oomp:
     footprint_name: din41612_d_2x8_female_vertical_tht
     library_name: connector_din
+    md5: 94254da20e0ec2f00eb7ad35ec1e9035
+    md5_10: 94254da20e
+    md5_5: '94254'
+    md5_6: 94254d
+    oomp_key: oomp_kicad_connector_din_din41612_d_2x8_female_vertical_tht
+    oomp_key_extra: oomp_footprint_kicad_connector_din_din41612_d_2x8_female_vertical_tht
+    oomp_key_full: oomp_footprint_kicad_connector_din_din41612_d_2x8_female_vertical_tht_94254d
+    oomp_key_simple: kicad_connector_din_din41612_d_2x8_female_vertical_tht
     original_filename: libraries/kicad-footprints/Connector_DIN.pretty/DIN41612_D_2x8_Female_Vertical_THT.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_din_din41612_d_2x8_female_vertical_tht
+  oomp_key_full: oomp_footprint_kicad_connector_din_din41612_d_2x8_female_vertical_tht
   oomp_key_simple: kicad_connector_din_din41612_d_2x8_female_vertical_tht
   owner: kicad
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: led_0805
     library_name: freetronics_footprints
+    md5: 54fff38c1848989a5be648d391496f89
+    md5_10: 54fff38c18
+    md5_5: 54fff
+    md5_6: 54fff3
+    oomp_key: oomp_wykys_freetronics_footprints_led_0805
+    oomp_key_extra: oomp_footprint_wykys_freetronics_footprints_led_0805
+    oomp_key_full: oomp_footprint_wykys_freetronics_footprints_led_0805_54fff3
+    oomp_key_simple: wykys_freetronics_footprints_led_0805
     original_filename: kicad/mods/freetronics_footprints.pretty/LED-0805.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_freetronics_footprints_led_0805
+  oomp_key_full: oomp_footprint_wykys_freetronics_footprints_led_0805
   oomp_key_simple: wykys_freetronics_footprints_led_0805
   owner: wykys
   repo:

@@ -16,10 +16,19 @@
   name: agg-kicad
   oomp:
     footprint_name: vlf4014s
-    library_name: unchecked
+    library_name: agg
+    md5: 2446deaa713a77dccf103902039f3a61
+    md5_10: 2446deaa71
+    md5_5: 2446d
+    md5_6: 2446de
+    oomp_key: oomp_adamgreig_agg_vlf4014s
+    oomp_key_extra: oomp_footprint_adamgreig_agg_vlf4014s
+    oomp_key_full: oomp_footprint_adamgreig_agg_vlf4014s_2446de
+    oomp_key_simple: adamgreig_agg_vlf4014s
     original_filename: agg-kicad/agg.pretty/unchecked.pretty/VLF4014S.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_vlf4014s
+  oomp_key_full: oomp_footprint_adamgreig_agg_vlf4014s
   oomp_key_simple: adamgreig_agg_vlf4014s
   owner: adamgreig
   repo:

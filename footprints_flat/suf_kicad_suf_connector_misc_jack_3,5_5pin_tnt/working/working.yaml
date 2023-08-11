@@ -17,9 +17,18 @@
   oomp:
     footprint_name: jack_3,5_5pin_tnt
     library_name: suf_connector_misc
+    md5: d02f77e301b56156c53e223c9c0a76d1
+    md5_10: d02f77e301
+    md5_5: d02f7
+    md5_6: d02f77
+    oomp_key: oomp_suf_kicad_suf_connector_misc_jack_3,5_5pin_tnt
+    oomp_key_extra: oomp_footprint_suf_kicad_suf_connector_misc_jack_3,5_5pin_tnt
+    oomp_key_full: oomp_footprint_suf_kicad_suf_connector_misc_jack_3,5_5pin_tnt_d02f77
+    oomp_key_simple: suf_kicad_suf_connector_misc_jack_3,5_5pin_tnt
     original_filename: suf_connector_misc.pretty/JACK_3,5_5PIN_TnT.kicad_mod
     owner_name: suf_kicad
   oomp_key: oomp_suf_kicad_suf_connector_misc_jack_3,5_5pin_tnt
+  oomp_key_full: oomp_footprint_suf_kicad_suf_connector_misc_jack_3,5_5pin_tnt
   oomp_key_simple: suf_kicad_suf_connector_misc_jack_3,5_5pin_tnt
   owner: suf-KiCAD
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sot_143
     library_name: rhais_package_smd
+    md5: a8b882513382a0c738b23b984b732ccf
+    md5_10: a8b8825133
+    md5_5: a8b88
+    md5_6: a8b882
+    oomp_key: oomp_dx_mon_rhais_package_smd_sot_143
+    oomp_key_extra: oomp_footprint_dx_mon_rhais_package_smd_sot_143
+    oomp_key_full: oomp_footprint_dx_mon_rhais_package_smd_sot_143_a8b882
+    oomp_key_simple: dx_mon_rhais_package_smd_sot_143
     original_filename: rhais_package-smd.pretty/SOT-143.kicad_mod
     owner_name: dx_mon
   oomp_key: oomp_dx_mon_rhais_package_smd_sot_143
+  oomp_key_full: oomp_footprint_dx_mon_rhais_package_smd_sot_143
   oomp_key_simple: dx_mon_rhais_package_smd_sot_143
   owner: DX-MON
   repo:

@@ -19,9 +19,18 @@
   oomp:
     footprint_name: molex_502250_3591_2rows_35pins_1mp_p0_60mm_horizontal
     library_name: connector_ffc_fpc
+    md5: f7d1bedb153eb7408ab0d35809bae958
+    md5_10: f7d1bedb15
+    md5_5: f7d1b
+    md5_6: f7d1be
+    oomp_key: oomp_kicad_connector_ffc_fpc_molex_502250_3591_2rows_35pins_1mp_p0_60mm_horizontal
+    oomp_key_extra: oomp_footprint_kicad_connector_ffc_fpc_molex_502250_3591_2rows_35pins_1mp_p0_60mm_horizontal
+    oomp_key_full: oomp_footprint_kicad_connector_ffc_fpc_molex_502250_3591_2rows_35pins_1mp_p0_60mm_horizontal_f7d1be
+    oomp_key_simple: kicad_connector_ffc_fpc_molex_502250_3591_2rows_35pins_1mp_p0_60mm_horizontal
     original_filename: libraries/kicad-footprints/Connector_FFC-FPC.pretty/Molex_502250-3591_2Rows-35Pins-1MP_P0.60mm_Horizontal.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_ffc_fpc_molex_502250_3591_2rows_35pins_1mp_p0_60mm_horizontal
+  oomp_key_full: oomp_footprint_kicad_connector_ffc_fpc_molex_502250_3591_2rows_35pins_1mp_p0_60mm_horizontal
   oomp_key_simple: kicad_connector_ffc_fpc_molex_502250_3591_2rows_35pins_1mp_p0_60mm_horizontal
   owner: kicad
   repo:

@@ -19,9 +19,18 @@
   oomp:
     footprint_name: murata_dg6050c
     library_name: manuf
+    md5: bdf91a81bf0ee879726d27e63a272618
+    md5_10: bdf91a81bf
+    md5_5: bdf91
+    md5_6: bdf91a
+    oomp_key: oomp_iangitpers_manuf_murata_dg6050c
+    oomp_key_extra: oomp_footprint_iangitpers_manuf_murata_dg6050c
+    oomp_key_full: oomp_footprint_iangitpers_manuf_murata_dg6050c_bdf91a
+    oomp_key_simple: iangitpers_manuf_murata_dg6050c
     original_filename: 4a/manuf.pretty/MURATA-DG6050C.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_manuf_murata_dg6050c
+  oomp_key_full: oomp_footprint_iangitpers_manuf_murata_dg6050c
   oomp_key_simple: iangitpers_manuf_murata_dg6050c
   owner: Iangitpers
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: qfn68
     library_name: xess
+    md5: ed98f9e57790fdd80b8eccd532d9e319
+    md5_10: ed98f9e577
+    md5_5: ed98f
+    md5_6: ed98f9
+    oomp_key: oomp_xesscorp_xess_qfn68
+    oomp_key_extra: oomp_footprint_xesscorp_xess_qfn68
+    oomp_key_full: oomp_footprint_xesscorp_xess_qfn68_ed98f9
+    oomp_key_simple: xesscorp_xess_qfn68
     original_filename: xess.pretty/QFN68.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_qfn68
+  oomp_key_full: oomp_footprint_xesscorp_xess_qfn68
   oomp_key_simple: xesscorp_xess_qfn68
   owner: xesscorp
   repo:

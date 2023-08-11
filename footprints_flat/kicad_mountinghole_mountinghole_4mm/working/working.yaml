@@ -17,9 +17,18 @@
   oomp:
     footprint_name: mountinghole_4mm
     library_name: mountinghole
+    md5: bf0d26d5ec2b9865bd2e4314c345beb7
+    md5_10: bf0d26d5ec
+    md5_5: bf0d2
+    md5_6: bf0d26
+    oomp_key: oomp_kicad_mountinghole_mountinghole_4mm
+    oomp_key_extra: oomp_footprint_kicad_mountinghole_mountinghole_4mm
+    oomp_key_full: oomp_footprint_kicad_mountinghole_mountinghole_4mm_bf0d26
+    oomp_key_simple: kicad_mountinghole_mountinghole_4mm
     original_filename: libraries/kicad-footprints/MountingHole.pretty/MountingHole_4mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_mountinghole_mountinghole_4mm
+  oomp_key_full: oomp_footprint_kicad_mountinghole_mountinghole_4mm
   oomp_key_simple: kicad_mountinghole_mountinghole_4mm
   owner: kicad
   repo:

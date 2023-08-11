@@ -17,9 +17,18 @@
   oomp:
     footprint_name: header_12_pin_zigzag
     library_name: keebio_parts
+    md5: c8c11a7de2c0a2ffa093d7b5e00ac9b8
+    md5_10: c8c11a7de2
+    md5_5: c8c11
+    md5_6: c8c11a
+    oomp_key: oomp_keebio_keebio_parts_header_12_pin_zigzag
+    oomp_key_extra: oomp_footprint_keebio_keebio_parts_header_12_pin_zigzag
+    oomp_key_full: oomp_footprint_keebio_keebio_parts_header_12_pin_zigzag_c8c11a
+    oomp_key_simple: keebio_keebio_parts_header_12_pin_zigzag
     original_filename: Keebio-Parts.pretty/Header-12-Pin-ZigZag.kicad_mod
     owner_name: keebio
   oomp_key: oomp_keebio_keebio_parts_header_12_pin_zigzag
+  oomp_key_full: oomp_footprint_keebio_keebio_parts_header_12_pin_zigzag
   oomp_key_simple: keebio_keebio_parts_header_12_pin_zigzag
   owner: keebio
   repo:

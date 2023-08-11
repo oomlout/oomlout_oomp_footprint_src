@@ -18,9 +18,18 @@
   oomp:
     footprint_name: cqfp127p1981x1981x492_44
     library_name: ipc7351_least
+    md5: bf1bee39a973ea19cf1e2aaf061310bb
+    md5_10: bf1bee39a9
+    md5_5: bf1be
+    md5_6: bf1bee
+    oomp_key: oomp_cpavlina_ipc7351_least_cqfp127p1981x1981x492_44
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_least_cqfp127p1981x1981x492_44
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_least_cqfp127p1981x1981x492_44_bf1bee
+    oomp_key_simple: cpavlina_ipc7351_least_cqfp127p1981x1981x492_44
     original_filename: kicad-pcblib/IPC7351-Least.pretty/CQFP127P1981X1981X492-44.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_least_cqfp127p1981x1981x492_44
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_least_cqfp127p1981x1981x492_44
   oomp_key_simple: cpavlina_ipc7351_least_cqfp127p1981x1981x492_44
   owner: cpavlina
   repo:

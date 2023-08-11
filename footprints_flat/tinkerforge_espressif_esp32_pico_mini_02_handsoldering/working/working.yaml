@@ -17,9 +17,18 @@
   oomp:
     footprint_name: esp32_pico_mini_02_handsoldering
     library_name: espressif
+    md5: b908c835a2a7662ce60e9d519f26c0da
+    md5_10: b908c835a2
+    md5_5: b908c
+    md5_6: b908c8
+    oomp_key: oomp_tinkerforge_espressif_esp32_pico_mini_02_handsoldering
+    oomp_key_extra: oomp_footprint_tinkerforge_espressif_esp32_pico_mini_02_handsoldering
+    oomp_key_full: oomp_footprint_tinkerforge_espressif_esp32_pico_mini_02_handsoldering_b908c8
+    oomp_key_simple: tinkerforge_espressif_esp32_pico_mini_02_handsoldering
     original_filename: kicad-libraries/footprints/Espressif.pretty/ESP32-PICO-MINI-02_HandSoldering.kicad_mod
     owner_name: tinkerforge
   oomp_key: oomp_tinkerforge_espressif_esp32_pico_mini_02_handsoldering
+  oomp_key_full: oomp_footprint_tinkerforge_espressif_esp32_pico_mini_02_handsoldering
   oomp_key_simple: tinkerforge_espressif_esp32_pico_mini_02_handsoldering
   owner: Tinkerforge
   repo:

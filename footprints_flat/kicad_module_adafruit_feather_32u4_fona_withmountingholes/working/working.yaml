@@ -17,9 +17,18 @@
   oomp:
     footprint_name: adafruit_feather_32u4_fona_withmountingholes
     library_name: module
+    md5: b93379e527c6d647fe3f135622dcb08f
+    md5_10: b93379e527
+    md5_5: b9337
+    md5_6: b93379
+    oomp_key: oomp_kicad_module_adafruit_feather_32u4_fona_withmountingholes
+    oomp_key_extra: oomp_footprint_kicad_module_adafruit_feather_32u4_fona_withmountingholes
+    oomp_key_full: oomp_footprint_kicad_module_adafruit_feather_32u4_fona_withmountingholes_b93379
+    oomp_key_simple: kicad_module_adafruit_feather_32u4_fona_withmountingholes
     original_filename: libraries/kicad-footprints/Module.pretty/Adafruit_Feather_32u4_FONA_WithMountingHoles.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_module_adafruit_feather_32u4_fona_withmountingholes
+  oomp_key_full: oomp_footprint_kicad_module_adafruit_feather_32u4_fona_withmountingholes
   oomp_key_simple: kicad_module_adafruit_feather_32u4_fona_withmountingholes
   owner: kicad
   repo:

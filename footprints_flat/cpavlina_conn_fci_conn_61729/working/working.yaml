@@ -17,9 +17,18 @@
   oomp:
     footprint_name: conn_61729
     library_name: conn_fci
+    md5: 26692d8563e963f51b61ffde493539a4
+    md5_10: 26692d8563
+    md5_5: '26692'
+    md5_6: 26692d
+    oomp_key: oomp_cpavlina_conn_fci_conn_61729
+    oomp_key_extra: oomp_footprint_cpavlina_conn_fci_conn_61729
+    oomp_key_full: oomp_footprint_cpavlina_conn_fci_conn_61729_26692d
+    oomp_key_simple: cpavlina_conn_fci_conn_61729
     original_filename: kicad-pcblib/conn-fci.pretty/CONN-61729.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_conn_fci_conn_61729
+  oomp_key_full: oomp_footprint_cpavlina_conn_fci_conn_61729
   oomp_key_simple: cpavlina_conn_fci_conn_61729
   owner: cpavlina
   repo:

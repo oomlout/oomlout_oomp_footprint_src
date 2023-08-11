@@ -19,9 +19,18 @@
   oomp:
     footprint_name: molex_mini_fit_jr_5569_08a1_2x04_p4_20mm_horizontal
     library_name: connector_molex
+    md5: d1b6cf0a43af4ea502b0bdff6c50088b
+    md5_10: d1b6cf0a43
+    md5_5: d1b6c
+    md5_6: d1b6cf
+    oomp_key: oomp_kicad_connector_molex_molex_mini_fit_jr_5569_08a1_2x04_p4_20mm_horizontal
+    oomp_key_extra: oomp_footprint_kicad_connector_molex_molex_mini_fit_jr_5569_08a1_2x04_p4_20mm_horizontal
+    oomp_key_full: oomp_footprint_kicad_connector_molex_molex_mini_fit_jr_5569_08a1_2x04_p4_20mm_horizontal_d1b6cf
+    oomp_key_simple: kicad_connector_molex_molex_mini_fit_jr_5569_08a1_2x04_p4_20mm_horizontal
     original_filename: libraries/kicad-footprints/Connector_Molex.pretty/Molex_Mini-Fit_Jr_5569-08A1_2x04_P4.20mm_Horizontal.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_molex_molex_mini_fit_jr_5569_08a1_2x04_p4_20mm_horizontal
+  oomp_key_full: oomp_footprint_kicad_connector_molex_molex_mini_fit_jr_5569_08a1_2x04_p4_20mm_horizontal
   oomp_key_simple: kicad_connector_molex_molex_mini_fit_jr_5569_08a1_2x04_p4_20mm_horizontal
   owner: kicad
   repo:

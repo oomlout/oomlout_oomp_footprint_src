@@ -17,9 +17,18 @@
   oomp:
     footprint_name: mx_8u
     library_name: mx_alps_hybrid
+    md5: f776ea47bc41e1cabc422ab1f2385641
+    md5_10: f776ea47bc
+    md5_5: f776e
+    md5_6: f776ea
+    oomp_key: oomp_ai03_2725_mx_alps_hybrid_mx_8u
+    oomp_key_extra: oomp_footprint_ai03_2725_mx_alps_hybrid_mx_8u
+    oomp_key_full: oomp_footprint_ai03_2725_mx_alps_hybrid_mx_8u_f776ea
+    oomp_key_simple: ai03_2725_mx_alps_hybrid_mx_8u
     original_filename: MX_Alps_Hybrid.pretty/MX_Alps_Hybrid.pretty/MX-8U.kicad_mod
     owner_name: ai03_2725
   oomp_key: oomp_ai03_2725_mx_alps_hybrid_mx_8u
+  oomp_key_full: oomp_footprint_ai03_2725_mx_alps_hybrid_mx_8u
   oomp_key_simple: ai03_2725_mx_alps_hybrid_mx_8u
   owner: ai03-2725
   repo:

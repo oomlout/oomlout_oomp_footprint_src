@@ -17,9 +17,18 @@
   oomp:
     footprint_name: vfbga_60_lpddr_sdram
     library_name: smd_non_ipc
+    md5: 91befefd8b9b35dd6778678b512fced8
+    md5_10: 91befefd8b
+    md5_5: 91bef
+    md5_6: 91befe
+    oomp_key: oomp_cpavlina_smd_non_ipc_vfbga_60_lpddr_sdram
+    oomp_key_extra: oomp_footprint_cpavlina_smd_non_ipc_vfbga_60_lpddr_sdram
+    oomp_key_full: oomp_footprint_cpavlina_smd_non_ipc_vfbga_60_lpddr_sdram_91befe
+    oomp_key_simple: cpavlina_smd_non_ipc_vfbga_60_lpddr_sdram
     original_filename: kicad-pcblib/smd-non-ipc.pretty/VFBGA-60-LPDDR-SDRAM.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_smd_non_ipc_vfbga_60_lpddr_sdram
+  oomp_key_full: oomp_footprint_cpavlina_smd_non_ipc_vfbga_60_lpddr_sdram
   oomp_key_simple: cpavlina_smd_non_ipc_vfbga_60_lpddr_sdram
   owner: cpavlina
   repo:

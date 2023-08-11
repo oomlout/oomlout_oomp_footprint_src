@@ -17,9 +17,18 @@
   oomp:
     footprint_name: relay_dpdt_axicom_imseries_jleg
     library_name: relay_smd
+    md5: b52ae1ed01e902acab29c896cc758f44
+    md5_10: b52ae1ed01
+    md5_5: b52ae
+    md5_6: b52ae1
+    oomp_key: oomp_kicad_relay_smd_relay_dpdt_axicom_imseries_jleg
+    oomp_key_extra: oomp_footprint_kicad_relay_smd_relay_dpdt_axicom_imseries_jleg
+    oomp_key_full: oomp_footprint_kicad_relay_smd_relay_dpdt_axicom_imseries_jleg_b52ae1
+    oomp_key_simple: kicad_relay_smd_relay_dpdt_axicom_imseries_jleg
     original_filename: libraries/kicad-footprints/Relay_SMD.pretty/Relay_DPDT_AXICOM_IMSeries_JLeg.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_relay_smd_relay_dpdt_axicom_imseries_jleg
+  oomp_key_full: oomp_footprint_kicad_relay_smd_relay_dpdt_axicom_imseries_jleg
   oomp_key_simple: kicad_relay_smd_relay_dpdt_axicom_imseries_jleg
   owner: kicad
   repo:

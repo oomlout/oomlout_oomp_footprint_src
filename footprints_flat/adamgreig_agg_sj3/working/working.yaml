@@ -16,10 +16,19 @@
   name: agg-kicad
   oomp:
     footprint_name: sj3
-    library_name: unchecked
+    library_name: agg
+    md5: 91d7f6949ae14d31f757e91fa17184cb
+    md5_10: 91d7f6949a
+    md5_5: 91d7f
+    md5_6: 91d7f6
+    oomp_key: oomp_adamgreig_agg_sj3
+    oomp_key_extra: oomp_footprint_adamgreig_agg_sj3
+    oomp_key_full: oomp_footprint_adamgreig_agg_sj3_91d7f6
+    oomp_key_simple: adamgreig_agg_sj3
     original_filename: agg-kicad/agg.pretty/unchecked.pretty/SJ3.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_sj3
+  oomp_key_full: oomp_footprint_adamgreig_agg_sj3
   oomp_key_simple: adamgreig_agg_sj3
   owner: adamgreig
   repo:

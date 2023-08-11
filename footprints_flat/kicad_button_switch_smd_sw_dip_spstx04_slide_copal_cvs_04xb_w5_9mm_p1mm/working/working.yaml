@@ -18,9 +18,18 @@
   oomp:
     footprint_name: sw_dip_spstx04_slide_copal_cvs_04xb_w5_9mm_p1mm
     library_name: button_switch_smd
+    md5: d3d61557b9c0c41fc05519cc024a3bb5
+    md5_10: d3d61557b9
+    md5_5: d3d61
+    md5_6: d3d615
+    oomp_key: oomp_kicad_button_switch_smd_sw_dip_spstx04_slide_copal_cvs_04xb_w5_9mm_p1mm
+    oomp_key_extra: oomp_footprint_kicad_button_switch_smd_sw_dip_spstx04_slide_copal_cvs_04xb_w5_9mm_p1mm
+    oomp_key_full: oomp_footprint_kicad_button_switch_smd_sw_dip_spstx04_slide_copal_cvs_04xb_w5_9mm_p1mm_d3d615
+    oomp_key_simple: kicad_button_switch_smd_sw_dip_spstx04_slide_copal_cvs_04xb_w5_9mm_p1mm
     original_filename: libraries/kicad-footprints/Button_Switch_SMD.pretty/SW_DIP_SPSTx04_Slide_Copal_CVS-04xB_W5.9mm_P1mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_button_switch_smd_sw_dip_spstx04_slide_copal_cvs_04xb_w5_9mm_p1mm
+  oomp_key_full: oomp_footprint_kicad_button_switch_smd_sw_dip_spstx04_slide_copal_cvs_04xb_w5_9mm_p1mm
   oomp_key_simple: kicad_button_switch_smd_sw_dip_spstx04_slide_copal_cvs_04xb_w5_9mm_p1mm
   owner: kicad
   repo:

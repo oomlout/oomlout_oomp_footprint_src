@@ -18,9 +18,18 @@
   oomp:
     footprint_name: sw_hotswap_kailh_mx_plated_isoenter_180deg
     library_name: switch_keyboard_hotswap_kailh
+    md5: 9c16a3cd7b811ecf641e0a961c421d08
+    md5_10: 9c16a3cd7b
+    md5_5: 9c16a
+    md5_6: 9c16a3
+    oomp_key: oomp_wykys_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_mx_plated_isoenter_180deg
+    oomp_key_extra: oomp_footprint_wykys_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_mx_plated_isoenter_180deg
+    oomp_key_full: oomp_footprint_wykys_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_mx_plated_isoenter_180deg_9c16a3
+    oomp_key_simple: wykys_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_mx_plated_isoenter_180deg
     original_filename: kicad/6.0/3rdparty/footprints/com_github_perigoso_keyswitch-kicad-library/Switch_Keyboard_Hotswap_Kailh.pretty/SW_Hotswap_Kailh_MX_plated_ISOEnter_180deg.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_mx_plated_isoenter_180deg
+  oomp_key_full: oomp_footprint_wykys_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_mx_plated_isoenter_180deg
   oomp_key_simple: wykys_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_mx_plated_isoenter_180deg
   owner: wykys
   repo:

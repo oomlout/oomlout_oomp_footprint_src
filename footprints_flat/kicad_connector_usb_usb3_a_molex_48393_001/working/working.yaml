@@ -17,9 +17,18 @@
   oomp:
     footprint_name: usb3_a_molex_48393_001
     library_name: connector_usb
+    md5: 7ad4979d5525f7938138ef0952eb9693
+    md5_10: 7ad4979d55
+    md5_5: 7ad49
+    md5_6: 7ad497
+    oomp_key: oomp_kicad_connector_usb_usb3_a_molex_48393_001
+    oomp_key_extra: oomp_footprint_kicad_connector_usb_usb3_a_molex_48393_001
+    oomp_key_full: oomp_footprint_kicad_connector_usb_usb3_a_molex_48393_001_7ad497
+    oomp_key_simple: kicad_connector_usb_usb3_a_molex_48393_001
     original_filename: libraries/kicad-footprints/Connector_USB.pretty/USB3_A_Molex_48393-001.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_usb_usb3_a_molex_48393_001
+  oomp_key_full: oomp_footprint_kicad_connector_usb_usb3_a_molex_48393_001
   oomp_key_simple: kicad_connector_usb_usb3_a_molex_48393_001
   owner: kicad
   repo:

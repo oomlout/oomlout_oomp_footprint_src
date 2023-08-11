@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ws2812b_data_bridgeable
     library_name: ws2812b
+    md5: 4f0d6c2dbe1119de99923aa504f82b99
+    md5_10: 4f0d6c2dbe
+    md5_5: 4f0d6
+    md5_6: 4f0d6c
+    oomp_key: oomp_madworm_ws2812b_ws2812b_data_bridgeable
+    oomp_key_extra: oomp_footprint_madworm_ws2812b_ws2812b_data_bridgeable
+    oomp_key_full: oomp_footprint_madworm_ws2812b_ws2812b_data_bridgeable_4f0d6c
+    oomp_key_simple: madworm_ws2812b_ws2812b_data_bridgeable
     original_filename: WS2812B.pretty/WS2812B_data-bridgeable.kicad_mod
     owner_name: madworm
   oomp_key: oomp_madworm_ws2812b_ws2812b_data_bridgeable
+  oomp_key_full: oomp_footprint_madworm_ws2812b_ws2812b_data_bridgeable
   oomp_key_simple: madworm_ws2812b_ws2812b_data_bridgeable
   owner: madworm
   repo:

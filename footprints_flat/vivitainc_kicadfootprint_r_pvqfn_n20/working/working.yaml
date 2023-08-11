@@ -17,9 +17,18 @@
   oomp:
     footprint_name: r_pvqfn_n20
     library_name: kicadfootprint
+    md5: 6945347162b745729add82951afe3fc0
+    md5_10: '6945347162'
+    md5_5: '69453'
+    md5_6: '694534'
+    oomp_key: oomp_vivitainc_kicadfootprint_r_pvqfn_n20
+    oomp_key_extra: oomp_footprint_vivitainc_kicadfootprint_r_pvqfn_n20
+    oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_r_pvqfn_n20_694534
+    oomp_key_simple: vivitainc_kicadfootprint_r_pvqfn_n20
     original_filename: KiCADfootprint.pretty/R-PVQFN-N20.kicad_mod
     owner_name: vivitainc
   oomp_key: oomp_vivitainc_kicadfootprint_r_pvqfn_n20
+  oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_r_pvqfn_n20
   oomp_key_simple: vivitainc_kicadfootprint_r_pvqfn_n20
   owner: vivitainc
   repo:

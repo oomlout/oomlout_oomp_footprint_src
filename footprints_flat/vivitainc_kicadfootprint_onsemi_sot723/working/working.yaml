@@ -17,9 +17,18 @@
   oomp:
     footprint_name: onsemi_sot723
     library_name: kicadfootprint
+    md5: 525dd4862a2da745ca10fe8db2ee8050
+    md5_10: 525dd4862a
+    md5_5: 525dd
+    md5_6: 525dd4
+    oomp_key: oomp_vivitainc_kicadfootprint_onsemi_sot723
+    oomp_key_extra: oomp_footprint_vivitainc_kicadfootprint_onsemi_sot723
+    oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_onsemi_sot723_525dd4
+    oomp_key_simple: vivitainc_kicadfootprint_onsemi_sot723
     original_filename: KiCADfootprint.pretty/ONsemi_SOT723.kicad_mod
     owner_name: vivitainc
   oomp_key: oomp_vivitainc_kicadfootprint_onsemi_sot723
+  oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_onsemi_sot723
   oomp_key_simple: vivitainc_kicadfootprint_onsemi_sot723
   owner: vivitainc
   repo:

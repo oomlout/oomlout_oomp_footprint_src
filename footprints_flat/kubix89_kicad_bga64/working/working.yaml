@@ -17,9 +17,18 @@
   oomp:
     footprint_name: bga64
     library_name: kicad
+    md5: 7b1ede003904cd4e88952fbb14681220
+    md5_10: 7b1ede0039
+    md5_5: 7b1ed
+    md5_6: 7b1ede
+    oomp_key: oomp_kubix89_kicad_bga64
+    oomp_key_extra: oomp_footprint_kubix89_kicad_bga64
+    oomp_key_full: oomp_footprint_kubix89_kicad_bga64_7b1ede
+    oomp_key_simple: kubix89_kicad_bga64
     original_filename: kiCAD.pretty/BGA64.kicad_mod
     owner_name: kubix89
   oomp_key: oomp_kubix89_kicad_bga64
+  oomp_key_full: oomp_footprint_kubix89_kicad_bga64
   oomp_key_simple: kubix89_kicad_bga64
   owner: kubiX89
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: stitch_1_0
     library_name: xess
+    md5: 5b50538c2c2ad77f06a3dacb1d58f3b6
+    md5_10: 5b50538c2c
+    md5_5: 5b505
+    md5_6: 5b5053
+    oomp_key: oomp_xesscorp_xess_stitch_1_0
+    oomp_key_extra: oomp_footprint_xesscorp_xess_stitch_1_0
+    oomp_key_full: oomp_footprint_xesscorp_xess_stitch_1_0_5b5053
+    oomp_key_simple: xesscorp_xess_stitch_1_0
     original_filename: xess.pretty/stitch-1.0.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_stitch_1_0
+  oomp_key_full: oomp_footprint_xesscorp_xess_stitch_1_0
   oomp_key_simple: xesscorp_xess_stitch_1_0
   owner: xesscorp
   repo:

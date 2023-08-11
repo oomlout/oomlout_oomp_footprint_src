@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sot23_6
     library_name: freetronics_footprints
+    md5: ef12367ae68ecc99c755329abefbcb42
+    md5_10: ef12367ae6
+    md5_5: ef123
+    md5_6: ef1236
+    oomp_key: oomp_axello_freetronics_footprints_sot23_6
+    oomp_key_extra: oomp_footprint_axello_freetronics_footprints_sot23_6
+    oomp_key_full: oomp_footprint_axello_freetronics_footprints_sot23_6_ef1236
+    oomp_key_simple: axello_freetronics_footprints_sot23_6
     original_filename: kicad/mods/freetronics_footprints.pretty/SOT23-6.kicad_mod
     owner_name: axello
   oomp_key: oomp_axello_freetronics_footprints_sot23_6
+  oomp_key_full: oomp_footprint_axello_freetronics_footprints_sot23_6
   oomp_key_simple: axello_freetronics_footprints_sot23_6
   owner: axello
   repo:

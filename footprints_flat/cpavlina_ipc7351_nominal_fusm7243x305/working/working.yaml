@@ -17,9 +17,18 @@
   oomp:
     footprint_name: fusm7243x305
     library_name: ipc7351_nominal
+    md5: eb4f67867a5a6c2639f730803ade6c16
+    md5_10: eb4f67867a
+    md5_5: eb4f6
+    md5_6: eb4f67
+    oomp_key: oomp_cpavlina_ipc7351_nominal_fusm7243x305
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_nominal_fusm7243x305
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_fusm7243x305_eb4f67
+    oomp_key_simple: cpavlina_ipc7351_nominal_fusm7243x305
     original_filename: kicad-pcblib/IPC7351-Nominal.pretty/FUSM7243X305.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_nominal_fusm7243x305
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_fusm7243x305
   oomp_key_simple: cpavlina_ipc7351_nominal_fusm7243x305
   owner: cpavlina
   repo:

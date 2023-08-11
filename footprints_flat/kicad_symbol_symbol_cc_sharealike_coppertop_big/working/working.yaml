@@ -17,9 +17,18 @@
   oomp:
     footprint_name: symbol_cc_sharealike_coppertop_big
     library_name: symbol
+    md5: 0fed63d0fb6fc4c7364a48f9c802fa8e
+    md5_10: 0fed63d0fb
+    md5_5: 0fed6
+    md5_6: 0fed63
+    oomp_key: oomp_kicad_symbol_symbol_cc_sharealike_coppertop_big
+    oomp_key_extra: oomp_footprint_kicad_symbol_symbol_cc_sharealike_coppertop_big
+    oomp_key_full: oomp_footprint_kicad_symbol_symbol_cc_sharealike_coppertop_big_0fed63
+    oomp_key_simple: kicad_symbol_symbol_cc_sharealike_coppertop_big
     original_filename: libraries/kicad-footprints/Symbol.pretty/Symbol_CC-ShareAlike_CopperTop_Big.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_symbol_symbol_cc_sharealike_coppertop_big
+  oomp_key_full: oomp_footprint_kicad_symbol_symbol_cc_sharealike_coppertop_big
   oomp_key_simple: kicad_symbol_symbol_cc_sharealike_coppertop_big
   owner: kicad
   repo:

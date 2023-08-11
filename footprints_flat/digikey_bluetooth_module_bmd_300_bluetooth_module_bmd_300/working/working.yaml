@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: bluetooth_module_bmd_300
-    library_name: source_footprints
+    library_name: bluetooth_module_bmd_300_kicad_mod
+    md5: af5a8b974a2d372cf9964a28361fbf3f
+    md5_10: af5a8b974a
+    md5_5: af5a8
+    md5_6: af5a8b
+    oomp_key: oomp_digikey_bluetooth_module_bmd_300_bluetooth_module_bmd_300
+    oomp_key_extra: oomp_footprint_digikey_bluetooth_module_bmd_300_bluetooth_module_bmd_300
+    oomp_key_full: oomp_footprint_digikey_bluetooth_module_bmd_300_bluetooth_module_bmd_300_af5a8b
+    oomp_key_simple: digikey_bluetooth_module_bmd_300_bluetooth_module_bmd_300
     original_filename: digikey-kicad-library/src/Source_Footprints/Bluetooth_Module_BMD-300.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_bluetooth_module_bmd_300_bluetooth_module_bmd_300
+  oomp_key_full: oomp_footprint_digikey_bluetooth_module_bmd_300_bluetooth_module_bmd_300
   oomp_key_simple: digikey_bluetooth_module_bmd_300_bluetooth_module_bmd_300
   owner: digikey
   repo:

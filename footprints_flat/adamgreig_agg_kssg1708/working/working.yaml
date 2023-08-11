@@ -17,9 +17,18 @@
   oomp:
     footprint_name: kssg1708
     library_name: agg
+    md5: f8a28f7dbae6cff4a22b7c2b1be01ed9
+    md5_10: f8a28f7dba
+    md5_5: f8a28
+    md5_6: f8a28f
+    oomp_key: oomp_adamgreig_agg_kssg1708
+    oomp_key_extra: oomp_footprint_adamgreig_agg_kssg1708
+    oomp_key_full: oomp_footprint_adamgreig_agg_kssg1708_f8a28f
+    oomp_key_simple: adamgreig_agg_kssg1708
     original_filename: agg-kicad/agg.pretty/KSSG1708.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_kssg1708
+  oomp_key_full: oomp_footprint_adamgreig_agg_kssg1708
   oomp_key_simple: adamgreig_agg_kssg1708
   owner: adamgreig
   repo:

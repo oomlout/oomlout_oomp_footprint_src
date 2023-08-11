@@ -18,9 +18,18 @@
   oomp:
     footprint_name: hirose_fh12_15s_0_5sh_1x15_1mp_p0_50mm_horizontal
     library_name: connector_ffc_fpc
+    md5: b656076630fec37838ac2be768341a7c
+    md5_10: b656076630
+    md5_5: b6560
+    md5_6: b65607
+    oomp_key: oomp_kicad_connector_ffc_fpc_hirose_fh12_15s_0_5sh_1x15_1mp_p0_50mm_horizontal
+    oomp_key_extra: oomp_footprint_kicad_connector_ffc_fpc_hirose_fh12_15s_0_5sh_1x15_1mp_p0_50mm_horizontal
+    oomp_key_full: oomp_footprint_kicad_connector_ffc_fpc_hirose_fh12_15s_0_5sh_1x15_1mp_p0_50mm_horizontal_b65607
+    oomp_key_simple: kicad_connector_ffc_fpc_hirose_fh12_15s_0_5sh_1x15_1mp_p0_50mm_horizontal
     original_filename: libraries/kicad-footprints/Connector_FFC-FPC.pretty/Hirose_FH12-15S-0.5SH_1x15-1MP_P0.50mm_Horizontal.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_ffc_fpc_hirose_fh12_15s_0_5sh_1x15_1mp_p0_50mm_horizontal
+  oomp_key_full: oomp_footprint_kicad_connector_ffc_fpc_hirose_fh12_15s_0_5sh_1x15_1mp_p0_50mm_horizontal
   oomp_key_simple: kicad_connector_ffc_fpc_hirose_fh12_15s_0_5sh_1x15_1mp_p0_50mm_horizontal
   owner: kicad
   repo:

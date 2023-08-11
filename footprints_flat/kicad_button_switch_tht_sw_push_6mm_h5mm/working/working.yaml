@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sw_push_6mm_h5mm
     library_name: button_switch_tht
+    md5: a868813595e58c949c25e31d8afb026a
+    md5_10: a868813595
+    md5_5: a8688
+    md5_6: a86881
+    oomp_key: oomp_kicad_button_switch_tht_sw_push_6mm_h5mm
+    oomp_key_extra: oomp_footprint_kicad_button_switch_tht_sw_push_6mm_h5mm
+    oomp_key_full: oomp_footprint_kicad_button_switch_tht_sw_push_6mm_h5mm_a86881
+    oomp_key_simple: kicad_button_switch_tht_sw_push_6mm_h5mm
     original_filename: libraries/kicad-footprints/Button_Switch_THT.pretty/SW_PUSH_6mm_H5mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_button_switch_tht_sw_push_6mm_h5mm
+  oomp_key_full: oomp_footprint_kicad_button_switch_tht_sw_push_6mm_h5mm
   oomp_key_simple: kicad_button_switch_tht_sw_push_6mm_h5mm
   owner: kicad
   repo:

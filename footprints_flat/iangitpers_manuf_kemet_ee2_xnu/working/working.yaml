@@ -19,9 +19,18 @@
   oomp:
     footprint_name: kemet_ee2_xnu
     library_name: manuf
+    md5: c98976fd2b6f828b8f6adae2110599c6
+    md5_10: c98976fd2b
+    md5_5: c9897
+    md5_6: c98976
+    oomp_key: oomp_iangitpers_manuf_kemet_ee2_xnu
+    oomp_key_extra: oomp_footprint_iangitpers_manuf_kemet_ee2_xnu
+    oomp_key_full: oomp_footprint_iangitpers_manuf_kemet_ee2_xnu_c98976
+    oomp_key_simple: iangitpers_manuf_kemet_ee2_xnu
     original_filename: 4a/manuf.pretty/KEMET-EE2-xNU.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_manuf_kemet_ee2_xnu
+  oomp_key_full: oomp_footprint_iangitpers_manuf_kemet_ee2_xnu
   oomp_key_simple: iangitpers_manuf_kemet_ee2_xnu
   owner: Iangitpers
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: bourns_srf2012a
     library_name: manuf
+    md5: 027ba7216099a8c54e0f0e6b5c2202d0
+    md5_10: 027ba72160
+    md5_5: 027ba
+    md5_6: 027ba7
+    oomp_key: oomp_cpavlina_manuf_bourns_srf2012a
+    oomp_key_extra: oomp_footprint_cpavlina_manuf_bourns_srf2012a
+    oomp_key_full: oomp_footprint_cpavlina_manuf_bourns_srf2012a_027ba7
+    oomp_key_simple: cpavlina_manuf_bourns_srf2012a
     original_filename: kicad-pcblib/manuf.pretty/BOURNS-SRF2012A.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_manuf_bourns_srf2012a
+  oomp_key_full: oomp_footprint_cpavlina_manuf_bourns_srf2012a
   oomp_key_simple: cpavlina_manuf_bourns_srf2012a
   owner: cpavlina
   repo:

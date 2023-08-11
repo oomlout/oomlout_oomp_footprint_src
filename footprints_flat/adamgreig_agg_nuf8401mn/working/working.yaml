@@ -17,9 +17,18 @@
   oomp:
     footprint_name: nuf8401mn
     library_name: agg
+    md5: 4c671a7b7ba6e77f5f0c109711a504b0
+    md5_10: 4c671a7b7b
+    md5_5: 4c671
+    md5_6: 4c671a
+    oomp_key: oomp_adamgreig_agg_nuf8401mn
+    oomp_key_extra: oomp_footprint_adamgreig_agg_nuf8401mn
+    oomp_key_full: oomp_footprint_adamgreig_agg_nuf8401mn_4c671a
+    oomp_key_simple: adamgreig_agg_nuf8401mn
     original_filename: agg-kicad/agg.pretty/NUF8401MN.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_nuf8401mn
+  oomp_key_full: oomp_footprint_adamgreig_agg_nuf8401mn
   oomp_key_simple: adamgreig_agg_nuf8401mn
   owner: adamgreig
   repo:

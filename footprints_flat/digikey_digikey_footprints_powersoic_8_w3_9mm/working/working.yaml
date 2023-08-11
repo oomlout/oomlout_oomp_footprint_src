@@ -17,9 +17,18 @@
   oomp:
     footprint_name: powersoic_8_w3_9mm
     library_name: digikey_footprints
+    md5: 5d9a6c0b348a7e98a22ff43273411514
+    md5_10: 5d9a6c0b34
+    md5_5: 5d9a6
+    md5_6: 5d9a6c
+    oomp_key: oomp_digikey_digikey_footprints_powersoic_8_w3_9mm
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_powersoic_8_w3_9mm
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_powersoic_8_w3_9mm_5d9a6c
+    oomp_key_simple: digikey_digikey_footprints_powersoic_8_w3_9mm
     original_filename: digikey-kicad-library/digikey-footprints.pretty/PowerSOIC-8_W3.9mm.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_powersoic_8_w3_9mm
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_powersoic_8_w3_9mm
   oomp_key_simple: digikey_digikey_footprints_powersoic_8_w3_9mm
   owner: digikey
   repo:

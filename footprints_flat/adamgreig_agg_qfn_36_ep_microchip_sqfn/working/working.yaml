@@ -17,9 +17,18 @@
   oomp:
     footprint_name: qfn_36_ep_microchip_sqfn
     library_name: agg
+    md5: 023b596da69578f6e5f276dc9a746651
+    md5_10: 023b596da6
+    md5_5: 023b5
+    md5_6: 023b59
+    oomp_key: oomp_adamgreig_agg_qfn_36_ep_microchip_sqfn
+    oomp_key_extra: oomp_footprint_adamgreig_agg_qfn_36_ep_microchip_sqfn
+    oomp_key_full: oomp_footprint_adamgreig_agg_qfn_36_ep_microchip_sqfn_023b59
+    oomp_key_simple: adamgreig_agg_qfn_36_ep_microchip_sqfn
     original_filename: agg-kicad/agg.pretty/QFN-36-EP-MICROCHIP-SQFN.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_qfn_36_ep_microchip_sqfn
+  oomp_key_full: oomp_footprint_adamgreig_agg_qfn_36_ep_microchip_sqfn
   oomp_key_simple: adamgreig_agg_qfn_36_ep_microchip_sqfn
   owner: adamgreig
   repo:

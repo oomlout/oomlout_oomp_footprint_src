@@ -17,9 +17,18 @@
   oomp:
     footprint_name: db15_hd_female
     library_name: xess
+    md5: 1b5bb0859d8fe854c52858d6545d2127
+    md5_10: 1b5bb0859d
+    md5_5: 1b5bb
+    md5_6: 1b5bb0
+    oomp_key: oomp_xesscorp_xess_db15_hd_female
+    oomp_key_extra: oomp_footprint_xesscorp_xess_db15_hd_female
+    oomp_key_full: oomp_footprint_xesscorp_xess_db15_hd_female_1b5bb0
+    oomp_key_simple: xesscorp_xess_db15_hd_female
     original_filename: xess.pretty/DB15-HD-FEMALE.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_db15_hd_female
+  oomp_key_full: oomp_footprint_xesscorp_xess_db15_hd_female
   oomp_key_simple: xesscorp_xess_db15_hd_female
   owner: xesscorp
   repo:

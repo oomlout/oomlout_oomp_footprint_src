@@ -19,9 +19,18 @@
   oomp:
     footprint_name: mountinghole_2_5mm_pad
     library_name: mountinghole
+    md5: b8d82ff8da431a7b4096aee141395b84
+    md5_10: b8d82ff8da
+    md5_5: b8d82
+    md5_6: b8d82f
+    oomp_key: oomp_iangitpers_mountinghole_mountinghole_2_5mm_pad
+    oomp_key_extra: oomp_footprint_iangitpers_mountinghole_mountinghole_2_5mm_pad
+    oomp_key_full: oomp_footprint_iangitpers_mountinghole_mountinghole_2_5mm_pad_b8d82f
+    oomp_key_simple: iangitpers_mountinghole_mountinghole_2_5mm_pad
     original_filename: 4a/MountingHole.pretty/MountingHole_2.5mm_Pad.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_mountinghole_mountinghole_2_5mm_pad
+  oomp_key_full: oomp_footprint_iangitpers_mountinghole_mountinghole_2_5mm_pad
   oomp_key_simple: iangitpers_mountinghole_mountinghole_2_5mm_pad
   owner: Iangitpers
   repo:

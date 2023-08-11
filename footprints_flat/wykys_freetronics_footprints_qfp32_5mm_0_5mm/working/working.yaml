@@ -17,9 +17,18 @@
   oomp:
     footprint_name: qfp32_5mm_0_5mm
     library_name: freetronics_footprints
+    md5: fb256591b913ed3031200984ebfc49a4
+    md5_10: fb256591b9
+    md5_5: fb256
+    md5_6: fb2565
+    oomp_key: oomp_wykys_freetronics_footprints_qfp32_5mm_0_5mm
+    oomp_key_extra: oomp_footprint_wykys_freetronics_footprints_qfp32_5mm_0_5mm
+    oomp_key_full: oomp_footprint_wykys_freetronics_footprints_qfp32_5mm_0_5mm_fb2565
+    oomp_key_simple: wykys_freetronics_footprints_qfp32_5mm_0_5mm
     original_filename: kicad/mods/freetronics_footprints.pretty/QFP32_5mm_0.5mm.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_freetronics_footprints_qfp32_5mm_0_5mm
+  oomp_key_full: oomp_footprint_wykys_freetronics_footprints_qfp32_5mm_0_5mm
   oomp_key_simple: wykys_freetronics_footprints_qfp32_5mm_0_5mm
   owner: wykys
   repo:

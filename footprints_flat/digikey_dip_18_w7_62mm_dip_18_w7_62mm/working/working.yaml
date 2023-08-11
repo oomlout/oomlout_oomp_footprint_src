@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: dip_18_w7_62mm
-    library_name: source_footprints
+    library_name: dip_18_w7_62mm_kicad_mod
+    md5: a7a5eb02c47452d01b780c405a0246a2
+    md5_10: a7a5eb02c4
+    md5_5: a7a5e
+    md5_6: a7a5eb
+    oomp_key: oomp_digikey_dip_18_w7_62mm_dip_18_w7_62mm
+    oomp_key_extra: oomp_footprint_digikey_dip_18_w7_62mm_dip_18_w7_62mm
+    oomp_key_full: oomp_footprint_digikey_dip_18_w7_62mm_dip_18_w7_62mm_a7a5eb
+    oomp_key_simple: digikey_dip_18_w7_62mm_dip_18_w7_62mm
     original_filename: digikey-kicad-library/src/Source_Footprints/DIP-18_W7.62mm.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_dip_18_w7_62mm_dip_18_w7_62mm
+  oomp_key_full: oomp_footprint_digikey_dip_18_w7_62mm_dip_18_w7_62mm
   oomp_key_simple: digikey_dip_18_w7_62mm_dip_18_w7_62mm
   owner: digikey
   repo:

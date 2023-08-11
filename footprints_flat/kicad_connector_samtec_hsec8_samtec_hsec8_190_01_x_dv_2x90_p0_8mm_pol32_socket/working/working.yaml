@@ -18,9 +18,18 @@
   oomp:
     footprint_name: samtec_hsec8_190_01_x_dv_2x90_p0_8mm_pol32_socket
     library_name: connector_samtec_hsec8
+    md5: 824844a2c95fe0d6a465c0decaeb41e2
+    md5_10: 824844a2c9
+    md5_5: '82484'
+    md5_6: '824844'
+    oomp_key: oomp_kicad_connector_samtec_hsec8_samtec_hsec8_190_01_x_dv_2x90_p0_8mm_pol32_socket
+    oomp_key_extra: oomp_footprint_kicad_connector_samtec_hsec8_samtec_hsec8_190_01_x_dv_2x90_p0_8mm_pol32_socket
+    oomp_key_full: oomp_footprint_kicad_connector_samtec_hsec8_samtec_hsec8_190_01_x_dv_2x90_p0_8mm_pol32_socket_824844
+    oomp_key_simple: kicad_connector_samtec_hsec8_samtec_hsec8_190_01_x_dv_2x90_p0_8mm_pol32_socket
     original_filename: libraries/kicad-footprints/Connector_Samtec_HSEC8.pretty/Samtec_HSEC8-190-01-X-DV_2x90_P0.8mm_Pol32_Socket.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_samtec_hsec8_samtec_hsec8_190_01_x_dv_2x90_p0_8mm_pol32_socket
+  oomp_key_full: oomp_footprint_kicad_connector_samtec_hsec8_samtec_hsec8_190_01_x_dv_2x90_p0_8mm_pol32_socket
   oomp_key_simple: kicad_connector_samtec_hsec8_samtec_hsec8_190_01_x_dv_2x90_p0_8mm_pol32_socket
   owner: kicad
   repo:

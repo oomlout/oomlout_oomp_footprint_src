@@ -17,9 +17,18 @@
   oomp:
     footprint_name: r_array_sip12
     library_name: resistor_tht
+    md5: 0183e6de1badab54eb7f6e608d834392
+    md5_10: 0183e6de1b
+    md5_5: 0183e
+    md5_6: 0183e6
+    oomp_key: oomp_kicad_resistor_tht_r_array_sip12
+    oomp_key_extra: oomp_footprint_kicad_resistor_tht_r_array_sip12
+    oomp_key_full: oomp_footprint_kicad_resistor_tht_r_array_sip12_0183e6
+    oomp_key_simple: kicad_resistor_tht_r_array_sip12
     original_filename: libraries/kicad-footprints/Resistor_THT.pretty/R_Array_SIP12.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_resistor_tht_r_array_sip12
+  oomp_key_full: oomp_footprint_kicad_resistor_tht_r_array_sip12
   oomp_key_simple: kicad_resistor_tht_r_array_sip12
   owner: kicad
   repo:

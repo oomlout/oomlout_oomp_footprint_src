@@ -18,9 +18,18 @@
   oomp:
     footprint_name: cp_eia_7361_438_avx_u
     library_name: capacitor_tantalum_smd
+    md5: 7c1fe34d6e7093fa16e1367f328ab4b6
+    md5_10: 7c1fe34d6e
+    md5_5: 7c1fe
+    md5_6: 7c1fe3
+    oomp_key: oomp_kicad_capacitor_tantalum_smd_cp_eia_7361_438_avx_u
+    oomp_key_extra: oomp_footprint_kicad_capacitor_tantalum_smd_cp_eia_7361_438_avx_u
+    oomp_key_full: oomp_footprint_kicad_capacitor_tantalum_smd_cp_eia_7361_438_avx_u_7c1fe3
+    oomp_key_simple: kicad_capacitor_tantalum_smd_cp_eia_7361_438_avx_u
     original_filename: libraries/kicad-footprints/Capacitor_Tantalum_SMD.pretty/CP_EIA-7361-438_AVX-U.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_capacitor_tantalum_smd_cp_eia_7361_438_avx_u
+  oomp_key_full: oomp_footprint_kicad_capacitor_tantalum_smd_cp_eia_7361_438_avx_u
   oomp_key_simple: kicad_capacitor_tantalum_smd_cp_eia_7361_438_avx_u
   owner: kicad
   repo:

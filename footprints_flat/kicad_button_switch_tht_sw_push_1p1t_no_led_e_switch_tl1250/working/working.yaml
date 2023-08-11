@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sw_push_1p1t_no_led_e_switch_tl1250
     library_name: button_switch_tht
+    md5: 988a13e8c6e666496debefd27e68a5cd
+    md5_10: 988a13e8c6
+    md5_5: 988a1
+    md5_6: 988a13
+    oomp_key: oomp_kicad_button_switch_tht_sw_push_1p1t_no_led_e_switch_tl1250
+    oomp_key_extra: oomp_footprint_kicad_button_switch_tht_sw_push_1p1t_no_led_e_switch_tl1250
+    oomp_key_full: oomp_footprint_kicad_button_switch_tht_sw_push_1p1t_no_led_e_switch_tl1250_988a13
+    oomp_key_simple: kicad_button_switch_tht_sw_push_1p1t_no_led_e_switch_tl1250
     original_filename: libraries/kicad-footprints/Button_Switch_THT.pretty/SW_Push_1P1T_NO_LED_E-Switch_TL1250.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_button_switch_tht_sw_push_1p1t_no_led_e_switch_tl1250
+  oomp_key_full: oomp_footprint_kicad_button_switch_tht_sw_push_1p1t_no_led_e_switch_tl1250
   oomp_key_simple: kicad_button_switch_tht_sw_push_1p1t_no_led_e_switch_tl1250
   owner: kicad
   repo:

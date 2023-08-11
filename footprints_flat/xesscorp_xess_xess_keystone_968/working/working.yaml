@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_keystone_968
     library_name: xess
+    md5: 6d888ac76b0a7495f606019faf312276
+    md5_10: 6d888ac76b
+    md5_5: 6d888
+    md5_6: 6d888a
+    oomp_key: oomp_xesscorp_xess_xess_keystone_968
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_keystone_968
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_keystone_968_6d888a
+    oomp_key_simple: xesscorp_xess_xess_keystone_968
     original_filename: xess.pretty/xess-KEYSTONE-968.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_keystone_968
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_keystone_968
   oomp_key_simple: xesscorp_xess_xess_keystone_968
   owner: xesscorp
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ind_cr75
     library_name: freetronics_footprints
+    md5: 77daff093b19c26a47ce80975f129e88
+    md5_10: 77daff093b
+    md5_5: 77daf
+    md5_6: 77daff
+    oomp_key: oomp_joanthespark_freetronics_footprints_ind_cr75
+    oomp_key_extra: oomp_footprint_joanthespark_freetronics_footprints_ind_cr75
+    oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_ind_cr75_77daff
+    oomp_key_simple: joanthespark_freetronics_footprints_ind_cr75
     original_filename: KiCAD/mods/freetronics_footprints.pretty/IND_CR75.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_freetronics_footprints_ind_cr75
+  oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_ind_cr75
   oomp_key_simple: joanthespark_freetronics_footprints_ind_cr75
   owner: JoanTheSpark
   repo:

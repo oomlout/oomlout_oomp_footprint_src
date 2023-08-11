@@ -17,9 +17,18 @@
   oomp:
     footprint_name: mx600cr
     library_name: acheron_mx
+    md5: 77a411ac808c695745be6c77a5c3d3ce
+    md5_10: 77a411ac80
+    md5_5: 77a41
+    md5_6: 77a411
+    oomp_key: oomp_acheronproject_acheron_mx_mx600cr
+    oomp_key_extra: oomp_footprint_acheronproject_acheron_mx_mx600cr
+    oomp_key_full: oomp_footprint_acheronproject_acheron_mx_mx600cr_77a411
+    oomp_key_simple: acheronproject_acheron_mx_mx600cr
     original_filename: acheron_MX.pretty/MX600CR.kicad_mod
     owner_name: acheronproject
   oomp_key: oomp_acheronproject_acheron_mx_mx600cr
+  oomp_key_full: oomp_footprint_acheronproject_acheron_mx_mx600cr
   oomp_key_simple: acheronproject_acheron_mx_mx600cr
   owner: AcheronProject
   repo:

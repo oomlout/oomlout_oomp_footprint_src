@@ -17,9 +17,18 @@
   oomp:
     footprint_name: usb_a_male
     library_name: kicad_others
+    md5: db06772d56f34a01c6ede7fe5e9d4745
+    md5_10: db06772d56
+    md5_5: db067
+    md5_6: db0677
+    oomp_key: oomp_kikaiken_kicad_others_usb_a_male
+    oomp_key_extra: oomp_footprint_kikaiken_kicad_others_usb_a_male
+    oomp_key_full: oomp_footprint_kikaiken_kicad_others_usb_a_male_db0677
+    oomp_key_simple: kikaiken_kicad_others_usb_a_male
     original_filename: kicad_others.pretty/USB_A_male.kicad_mod
     owner_name: kikaiken
   oomp_key: oomp_kikaiken_kicad_others_usb_a_male
+  oomp_key_full: oomp_footprint_kikaiken_kicad_others_usb_a_male
   oomp_key_simple: kikaiken_kicad_others_usb_a_male
   owner: kikaiken
   repo:

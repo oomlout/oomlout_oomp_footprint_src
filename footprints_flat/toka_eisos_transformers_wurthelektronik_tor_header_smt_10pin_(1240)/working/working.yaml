@@ -17,9 +17,18 @@
   oomp:
     footprint_name: tor_header_smt_10pin_(1240)
     library_name: transformers_wurthelektronik
+    md5: 2a8826da26a870bf9e58984a59286db1
+    md5_10: 2a8826da26
+    md5_5: 2a882
+    md5_6: 2a8826
+    oomp_key: oomp_toka_eisos_transformers_wurthelektronik_tor_header_smt_10pin_(1240)
+    oomp_key_extra: oomp_footprint_toka_eisos_transformers_wurthelektronik_tor_header_smt_10pin_(1240)
+    oomp_key_full: oomp_footprint_toka_eisos_transformers_wurthelektronik_tor_header_smt_10pin_(1240)_2a8826
+    oomp_key_simple: toka_eisos_transformers_wurthelektronik_tor_header_smt_10pin_(1240)
     original_filename: Transformers_WurthElektronik.pretty/TOR_HEADER_SMT_10PIN_(1240).kicad_mod
     owner_name: toka_eisos
   oomp_key: oomp_toka_eisos_transformers_wurthelektronik_tor_header_smt_10pin_(1240)
+  oomp_key_full: oomp_footprint_toka_eisos_transformers_wurthelektronik_tor_header_smt_10pin_(1240)
   oomp_key_simple: toka_eisos_transformers_wurthelektronik_tor_header_smt_10pin_(1240)
   owner: toka-eisos
   repo:

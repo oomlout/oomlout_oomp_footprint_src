@@ -17,9 +17,18 @@
   oomp:
     footprint_name: l0603
     library_name: rhais_rcl
+    md5: 4443cbf76338e520fa167e2f4815c68e
+    md5_10: 4443cbf763
+    md5_5: 4443c
+    md5_6: 4443cb
+    oomp_key: oomp_dx_mon_rhais_rcl_l0603
+    oomp_key_extra: oomp_footprint_dx_mon_rhais_rcl_l0603
+    oomp_key_full: oomp_footprint_dx_mon_rhais_rcl_l0603_4443cb
+    oomp_key_simple: dx_mon_rhais_rcl_l0603
     original_filename: rhais_rcl.pretty/L0603.kicad_mod
     owner_name: dx_mon
   oomp_key: oomp_dx_mon_rhais_rcl_l0603
+  oomp_key_full: oomp_footprint_dx_mon_rhais_rcl_l0603
   oomp_key_simple: dx_mon_rhais_rcl_l0603
   owner: DX-MON
   repo:

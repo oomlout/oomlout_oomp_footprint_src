@@ -17,9 +17,18 @@
   oomp:
     footprint_name: batteryholder_coincell_keystone_105
     library_name: battery_holders
+    md5: 63a8c0d4d64ffccd130fadccf2895d9f
+    md5_10: 63a8c0d4d6
+    md5_5: 63a8c
+    md5_6: 63a8c0
+    oomp_key: oomp_ashtonchase_battery_holders_batteryholder_coincell_keystone_105
+    oomp_key_extra: oomp_footprint_ashtonchase_battery_holders_batteryholder_coincell_keystone_105
+    oomp_key_full: oomp_footprint_ashtonchase_battery_holders_batteryholder_coincell_keystone_105_63a8c0
+    oomp_key_simple: ashtonchase_battery_holders_batteryholder_coincell_keystone_105
     original_filename: Battery_Holders.pretty/BatteryHolder_CoinCell_Keystone_105.kicad_mod
     owner_name: ashtonchase
   oomp_key: oomp_ashtonchase_battery_holders_batteryholder_coincell_keystone_105
+  oomp_key_full: oomp_footprint_ashtonchase_battery_holders_batteryholder_coincell_keystone_105
   oomp_key_simple: ashtonchase_battery_holders_batteryholder_coincell_keystone_105
   owner: ashtonchase
   repo:

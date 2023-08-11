@@ -17,9 +17,18 @@
   oomp:
     footprint_name: mf_ic_digital_soic20w
     library_name: mf_ic_digital
+    md5: 06cf2ff7516b335cf81751c624b6d43d
+    md5_10: 06cf2ff751
+    md5_5: 06cf2
+    md5_6: 06cf2f
+    oomp_key: oomp_macrofab_mf_ic_digital_mf_ic_digital_soic20w
+    oomp_key_extra: oomp_footprint_macrofab_mf_ic_digital_mf_ic_digital_soic20w
+    oomp_key_full: oomp_footprint_macrofab_mf_ic_digital_mf_ic_digital_soic20w_06cf2f
+    oomp_key_simple: macrofab_mf_ic_digital_mf_ic_digital_soic20w
     original_filename: EDALibraries/KiCad/Footprints/MF_IC_Digital.pretty/MF_IC_Digital-SOIC20W.kicad_mod
     owner_name: macrofab
   oomp_key: oomp_macrofab_mf_ic_digital_mf_ic_digital_soic20w
+  oomp_key_full: oomp_footprint_macrofab_mf_ic_digital_mf_ic_digital_soic20w
   oomp_key_simple: macrofab_mf_ic_digital_mf_ic_digital_soic20w
   owner: MacroFab
   repo:

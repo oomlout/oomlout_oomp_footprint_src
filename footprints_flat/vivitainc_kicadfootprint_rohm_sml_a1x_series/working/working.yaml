@@ -17,9 +17,18 @@
   oomp:
     footprint_name: rohm_sml_a1x_series
     library_name: kicadfootprint
+    md5: 698ad9ed948f92c68715e4e38100c583
+    md5_10: 698ad9ed94
+    md5_5: 698ad
+    md5_6: 698ad9
+    oomp_key: oomp_vivitainc_kicadfootprint_rohm_sml_a1x_series
+    oomp_key_extra: oomp_footprint_vivitainc_kicadfootprint_rohm_sml_a1x_series
+    oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_rohm_sml_a1x_series_698ad9
+    oomp_key_simple: vivitainc_kicadfootprint_rohm_sml_a1x_series
     original_filename: KiCADfootprint.pretty/ROHM_SML-A1x_series.kicad_mod
     owner_name: vivitainc
   oomp_key: oomp_vivitainc_kicadfootprint_rohm_sml_a1x_series
+  oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_rohm_sml_a1x_series
   oomp_key_simple: vivitainc_kicadfootprint_rohm_sml_a1x_series
   owner: vivitainc
   repo:

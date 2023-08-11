@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sw_spdt
     library_name: kit_dev_coldfire
+    md5: ab24af0d4d3a268d14a7adec5705d3a8
+    md5_10: ab24af0d4d
+    md5_5: ab24a
+    md5_6: ab24af
+    oomp_key: oomp_wykys_kit_dev_coldfire_sw_spdt
+    oomp_key_extra: oomp_footprint_wykys_kit_dev_coldfire_sw_spdt
+    oomp_key_full: oomp_footprint_wykys_kit_dev_coldfire_sw_spdt_ab24af
+    oomp_key_simple: wykys_kit_dev_coldfire_sw_spdt
     original_filename: kicad/demos/kit-dev-coldfire-xilinx_5213/kit-dev-coldfire.pretty/SW_SPDT.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_kit_dev_coldfire_sw_spdt
+  oomp_key_full: oomp_footprint_wykys_kit_dev_coldfire_sw_spdt
   oomp_key_simple: wykys_kit_dev_coldfire_sw_spdt
   owner: wykys
   repo:

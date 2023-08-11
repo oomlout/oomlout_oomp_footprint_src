@@ -17,9 +17,18 @@
   oomp:
     footprint_name: relay_dpdt_axicom_imseries_pitch5_08mm
     library_name: relay_tht
+    md5: 5ff239706d7018fc969d94ef60120786
+    md5_10: 5ff239706d
+    md5_5: 5ff23
+    md5_6: 5ff239
+    oomp_key: oomp_kicad_relay_tht_relay_dpdt_axicom_imseries_pitch5_08mm
+    oomp_key_extra: oomp_footprint_kicad_relay_tht_relay_dpdt_axicom_imseries_pitch5_08mm
+    oomp_key_full: oomp_footprint_kicad_relay_tht_relay_dpdt_axicom_imseries_pitch5_08mm_5ff239
+    oomp_key_simple: kicad_relay_tht_relay_dpdt_axicom_imseries_pitch5_08mm
     original_filename: libraries/kicad-footprints/Relay_THT.pretty/Relay_DPDT_AXICOM_IMSeries_Pitch5.08mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_relay_tht_relay_dpdt_axicom_imseries_pitch5_08mm
+  oomp_key_full: oomp_footprint_kicad_relay_tht_relay_dpdt_axicom_imseries_pitch5_08mm
   oomp_key_simple: kicad_relay_tht_relay_dpdt_axicom_imseries_pitch5_08mm
   owner: kicad
   repo:

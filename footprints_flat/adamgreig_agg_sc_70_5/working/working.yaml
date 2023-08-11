@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sc_70_5
     library_name: agg
+    md5: c7c214d6c7437fca48fd11f9695a8966
+    md5_10: c7c214d6c7
+    md5_5: c7c21
+    md5_6: c7c214
+    oomp_key: oomp_adamgreig_agg_sc_70_5
+    oomp_key_extra: oomp_footprint_adamgreig_agg_sc_70_5
+    oomp_key_full: oomp_footprint_adamgreig_agg_sc_70_5_c7c214
+    oomp_key_simple: adamgreig_agg_sc_70_5
     original_filename: agg-kicad/agg.pretty/SC-70-5.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_sc_70_5
+  oomp_key_full: oomp_footprint_adamgreig_agg_sc_70_5
   oomp_key_simple: adamgreig_agg_sc_70_5
   owner: adamgreig
   repo:

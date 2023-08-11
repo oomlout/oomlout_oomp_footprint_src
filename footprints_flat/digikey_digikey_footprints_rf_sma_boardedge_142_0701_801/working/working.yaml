@@ -17,9 +17,18 @@
   oomp:
     footprint_name: rf_sma_boardedge_142_0701_801
     library_name: digikey_footprints
+    md5: 35e57332ac3c03b2a2c86886a20857fb
+    md5_10: 35e57332ac
+    md5_5: 35e57
+    md5_6: 35e573
+    oomp_key: oomp_digikey_digikey_footprints_rf_sma_boardedge_142_0701_801
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_rf_sma_boardedge_142_0701_801
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_rf_sma_boardedge_142_0701_801_35e573
+    oomp_key_simple: digikey_digikey_footprints_rf_sma_boardedge_142_0701_801
     original_filename: digikey-kicad-library/digikey-footprints.pretty/RF_SMA_BoardEdge_142-0701-801.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_rf_sma_boardedge_142_0701_801
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_rf_sma_boardedge_142_0701_801
   oomp_key_simple: digikey_digikey_footprints_rf_sma_boardedge_142_0701_801
   owner: digikey
   repo:

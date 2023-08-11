@@ -17,9 +17,18 @@
   oomp:
     footprint_name: a2000_cpuslot_male
     library_name: amiga
+    md5: 268d7d7b8819da905bdb994e8ff5c170
+    md5_10: 268d7d7b88
+    md5_5: 268d7
+    md5_6: 268d7d
+    oomp_key: oomp_wallbraker_amiga_a2000_cpuslot_male
+    oomp_key_extra: oomp_footprint_wallbraker_amiga_a2000_cpuslot_male
+    oomp_key_full: oomp_footprint_wallbraker_amiga_a2000_cpuslot_male_268d7d
+    oomp_key_simple: wallbraker_amiga_a2000_cpuslot_male
     original_filename: Amiga.pretty/A2000_CPUSLOT_MALE.kicad_mod
     owner_name: wallbraker
   oomp_key: oomp_wallbraker_amiga_a2000_cpuslot_male
+  oomp_key_full: oomp_footprint_wallbraker_amiga_a2000_cpuslot_male
   oomp_key_simple: wallbraker_amiga_a2000_cpuslot_male
   owner: Wallbraker
   repo:

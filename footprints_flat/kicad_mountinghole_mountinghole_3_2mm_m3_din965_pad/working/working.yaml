@@ -17,9 +17,18 @@
   oomp:
     footprint_name: mountinghole_3_2mm_m3_din965_pad
     library_name: mountinghole
+    md5: fc68e7f26dd9e5a40bce2dce76c387f2
+    md5_10: fc68e7f26d
+    md5_5: fc68e
+    md5_6: fc68e7
+    oomp_key: oomp_kicad_mountinghole_mountinghole_3_2mm_m3_din965_pad
+    oomp_key_extra: oomp_footprint_kicad_mountinghole_mountinghole_3_2mm_m3_din965_pad
+    oomp_key_full: oomp_footprint_kicad_mountinghole_mountinghole_3_2mm_m3_din965_pad_fc68e7
+    oomp_key_simple: kicad_mountinghole_mountinghole_3_2mm_m3_din965_pad
     original_filename: libraries/kicad-footprints/MountingHole.pretty/MountingHole_3.2mm_M3_DIN965_Pad.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_mountinghole_mountinghole_3_2mm_m3_din965_pad
+  oomp_key_full: oomp_footprint_kicad_mountinghole_mountinghole_3_2mm_m3_din965_pad
   oomp_key_simple: kicad_mountinghole_mountinghole_3_2mm_m3_din965_pad
   owner: kicad
   repo:

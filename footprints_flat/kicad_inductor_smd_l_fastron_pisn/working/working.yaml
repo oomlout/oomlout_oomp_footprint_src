@@ -17,9 +17,18 @@
   oomp:
     footprint_name: l_fastron_pisn
     library_name: inductor_smd
+    md5: 423fafd0c756dc54e4f6249e96b08f01
+    md5_10: 423fafd0c7
+    md5_5: 423fa
+    md5_6: 423faf
+    oomp_key: oomp_kicad_inductor_smd_l_fastron_pisn
+    oomp_key_extra: oomp_footprint_kicad_inductor_smd_l_fastron_pisn
+    oomp_key_full: oomp_footprint_kicad_inductor_smd_l_fastron_pisn_423faf
+    oomp_key_simple: kicad_inductor_smd_l_fastron_pisn
     original_filename: libraries/kicad-footprints/Inductor_SMD.pretty/L_Fastron_PISN.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_inductor_smd_l_fastron_pisn
+  oomp_key_full: oomp_footprint_kicad_inductor_smd_l_fastron_pisn
   oomp_key_simple: kicad_inductor_smd_l_fastron_pisn
   owner: kicad
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sj_2w
     library_name: freetronics_footprints
+    md5: 6879752a987f3ddbbe3cf4a976af8072
+    md5_10: 6879752a98
+    md5_5: '68797'
+    md5_6: '687975'
+    oomp_key: oomp_axello_freetronics_footprints_sj_2w
+    oomp_key_extra: oomp_footprint_axello_freetronics_footprints_sj_2w
+    oomp_key_full: oomp_footprint_axello_freetronics_footprints_sj_2w_687975
+    oomp_key_simple: axello_freetronics_footprints_sj_2w
     original_filename: kicad/mods/freetronics_footprints.pretty/SJ_2W.kicad_mod
     owner_name: axello
   oomp_key: oomp_axello_freetronics_footprints_sj_2w
+  oomp_key_full: oomp_footprint_axello_freetronics_footprints_sj_2w
   oomp_key_simple: axello_freetronics_footprints_sj_2w
   owner: axello
   repo:

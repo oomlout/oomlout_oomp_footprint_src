@@ -17,9 +17,18 @@
   oomp:
     footprint_name: fuse_0805
     library_name: keebio_parts
+    md5: 03be9b2a11dc62a7aa2d27ad583ea448
+    md5_10: 03be9b2a11
+    md5_5: 03be9
+    md5_6: 03be9b
+    oomp_key: oomp_keebio_keebio_parts_fuse_0805
+    oomp_key_extra: oomp_footprint_keebio_keebio_parts_fuse_0805
+    oomp_key_full: oomp_footprint_keebio_keebio_parts_fuse_0805_03be9b
+    oomp_key_simple: keebio_keebio_parts_fuse_0805
     original_filename: Keebio-Parts.pretty/Fuse_0805.kicad_mod
     owner_name: keebio
   oomp_key: oomp_keebio_keebio_parts_fuse_0805
+  oomp_key_full: oomp_footprint_keebio_keebio_parts_fuse_0805
   oomp_key_simple: keebio_keebio_parts_fuse_0805
   owner: keebio
   repo:

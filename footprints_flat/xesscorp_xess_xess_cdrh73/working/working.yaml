@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_cdrh73
     library_name: xess
+    md5: c5b28c32ede423c173da9fd9dc70b4d0
+    md5_10: c5b28c32ed
+    md5_5: c5b28
+    md5_6: c5b28c
+    oomp_key: oomp_xesscorp_xess_xess_cdrh73
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_cdrh73
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_cdrh73_c5b28c
+    oomp_key_simple: xesscorp_xess_xess_cdrh73
     original_filename: xess.pretty/xess-CDRH73.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_cdrh73
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_cdrh73
   oomp_key_simple: xesscorp_xess_xess_cdrh73
   owner: xesscorp
   repo:

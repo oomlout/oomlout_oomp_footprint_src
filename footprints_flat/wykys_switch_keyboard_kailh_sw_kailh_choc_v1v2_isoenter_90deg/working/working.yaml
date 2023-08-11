@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sw_kailh_choc_v1v2_isoenter_90deg
     library_name: switch_keyboard_kailh
+    md5: fb9eba8ea2c3cf3243c467be4ed5a396
+    md5_10: fb9eba8ea2
+    md5_5: fb9eb
+    md5_6: fb9eba
+    oomp_key: oomp_wykys_switch_keyboard_kailh_sw_kailh_choc_v1v2_isoenter_90deg
+    oomp_key_extra: oomp_footprint_wykys_switch_keyboard_kailh_sw_kailh_choc_v1v2_isoenter_90deg
+    oomp_key_full: oomp_footprint_wykys_switch_keyboard_kailh_sw_kailh_choc_v1v2_isoenter_90deg_fb9eba
+    oomp_key_simple: wykys_switch_keyboard_kailh_sw_kailh_choc_v1v2_isoenter_90deg
     original_filename: kicad/6.0/3rdparty/footprints/com_github_perigoso_keyswitch-kicad-library/Switch_Keyboard_Kailh.pretty/SW_Kailh_Choc_V1V2_ISOEnter_90deg.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_switch_keyboard_kailh_sw_kailh_choc_v1v2_isoenter_90deg
+  oomp_key_full: oomp_footprint_wykys_switch_keyboard_kailh_sw_kailh_choc_v1v2_isoenter_90deg
   oomp_key_simple: wykys_switch_keyboard_kailh_sw_kailh_choc_v1v2_isoenter_90deg
   owner: wykys
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: te2007088_1_edge
     library_name: usst_footprints
+    md5: fe47e12bc835dba95aff9f4f17cc7b9f
+    md5_10: fe47e12bc8
+    md5_5: fe47e
+    md5_6: fe47e1
+    oomp_key: oomp_uofsspaceteam_usst_footprints_te2007088_1_edge
+    oomp_key_extra: oomp_footprint_uofsspaceteam_usst_footprints_te2007088_1_edge
+    oomp_key_full: oomp_footprint_uofsspaceteam_usst_footprints_te2007088_1_edge_fe47e1
+    oomp_key_simple: uofsspaceteam_usst_footprints_te2007088_1_edge
     original_filename: USST-footprints.pretty/TE2007088-1_Edge.kicad_mod
     owner_name: uofsspaceteam
   oomp_key: oomp_uofsspaceteam_usst_footprints_te2007088_1_edge
+  oomp_key_full: oomp_footprint_uofsspaceteam_usst_footprints_te2007088_1_edge
   oomp_key_simple: uofsspaceteam_usst_footprints_te2007088_1_edge
   owner: UofSSpaceTeam
   repo:

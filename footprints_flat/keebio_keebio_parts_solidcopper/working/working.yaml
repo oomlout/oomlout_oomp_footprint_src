@@ -17,9 +17,18 @@
   oomp:
     footprint_name: solidcopper
     library_name: keebio_parts
+    md5: c508d52c35e28258c5b419a4bb8eef85
+    md5_10: c508d52c35
+    md5_5: c508d
+    md5_6: c508d5
+    oomp_key: oomp_keebio_keebio_parts_solidcopper
+    oomp_key_extra: oomp_footprint_keebio_keebio_parts_solidcopper
+    oomp_key_full: oomp_footprint_keebio_keebio_parts_solidcopper_c508d5
+    oomp_key_simple: keebio_keebio_parts_solidcopper
     original_filename: Keebio-Parts.pretty/SolidCopper.kicad_mod
     owner_name: keebio
   oomp_key: oomp_keebio_keebio_parts_solidcopper
+  oomp_key_full: oomp_footprint_keebio_keebio_parts_solidcopper
   oomp_key_simple: keebio_keebio_parts_solidcopper
   owner: keebio
   repo:

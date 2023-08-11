@@ -17,9 +17,18 @@
   oomp:
     footprint_name: pcb_push
     library_name: w_switch
+    md5: fabd2505f8e0d1c2e462a9e90213ea58
+    md5_10: fabd2505f8
+    md5_5: fabd2
+    md5_6: fabd25
+    oomp_key: oomp_asofttech_w_switch_pcb_push
+    oomp_key_extra: oomp_footprint_asofttech_w_switch_pcb_push
+    oomp_key_full: oomp_footprint_asofttech_w_switch_pcb_push_fabd25
+    oomp_key_simple: asofttech_w_switch_pcb_push
     original_filename: CAD.KiCad.Libs/modules/w_switch.pretty/PCB_PUSH.kicad_mod
     owner_name: asofttech
   oomp_key: oomp_asofttech_w_switch_pcb_push
+  oomp_key_full: oomp_footprint_asofttech_w_switch_pcb_push
   oomp_key_simple: asofttech_w_switch_pcb_push
   owner: ASoftTech
   repo:

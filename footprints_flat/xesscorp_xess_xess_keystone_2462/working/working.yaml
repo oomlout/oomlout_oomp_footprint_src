@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_keystone_2462
     library_name: xess
+    md5: 51ad2dc29d93ce1294111da6fa7bb333
+    md5_10: 51ad2dc29d
+    md5_5: 51ad2
+    md5_6: 51ad2d
+    oomp_key: oomp_xesscorp_xess_xess_keystone_2462
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_keystone_2462
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_keystone_2462_51ad2d
+    oomp_key_simple: xesscorp_xess_xess_keystone_2462
     original_filename: xess.pretty/xess-KEYSTONE-2462.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_keystone_2462
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_keystone_2462
   oomp_key_simple: xesscorp_xess_xess_keystone_2462
   owner: xesscorp
   repo:

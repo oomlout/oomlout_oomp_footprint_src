@@ -17,9 +17,18 @@
   oomp:
     footprint_name: hvqfn24_nxp
     library_name: agg
+    md5: a717d277bf81043a7f4e237c119a0599
+    md5_10: a717d277bf
+    md5_5: a717d
+    md5_6: a717d2
+    oomp_key: oomp_adamgreig_agg_hvqfn24_nxp
+    oomp_key_extra: oomp_footprint_adamgreig_agg_hvqfn24_nxp
+    oomp_key_full: oomp_footprint_adamgreig_agg_hvqfn24_nxp_a717d2
+    oomp_key_simple: adamgreig_agg_hvqfn24_nxp
     original_filename: agg-kicad/agg.pretty/HVQFN24-NXP.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_hvqfn24_nxp
+  oomp_key_full: oomp_footprint_adamgreig_agg_hvqfn24_nxp
   oomp_key_simple: adamgreig_agg_hvqfn24_nxp
   owner: adamgreig
   repo:

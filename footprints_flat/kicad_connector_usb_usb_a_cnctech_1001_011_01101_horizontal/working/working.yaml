@@ -17,9 +17,18 @@
   oomp:
     footprint_name: usb_a_cnctech_1001_011_01101_horizontal
     library_name: connector_usb
+    md5: 113e2412958826616690b8c5547861e0
+    md5_10: 113e241295
+    md5_5: 113e2
+    md5_6: 113e24
+    oomp_key: oomp_kicad_connector_usb_usb_a_cnctech_1001_011_01101_horizontal
+    oomp_key_extra: oomp_footprint_kicad_connector_usb_usb_a_cnctech_1001_011_01101_horizontal
+    oomp_key_full: oomp_footprint_kicad_connector_usb_usb_a_cnctech_1001_011_01101_horizontal_113e24
+    oomp_key_simple: kicad_connector_usb_usb_a_cnctech_1001_011_01101_horizontal
     original_filename: libraries/kicad-footprints/Connector_USB.pretty/USB_A_CNCTech_1001-011-01101_Horizontal.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_usb_usb_a_cnctech_1001_011_01101_horizontal
+  oomp_key_full: oomp_footprint_kicad_connector_usb_usb_a_cnctech_1001_011_01101_horizontal
   oomp_key_simple: kicad_connector_usb_usb_a_cnctech_1001_011_01101_horizontal
   owner: kicad
   repo:

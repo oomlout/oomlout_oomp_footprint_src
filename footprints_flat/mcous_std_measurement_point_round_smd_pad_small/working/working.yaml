@@ -17,9 +17,18 @@
   oomp:
     footprint_name: measurement_point_round_smd_pad_small
     library_name: _std
+    md5: f5651a8ee080b6423183444ffe2dfd7a
+    md5_10: f5651a8ee0
+    md5_5: f5651
+    md5_6: f5651a
+    oomp_key: oomp_mcous_std_measurement_point_round_smd_pad_small
+    oomp_key_extra: oomp_footprint_mcous_std_measurement_point_round_smd_pad_small
+    oomp_key_full: oomp_footprint_mcous_std_measurement_point_round_smd_pad_small_f5651a
+    oomp_key_simple: mcous_std_measurement_point_round_smd_pad_small
     original_filename: kicad-lib/footprints/_std.pretty/Measurement_Point_Round-SMD-Pad_Small.kicad_mod
     owner_name: mcous
   oomp_key: oomp_mcous_std_measurement_point_round_smd_pad_small
+  oomp_key_full: oomp_footprint_mcous_std_measurement_point_round_smd_pad_small
   oomp_key_simple: mcous_std_measurement_point_round_smd_pad_small
   owner: mcous
   repo:

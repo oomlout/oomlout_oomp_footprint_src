@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: esp32_wroom_32d
-    library_name: source_footprints
+    library_name: esp32_wroom_32d_kicad_mod
+    md5: 9dc890af5a30ec13e7e32079045819f7
+    md5_10: 9dc890af5a
+    md5_5: 9dc89
+    md5_6: 9dc890
+    oomp_key: oomp_digikey_esp32_wroom_32d_esp32_wroom_32d
+    oomp_key_extra: oomp_footprint_digikey_esp32_wroom_32d_esp32_wroom_32d
+    oomp_key_full: oomp_footprint_digikey_esp32_wroom_32d_esp32_wroom_32d_9dc890
+    oomp_key_simple: digikey_esp32_wroom_32d_esp32_wroom_32d
     original_filename: digikey-kicad-library/src/Source_Footprints/ESP32-WROOM-32D.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_esp32_wroom_32d_esp32_wroom_32d
+  oomp_key_full: oomp_footprint_digikey_esp32_wroom_32d_esp32_wroom_32d
   oomp_key_simple: digikey_esp32_wroom_32d_esp32_wroom_32d
   owner: digikey
   repo:

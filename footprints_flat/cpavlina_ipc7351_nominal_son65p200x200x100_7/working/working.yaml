@@ -18,9 +18,18 @@
   oomp:
     footprint_name: son65p200x200x100_7
     library_name: ipc7351_nominal
+    md5: 9e80194f7fa45dac687fcd9d2b1a8d7b
+    md5_10: 9e80194f7f
+    md5_5: 9e801
+    md5_6: 9e8019
+    oomp_key: oomp_cpavlina_ipc7351_nominal_son65p200x200x100_7
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_nominal_son65p200x200x100_7
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_son65p200x200x100_7_9e8019
+    oomp_key_simple: cpavlina_ipc7351_nominal_son65p200x200x100_7
     original_filename: kicad-pcblib/IPC7351-Nominal.pretty/SON65P200X200X100-7.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_nominal_son65p200x200x100_7
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_son65p200x200x100_7
   oomp_key_simple: cpavlina_ipc7351_nominal_son65p200x200x100_7
   owner: cpavlina
   repo:

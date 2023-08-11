@@ -17,9 +17,18 @@
   oomp:
     footprint_name: conn_edge_solder_2,54_16
     library_name: suf_connector_misc
+    md5: 39775c884f49031eb83a15c5b6b02b7c
+    md5_10: 39775c884f
+    md5_5: '39775'
+    md5_6: 39775c
+    oomp_key: oomp_suf_kicad_suf_connector_misc_conn_edge_solder_2,54_16
+    oomp_key_extra: oomp_footprint_suf_kicad_suf_connector_misc_conn_edge_solder_2,54_16
+    oomp_key_full: oomp_footprint_suf_kicad_suf_connector_misc_conn_edge_solder_2,54_16_39775c
+    oomp_key_simple: suf_kicad_suf_connector_misc_conn_edge_solder_2,54_16
     original_filename: suf_connector_misc.pretty/CONN_EDGE_SOLDER_2,54_16.kicad_mod
     owner_name: suf_kicad
   oomp_key: oomp_suf_kicad_suf_connector_misc_conn_edge_solder_2,54_16
+  oomp_key_full: oomp_footprint_suf_kicad_suf_connector_misc_conn_edge_solder_2,54_16
   oomp_key_simple: suf_kicad_suf_connector_misc_conn_edge_solder_2,54_16
   owner: suf-KiCAD
   repo:

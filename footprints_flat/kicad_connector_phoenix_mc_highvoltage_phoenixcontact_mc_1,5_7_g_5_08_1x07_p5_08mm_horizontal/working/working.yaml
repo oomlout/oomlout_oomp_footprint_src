@@ -18,9 +18,18 @@
   oomp:
     footprint_name: phoenixcontact_mc_1,5_7_g_5_08_1x07_p5_08mm_horizontal
     library_name: connector_phoenix_mc_highvoltage
+    md5: 945b64b7be5a23cb30e39a3831aae6bd
+    md5_10: 945b64b7be
+    md5_5: 945b6
+    md5_6: 945b64
+    oomp_key: oomp_kicad_connector_phoenix_mc_highvoltage_phoenixcontact_mc_1,5_7_g_5_08_1x07_p5_08mm_horizontal
+    oomp_key_extra: oomp_footprint_kicad_connector_phoenix_mc_highvoltage_phoenixcontact_mc_1,5_7_g_5_08_1x07_p5_08mm_horizontal
+    oomp_key_full: oomp_footprint_kicad_connector_phoenix_mc_highvoltage_phoenixcontact_mc_1,5_7_g_5_08_1x07_p5_08mm_horizontal_945b64
+    oomp_key_simple: kicad_connector_phoenix_mc_highvoltage_phoenixcontact_mc_1,5_7_g_5_08_1x07_p5_08mm_horizontal
     original_filename: libraries/kicad-footprints/Connector_Phoenix_MC_HighVoltage.pretty/PhoenixContact_MC_1,5_7-G-5.08_1x07_P5.08mm_Horizontal.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_phoenix_mc_highvoltage_phoenixcontact_mc_1,5_7_g_5_08_1x07_p5_08mm_horizontal
+  oomp_key_full: oomp_footprint_kicad_connector_phoenix_mc_highvoltage_phoenixcontact_mc_1,5_7_g_5_08_1x07_p5_08mm_horizontal
   oomp_key_simple: kicad_connector_phoenix_mc_highvoltage_phoenixcontact_mc_1,5_7_g_5_08_1x07_p5_08mm_horizontal
   owner: kicad
   repo:

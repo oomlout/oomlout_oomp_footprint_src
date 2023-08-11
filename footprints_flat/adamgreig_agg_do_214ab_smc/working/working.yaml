@@ -17,9 +17,18 @@
   oomp:
     footprint_name: do_214ab_smc
     library_name: agg
+    md5: 5c8017b6205d8bd5bb44b69e341e4906
+    md5_10: 5c8017b620
+    md5_5: 5c801
+    md5_6: 5c8017
+    oomp_key: oomp_adamgreig_agg_do_214ab_smc
+    oomp_key_extra: oomp_footprint_adamgreig_agg_do_214ab_smc
+    oomp_key_full: oomp_footprint_adamgreig_agg_do_214ab_smc_5c8017
+    oomp_key_simple: adamgreig_agg_do_214ab_smc
     original_filename: agg-kicad/agg.pretty/DO-214AB-SMC.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_do_214ab_smc
+  oomp_key_full: oomp_footprint_adamgreig_agg_do_214ab_smc
   oomp_key_simple: adamgreig_agg_do_214ab_smc
   owner: adamgreig
   repo:

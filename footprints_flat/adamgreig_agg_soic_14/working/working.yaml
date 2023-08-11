@@ -17,9 +17,18 @@
   oomp:
     footprint_name: soic_14
     library_name: agg
+    md5: 4808b6a56ab7f117dba256938d7b0b72
+    md5_10: 4808b6a56a
+    md5_5: 4808b
+    md5_6: 4808b6
+    oomp_key: oomp_adamgreig_agg_soic_14
+    oomp_key_extra: oomp_footprint_adamgreig_agg_soic_14
+    oomp_key_full: oomp_footprint_adamgreig_agg_soic_14_4808b6
+    oomp_key_simple: adamgreig_agg_soic_14
     original_filename: agg-kicad/agg.pretty/SOIC-14.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_soic_14
+  oomp_key_full: oomp_footprint_adamgreig_agg_soic_14
   oomp_key_simple: adamgreig_agg_soic_14
   owner: adamgreig
   repo:

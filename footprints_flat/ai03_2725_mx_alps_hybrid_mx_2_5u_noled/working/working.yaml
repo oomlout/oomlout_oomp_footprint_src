@@ -17,9 +17,18 @@
   oomp:
     footprint_name: mx_2_5u_noled
     library_name: mx_alps_hybrid
+    md5: 168edc8c36843ae879c54c9881c50b06
+    md5_10: 168edc8c36
+    md5_5: 168ed
+    md5_6: 168edc
+    oomp_key: oomp_ai03_2725_mx_alps_hybrid_mx_2_5u_noled
+    oomp_key_extra: oomp_footprint_ai03_2725_mx_alps_hybrid_mx_2_5u_noled
+    oomp_key_full: oomp_footprint_ai03_2725_mx_alps_hybrid_mx_2_5u_noled_168edc
+    oomp_key_simple: ai03_2725_mx_alps_hybrid_mx_2_5u_noled
     original_filename: MX_Alps_Hybrid.pretty/MX_Alps_Hybrid.pretty/MX-2.5U-NoLED.kicad_mod
     owner_name: ai03_2725
   oomp_key: oomp_ai03_2725_mx_alps_hybrid_mx_2_5u_noled
+  oomp_key_full: oomp_footprint_ai03_2725_mx_alps_hybrid_mx_2_5u_noled
   oomp_key_simple: ai03_2725_mx_alps_hybrid_mx_2_5u_noled
   owner: ai03-2725
   repo:

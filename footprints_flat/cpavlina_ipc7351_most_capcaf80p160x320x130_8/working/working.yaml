@@ -18,9 +18,18 @@
   oomp:
     footprint_name: capcaf80p160x320x130_8
     library_name: ipc7351_most
+    md5: e5dba3b3dd77dd73b2bd5e409b0d411f
+    md5_10: e5dba3b3dd
+    md5_5: e5dba
+    md5_6: e5dba3
+    oomp_key: oomp_cpavlina_ipc7351_most_capcaf80p160x320x130_8
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_most_capcaf80p160x320x130_8
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_most_capcaf80p160x320x130_8_e5dba3
+    oomp_key_simple: cpavlina_ipc7351_most_capcaf80p160x320x130_8
     original_filename: kicad-pcblib/IPC7351-Most.pretty/CAPCAF80P160X320X130-8.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_most_capcaf80p160x320x130_8
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_most_capcaf80p160x320x130_8
   oomp_key_simple: cpavlina_ipc7351_most_capcaf80p160x320x130_8
   owner: cpavlina
   repo:

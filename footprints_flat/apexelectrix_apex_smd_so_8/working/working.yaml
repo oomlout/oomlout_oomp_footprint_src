@@ -17,9 +17,18 @@
   oomp:
     footprint_name: so_8
     library_name: apex_smd
+    md5: 498c860bed395afaec67ad17b4d50e76
+    md5_10: 498c860bed
+    md5_5: 498c8
+    md5_6: 498c86
+    oomp_key: oomp_apexelectrix_apex_smd_so_8
+    oomp_key_extra: oomp_footprint_apexelectrix_apex_smd_so_8
+    oomp_key_full: oomp_footprint_apexelectrix_apex_smd_so_8_498c86
+    oomp_key_simple: apexelectrix_apex_smd_so_8
     original_filename: apex-smd.pretty/SO-8.kicad_mod
     owner_name: apexelectrix
   oomp_key: oomp_apexelectrix_apex_smd_so_8
+  oomp_key_full: oomp_footprint_apexelectrix_apex_smd_so_8
   oomp_key_simple: apexelectrix_apex_smd_so_8
   owner: apexelectrix
   repo:

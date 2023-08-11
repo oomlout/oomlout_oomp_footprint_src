@@ -18,9 +18,18 @@
   oomp:
     footprint_name: wemos_d1_mini_light
     library_name: module
+    md5: acc6829ad4c636117256ad3dbbf9ce86
+    md5_10: acc6829ad4
+    md5_5: acc68
+    md5_6: acc682
+    oomp_key: oomp_kicad_module_wemos_d1_mini_light
+    oomp_key_extra: oomp_footprint_kicad_module_wemos_d1_mini_light
+    oomp_key_full: oomp_footprint_kicad_module_wemos_d1_mini_light_acc682
+    oomp_key_simple: kicad_module_wemos_d1_mini_light
     original_filename: libraries/kicad-footprints/Module.pretty/WEMOS_D1_mini_light.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_module_wemos_d1_mini_light
+  oomp_key_full: oomp_footprint_kicad_module_wemos_d1_mini_light
   oomp_key_simple: kicad_module_wemos_d1_mini_light
   owner: kicad
   repo:

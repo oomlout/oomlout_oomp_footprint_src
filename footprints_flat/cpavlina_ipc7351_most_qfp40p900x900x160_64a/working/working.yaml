@@ -18,9 +18,18 @@
   oomp:
     footprint_name: qfp40p900x900x160_64a
     library_name: ipc7351_most
+    md5: f7f9f0fa52ed7c6d3643648615b3b608
+    md5_10: f7f9f0fa52
+    md5_5: f7f9f
+    md5_6: f7f9f0
+    oomp_key: oomp_cpavlina_ipc7351_most_qfp40p900x900x160_64a
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_most_qfp40p900x900x160_64a
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_most_qfp40p900x900x160_64a_f7f9f0
+    oomp_key_simple: cpavlina_ipc7351_most_qfp40p900x900x160_64a
     original_filename: kicad-pcblib/IPC7351-Most.pretty/QFP40P900X900X160-64A.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_most_qfp40p900x900x160_64a
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_most_qfp40p900x900x160_64a
   oomp_key_simple: cpavlina_ipc7351_most_qfp40p900x900x160_64a
   owner: cpavlina
   repo:

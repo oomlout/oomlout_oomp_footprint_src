@@ -19,9 +19,18 @@
   oomp:
     footprint_name: texas_s_pwson_n6
     library_name: manuf
+    md5: 135f9089fc9f517eaa0da94e4e4bc69c
+    md5_10: 135f9089fc
+    md5_5: 135f9
+    md5_6: 135f90
+    oomp_key: oomp_iangitpers_manuf_texas_s_pwson_n6
+    oomp_key_extra: oomp_footprint_iangitpers_manuf_texas_s_pwson_n6
+    oomp_key_full: oomp_footprint_iangitpers_manuf_texas_s_pwson_n6_135f90
+    oomp_key_simple: iangitpers_manuf_texas_s_pwson_n6
     original_filename: 4a/manuf.pretty/TEXAS-S-PWSON-N6.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_manuf_texas_s_pwson_n6
+  oomp_key_full: oomp_footprint_iangitpers_manuf_texas_s_pwson_n6
   oomp_key_simple: iangitpers_manuf_texas_s_pwson_n6
   owner: Iangitpers
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: tester
     library_name: gtb
+    md5: 741d53f49b29cfef2a8b81b57c0babed
+    md5_10: 741d53f49b
+    md5_5: 741d5
+    md5_6: 741d53
+    oomp_key: oomp_wykys_gtb_tester
+    oomp_key_extra: oomp_footprint_wykys_gtb_tester
+    oomp_key_full: oomp_footprint_wykys_gtb_tester_741d53
+    oomp_key_simple: wykys_gtb_tester
     original_filename: kicad/GettingToBlinky/GTB.pretty/TESTER.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_gtb_tester
+  oomp_key_full: oomp_footprint_wykys_gtb_tester
   oomp_key_simple: wykys_gtb_tester
   owner: wykys
   repo:

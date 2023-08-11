@@ -18,9 +18,18 @@
   oomp:
     footprint_name: transformer_ethernet_halo_n5_so_16_7_11x12_7mm
     library_name: transformer_smd
+    md5: 54597e9b836fc07ab984bf6da7f788c6
+    md5_10: 54597e9b83
+    md5_5: '54597'
+    md5_6: 54597e
+    oomp_key: oomp_kicad_transformer_smd_transformer_ethernet_halo_n5_so_16_7_11x12_7mm
+    oomp_key_extra: oomp_footprint_kicad_transformer_smd_transformer_ethernet_halo_n5_so_16_7_11x12_7mm
+    oomp_key_full: oomp_footprint_kicad_transformer_smd_transformer_ethernet_halo_n5_so_16_7_11x12_7mm_54597e
+    oomp_key_simple: kicad_transformer_smd_transformer_ethernet_halo_n5_so_16_7_11x12_7mm
     original_filename: libraries/kicad-footprints/Transformer_SMD.pretty/Transformer_Ethernet_Halo_N5_SO-16_7.11x12.7mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_transformer_smd_transformer_ethernet_halo_n5_so_16_7_11x12_7mm
+  oomp_key_full: oomp_footprint_kicad_transformer_smd_transformer_ethernet_halo_n5_so_16_7_11x12_7mm
   oomp_key_simple: kicad_transformer_smd_transformer_ethernet_halo_n5_so_16_7_11x12_7mm
   owner: kicad
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: tssop_28_1ep_w4_40mm
     library_name: digikey_footprints
+    md5: f582b043c908a7ea1067f8cd66f4f76a
+    md5_10: f582b043c9
+    md5_5: f582b
+    md5_6: f582b0
+    oomp_key: oomp_digikey_digikey_footprints_tssop_28_1ep_w4_40mm
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_tssop_28_1ep_w4_40mm
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_tssop_28_1ep_w4_40mm_f582b0
+    oomp_key_simple: digikey_digikey_footprints_tssop_28_1ep_w4_40mm
     original_filename: digikey-kicad-library/digikey-footprints.pretty/TSSOP-28-1EP_W4.40mm.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_tssop_28_1ep_w4_40mm
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_tssop_28_1ep_w4_40mm
   oomp_key_simple: digikey_digikey_footprints_tssop_28_1ep_w4_40mm
   owner: digikey
   repo:

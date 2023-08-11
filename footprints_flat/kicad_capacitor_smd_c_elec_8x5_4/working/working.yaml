@@ -17,9 +17,18 @@
   oomp:
     footprint_name: c_elec_8x5_4
     library_name: capacitor_smd
+    md5: 89c906325ee30cb0b24cac2fcbffb6c9
+    md5_10: 89c906325e
+    md5_5: 89c90
+    md5_6: 89c906
+    oomp_key: oomp_kicad_capacitor_smd_c_elec_8x5_4
+    oomp_key_extra: oomp_footprint_kicad_capacitor_smd_c_elec_8x5_4
+    oomp_key_full: oomp_footprint_kicad_capacitor_smd_c_elec_8x5_4_89c906
+    oomp_key_simple: kicad_capacitor_smd_c_elec_8x5_4
     original_filename: libraries/kicad-footprints/Capacitor_SMD.pretty/C_Elec_8x5.4.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_capacitor_smd_c_elec_8x5_4
+  oomp_key_full: oomp_footprint_kicad_capacitor_smd_c_elec_8x5_4
   oomp_key_simple: kicad_capacitor_smd_c_elec_8x5_4
   owner: kicad
   repo:

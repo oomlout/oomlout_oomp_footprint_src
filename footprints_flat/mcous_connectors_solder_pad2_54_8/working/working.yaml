@@ -17,9 +17,18 @@
   oomp:
     footprint_name: _solder_pad2_54_8
     library_name: _connectors
+    md5: adc6f0d07dec6ecc23c5913ac9995caa
+    md5_10: adc6f0d07d
+    md5_5: adc6f
+    md5_6: adc6f0
+    oomp_key: oomp_mcous_connectors_solder_pad2_54_8
+    oomp_key_extra: oomp_footprint_mcous_connectors_solder_pad2_54_8
+    oomp_key_full: oomp_footprint_mcous_connectors_solder_pad2_54_8_adc6f0
+    oomp_key_simple: mcous_connectors_solder_pad2_54_8
     original_filename: kicad-lib/footprints/_connectors.pretty/_Solder_Pad2.54_8.kicad_mod
     owner_name: mcous
   oomp_key: oomp_mcous_connectors_solder_pad2_54_8
+  oomp_key_full: oomp_footprint_mcous_connectors_solder_pad2_54_8
   oomp_key_simple: mcous_connectors_solder_pad2_54_8
   owner: mcous
   repo:

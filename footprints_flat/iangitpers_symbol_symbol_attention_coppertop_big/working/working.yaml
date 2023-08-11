@@ -19,9 +19,18 @@
   oomp:
     footprint_name: symbol_attention_coppertop_big
     library_name: symbol
+    md5: 5d284b50edbcbddded181e281041ba04
+    md5_10: 5d284b50ed
+    md5_5: 5d284
+    md5_6: 5d284b
+    oomp_key: oomp_iangitpers_symbol_symbol_attention_coppertop_big
+    oomp_key_extra: oomp_footprint_iangitpers_symbol_symbol_attention_coppertop_big
+    oomp_key_full: oomp_footprint_iangitpers_symbol_symbol_attention_coppertop_big_5d284b
+    oomp_key_simple: iangitpers_symbol_symbol_attention_coppertop_big
     original_filename: 4a/Symbol.pretty/Symbol_Attention_CopperTop_Big.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_symbol_symbol_attention_coppertop_big
+  oomp_key_full: oomp_footprint_iangitpers_symbol_symbol_attention_coppertop_big
   oomp_key_simple: iangitpers_symbol_symbol_attention_coppertop_big
   owner: Iangitpers
   repo:

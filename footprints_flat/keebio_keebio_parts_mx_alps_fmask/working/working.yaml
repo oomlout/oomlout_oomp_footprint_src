@@ -17,9 +17,18 @@
   oomp:
     footprint_name: mx_alps_fmask
     library_name: keebio_parts
+    md5: 4b92768d3d7946a47a69a9544f6328b9
+    md5_10: 4b92768d3d
+    md5_5: 4b927
+    md5_6: 4b9276
+    oomp_key: oomp_keebio_keebio_parts_mx_alps_fmask
+    oomp_key_extra: oomp_footprint_keebio_keebio_parts_mx_alps_fmask
+    oomp_key_full: oomp_footprint_keebio_keebio_parts_mx_alps_fmask_4b9276
+    oomp_key_simple: keebio_keebio_parts_mx_alps_fmask
     original_filename: Keebio-Parts.pretty/MX-Alps_FMask.kicad_mod
     owner_name: keebio
   oomp_key: oomp_keebio_keebio_parts_mx_alps_fmask
+  oomp_key_full: oomp_footprint_keebio_keebio_parts_mx_alps_fmask
   oomp_key_simple: keebio_keebio_parts_mx_alps_fmask
   owner: keebio
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sopa_4
     library_name: agg
+    md5: 5fc3d346e95a062dac87d88961e3fdd8
+    md5_10: 5fc3d346e9
+    md5_5: 5fc3d
+    md5_6: 5fc3d3
+    oomp_key: oomp_adamgreig_agg_sopa_4
+    oomp_key_extra: oomp_footprint_adamgreig_agg_sopa_4
+    oomp_key_full: oomp_footprint_adamgreig_agg_sopa_4_5fc3d3
+    oomp_key_simple: adamgreig_agg_sopa_4
     original_filename: agg-kicad/agg.pretty/SOPA-4.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_sopa_4
+  oomp_key_full: oomp_footprint_adamgreig_agg_sopa_4
   oomp_key_simple: adamgreig_agg_sopa_4
   owner: adamgreig
   repo:

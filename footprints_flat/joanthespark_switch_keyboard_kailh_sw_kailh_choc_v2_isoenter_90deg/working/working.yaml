@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sw_kailh_choc_v2_isoenter_90deg
     library_name: switch_keyboard_kailh
+    md5: 34f7a0dcb3095c86e41b18da7c137864
+    md5_10: 34f7a0dcb3
+    md5_5: 34f7a
+    md5_6: 34f7a0
+    oomp_key: oomp_joanthespark_switch_keyboard_kailh_sw_kailh_choc_v2_isoenter_90deg
+    oomp_key_extra: oomp_footprint_joanthespark_switch_keyboard_kailh_sw_kailh_choc_v2_isoenter_90deg
+    oomp_key_full: oomp_footprint_joanthespark_switch_keyboard_kailh_sw_kailh_choc_v2_isoenter_90deg_34f7a0
+    oomp_key_simple: joanthespark_switch_keyboard_kailh_sw_kailh_choc_v2_isoenter_90deg
     original_filename: KiCAD/6.0/3rdparty/footprints/com_github_perigoso_keyswitch-kicad-library/Switch_Keyboard_Kailh.pretty/SW_Kailh_Choc_V2_ISOEnter_90deg.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_switch_keyboard_kailh_sw_kailh_choc_v2_isoenter_90deg
+  oomp_key_full: oomp_footprint_joanthespark_switch_keyboard_kailh_sw_kailh_choc_v2_isoenter_90deg
   oomp_key_simple: joanthespark_switch_keyboard_kailh_sw_kailh_choc_v2_isoenter_90deg
   owner: JoanTheSpark
   repo:

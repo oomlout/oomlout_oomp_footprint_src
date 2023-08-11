@@ -17,9 +17,18 @@
   oomp:
     footprint_name: smd_127_357_8x2
     library_name: smd
+    md5: 2e407780d2295331000d403290d51d87
+    md5_10: 2e407780d2
+    md5_5: 2e407
+    md5_6: 2e4077
+    oomp_key: oomp_johslarsen_smd_smd_127_357_8x2
+    oomp_key_extra: oomp_footprint_johslarsen_smd_smd_127_357_8x2
+    oomp_key_full: oomp_footprint_johslarsen_smd_smd_127_357_8x2_2e4077
+    oomp_key_simple: johslarsen_smd_smd_127_357_8x2
     original_filename: SMD.pretty/SMD_127_357_8X2.kicad_mod
     owner_name: johslarsen
   oomp_key: oomp_johslarsen_smd_smd_127_357_8x2
+  oomp_key_full: oomp_footprint_johslarsen_smd_smd_127_357_8x2
   oomp_key_simple: johslarsen_smd_smd_127_357_8x2
   owner: johslarsen
   repo:

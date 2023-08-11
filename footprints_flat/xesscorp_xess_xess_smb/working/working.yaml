@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_smb
     library_name: xess
+    md5: 91009496fe015950b52abf4b7d36b63d
+    md5_10: 91009496fe
+    md5_5: '91009'
+    md5_6: '910094'
+    oomp_key: oomp_xesscorp_xess_xess_smb
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_smb
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_smb_910094
+    oomp_key_simple: xesscorp_xess_xess_smb
     original_filename: xess.pretty/xess-SMB.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_smb
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_smb
   oomp_key_simple: xesscorp_xess_xess_smb
   owner: xesscorp
   repo:

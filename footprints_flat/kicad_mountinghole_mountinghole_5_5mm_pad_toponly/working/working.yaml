@@ -17,9 +17,18 @@
   oomp:
     footprint_name: mountinghole_5_5mm_pad_toponly
     library_name: mountinghole
+    md5: 1ded08f619b78b4d6ddc9bbf92001279
+    md5_10: 1ded08f619
+    md5_5: 1ded0
+    md5_6: 1ded08
+    oomp_key: oomp_kicad_mountinghole_mountinghole_5_5mm_pad_toponly
+    oomp_key_extra: oomp_footprint_kicad_mountinghole_mountinghole_5_5mm_pad_toponly
+    oomp_key_full: oomp_footprint_kicad_mountinghole_mountinghole_5_5mm_pad_toponly_1ded08
+    oomp_key_simple: kicad_mountinghole_mountinghole_5_5mm_pad_toponly
     original_filename: libraries/kicad-footprints/MountingHole.pretty/MountingHole_5.5mm_Pad_TopOnly.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_mountinghole_mountinghole_5_5mm_pad_toponly
+  oomp_key_full: oomp_footprint_kicad_mountinghole_mountinghole_5_5mm_pad_toponly
   oomp_key_simple: kicad_mountinghole_mountinghole_5_5mm_pad_toponly
   owner: kicad
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: epw15_smt_v_8pin_(6385)
     library_name: transformers_wurthelektronik
+    md5: 8712b28ab3b1a8db7cb7a40a130762ed
+    md5_10: 8712b28ab3
+    md5_5: 8712b
+    md5_6: 8712b2
+    oomp_key: oomp_wurthelectronics_transformers_wurthelektronik_epw15_smt_v_8pin_(6385)
+    oomp_key_extra: oomp_footprint_wurthelectronics_transformers_wurthelektronik_epw15_smt_v_8pin_(6385)
+    oomp_key_full: oomp_footprint_wurthelectronics_transformers_wurthelektronik_epw15_smt_v_8pin_(6385)_8712b2
+    oomp_key_simple: wurthelectronics_transformers_wurthelektronik_epw15_smt_v_8pin_(6385)
     original_filename: Transformers_WurthElektronik.pretty/EPW15_SMT_V_8PIN_(6385).kicad_mod
     owner_name: wurthelectronics
   oomp_key: oomp_wurthelectronics_transformers_wurthelektronik_epw15_smt_v_8pin_(6385)
+  oomp_key_full: oomp_footprint_wurthelectronics_transformers_wurthelektronik_epw15_smt_v_8pin_(6385)
   oomp_key_simple: wurthelectronics_transformers_wurthelektronik_epw15_smt_v_8pin_(6385)
   owner: WurthElectronics
   repo:

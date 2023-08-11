@@ -17,9 +17,18 @@
   oomp:
     footprint_name: kicad_logo2_5mm_copper
     library_name: symbol
+    md5: 5114e84cf47ed149225f02a840b3ee28
+    md5_10: 5114e84cf4
+    md5_5: 5114e
+    md5_6: 5114e8
+    oomp_key: oomp_kicad_symbol_kicad_logo2_5mm_copper
+    oomp_key_extra: oomp_footprint_kicad_symbol_kicad_logo2_5mm_copper
+    oomp_key_full: oomp_footprint_kicad_symbol_kicad_logo2_5mm_copper_5114e8
+    oomp_key_simple: kicad_symbol_kicad_logo2_5mm_copper
     original_filename: libraries/kicad-footprints/Symbol.pretty/KiCad-Logo2_5mm_Copper.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_symbol_kicad_logo2_5mm_copper
+  oomp_key_full: oomp_footprint_kicad_symbol_kicad_logo2_5mm_copper
   oomp_key_simple: kicad_symbol_kicad_logo2_5mm_copper
   owner: kicad
   repo:

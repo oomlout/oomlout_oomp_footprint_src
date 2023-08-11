@@ -17,9 +17,18 @@
   oomp:
     footprint_name: son2x2
     library_name: agg
+    md5: 16065111d281b1ef958b436dd2eb1ab0
+    md5_10: 16065111d2
+    md5_5: '16065'
+    md5_6: '160651'
+    oomp_key: oomp_adamgreig_agg_son2x2
+    oomp_key_extra: oomp_footprint_adamgreig_agg_son2x2
+    oomp_key_full: oomp_footprint_adamgreig_agg_son2x2_160651
+    oomp_key_simple: adamgreig_agg_son2x2
     original_filename: agg-kicad/agg.pretty/SON2x2.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_son2x2
+  oomp_key_full: oomp_footprint_adamgreig_agg_son2x2
   oomp_key_simple: adamgreig_agg_son2x2
   owner: adamgreig
   repo:

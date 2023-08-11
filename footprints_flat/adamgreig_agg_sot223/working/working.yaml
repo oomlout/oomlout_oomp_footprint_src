@@ -16,10 +16,19 @@
   name: agg-kicad
   oomp:
     footprint_name: sot223
-    library_name: unchecked
+    library_name: agg
+    md5: 9cb5b558981d19bcba23f690e3466b55
+    md5_10: 9cb5b55898
+    md5_5: 9cb5b
+    md5_6: 9cb5b5
+    oomp_key: oomp_adamgreig_agg_sot223
+    oomp_key_extra: oomp_footprint_adamgreig_agg_sot223
+    oomp_key_full: oomp_footprint_adamgreig_agg_sot223_9cb5b5
+    oomp_key_simple: adamgreig_agg_sot223
     original_filename: agg-kicad/agg.pretty/unchecked.pretty/SOT223.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_sot223
+  oomp_key_full: oomp_footprint_adamgreig_agg_sot223
   oomp_key_simple: adamgreig_agg_sot223
   owner: adamgreig
   repo:

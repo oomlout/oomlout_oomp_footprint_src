@@ -17,9 +17,18 @@
   oomp:
     footprint_name: pin_header_straight_1x05
     library_name: esp_rs232
+    md5: 8155db3c019b6562b4c3d27fdc2ddb21
+    md5_10: 8155db3c01
+    md5_5: 8155d
+    md5_6: 8155db
+    oomp_key: oomp_joanthespark_esp_rs232_pin_header_straight_1x05
+    oomp_key_extra: oomp_footprint_joanthespark_esp_rs232_pin_header_straight_1x05
+    oomp_key_full: oomp_footprint_joanthespark_esp_rs232_pin_header_straight_1x05_8155db
+    oomp_key_simple: joanthespark_esp_rs232_pin_header_straight_1x05
     original_filename: KiCAD/mods/ESP-RS232.pretty/Pin_Header_Straight_1x05.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_esp_rs232_pin_header_straight_1x05
+  oomp_key_full: oomp_footprint_joanthespark_esp_rs232_pin_header_straight_1x05
   oomp_key_simple: joanthespark_esp_rs232_pin_header_straight_1x05
   owner: JoanTheSpark
   repo:

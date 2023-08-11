@@ -18,9 +18,18 @@
   oomp:
     footprint_name: molex_mini_fit_sr_42819_42xx_1x04_p10_00mm_vertical
     library_name: connector_molex
+    md5: fb04d126a54628dfb050b9821d5507c8
+    md5_10: fb04d126a5
+    md5_5: fb04d
+    md5_6: fb04d1
+    oomp_key: oomp_kicad_connector_molex_molex_mini_fit_sr_42819_42xx_1x04_p10_00mm_vertical
+    oomp_key_extra: oomp_footprint_kicad_connector_molex_molex_mini_fit_sr_42819_42xx_1x04_p10_00mm_vertical
+    oomp_key_full: oomp_footprint_kicad_connector_molex_molex_mini_fit_sr_42819_42xx_1x04_p10_00mm_vertical_fb04d1
+    oomp_key_simple: kicad_connector_molex_molex_mini_fit_sr_42819_42xx_1x04_p10_00mm_vertical
     original_filename: libraries/kicad-footprints/Connector_Molex.pretty/Molex_Mini-Fit_Sr_42819-42XX_1x04_P10.00mm_Vertical.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_molex_molex_mini_fit_sr_42819_42xx_1x04_p10_00mm_vertical
+  oomp_key_full: oomp_footprint_kicad_connector_molex_molex_mini_fit_sr_42819_42xx_1x04_p10_00mm_vertical
   oomp_key_simple: kicad_connector_molex_molex_mini_fit_sr_42819_42xx_1x04_p10_00mm_vertical
   owner: kicad
   repo:

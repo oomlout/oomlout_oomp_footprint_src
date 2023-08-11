@@ -17,9 +17,18 @@
   oomp:
     footprint_name: esp32_c3_mini_1_handsoldering
     library_name: espressif
+    md5: d0e96556988c55ebfcb20d948774f839
+    md5_10: d0e9655698
+    md5_5: d0e96
+    md5_6: d0e965
+    oomp_key: oomp_tinkerforge_espressif_esp32_c3_mini_1_handsoldering
+    oomp_key_extra: oomp_footprint_tinkerforge_espressif_esp32_c3_mini_1_handsoldering
+    oomp_key_full: oomp_footprint_tinkerforge_espressif_esp32_c3_mini_1_handsoldering_d0e965
+    oomp_key_simple: tinkerforge_espressif_esp32_c3_mini_1_handsoldering
     original_filename: kicad-libraries/footprints/Espressif.pretty/ESP32-C3-MINI-1_HandSoldering.kicad_mod
     owner_name: tinkerforge
   oomp_key: oomp_tinkerforge_espressif_esp32_c3_mini_1_handsoldering
+  oomp_key_full: oomp_footprint_tinkerforge_espressif_esp32_c3_mini_1_handsoldering
   oomp_key_simple: tinkerforge_espressif_esp32_c3_mini_1_handsoldering
   owner: Tinkerforge
   repo:

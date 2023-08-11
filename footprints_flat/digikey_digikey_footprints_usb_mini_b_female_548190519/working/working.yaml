@@ -17,9 +17,18 @@
   oomp:
     footprint_name: usb_mini_b_female_548190519
     library_name: digikey_footprints
+    md5: 5b636e6a72773db082297f00a6ea1e2e
+    md5_10: 5b636e6a72
+    md5_5: 5b636
+    md5_6: 5b636e
+    oomp_key: oomp_digikey_digikey_footprints_usb_mini_b_female_548190519
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_usb_mini_b_female_548190519
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_usb_mini_b_female_548190519_5b636e
+    oomp_key_simple: digikey_digikey_footprints_usb_mini_b_female_548190519
     original_filename: digikey-kicad-library/digikey-footprints.pretty/USB_Mini_B_Female_548190519.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_usb_mini_b_female_548190519
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_usb_mini_b_female_548190519
   oomp_key_simple: digikey_digikey_footprints_usb_mini_b_female_548190519
   owner: digikey
   repo:

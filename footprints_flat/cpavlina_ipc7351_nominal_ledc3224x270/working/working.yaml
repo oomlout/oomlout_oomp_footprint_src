@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ledc3224x270
     library_name: ipc7351_nominal
+    md5: 155ccd30312268e652246daedd2b83d6
+    md5_10: 155ccd3031
+    md5_5: 155cc
+    md5_6: 155ccd
+    oomp_key: oomp_cpavlina_ipc7351_nominal_ledc3224x270
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_nominal_ledc3224x270
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_ledc3224x270_155ccd
+    oomp_key_simple: cpavlina_ipc7351_nominal_ledc3224x270
     original_filename: kicad-pcblib/IPC7351-Nominal.pretty/LEDC3224X270.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_nominal_ledc3224x270
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_ledc3224x270
   oomp_key_simple: cpavlina_ipc7351_nominal_ledc3224x270
   owner: cpavlina
   repo:

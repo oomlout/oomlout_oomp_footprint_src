@@ -18,9 +18,18 @@
   oomp:
     footprint_name: mqfp_44_10x10mm_p0_8mm
     library_name: package_qfp
+    md5: 7879cba94b176b884dd136e85ffd0306
+    md5_10: 7879cba94b
+    md5_5: 7879c
+    md5_6: 7879cb
+    oomp_key: oomp_kicad_package_qfp_mqfp_44_10x10mm_p0_8mm
+    oomp_key_extra: oomp_footprint_kicad_package_qfp_mqfp_44_10x10mm_p0_8mm
+    oomp_key_full: oomp_footprint_kicad_package_qfp_mqfp_44_10x10mm_p0_8mm_7879cb
+    oomp_key_simple: kicad_package_qfp_mqfp_44_10x10mm_p0_8mm
     original_filename: libraries/kicad-footprints/Package_QFP.pretty/MQFP-44_10x10mm_P0.8mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_qfp_mqfp_44_10x10mm_p0_8mm
+  oomp_key_full: oomp_footprint_kicad_package_qfp_mqfp_44_10x10mm_p0_8mm
   oomp_key_simple: kicad_package_qfp_mqfp_44_10x10mm_p0_8mm
   owner: kicad
   repo:

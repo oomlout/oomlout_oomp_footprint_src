@@ -17,9 +17,18 @@
   oomp:
     footprint_name: 1pin_prototyping
     library_name: freetronics_footprints
+    md5: 475fea2647b8bd555eff2f80cfb6d926
+    md5_10: 475fea2647
+    md5_5: 475fe
+    md5_6: 475fea
+    oomp_key: oomp_wykys_freetronics_footprints_1pin_prototyping
+    oomp_key_extra: oomp_footprint_wykys_freetronics_footprints_1pin_prototyping
+    oomp_key_full: oomp_footprint_wykys_freetronics_footprints_1pin_prototyping_475fea
+    oomp_key_simple: wykys_freetronics_footprints_1pin_prototyping
     original_filename: kicad/mods/freetronics_footprints.pretty/1pin_prototyping.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_freetronics_footprints_1pin_prototyping
+  oomp_key_full: oomp_footprint_wykys_freetronics_footprints_1pin_prototyping
   oomp_key_simple: wykys_freetronics_footprints_1pin_prototyping
   owner: wykys
   repo:

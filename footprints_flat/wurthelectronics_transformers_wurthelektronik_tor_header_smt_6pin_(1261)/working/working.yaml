@@ -17,9 +17,18 @@
   oomp:
     footprint_name: tor_header_smt_6pin_(1261)
     library_name: transformers_wurthelektronik
+    md5: ffdca1149c9ed272c473b98b2e1639b2
+    md5_10: ffdca1149c
+    md5_5: ffdca
+    md5_6: ffdca1
+    oomp_key: oomp_wurthelectronics_transformers_wurthelektronik_tor_header_smt_6pin_(1261)
+    oomp_key_extra: oomp_footprint_wurthelectronics_transformers_wurthelektronik_tor_header_smt_6pin_(1261)
+    oomp_key_full: oomp_footprint_wurthelectronics_transformers_wurthelektronik_tor_header_smt_6pin_(1261)_ffdca1
+    oomp_key_simple: wurthelectronics_transformers_wurthelektronik_tor_header_smt_6pin_(1261)
     original_filename: Transformers_WurthElektronik.pretty/TOR_HEADER_SMT_6PIN_(1261).kicad_mod
     owner_name: wurthelectronics
   oomp_key: oomp_wurthelectronics_transformers_wurthelektronik_tor_header_smt_6pin_(1261)
+  oomp_key_full: oomp_footprint_wurthelectronics_transformers_wurthelektronik_tor_header_smt_6pin_(1261)
   oomp_key_simple: wurthelectronics_transformers_wurthelektronik_tor_header_smt_6pin_(1261)
   owner: WurthElectronics
   repo:

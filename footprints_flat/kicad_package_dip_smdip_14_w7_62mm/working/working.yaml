@@ -18,9 +18,18 @@
   oomp:
     footprint_name: smdip_14_w7_62mm
     library_name: package_dip
+    md5: 5ccbddd0d2ac78b1066c1a6f465bc78e
+    md5_10: 5ccbddd0d2
+    md5_5: 5ccbd
+    md5_6: 5ccbdd
+    oomp_key: oomp_kicad_package_dip_smdip_14_w7_62mm
+    oomp_key_extra: oomp_footprint_kicad_package_dip_smdip_14_w7_62mm
+    oomp_key_full: oomp_footprint_kicad_package_dip_smdip_14_w7_62mm_5ccbdd
+    oomp_key_simple: kicad_package_dip_smdip_14_w7_62mm
     original_filename: libraries/kicad-footprints/Package_DIP.pretty/SMDIP-14_W7.62mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_dip_smdip_14_w7_62mm
+  oomp_key_full: oomp_footprint_kicad_package_dip_smdip_14_w7_62mm
   oomp_key_simple: kicad_package_dip_smdip_14_w7_62mm
   owner: kicad
   repo:

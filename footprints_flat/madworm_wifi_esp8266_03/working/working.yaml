@@ -17,9 +17,18 @@
   oomp:
     footprint_name: esp8266_03
     library_name: wifi
+    md5: c48b67197e22b2cacdff3a5baf8b5804
+    md5_10: c48b67197e
+    md5_5: c48b6
+    md5_6: c48b67
+    oomp_key: oomp_madworm_wifi_esp8266_03
+    oomp_key_extra: oomp_footprint_madworm_wifi_esp8266_03
+    oomp_key_full: oomp_footprint_madworm_wifi_esp8266_03_c48b67
+    oomp_key_simple: madworm_wifi_esp8266_03
     original_filename: WiFi.pretty/ESP8266-03.kicad_mod
     owner_name: madworm
   oomp_key: oomp_madworm_wifi_esp8266_03
+  oomp_key_full: oomp_footprint_madworm_wifi_esp8266_03
   oomp_key_simple: madworm_wifi_esp8266_03
   owner: madworm
   repo:

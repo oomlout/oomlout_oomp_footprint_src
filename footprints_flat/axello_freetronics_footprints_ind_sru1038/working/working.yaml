@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ind_sru1038
     library_name: freetronics_footprints
+    md5: f840786bbbb559ae6e0b717ab2af4ddd
+    md5_10: f840786bbb
+    md5_5: f8407
+    md5_6: f84078
+    oomp_key: oomp_axello_freetronics_footprints_ind_sru1038
+    oomp_key_extra: oomp_footprint_axello_freetronics_footprints_ind_sru1038
+    oomp_key_full: oomp_footprint_axello_freetronics_footprints_ind_sru1038_f84078
+    oomp_key_simple: axello_freetronics_footprints_ind_sru1038
     original_filename: kicad/mods/freetronics_footprints.pretty/IND_SRU1038.kicad_mod
     owner_name: axello
   oomp_key: oomp_axello_freetronics_footprints_ind_sru1038
+  oomp_key_full: oomp_footprint_axello_freetronics_footprints_ind_sru1038
   oomp_key_simple: axello_freetronics_footprints_ind_sru1038
   owner: axello
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: oceanoptics_spark_det_vis
     library_name: manuf
+    md5: d31952ce33c85aae488e6cc453b28dfa
+    md5_10: d31952ce33
+    md5_5: d3195
+    md5_6: d31952
+    oomp_key: oomp_cpavlina_manuf_oceanoptics_spark_det_vis
+    oomp_key_extra: oomp_footprint_cpavlina_manuf_oceanoptics_spark_det_vis
+    oomp_key_full: oomp_footprint_cpavlina_manuf_oceanoptics_spark_det_vis_d31952
+    oomp_key_simple: cpavlina_manuf_oceanoptics_spark_det_vis
     original_filename: kicad-pcblib/manuf.pretty/OCEANOPTICS_SPARK-DET-VIS.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_manuf_oceanoptics_spark_det_vis
+  oomp_key_full: oomp_footprint_cpavlina_manuf_oceanoptics_spark_det_vis
   oomp_key_simple: cpavlina_manuf_oceanoptics_spark_det_vis
   owner: cpavlina
   repo:

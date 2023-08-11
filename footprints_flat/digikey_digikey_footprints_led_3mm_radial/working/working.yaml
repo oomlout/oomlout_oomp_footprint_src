@@ -17,9 +17,18 @@
   oomp:
     footprint_name: led_3mm_radial
     library_name: digikey_footprints
+    md5: 1970151122b51ae070ec8804ff891c56
+    md5_10: '1970151122'
+    md5_5: '19701'
+    md5_6: '197015'
+    oomp_key: oomp_digikey_digikey_footprints_led_3mm_radial
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_led_3mm_radial
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_led_3mm_radial_197015
+    oomp_key_simple: digikey_digikey_footprints_led_3mm_radial
     original_filename: digikey-kicad-library/digikey-footprints.pretty/LED_3mm_Radial.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_led_3mm_radial
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_led_3mm_radial
   oomp_key_simple: digikey_digikey_footprints_led_3mm_radial
   owner: digikey
   repo:

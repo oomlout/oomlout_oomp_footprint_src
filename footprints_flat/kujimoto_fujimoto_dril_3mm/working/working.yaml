@@ -17,9 +17,18 @@
   oomp:
     footprint_name: dril_3mm
     library_name: fujimoto
+    md5: 9d7459826c9a7dc48b568c72618b346f
+    md5_10: 9d7459826c
+    md5_5: 9d745
+    md5_6: 9d7459
+    oomp_key: oomp_kujimoto_fujimoto_dril_3mm
+    oomp_key_extra: oomp_footprint_kujimoto_fujimoto_dril_3mm
+    oomp_key_full: oomp_footprint_kujimoto_fujimoto_dril_3mm_9d7459
+    oomp_key_simple: kujimoto_fujimoto_dril_3mm
     original_filename: fujimoto.pretty/Dril_3mm.kicad_mod
     owner_name: kujimoto
   oomp_key: oomp_kujimoto_fujimoto_dril_3mm
+  oomp_key_full: oomp_footprint_kujimoto_fujimoto_dril_3mm
   oomp_key_simple: kujimoto_fujimoto_dril_3mm
   owner: Kujimoto
   repo:

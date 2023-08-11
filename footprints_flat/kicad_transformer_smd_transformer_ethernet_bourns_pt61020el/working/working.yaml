@@ -17,9 +17,18 @@
   oomp:
     footprint_name: transformer_ethernet_bourns_pt61020el
     library_name: transformer_smd
+    md5: 56c03e2caed932eb0fa618f214995f8a
+    md5_10: 56c03e2cae
+    md5_5: 56c03
+    md5_6: 56c03e
+    oomp_key: oomp_kicad_transformer_smd_transformer_ethernet_bourns_pt61020el
+    oomp_key_extra: oomp_footprint_kicad_transformer_smd_transformer_ethernet_bourns_pt61020el
+    oomp_key_full: oomp_footprint_kicad_transformer_smd_transformer_ethernet_bourns_pt61020el_56c03e
+    oomp_key_simple: kicad_transformer_smd_transformer_ethernet_bourns_pt61020el
     original_filename: libraries/kicad-footprints/Transformer_SMD.pretty/Transformer_Ethernet_Bourns_PT61020EL.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_transformer_smd_transformer_ethernet_bourns_pt61020el
+  oomp_key_full: oomp_footprint_kicad_transformer_smd_transformer_ethernet_bourns_pt61020el
   oomp_key_simple: kicad_transformer_smd_transformer_ethernet_bourns_pt61020el
   owner: kicad
   repo:

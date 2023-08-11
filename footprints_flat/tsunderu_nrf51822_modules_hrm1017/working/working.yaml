@@ -17,9 +17,18 @@
   oomp:
     footprint_name: hrm1017
     library_name: nrf51822_modules
+    md5: 027bc41b2c7730ff8d2fb3ae7e5dd7ad
+    md5_10: 027bc41b2c
+    md5_5: 027bc
+    md5_6: 027bc4
+    oomp_key: oomp_tsunderu_nrf51822_modules_hrm1017
+    oomp_key_extra: oomp_footprint_tsunderu_nrf51822_modules_hrm1017
+    oomp_key_full: oomp_footprint_tsunderu_nrf51822_modules_hrm1017_027bc4
+    oomp_key_simple: tsunderu_nrf51822_modules_hrm1017
     original_filename: nRF51822-modules.pretty/HRM1017.kicad_mod
     owner_name: tsunderu
   oomp_key: oomp_tsunderu_nrf51822_modules_hrm1017
+  oomp_key_full: oomp_footprint_tsunderu_nrf51822_modules_hrm1017
   oomp_key_simple: tsunderu_nrf51822_modules_hrm1017
   owner: tsunderu
   repo:

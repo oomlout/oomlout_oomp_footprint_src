@@ -16,10 +16,19 @@
   name: MX_Alps_Hybrid.pretty
   oomp:
     footprint_name: mxonly_3u_reversedstabilizers_noswitch
-    library_name: mx_only
+    library_name: mx_alps_hybrid
+    md5: 21f02aeee7b04c2ff59ae551263ac14e
+    md5_10: 21f02aeee7
+    md5_5: 21f02
+    md5_6: 21f02a
+    oomp_key: oomp_ai03_2725_mx_alps_hybrid_mxonly_3u_reversedstabilizers_noswitch
+    oomp_key_extra: oomp_footprint_ai03_2725_mx_alps_hybrid_mxonly_3u_reversedstabilizers_noswitch
+    oomp_key_full: oomp_footprint_ai03_2725_mx_alps_hybrid_mxonly_3u_reversedstabilizers_noswitch_21f02a
+    oomp_key_simple: ai03_2725_mx_alps_hybrid_mxonly_3u_reversedstabilizers_noswitch
     original_filename: MX_Alps_Hybrid.pretty/MX_Only.pretty/MXOnly-3U-ReversedStabilizers-NoSwitch.kicad_mod
     owner_name: ai03_2725
   oomp_key: oomp_ai03_2725_mx_alps_hybrid_mxonly_3u_reversedstabilizers_noswitch
+  oomp_key_full: oomp_footprint_ai03_2725_mx_alps_hybrid_mxonly_3u_reversedstabilizers_noswitch
   oomp_key_simple: ai03_2725_mx_alps_hybrid_mxonly_3u_reversedstabilizers_noswitch
   owner: ai03-2725
   repo:

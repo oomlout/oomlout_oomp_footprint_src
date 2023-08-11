@@ -19,9 +19,18 @@
   oomp:
     footprint_name: sw_dip_spstx02_slide_6_7x6_64mm_w6_73mm_p2_54mm_lowprofile_jpin
     library_name: button_switch_smd
+    md5: 9f9ab10c4d9382b3d13d08ab6d094cee
+    md5_10: 9f9ab10c4d
+    md5_5: 9f9ab
+    md5_6: 9f9ab1
+    oomp_key: oomp_kicad_button_switch_smd_sw_dip_spstx02_slide_6_7x6_64mm_w6_73mm_p2_54mm_lowprofile_jpin
+    oomp_key_extra: oomp_footprint_kicad_button_switch_smd_sw_dip_spstx02_slide_6_7x6_64mm_w6_73mm_p2_54mm_lowprofile_jpin
+    oomp_key_full: oomp_footprint_kicad_button_switch_smd_sw_dip_spstx02_slide_6_7x6_64mm_w6_73mm_p2_54mm_lowprofile_jpin_9f9ab1
+    oomp_key_simple: kicad_button_switch_smd_sw_dip_spstx02_slide_6_7x6_64mm_w6_73mm_p2_54mm_lowprofile_jpin
     original_filename: libraries/kicad-footprints/Button_Switch_SMD.pretty/SW_DIP_SPSTx02_Slide_6.7x6.64mm_W6.73mm_P2.54mm_LowProfile_JPin.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_button_switch_smd_sw_dip_spstx02_slide_6_7x6_64mm_w6_73mm_p2_54mm_lowprofile_jpin
+  oomp_key_full: oomp_footprint_kicad_button_switch_smd_sw_dip_spstx02_slide_6_7x6_64mm_w6_73mm_p2_54mm_lowprofile_jpin
   oomp_key_simple: kicad_button_switch_smd_sw_dip_spstx02_slide_6_7x6_64mm_w6_73mm_p2_54mm_lowprofile_jpin
   owner: kicad
   repo:

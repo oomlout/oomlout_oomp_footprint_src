@@ -17,9 +17,18 @@
   oomp:
     footprint_name: conn_100mil_m_1x9_shroud
     library_name: conn_100mil
+    md5: 838eb0cec2b532c85681c92d95b7cdf5
+    md5_10: 838eb0cec2
+    md5_5: 838eb
+    md5_6: 838eb0
+    oomp_key: oomp_cpavlina_conn_100mil_conn_100mil_m_1x9_shroud
+    oomp_key_extra: oomp_footprint_cpavlina_conn_100mil_conn_100mil_m_1x9_shroud
+    oomp_key_full: oomp_footprint_cpavlina_conn_100mil_conn_100mil_m_1x9_shroud_838eb0
+    oomp_key_simple: cpavlina_conn_100mil_conn_100mil_m_1x9_shroud
     original_filename: kicad-pcblib/conn-100mil.pretty/CONN-100MIL-M-1x9-SHROUD.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_conn_100mil_conn_100mil_m_1x9_shroud
+  oomp_key_full: oomp_footprint_cpavlina_conn_100mil_conn_100mil_m_1x9_shroud
   oomp_key_simple: cpavlina_conn_100mil_conn_100mil_m_1x9_shroud
   owner: cpavlina
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: diodes_sot23_5
     library_name: kicadfootprint
+    md5: 061496d65ec47219515e143b1a7dbd6f
+    md5_10: 061496d65e
+    md5_5: 06149
+    md5_6: 061496
+    oomp_key: oomp_vivitainc_kicadfootprint_diodes_sot23_5
+    oomp_key_extra: oomp_footprint_vivitainc_kicadfootprint_diodes_sot23_5
+    oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_diodes_sot23_5_061496
+    oomp_key_simple: vivitainc_kicadfootprint_diodes_sot23_5
     original_filename: KiCADfootprint.pretty/DIODES_SOT23-5.kicad_mod
     owner_name: vivitainc
   oomp_key: oomp_vivitainc_kicadfootprint_diodes_sot23_5
+  oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_diodes_sot23_5
   oomp_key_simple: vivitainc_kicadfootprint_diodes_sot23_5
   owner: vivitainc
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ms5611
     library_name: agg
+    md5: 18dfb7f8c0fcee11e9498aecc30ad6d4
+    md5_10: 18dfb7f8c0
+    md5_5: 18dfb
+    md5_6: 18dfb7
+    oomp_key: oomp_adamgreig_agg_ms5611
+    oomp_key_extra: oomp_footprint_adamgreig_agg_ms5611
+    oomp_key_full: oomp_footprint_adamgreig_agg_ms5611_18dfb7
+    oomp_key_simple: adamgreig_agg_ms5611
     original_filename: agg-kicad/agg.pretty/MS5611.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_ms5611
+  oomp_key_full: oomp_footprint_adamgreig_agg_ms5611
   oomp_key_simple: adamgreig_agg_ms5611
   owner: adamgreig
   repo:

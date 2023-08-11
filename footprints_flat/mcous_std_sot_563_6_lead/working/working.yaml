@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sot_563_6_lead
     library_name: _std
+    md5: 1190a1261d2fd75f52326436a5f519b8
+    md5_10: 1190a1261d
+    md5_5: 1190a
+    md5_6: 1190a1
+    oomp_key: oomp_mcous_std_sot_563_6_lead
+    oomp_key_extra: oomp_footprint_mcous_std_sot_563_6_lead
+    oomp_key_full: oomp_footprint_mcous_std_sot_563_6_lead_1190a1
+    oomp_key_simple: mcous_std_sot_563_6_lead
     original_filename: kicad-lib/footprints/_std.pretty/SOT-563_6-lead.kicad_mod
     owner_name: mcous
   oomp_key: oomp_mcous_std_sot_563_6_lead
+  oomp_key_full: oomp_footprint_mcous_std_sot_563_6_lead
   oomp_key_simple: mcous_std_sot_563_6_lead
   owner: mcous
   repo:

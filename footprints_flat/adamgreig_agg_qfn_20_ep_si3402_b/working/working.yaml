@@ -17,9 +17,18 @@
   oomp:
     footprint_name: qfn_20_ep_si3402_b
     library_name: agg
+    md5: 43d248b5801e0ff5dfbed7d8f0fa6435
+    md5_10: 43d248b580
+    md5_5: 43d24
+    md5_6: 43d248
+    oomp_key: oomp_adamgreig_agg_qfn_20_ep_si3402_b
+    oomp_key_extra: oomp_footprint_adamgreig_agg_qfn_20_ep_si3402_b
+    oomp_key_full: oomp_footprint_adamgreig_agg_qfn_20_ep_si3402_b_43d248
+    oomp_key_simple: adamgreig_agg_qfn_20_ep_si3402_b
     original_filename: agg-kicad/agg.pretty/QFN-20-EP-SI3402-B.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_qfn_20_ep_si3402_b
+  oomp_key_full: oomp_footprint_adamgreig_agg_qfn_20_ep_si3402_b
   oomp_key_simple: adamgreig_agg_qfn_20_ep_si3402_b
   owner: adamgreig
   repo:

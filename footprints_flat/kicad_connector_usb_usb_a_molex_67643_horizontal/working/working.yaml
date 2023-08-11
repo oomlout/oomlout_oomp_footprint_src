@@ -17,9 +17,18 @@
   oomp:
     footprint_name: usb_a_molex_67643_horizontal
     library_name: connector_usb
+    md5: f0e870357b543cbe1b88a60cd3f03e7e
+    md5_10: f0e870357b
+    md5_5: f0e87
+    md5_6: f0e870
+    oomp_key: oomp_kicad_connector_usb_usb_a_molex_67643_horizontal
+    oomp_key_extra: oomp_footprint_kicad_connector_usb_usb_a_molex_67643_horizontal
+    oomp_key_full: oomp_footprint_kicad_connector_usb_usb_a_molex_67643_horizontal_f0e870
+    oomp_key_simple: kicad_connector_usb_usb_a_molex_67643_horizontal
     original_filename: libraries/kicad-footprints/Connector_USB.pretty/USB_A_Molex_67643_Horizontal.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_usb_usb_a_molex_67643_horizontal
+  oomp_key_full: oomp_footprint_kicad_connector_usb_usb_a_molex_67643_horizontal
   oomp_key_simple: kicad_connector_usb_usb_a_molex_67643_horizontal
   owner: kicad
   repo:

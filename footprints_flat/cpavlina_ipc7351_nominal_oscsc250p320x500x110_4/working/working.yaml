@@ -17,9 +17,18 @@
   oomp:
     footprint_name: oscsc250p320x500x110_4
     library_name: ipc7351_nominal
+    md5: 010a716630fda9d635681909c051fecf
+    md5_10: 010a716630
+    md5_5: 010a7
+    md5_6: 010a71
+    oomp_key: oomp_cpavlina_ipc7351_nominal_oscsc250p320x500x110_4
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_nominal_oscsc250p320x500x110_4
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_oscsc250p320x500x110_4_010a71
+    oomp_key_simple: cpavlina_ipc7351_nominal_oscsc250p320x500x110_4
     original_filename: kicad-pcblib/IPC7351-Nominal.pretty/OSCSC250P320X500X110-4.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_nominal_oscsc250p320x500x110_4
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_oscsc250p320x500x110_4
   oomp_key_simple: cpavlina_ipc7351_nominal_oscsc250p320x500x110_4
   owner: cpavlina
   repo:

@@ -19,9 +19,18 @@
   oomp:
     footprint_name: bourns_srn5040
     library_name: manuf
+    md5: d1e62e7aacd717c26d6b8ad352e13c1e
+    md5_10: d1e62e7aac
+    md5_5: d1e62
+    md5_6: d1e62e
+    oomp_key: oomp_iangitpers_manuf_bourns_srn5040
+    oomp_key_extra: oomp_footprint_iangitpers_manuf_bourns_srn5040
+    oomp_key_full: oomp_footprint_iangitpers_manuf_bourns_srn5040_d1e62e
+    oomp_key_simple: iangitpers_manuf_bourns_srn5040
     original_filename: 4a/manuf.pretty/BOURNS-SRN5040.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_manuf_bourns_srn5040
+  oomp_key_full: oomp_footprint_iangitpers_manuf_bourns_srn5040
   oomp_key_simple: iangitpers_manuf_bourns_srn5040
   owner: Iangitpers
   repo:

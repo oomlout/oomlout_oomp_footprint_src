@@ -17,9 +17,18 @@
   oomp:
     footprint_name: hole
     library_name: kicad_others
+    md5: 6e9d1463ae7bf6a1b436677c259e6f90
+    md5_10: 6e9d1463ae
+    md5_5: 6e9d1
+    md5_6: 6e9d14
+    oomp_key: oomp_kikaiken_kicad_others_hole
+    oomp_key_extra: oomp_footprint_kikaiken_kicad_others_hole
+    oomp_key_full: oomp_footprint_kikaiken_kicad_others_hole_6e9d14
+    oomp_key_simple: kikaiken_kicad_others_hole
     original_filename: kicad_others.pretty/hole.kicad_mod
     owner_name: kikaiken
   oomp_key: oomp_kikaiken_kicad_others_hole
+  oomp_key_full: oomp_footprint_kikaiken_kicad_others_hole
   oomp_key_simple: kikaiken_kicad_others_hole
   owner: kikaiken
   repo:

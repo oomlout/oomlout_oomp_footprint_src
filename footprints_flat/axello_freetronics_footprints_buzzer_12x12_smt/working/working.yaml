@@ -17,9 +17,18 @@
   oomp:
     footprint_name: buzzer_12x12_smt
     library_name: freetronics_footprints
+    md5: 3b613fb3d8e9141f0818149d176259e5
+    md5_10: 3b613fb3d8
+    md5_5: 3b613
+    md5_6: 3b613f
+    oomp_key: oomp_axello_freetronics_footprints_buzzer_12x12_smt
+    oomp_key_extra: oomp_footprint_axello_freetronics_footprints_buzzer_12x12_smt
+    oomp_key_full: oomp_footprint_axello_freetronics_footprints_buzzer_12x12_smt_3b613f
+    oomp_key_simple: axello_freetronics_footprints_buzzer_12x12_smt
     original_filename: kicad/mods/freetronics_footprints.pretty/BUZZER-12X12-SMT.kicad_mod
     owner_name: axello
   oomp_key: oomp_axello_freetronics_footprints_buzzer_12x12_smt
+  oomp_key_full: oomp_footprint_axello_freetronics_footprints_buzzer_12x12_smt
   oomp_key_simple: axello_freetronics_footprints_buzzer_12x12_smt
   owner: axello
   repo:

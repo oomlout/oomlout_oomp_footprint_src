@@ -18,9 +18,18 @@
   oomp:
     footprint_name: lqfp_64_7x7mm_p0_4mm
     library_name: package_qfp
+    md5: 70347a08e62039e6861c0517be2e0a73
+    md5_10: 70347a08e6
+    md5_5: '70347'
+    md5_6: 70347a
+    oomp_key: oomp_kicad_package_qfp_lqfp_64_7x7mm_p0_4mm
+    oomp_key_extra: oomp_footprint_kicad_package_qfp_lqfp_64_7x7mm_p0_4mm
+    oomp_key_full: oomp_footprint_kicad_package_qfp_lqfp_64_7x7mm_p0_4mm_70347a
+    oomp_key_simple: kicad_package_qfp_lqfp_64_7x7mm_p0_4mm
     original_filename: libraries/kicad-footprints/Package_QFP.pretty/LQFP-64_7x7mm_P0.4mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_qfp_lqfp_64_7x7mm_p0_4mm
+  oomp_key_full: oomp_footprint_kicad_package_qfp_lqfp_64_7x7mm_p0_4mm
   oomp_key_simple: kicad_package_qfp_lqfp_64_7x7mm_p0_4mm
   owner: kicad
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: logo_7_06mm_fcu
     library_name: toroid_kicad
+    md5: 0fa16febd0199218ed45c3e66a53f323
+    md5_10: 0fa16febd0
+    md5_5: 0fa16
+    md5_6: 0fa16f
+    oomp_key: oomp_toroid_io_toroid_kicad_logo_7_06mm_fcu
+    oomp_key_extra: oomp_footprint_toroid_io_toroid_kicad_logo_7_06mm_fcu
+    oomp_key_full: oomp_footprint_toroid_io_toroid_kicad_logo_7_06mm_fcu_0fa16f
+    oomp_key_simple: toroid_io_toroid_kicad_logo_7_06mm_fcu
     original_filename: toroid-kicad.pretty/Logo_7_06mm_FCu.kicad_mod
     owner_name: toroid_io
   oomp_key: oomp_toroid_io_toroid_kicad_logo_7_06mm_fcu
+  oomp_key_full: oomp_footprint_toroid_io_toroid_kicad_logo_7_06mm_fcu
   oomp_key_simple: toroid_io_toroid_kicad_logo_7_06mm_fcu
   owner: Toroid-io
   repo:

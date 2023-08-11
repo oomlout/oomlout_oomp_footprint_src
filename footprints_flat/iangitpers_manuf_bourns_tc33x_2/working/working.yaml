@@ -19,9 +19,18 @@
   oomp:
     footprint_name: bourns_tc33x_2
     library_name: manuf
+    md5: 828fbd0bf69bc88cd2d91576b791debd
+    md5_10: 828fbd0bf6
+    md5_5: 828fb
+    md5_6: 828fbd
+    oomp_key: oomp_iangitpers_manuf_bourns_tc33x_2
+    oomp_key_extra: oomp_footprint_iangitpers_manuf_bourns_tc33x_2
+    oomp_key_full: oomp_footprint_iangitpers_manuf_bourns_tc33x_2_828fbd
+    oomp_key_simple: iangitpers_manuf_bourns_tc33x_2
     original_filename: 4a/manuf.pretty/BOURNS-TC33X-2.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_manuf_bourns_tc33x_2
+  oomp_key_full: oomp_footprint_iangitpers_manuf_bourns_tc33x_2
   oomp_key_simple: iangitpers_manuf_bourns_tc33x_2
   owner: Iangitpers
   repo:

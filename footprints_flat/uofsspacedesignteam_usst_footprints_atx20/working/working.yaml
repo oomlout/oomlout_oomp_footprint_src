@@ -17,9 +17,18 @@
   oomp:
     footprint_name: atx20
     library_name: usst_footprints
+    md5: df479741e864953dfaddeaf6fb6af9d9
+    md5_10: df479741e8
+    md5_5: df479
+    md5_6: df4797
+    oomp_key: oomp_uofsspacedesignteam_usst_footprints_atx20
+    oomp_key_extra: oomp_footprint_uofsspacedesignteam_usst_footprints_atx20
+    oomp_key_full: oomp_footprint_uofsspacedesignteam_usst_footprints_atx20_df4797
+    oomp_key_simple: uofsspacedesignteam_usst_footprints_atx20
     original_filename: USST-footprints.pretty/ATX20.kicad_mod
     owner_name: uofsspacedesignteam
   oomp_key: oomp_uofsspacedesignteam_usst_footprints_atx20
+  oomp_key_full: oomp_footprint_uofsspacedesignteam_usst_footprints_atx20
   oomp_key_simple: uofsspacedesignteam_usst_footprints_atx20
   owner: UofSSpaceDesignTeam
   repo:

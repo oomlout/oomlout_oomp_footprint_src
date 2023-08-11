@@ -17,9 +17,18 @@
   oomp:
     footprint_name: soic127p1042x425_20
     library_name: ipc7351_least
+    md5: 918c0df88d4fff8224c7755b25047231
+    md5_10: 918c0df88d
+    md5_5: 918c0
+    md5_6: 918c0d
+    oomp_key: oomp_cpavlina_ipc7351_least_soic127p1042x425_20
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_least_soic127p1042x425_20
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_least_soic127p1042x425_20_918c0d
+    oomp_key_simple: cpavlina_ipc7351_least_soic127p1042x425_20
     original_filename: kicad-pcblib/IPC7351-Least.pretty/SOIC127P1042X425-20.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_least_soic127p1042x425_20
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_least_soic127p1042x425_20
   oomp_key_simple: cpavlina_ipc7351_least_soic127p1042x425_20
   owner: cpavlina
   repo:

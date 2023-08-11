@@ -18,9 +18,18 @@
   oomp:
     footprint_name: dip_6_w10_16mm_longpads
     library_name: package_dip
+    md5: c94fb70041886b5b0360463f22090c53
+    md5_10: c94fb70041
+    md5_5: c94fb
+    md5_6: c94fb7
+    oomp_key: oomp_kicad_package_dip_dip_6_w10_16mm_longpads
+    oomp_key_extra: oomp_footprint_kicad_package_dip_dip_6_w10_16mm_longpads
+    oomp_key_full: oomp_footprint_kicad_package_dip_dip_6_w10_16mm_longpads_c94fb7
+    oomp_key_simple: kicad_package_dip_dip_6_w10_16mm_longpads
     original_filename: libraries/kicad-footprints/Package_DIP.pretty/DIP-6_W10.16mm_LongPads.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_dip_dip_6_w10_16mm_longpads
+  oomp_key_full: oomp_footprint_kicad_package_dip_dip_6_w10_16mm_longpads
   oomp_key_simple: kicad_package_dip_dip_6_w10_16mm_longpads
   owner: kicad
   repo:

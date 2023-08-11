@@ -18,9 +18,18 @@
   oomp:
     footprint_name: texas_s_pdso_n10_ep1_2x2mm
     library_name: package_dfn_qfn
+    md5: 245a086faa2a3067167b5f6be2f48c09
+    md5_10: 245a086faa
+    md5_5: 245a0
+    md5_6: 245a08
+    oomp_key: oomp_kicad_package_dfn_qfn_texas_s_pdso_n10_ep1_2x2mm
+    oomp_key_extra: oomp_footprint_kicad_package_dfn_qfn_texas_s_pdso_n10_ep1_2x2mm
+    oomp_key_full: oomp_footprint_kicad_package_dfn_qfn_texas_s_pdso_n10_ep1_2x2mm_245a08
+    oomp_key_simple: kicad_package_dfn_qfn_texas_s_pdso_n10_ep1_2x2mm
     original_filename: libraries/kicad-footprints/Package_DFN_QFN.pretty/Texas_S-PDSO-N10_EP1.2x2mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_dfn_qfn_texas_s_pdso_n10_ep1_2x2mm
+  oomp_key_full: oomp_footprint_kicad_package_dfn_qfn_texas_s_pdso_n10_ep1_2x2mm
   oomp_key_simple: kicad_package_dfn_qfn_texas_s_pdso_n10_ep1_2x2mm
   owner: kicad
   repo:

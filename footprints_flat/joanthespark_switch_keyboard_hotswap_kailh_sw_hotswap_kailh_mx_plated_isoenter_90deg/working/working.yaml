@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sw_hotswap_kailh_mx_plated_isoenter_90deg
     library_name: switch_keyboard_hotswap_kailh
+    md5: 7740f3607b355b828012b38d4a0526ab
+    md5_10: 7740f3607b
+    md5_5: 7740f
+    md5_6: 7740f3
+    oomp_key: oomp_joanthespark_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_mx_plated_isoenter_90deg
+    oomp_key_extra: oomp_footprint_joanthespark_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_mx_plated_isoenter_90deg
+    oomp_key_full: oomp_footprint_joanthespark_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_mx_plated_isoenter_90deg_7740f3
+    oomp_key_simple: joanthespark_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_mx_plated_isoenter_90deg
     original_filename: KiCAD/6.0/3rdparty/footprints/com_github_perigoso_keyswitch-kicad-library/Switch_Keyboard_Hotswap_Kailh.pretty/SW_Hotswap_Kailh_MX_plated_ISOEnter_90deg.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_mx_plated_isoenter_90deg
+  oomp_key_full: oomp_footprint_joanthespark_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_mx_plated_isoenter_90deg
   oomp_key_simple: joanthespark_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_mx_plated_isoenter_90deg
   owner: JoanTheSpark
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sw_spdt
     library_name: kit_dev_coldfire
+    md5: ef37cd16471a106dc2125bc261566fec
+    md5_10: ef37cd1647
+    md5_5: ef37c
+    md5_6: ef37cd
+    oomp_key: oomp_joanthespark_kit_dev_coldfire_sw_spdt
+    oomp_key_extra: oomp_footprint_joanthespark_kit_dev_coldfire_sw_spdt
+    oomp_key_full: oomp_footprint_joanthespark_kit_dev_coldfire_sw_spdt_ef37cd
+    oomp_key_simple: joanthespark_kit_dev_coldfire_sw_spdt
     original_filename: KiCAD/demos/kit-dev-coldfire-xilinx_5213/kit-dev-coldfire.pretty/SW_SPDT.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_kit_dev_coldfire_sw_spdt
+  oomp_key_full: oomp_footprint_joanthespark_kit_dev_coldfire_sw_spdt
   oomp_key_simple: joanthespark_kit_dev_coldfire_sw_spdt
   owner: JoanTheSpark
   repo:

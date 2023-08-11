@@ -17,9 +17,18 @@
   oomp:
     footprint_name: tor_6p_ht4_smt_6pin_(1109)
     library_name: transformers_wurthelektronik
+    md5: 6d957f86e24e3efd0a4bffe14680932d
+    md5_10: 6d957f86e2
+    md5_5: 6d957
+    md5_6: 6d957f
+    oomp_key: oomp_wurthelectronics_transformers_wurthelektronik_tor_6p_ht4_smt_6pin_(1109)
+    oomp_key_extra: oomp_footprint_wurthelectronics_transformers_wurthelektronik_tor_6p_ht4_smt_6pin_(1109)
+    oomp_key_full: oomp_footprint_wurthelectronics_transformers_wurthelektronik_tor_6p_ht4_smt_6pin_(1109)_6d957f
+    oomp_key_simple: wurthelectronics_transformers_wurthelektronik_tor_6p_ht4_smt_6pin_(1109)
     original_filename: Transformers_WurthElektronik.pretty/TOR-6P-HT4_SMT_6PIN_(1109).kicad_mod
     owner_name: wurthelectronics
   oomp_key: oomp_wurthelectronics_transformers_wurthelektronik_tor_6p_ht4_smt_6pin_(1109)
+  oomp_key_full: oomp_footprint_wurthelectronics_transformers_wurthelektronik_tor_6p_ht4_smt_6pin_(1109)
   oomp_key_simple: wurthelectronics_transformers_wurthelektronik_tor_6p_ht4_smt_6pin_(1109)
   owner: WurthElectronics
   repo:

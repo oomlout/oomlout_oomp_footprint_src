@@ -17,9 +17,18 @@
   oomp:
     footprint_name: usb_c_receptacle_smd_tht
     library_name: crumpprints
+    md5: 7d26e734cde90f38ef2fbf447f4f0eab
+    md5_10: 7d26e734cd
+    md5_5: 7d26e
+    md5_6: 7d26e7
+    oomp_key: oomp_tylercrumpton_crumpprints_usb_c_receptacle_smd_tht
+    oomp_key_extra: oomp_footprint_tylercrumpton_crumpprints_usb_c_receptacle_smd_tht
+    oomp_key_full: oomp_footprint_tylercrumpton_crumpprints_usb_c_receptacle_smd_tht_7d26e7
+    oomp_key_simple: tylercrumpton_crumpprints_usb_c_receptacle_smd_tht
     original_filename: CrumpPrints.pretty/USB_C_Receptacle_SMD_THT.kicad_mod
     owner_name: tylercrumpton
   oomp_key: oomp_tylercrumpton_crumpprints_usb_c_receptacle_smd_tht
+  oomp_key_full: oomp_footprint_tylercrumpton_crumpprints_usb_c_receptacle_smd_tht
   oomp_key_simple: tylercrumpton_crumpprints_usb_c_receptacle_smd_tht
   owner: tylercrumpton
   repo:

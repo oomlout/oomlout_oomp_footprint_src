@@ -18,9 +18,18 @@
   oomp:
     footprint_name: powerpak_so_8_dual
     library_name: package_so
+    md5: eafc419ee16c5c787e91cd1492ac3a78
+    md5_10: eafc419ee1
+    md5_5: eafc4
+    md5_6: eafc41
+    oomp_key: oomp_kicad_package_so_powerpak_so_8_dual
+    oomp_key_extra: oomp_footprint_kicad_package_so_powerpak_so_8_dual
+    oomp_key_full: oomp_footprint_kicad_package_so_powerpak_so_8_dual_eafc41
+    oomp_key_simple: kicad_package_so_powerpak_so_8_dual
     original_filename: libraries/kicad-footprints/Package_SO.pretty/PowerPAK_SO-8_Dual.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_so_powerpak_so_8_dual
+  oomp_key_full: oomp_footprint_kicad_package_so_powerpak_so_8_dual
   oomp_key_simple: kicad_package_so_powerpak_so_8_dual
   owner: kicad
   repo:

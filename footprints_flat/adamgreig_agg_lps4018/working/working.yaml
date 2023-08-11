@@ -17,9 +17,18 @@
   oomp:
     footprint_name: lps4018
     library_name: agg
+    md5: 5ba94797be049f7bcf32bb76c461c2a6
+    md5_10: 5ba94797be
+    md5_5: 5ba94
+    md5_6: 5ba947
+    oomp_key: oomp_adamgreig_agg_lps4018
+    oomp_key_extra: oomp_footprint_adamgreig_agg_lps4018
+    oomp_key_full: oomp_footprint_adamgreig_agg_lps4018_5ba947
+    oomp_key_simple: adamgreig_agg_lps4018
     original_filename: agg-kicad/agg.pretty/LPS4018.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_lps4018
+  oomp_key_full: oomp_footprint_adamgreig_agg_lps4018
   oomp_key_simple: adamgreig_agg_lps4018
   owner: adamgreig
   repo:

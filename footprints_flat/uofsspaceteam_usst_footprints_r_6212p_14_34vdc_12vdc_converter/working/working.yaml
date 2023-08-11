@@ -17,9 +17,18 @@
   oomp:
     footprint_name: r_6212p_14_34vdc_12vdc_converter
     library_name: usst_footprints
+    md5: e8da697194f2bc61b7af9cf52094ff68
+    md5_10: e8da697194
+    md5_5: e8da6
+    md5_6: e8da69
+    oomp_key: oomp_uofsspaceteam_usst_footprints_r_6212p_14_34vdc_12vdc_converter
+    oomp_key_extra: oomp_footprint_uofsspaceteam_usst_footprints_r_6212p_14_34vdc_12vdc_converter
+    oomp_key_full: oomp_footprint_uofsspaceteam_usst_footprints_r_6212p_14_34vdc_12vdc_converter_e8da69
+    oomp_key_simple: uofsspaceteam_usst_footprints_r_6212p_14_34vdc_12vdc_converter
     original_filename: USST-footprints.pretty/R-6212P_14-34VDC-12VDC_Converter.kicad_mod
     owner_name: uofsspaceteam
   oomp_key: oomp_uofsspaceteam_usst_footprints_r_6212p_14_34vdc_12vdc_converter
+  oomp_key_full: oomp_footprint_uofsspaceteam_usst_footprints_r_6212p_14_34vdc_12vdc_converter
   oomp_key_simple: uofsspaceteam_usst_footprints_r_6212p_14_34vdc_12vdc_converter
   owner: UofSSpaceTeam
   repo:

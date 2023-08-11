@@ -17,9 +17,18 @@
   oomp:
     footprint_name: vqfn_20_1ep_4_5x3_5mm_pitch0_5mm_handsoldering
     library_name: housings_vqfn
+    md5: 05ca4a6136a6c014901207bd63206bb8
+    md5_10: 05ca4a6136
+    md5_5: 05ca4
+    md5_6: 05ca4a
+    oomp_key: oomp_kicad_rleh_housings_vqfn_vqfn_20_1ep_4_5x3_5mm_pitch0_5mm_handsoldering
+    oomp_key_extra: oomp_footprint_kicad_rleh_housings_vqfn_vqfn_20_1ep_4_5x3_5mm_pitch0_5mm_handsoldering
+    oomp_key_full: oomp_footprint_kicad_rleh_housings_vqfn_vqfn_20_1ep_4_5x3_5mm_pitch0_5mm_handsoldering_05ca4a
+    oomp_key_simple: kicad_rleh_housings_vqfn_vqfn_20_1ep_4_5x3_5mm_pitch0_5mm_handsoldering
     original_filename: Housings_VQFN.pretty/VQFN-20-1EP_4.5x3.5mm_Pitch0.5mm_HandSoldering.kicad_mod
     owner_name: kicad_rleh
   oomp_key: oomp_kicad_rleh_housings_vqfn_vqfn_20_1ep_4_5x3_5mm_pitch0_5mm_handsoldering
+  oomp_key_full: oomp_footprint_kicad_rleh_housings_vqfn_vqfn_20_1ep_4_5x3_5mm_pitch0_5mm_handsoldering
   oomp_key_simple: kicad_rleh_housings_vqfn_vqfn_20_1ep_4_5x3_5mm_pitch0_5mm_handsoldering
   owner: kicad-rleh
   repo:

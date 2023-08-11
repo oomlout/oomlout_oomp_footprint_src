@@ -17,9 +17,18 @@
   oomp:
     footprint_name: eq161
     library_name: crystal_oscillators
+    md5: d83d4a08f85bc9b8acfb740b346e72e6
+    md5_10: d83d4a08f8
+    md5_5: d83d4
+    md5_6: d83d4a
+    oomp_key: oomp_twam_crystal_oscillators_eq161
+    oomp_key_extra: oomp_footprint_twam_crystal_oscillators_eq161
+    oomp_key_full: oomp_footprint_twam_crystal_oscillators_eq161_d83d4a
+    oomp_key_simple: twam_crystal_oscillators_eq161
     original_filename: Crystal_Oscillators.pretty/EQ161.kicad_mod
     owner_name: twam
   oomp_key: oomp_twam_crystal_oscillators_eq161
+  oomp_key_full: oomp_footprint_twam_crystal_oscillators_eq161
   oomp_key_simple: twam_crystal_oscillators_eq161
   owner: twam
   repo:

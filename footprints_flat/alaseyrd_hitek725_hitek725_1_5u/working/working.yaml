@@ -17,9 +17,18 @@
   oomp:
     footprint_name: hitek725_1_5u
     library_name: hitek725
+    md5: 25d4cefe2c0db80f8872db5180add030
+    md5_10: 25d4cefe2c
+    md5_5: 25d4c
+    md5_6: 25d4ce
+    oomp_key: oomp_alaseyrd_hitek725_hitek725_1_5u
+    oomp_key_extra: oomp_footprint_alaseyrd_hitek725_hitek725_1_5u
+    oomp_key_full: oomp_footprint_alaseyrd_hitek725_hitek725_1_5u_25d4ce
+    oomp_key_simple: alaseyrd_hitek725_hitek725_1_5u
     original_filename: hitek725.pretty/Hitek725-1.5U.kicad_mod
     owner_name: alaseyrd
   oomp_key: oomp_alaseyrd_hitek725_hitek725_1_5u
+  oomp_key_full: oomp_footprint_alaseyrd_hitek725_hitek725_1_5u
   oomp_key_simple: alaseyrd_hitek725_hitek725_1_5u
   owner: AlasEyrd
   repo:

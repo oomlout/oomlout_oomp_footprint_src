@@ -17,9 +17,18 @@
   oomp:
     footprint_name: 1x02
     library_name: freetronics_footprints
+    md5: b648a0924da022362c3fc34cb8bff9d5
+    md5_10: b648a0924d
+    md5_5: b648a
+    md5_6: b648a0
+    oomp_key: oomp_wykys_freetronics_footprints_1x02
+    oomp_key_extra: oomp_footprint_wykys_freetronics_footprints_1x02
+    oomp_key_full: oomp_footprint_wykys_freetronics_footprints_1x02_b648a0
+    oomp_key_simple: wykys_freetronics_footprints_1x02
     original_filename: kicad/mods/freetronics_footprints.pretty/1X02.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_freetronics_footprints_1x02
+  oomp_key_full: oomp_footprint_wykys_freetronics_footprints_1x02
   oomp_key_simple: wykys_freetronics_footprints_1x02
   owner: wykys
   repo:

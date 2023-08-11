@@ -17,9 +17,18 @@
   oomp:
     footprint_name: elite_c
     library_name: keebio_parts
+    md5: 563580c8615661a90e3f483ded730dbb
+    md5_10: 563580c861
+    md5_5: '56358'
+    md5_6: '563580'
+    oomp_key: oomp_keebio_keebio_parts_elite_c
+    oomp_key_extra: oomp_footprint_keebio_keebio_parts_elite_c
+    oomp_key_full: oomp_footprint_keebio_keebio_parts_elite_c_563580
+    oomp_key_simple: keebio_keebio_parts_elite_c
     original_filename: Keebio-Parts.pretty/Elite-C.kicad_mod
     owner_name: keebio
   oomp_key: oomp_keebio_keebio_parts_elite_c
+  oomp_key_full: oomp_footprint_keebio_keebio_parts_elite_c
   oomp_key_simple: keebio_keebio_parts_elite_c
   owner: keebio
   repo:

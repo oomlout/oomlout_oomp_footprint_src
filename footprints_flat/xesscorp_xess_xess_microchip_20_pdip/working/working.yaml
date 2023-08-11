@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_microchip_20_pdip
     library_name: xess
+    md5: 1b061780cc816b51c19cf5ee9f03e49a
+    md5_10: 1b061780cc
+    md5_5: 1b061
+    md5_6: 1b0617
+    oomp_key: oomp_xesscorp_xess_xess_microchip_20_pdip
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_microchip_20_pdip
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_microchip_20_pdip_1b0617
+    oomp_key_simple: xesscorp_xess_xess_microchip_20_pdip
     original_filename: xess.pretty/xess-MICROCHIP-20_PDIP.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_microchip_20_pdip
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_microchip_20_pdip
   oomp_key_simple: xesscorp_xess_xess_microchip_20_pdip
   owner: xesscorp
   repo:

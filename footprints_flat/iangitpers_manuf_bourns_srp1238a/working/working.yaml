@@ -19,9 +19,18 @@
   oomp:
     footprint_name: bourns_srp1238a
     library_name: manuf
+    md5: 6da8e564b5a93007243a4035dffcf531
+    md5_10: 6da8e564b5
+    md5_5: 6da8e
+    md5_6: 6da8e5
+    oomp_key: oomp_iangitpers_manuf_bourns_srp1238a
+    oomp_key_extra: oomp_footprint_iangitpers_manuf_bourns_srp1238a
+    oomp_key_full: oomp_footprint_iangitpers_manuf_bourns_srp1238a_6da8e5
+    oomp_key_simple: iangitpers_manuf_bourns_srp1238a
     original_filename: 4a/manuf.pretty/BOURNS-SRP1238A.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_manuf_bourns_srp1238a
+  oomp_key_full: oomp_footprint_iangitpers_manuf_bourns_srp1238a
   oomp_key_simple: iangitpers_manuf_bourns_srp1238a
   owner: Iangitpers
   repo:

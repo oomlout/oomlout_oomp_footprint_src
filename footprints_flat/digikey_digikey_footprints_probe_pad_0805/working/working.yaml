@@ -17,9 +17,18 @@
   oomp:
     footprint_name: probe_pad_0805
     library_name: digikey_footprints
+    md5: 77aa64696ee4c71da47bffd821deb174
+    md5_10: 77aa64696e
+    md5_5: 77aa6
+    md5_6: 77aa64
+    oomp_key: oomp_digikey_digikey_footprints_probe_pad_0805
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_probe_pad_0805
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_probe_pad_0805_77aa64
+    oomp_key_simple: digikey_digikey_footprints_probe_pad_0805
     original_filename: digikey-kicad-library/digikey-footprints.pretty/PROBE_PAD_0805.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_probe_pad_0805
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_probe_pad_0805
   oomp_key_simple: digikey_digikey_footprints_probe_pad_0805
   owner: digikey
   repo:

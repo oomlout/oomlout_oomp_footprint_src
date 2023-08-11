@@ -17,9 +17,18 @@
   oomp:
     footprint_name: dd21_01xx_1111
     library_name: agg
+    md5: b25eb7f0583a0ca5cf97c34c247efdd6
+    md5_10: b25eb7f058
+    md5_5: b25eb
+    md5_6: b25eb7
+    oomp_key: oomp_adamgreig_agg_dd21_01xx_1111
+    oomp_key_extra: oomp_footprint_adamgreig_agg_dd21_01xx_1111
+    oomp_key_full: oomp_footprint_adamgreig_agg_dd21_01xx_1111_b25eb7
+    oomp_key_simple: adamgreig_agg_dd21_01xx_1111
     original_filename: agg-kicad/agg.pretty/DD21.01xx.1111.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_dd21_01xx_1111
+  oomp_key_full: oomp_footprint_adamgreig_agg_dd21_01xx_1111
   oomp_key_simple: adamgreig_agg_dd21_01xx_1111
   owner: adamgreig
   repo:

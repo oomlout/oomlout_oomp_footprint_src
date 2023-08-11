@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_32x25
     library_name: xess
+    md5: 6dad525758470c5a9b1b3a7f26b8e0a3
+    md5_10: 6dad525758
+    md5_5: 6dad5
+    md5_6: 6dad52
+    oomp_key: oomp_xesscorp_xess_xess_32x25
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_32x25
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_32x25_6dad52
+    oomp_key_simple: xesscorp_xess_xess_32x25
     original_filename: xess.pretty/xess-32X25.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_32x25
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_32x25
   oomp_key_simple: xesscorp_xess_xess_32x25
   owner: xesscorp
   repo:

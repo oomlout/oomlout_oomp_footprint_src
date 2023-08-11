@@ -17,9 +17,18 @@
   oomp:
     footprint_name: fv1206_4
     library_name: agg
+    md5: 6c747ca72b2a6cf29dae41a5aae04d63
+    md5_10: 6c747ca72b
+    md5_5: 6c747
+    md5_6: 6c747c
+    oomp_key: oomp_adamgreig_agg_fv1206_4
+    oomp_key_extra: oomp_footprint_adamgreig_agg_fv1206_4
+    oomp_key_full: oomp_footprint_adamgreig_agg_fv1206_4_6c747c
+    oomp_key_simple: adamgreig_agg_fv1206_4
     original_filename: agg-kicad/agg.pretty/FV1206-4.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_fv1206_4
+  oomp_key_full: oomp_footprint_adamgreig_agg_fv1206_4
   oomp_key_simple: adamgreig_agg_fv1206_4
   owner: adamgreig
   repo:

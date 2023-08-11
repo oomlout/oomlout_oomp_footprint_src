@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_array_tab_row
     library_name: xess
+    md5: d56a4733dea40aa506cff2a1b9aacbc5
+    md5_10: d56a4733de
+    md5_5: d56a4
+    md5_6: d56a47
+    oomp_key: oomp_xesscorp_xess_xess_array_tab_row
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_array_tab_row
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_array_tab_row_d56a47
+    oomp_key_simple: xesscorp_xess_xess_array_tab_row
     original_filename: xess.pretty/xess-ARRAY_TAB_ROW.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_array_tab_row
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_array_tab_row
   oomp_key_simple: xesscorp_xess_xess_array_tab_row
   owner: xesscorp
   repo:

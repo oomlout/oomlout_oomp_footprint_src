@@ -17,9 +17,18 @@
   oomp:
     footprint_name: dfn_10_2x2mm
     library_name: digikey_footprints
+    md5: 1fbf62e44b505e6ffbd37475a62140a9
+    md5_10: 1fbf62e44b
+    md5_5: 1fbf6
+    md5_6: 1fbf62
+    oomp_key: oomp_digikey_digikey_footprints_dfn_10_2x2mm
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_dfn_10_2x2mm
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_dfn_10_2x2mm_1fbf62
+    oomp_key_simple: digikey_digikey_footprints_dfn_10_2x2mm
     original_filename: digikey-kicad-library/digikey-footprints.pretty/DFN-10_2x2mm.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_dfn_10_2x2mm
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_dfn_10_2x2mm
   oomp_key_simple: digikey_digikey_footprints_dfn_10_2x2mm
   owner: digikey
   repo:

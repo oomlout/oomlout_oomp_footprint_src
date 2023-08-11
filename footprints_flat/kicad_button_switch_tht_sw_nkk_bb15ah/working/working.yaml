@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sw_nkk_bb15ah
     library_name: button_switch_tht
+    md5: 3e194e12b9a630a763aea3b6a3ace8d5
+    md5_10: 3e194e12b9
+    md5_5: 3e194
+    md5_6: 3e194e
+    oomp_key: oomp_kicad_button_switch_tht_sw_nkk_bb15ah
+    oomp_key_extra: oomp_footprint_kicad_button_switch_tht_sw_nkk_bb15ah
+    oomp_key_full: oomp_footprint_kicad_button_switch_tht_sw_nkk_bb15ah_3e194e
+    oomp_key_simple: kicad_button_switch_tht_sw_nkk_bb15ah
     original_filename: libraries/kicad-footprints/Button_Switch_THT.pretty/SW_NKK_BB15AH.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_button_switch_tht_sw_nkk_bb15ah
+  oomp_key_full: oomp_footprint_kicad_button_switch_tht_sw_nkk_bb15ah
   oomp_key_simple: kicad_button_switch_tht_sw_nkk_bb15ah
   owner: kicad
   repo:

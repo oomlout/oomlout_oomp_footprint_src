@@ -17,9 +17,18 @@
   oomp:
     footprint_name: smb_do_214aa
     library_name: apex
+    md5: 6183166d690c5b24e1374ca09751ec4d
+    md5_10: 6183166d69
+    md5_5: '61831'
+    md5_6: '618316'
+    oomp_key: oomp_apexelectrix_apex_smb_do_214aa
+    oomp_key_extra: oomp_footprint_apexelectrix_apex_smb_do_214aa
+    oomp_key_full: oomp_footprint_apexelectrix_apex_smb_do_214aa_618316
+    oomp_key_simple: apexelectrix_apex_smb_do_214aa
     original_filename: Apex.pretty/SMB_DO-214AA.kicad_mod
     owner_name: apexelectrix
   oomp_key: oomp_apexelectrix_apex_smb_do_214aa
+  oomp_key_full: oomp_footprint_apexelectrix_apex_smb_do_214aa
   oomp_key_simple: apexelectrix_apex_smb_do_214aa
   owner: apexelectrix
   repo:

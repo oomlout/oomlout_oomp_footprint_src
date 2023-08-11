@@ -17,9 +17,18 @@
   oomp:
     footprint_name: to_220_3_vertical
     library_name: package_to_sot_tht
+    md5: b60bbd6ed5578d004b4a42f259e84332
+    md5_10: b60bbd6ed5
+    md5_5: b60bb
+    md5_6: b60bbd
+    oomp_key: oomp_kicad_package_to_sot_tht_to_220_3_vertical
+    oomp_key_extra: oomp_footprint_kicad_package_to_sot_tht_to_220_3_vertical
+    oomp_key_full: oomp_footprint_kicad_package_to_sot_tht_to_220_3_vertical_b60bbd
+    oomp_key_simple: kicad_package_to_sot_tht_to_220_3_vertical
     original_filename: libraries/kicad-footprints/Package_TO_SOT_THT.pretty/TO-220-3_Vertical.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_to_sot_tht_to_220_3_vertical
+  oomp_key_full: oomp_footprint_kicad_package_to_sot_tht_to_220_3_vertical
   oomp_key_simple: kicad_package_to_sot_tht_to_220_3_vertical
   owner: kicad
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: pinheader_2x05_p2_54mm_vertical_eurorackpower
     library_name: jwm_kicad_footprints_misc
+    md5: 2c6431b52a0f311955fff4ba419896c9
+    md5_10: 2c6431b52a
+    md5_5: 2c643
+    md5_6: 2c6431
+    oomp_key: oomp_joem_jwm_kicad_footprints_misc_pinheader_2x05_p2_54mm_vertical_eurorackpower
+    oomp_key_extra: oomp_footprint_joem_jwm_kicad_footprints_misc_pinheader_2x05_p2_54mm_vertical_eurorackpower
+    oomp_key_full: oomp_footprint_joem_jwm_kicad_footprints_misc_pinheader_2x05_p2_54mm_vertical_eurorackpower_2c6431
+    oomp_key_simple: joem_jwm_kicad_footprints_misc_pinheader_2x05_p2_54mm_vertical_eurorackpower
     original_filename: jwm_kicad_footprints_misc.pretty/PinHeader_2x05_P2.54mm_Vertical_EurorackPower.kicad_mod
     owner_name: joem
   oomp_key: oomp_joem_jwm_kicad_footprints_misc_pinheader_2x05_p2_54mm_vertical_eurorackpower
+  oomp_key_full: oomp_footprint_joem_jwm_kicad_footprints_misc_pinheader_2x05_p2_54mm_vertical_eurorackpower
   oomp_key_simple: joem_jwm_kicad_footprints_misc_pinheader_2x05_p2_54mm_vertical_eurorackpower
   owner: joem
   repo:

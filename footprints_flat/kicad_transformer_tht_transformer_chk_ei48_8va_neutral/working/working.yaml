@@ -17,9 +17,18 @@
   oomp:
     footprint_name: transformer_chk_ei48_8va_neutral
     library_name: transformer_tht
+    md5: a85df6d3342abb2e8cc3e344bdea65e1
+    md5_10: a85df6d334
+    md5_5: a85df
+    md5_6: a85df6
+    oomp_key: oomp_kicad_transformer_tht_transformer_chk_ei48_8va_neutral
+    oomp_key_extra: oomp_footprint_kicad_transformer_tht_transformer_chk_ei48_8va_neutral
+    oomp_key_full: oomp_footprint_kicad_transformer_tht_transformer_chk_ei48_8va_neutral_a85df6
+    oomp_key_simple: kicad_transformer_tht_transformer_chk_ei48_8va_neutral
     original_filename: libraries/kicad-footprints/Transformer_THT.pretty/Transformer_CHK_EI48-8VA_Neutral.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_transformer_tht_transformer_chk_ei48_8va_neutral
+  oomp_key_full: oomp_footprint_kicad_transformer_tht_transformer_chk_ei48_8va_neutral
   oomp_key_simple: kicad_transformer_tht_transformer_chk_ei48_8va_neutral
   owner: kicad
   repo:

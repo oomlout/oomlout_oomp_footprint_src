@@ -17,9 +17,18 @@
   oomp:
     footprint_name: trrs_jack
     library_name: keebio_parts
+    md5: 93fd2d6e6fcdc8d32c9947d61ee07d98
+    md5_10: 93fd2d6e6f
+    md5_5: 93fd2
+    md5_6: 93fd2d
+    oomp_key: oomp_keebio_keebio_parts_trrs_jack
+    oomp_key_extra: oomp_footprint_keebio_keebio_parts_trrs_jack
+    oomp_key_full: oomp_footprint_keebio_keebio_parts_trrs_jack_93fd2d
+    oomp_key_simple: keebio_keebio_parts_trrs_jack
     original_filename: Keebio-Parts.pretty/TRRS_Jack.kicad_mod
     owner_name: keebio
   oomp_key: oomp_keebio_keebio_parts_trrs_jack
+  oomp_key_full: oomp_footprint_keebio_keebio_parts_trrs_jack
   oomp_key_simple: keebio_keebio_parts_trrs_jack
   owner: keebio
   repo:

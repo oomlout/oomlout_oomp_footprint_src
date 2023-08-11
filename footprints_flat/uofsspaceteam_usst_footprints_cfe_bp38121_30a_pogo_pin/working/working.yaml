@@ -17,9 +17,18 @@
   oomp:
     footprint_name: cfe_bp38121_30a_pogo_pin
     library_name: usst_footprints
+    md5: 5209d27f4b001890667b2ee60afd3b2f
+    md5_10: 5209d27f4b
+    md5_5: 5209d
+    md5_6: 5209d2
+    oomp_key: oomp_uofsspaceteam_usst_footprints_cfe_bp38121_30a_pogo_pin
+    oomp_key_extra: oomp_footprint_uofsspaceteam_usst_footprints_cfe_bp38121_30a_pogo_pin
+    oomp_key_full: oomp_footprint_uofsspaceteam_usst_footprints_cfe_bp38121_30a_pogo_pin_5209d2
+    oomp_key_simple: uofsspaceteam_usst_footprints_cfe_bp38121_30a_pogo_pin
     original_filename: USST-footprints.pretty/CFE_BP38121_30A_pogo_pin.kicad_mod
     owner_name: uofsspaceteam
   oomp_key: oomp_uofsspaceteam_usst_footprints_cfe_bp38121_30a_pogo_pin
+  oomp_key_full: oomp_footprint_uofsspaceteam_usst_footprints_cfe_bp38121_30a_pogo_pin
   oomp_key_simple: uofsspaceteam_usst_footprints_cfe_bp38121_30a_pogo_pin
   owner: UofSSpaceTeam
   repo:

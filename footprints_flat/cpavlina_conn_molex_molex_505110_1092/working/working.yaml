@@ -17,9 +17,18 @@
   oomp:
     footprint_name: molex_505110_1092
     library_name: conn_molex
+    md5: d469a13a7f3d1753842f25f7527bd64e
+    md5_10: d469a13a7f
+    md5_5: d469a
+    md5_6: d469a1
+    oomp_key: oomp_cpavlina_conn_molex_molex_505110_1092
+    oomp_key_extra: oomp_footprint_cpavlina_conn_molex_molex_505110_1092
+    oomp_key_full: oomp_footprint_cpavlina_conn_molex_molex_505110_1092_d469a1
+    oomp_key_simple: cpavlina_conn_molex_molex_505110_1092
     original_filename: kicad-pcblib/conn-molex.pretty/MOLEX_505110-1092.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_conn_molex_molex_505110_1092
+  oomp_key_full: oomp_footprint_cpavlina_conn_molex_molex_505110_1092
   oomp_key_simple: cpavlina_conn_molex_molex_505110_1092
   owner: cpavlina
   repo:

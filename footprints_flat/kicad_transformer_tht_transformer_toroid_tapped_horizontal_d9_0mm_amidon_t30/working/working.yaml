@@ -18,9 +18,18 @@
   oomp:
     footprint_name: transformer_toroid_tapped_horizontal_d9_0mm_amidon_t30
     library_name: transformer_tht
+    md5: 83994f179938eb41a8add98612be8042
+    md5_10: 83994f1799
+    md5_5: '83994'
+    md5_6: 83994f
+    oomp_key: oomp_kicad_transformer_tht_transformer_toroid_tapped_horizontal_d9_0mm_amidon_t30
+    oomp_key_extra: oomp_footprint_kicad_transformer_tht_transformer_toroid_tapped_horizontal_d9_0mm_amidon_t30
+    oomp_key_full: oomp_footprint_kicad_transformer_tht_transformer_toroid_tapped_horizontal_d9_0mm_amidon_t30_83994f
+    oomp_key_simple: kicad_transformer_tht_transformer_toroid_tapped_horizontal_d9_0mm_amidon_t30
     original_filename: libraries/kicad-footprints/Transformer_THT.pretty/Transformer_Toroid_Tapped_Horizontal_D9.0mm_Amidon-T30.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_transformer_tht_transformer_toroid_tapped_horizontal_d9_0mm_amidon_t30
+  oomp_key_full: oomp_footprint_kicad_transformer_tht_transformer_toroid_tapped_horizontal_d9_0mm_amidon_t30
   oomp_key_simple: kicad_transformer_tht_transformer_toroid_tapped_horizontal_d9_0mm_amidon_t30
   owner: kicad
   repo:

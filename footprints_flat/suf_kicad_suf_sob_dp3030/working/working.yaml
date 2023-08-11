@@ -17,9 +17,18 @@
   oomp:
     footprint_name: dp3030
     library_name: suf_sob
+    md5: b0affda2d163e8780f93b74db1ec4f22
+    md5_10: b0affda2d1
+    md5_5: b0aff
+    md5_6: b0affd
+    oomp_key: oomp_suf_kicad_suf_sob_dp3030
+    oomp_key_extra: oomp_footprint_suf_kicad_suf_sob_dp3030
+    oomp_key_full: oomp_footprint_suf_kicad_suf_sob_dp3030_b0affd
+    oomp_key_simple: suf_kicad_suf_sob_dp3030
     original_filename: suf_sob.pretty/DP3030.kicad_mod
     owner_name: suf_kicad
   oomp_key: oomp_suf_kicad_suf_sob_dp3030
+  oomp_key_full: oomp_footprint_suf_kicad_suf_sob_dp3030
   oomp_key_simple: suf_kicad_suf_sob_dp3030
   owner: suf-KiCAD
   repo:

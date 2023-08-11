@@ -17,9 +17,18 @@
   oomp:
     footprint_name: mountinghole_2_2mm_m2_iso7380_pad
     library_name: mountinghole
+    md5: 5835bdbf98196984124f5f09df83a0a0
+    md5_10: 5835bdbf98
+    md5_5: 5835b
+    md5_6: 5835bd
+    oomp_key: oomp_kicad_mountinghole_mountinghole_2_2mm_m2_iso7380_pad
+    oomp_key_extra: oomp_footprint_kicad_mountinghole_mountinghole_2_2mm_m2_iso7380_pad
+    oomp_key_full: oomp_footprint_kicad_mountinghole_mountinghole_2_2mm_m2_iso7380_pad_5835bd
+    oomp_key_simple: kicad_mountinghole_mountinghole_2_2mm_m2_iso7380_pad
     original_filename: libraries/kicad-footprints/MountingHole.pretty/MountingHole_2.2mm_M2_ISO7380_Pad.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_mountinghole_mountinghole_2_2mm_m2_iso7380_pad
+  oomp_key_full: oomp_footprint_kicad_mountinghole_mountinghole_2_2mm_m2_iso7380_pad
   oomp_key_simple: kicad_mountinghole_mountinghole_2_2mm_m2_iso7380_pad
   owner: kicad
   repo:

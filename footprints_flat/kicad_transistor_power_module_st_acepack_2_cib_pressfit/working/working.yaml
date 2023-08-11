@@ -17,9 +17,18 @@
   oomp:
     footprint_name: st_acepack_2_cib_pressfit
     library_name: transistor_power_module
+    md5: e16ee056c6fd1327ef23afb6068581cb
+    md5_10: e16ee056c6
+    md5_5: e16ee
+    md5_6: e16ee0
+    oomp_key: oomp_kicad_transistor_power_module_st_acepack_2_cib_pressfit
+    oomp_key_extra: oomp_footprint_kicad_transistor_power_module_st_acepack_2_cib_pressfit
+    oomp_key_full: oomp_footprint_kicad_transistor_power_module_st_acepack_2_cib_pressfit_e16ee0
+    oomp_key_simple: kicad_transistor_power_module_st_acepack_2_cib_pressfit
     original_filename: libraries/kicad-footprints/Transistor_Power_Module.pretty/ST_ACEPACK-2-CIB_PressFIT.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_transistor_power_module_st_acepack_2_cib_pressfit
+  oomp_key_full: oomp_footprint_kicad_transistor_power_module_st_acepack_2_cib_pressfit
   oomp_key_simple: kicad_transistor_power_module_st_acepack_2_cib_pressfit
   owner: kicad
   repo:

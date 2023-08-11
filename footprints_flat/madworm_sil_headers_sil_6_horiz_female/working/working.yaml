@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sil_6_horiz_female
     library_name: sil_headers
+    md5: 341107472f9cfc876e8655468e8e2996
+    md5_10: 341107472f
+    md5_5: '34110'
+    md5_6: '341107'
+    oomp_key: oomp_madworm_sil_headers_sil_6_horiz_female
+    oomp_key_extra: oomp_footprint_madworm_sil_headers_sil_6_horiz_female
+    oomp_key_full: oomp_footprint_madworm_sil_headers_sil_6_horiz_female_341107
+    oomp_key_simple: madworm_sil_headers_sil_6_horiz_female
     original_filename: SIL-Headers.pretty/SIL-6_horiz_female.kicad_mod
     owner_name: madworm
   oomp_key: oomp_madworm_sil_headers_sil_6_horiz_female
+  oomp_key_full: oomp_footprint_madworm_sil_headers_sil_6_horiz_female
   oomp_key_simple: madworm_sil_headers_sil_6_horiz_female
   owner: madworm
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: led_3mm
     library_name: freetronics_footprints
+    md5: b530477758bffeb5301089dd0b3f3f38
+    md5_10: b530477758
+    md5_5: b5304
+    md5_6: b53047
+    oomp_key: oomp_joanthespark_freetronics_footprints_led_3mm
+    oomp_key_extra: oomp_footprint_joanthespark_freetronics_footprints_led_3mm
+    oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_led_3mm_b53047
+    oomp_key_simple: joanthespark_freetronics_footprints_led_3mm
     original_filename: KiCAD/mods/freetronics_footprints.pretty/LED-3MM.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_freetronics_footprints_led_3mm
+  oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_led_3mm
   oomp_key_simple: joanthespark_freetronics_footprints_led_3mm
   owner: JoanTheSpark
   repo:

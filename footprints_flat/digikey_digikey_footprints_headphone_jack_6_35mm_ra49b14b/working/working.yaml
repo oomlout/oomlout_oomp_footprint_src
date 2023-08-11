@@ -17,9 +17,18 @@
   oomp:
     footprint_name: headphone_jack_6_35mm_ra49b14b
     library_name: digikey_footprints
+    md5: 090be42908e2891144e068d3cbabd1d7
+    md5_10: 090be42908
+    md5_5: 090be
+    md5_6: 090be4
+    oomp_key: oomp_digikey_digikey_footprints_headphone_jack_6_35mm_ra49b14b
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_headphone_jack_6_35mm_ra49b14b
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_headphone_jack_6_35mm_ra49b14b_090be4
+    oomp_key_simple: digikey_digikey_footprints_headphone_jack_6_35mm_ra49b14b
     original_filename: digikey-kicad-library/digikey-footprints.pretty/Headphone_Jack_6.35mm_RA49B14B.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_headphone_jack_6_35mm_ra49b14b
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_headphone_jack_6_35mm_ra49b14b
   oomp_key_simple: digikey_digikey_footprints_headphone_jack_6_35mm_ra49b14b
   owner: digikey
   repo:

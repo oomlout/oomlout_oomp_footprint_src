@@ -17,9 +17,18 @@
   oomp:
     footprint_name: led_0603
     library_name: digikey_footprints
+    md5: 9bb1d8d399cafb19d7299ad75dab6c3a
+    md5_10: 9bb1d8d399
+    md5_5: 9bb1d
+    md5_6: 9bb1d8
+    oomp_key: oomp_digikey_digikey_footprints_led_0603
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_led_0603
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_led_0603_9bb1d8
+    oomp_key_simple: digikey_digikey_footprints_led_0603
     original_filename: digikey-kicad-library/digikey-footprints.pretty/LED_0603.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_led_0603
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_led_0603
   oomp_key_simple: digikey_digikey_footprints_led_0603
   owner: digikey
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: fci_10132798_021100lf
     library_name: conn_fci
+    md5: ceb735d0c3509b2036cab2a041954dc2
+    md5_10: ceb735d0c3
+    md5_5: ceb73
+    md5_6: ceb735
+    oomp_key: oomp_cpavlina_conn_fci_fci_10132798_021100lf
+    oomp_key_extra: oomp_footprint_cpavlina_conn_fci_fci_10132798_021100lf
+    oomp_key_full: oomp_footprint_cpavlina_conn_fci_fci_10132798_021100lf_ceb735
+    oomp_key_simple: cpavlina_conn_fci_fci_10132798_021100lf
     original_filename: kicad-pcblib/conn-fci.pretty/FCI_10132798-021100LF.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_conn_fci_fci_10132798_021100lf
+  oomp_key_full: oomp_footprint_cpavlina_conn_fci_fci_10132798_021100lf
   oomp_key_simple: cpavlina_conn_fci_fci_10132798_021100lf
   owner: cpavlina
   repo:

@@ -18,9 +18,18 @@
   oomp:
     footprint_name: qfn65p900x900x80_49w
     library_name: ipc7351_least
+    md5: 8e72dd7bca62e6424dc371969bb9cdfe
+    md5_10: 8e72dd7bca
+    md5_5: 8e72d
+    md5_6: 8e72dd
+    oomp_key: oomp_cpavlina_ipc7351_least_qfn65p900x900x80_49w
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_least_qfn65p900x900x80_49w
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_least_qfn65p900x900x80_49w_8e72dd
+    oomp_key_simple: cpavlina_ipc7351_least_qfn65p900x900x80_49w
     original_filename: kicad-pcblib/IPC7351-Least.pretty/QFN65P900X900X80-49W.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_least_qfn65p900x900x80_49w
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_least_qfn65p900x900x80_49w
   oomp_key_simple: cpavlina_ipc7351_least_qfn65p900x900x80_49w
   owner: cpavlina
   repo:

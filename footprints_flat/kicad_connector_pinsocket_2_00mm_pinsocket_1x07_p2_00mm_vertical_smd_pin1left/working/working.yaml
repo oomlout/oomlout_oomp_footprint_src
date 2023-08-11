@@ -19,9 +19,18 @@
   oomp:
     footprint_name: pinsocket_1x07_p2_00mm_vertical_smd_pin1left
     library_name: connector_pinsocket_2_00mm
+    md5: 9bb53f3befa51167009c1e35e092cb5f
+    md5_10: 9bb53f3bef
+    md5_5: 9bb53
+    md5_6: 9bb53f
+    oomp_key: oomp_kicad_connector_pinsocket_2_00mm_pinsocket_1x07_p2_00mm_vertical_smd_pin1left
+    oomp_key_extra: oomp_footprint_kicad_connector_pinsocket_2_00mm_pinsocket_1x07_p2_00mm_vertical_smd_pin1left
+    oomp_key_full: oomp_footprint_kicad_connector_pinsocket_2_00mm_pinsocket_1x07_p2_00mm_vertical_smd_pin1left_9bb53f
+    oomp_key_simple: kicad_connector_pinsocket_2_00mm_pinsocket_1x07_p2_00mm_vertical_smd_pin1left
     original_filename: libraries/kicad-footprints/Connector_PinSocket_2.00mm.pretty/PinSocket_1x07_P2.00mm_Vertical_SMD_Pin1Left.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_pinsocket_2_00mm_pinsocket_1x07_p2_00mm_vertical_smd_pin1left
+  oomp_key_full: oomp_footprint_kicad_connector_pinsocket_2_00mm_pinsocket_1x07_p2_00mm_vertical_smd_pin1left
   oomp_key_simple: kicad_connector_pinsocket_2_00mm_pinsocket_1x07_p2_00mm_vertical_smd_pin1left
   owner: kicad
   repo:

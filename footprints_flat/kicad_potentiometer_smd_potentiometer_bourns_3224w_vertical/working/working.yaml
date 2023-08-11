@@ -17,9 +17,18 @@
   oomp:
     footprint_name: potentiometer_bourns_3224w_vertical
     library_name: potentiometer_smd
+    md5: 3833b1798ae0537f30bf3180c827ed94
+    md5_10: 3833b1798a
+    md5_5: 3833b
+    md5_6: 3833b1
+    oomp_key: oomp_kicad_potentiometer_smd_potentiometer_bourns_3224w_vertical
+    oomp_key_extra: oomp_footprint_kicad_potentiometer_smd_potentiometer_bourns_3224w_vertical
+    oomp_key_full: oomp_footprint_kicad_potentiometer_smd_potentiometer_bourns_3224w_vertical_3833b1
+    oomp_key_simple: kicad_potentiometer_smd_potentiometer_bourns_3224w_vertical
     original_filename: libraries/kicad-footprints/Potentiometer_SMD.pretty/Potentiometer_Bourns_3224W_Vertical.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_potentiometer_smd_potentiometer_bourns_3224w_vertical
+  oomp_key_full: oomp_footprint_kicad_potentiometer_smd_potentiometer_bourns_3224w_vertical
   oomp_key_simple: kicad_potentiometer_smd_potentiometer_bourns_3224w_vertical
   owner: kicad
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sj_wide
     library_name: freetronics_footprints
+    md5: 4fd6d4a39b6d2f57d5574f5be337bdd6
+    md5_10: 4fd6d4a39b
+    md5_5: 4fd6d
+    md5_6: 4fd6d4
+    oomp_key: oomp_joanthespark_freetronics_footprints_sj_wide
+    oomp_key_extra: oomp_footprint_joanthespark_freetronics_footprints_sj_wide
+    oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_sj_wide_4fd6d4
+    oomp_key_simple: joanthespark_freetronics_footprints_sj_wide
     original_filename: KiCAD/mods/freetronics_footprints.pretty/SJ_WIDE.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_freetronics_footprints_sj_wide
+  oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_sj_wide
   oomp_key_simple: joanthespark_freetronics_footprints_sj_wide
   owner: JoanTheSpark
   repo:

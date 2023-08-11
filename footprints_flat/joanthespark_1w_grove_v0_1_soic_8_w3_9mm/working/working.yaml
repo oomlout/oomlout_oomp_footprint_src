@@ -17,9 +17,18 @@
   oomp:
     footprint_name: soic_8_w3_9mm
     library_name: 1w_grove_v0_1
+    md5: a707380d86aaf01b2926b489079dcdb1
+    md5_10: a707380d86
+    md5_5: a7073
+    md5_6: a70738
+    oomp_key: oomp_joanthespark_1w_grove_v0_1_soic_8_w3_9mm
+    oomp_key_extra: oomp_footprint_joanthespark_1w_grove_v0_1_soic_8_w3_9mm
+    oomp_key_full: oomp_footprint_joanthespark_1w_grove_v0_1_soic_8_w3_9mm_a70738
+    oomp_key_simple: joanthespark_1w_grove_v0_1_soic_8_w3_9mm
     original_filename: KiCAD/6.0/projects/1w-grove-v0.1/1w-grove-v0.1.pretty/SOIC-8_W3.9mm.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_1w_grove_v0_1_soic_8_w3_9mm
+  oomp_key_full: oomp_footprint_joanthespark_1w_grove_v0_1_soic_8_w3_9mm
   oomp_key_simple: joanthespark_1w_grove_v0_1_soic_8_w3_9mm
   owner: JoanTheSpark
   repo:

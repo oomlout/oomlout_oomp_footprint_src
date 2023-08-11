@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sip9_housing
     library_name: package_sip
+    md5: bda705beeae71a83c730ef16150bee35
+    md5_10: bda705beea
+    md5_5: bda70
+    md5_6: bda705
+    oomp_key: oomp_kicad_package_sip_sip9_housing
+    oomp_key_extra: oomp_footprint_kicad_package_sip_sip9_housing
+    oomp_key_full: oomp_footprint_kicad_package_sip_sip9_housing_bda705
+    oomp_key_simple: kicad_package_sip_sip9_housing
     original_filename: libraries/kicad-footprints/Package_SIP.pretty/SIP9_Housing.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_sip_sip9_housing
+  oomp_key_full: oomp_footprint_kicad_package_sip_sip9_housing
   oomp_key_simple: kicad_package_sip_sip9_housing
   owner: kicad
   repo:

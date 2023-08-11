@@ -17,9 +17,18 @@
   oomp:
     footprint_name: rf_module_com_13909
     library_name: digikey_footprints
+    md5: 7a4059ee054cefe9473efd5487811394
+    md5_10: 7a4059ee05
+    md5_5: 7a405
+    md5_6: 7a4059
+    oomp_key: oomp_digikey_digikey_footprints_rf_module_com_13909
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_rf_module_com_13909
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_rf_module_com_13909_7a4059
+    oomp_key_simple: digikey_digikey_footprints_rf_module_com_13909
     original_filename: digikey-kicad-library/digikey-footprints.pretty/RF_Module_COM-13909.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_rf_module_com_13909
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_rf_module_com_13909
   oomp_key_simple: digikey_digikey_footprints_rf_module_com_13909
   owner: digikey
   repo:

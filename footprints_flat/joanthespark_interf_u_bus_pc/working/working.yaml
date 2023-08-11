@@ -17,9 +17,18 @@
   oomp:
     footprint_name: bus_pc
     library_name: interf_u
+    md5: c8a456f8b657df1d8bb3d7f2e7326f68
+    md5_10: c8a456f8b6
+    md5_5: c8a45
+    md5_6: c8a456
+    oomp_key: oomp_joanthespark_interf_u_bus_pc
+    oomp_key_extra: oomp_footprint_joanthespark_interf_u_bus_pc
+    oomp_key_full: oomp_footprint_joanthespark_interf_u_bus_pc_c8a456
+    oomp_key_simple: joanthespark_interf_u_bus_pc
     original_filename: KiCAD/demos/interf_u/interf_u.pretty/BUS_PC.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_interf_u_bus_pc
+  oomp_key_full: oomp_footprint_joanthespark_interf_u_bus_pc
   oomp_key_simple: joanthespark_interf_u_bus_pc
   owner: JoanTheSpark
   repo:

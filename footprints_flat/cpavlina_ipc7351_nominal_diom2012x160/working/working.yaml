@@ -17,9 +17,18 @@
   oomp:
     footprint_name: diom2012x160
     library_name: ipc7351_nominal
+    md5: 716e267e23b496fc8478d0730abd5e93
+    md5_10: 716e267e23
+    md5_5: 716e2
+    md5_6: 716e26
+    oomp_key: oomp_cpavlina_ipc7351_nominal_diom2012x160
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_nominal_diom2012x160
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_diom2012x160_716e26
+    oomp_key_simple: cpavlina_ipc7351_nominal_diom2012x160
     original_filename: kicad-pcblib/IPC7351-Nominal.pretty/DIOM2012X160.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_nominal_diom2012x160
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_diom2012x160
   oomp_key_simple: cpavlina_ipc7351_nominal_diom2012x160
   owner: cpavlina
   repo:

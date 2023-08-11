@@ -17,9 +17,18 @@
   oomp:
     footprint_name: mx300h
     library_name: acheron_mxh_metalrings
+    md5: 6607633c400dca74fdfbeb6f5e784736
+    md5_10: 6607633c40
+    md5_5: '66076'
+    md5_6: '660763'
+    oomp_key: oomp_acheronproject_acheron_mxh_metalrings_mx300h
+    oomp_key_extra: oomp_footprint_acheronproject_acheron_mxh_metalrings_mx300h
+    oomp_key_full: oomp_footprint_acheronproject_acheron_mxh_metalrings_mx300h_660763
+    oomp_key_simple: acheronproject_acheron_mxh_metalrings_mx300h
     original_filename: acheron_MXH_metalrings.pretty/MX300H.kicad_mod
     owner_name: acheronproject
   oomp_key: oomp_acheronproject_acheron_mxh_metalrings_mx300h
+  oomp_key_full: oomp_footprint_acheronproject_acheron_mxh_metalrings_mx300h
   oomp_key_simple: acheronproject_acheron_mxh_metalrings_mx300h
   owner: AcheronProject
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: transformer_nf_etal_p3191_handsoldering
     library_name: transformer_smd
+    md5: 321e0c3afa7af0105ec910d44ec56608
+    md5_10: 321e0c3afa
+    md5_5: 321e0
+    md5_6: 321e0c
+    oomp_key: oomp_kicad_transformer_smd_transformer_nf_etal_p3191_handsoldering
+    oomp_key_extra: oomp_footprint_kicad_transformer_smd_transformer_nf_etal_p3191_handsoldering
+    oomp_key_full: oomp_footprint_kicad_transformer_smd_transformer_nf_etal_p3191_handsoldering_321e0c
+    oomp_key_simple: kicad_transformer_smd_transformer_nf_etal_p3191_handsoldering
     original_filename: libraries/kicad-footprints/Transformer_SMD.pretty/Transformer_NF_ETAL_P3191_HandSoldering.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_transformer_smd_transformer_nf_etal_p3191_handsoldering
+  oomp_key_full: oomp_footprint_kicad_transformer_smd_transformer_nf_etal_p3191_handsoldering
   oomp_key_simple: kicad_transformer_smd_transformer_nf_etal_p3191_handsoldering
   owner: kicad
   repo:

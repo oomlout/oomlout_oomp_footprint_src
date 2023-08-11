@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_if_d95
     library_name: xess
+    md5: 4390a0f894fba1dc0f3f3a7f3a291ed8
+    md5_10: 4390a0f894
+    md5_5: 4390a
+    md5_6: 4390a0
+    oomp_key: oomp_xesscorp_xess_xess_if_d95
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_if_d95
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_if_d95_4390a0
+    oomp_key_simple: xesscorp_xess_xess_if_d95
     original_filename: xess.pretty/xess-IF-D95.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_if_d95
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_if_d95
   oomp_key_simple: xesscorp_xess_xess_if_d95
   owner: xesscorp
   repo:

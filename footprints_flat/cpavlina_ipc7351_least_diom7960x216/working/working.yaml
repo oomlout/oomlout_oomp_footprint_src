@@ -17,9 +17,18 @@
   oomp:
     footprint_name: diom7960x216
     library_name: ipc7351_least
+    md5: c7e1ce873a0f28cf89ac037616f40f88
+    md5_10: c7e1ce873a
+    md5_5: c7e1c
+    md5_6: c7e1ce
+    oomp_key: oomp_cpavlina_ipc7351_least_diom7960x216
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_least_diom7960x216
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_least_diom7960x216_c7e1ce
+    oomp_key_simple: cpavlina_ipc7351_least_diom7960x216
     original_filename: kicad-pcblib/IPC7351-Least.pretty/DIOM7960X216.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_least_diom7960x216
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_least_diom7960x216
   oomp_key_simple: cpavlina_ipc7351_least_diom7960x216
   owner: cpavlina
   repo:

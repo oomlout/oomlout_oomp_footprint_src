@@ -17,9 +17,18 @@
   oomp:
     footprint_name: usb_c_receptacle_palconn_utc16_g
     library_name: connector_usb
+    md5: 79ff893b10dad57b2a25e5915fc00f0b
+    md5_10: 79ff893b10
+    md5_5: 79ff8
+    md5_6: 79ff89
+    oomp_key: oomp_kicad_connector_usb_usb_c_receptacle_palconn_utc16_g
+    oomp_key_extra: oomp_footprint_kicad_connector_usb_usb_c_receptacle_palconn_utc16_g
+    oomp_key_full: oomp_footprint_kicad_connector_usb_usb_c_receptacle_palconn_utc16_g_79ff89
+    oomp_key_simple: kicad_connector_usb_usb_c_receptacle_palconn_utc16_g
     original_filename: libraries/kicad-footprints/Connector_USB.pretty/USB_C_Receptacle_Palconn_UTC16-G.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_usb_usb_c_receptacle_palconn_utc16_g
+  oomp_key_full: oomp_footprint_kicad_connector_usb_usb_c_receptacle_palconn_utc16_g
   oomp_key_simple: kicad_connector_usb_usb_c_receptacle_palconn_utc16_g
   owner: kicad
   repo:

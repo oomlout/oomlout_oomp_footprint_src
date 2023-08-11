@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_do214aa
     library_name: xess
+    md5: 9cdcec60f6068d6d058abfe8c0d11b58
+    md5_10: 9cdcec60f6
+    md5_5: 9cdce
+    md5_6: 9cdcec
+    oomp_key: oomp_xesscorp_xess_xess_do214aa
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_do214aa
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_do214aa_9cdcec
+    oomp_key_simple: xesscorp_xess_xess_do214aa
     original_filename: xess.pretty/xess-DO214AA.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_do214aa
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_do214aa
   oomp_key_simple: xesscorp_xess_xess_do214aa
   owner: xesscorp
   repo:

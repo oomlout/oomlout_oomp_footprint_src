@@ -19,9 +19,18 @@
   oomp:
     footprint_name: ws2812b_smallsilk
     library_name: neopixel_fp
+    md5: de8ec73c43c35e00bafced365e876ad0
+    md5_10: de8ec73c43
+    md5_5: de8ec
+    md5_6: de8ec7
+    oomp_key: oomp_pcsmithy_neopixel_fp_ws2812b_smallsilk
+    oomp_key_extra: oomp_footprint_pcsmithy_neopixel_fp_ws2812b_smallsilk
+    oomp_key_full: oomp_footprint_pcsmithy_neopixel_fp_ws2812b_smallsilk_de8ec7
+    oomp_key_simple: pcsmithy_neopixel_fp_ws2812b_smallsilk
     original_filename: NeoPixel_FP.pretty/WS2812B_smallsilk.kicad_mod
     owner_name: pcsmithy
   oomp_key: oomp_pcsmithy_neopixel_fp_ws2812b_smallsilk
+  oomp_key_full: oomp_footprint_pcsmithy_neopixel_fp_ws2812b_smallsilk
   oomp_key_simple: pcsmithy_neopixel_fp_ws2812b_smallsilk
   owner: PCSmithy
   repo:

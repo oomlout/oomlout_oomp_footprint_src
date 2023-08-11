@@ -17,9 +17,18 @@
   oomp:
     footprint_name: mx_alps_switch_cutout_1u_1_25u
     library_name: keebio_parts
+    md5: b8345ca93ade5c8facb57836c87d9e17
+    md5_10: b8345ca93a
+    md5_5: b8345
+    md5_6: b8345c
+    oomp_key: oomp_keebio_keebio_parts_mx_alps_switch_cutout_1u_1_25u
+    oomp_key_extra: oomp_footprint_keebio_keebio_parts_mx_alps_switch_cutout_1u_1_25u
+    oomp_key_full: oomp_footprint_keebio_keebio_parts_mx_alps_switch_cutout_1u_1_25u_b8345c
+    oomp_key_simple: keebio_keebio_parts_mx_alps_switch_cutout_1u_1_25u
     original_filename: Keebio-Parts.pretty/MX-Alps_Switch_Cutout-1u_1.25u.kicad_mod
     owner_name: keebio
   oomp_key: oomp_keebio_keebio_parts_mx_alps_switch_cutout_1u_1_25u
+  oomp_key_full: oomp_footprint_keebio_keebio_parts_mx_alps_switch_cutout_1u_1_25u
   oomp_key_simple: keebio_keebio_parts_mx_alps_switch_cutout_1u_1_25u
   owner: keebio
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: er9_5_4_6_smt_v_8pin_(6310)
     library_name: transformers_wurthelektronik
+    md5: 32caf97e88e80ad436ed92f4e5458f30
+    md5_10: 32caf97e88
+    md5_5: 32caf
+    md5_6: 32caf9
+    oomp_key: oomp_toka_eisos_transformers_wurthelektronik_er9_5_4_6_smt_v_8pin_(6310)
+    oomp_key_extra: oomp_footprint_toka_eisos_transformers_wurthelektronik_er9_5_4_6_smt_v_8pin_(6310)
+    oomp_key_full: oomp_footprint_toka_eisos_transformers_wurthelektronik_er9_5_4_6_smt_v_8pin_(6310)_32caf9
+    oomp_key_simple: toka_eisos_transformers_wurthelektronik_er9_5_4_6_smt_v_8pin_(6310)
     original_filename: Transformers_WurthElektronik.pretty/ER9.5_4.6_SMT_V_8PIN_(6310).kicad_mod
     owner_name: toka_eisos
   oomp_key: oomp_toka_eisos_transformers_wurthelektronik_er9_5_4_6_smt_v_8pin_(6310)
+  oomp_key_full: oomp_footprint_toka_eisos_transformers_wurthelektronik_er9_5_4_6_smt_v_8pin_(6310)
   oomp_key_simple: toka_eisos_transformers_wurthelektronik_er9_5_4_6_smt_v_8pin_(6310)
   owner: toka-eisos
   repo:

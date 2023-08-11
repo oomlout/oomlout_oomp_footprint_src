@@ -17,9 +17,18 @@
   oomp:
     footprint_name: bme280
     library_name: 1w_grove_v0_1
+    md5: 13ae247ae910ec6c703e2459c0c93ebc
+    md5_10: 13ae247ae9
+    md5_5: 13ae2
+    md5_6: 13ae24
+    oomp_key: oomp_joanthespark_1w_grove_v0_1_bme280
+    oomp_key_extra: oomp_footprint_joanthespark_1w_grove_v0_1_bme280
+    oomp_key_full: oomp_footprint_joanthespark_1w_grove_v0_1_bme280_13ae24
+    oomp_key_simple: joanthespark_1w_grove_v0_1_bme280
     original_filename: KiCAD/6.0/projects/1w-grove-v0.1/1w-grove-v0.1.pretty/BME280.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_1w_grove_v0_1_bme280
+  oomp_key_full: oomp_footprint_joanthespark_1w_grove_v0_1_bme280
   oomp_key_simple: joanthespark_1w_grove_v0_1_bme280
   owner: JoanTheSpark
   repo:

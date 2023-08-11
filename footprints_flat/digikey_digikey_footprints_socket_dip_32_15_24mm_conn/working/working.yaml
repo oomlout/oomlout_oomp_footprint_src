@@ -17,9 +17,18 @@
   oomp:
     footprint_name: socket_dip_32_15_24mm_conn
     library_name: digikey_footprints
+    md5: c4cf61f7885e15a51cb8dc8be6b095f8
+    md5_10: c4cf61f788
+    md5_5: c4cf6
+    md5_6: c4cf61
+    oomp_key: oomp_digikey_digikey_footprints_socket_dip_32_15_24mm_conn
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_socket_dip_32_15_24mm_conn
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_socket_dip_32_15_24mm_conn_c4cf61
+    oomp_key_simple: digikey_digikey_footprints_socket_dip_32_15_24mm_conn
     original_filename: digikey-kicad-library/digikey-footprints.pretty/Socket_DIP-32_15.24mm_Conn.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_socket_dip_32_15_24mm_conn
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_socket_dip_32_15_24mm_conn
   oomp_key_simple: digikey_digikey_footprints_socket_dip_32_15_24mm_conn
   owner: digikey
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sop63p600x175_24
     library_name: ipc7351_most
+    md5: baa876c037a12b6665eba5361605b3f0
+    md5_10: baa876c037
+    md5_5: baa87
+    md5_6: baa876
+    oomp_key: oomp_cpavlina_ipc7351_most_sop63p600x175_24
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_most_sop63p600x175_24
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_most_sop63p600x175_24_baa876
+    oomp_key_simple: cpavlina_ipc7351_most_sop63p600x175_24
     original_filename: kicad-pcblib/IPC7351-Most.pretty/SOP63P600X175-24.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_most_sop63p600x175_24
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_most_sop63p600x175_24
   oomp_key_simple: cpavlina_ipc7351_most_sop63p600x175_24
   owner: cpavlina
   repo:

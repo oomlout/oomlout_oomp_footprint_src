@@ -19,9 +19,18 @@
   oomp:
     footprint_name: r_0805_2012metric
     library_name: 1wire_v0_4
+    md5: ef5555b3c869a04d4451fda6b2134420
+    md5_10: ef5555b3c8
+    md5_5: ef555
+    md5_6: ef5555
+    oomp_key: oomp_wykys_1wire_v0_4_r_0805_2012metric
+    oomp_key_extra: oomp_footprint_wykys_1wire_v0_4_r_0805_2012metric
+    oomp_key_full: oomp_footprint_wykys_1wire_v0_4_r_0805_2012metric_ef5555
+    oomp_key_simple: wykys_1wire_v0_4_r_0805_2012metric
     original_filename: kicad/6.0/projects/1w-grove-v0.1/1wire-v0.4.pretty/R_0805_2012Metric.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_1wire_v0_4_r_0805_2012metric
+  oomp_key_full: oomp_footprint_wykys_1wire_v0_4_r_0805_2012metric
   oomp_key_simple: wykys_1wire_v0_4_r_0805_2012metric
   owner: wykys
   repo:

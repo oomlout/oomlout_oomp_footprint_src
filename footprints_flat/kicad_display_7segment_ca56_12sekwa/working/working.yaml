@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ca56_12sekwa
     library_name: display_7segment
+    md5: 45f01c0c807cc779c26a76a35463567f
+    md5_10: 45f01c0c80
+    md5_5: 45f01
+    md5_6: 45f01c
+    oomp_key: oomp_kicad_display_7segment_ca56_12sekwa
+    oomp_key_extra: oomp_footprint_kicad_display_7segment_ca56_12sekwa
+    oomp_key_full: oomp_footprint_kicad_display_7segment_ca56_12sekwa_45f01c
+    oomp_key_simple: kicad_display_7segment_ca56_12sekwa
     original_filename: libraries/kicad-footprints/Display_7Segment.pretty/CA56-12SEKWA.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_display_7segment_ca56_12sekwa
+  oomp_key_full: oomp_footprint_kicad_display_7segment_ca56_12sekwa
   oomp_key_simple: kicad_display_7segment_ca56_12sekwa
   owner: kicad
   repo:

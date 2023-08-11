@@ -18,9 +18,18 @@
   oomp:
     footprint_name: signalcommunications_we_vd_14mm_2_8
     library_name: signalcommunications
+    md5: 9deff98acf78781a9a60681bc43b3e90
+    md5_10: 9deff98acf
+    md5_5: 9deff
+    md5_6: 9deff9
+    oomp_key: oomp_electroniccats_signalcommunications_signalcommunications_we_vd_14mm_2_8
+    oomp_key_extra: oomp_footprint_electroniccats_signalcommunications_signalcommunications_we_vd_14mm_2_8
+    oomp_key_full: oomp_footprint_electroniccats_signalcommunications_signalcommunications_we_vd_14mm_2_8_9deff9
+    oomp_key_simple: electroniccats_signalcommunications_signalcommunications_we_vd_14mm_2_8
     original_filename: ComponentLibrariesKicadWurthElektronik/SIGNAL-COMMUNICATIONS-rev18a/SignalCommunications.pretty/SignalCommunications-WE-VD_14MM-2.8.kicad_mod
     owner_name: electroniccats
   oomp_key: oomp_electroniccats_signalcommunications_signalcommunications_we_vd_14mm_2_8
+  oomp_key_full: oomp_footprint_electroniccats_signalcommunications_signalcommunications_we_vd_14mm_2_8
   oomp_key_simple: electroniccats_signalcommunications_signalcommunications_we_vd_14mm_2_8
   owner: ElectronicCats
   repo:

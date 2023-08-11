@@ -18,9 +18,18 @@
   oomp:
     footprint_name: soj127p866x375_32
     library_name: ipc7351_most
+    md5: 8405a569bfee93e3b4eb0e7cf4879351
+    md5_10: 8405a569bf
+    md5_5: 8405a
+    md5_6: 8405a5
+    oomp_key: oomp_cpavlina_ipc7351_most_soj127p866x375_32
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_most_soj127p866x375_32
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_most_soj127p866x375_32_8405a5
+    oomp_key_simple: cpavlina_ipc7351_most_soj127p866x375_32
     original_filename: kicad-pcblib/IPC7351-Most.pretty/SOJ127P866X375-32.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_most_soj127p866x375_32
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_most_soj127p866x375_32
   oomp_key_simple: cpavlina_ipc7351_most_soj127p866x375_32
   owner: cpavlina
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sil_127p_15
     library_name: agg
+    md5: 8308c026ec37a2222ca2b3aa53ba1ded
+    md5_10: 8308c026ec
+    md5_5: 8308c
+    md5_6: 8308c0
+    oomp_key: oomp_adamgreig_agg_sil_127p_15
+    oomp_key_extra: oomp_footprint_adamgreig_agg_sil_127p_15
+    oomp_key_full: oomp_footprint_adamgreig_agg_sil_127p_15_8308c0
+    oomp_key_simple: adamgreig_agg_sil_127p_15
     original_filename: agg-kicad/agg.pretty/SIL-127P-15.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_sil_127p_15
+  oomp_key_full: oomp_footprint_adamgreig_agg_sil_127p_15
   oomp_key_simple: adamgreig_agg_sil_127p_15
   owner: adamgreig
   repo:

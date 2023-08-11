@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_microchip_28_ssop
     library_name: xess
+    md5: bcf4121c5b044de72752edb875c1c3b8
+    md5_10: bcf4121c5b
+    md5_5: bcf41
+    md5_6: bcf412
+    oomp_key: oomp_xesscorp_xess_xess_microchip_28_ssop
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_microchip_28_ssop
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_microchip_28_ssop_bcf412
+    oomp_key_simple: xesscorp_xess_xess_microchip_28_ssop
     original_filename: xess.pretty/xess-MICROCHIP-28_SSOP.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_microchip_28_ssop
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_microchip_28_ssop
   oomp_key_simple: xesscorp_xess_xess_microchip_28_ssop
   owner: xesscorp
   repo:

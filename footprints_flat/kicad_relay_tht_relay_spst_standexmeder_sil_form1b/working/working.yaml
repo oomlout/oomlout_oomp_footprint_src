@@ -17,9 +17,18 @@
   oomp:
     footprint_name: relay_spst_standexmeder_sil_form1b
     library_name: relay_tht
+    md5: 0a9461dbfb2a7f7c2becf9900e345ef3
+    md5_10: 0a9461dbfb
+    md5_5: 0a946
+    md5_6: 0a9461
+    oomp_key: oomp_kicad_relay_tht_relay_spst_standexmeder_sil_form1b
+    oomp_key_extra: oomp_footprint_kicad_relay_tht_relay_spst_standexmeder_sil_form1b
+    oomp_key_full: oomp_footprint_kicad_relay_tht_relay_spst_standexmeder_sil_form1b_0a9461
+    oomp_key_simple: kicad_relay_tht_relay_spst_standexmeder_sil_form1b
     original_filename: libraries/kicad-footprints/Relay_THT.pretty/Relay_SPST_StandexMeder_SIL_Form1B.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_relay_tht_relay_spst_standexmeder_sil_form1b
+  oomp_key_full: oomp_footprint_kicad_relay_tht_relay_spst_standexmeder_sil_form1b
   oomp_key_simple: kicad_relay_tht_relay_spst_standexmeder_sil_form1b
   owner: kicad
   repo:

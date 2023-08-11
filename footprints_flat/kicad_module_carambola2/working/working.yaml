@@ -17,9 +17,18 @@
   oomp:
     footprint_name: carambola2
     library_name: module
+    md5: dd14c4e677998b7e5dd42592768239e2
+    md5_10: dd14c4e677
+    md5_5: dd14c
+    md5_6: dd14c4
+    oomp_key: oomp_kicad_module_carambola2
+    oomp_key_extra: oomp_footprint_kicad_module_carambola2
+    oomp_key_full: oomp_footprint_kicad_module_carambola2_dd14c4
+    oomp_key_simple: kicad_module_carambola2
     original_filename: libraries/kicad-footprints/Module.pretty/Carambola2.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_module_carambola2
+  oomp_key_full: oomp_footprint_kicad_module_carambola2
   oomp_key_simple: kicad_module_carambola2
   owner: kicad
   repo:

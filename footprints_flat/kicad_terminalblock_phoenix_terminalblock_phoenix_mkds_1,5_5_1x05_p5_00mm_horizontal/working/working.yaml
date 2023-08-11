@@ -19,9 +19,18 @@
   oomp:
     footprint_name: terminalblock_phoenix_mkds_1,5_5_1x05_p5_00mm_horizontal
     library_name: terminalblock_phoenix
+    md5: 59251a8e3fafaf2109921357b06309c1
+    md5_10: 59251a8e3f
+    md5_5: '59251'
+    md5_6: 59251a
+    oomp_key: oomp_kicad_terminalblock_phoenix_terminalblock_phoenix_mkds_1,5_5_1x05_p5_00mm_horizontal
+    oomp_key_extra: oomp_footprint_kicad_terminalblock_phoenix_terminalblock_phoenix_mkds_1,5_5_1x05_p5_00mm_horizontal
+    oomp_key_full: oomp_footprint_kicad_terminalblock_phoenix_terminalblock_phoenix_mkds_1,5_5_1x05_p5_00mm_horizontal_59251a
+    oomp_key_simple: kicad_terminalblock_phoenix_terminalblock_phoenix_mkds_1,5_5_1x05_p5_00mm_horizontal
     original_filename: libraries/kicad-footprints/TerminalBlock_Phoenix.pretty/TerminalBlock_Phoenix_MKDS-1,5-5_1x05_P5.00mm_Horizontal.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_terminalblock_phoenix_terminalblock_phoenix_mkds_1,5_5_1x05_p5_00mm_horizontal
+  oomp_key_full: oomp_footprint_kicad_terminalblock_phoenix_terminalblock_phoenix_mkds_1,5_5_1x05_p5_00mm_horizontal
   oomp_key_simple: kicad_terminalblock_phoenix_terminalblock_phoenix_mkds_1,5_5_1x05_p5_00mm_horizontal
   owner: kicad
   repo:

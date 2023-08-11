@@ -18,9 +18,18 @@
   oomp:
     footprint_name: ea_ediptft70_atc
     library_name: display
+    md5: b54a977df18e610c1cea8d78e8a657fb
+    md5_10: b54a977df1
+    md5_5: b54a9
+    md5_6: b54a97
+    oomp_key: oomp_kicad_display_ea_ediptft70_atc
+    oomp_key_extra: oomp_footprint_kicad_display_ea_ediptft70_atc
+    oomp_key_full: oomp_footprint_kicad_display_ea_ediptft70_atc_b54a97
+    oomp_key_simple: kicad_display_ea_ediptft70_atc
     original_filename: libraries/kicad-footprints/Display.pretty/EA_eDIPTFT70-ATC.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_display_ea_ediptft70_atc
+  oomp_key_full: oomp_footprint_kicad_display_ea_ediptft70_atc
   oomp_key_simple: kicad_display_ea_ediptft70_atc
   owner: kicad
   repo:

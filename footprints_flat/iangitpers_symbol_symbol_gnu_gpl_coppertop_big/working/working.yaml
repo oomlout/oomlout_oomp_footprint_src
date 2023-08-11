@@ -19,9 +19,18 @@
   oomp:
     footprint_name: symbol_gnu_gpl_coppertop_big
     library_name: symbol
+    md5: b97ee59012f70af2f3489268fa982fdb
+    md5_10: b97ee59012
+    md5_5: b97ee
+    md5_6: b97ee5
+    oomp_key: oomp_iangitpers_symbol_symbol_gnu_gpl_coppertop_big
+    oomp_key_extra: oomp_footprint_iangitpers_symbol_symbol_gnu_gpl_coppertop_big
+    oomp_key_full: oomp_footprint_iangitpers_symbol_symbol_gnu_gpl_coppertop_big_b97ee5
+    oomp_key_simple: iangitpers_symbol_symbol_gnu_gpl_coppertop_big
     original_filename: 4a/Symbol.pretty/Symbol_GNU-GPL_CopperTop_Big.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_symbol_symbol_gnu_gpl_coppertop_big
+  oomp_key_full: oomp_footprint_iangitpers_symbol_symbol_gnu_gpl_coppertop_big
   oomp_key_simple: iangitpers_symbol_symbol_gnu_gpl_coppertop_big
   owner: Iangitpers
   repo:

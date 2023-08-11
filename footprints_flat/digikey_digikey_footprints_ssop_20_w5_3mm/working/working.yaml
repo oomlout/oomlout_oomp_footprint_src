@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ssop_20_w5_3mm
     library_name: digikey_footprints
+    md5: d530174d052582153f1b7bb231d731f7
+    md5_10: d530174d05
+    md5_5: d5301
+    md5_6: d53017
+    oomp_key: oomp_digikey_digikey_footprints_ssop_20_w5_3mm
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_ssop_20_w5_3mm
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_ssop_20_w5_3mm_d53017
+    oomp_key_simple: digikey_digikey_footprints_ssop_20_w5_3mm
     original_filename: digikey-kicad-library/digikey-footprints.pretty/SSOP-20_W5.3mm.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_ssop_20_w5_3mm
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_ssop_20_w5_3mm
   oomp_key_simple: digikey_digikey_footprints_ssop_20_w5_3mm
   owner: digikey
   repo:

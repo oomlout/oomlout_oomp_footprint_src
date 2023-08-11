@@ -19,9 +19,18 @@
   oomp:
     footprint_name: te_fsmsm
     library_name: manuf
+    md5: d67e8debd323e09c0f51375f6c49c92c
+    md5_10: d67e8debd3
+    md5_5: d67e8
+    md5_6: d67e8d
+    oomp_key: oomp_iangitpers_manuf_te_fsmsm
+    oomp_key_extra: oomp_footprint_iangitpers_manuf_te_fsmsm
+    oomp_key_full: oomp_footprint_iangitpers_manuf_te_fsmsm_d67e8d
+    oomp_key_simple: iangitpers_manuf_te_fsmsm
     original_filename: 4a/manuf.pretty/TE-FSMSM.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_manuf_te_fsmsm
+  oomp_key_full: oomp_footprint_iangitpers_manuf_te_fsmsm
   oomp_key_simple: iangitpers_manuf_te_fsmsm
   owner: Iangitpers
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: esp32_wrover_e_thermalvias
     library_name: espressif
+    md5: c6d6de2ed731045ab2f089aff5bff780
+    md5_10: c6d6de2ed7
+    md5_5: c6d6d
+    md5_6: c6d6de
+    oomp_key: oomp_tinkerforge_espressif_esp32_wrover_e_thermalvias
+    oomp_key_extra: oomp_footprint_tinkerforge_espressif_esp32_wrover_e_thermalvias
+    oomp_key_full: oomp_footprint_tinkerforge_espressif_esp32_wrover_e_thermalvias_c6d6de
+    oomp_key_simple: tinkerforge_espressif_esp32_wrover_e_thermalvias
     original_filename: kicad-libraries/footprints/Espressif.pretty/ESP32-WROVER-E_ThermalVias.kicad_mod
     owner_name: tinkerforge
   oomp_key: oomp_tinkerforge_espressif_esp32_wrover_e_thermalvias
+  oomp_key_full: oomp_footprint_tinkerforge_espressif_esp32_wrover_e_thermalvias
   oomp_key_simple: tinkerforge_espressif_esp32_wrover_e_thermalvias
   owner: Tinkerforge
   repo:

@@ -8,11 +8,9 @@
   github_path: http://github.com/PCSmithy/PCB_Banana_Jack.pretty/blob/master/PCB Banana
     Jack.kicad_mod
   links:
-    github_owner: PCSmithy
-    github_repo_name: PCB_Banana_Jack.pretty
-    github_src: http://github.com/PCSmithy/PCB_Banana_Jack.pretty/blob/master/PCB
+    github_src: http://gitlab.com/PCSmithy/PCB_Banana_Jack.pretty/blob/master/PCB
       Banana Jack.kicad_mod
-    github_src_repo: https://github.com/PCSmithy/PCB_Banana_Jack.pretty
+    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/pcsmithy_pcb_banana_jack_pcb_banana_jack/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/pcsmithy_pcb_banana_jack_pcb_banana_jack/working
     oomp_src_flat: footprints_flat/footprints_flat/pcsmithy_pcb_banana_jack_pcb_banana_jack/working
@@ -21,110 +19,23 @@
   oomp:
     footprint_name: pcb_banana_jack
     library_name: pcb_banana_jack
+    md5: 6ab77720c15da3f8da96d0110fe87b78
+    md5_10: 6ab77720c1
+    md5_5: 6ab77
+    md5_6: 6ab777
+    oomp_key: oomp_pcsmithy_pcb_banana_jack_pcb_banana_jack
+    oomp_key_extra: oomp_footprint_pcsmithy_pcb_banana_jack_pcb_banana_jack
+    oomp_key_full: oomp_footprint_pcsmithy_pcb_banana_jack_pcb_banana_jack_6ab777
+    oomp_key_simple: pcsmithy_pcb_banana_jack_pcb_banana_jack
     original_filename: PCB_Banana_Jack.pretty/PCB Banana Jack.kicad_mod
     owner_name: pcsmithy
   oomp_key: oomp_pcsmithy_pcb_banana_jack_pcb_banana_jack
+  oomp_key_full: oomp_footprint_pcsmithy_pcb_banana_jack_pcb_banana_jack
   oomp_key_simple: pcsmithy_pcb_banana_jack_pcb_banana_jack
   owner: PCSmithy
   repo:
-    allow_forking: true
-    archive_url: https://api.github.com/repos/PCSmithy/PCB_Banana_Jack.pretty/{archive_format}{/ref}
-    archived: false
-    assignees_url: https://api.github.com/repos/PCSmithy/PCB_Banana_Jack.pretty/assignees{/user}
-    blobs_url: https://api.github.com/repos/PCSmithy/PCB_Banana_Jack.pretty/git/blobs{/sha}
-    branches_url: https://api.github.com/repos/PCSmithy/PCB_Banana_Jack.pretty/branches{/branch}
-    clone_url: https://github.com/PCSmithy/PCB_Banana_Jack.pretty.git
-    collaborators_url: https://api.github.com/repos/PCSmithy/PCB_Banana_Jack.pretty/collaborators{/collaborator}
-    comments_url: https://api.github.com/repos/PCSmithy/PCB_Banana_Jack.pretty/comments{/number}
-    commits_url: https://api.github.com/repos/PCSmithy/PCB_Banana_Jack.pretty/commits{/sha}
-    compare_url: https://api.github.com/repos/PCSmithy/PCB_Banana_Jack.pretty/compare/{base}...{head}
-    contents_url: https://api.github.com/repos/PCSmithy/PCB_Banana_Jack.pretty/contents/{+path}
-    contributors_url: https://api.github.com/repos/PCSmithy/PCB_Banana_Jack.pretty/contributors
-    created_at: '2018-05-25T15:09:11Z'
-    default_branch: master
-    deployments_url: https://api.github.com/repos/PCSmithy/PCB_Banana_Jack.pretty/deployments
-    description: KiCad Footprint for 105-0753-001 PCB mounted banana jack
-    disabled: false
-    downloads_url: https://api.github.com/repos/PCSmithy/PCB_Banana_Jack.pretty/downloads
-    events_url: https://api.github.com/repos/PCSmithy/PCB_Banana_Jack.pretty/events
-    fork: false
-    forks: 0
-    forks_count: 0
-    forks_url: https://api.github.com/repos/PCSmithy/PCB_Banana_Jack.pretty/forks
-    full_name: PCSmithy/PCB_Banana_Jack.pretty
-    git_commits_url: https://api.github.com/repos/PCSmithy/PCB_Banana_Jack.pretty/git/commits{/sha}
-    git_refs_url: https://api.github.com/repos/PCSmithy/PCB_Banana_Jack.pretty/git/refs{/sha}
-    git_tags_url: https://api.github.com/repos/PCSmithy/PCB_Banana_Jack.pretty/git/tags{/sha}
-    git_url: git://github.com/PCSmithy/PCB_Banana_Jack.pretty.git
-    has_discussions: false
-    has_downloads: true
-    has_issues: true
-    has_pages: false
-    has_projects: true
-    has_wiki: true
-    homepage: null
-    hooks_url: https://api.github.com/repos/PCSmithy/PCB_Banana_Jack.pretty/hooks
-    html_url: https://github.com/PCSmithy/PCB_Banana_Jack.pretty
-    id: 134871659
-    is_template: false
-    issue_comment_url: https://api.github.com/repos/PCSmithy/PCB_Banana_Jack.pretty/issues/comments{/number}
-    issue_events_url: https://api.github.com/repos/PCSmithy/PCB_Banana_Jack.pretty/issues/events{/number}
-    issues_url: https://api.github.com/repos/PCSmithy/PCB_Banana_Jack.pretty/issues{/number}
-    keys_url: https://api.github.com/repos/PCSmithy/PCB_Banana_Jack.pretty/keys{/key_id}
-    labels_url: https://api.github.com/repos/PCSmithy/PCB_Banana_Jack.pretty/labels{/name}
-    language: null
-    languages_url: https://api.github.com/repos/PCSmithy/PCB_Banana_Jack.pretty/languages
-    license: null
-    merges_url: https://api.github.com/repos/PCSmithy/PCB_Banana_Jack.pretty/merges
-    milestones_url: https://api.github.com/repos/PCSmithy/PCB_Banana_Jack.pretty/milestones{/number}
-    mirror_url: null
-    name: PCB_Banana_Jack.pretty
-    network_count: 0
-    node_id: MDEwOlJlcG9zaXRvcnkxMzQ4NzE2NTk=
-    notifications_url: https://api.github.com/repos/PCSmithy/PCB_Banana_Jack.pretty/notifications{?since,all,participating}
-    open_issues: 0
-    open_issues_count: 0
-    owner:
-      avatar_url: https://avatars.githubusercontent.com/u/31734108?v=4
-      events_url: https://api.github.com/users/PCSmithy/events{/privacy}
-      followers_url: https://api.github.com/users/PCSmithy/followers
-      following_url: https://api.github.com/users/PCSmithy/following{/other_user}
-      gists_url: https://api.github.com/users/PCSmithy/gists{/gist_id}
-      gravatar_id: ''
-      html_url: https://github.com/PCSmithy
-      id: 31734108
-      login: PCSmithy
-      node_id: MDQ6VXNlcjMxNzM0MTA4
-      organizations_url: https://api.github.com/users/PCSmithy/orgs
-      received_events_url: https://api.github.com/users/PCSmithy/received_events
-      repos_url: https://api.github.com/users/PCSmithy/repos
-      site_admin: false
-      starred_url: https://api.github.com/users/PCSmithy/starred{/owner}{/repo}
-      subscriptions_url: https://api.github.com/users/PCSmithy/subscriptions
-      type: User
-      url: https://api.github.com/users/PCSmithy
-    private: false
-    pulls_url: https://api.github.com/repos/PCSmithy/PCB_Banana_Jack.pretty/pulls{/number}
-    pushed_at: '2018-05-25T15:09:32Z'
-    releases_url: https://api.github.com/repos/PCSmithy/PCB_Banana_Jack.pretty/releases{/id}
-    size: 1
-    ssh_url: git@github.com:PCSmithy/PCB_Banana_Jack.pretty.git
-    stargazers_count: 0
-    stargazers_url: https://api.github.com/repos/PCSmithy/PCB_Banana_Jack.pretty/stargazers
-    statuses_url: https://api.github.com/repos/PCSmithy/PCB_Banana_Jack.pretty/statuses/{sha}
-    subscribers_count: 1
-    subscribers_url: https://api.github.com/repos/PCSmithy/PCB_Banana_Jack.pretty/subscribers
-    subscription_url: https://api.github.com/repos/PCSmithy/PCB_Banana_Jack.pretty/subscription
-    svn_url: https://github.com/PCSmithy/PCB_Banana_Jack.pretty
-    tags_url: https://api.github.com/repos/PCSmithy/PCB_Banana_Jack.pretty/tags
-    teams_url: https://api.github.com/repos/PCSmithy/PCB_Banana_Jack.pretty/teams
-    temp_clone_token: null
-    topics: []
-    trees_url: https://api.github.com/repos/PCSmithy/PCB_Banana_Jack.pretty/git/trees{/sha}
-    updated_at: '2018-05-25T15:09:33Z'
-    url: https://api.github.com/repos/PCSmithy/PCB_Banana_Jack.pretty
-    visibility: public
-    watchers: 0
-    watchers_count: 0
-    web_commit_signoff_required: false
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: http://github.com/PCSmithy/PCB_Banana_Jack.pretty

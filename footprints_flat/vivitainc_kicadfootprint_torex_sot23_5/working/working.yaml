@@ -17,9 +17,18 @@
   oomp:
     footprint_name: torex_sot23_5
     library_name: kicadfootprint
+    md5: a1288aa268eeaabee331dcb1e9c63f88
+    md5_10: a1288aa268
+    md5_5: a1288
+    md5_6: a1288a
+    oomp_key: oomp_vivitainc_kicadfootprint_torex_sot23_5
+    oomp_key_extra: oomp_footprint_vivitainc_kicadfootprint_torex_sot23_5
+    oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_torex_sot23_5_a1288a
+    oomp_key_simple: vivitainc_kicadfootprint_torex_sot23_5
     original_filename: KiCADfootprint.pretty/TOREX_SOT23-5.kicad_mod
     owner_name: vivitainc
   oomp_key: oomp_vivitainc_kicadfootprint_torex_sot23_5
+  oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_torex_sot23_5
   oomp_key_simple: vivitainc_kicadfootprint_torex_sot23_5
   owner: vivitainc
   repo:

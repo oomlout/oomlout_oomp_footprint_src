@@ -17,9 +17,18 @@
   oomp:
     footprint_name: dms_20pc
     library_name: awallinkicadfootprints
+    md5: 4c0481437710a4481a3c4c2fd3ee1f11
+    md5_10: 4c04814377
+    md5_5: 4c048
+    md5_6: 4c0481
+    oomp_key: oomp_aewallin_awallinkicadfootprints_dms_20pc
+    oomp_key_extra: oomp_footprint_aewallin_awallinkicadfootprints_dms_20pc
+    oomp_key_full: oomp_footprint_aewallin_awallinkicadfootprints_dms_20pc_4c0481
+    oomp_key_simple: aewallin_awallinkicadfootprints_dms_20pc
     original_filename: awallinKiCadFootprints.pretty/DMS-20PC.kicad_mod
     owner_name: aewallin
   oomp_key: oomp_aewallin_awallinkicadfootprints_dms_20pc
+  oomp_key_full: oomp_footprint_aewallin_awallinkicadfootprints_dms_20pc
   oomp_key_simple: aewallin_awallinkicadfootprints_dms_20pc
   owner: aewallin
   repo:

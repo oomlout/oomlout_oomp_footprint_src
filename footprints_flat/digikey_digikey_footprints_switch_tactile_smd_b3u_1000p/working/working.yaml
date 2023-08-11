@@ -17,9 +17,18 @@
   oomp:
     footprint_name: switch_tactile_smd_b3u_1000p
     library_name: digikey_footprints
+    md5: 29ca8e22d74ac97d0911feea87c6203f
+    md5_10: 29ca8e22d7
+    md5_5: 29ca8
+    md5_6: 29ca8e
+    oomp_key: oomp_digikey_digikey_footprints_switch_tactile_smd_b3u_1000p
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_switch_tactile_smd_b3u_1000p
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_switch_tactile_smd_b3u_1000p_29ca8e
+    oomp_key_simple: digikey_digikey_footprints_switch_tactile_smd_b3u_1000p
     original_filename: digikey-kicad-library/digikey-footprints.pretty/Switch_Tactile_SMD_B3U-1000P.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_switch_tactile_smd_b3u_1000p
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_switch_tactile_smd_b3u_1000p
   oomp_key_simple: digikey_digikey_footprints_switch_tactile_smd_b3u_1000p
   owner: digikey
   repo:

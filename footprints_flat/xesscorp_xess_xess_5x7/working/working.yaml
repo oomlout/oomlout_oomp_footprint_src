@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_5x7
     library_name: xess
+    md5: 8e195b0c7d81963534abaf15e0aba3ed
+    md5_10: 8e195b0c7d
+    md5_5: 8e195
+    md5_6: 8e195b
+    oomp_key: oomp_xesscorp_xess_xess_5x7
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_5x7
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_5x7_8e195b
+    oomp_key_simple: xesscorp_xess_xess_5x7
     original_filename: xess.pretty/xess-5X7.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_5x7
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_5x7
   oomp_key_simple: xesscorp_xess_xess_5x7
   owner: xesscorp
   repo:

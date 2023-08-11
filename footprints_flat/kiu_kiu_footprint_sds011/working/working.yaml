@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sds011
     library_name: kiu_footprint
+    md5: 5e999358b12b93d1031495542c34199a
+    md5_10: 5e999358b1
+    md5_5: 5e999
+    md5_6: 5e9993
+    oomp_key: oomp_kiu_kiu_footprint_sds011
+    oomp_key_extra: oomp_footprint_kiu_kiu_footprint_sds011
+    oomp_key_full: oomp_footprint_kiu_kiu_footprint_sds011_5e9993
+    oomp_key_simple: kiu_kiu_footprint_sds011
     original_filename: kiu-footprint.pretty/SDS011.kicad_mod
     owner_name: kiu
   oomp_key: oomp_kiu_kiu_footprint_sds011
+  oomp_key_full: oomp_footprint_kiu_kiu_footprint_sds011
   oomp_key_simple: kiu_kiu_footprint_sds011
   owner: kiu
   repo:

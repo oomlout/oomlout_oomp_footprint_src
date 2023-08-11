@@ -18,9 +18,18 @@
   oomp:
     footprint_name: stocko_mks_1654_6_0_404_1x4_p2_50mm_vertical
     library_name: connector_stocko
+    md5: 34442e9418a66fae9ac208501d7dc2d0
+    md5_10: 34442e9418
+    md5_5: '34442'
+    md5_6: 34442e
+    oomp_key: oomp_kicad_connector_stocko_stocko_mks_1654_6_0_404_1x4_p2_50mm_vertical
+    oomp_key_extra: oomp_footprint_kicad_connector_stocko_stocko_mks_1654_6_0_404_1x4_p2_50mm_vertical
+    oomp_key_full: oomp_footprint_kicad_connector_stocko_stocko_mks_1654_6_0_404_1x4_p2_50mm_vertical_34442e
+    oomp_key_simple: kicad_connector_stocko_stocko_mks_1654_6_0_404_1x4_p2_50mm_vertical
     original_filename: libraries/kicad-footprints/Connector_Stocko.pretty/Stocko_MKS_1654-6-0-404_1x4_P2.50mm_Vertical.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_stocko_stocko_mks_1654_6_0_404_1x4_p2_50mm_vertical
+  oomp_key_full: oomp_footprint_kicad_connector_stocko_stocko_mks_1654_6_0_404_1x4_p2_50mm_vertical
   oomp_key_simple: kicad_connector_stocko_stocko_mks_1654_6_0_404_1x4_p2_50mm_vertical
   owner: kicad
   repo:

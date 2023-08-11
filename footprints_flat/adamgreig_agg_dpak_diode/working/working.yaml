@@ -17,9 +17,18 @@
   oomp:
     footprint_name: dpak_diode
     library_name: agg
+    md5: e075ea333709ea65e3266e15082b8684
+    md5_10: e075ea3337
+    md5_5: e075e
+    md5_6: e075ea
+    oomp_key: oomp_adamgreig_agg_dpak_diode
+    oomp_key_extra: oomp_footprint_adamgreig_agg_dpak_diode
+    oomp_key_full: oomp_footprint_adamgreig_agg_dpak_diode_e075ea
+    oomp_key_simple: adamgreig_agg_dpak_diode
     original_filename: agg-kicad/agg.pretty/DPAK_DIODE.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_dpak_diode
+  oomp_key_full: oomp_footprint_adamgreig_agg_dpak_diode
   oomp_key_simple: adamgreig_agg_dpak_diode
   owner: adamgreig
   repo:

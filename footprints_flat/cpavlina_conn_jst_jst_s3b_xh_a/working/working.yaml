@@ -17,9 +17,18 @@
   oomp:
     footprint_name: jst_s3b_xh_a
     library_name: conn_jst
+    md5: 18cfb55e32c5ba97956ee757b8807f4c
+    md5_10: 18cfb55e32
+    md5_5: 18cfb
+    md5_6: 18cfb5
+    oomp_key: oomp_cpavlina_conn_jst_jst_s3b_xh_a
+    oomp_key_extra: oomp_footprint_cpavlina_conn_jst_jst_s3b_xh_a
+    oomp_key_full: oomp_footprint_cpavlina_conn_jst_jst_s3b_xh_a_18cfb5
+    oomp_key_simple: cpavlina_conn_jst_jst_s3b_xh_a
     original_filename: kicad-pcblib/conn-jst.pretty/JST_S3B-XH-A.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_conn_jst_jst_s3b_xh_a
+  oomp_key_full: oomp_footprint_cpavlina_conn_jst_jst_s3b_xh_a
   oomp_key_simple: cpavlina_conn_jst_jst_s3b_xh_a
   owner: cpavlina
   repo:

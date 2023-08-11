@@ -17,9 +17,18 @@
   oomp:
     footprint_name: mx_iso
     library_name: mx_alps_hybrid
+    md5: b28c7c6eea2e95e047f8b3fd9a3ff8fd
+    md5_10: b28c7c6eea
+    md5_5: b28c7
+    md5_6: b28c7c
+    oomp_key: oomp_ai03_2725_mx_alps_hybrid_mx_iso
+    oomp_key_extra: oomp_footprint_ai03_2725_mx_alps_hybrid_mx_iso
+    oomp_key_full: oomp_footprint_ai03_2725_mx_alps_hybrid_mx_iso_b28c7c
+    oomp_key_simple: ai03_2725_mx_alps_hybrid_mx_iso
     original_filename: MX_Alps_Hybrid.pretty/MX_Alps_Hybrid.pretty/MX-ISO.kicad_mod
     owner_name: ai03_2725
   oomp_key: oomp_ai03_2725_mx_alps_hybrid_mx_iso
+  oomp_key_full: oomp_footprint_ai03_2725_mx_alps_hybrid_mx_iso
   oomp_key_simple: ai03_2725_mx_alps_hybrid_mx_iso
   owner: ai03-2725
   repo:

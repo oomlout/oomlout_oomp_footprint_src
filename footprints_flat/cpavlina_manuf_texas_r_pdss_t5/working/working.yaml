@@ -17,9 +17,18 @@
   oomp:
     footprint_name: texas_r_pdss_t5
     library_name: manuf
+    md5: b079afaead39f3f7cee455d3bcadba53
+    md5_10: b079afaead
+    md5_5: b079a
+    md5_6: b079af
+    oomp_key: oomp_cpavlina_manuf_texas_r_pdss_t5
+    oomp_key_extra: oomp_footprint_cpavlina_manuf_texas_r_pdss_t5
+    oomp_key_full: oomp_footprint_cpavlina_manuf_texas_r_pdss_t5_b079af
+    oomp_key_simple: cpavlina_manuf_texas_r_pdss_t5
     original_filename: kicad-pcblib/manuf.pretty/TEXAS-R-PDSS-T5.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_manuf_texas_r_pdss_t5
+  oomp_key_full: oomp_footprint_cpavlina_manuf_texas_r_pdss_t5
   oomp_key_simple: cpavlina_manuf_texas_r_pdss_t5
   owner: cpavlina
   repo:

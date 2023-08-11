@@ -17,9 +17,18 @@
   oomp:
     footprint_name: c_elec_6_3x5_8
     library_name: capacitor_smd
+    md5: 56347c777fcb5ba27152540d5084b6e7
+    md5_10: 56347c777f
+    md5_5: '56347'
+    md5_6: 56347c
+    oomp_key: oomp_kicad_capacitor_smd_c_elec_6_3x5_8
+    oomp_key_extra: oomp_footprint_kicad_capacitor_smd_c_elec_6_3x5_8
+    oomp_key_full: oomp_footprint_kicad_capacitor_smd_c_elec_6_3x5_8_56347c
+    oomp_key_simple: kicad_capacitor_smd_c_elec_6_3x5_8
     original_filename: libraries/kicad-footprints/Capacitor_SMD.pretty/C_Elec_6.3x5.8.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_capacitor_smd_c_elec_6_3x5_8
+  oomp_key_full: oomp_footprint_kicad_capacitor_smd_c_elec_6_3x5_8
   oomp_key_simple: kicad_capacitor_smd_c_elec_6_3x5_8
   owner: kicad
   repo:

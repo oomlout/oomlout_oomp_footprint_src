@@ -17,9 +17,18 @@
   oomp:
     footprint_name: mx250r
     library_name: acheron_mx
+    md5: c463f722201e0121a1f73b8990dc2448
+    md5_10: c463f72220
+    md5_5: c463f
+    md5_6: c463f7
+    oomp_key: oomp_acheronproject_acheron_mx_mx250r
+    oomp_key_extra: oomp_footprint_acheronproject_acheron_mx_mx250r
+    oomp_key_full: oomp_footprint_acheronproject_acheron_mx_mx250r_c463f7
+    oomp_key_simple: acheronproject_acheron_mx_mx250r
     original_filename: acheron_MX.pretty/MX250R.kicad_mod
     owner_name: acheronproject
   oomp_key: oomp_acheronproject_acheron_mx_mx250r
+  oomp_key_full: oomp_footprint_acheronproject_acheron_mx_mx250r
   oomp_key_simple: acheronproject_acheron_mx_mx250r
   owner: AcheronProject
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: capc3225x205
     library_name: ipc7351_most
+    md5: fb52c690fa327515789e8dd9db7fabb6
+    md5_10: fb52c690fa
+    md5_5: fb52c
+    md5_6: fb52c6
+    oomp_key: oomp_cpavlina_ipc7351_most_capc3225x205
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_most_capc3225x205
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_most_capc3225x205_fb52c6
+    oomp_key_simple: cpavlina_ipc7351_most_capc3225x205
     original_filename: kicad-pcblib/IPC7351-Most.pretty/CAPC3225X205.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_most_capc3225x205
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_most_capc3225x205
   oomp_key_simple: cpavlina_ipc7351_most_capc3225x205
   owner: cpavlina
   repo:

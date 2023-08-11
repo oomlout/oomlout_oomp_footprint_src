@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xtal_0705_3
     library_name: avp
+    md5: 7dd0f2cc0b625d4018b704091ba3fb9e
+    md5_10: 7dd0f2cc0b
+    md5_5: 7dd0f
+    md5_6: 7dd0f2
+    oomp_key: oomp_av_p_avp_xtal_0705_3
+    oomp_key_extra: oomp_footprint_av_p_avp_xtal_0705_3
+    oomp_key_full: oomp_footprint_av_p_avp_xtal_0705_3_7dd0f2
+    oomp_key_simple: av_p_avp_xtal_0705_3
     original_filename: Avp.pretty/XTAL-0705-3.kicad_mod
     owner_name: av_p
   oomp_key: oomp_av_p_avp_xtal_0705_3
+  oomp_key_full: oomp_footprint_av_p_avp_xtal_0705_3
   oomp_key_simple: av_p_avp_xtal_0705_3
   owner: av-p
   repo:

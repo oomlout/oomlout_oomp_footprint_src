@@ -17,9 +17,18 @@
   oomp:
     footprint_name: 2x3_pin_1_27mm
     library_name: apex
+    md5: 4b716334ffbf3c3938cdf2241ba8979a
+    md5_10: 4b716334ff
+    md5_5: 4b716
+    md5_6: 4b7163
+    oomp_key: oomp_apexelectrix_apex_2x3_pin_1_27mm
+    oomp_key_extra: oomp_footprint_apexelectrix_apex_2x3_pin_1_27mm
+    oomp_key_full: oomp_footprint_apexelectrix_apex_2x3_pin_1_27mm_4b7163
+    oomp_key_simple: apexelectrix_apex_2x3_pin_1_27mm
     original_filename: Apex.pretty/2x3-PIN-1.27mm.kicad_mod
     owner_name: apexelectrix
   oomp_key: oomp_apexelectrix_apex_2x3_pin_1_27mm
+  oomp_key_full: oomp_footprint_apexelectrix_apex_2x3_pin_1_27mm
   oomp_key_simple: apexelectrix_apex_2x3_pin_1_27mm
   owner: apexelectrix
   repo:

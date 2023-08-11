@@ -17,9 +17,18 @@
   oomp:
     footprint_name: pmod_12_male
     library_name: xess
+    md5: 14c2ef062a593c28c41bf2f3ed97eaf5
+    md5_10: 14c2ef062a
+    md5_5: 14c2e
+    md5_6: 14c2ef
+    oomp_key: oomp_xesscorp_xess_pmod_12_male
+    oomp_key_extra: oomp_footprint_xesscorp_xess_pmod_12_male
+    oomp_key_full: oomp_footprint_xesscorp_xess_pmod_12_male_14c2ef
+    oomp_key_simple: xesscorp_xess_pmod_12_male
     original_filename: xess.pretty/PMOD-12-MALE.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_pmod_12_male
+  oomp_key_full: oomp_footprint_xesscorp_xess_pmod_12_male
   oomp_key_simple: xesscorp_xess_pmod_12_male
   owner: xesscorp
   repo:

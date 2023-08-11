@@ -17,9 +17,18 @@
   oomp:
     footprint_name: logo_oshw_silkscreen_2mm
     library_name: freetronics_footprints
+    md5: e6f5fb9c50ad51807279768710cd759f
+    md5_10: e6f5fb9c50
+    md5_5: e6f5f
+    md5_6: e6f5fb
+    oomp_key: oomp_wykys_freetronics_footprints_logo_oshw_silkscreen_2mm
+    oomp_key_extra: oomp_footprint_wykys_freetronics_footprints_logo_oshw_silkscreen_2mm
+    oomp_key_full: oomp_footprint_wykys_freetronics_footprints_logo_oshw_silkscreen_2mm_e6f5fb
+    oomp_key_simple: wykys_freetronics_footprints_logo_oshw_silkscreen_2mm
     original_filename: kicad/mods/freetronics_footprints.pretty/LOGO_OSHW_silkscreen_2mm.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_freetronics_footprints_logo_oshw_silkscreen_2mm
+  oomp_key_full: oomp_footprint_wykys_freetronics_footprints_logo_oshw_silkscreen_2mm
   oomp_key_simple: wykys_freetronics_footprints_logo_oshw_silkscreen_2mm
   owner: wykys
   repo:

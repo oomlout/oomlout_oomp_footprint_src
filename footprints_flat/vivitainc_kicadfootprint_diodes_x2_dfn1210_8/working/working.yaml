@@ -17,9 +17,18 @@
   oomp:
     footprint_name: diodes_x2_dfn1210_8
     library_name: kicadfootprint
+    md5: beddcd65af4ae5dbd9e678297d1ef6e0
+    md5_10: beddcd65af
+    md5_5: beddc
+    md5_6: beddcd
+    oomp_key: oomp_vivitainc_kicadfootprint_diodes_x2_dfn1210_8
+    oomp_key_extra: oomp_footprint_vivitainc_kicadfootprint_diodes_x2_dfn1210_8
+    oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_diodes_x2_dfn1210_8_beddcd
+    oomp_key_simple: vivitainc_kicadfootprint_diodes_x2_dfn1210_8
     original_filename: KiCADfootprint.pretty/DIODES_X2-DFN1210-8.kicad_mod
     owner_name: vivitainc
   oomp_key: oomp_vivitainc_kicadfootprint_diodes_x2_dfn1210_8
+  oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_diodes_x2_dfn1210_8
   oomp_key_simple: vivitainc_kicadfootprint_diodes_x2_dfn1210_8
   owner: vivitainc
   repo:

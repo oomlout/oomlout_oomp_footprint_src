@@ -17,9 +17,18 @@
   oomp:
     footprint_name: din41612_r_2x32_male_vertical_tht
     library_name: connector_din
+    md5: 93a56d778714ca0b83a259e32127804f
+    md5_10: 93a56d7787
+    md5_5: 93a56
+    md5_6: 93a56d
+    oomp_key: oomp_kicad_connector_din_din41612_r_2x32_male_vertical_tht
+    oomp_key_extra: oomp_footprint_kicad_connector_din_din41612_r_2x32_male_vertical_tht
+    oomp_key_full: oomp_footprint_kicad_connector_din_din41612_r_2x32_male_vertical_tht_93a56d
+    oomp_key_simple: kicad_connector_din_din41612_r_2x32_male_vertical_tht
     original_filename: libraries/kicad-footprints/Connector_DIN.pretty/DIN41612_R_2x32_Male_Vertical_THT.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_din_din41612_r_2x32_male_vertical_tht
+  oomp_key_full: oomp_footprint_kicad_connector_din_din41612_r_2x32_male_vertical_tht
   oomp_key_simple: kicad_connector_din_din41612_r_2x32_male_vertical_tht
   owner: kicad
   repo:

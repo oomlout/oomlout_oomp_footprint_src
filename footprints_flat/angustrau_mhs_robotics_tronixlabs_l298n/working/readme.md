@@ -19,8 +19,9 @@ Please consult that link for additional, details, files, and license information
 | github_path | http://github.com/angustrau/MHS_Robotics.pretty/blob/master/Tronixlabs_L298N.kicad_mod |  
 | links | {'github_src': 'http://gitlab.com/angustrau/MHS_Robotics.pretty/blob/master/Tronixlabs_L298N.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/angustrau_mhs_robotics_tronixlabs_l298n/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/angustrau_mhs_robotics_tronixlabs_l298n/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/angustrau_mhs_robotics_tronixlabs_l298n/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/angustrau_mhs_robotics_tronixlabs_l298n/working'} |  
 | name | MHS_Robotics.pretty |  
-| oomp | {'footprint_name': 'tronixlabs_l298n', 'library_name': 'mhs_robotics', 'original_filename': 'MHS_Robotics.pretty/Tronixlabs_L298N.kicad_mod', 'owner_name': 'angustrau'} |  
+| oomp | {'footprint_name': 'tronixlabs_l298n', 'library_name': 'mhs_robotics', 'md5': '2ec0b00c37ab129bc622449194c219c3', 'md5_10': '2ec0b00c37', 'md5_5': '2ec0b', 'md5_6': '2ec0b0', 'oomp_key': 'oomp_angustrau_mhs_robotics_tronixlabs_l298n', 'oomp_key_extra': 'oomp_footprint_angustrau_mhs_robotics_tronixlabs_l298n', 'oomp_key_full': 'oomp_footprint_angustrau_mhs_robotics_tronixlabs_l298n_2ec0b0', 'oomp_key_simple': 'angustrau_mhs_robotics_tronixlabs_l298n', 'original_filename': 'MHS_Robotics.pretty/Tronixlabs_L298N.kicad_mod', 'owner_name': 'angustrau'} |  
 | oomp_key | oomp_angustrau_mhs_robotics_tronixlabs_l298n |  
+| oomp_key_full | oomp_footprint_angustrau_mhs_robotics_tronixlabs_l298n |  
 | oomp_key_simple | angustrau_mhs_robotics_tronixlabs_l298n |  
 | owner | angustrau |  
 | repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  

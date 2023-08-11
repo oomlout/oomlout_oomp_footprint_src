@@ -18,9 +18,18 @@
   oomp:
     footprint_name: cfp127p1130x250_14
     library_name: ipc7351_least
+    md5: 92915321831d02b778529e6f78c785ec
+    md5_10: '9291532183'
+    md5_5: '92915'
+    md5_6: '929153'
+    oomp_key: oomp_cpavlina_ipc7351_least_cfp127p1130x250_14
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_least_cfp127p1130x250_14
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_least_cfp127p1130x250_14_929153
+    oomp_key_simple: cpavlina_ipc7351_least_cfp127p1130x250_14
     original_filename: kicad-pcblib/IPC7351-Least.pretty/CFP127P1130X250-14.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_least_cfp127p1130x250_14
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_least_cfp127p1130x250_14
   oomp_key_simple: cpavlina_ipc7351_least_cfp127p1130x250_14
   owner: cpavlina
   repo:

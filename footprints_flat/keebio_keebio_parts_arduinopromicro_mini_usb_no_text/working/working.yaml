@@ -17,9 +17,18 @@
   oomp:
     footprint_name: arduinopromicro_mini_usb_no_text
     library_name: keebio_parts
+    md5: 9603c0f8a09e5cceaaa76686122a633f
+    md5_10: 9603c0f8a0
+    md5_5: 9603c
+    md5_6: 9603c0
+    oomp_key: oomp_keebio_keebio_parts_arduinopromicro_mini_usb_no_text
+    oomp_key_extra: oomp_footprint_keebio_keebio_parts_arduinopromicro_mini_usb_no_text
+    oomp_key_full: oomp_footprint_keebio_keebio_parts_arduinopromicro_mini_usb_no_text_9603c0
+    oomp_key_simple: keebio_keebio_parts_arduinopromicro_mini_usb_no_text
     original_filename: Keebio-Parts.pretty/ArduinoProMicro-Mini-USB-No-Text.kicad_mod
     owner_name: keebio
   oomp_key: oomp_keebio_keebio_parts_arduinopromicro_mini_usb_no_text
+  oomp_key_full: oomp_footprint_keebio_keebio_parts_arduinopromicro_mini_usb_no_text
   oomp_key_simple: keebio_keebio_parts_arduinopromicro_mini_usb_no_text
   owner: keebio
   repo:

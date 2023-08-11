@@ -17,9 +17,18 @@
   oomp:
     footprint_name: crystal_4_smd_2_5x2mm
     library_name: footprints
+    md5: 25337d93b4e21b4b66dc58fa31a640a8
+    md5_10: 25337d93b4
+    md5_5: '25337'
+    md5_6: 25337d
+    oomp_key: oomp_wykys_footprints_crystal_4_smd_2_5x2mm
+    oomp_key_extra: oomp_footprint_wykys_footprints_crystal_4_smd_2_5x2mm
+    oomp_key_full: oomp_footprint_wykys_footprints_crystal_4_smd_2_5x2mm_25337d
+    oomp_key_simple: wykys_footprints_crystal_4_smd_2_5x2mm
     original_filename: kicad/demos/stickhub/footprints.pretty/Crystal_4-SMD_2.5x2mm.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_footprints_crystal_4_smd_2_5x2mm
+  oomp_key_full: oomp_footprint_wykys_footprints_crystal_4_smd_2_5x2mm
   oomp_key_simple: wykys_footprints_crystal_4_smd_2_5x2mm
   owner: wykys
   repo:

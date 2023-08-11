@@ -17,9 +17,18 @@
   oomp:
     footprint_name: esd_logo_13_2x12mm_silkscreen
     library_name: symbol
+    md5: 35cba243a53365ee13cfa1be41584373
+    md5_10: 35cba243a5
+    md5_5: 35cba
+    md5_6: 35cba2
+    oomp_key: oomp_kicad_symbol_esd_logo_13_2x12mm_silkscreen
+    oomp_key_extra: oomp_footprint_kicad_symbol_esd_logo_13_2x12mm_silkscreen
+    oomp_key_full: oomp_footprint_kicad_symbol_esd_logo_13_2x12mm_silkscreen_35cba2
+    oomp_key_simple: kicad_symbol_esd_logo_13_2x12mm_silkscreen
     original_filename: libraries/kicad-footprints/Symbol.pretty/ESD-Logo_13.2x12mm_SilkScreen.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_symbol_esd_logo_13_2x12mm_silkscreen
+  oomp_key_full: oomp_footprint_kicad_symbol_esd_logo_13_2x12mm_silkscreen
   oomp_key_simple: kicad_symbol_esd_logo_13_2x12mm_silkscreen
   owner: kicad
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: texas_s_pwson_n6
     library_name: manuf
+    md5: 9f94aa412a3a5d59b1ed1ca250619e04
+    md5_10: 9f94aa412a
+    md5_5: 9f94a
+    md5_6: 9f94aa
+    oomp_key: oomp_cpavlina_manuf_texas_s_pwson_n6
+    oomp_key_extra: oomp_footprint_cpavlina_manuf_texas_s_pwson_n6
+    oomp_key_full: oomp_footprint_cpavlina_manuf_texas_s_pwson_n6_9f94aa
+    oomp_key_simple: cpavlina_manuf_texas_s_pwson_n6
     original_filename: kicad-pcblib/manuf.pretty/TEXAS-S-PWSON-N6.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_manuf_texas_s_pwson_n6
+  oomp_key_full: oomp_footprint_cpavlina_manuf_texas_s_pwson_n6
   oomp_key_simple: cpavlina_manuf_texas_s_pwson_n6
   owner: cpavlina
   repo:

@@ -16,10 +16,19 @@
   name: agg-kicad
   oomp:
     footprint_name: usb3065
-    library_name: unchecked
+    library_name: agg
+    md5: f781ec18c98047dc1cbf6f80731f5e4b
+    md5_10: f781ec18c9
+    md5_5: f781e
+    md5_6: f781ec
+    oomp_key: oomp_adamgreig_agg_usb3065
+    oomp_key_extra: oomp_footprint_adamgreig_agg_usb3065
+    oomp_key_full: oomp_footprint_adamgreig_agg_usb3065_f781ec
+    oomp_key_simple: adamgreig_agg_usb3065
     original_filename: agg-kicad/agg.pretty/unchecked.pretty/USB3065.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_usb3065
+  oomp_key_full: oomp_footprint_adamgreig_agg_usb3065
   oomp_key_simple: adamgreig_agg_usb3065
   owner: adamgreig
   repo:

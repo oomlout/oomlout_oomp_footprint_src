@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sma_wurth_60312102114405_vertical
     library_name: connector_coaxial
+    md5: 4630491cc3b31aed90cbc7741c9453c9
+    md5_10: 4630491cc3
+    md5_5: '46304'
+    md5_6: '463049'
+    oomp_key: oomp_kicad_connector_coaxial_sma_wurth_60312102114405_vertical
+    oomp_key_extra: oomp_footprint_kicad_connector_coaxial_sma_wurth_60312102114405_vertical
+    oomp_key_full: oomp_footprint_kicad_connector_coaxial_sma_wurth_60312102114405_vertical_463049
+    oomp_key_simple: kicad_connector_coaxial_sma_wurth_60312102114405_vertical
     original_filename: libraries/kicad-footprints/Connector_Coaxial.pretty/SMA_Wurth_60312102114405_Vertical.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_coaxial_sma_wurth_60312102114405_vertical
+  oomp_key_full: oomp_footprint_kicad_connector_coaxial_sma_wurth_60312102114405_vertical
   oomp_key_simple: kicad_connector_coaxial_sma_wurth_60312102114405_vertical
   owner: kicad
   repo:

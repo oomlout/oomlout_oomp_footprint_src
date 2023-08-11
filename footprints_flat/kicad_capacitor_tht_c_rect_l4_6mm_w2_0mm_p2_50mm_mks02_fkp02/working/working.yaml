@@ -18,9 +18,18 @@
   oomp:
     footprint_name: c_rect_l4_6mm_w2_0mm_p2_50mm_mks02_fkp02
     library_name: capacitor_tht
+    md5: f61517014b5daa17680f0c50ce4a2db5
+    md5_10: f61517014b
+    md5_5: f6151
+    md5_6: f61517
+    oomp_key: oomp_kicad_capacitor_tht_c_rect_l4_6mm_w2_0mm_p2_50mm_mks02_fkp02
+    oomp_key_extra: oomp_footprint_kicad_capacitor_tht_c_rect_l4_6mm_w2_0mm_p2_50mm_mks02_fkp02
+    oomp_key_full: oomp_footprint_kicad_capacitor_tht_c_rect_l4_6mm_w2_0mm_p2_50mm_mks02_fkp02_f61517
+    oomp_key_simple: kicad_capacitor_tht_c_rect_l4_6mm_w2_0mm_p2_50mm_mks02_fkp02
     original_filename: libraries/kicad-footprints/Capacitor_THT.pretty/C_Rect_L4.6mm_W2.0mm_P2.50mm_MKS02_FKP02.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_capacitor_tht_c_rect_l4_6mm_w2_0mm_p2_50mm_mks02_fkp02
+  oomp_key_full: oomp_footprint_kicad_capacitor_tht_c_rect_l4_6mm_w2_0mm_p2_50mm_mks02_fkp02
   oomp_key_simple: kicad_capacitor_tht_c_rect_l4_6mm_w2_0mm_p2_50mm_mks02_fkp02
   owner: kicad
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sip_9
     library_name: dip_sip
+    md5: 2847945ec43037adba1263a32fe2e0f9
+    md5_10: 2847945ec4
+    md5_5: '28479'
+    md5_6: '284794'
+    oomp_key: oomp_cpavlina_dip_sip_sip_9
+    oomp_key_extra: oomp_footprint_cpavlina_dip_sip_sip_9
+    oomp_key_full: oomp_footprint_cpavlina_dip_sip_sip_9_284794
+    oomp_key_simple: cpavlina_dip_sip_sip_9
     original_filename: kicad-pcblib/dip-sip.pretty/SIP-9.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_dip_sip_sip_9
+  oomp_key_full: oomp_footprint_cpavlina_dip_sip_sip_9
   oomp_key_simple: cpavlina_dip_sip_sip_9
   owner: cpavlina
   repo:

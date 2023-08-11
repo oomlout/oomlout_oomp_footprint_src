@@ -17,9 +17,18 @@
   oomp:
     footprint_name: openmv_cam_m7
     library_name: mhs_robotics
+    md5: d961b9bf1319dd81c4a3009b24e0642e
+    md5_10: d961b9bf13
+    md5_5: d961b
+    md5_6: d961b9
+    oomp_key: oomp_angustrau_mhs_robotics_openmv_cam_m7
+    oomp_key_extra: oomp_footprint_angustrau_mhs_robotics_openmv_cam_m7
+    oomp_key_full: oomp_footprint_angustrau_mhs_robotics_openmv_cam_m7_d961b9
+    oomp_key_simple: angustrau_mhs_robotics_openmv_cam_m7
     original_filename: MHS_Robotics.pretty/OpenMV_Cam_M7.kicad_mod
     owner_name: angustrau
   oomp_key: oomp_angustrau_mhs_robotics_openmv_cam_m7
+  oomp_key_full: oomp_footprint_angustrau_mhs_robotics_openmv_cam_m7
   oomp_key_simple: angustrau_mhs_robotics_openmv_cam_m7
   owner: angustrau
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sot_353_sc_70_5
     library_name: package_to_sot_smd
+    md5: 6a2ec94aa4190a6991901ab7f9a367b1
+    md5_10: 6a2ec94aa4
+    md5_5: 6a2ec
+    md5_6: 6a2ec9
+    oomp_key: oomp_kicad_package_to_sot_smd_sot_353_sc_70_5
+    oomp_key_extra: oomp_footprint_kicad_package_to_sot_smd_sot_353_sc_70_5
+    oomp_key_full: oomp_footprint_kicad_package_to_sot_smd_sot_353_sc_70_5_6a2ec9
+    oomp_key_simple: kicad_package_to_sot_smd_sot_353_sc_70_5
     original_filename: libraries/kicad-footprints/Package_TO_SOT_SMD.pretty/SOT-353_SC-70-5.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_to_sot_smd_sot_353_sc_70_5
+  oomp_key_full: oomp_footprint_kicad_package_to_sot_smd_sot_353_sc_70_5
   oomp_key_simple: kicad_package_to_sot_smd_sot_353_sc_70_5
   owner: kicad
   repo:

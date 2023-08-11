@@ -17,9 +17,18 @@
   oomp:
     footprint_name: usb_c_female_12401x
     library_name: digikey_footprints
+    md5: cad3ee56a6f19bff3fc2a02381d680a5
+    md5_10: cad3ee56a6
+    md5_5: cad3e
+    md5_6: cad3ee
+    oomp_key: oomp_digikey_digikey_footprints_usb_c_female_12401x
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_usb_c_female_12401x
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_usb_c_female_12401x_cad3ee
+    oomp_key_simple: digikey_digikey_footprints_usb_c_female_12401x
     original_filename: digikey-kicad-library/digikey-footprints.pretty/USB-C_Female_12401X.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_usb_c_female_12401x
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_usb_c_female_12401x
   oomp_key_simple: digikey_digikey_footprints_usb_c_female_12401x
   owner: digikey
   repo:

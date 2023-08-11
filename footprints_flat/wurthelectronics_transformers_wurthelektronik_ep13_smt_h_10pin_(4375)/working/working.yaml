@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ep13_smt_h_10pin_(4375)
     library_name: transformers_wurthelektronik
+    md5: 31013fb738c6191df5a43803af03671b
+    md5_10: 31013fb738
+    md5_5: '31013'
+    md5_6: 31013f
+    oomp_key: oomp_wurthelectronics_transformers_wurthelektronik_ep13_smt_h_10pin_(4375)
+    oomp_key_extra: oomp_footprint_wurthelectronics_transformers_wurthelektronik_ep13_smt_h_10pin_(4375)
+    oomp_key_full: oomp_footprint_wurthelectronics_transformers_wurthelektronik_ep13_smt_h_10pin_(4375)_31013f
+    oomp_key_simple: wurthelectronics_transformers_wurthelektronik_ep13_smt_h_10pin_(4375)
     original_filename: Transformers_WurthElektronik.pretty/EP13_SMT_H_10PIN_(4375).kicad_mod
     owner_name: wurthelectronics
   oomp_key: oomp_wurthelectronics_transformers_wurthelektronik_ep13_smt_h_10pin_(4375)
+  oomp_key_full: oomp_footprint_wurthelectronics_transformers_wurthelektronik_ep13_smt_h_10pin_(4375)
   oomp_key_simple: wurthelectronics_transformers_wurthelektronik_ep13_smt_h_10pin_(4375)
   owner: WurthElectronics
   repo:

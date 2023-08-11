@@ -17,9 +17,18 @@
   oomp:
     footprint_name: rj45_amphenol_rjhse5380
     library_name: connector_rj
+    md5: db2710b8a001cc4ee0b2c7ba80b991e4
+    md5_10: db2710b8a0
+    md5_5: db271
+    md5_6: db2710
+    oomp_key: oomp_kicad_connector_rj_rj45_amphenol_rjhse5380
+    oomp_key_extra: oomp_footprint_kicad_connector_rj_rj45_amphenol_rjhse5380
+    oomp_key_full: oomp_footprint_kicad_connector_rj_rj45_amphenol_rjhse5380_db2710
+    oomp_key_simple: kicad_connector_rj_rj45_amphenol_rjhse5380
     original_filename: libraries/kicad-footprints/Connector_RJ.pretty/RJ45_Amphenol_RJHSE5380.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_rj_rj45_amphenol_rjhse5380
+  oomp_key_full: oomp_footprint_kicad_connector_rj_rj45_amphenol_rjhse5380
   oomp_key_simple: kicad_connector_rj_rj45_amphenol_rjhse5380
   owner: kicad
   repo:

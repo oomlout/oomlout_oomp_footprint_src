@@ -19,9 +19,18 @@
   oomp:
     footprint_name: invensense_qfn_24_3x3mm_p0_4mm
     library_name: sensor_motion
+    md5: bf2bf849e2e2195980c4c9b01eb0618f
+    md5_10: bf2bf849e2
+    md5_5: bf2bf
+    md5_6: bf2bf8
+    oomp_key: oomp_kicad_sensor_motion_invensense_qfn_24_3x3mm_p0_4mm
+    oomp_key_extra: oomp_footprint_kicad_sensor_motion_invensense_qfn_24_3x3mm_p0_4mm
+    oomp_key_full: oomp_footprint_kicad_sensor_motion_invensense_qfn_24_3x3mm_p0_4mm_bf2bf8
+    oomp_key_simple: kicad_sensor_motion_invensense_qfn_24_3x3mm_p0_4mm
     original_filename: libraries/kicad-footprints/Sensor_Motion.pretty/InvenSense_QFN-24_3x3mm_P0.4mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_sensor_motion_invensense_qfn_24_3x3mm_p0_4mm
+  oomp_key_full: oomp_footprint_kicad_sensor_motion_invensense_qfn_24_3x3mm_p0_4mm
   oomp_key_simple: kicad_sensor_motion_invensense_qfn_24_3x3mm_p0_4mm
   owner: kicad
   repo:

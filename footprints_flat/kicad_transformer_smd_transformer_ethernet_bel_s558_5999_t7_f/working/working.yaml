@@ -17,9 +17,18 @@
   oomp:
     footprint_name: transformer_ethernet_bel_s558_5999_t7_f
     library_name: transformer_smd
+    md5: 3c6c4915f26998e5c26fbc3b39ef0ead
+    md5_10: 3c6c4915f2
+    md5_5: 3c6c4
+    md5_6: 3c6c49
+    oomp_key: oomp_kicad_transformer_smd_transformer_ethernet_bel_s558_5999_t7_f
+    oomp_key_extra: oomp_footprint_kicad_transformer_smd_transformer_ethernet_bel_s558_5999_t7_f
+    oomp_key_full: oomp_footprint_kicad_transformer_smd_transformer_ethernet_bel_s558_5999_t7_f_3c6c49
+    oomp_key_simple: kicad_transformer_smd_transformer_ethernet_bel_s558_5999_t7_f
     original_filename: libraries/kicad-footprints/Transformer_SMD.pretty/Transformer_Ethernet_Bel_S558-5999-T7-F.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_transformer_smd_transformer_ethernet_bel_s558_5999_t7_f
+  oomp_key_full: oomp_footprint_kicad_transformer_smd_transformer_ethernet_bel_s558_5999_t7_f
   oomp_key_simple: kicad_transformer_smd_transformer_ethernet_bel_s558_5999_t7_f
   owner: kicad
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: fiducial
     library_name: freetronics_footprints
+    md5: 3c82ec3abcefb7dfc7dcf85ece19dbef
+    md5_10: 3c82ec3abc
+    md5_5: 3c82e
+    md5_6: 3c82ec
+    oomp_key: oomp_wykys_freetronics_footprints_fiducial
+    oomp_key_extra: oomp_footprint_wykys_freetronics_footprints_fiducial
+    oomp_key_full: oomp_footprint_wykys_freetronics_footprints_fiducial_3c82ec
+    oomp_key_simple: wykys_freetronics_footprints_fiducial
     original_filename: kicad/mods/freetronics_footprints.pretty/FIDUCIAL.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_freetronics_footprints_fiducial
+  oomp_key_full: oomp_footprint_wykys_freetronics_footprints_fiducial
   oomp_key_simple: wykys_freetronics_footprints_fiducial
   owner: wykys
   repo:

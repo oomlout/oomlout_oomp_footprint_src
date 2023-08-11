@@ -17,9 +17,18 @@
   oomp:
     footprint_name: diodes_sma_do214ac_diode
     library_name: primarypoints
+    md5: c76805702bfd9f7095d72aed33577f49
+    md5_10: c76805702b
+    md5_5: c7680
+    md5_6: c76805
+    oomp_key: oomp_zanekaminski_primarypoints_diodes_sma_do214ac_diode
+    oomp_key_extra: oomp_footprint_zanekaminski_primarypoints_diodes_sma_do214ac_diode
+    oomp_key_full: oomp_footprint_zanekaminski_primarypoints_diodes_sma_do214ac_diode_c76805
+    oomp_key_simple: zanekaminski_primarypoints_diodes_sma_do214ac_diode
     original_filename: primarypoints.pretty/Diodes_SMA_DO214AC_Diode.kicad_mod
     owner_name: zanekaminski
   oomp_key: oomp_zanekaminski_primarypoints_diodes_sma_do214ac_diode
+  oomp_key_full: oomp_footprint_zanekaminski_primarypoints_diodes_sma_do214ac_diode
   oomp_key_simple: zanekaminski_primarypoints_diodes_sma_do214ac_diode
   owner: ZaneKaminski
   repo:

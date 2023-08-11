@@ -17,9 +17,18 @@
   oomp:
     footprint_name: osccc200x250x080
     library_name: ipc7351_nominal
+    md5: 6a8e491a33dc51058e77af462d1ceefd
+    md5_10: 6a8e491a33
+    md5_5: 6a8e4
+    md5_6: 6a8e49
+    oomp_key: oomp_cpavlina_ipc7351_nominal_osccc200x250x080
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_nominal_osccc200x250x080
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_osccc200x250x080_6a8e49
+    oomp_key_simple: cpavlina_ipc7351_nominal_osccc200x250x080
     original_filename: kicad-pcblib/IPC7351-Nominal.pretty/OSCCC200X250X080.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_nominal_osccc200x250x080
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_osccc200x250x080
   oomp_key_simple: cpavlina_ipc7351_nominal_osccc200x250x080
   owner: cpavlina
   repo:

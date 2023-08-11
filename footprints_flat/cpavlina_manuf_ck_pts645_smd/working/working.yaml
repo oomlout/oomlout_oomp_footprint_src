@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ck_pts645_smd
     library_name: manuf
+    md5: ad9174a0039dc3aa1b7e6bf9da710404
+    md5_10: ad9174a003
+    md5_5: ad917
+    md5_6: ad9174
+    oomp_key: oomp_cpavlina_manuf_ck_pts645_smd
+    oomp_key_extra: oomp_footprint_cpavlina_manuf_ck_pts645_smd
+    oomp_key_full: oomp_footprint_cpavlina_manuf_ck_pts645_smd_ad9174
+    oomp_key_simple: cpavlina_manuf_ck_pts645_smd
     original_filename: kicad-pcblib/manuf.pretty/CK-PTS645-SMD.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_manuf_ck_pts645_smd
+  oomp_key_full: oomp_footprint_cpavlina_manuf_ck_pts645_smd
   oomp_key_simple: cpavlina_manuf_ck_pts645_smd
   owner: cpavlina
   repo:

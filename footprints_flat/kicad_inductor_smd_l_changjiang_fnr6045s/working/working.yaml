@@ -17,9 +17,18 @@
   oomp:
     footprint_name: l_changjiang_fnr6045s
     library_name: inductor_smd
+    md5: 24f0763a9b94d36387059073978d7044
+    md5_10: 24f0763a9b
+    md5_5: 24f07
+    md5_6: 24f076
+    oomp_key: oomp_kicad_inductor_smd_l_changjiang_fnr6045s
+    oomp_key_extra: oomp_footprint_kicad_inductor_smd_l_changjiang_fnr6045s
+    oomp_key_full: oomp_footprint_kicad_inductor_smd_l_changjiang_fnr6045s_24f076
+    oomp_key_simple: kicad_inductor_smd_l_changjiang_fnr6045s
     original_filename: libraries/kicad-footprints/Inductor_SMD.pretty/L_Changjiang_FNR6045S.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_inductor_smd_l_changjiang_fnr6045s
+  oomp_key_full: oomp_footprint_kicad_inductor_smd_l_changjiang_fnr6045s
   oomp_key_simple: kicad_inductor_smd_l_changjiang_fnr6045s
   owner: kicad
   repo:

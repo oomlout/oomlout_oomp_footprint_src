@@ -17,9 +17,18 @@
   oomp:
     footprint_name: fuse_littelfuse_lvr200
     library_name: fuse
+    md5: 33598e81bcde94629a0b4b65ea54a7d8
+    md5_10: 33598e81bc
+    md5_5: '33598'
+    md5_6: 33598e
+    oomp_key: oomp_kicad_fuse_fuse_littelfuse_lvr200
+    oomp_key_extra: oomp_footprint_kicad_fuse_fuse_littelfuse_lvr200
+    oomp_key_full: oomp_footprint_kicad_fuse_fuse_littelfuse_lvr200_33598e
+    oomp_key_simple: kicad_fuse_fuse_littelfuse_lvr200
     original_filename: libraries/kicad-footprints/Fuse.pretty/Fuse_Littelfuse-LVR200.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_fuse_fuse_littelfuse_lvr200
+  oomp_key_full: oomp_footprint_kicad_fuse_fuse_littelfuse_lvr200
   oomp_key_simple: kicad_fuse_fuse_littelfuse_lvr200
   owner: kicad
   repo:

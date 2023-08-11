@@ -17,9 +17,18 @@
   oomp:
     footprint_name: vqfn_24_1ep_4x4mm_p0_5mm_ep2x2mm
     library_name: rhais_package_qfn
+    md5: a2dd95bc44741cbfc2008d87f032f8e1
+    md5_10: a2dd95bc44
+    md5_5: a2dd9
+    md5_6: a2dd95
+    oomp_key: oomp_dx_mon_rhais_package_qfn_vqfn_24_1ep_4x4mm_p0_5mm_ep2x2mm
+    oomp_key_extra: oomp_footprint_dx_mon_rhais_package_qfn_vqfn_24_1ep_4x4mm_p0_5mm_ep2x2mm
+    oomp_key_full: oomp_footprint_dx_mon_rhais_package_qfn_vqfn_24_1ep_4x4mm_p0_5mm_ep2x2mm_a2dd95
+    oomp_key_simple: dx_mon_rhais_package_qfn_vqfn_24_1ep_4x4mm_p0_5mm_ep2x2mm
     original_filename: rhais_package-qfn.pretty/VQFN-24-1EP_4x4mm_P0.5mm_EP2x2mm.kicad_mod
     owner_name: dx_mon
   oomp_key: oomp_dx_mon_rhais_package_qfn_vqfn_24_1ep_4x4mm_p0_5mm_ep2x2mm
+  oomp_key_full: oomp_footprint_dx_mon_rhais_package_qfn_vqfn_24_1ep_4x4mm_p0_5mm_ep2x2mm
   oomp_key_simple: dx_mon_rhais_package_qfn_vqfn_24_1ep_4x4mm_p0_5mm_ep2x2mm
   owner: DX-MON
   repo:

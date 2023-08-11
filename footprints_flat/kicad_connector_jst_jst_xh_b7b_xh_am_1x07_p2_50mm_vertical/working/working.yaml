@@ -18,9 +18,18 @@
   oomp:
     footprint_name: jst_xh_b7b_xh_am_1x07_p2_50mm_vertical
     library_name: connector_jst
+    md5: 9ab769bad97ae6aaad4dcccbf96f1514
+    md5_10: 9ab769bad9
+    md5_5: 9ab76
+    md5_6: 9ab769
+    oomp_key: oomp_kicad_connector_jst_jst_xh_b7b_xh_am_1x07_p2_50mm_vertical
+    oomp_key_extra: oomp_footprint_kicad_connector_jst_jst_xh_b7b_xh_am_1x07_p2_50mm_vertical
+    oomp_key_full: oomp_footprint_kicad_connector_jst_jst_xh_b7b_xh_am_1x07_p2_50mm_vertical_9ab769
+    oomp_key_simple: kicad_connector_jst_jst_xh_b7b_xh_am_1x07_p2_50mm_vertical
     original_filename: libraries/kicad-footprints/Connector_JST.pretty/JST_XH_B7B-XH-AM_1x07_P2.50mm_Vertical.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_jst_jst_xh_b7b_xh_am_1x07_p2_50mm_vertical
+  oomp_key_full: oomp_footprint_kicad_connector_jst_jst_xh_b7b_xh_am_1x07_p2_50mm_vertical
   oomp_key_simple: kicad_connector_jst_jst_xh_b7b_xh_am_1x07_p2_50mm_vertical
   owner: kicad
   repo:

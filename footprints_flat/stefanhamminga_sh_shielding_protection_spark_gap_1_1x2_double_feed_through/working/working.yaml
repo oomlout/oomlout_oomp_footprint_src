@@ -17,9 +17,18 @@
   oomp:
     footprint_name: spark_gap_1_1x2_double_feed_through
     library_name: sh_shielding_protection
+    md5: 78bfbba73c2145dd9125226aa0ee2077
+    md5_10: 78bfbba73c
+    md5_5: 78bfb
+    md5_6: 78bfbb
+    oomp_key: oomp_stefanhamminga_sh_shielding_protection_spark_gap_1_1x2_double_feed_through
+    oomp_key_extra: oomp_footprint_stefanhamminga_sh_shielding_protection_spark_gap_1_1x2_double_feed_through
+    oomp_key_full: oomp_footprint_stefanhamminga_sh_shielding_protection_spark_gap_1_1x2_double_feed_through_78bfbb
+    oomp_key_simple: stefanhamminga_sh_shielding_protection_spark_gap_1_1x2_double_feed_through
     original_filename: SH_Shielding_Protection.pretty/Spark_Gap_1.1x2_Double_Feed_Through.kicad_mod
     owner_name: stefanhamminga
   oomp_key: oomp_stefanhamminga_sh_shielding_protection_spark_gap_1_1x2_double_feed_through
+  oomp_key_full: oomp_footprint_stefanhamminga_sh_shielding_protection_spark_gap_1_1x2_double_feed_through
   oomp_key_simple: stefanhamminga_sh_shielding_protection_spark_gap_1_1x2_double_feed_through
   owner: StefanHamminga
   repo:

@@ -18,9 +18,18 @@
   oomp:
     footprint_name: batteryholder_mpd_ba9vpc_1xpp3
     library_name: battery
+    md5: 7f8fbb6c53d196dbcedf90af8aec4591
+    md5_10: 7f8fbb6c53
+    md5_5: 7f8fb
+    md5_6: 7f8fbb
+    oomp_key: oomp_kicad_battery_batteryholder_mpd_ba9vpc_1xpp3
+    oomp_key_extra: oomp_footprint_kicad_battery_batteryholder_mpd_ba9vpc_1xpp3
+    oomp_key_full: oomp_footprint_kicad_battery_batteryholder_mpd_ba9vpc_1xpp3_7f8fbb
+    oomp_key_simple: kicad_battery_batteryholder_mpd_ba9vpc_1xpp3
     original_filename: libraries/kicad-footprints/Battery.pretty/BatteryHolder_MPD_BA9VPC_1xPP3.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_battery_batteryholder_mpd_ba9vpc_1xpp3
+  oomp_key_full: oomp_footprint_kicad_battery_batteryholder_mpd_ba9vpc_1xpp3
   oomp_key_simple: kicad_battery_batteryholder_mpd_ba9vpc_1xpp3
   owner: kicad
   repo:

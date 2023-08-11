@@ -16,10 +16,19 @@
   name: agg-kicad
   oomp:
     footprint_name: pdv_p9203
-    library_name: unchecked
+    library_name: agg
+    md5: 2189f0a6400d39f36d614c7d291b2321
+    md5_10: 2189f0a640
+    md5_5: 2189f
+    md5_6: 2189f0
+    oomp_key: oomp_adamgreig_agg_pdv_p9203
+    oomp_key_extra: oomp_footprint_adamgreig_agg_pdv_p9203
+    oomp_key_full: oomp_footprint_adamgreig_agg_pdv_p9203_2189f0
+    oomp_key_simple: adamgreig_agg_pdv_p9203
     original_filename: agg-kicad/agg.pretty/unchecked.pretty/PDV-P9203.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_pdv_p9203
+  oomp_key_full: oomp_footprint_adamgreig_agg_pdv_p9203
   oomp_key_simple: adamgreig_agg_pdv_p9203
   owner: adamgreig
   repo:

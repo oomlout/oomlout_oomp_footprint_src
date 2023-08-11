@@ -17,9 +17,18 @@
   oomp:
     footprint_name: hybrid_msop_8_ti_dgk_psop_8_toshiba_ssop8_p_0_65
     library_name: primarypoints
+    md5: d7a277d9416f79d51e9ad0d510dc2523
+    md5_10: d7a277d941
+    md5_5: d7a27
+    md5_6: d7a277
+    oomp_key: oomp_zanekaminski_primarypoints_hybrid_msop_8_ti_dgk_psop_8_toshiba_ssop8_p_0_65
+    oomp_key_extra: oomp_footprint_zanekaminski_primarypoints_hybrid_msop_8_ti_dgk_psop_8_toshiba_ssop8_p_0_65
+    oomp_key_full: oomp_footprint_zanekaminski_primarypoints_hybrid_msop_8_ti_dgk_psop_8_toshiba_ssop8_p_0_65_d7a277
+    oomp_key_simple: zanekaminski_primarypoints_hybrid_msop_8_ti_dgk_psop_8_toshiba_ssop8_p_0_65
     original_filename: primarypoints.pretty/Hybrid_MSOP-8_TI_DGK_PSOP-8_Toshiba_SSOP8-P-0.65.kicad_mod
     owner_name: zanekaminski
   oomp_key: oomp_zanekaminski_primarypoints_hybrid_msop_8_ti_dgk_psop_8_toshiba_ssop8_p_0_65
+  oomp_key_full: oomp_footprint_zanekaminski_primarypoints_hybrid_msop_8_ti_dgk_psop_8_toshiba_ssop8_p_0_65
   oomp_key_simple: zanekaminski_primarypoints_hybrid_msop_8_ti_dgk_psop_8_toshiba_ssop8_p_0_65
   owner: ZaneKaminski
   repo:

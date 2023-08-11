@@ -17,9 +17,18 @@
   oomp:
     footprint_name: r_2010
     library_name: apex_smd_resistors
+    md5: 13401c265a28f108d0699d9e6d0ce127
+    md5_10: 13401c265a
+    md5_5: '13401'
+    md5_6: 13401c
+    oomp_key: oomp_apexelectrix_apex_smd_resistors_r_2010
+    oomp_key_extra: oomp_footprint_apexelectrix_apex_smd_resistors_r_2010
+    oomp_key_full: oomp_footprint_apexelectrix_apex_smd_resistors_r_2010_13401c
+    oomp_key_simple: apexelectrix_apex_smd_resistors_r_2010
     original_filename: apex-smd-resistors.pretty/R_2010.kicad_mod
     owner_name: apexelectrix
   oomp_key: oomp_apexelectrix_apex_smd_resistors_r_2010
+  oomp_key_full: oomp_footprint_apexelectrix_apex_smd_resistors_r_2010
   oomp_key_simple: apexelectrix_apex_smd_resistors_r_2010
   owner: apexelectrix
   repo:

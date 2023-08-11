@@ -15,9 +15,18 @@
   oomp:
     footprint_name: '614004184726'
     library_name: usb
+    md5: 985f5705f524bc812c538e470ee1149f
+    md5_10: 985f5705f5
+    md5_5: 985f5
+    md5_6: 985f57
+    oomp_key: oomp_electroniccats_usb_614004184726
+    oomp_key_extra: oomp_footprint_electroniccats_usb_614004184726
+    oomp_key_full: oomp_footprint_electroniccats_usb_614004184726_985f57
+    oomp_key_simple: electroniccats_usb_614004184726
     original_filename: ComponentLibrariesKicadWurthElektronik/INPUT_OUTPUT_CONNECTORS-rev17b/USB.pretty/614004184726.kicad_mod
     owner_name: electroniccats
   oomp_key: oomp_electroniccats_usb_614004184726
+  oomp_key_full: oomp_footprint_electroniccats_usb_614004184726
   oomp_key_simple: electroniccats_usb_614004184726
   owner: ElectronicCats
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_if_e97
     library_name: xess
+    md5: 004735c94dfe6c0980b317f4f1aed013
+    md5_10: 004735c94d
+    md5_5: '00473'
+    md5_6: '004735'
+    oomp_key: oomp_xesscorp_xess_xess_if_e97
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_if_e97
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_if_e97_004735
+    oomp_key_simple: xesscorp_xess_xess_if_e97
     original_filename: xess.pretty/xess-IF-E97.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_if_e97
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_if_e97
   oomp_key_simple: xesscorp_xess_xess_if_e97
   owner: xesscorp
   repo:

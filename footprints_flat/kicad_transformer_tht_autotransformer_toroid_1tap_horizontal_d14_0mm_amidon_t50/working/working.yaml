@@ -18,9 +18,18 @@
   oomp:
     footprint_name: autotransformer_toroid_1tap_horizontal_d14_0mm_amidon_t50
     library_name: transformer_tht
+    md5: 7d3a70ee7dbb29b1c3083de330f20943
+    md5_10: 7d3a70ee7d
+    md5_5: 7d3a7
+    md5_6: 7d3a70
+    oomp_key: oomp_kicad_transformer_tht_autotransformer_toroid_1tap_horizontal_d14_0mm_amidon_t50
+    oomp_key_extra: oomp_footprint_kicad_transformer_tht_autotransformer_toroid_1tap_horizontal_d14_0mm_amidon_t50
+    oomp_key_full: oomp_footprint_kicad_transformer_tht_autotransformer_toroid_1tap_horizontal_d14_0mm_amidon_t50_7d3a70
+    oomp_key_simple: kicad_transformer_tht_autotransformer_toroid_1tap_horizontal_d14_0mm_amidon_t50
     original_filename: libraries/kicad-footprints/Transformer_THT.pretty/Autotransformer_Toroid_1Tap_Horizontal_D14.0mm_Amidon-T50.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_transformer_tht_autotransformer_toroid_1tap_horizontal_d14_0mm_amidon_t50
+  oomp_key_full: oomp_footprint_kicad_transformer_tht_autotransformer_toroid_1tap_horizontal_d14_0mm_amidon_t50
   oomp_key_simple: kicad_transformer_tht_autotransformer_toroid_1tap_horizontal_d14_0mm_amidon_t50
   owner: kicad
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: nichicon_uwx_dia6_3mm
     library_name: primarypoints
+    md5: 85801e62827fbfe64eb70042a7e2c813
+    md5_10: 85801e6282
+    md5_5: '85801'
+    md5_6: 85801e
+    oomp_key: oomp_zanekaminski_primarypoints_nichicon_uwx_dia6_3mm
+    oomp_key_extra: oomp_footprint_zanekaminski_primarypoints_nichicon_uwx_dia6_3mm
+    oomp_key_full: oomp_footprint_zanekaminski_primarypoints_nichicon_uwx_dia6_3mm_85801e
+    oomp_key_simple: zanekaminski_primarypoints_nichicon_uwx_dia6_3mm
     original_filename: primarypoints.pretty/Nichicon_UWX_dia6.3mm.kicad_mod
     owner_name: zanekaminski
   oomp_key: oomp_zanekaminski_primarypoints_nichicon_uwx_dia6_3mm
+  oomp_key_full: oomp_footprint_zanekaminski_primarypoints_nichicon_uwx_dia6_3mm
   oomp_key_simple: zanekaminski_primarypoints_nichicon_uwx_dia6_3mm
   owner: ZaneKaminski
   repo:

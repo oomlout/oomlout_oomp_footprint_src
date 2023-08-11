@@ -18,9 +18,18 @@
   oomp:
     footprint_name: tssop_64_8x14mm_p0_4mm
     library_name: package_so
+    md5: 371d9dd923d904920ebdac5c342c15a3
+    md5_10: 371d9dd923
+    md5_5: 371d9
+    md5_6: 371d9d
+    oomp_key: oomp_kicad_package_so_tssop_64_8x14mm_p0_4mm
+    oomp_key_extra: oomp_footprint_kicad_package_so_tssop_64_8x14mm_p0_4mm
+    oomp_key_full: oomp_footprint_kicad_package_so_tssop_64_8x14mm_p0_4mm_371d9d
+    oomp_key_simple: kicad_package_so_tssop_64_8x14mm_p0_4mm
     original_filename: libraries/kicad-footprints/Package_SO.pretty/TSSOP-64_8x14mm_P0.4mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_so_tssop_64_8x14mm_p0_4mm
+  oomp_key_full: oomp_footprint_kicad_package_so_tssop_64_8x14mm_p0_4mm
   oomp_key_simple: kicad_package_so_tssop_64_8x14mm_p0_4mm
   owner: kicad
   repo:

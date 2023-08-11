@@ -17,9 +17,18 @@
   oomp:
     footprint_name: vishay_powerpak_mlp44_24l
     library_name: package_dfn_qfn
+    md5: be835020bf73e64141780f9a00b1abc2
+    md5_10: be835020bf
+    md5_5: be835
+    md5_6: be8350
+    oomp_key: oomp_kicad_package_dfn_qfn_vishay_powerpak_mlp44_24l
+    oomp_key_extra: oomp_footprint_kicad_package_dfn_qfn_vishay_powerpak_mlp44_24l
+    oomp_key_full: oomp_footprint_kicad_package_dfn_qfn_vishay_powerpak_mlp44_24l_be8350
+    oomp_key_simple: kicad_package_dfn_qfn_vishay_powerpak_mlp44_24l
     original_filename: libraries/kicad-footprints/Package_DFN_QFN.pretty/Vishay_PowerPAK_MLP44-24L.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_dfn_qfn_vishay_powerpak_mlp44_24l
+  oomp_key_full: oomp_footprint_kicad_package_dfn_qfn_vishay_powerpak_mlp44_24l
   oomp_key_simple: kicad_package_dfn_qfn_vishay_powerpak_mlp44_24l
   owner: kicad
   repo:

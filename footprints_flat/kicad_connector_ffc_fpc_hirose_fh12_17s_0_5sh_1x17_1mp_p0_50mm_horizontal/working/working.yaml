@@ -18,9 +18,18 @@
   oomp:
     footprint_name: hirose_fh12_17s_0_5sh_1x17_1mp_p0_50mm_horizontal
     library_name: connector_ffc_fpc
+    md5: 3176b6631f0d2c7d2acd55b612c57166
+    md5_10: 3176b6631f
+    md5_5: 3176b
+    md5_6: 3176b6
+    oomp_key: oomp_kicad_connector_ffc_fpc_hirose_fh12_17s_0_5sh_1x17_1mp_p0_50mm_horizontal
+    oomp_key_extra: oomp_footprint_kicad_connector_ffc_fpc_hirose_fh12_17s_0_5sh_1x17_1mp_p0_50mm_horizontal
+    oomp_key_full: oomp_footprint_kicad_connector_ffc_fpc_hirose_fh12_17s_0_5sh_1x17_1mp_p0_50mm_horizontal_3176b6
+    oomp_key_simple: kicad_connector_ffc_fpc_hirose_fh12_17s_0_5sh_1x17_1mp_p0_50mm_horizontal
     original_filename: libraries/kicad-footprints/Connector_FFC-FPC.pretty/Hirose_FH12-17S-0.5SH_1x17-1MP_P0.50mm_Horizontal.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_ffc_fpc_hirose_fh12_17s_0_5sh_1x17_1mp_p0_50mm_horizontal
+  oomp_key_full: oomp_footprint_kicad_connector_ffc_fpc_hirose_fh12_17s_0_5sh_1x17_1mp_p0_50mm_horizontal
   oomp_key_simple: kicad_connector_ffc_fpc_hirose_fh12_17s_0_5sh_1x17_1mp_p0_50mm_horizontal
   owner: kicad
   repo:

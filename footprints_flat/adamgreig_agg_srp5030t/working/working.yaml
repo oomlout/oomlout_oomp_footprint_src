@@ -17,9 +17,18 @@
   oomp:
     footprint_name: srp5030t
     library_name: agg
+    md5: 1e580330155805b6ff086d9cb21a6bb0
+    md5_10: 1e58033015
+    md5_5: 1e580
+    md5_6: 1e5803
+    oomp_key: oomp_adamgreig_agg_srp5030t
+    oomp_key_extra: oomp_footprint_adamgreig_agg_srp5030t
+    oomp_key_full: oomp_footprint_adamgreig_agg_srp5030t_1e5803
+    oomp_key_simple: adamgreig_agg_srp5030t
     original_filename: agg-kicad/agg.pretty/SRP5030T.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_srp5030t
+  oomp_key_full: oomp_footprint_adamgreig_agg_srp5030t
   oomp_key_simple: adamgreig_agg_srp5030t
   owner: adamgreig
   repo:

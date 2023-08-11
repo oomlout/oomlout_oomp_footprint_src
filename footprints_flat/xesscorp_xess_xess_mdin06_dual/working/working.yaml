@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_mdin06_dual
     library_name: xess
+    md5: 26d7005a2f25df444d6e6d0f0d5c8582
+    md5_10: 26d7005a2f
+    md5_5: 26d70
+    md5_6: 26d700
+    oomp_key: oomp_xesscorp_xess_xess_mdin06_dual
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_mdin06_dual
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_mdin06_dual_26d700
+    oomp_key_simple: xesscorp_xess_xess_mdin06_dual
     original_filename: xess.pretty/xess-MDIN06-DUAL.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_mdin06_dual
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_mdin06_dual
   oomp_key_simple: xesscorp_xess_xess_mdin06_dual
   owner: xesscorp
   repo:

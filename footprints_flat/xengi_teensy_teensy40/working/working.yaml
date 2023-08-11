@@ -17,9 +17,18 @@
   oomp:
     footprint_name: teensy40
     library_name: teensy
+    md5: 1fed3fd7849444f5c001eac944efec1d
+    md5_10: 1fed3fd784
+    md5_5: 1fed3
+    md5_6: 1fed3f
+    oomp_key: oomp_xengi_teensy_teensy40
+    oomp_key_extra: oomp_footprint_xengi_teensy_teensy40
+    oomp_key_full: oomp_footprint_xengi_teensy_teensy40_1fed3f
+    oomp_key_simple: xengi_teensy_teensy40
     original_filename: teensy.pretty/Teensy40.kicad_mod
     owner_name: xengi
   oomp_key: oomp_xengi_teensy_teensy40
+  oomp_key_full: oomp_footprint_xengi_teensy_teensy40
   oomp_key_simple: xengi_teensy_teensy40
   owner: XenGi
   repo:

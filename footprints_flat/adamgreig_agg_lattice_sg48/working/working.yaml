@@ -17,9 +17,18 @@
   oomp:
     footprint_name: lattice_sg48
     library_name: agg
+    md5: 31dc745f1f889136b8bb7438a2c30411
+    md5_10: 31dc745f1f
+    md5_5: 31dc7
+    md5_6: 31dc74
+    oomp_key: oomp_adamgreig_agg_lattice_sg48
+    oomp_key_extra: oomp_footprint_adamgreig_agg_lattice_sg48
+    oomp_key_full: oomp_footprint_adamgreig_agg_lattice_sg48_31dc74
+    oomp_key_simple: adamgreig_agg_lattice_sg48
     original_filename: agg-kicad/agg.pretty/Lattice-SG48.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_lattice_sg48
+  oomp_key_full: oomp_footprint_adamgreig_agg_lattice_sg48
   oomp_key_simple: adamgreig_agg_lattice_sg48
   owner: adamgreig
   repo:

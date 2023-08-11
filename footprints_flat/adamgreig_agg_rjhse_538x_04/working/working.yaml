@@ -17,9 +17,18 @@
   oomp:
     footprint_name: rjhse_538x_04
     library_name: agg
+    md5: bb987f985ecc8ebbaf7315b926a0b1e8
+    md5_10: bb987f985e
+    md5_5: bb987
+    md5_6: bb987f
+    oomp_key: oomp_adamgreig_agg_rjhse_538x_04
+    oomp_key_extra: oomp_footprint_adamgreig_agg_rjhse_538x_04
+    oomp_key_full: oomp_footprint_adamgreig_agg_rjhse_538x_04_bb987f
+    oomp_key_simple: adamgreig_agg_rjhse_538x_04
     original_filename: agg-kicad/agg.pretty/RJHSE-538X-04.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_rjhse_538x_04
+  oomp_key_full: oomp_footprint_adamgreig_agg_rjhse_538x_04
   oomp_key_simple: adamgreig_agg_rjhse_538x_04
   owner: adamgreig
   repo:

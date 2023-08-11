@@ -17,9 +17,18 @@
   oomp:
     footprint_name: manuf_panasonic_ecq_ef
     library_name: manuf
+    md5: f180f57cf3a17f8bd86f4fb89dc24c5d
+    md5_10: f180f57cf3
+    md5_5: f180f
+    md5_6: f180f5
+    oomp_key: oomp_cpavlina_manuf_manuf_panasonic_ecq_ef
+    oomp_key_extra: oomp_footprint_cpavlina_manuf_manuf_panasonic_ecq_ef
+    oomp_key_full: oomp_footprint_cpavlina_manuf_manuf_panasonic_ecq_ef_f180f5
+    oomp_key_simple: cpavlina_manuf_manuf_panasonic_ecq_ef
     original_filename: kicad-pcblib/manuf.pretty/MANUF-PANASONIC-ECQ-EF.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_manuf_manuf_panasonic_ecq_ef
+  oomp_key_full: oomp_footprint_cpavlina_manuf_manuf_panasonic_ecq_ef
   oomp_key_simple: cpavlina_manuf_manuf_panasonic_ecq_ef
   owner: cpavlina
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: rj10
     library_name: 1wire_v0_4
+    md5: f84753ef9ec869bbaa6a1c7e38193e87
+    md5_10: f84753ef9e
+    md5_5: f8475
+    md5_6: f84753
+    oomp_key: oomp_wykys_1wire_v0_4_rj10
+    oomp_key_extra: oomp_footprint_wykys_1wire_v0_4_rj10
+    oomp_key_full: oomp_footprint_wykys_1wire_v0_4_rj10_f84753
+    oomp_key_simple: wykys_1wire_v0_4_rj10
     original_filename: kicad/6.0/projects/1w-grove-v0.1/1wire-v0.4.pretty/rj10.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_1wire_v0_4_rj10
+  oomp_key_full: oomp_footprint_wykys_1wire_v0_4_rj10
   oomp_key_simple: wykys_1wire_v0_4_rj10
   owner: wykys
   repo:

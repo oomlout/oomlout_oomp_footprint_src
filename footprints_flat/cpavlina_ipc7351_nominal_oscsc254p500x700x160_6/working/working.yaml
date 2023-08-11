@@ -17,9 +17,18 @@
   oomp:
     footprint_name: oscsc254p500x700x160_6
     library_name: ipc7351_nominal
+    md5: 1cd576440410384dac5018b824554271
+    md5_10: 1cd5764404
+    md5_5: 1cd57
+    md5_6: 1cd576
+    oomp_key: oomp_cpavlina_ipc7351_nominal_oscsc254p500x700x160_6
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_nominal_oscsc254p500x700x160_6
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_oscsc254p500x700x160_6_1cd576
+    oomp_key_simple: cpavlina_ipc7351_nominal_oscsc254p500x700x160_6
     original_filename: kicad-pcblib/IPC7351-Nominal.pretty/OSCSC254P500X700X160-6.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_nominal_oscsc254p500x700x160_6
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_oscsc254p500x700x160_6
   oomp_key_simple: cpavlina_ipc7351_nominal_oscsc254p500x700x160_6
   owner: cpavlina
   repo:

@@ -18,9 +18,18 @@
   oomp:
     footprint_name: vson_8_3_3x3_3mm_p0_65mm_nexfet
     library_name: package_son
+    md5: 5435bf2f0ed04172d53c37e722f27e72
+    md5_10: 5435bf2f0e
+    md5_5: 5435b
+    md5_6: 5435bf
+    oomp_key: oomp_kicad_package_son_vson_8_3_3x3_3mm_p0_65mm_nexfet
+    oomp_key_extra: oomp_footprint_kicad_package_son_vson_8_3_3x3_3mm_p0_65mm_nexfet
+    oomp_key_full: oomp_footprint_kicad_package_son_vson_8_3_3x3_3mm_p0_65mm_nexfet_5435bf
+    oomp_key_simple: kicad_package_son_vson_8_3_3x3_3mm_p0_65mm_nexfet
     original_filename: libraries/kicad-footprints/Package_SON.pretty/VSON-8_3.3x3.3mm_P0.65mm_NexFET.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_son_vson_8_3_3x3_3mm_p0_65mm_nexfet
+  oomp_key_full: oomp_footprint_kicad_package_son_vson_8_3_3x3_3mm_p0_65mm_nexfet
   oomp_key_simple: kicad_package_son_vson_8_3_3x3_3mm_p0_65mm_nexfet
   owner: kicad
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: jumper_solder_smd
     library_name: conn_test
+    md5: 248d657e9534283bf54f8515db25bc73
+    md5_10: 248d657e95
+    md5_5: 248d6
+    md5_6: 248d65
+    oomp_key: oomp_cpavlina_conn_test_jumper_solder_smd
+    oomp_key_extra: oomp_footprint_cpavlina_conn_test_jumper_solder_smd
+    oomp_key_full: oomp_footprint_cpavlina_conn_test_jumper_solder_smd_248d65
+    oomp_key_simple: cpavlina_conn_test_jumper_solder_smd
     original_filename: kicad-pcblib/conn-test.pretty/JUMPER-SOLDER-SMD.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_conn_test_jumper_solder_smd
+  oomp_key_full: oomp_footprint_cpavlina_conn_test_jumper_solder_smd
   oomp_key_simple: cpavlina_conn_test_jumper_solder_smd
   owner: cpavlina
   repo:

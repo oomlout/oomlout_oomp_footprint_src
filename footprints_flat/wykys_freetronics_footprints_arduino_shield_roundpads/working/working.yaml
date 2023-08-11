@@ -17,9 +17,18 @@
   oomp:
     footprint_name: arduino_shield_roundpads
     library_name: freetronics_footprints
+    md5: 1b4b9a07e9eaf4405b39a4e6833b18ea
+    md5_10: 1b4b9a07e9
+    md5_5: 1b4b9
+    md5_6: 1b4b9a
+    oomp_key: oomp_wykys_freetronics_footprints_arduino_shield_roundpads
+    oomp_key_extra: oomp_footprint_wykys_freetronics_footprints_arduino_shield_roundpads
+    oomp_key_full: oomp_footprint_wykys_freetronics_footprints_arduino_shield_roundpads_1b4b9a
+    oomp_key_simple: wykys_freetronics_footprints_arduino_shield_roundpads
     original_filename: kicad/mods/freetronics_footprints.pretty/ARDUINO_SHIELD_ROUNDPADS.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_freetronics_footprints_arduino_shield_roundpads
+  oomp_key_full: oomp_footprint_wykys_freetronics_footprints_arduino_shield_roundpads
   oomp_key_simple: wykys_freetronics_footprints_arduino_shield_roundpads
   owner: wykys
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: idc_5x2_smt
     library_name: mf_conn
+    md5: 5253695126f736151f313cec85e00432
+    md5_10: '5253695126'
+    md5_5: '52536'
+    md5_6: '525369'
+    oomp_key: oomp_marf41_mf_conn_idc_5x2_smt
+    oomp_key_extra: oomp_footprint_marf41_mf_conn_idc_5x2_smt
+    oomp_key_full: oomp_footprint_marf41_mf_conn_idc_5x2_smt_525369
+    oomp_key_simple: marf41_mf_conn_idc_5x2_smt
     original_filename: MF-conn.pretty/IDC-5x2-SMT.kicad_mod
     owner_name: marf41
   oomp_key: oomp_marf41_mf_conn_idc_5x2_smt
+  oomp_key_full: oomp_footprint_marf41_mf_conn_idc_5x2_smt
   oomp_key_simple: marf41_mf_conn_idc_5x2_smt
   owner: marf41
   repo:

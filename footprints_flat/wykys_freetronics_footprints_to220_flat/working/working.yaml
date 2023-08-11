@@ -17,9 +17,18 @@
   oomp:
     footprint_name: to220_flat
     library_name: freetronics_footprints
+    md5: 9f103fdc89c27e293ce45799c79b4110
+    md5_10: 9f103fdc89
+    md5_5: 9f103
+    md5_6: 9f103f
+    oomp_key: oomp_wykys_freetronics_footprints_to220_flat
+    oomp_key_extra: oomp_footprint_wykys_freetronics_footprints_to220_flat
+    oomp_key_full: oomp_footprint_wykys_freetronics_footprints_to220_flat_9f103f
+    oomp_key_simple: wykys_freetronics_footprints_to220_flat
     original_filename: kicad/mods/freetronics_footprints.pretty/TO220_FLAT.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_freetronics_footprints_to220_flat
+  oomp_key_full: oomp_footprint_wykys_freetronics_footprints_to220_flat
   oomp_key_simple: wykys_freetronics_footprints_to220_flat
   owner: wykys
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: trrs_jumper
     library_name: keebio_parts
+    md5: 82dc1b7e27a0ee8ae4a8692d1c3604ab
+    md5_10: 82dc1b7e27
+    md5_5: 82dc1
+    md5_6: 82dc1b
+    oomp_key: oomp_keebio_keebio_parts_trrs_jumper
+    oomp_key_extra: oomp_footprint_keebio_keebio_parts_trrs_jumper
+    oomp_key_full: oomp_footprint_keebio_keebio_parts_trrs_jumper_82dc1b
+    oomp_key_simple: keebio_keebio_parts_trrs_jumper
     original_filename: Keebio-Parts.pretty/TRRS_Jumper.kicad_mod
     owner_name: keebio
   oomp_key: oomp_keebio_keebio_parts_trrs_jumper
+  oomp_key_full: oomp_footprint_keebio_keebio_parts_trrs_jumper
   oomp_key_simple: keebio_keebio_parts_trrs_jumper
   owner: keebio
   repo:

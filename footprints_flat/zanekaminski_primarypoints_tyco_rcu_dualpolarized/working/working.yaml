@@ -17,9 +17,18 @@
   oomp:
     footprint_name: tyco_rcu_dualpolarized
     library_name: primarypoints
+    md5: 8e155d9f0897a45e7f62acdf767d5537
+    md5_10: 8e155d9f08
+    md5_5: 8e155
+    md5_6: 8e155d
+    oomp_key: oomp_zanekaminski_primarypoints_tyco_rcu_dualpolarized
+    oomp_key_extra: oomp_footprint_zanekaminski_primarypoints_tyco_rcu_dualpolarized
+    oomp_key_full: oomp_footprint_zanekaminski_primarypoints_tyco_rcu_dualpolarized_8e155d
+    oomp_key_simple: zanekaminski_primarypoints_tyco_rcu_dualpolarized
     original_filename: primarypoints.pretty/Tyco_RCU_DualPolarized.kicad_mod
     owner_name: zanekaminski
   oomp_key: oomp_zanekaminski_primarypoints_tyco_rcu_dualpolarized
+  oomp_key_full: oomp_footprint_zanekaminski_primarypoints_tyco_rcu_dualpolarized
   oomp_key_simple: zanekaminski_primarypoints_tyco_rcu_dualpolarized
   owner: ZaneKaminski
   repo:

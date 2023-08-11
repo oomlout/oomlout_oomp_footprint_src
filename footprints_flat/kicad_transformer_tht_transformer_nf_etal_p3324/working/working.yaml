@@ -17,9 +17,18 @@
   oomp:
     footprint_name: transformer_nf_etal_p3324
     library_name: transformer_tht
+    md5: 667103fd9493b1ec952100c7007168b6
+    md5_10: 667103fd94
+    md5_5: '66710'
+    md5_6: '667103'
+    oomp_key: oomp_kicad_transformer_tht_transformer_nf_etal_p3324
+    oomp_key_extra: oomp_footprint_kicad_transformer_tht_transformer_nf_etal_p3324
+    oomp_key_full: oomp_footprint_kicad_transformer_tht_transformer_nf_etal_p3324_667103
+    oomp_key_simple: kicad_transformer_tht_transformer_nf_etal_p3324
     original_filename: libraries/kicad-footprints/Transformer_THT.pretty/Transformer_NF_ETAL_P3324.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_transformer_tht_transformer_nf_etal_p3324
+  oomp_key_full: oomp_footprint_kicad_transformer_tht_transformer_nf_etal_p3324
   oomp_key_simple: kicad_transformer_tht_transformer_nf_etal_p3324
   owner: kicad
   repo:

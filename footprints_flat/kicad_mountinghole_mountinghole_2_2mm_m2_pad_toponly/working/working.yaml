@@ -17,9 +17,18 @@
   oomp:
     footprint_name: mountinghole_2_2mm_m2_pad_toponly
     library_name: mountinghole
+    md5: 47799e378ec79b6cc7af4a10d9da1d28
+    md5_10: 47799e378e
+    md5_5: '47799'
+    md5_6: 47799e
+    oomp_key: oomp_kicad_mountinghole_mountinghole_2_2mm_m2_pad_toponly
+    oomp_key_extra: oomp_footprint_kicad_mountinghole_mountinghole_2_2mm_m2_pad_toponly
+    oomp_key_full: oomp_footprint_kicad_mountinghole_mountinghole_2_2mm_m2_pad_toponly_47799e
+    oomp_key_simple: kicad_mountinghole_mountinghole_2_2mm_m2_pad_toponly
     original_filename: libraries/kicad-footprints/MountingHole.pretty/MountingHole_2.2mm_M2_Pad_TopOnly.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_mountinghole_mountinghole_2_2mm_m2_pad_toponly
+  oomp_key_full: oomp_footprint_kicad_mountinghole_mountinghole_2_2mm_m2_pad_toponly
   oomp_key_simple: kicad_mountinghole_mountinghole_2_2mm_m2_pad_toponly
   owner: kicad
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: umax
     library_name: avp
+    md5: 1194b6c1028da49ca3be46fac8174c97
+    md5_10: 1194b6c102
+    md5_5: 1194b
+    md5_6: 1194b6
+    oomp_key: oomp_av_p_avp_umax
+    oomp_key_extra: oomp_footprint_av_p_avp_umax
+    oomp_key_full: oomp_footprint_av_p_avp_umax_1194b6
+    oomp_key_simple: av_p_avp_umax
     original_filename: Avp.pretty/uMAX.kicad_mod
     owner_name: av_p
   oomp_key: oomp_av_p_avp_umax
+  oomp_key_full: oomp_footprint_av_p_avp_umax
   oomp_key_simple: av_p_avp_umax
   owner: av-p
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: jumper_userfriendly_small
     library_name: random_keyboard_parts
+    md5: b25a0fa8a065b1c0e5906ba99ecd44ba
+    md5_10: b25a0fa8a0
+    md5_5: b25a0
+    md5_6: b25a0f
+    oomp_key: oomp_ai03_2725_random_keyboard_parts_jumper_userfriendly_small
+    oomp_key_extra: oomp_footprint_ai03_2725_random_keyboard_parts_jumper_userfriendly_small
+    oomp_key_full: oomp_footprint_ai03_2725_random_keyboard_parts_jumper_userfriendly_small_b25a0f
+    oomp_key_simple: ai03_2725_random_keyboard_parts_jumper_userfriendly_small
     original_filename: random-keyboard-parts.pretty/Jumper-UserFriendly-Small.kicad_mod
     owner_name: ai03_2725
   oomp_key: oomp_ai03_2725_random_keyboard_parts_jumper_userfriendly_small
+  oomp_key_full: oomp_footprint_ai03_2725_random_keyboard_parts_jumper_userfriendly_small
   oomp_key_simple: ai03_2725_random_keyboard_parts_jumper_userfriendly_small
   owner: ai03-2725
   repo:

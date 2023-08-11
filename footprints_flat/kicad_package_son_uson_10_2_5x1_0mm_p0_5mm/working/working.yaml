@@ -17,9 +17,18 @@
   oomp:
     footprint_name: uson_10_2_5x1_0mm_p0_5mm
     library_name: package_son
+    md5: 4c3e4912fdc6267d5a5f0f6308caab49
+    md5_10: 4c3e4912fd
+    md5_5: 4c3e4
+    md5_6: 4c3e49
+    oomp_key: oomp_kicad_package_son_uson_10_2_5x1_0mm_p0_5mm
+    oomp_key_extra: oomp_footprint_kicad_package_son_uson_10_2_5x1_0mm_p0_5mm
+    oomp_key_full: oomp_footprint_kicad_package_son_uson_10_2_5x1_0mm_p0_5mm_4c3e49
+    oomp_key_simple: kicad_package_son_uson_10_2_5x1_0mm_p0_5mm
     original_filename: libraries/kicad-footprints/Package_SON.pretty/USON-10_2.5x1.0mm_P0.5mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_son_uson_10_2_5x1_0mm_p0_5mm
+  oomp_key_full: oomp_footprint_kicad_package_son_uson_10_2_5x1_0mm_p0_5mm
   oomp_key_simple: kicad_package_son_uson_10_2_5x1_0mm_p0_5mm
   owner: kicad
   repo:

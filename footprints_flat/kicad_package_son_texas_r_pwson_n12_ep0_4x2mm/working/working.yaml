@@ -17,9 +17,18 @@
   oomp:
     footprint_name: texas_r_pwson_n12_ep0_4x2mm
     library_name: package_son
+    md5: 14eef4d916494a9669a7dabb432d8e21
+    md5_10: 14eef4d916
+    md5_5: 14eef
+    md5_6: 14eef4
+    oomp_key: oomp_kicad_package_son_texas_r_pwson_n12_ep0_4x2mm
+    oomp_key_extra: oomp_footprint_kicad_package_son_texas_r_pwson_n12_ep0_4x2mm
+    oomp_key_full: oomp_footprint_kicad_package_son_texas_r_pwson_n12_ep0_4x2mm_14eef4
+    oomp_key_simple: kicad_package_son_texas_r_pwson_n12_ep0_4x2mm
     original_filename: libraries/kicad-footprints/Package_SON.pretty/Texas_R-PWSON-N12_EP0.4x2mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_son_texas_r_pwson_n12_ep0_4x2mm
+  oomp_key_full: oomp_footprint_kicad_package_son_texas_r_pwson_n12_ep0_4x2mm
   oomp_key_simple: kicad_package_son_texas_r_pwson_n12_ep0_4x2mm
   owner: kicad
   repo:

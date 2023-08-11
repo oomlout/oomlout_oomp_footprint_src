@@ -17,9 +17,18 @@
   oomp:
     footprint_name: r_0603
     library_name: kicadfootprint
+    md5: 4e354836c23bd9f74b85041f3a4e51a7
+    md5_10: 4e354836c2
+    md5_5: 4e354
+    md5_6: 4e3548
+    oomp_key: oomp_vivitainc_kicadfootprint_r_0603
+    oomp_key_extra: oomp_footprint_vivitainc_kicadfootprint_r_0603
+    oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_r_0603_4e3548
+    oomp_key_simple: vivitainc_kicadfootprint_r_0603
     original_filename: KiCADfootprint.pretty/R_0603.kicad_mod
     owner_name: vivitainc
   oomp_key: oomp_vivitainc_kicadfootprint_r_0603
+  oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_r_0603
   oomp_key_simple: vivitainc_kicadfootprint_r_0603
   owner: vivitainc
   repo:

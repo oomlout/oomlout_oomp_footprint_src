@@ -17,9 +17,18 @@
   oomp:
     footprint_name: jumper_smd_2dub
     library_name: keebio_parts
+    md5: 51df85aa617b54780d3effcae4439b48
+    md5_10: 51df85aa61
+    md5_5: 51df8
+    md5_6: 51df85
+    oomp_key: oomp_keebio_keebio_parts_jumper_smd_2dub
+    oomp_key_extra: oomp_footprint_keebio_keebio_parts_jumper_smd_2dub
+    oomp_key_full: oomp_footprint_keebio_keebio_parts_jumper_smd_2dub_51df85
+    oomp_key_simple: keebio_keebio_parts_jumper_smd_2dub
     original_filename: Keebio-Parts.pretty/JUMPER_SMD_2DUB.kicad_mod
     owner_name: keebio
   oomp_key: oomp_keebio_keebio_parts_jumper_smd_2dub
+  oomp_key_full: oomp_footprint_keebio_keebio_parts_jumper_smd_2dub
   oomp_key_simple: keebio_keebio_parts_jumper_smd_2dub
   owner: keebio
   repo:

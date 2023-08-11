@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sot23
     library_name: avp
+    md5: db3018739e450769af6531dc22837f93
+    md5_10: db3018739e
+    md5_5: db301
+    md5_6: db3018
+    oomp_key: oomp_av_p_avp_sot23
+    oomp_key_extra: oomp_footprint_av_p_avp_sot23
+    oomp_key_full: oomp_footprint_av_p_avp_sot23_db3018
+    oomp_key_simple: av_p_avp_sot23
     original_filename: Avp.pretty/SOT23.kicad_mod
     owner_name: av_p
   oomp_key: oomp_av_p_avp_sot23
+  oomp_key_full: oomp_footprint_av_p_avp_sot23
   oomp_key_simple: av_p_avp_sot23
   owner: av-p
   repo:

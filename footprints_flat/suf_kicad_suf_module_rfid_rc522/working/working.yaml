@@ -17,9 +17,18 @@
   oomp:
     footprint_name: rfid_rc522
     library_name: suf_module
+    md5: 2a8ac64b91e34205fc20334db69cb0e9
+    md5_10: 2a8ac64b91
+    md5_5: 2a8ac
+    md5_6: 2a8ac6
+    oomp_key: oomp_suf_kicad_suf_module_rfid_rc522
+    oomp_key_extra: oomp_footprint_suf_kicad_suf_module_rfid_rc522
+    oomp_key_full: oomp_footprint_suf_kicad_suf_module_rfid_rc522_2a8ac6
+    oomp_key_simple: suf_kicad_suf_module_rfid_rc522
     original_filename: suf_module.pretty/RFID-RC522.kicad_mod
     owner_name: suf_kicad
   oomp_key: oomp_suf_kicad_suf_module_rfid_rc522
+  oomp_key_full: oomp_footprint_suf_kicad_suf_module_rfid_rc522
   oomp_key_simple: suf_kicad_suf_module_rfid_rc522
   owner: suf-KiCAD
   repo:

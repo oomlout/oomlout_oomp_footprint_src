@@ -17,9 +17,18 @@
   oomp:
     footprint_name: teensy_2_0
     library_name: keyboard
+    md5: 6de0f3859ba0902e03749908330e7bce
+    md5_10: 6de0f3859b
+    md5_5: 6de0f
+    md5_6: 6de0f3
+    oomp_key: oomp_stormboard_keyboard_teensy_2_0
+    oomp_key_extra: oomp_footprint_stormboard_keyboard_teensy_2_0
+    oomp_key_full: oomp_footprint_stormboard_keyboard_teensy_2_0_6de0f3
+    oomp_key_simple: stormboard_keyboard_teensy_2_0
     original_filename: Keyboard.pretty/TEENSY_2.0.kicad_mod
     owner_name: stormboard
   oomp_key: oomp_stormboard_keyboard_teensy_2_0
+  oomp_key_full: oomp_footprint_stormboard_keyboard_teensy_2_0
   oomp_key_simple: stormboard_keyboard_teensy_2_0
   owner: stormboard
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: heatsink_fischer_fk24413dpak_23x13mm
     library_name: heatsink
+    md5: fd83518103d5e3d2c0268e7fd3cb36c5
+    md5_10: fd83518103
+    md5_5: fd835
+    md5_6: fd8351
+    oomp_key: oomp_kicad_heatsink_heatsink_fischer_fk24413dpak_23x13mm
+    oomp_key_extra: oomp_footprint_kicad_heatsink_heatsink_fischer_fk24413dpak_23x13mm
+    oomp_key_full: oomp_footprint_kicad_heatsink_heatsink_fischer_fk24413dpak_23x13mm_fd8351
+    oomp_key_simple: kicad_heatsink_heatsink_fischer_fk24413dpak_23x13mm
     original_filename: libraries/kicad-footprints/Heatsink.pretty/Heatsink_Fischer_FK24413DPAK_23x13mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_heatsink_heatsink_fischer_fk24413dpak_23x13mm
+  oomp_key_full: oomp_footprint_kicad_heatsink_heatsink_fischer_fk24413dpak_23x13mm
   oomp_key_simple: kicad_heatsink_heatsink_fischer_fk24413dpak_23x13mm
   owner: kicad
   repo:

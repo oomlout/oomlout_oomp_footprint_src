@@ -17,9 +17,18 @@
   oomp:
     footprint_name: so08_4mm
     library_name: freetronics_footprints
+    md5: d4ab8cabb3a7f408c378c2482de9252a
+    md5_10: d4ab8cabb3
+    md5_5: d4ab8
+    md5_6: d4ab8c
+    oomp_key: oomp_axello_freetronics_footprints_so08_4mm
+    oomp_key_extra: oomp_footprint_axello_freetronics_footprints_so08_4mm
+    oomp_key_full: oomp_footprint_axello_freetronics_footprints_so08_4mm_d4ab8c
+    oomp_key_simple: axello_freetronics_footprints_so08_4mm
     original_filename: kicad/mods/freetronics_footprints.pretty/SO08_4mm.kicad_mod
     owner_name: axello
   oomp_key: oomp_axello_freetronics_footprints_so08_4mm
+  oomp_key_full: oomp_footprint_axello_freetronics_footprints_so08_4mm
   oomp_key_simple: axello_freetronics_footprints_so08_4mm
   owner: axello
   repo:

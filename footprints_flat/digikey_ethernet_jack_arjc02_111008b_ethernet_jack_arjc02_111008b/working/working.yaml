@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: ethernet_jack_arjc02_111008b
-    library_name: source_footprints
+    library_name: ethernet_jack_arjc02_111008b_kicad_mod
+    md5: e8173346f766491bf0d5651010472be9
+    md5_10: e8173346f7
+    md5_5: e8173
+    md5_6: e81733
+    oomp_key: oomp_digikey_ethernet_jack_arjc02_111008b_ethernet_jack_arjc02_111008b
+    oomp_key_extra: oomp_footprint_digikey_ethernet_jack_arjc02_111008b_ethernet_jack_arjc02_111008b
+    oomp_key_full: oomp_footprint_digikey_ethernet_jack_arjc02_111008b_ethernet_jack_arjc02_111008b_e81733
+    oomp_key_simple: digikey_ethernet_jack_arjc02_111008b_ethernet_jack_arjc02_111008b
     original_filename: digikey-kicad-library/src/Source_Footprints/Ethernet_Jack_ARJC02-111008B.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_ethernet_jack_arjc02_111008b_ethernet_jack_arjc02_111008b
+  oomp_key_full: oomp_footprint_digikey_ethernet_jack_arjc02_111008b_ethernet_jack_arjc02_111008b
   oomp_key_simple: digikey_ethernet_jack_arjc02_111008b_ethernet_jack_arjc02_111008b
   owner: digikey
   repo:

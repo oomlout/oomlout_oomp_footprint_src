@@ -17,9 +17,18 @@
   oomp:
     footprint_name: icon_rotator
     library_name: kicadfootprint
+    md5: d87e419687a8cb92525b97cd95a34471
+    md5_10: d87e419687
+    md5_5: d87e4
+    md5_6: d87e41
+    oomp_key: oomp_vivitainc_kicadfootprint_icon_rotator
+    oomp_key_extra: oomp_footprint_vivitainc_kicadfootprint_icon_rotator
+    oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_icon_rotator_d87e41
+    oomp_key_simple: vivitainc_kicadfootprint_icon_rotator
     original_filename: KiCADfootprint.pretty/ICON_Rotator.kicad_mod
     owner_name: vivitainc
   oomp_key: oomp_vivitainc_kicadfootprint_icon_rotator
+  oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_icon_rotator
   oomp_key_simple: vivitainc_kicadfootprint_icon_rotator
   owner: vivitainc
   repo:

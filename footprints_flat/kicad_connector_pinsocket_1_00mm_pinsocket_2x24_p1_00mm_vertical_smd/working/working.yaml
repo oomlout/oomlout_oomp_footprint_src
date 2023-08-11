@@ -18,9 +18,18 @@
   oomp:
     footprint_name: pinsocket_2x24_p1_00mm_vertical_smd
     library_name: connector_pinsocket_1_00mm
+    md5: cd81e300c50d009984f4e2db31830153
+    md5_10: cd81e300c5
+    md5_5: cd81e
+    md5_6: cd81e3
+    oomp_key: oomp_kicad_connector_pinsocket_1_00mm_pinsocket_2x24_p1_00mm_vertical_smd
+    oomp_key_extra: oomp_footprint_kicad_connector_pinsocket_1_00mm_pinsocket_2x24_p1_00mm_vertical_smd
+    oomp_key_full: oomp_footprint_kicad_connector_pinsocket_1_00mm_pinsocket_2x24_p1_00mm_vertical_smd_cd81e3
+    oomp_key_simple: kicad_connector_pinsocket_1_00mm_pinsocket_2x24_p1_00mm_vertical_smd
     original_filename: libraries/kicad-footprints/Connector_PinSocket_1.00mm.pretty/PinSocket_2x24_P1.00mm_Vertical_SMD.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_pinsocket_1_00mm_pinsocket_2x24_p1_00mm_vertical_smd
+  oomp_key_full: oomp_footprint_kicad_connector_pinsocket_1_00mm_pinsocket_2x24_p1_00mm_vertical_smd
   oomp_key_simple: kicad_connector_pinsocket_1_00mm_pinsocket_2x24_p1_00mm_vertical_smd
   owner: kicad
   repo:

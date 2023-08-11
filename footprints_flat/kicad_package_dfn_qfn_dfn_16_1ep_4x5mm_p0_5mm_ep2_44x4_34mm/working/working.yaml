@@ -18,9 +18,18 @@
   oomp:
     footprint_name: dfn_16_1ep_4x5mm_p0_5mm_ep2_44x4_34mm
     library_name: package_dfn_qfn
+    md5: dd65357dccaf67c5b800e662af1d88e1
+    md5_10: dd65357dcc
+    md5_5: dd653
+    md5_6: dd6535
+    oomp_key: oomp_kicad_package_dfn_qfn_dfn_16_1ep_4x5mm_p0_5mm_ep2_44x4_34mm
+    oomp_key_extra: oomp_footprint_kicad_package_dfn_qfn_dfn_16_1ep_4x5mm_p0_5mm_ep2_44x4_34mm
+    oomp_key_full: oomp_footprint_kicad_package_dfn_qfn_dfn_16_1ep_4x5mm_p0_5mm_ep2_44x4_34mm_dd6535
+    oomp_key_simple: kicad_package_dfn_qfn_dfn_16_1ep_4x5mm_p0_5mm_ep2_44x4_34mm
     original_filename: libraries/kicad-footprints/Package_DFN_QFN.pretty/DFN-16-1EP_4x5mm_P0.5mm_EP2.44x4.34mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_dfn_qfn_dfn_16_1ep_4x5mm_p0_5mm_ep2_44x4_34mm
+  oomp_key_full: oomp_footprint_kicad_package_dfn_qfn_dfn_16_1ep_4x5mm_p0_5mm_ep2_44x4_34mm
   oomp_key_simple: kicad_package_dfn_qfn_dfn_16_1ep_4x5mm_p0_5mm_ep2_44x4_34mm
   owner: kicad
   repo:

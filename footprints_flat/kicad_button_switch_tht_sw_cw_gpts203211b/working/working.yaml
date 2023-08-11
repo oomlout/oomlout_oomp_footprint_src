@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sw_cw_gpts203211b
     library_name: button_switch_tht
+    md5: 1509dc0e3ee27d85c4ee7808c18cc4b4
+    md5_10: 1509dc0e3e
+    md5_5: 1509d
+    md5_6: 1509dc
+    oomp_key: oomp_kicad_button_switch_tht_sw_cw_gpts203211b
+    oomp_key_extra: oomp_footprint_kicad_button_switch_tht_sw_cw_gpts203211b
+    oomp_key_full: oomp_footprint_kicad_button_switch_tht_sw_cw_gpts203211b_1509dc
+    oomp_key_simple: kicad_button_switch_tht_sw_cw_gpts203211b
     original_filename: libraries/kicad-footprints/Button_Switch_THT.pretty/SW_CW_GPTS203211B.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_button_switch_tht_sw_cw_gpts203211b
+  oomp_key_full: oomp_footprint_kicad_button_switch_tht_sw_cw_gpts203211b
   oomp_key_simple: kicad_button_switch_tht_sw_cw_gpts203211b
   owner: kicad
   repo:

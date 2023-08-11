@@ -17,9 +17,18 @@
   oomp:
     footprint_name: hammond_164g
     library_name: manuf
+    md5: 7d807dcbc1e2273cc16fcd4c7a6340a6
+    md5_10: 7d807dcbc1
+    md5_5: 7d807
+    md5_6: 7d807d
+    oomp_key: oomp_cpavlina_manuf_hammond_164g
+    oomp_key_extra: oomp_footprint_cpavlina_manuf_hammond_164g
+    oomp_key_full: oomp_footprint_cpavlina_manuf_hammond_164g_7d807d
+    oomp_key_simple: cpavlina_manuf_hammond_164g
     original_filename: kicad-pcblib/manuf.pretty/HAMMOND-164G.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_manuf_hammond_164g
+  oomp_key_full: oomp_footprint_cpavlina_manuf_hammond_164g
   oomp_key_simple: cpavlina_manuf_hammond_164g
   owner: cpavlina
   repo:

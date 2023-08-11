@@ -17,9 +17,18 @@
   oomp:
     footprint_name: udfn_6l
     library_name: rhais_package_qfn
+    md5: af6155b634a7ceae9a893d004213a951
+    md5_10: af6155b634
+    md5_5: af615
+    md5_6: af6155
+    oomp_key: oomp_dx_mon_rhais_package_qfn_udfn_6l
+    oomp_key_extra: oomp_footprint_dx_mon_rhais_package_qfn_udfn_6l
+    oomp_key_full: oomp_footprint_dx_mon_rhais_package_qfn_udfn_6l_af6155
+    oomp_key_simple: dx_mon_rhais_package_qfn_udfn_6l
     original_filename: rhais_package-qfn.pretty/UDFN-6L.kicad_mod
     owner_name: dx_mon
   oomp_key: oomp_dx_mon_rhais_package_qfn_udfn_6l
+  oomp_key_full: oomp_footprint_dx_mon_rhais_package_qfn_udfn_6l
   oomp_key_simple: dx_mon_rhais_package_qfn_udfn_6l
   owner: DX-MON
   repo:

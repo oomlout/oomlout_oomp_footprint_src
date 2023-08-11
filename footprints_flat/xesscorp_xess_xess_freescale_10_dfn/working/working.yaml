@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_freescale_10_dfn
     library_name: xess
+    md5: 0fb32ec6e339968c6efd4d5fbce00edc
+    md5_10: 0fb32ec6e3
+    md5_5: 0fb32
+    md5_6: 0fb32e
+    oomp_key: oomp_xesscorp_xess_xess_freescale_10_dfn
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_freescale_10_dfn
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_freescale_10_dfn_0fb32e
+    oomp_key_simple: xesscorp_xess_xess_freescale_10_dfn
     original_filename: xess.pretty/xess-FREESCALE-10_DFN.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_freescale_10_dfn
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_freescale_10_dfn
   oomp_key_simple: xesscorp_xess_xess_freescale_10_dfn
   owner: xesscorp
   repo:

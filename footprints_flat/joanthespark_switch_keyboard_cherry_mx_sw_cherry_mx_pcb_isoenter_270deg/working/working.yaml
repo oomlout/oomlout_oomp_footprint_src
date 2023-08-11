@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sw_cherry_mx_pcb_isoenter_270deg
     library_name: switch_keyboard_cherry_mx
+    md5: ff851a2525074f6ce91caf63a852417a
+    md5_10: ff851a2525
+    md5_5: ff851
+    md5_6: ff851a
+    oomp_key: oomp_joanthespark_switch_keyboard_cherry_mx_sw_cherry_mx_pcb_isoenter_270deg
+    oomp_key_extra: oomp_footprint_joanthespark_switch_keyboard_cherry_mx_sw_cherry_mx_pcb_isoenter_270deg
+    oomp_key_full: oomp_footprint_joanthespark_switch_keyboard_cherry_mx_sw_cherry_mx_pcb_isoenter_270deg_ff851a
+    oomp_key_simple: joanthespark_switch_keyboard_cherry_mx_sw_cherry_mx_pcb_isoenter_270deg
     original_filename: KiCAD/6.0/3rdparty/footprints/com_github_perigoso_keyswitch-kicad-library/Switch_Keyboard_Cherry_MX.pretty/SW_Cherry_MX_PCB_ISOEnter_270deg.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_switch_keyboard_cherry_mx_sw_cherry_mx_pcb_isoenter_270deg
+  oomp_key_full: oomp_footprint_joanthespark_switch_keyboard_cherry_mx_sw_cherry_mx_pcb_isoenter_270deg
   oomp_key_simple: joanthespark_switch_keyboard_cherry_mx_sw_cherry_mx_pcb_isoenter_270deg
   owner: JoanTheSpark
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sot_543
     library_name: package_to_sot_smd
+    md5: a2516dfcb9257e79bf0a9703f886014f
+    md5_10: a2516dfcb9
+    md5_5: a2516
+    md5_6: a2516d
+    oomp_key: oomp_kicad_package_to_sot_smd_sot_543
+    oomp_key_extra: oomp_footprint_kicad_package_to_sot_smd_sot_543
+    oomp_key_full: oomp_footprint_kicad_package_to_sot_smd_sot_543_a2516d
+    oomp_key_simple: kicad_package_to_sot_smd_sot_543
     original_filename: libraries/kicad-footprints/Package_TO_SOT_SMD.pretty/SOT-543.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_to_sot_smd_sot_543
+  oomp_key_full: oomp_footprint_kicad_package_to_sot_smd_sot_543
   oomp_key_simple: kicad_package_to_sot_smd_sot_543
   owner: kicad
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: logo
     library_name: esp_rs232
+    md5: 8ea3d43353c813d4977874f791657a19
+    md5_10: 8ea3d43353
+    md5_5: 8ea3d
+    md5_6: 8ea3d4
+    oomp_key: oomp_axello_esp_rs232_logo
+    oomp_key_extra: oomp_footprint_axello_esp_rs232_logo
+    oomp_key_full: oomp_footprint_axello_esp_rs232_logo_8ea3d4
+    oomp_key_simple: axello_esp_rs232_logo
     original_filename: kicad/mods/ESP-RS232.pretty/LOGO.kicad_mod
     owner_name: axello
   oomp_key: oomp_axello_esp_rs232_logo
+  oomp_key_full: oomp_footprint_axello_esp_rs232_logo
   oomp_key_simple: axello_esp_rs232_logo
   owner: axello
   repo:

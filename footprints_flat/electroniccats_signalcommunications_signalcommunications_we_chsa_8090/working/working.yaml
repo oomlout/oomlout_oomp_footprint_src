@@ -18,9 +18,18 @@
   oomp:
     footprint_name: signalcommunications_we_chsa_8090
     library_name: signalcommunications
+    md5: f89f04875c1f3121be61dbaae3b29598
+    md5_10: f89f04875c
+    md5_5: f89f0
+    md5_6: f89f04
+    oomp_key: oomp_electroniccats_signalcommunications_signalcommunications_we_chsa_8090
+    oomp_key_extra: oomp_footprint_electroniccats_signalcommunications_signalcommunications_we_chsa_8090
+    oomp_key_full: oomp_footprint_electroniccats_signalcommunications_signalcommunications_we_chsa_8090_f89f04
+    oomp_key_simple: electroniccats_signalcommunications_signalcommunications_we_chsa_8090
     original_filename: ComponentLibrariesKicadWurthElektronik/SIGNAL-COMMUNICATIONS-rev18a/SignalCommunications.pretty/SignalCommunications-WE-CHSA_8090.kicad_mod
     owner_name: electroniccats
   oomp_key: oomp_electroniccats_signalcommunications_signalcommunications_we_chsa_8090
+  oomp_key_full: oomp_footprint_electroniccats_signalcommunications_signalcommunications_we_chsa_8090
   oomp_key_simple: electroniccats_signalcommunications_signalcommunications_we_chsa_8090
   owner: ElectronicCats
   repo:

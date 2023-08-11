@@ -17,9 +17,18 @@
   oomp:
     footprint_name: esp32_wroom
     library_name: esp32_footprints_lib
+    md5: 870f7ba6bafa04847edc26bf9bfe31b7
+    md5_10: 870f7ba6ba
+    md5_5: 870f7
+    md5_6: 870f7b
+    oomp_key: oomp_adamjvr_esp32_footprints_lib_esp32_wroom
+    oomp_key_extra: oomp_footprint_adamjvr_esp32_footprints_lib_esp32_wroom
+    oomp_key_full: oomp_footprint_adamjvr_esp32_footprints_lib_esp32_wroom_870f7b
+    oomp_key_simple: adamjvr_esp32_footprints_lib_esp32_wroom
     original_filename: ESP32-kiCAD-Footprints/ESP32-Footprints/ESP32-footprints-Lib.pretty/ESP32-WROOM.kicad_mod
     owner_name: adamjvr
   oomp_key: oomp_adamjvr_esp32_footprints_lib_esp32_wroom
+  oomp_key_full: oomp_footprint_adamjvr_esp32_footprints_lib_esp32_wroom
   oomp_key_simple: adamjvr_esp32_footprints_lib_esp32_wroom
   owner: adamjvr
   repo:

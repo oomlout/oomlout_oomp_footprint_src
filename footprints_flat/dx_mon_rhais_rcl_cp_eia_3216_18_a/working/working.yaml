@@ -17,9 +17,18 @@
   oomp:
     footprint_name: cp_eia_3216_18_a
     library_name: rhais_rcl
+    md5: 2d43f1d96e2298d04530935ff9866bd2
+    md5_10: 2d43f1d96e
+    md5_5: 2d43f
+    md5_6: 2d43f1
+    oomp_key: oomp_dx_mon_rhais_rcl_cp_eia_3216_18_a
+    oomp_key_extra: oomp_footprint_dx_mon_rhais_rcl_cp_eia_3216_18_a
+    oomp_key_full: oomp_footprint_dx_mon_rhais_rcl_cp_eia_3216_18_a_2d43f1
+    oomp_key_simple: dx_mon_rhais_rcl_cp_eia_3216_18_a
     original_filename: rhais_rcl.pretty/CP_EIA-3216-18_A.kicad_mod
     owner_name: dx_mon
   oomp_key: oomp_dx_mon_rhais_rcl_cp_eia_3216_18_a
+  oomp_key_full: oomp_footprint_dx_mon_rhais_rcl_cp_eia_3216_18_a
   oomp_key_simple: dx_mon_rhais_rcl_cp_eia_3216_18_a
   owner: DX-MON
   repo:

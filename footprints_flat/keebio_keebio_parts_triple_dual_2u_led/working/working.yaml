@@ -17,9 +17,18 @@
   oomp:
     footprint_name: triple_dual_2u_led
     library_name: keebio_parts
+    md5: b2b52b79f886ea958711d9ae5524885f
+    md5_10: b2b52b79f8
+    md5_5: b2b52
+    md5_6: b2b52b
+    oomp_key: oomp_keebio_keebio_parts_triple_dual_2u_led
+    oomp_key_extra: oomp_footprint_keebio_keebio_parts_triple_dual_2u_led
+    oomp_key_full: oomp_footprint_keebio_keebio_parts_triple_dual_2u_led_b2b52b
+    oomp_key_simple: keebio_keebio_parts_triple_dual_2u_led
     original_filename: Keebio-Parts.pretty/Triple-Dual-2u-LED.kicad_mod
     owner_name: keebio
   oomp_key: oomp_keebio_keebio_parts_triple_dual_2u_led
+  oomp_key_full: oomp_footprint_keebio_keebio_parts_triple_dual_2u_led
   oomp_key_simple: keebio_keebio_parts_triple_dual_2u_led
   owner: keebio
   repo:

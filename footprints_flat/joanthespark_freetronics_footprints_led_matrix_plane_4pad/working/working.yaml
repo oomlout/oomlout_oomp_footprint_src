@@ -17,9 +17,18 @@
   oomp:
     footprint_name: led_matrix_plane_4pad
     library_name: freetronics_footprints
+    md5: e79be4b28080917036c30f810ea66127
+    md5_10: e79be4b280
+    md5_5: e79be
+    md5_6: e79be4
+    oomp_key: oomp_joanthespark_freetronics_footprints_led_matrix_plane_4pad
+    oomp_key_extra: oomp_footprint_joanthespark_freetronics_footprints_led_matrix_plane_4pad
+    oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_led_matrix_plane_4pad_e79be4
+    oomp_key_simple: joanthespark_freetronics_footprints_led_matrix_plane_4pad
     original_filename: KiCAD/mods/freetronics_footprints.pretty/LED_MATRIX_PLANE_4PAD.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_freetronics_footprints_led_matrix_plane_4pad
+  oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_led_matrix_plane_4pad
   oomp_key_simple: joanthespark_freetronics_footprints_led_matrix_plane_4pad
   owner: JoanTheSpark
   repo:

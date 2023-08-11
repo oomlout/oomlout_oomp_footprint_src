@@ -17,9 +17,18 @@
   oomp:
     footprint_name: led_5mm
     library_name: pth_semi
+    md5: cd3e1223d72d721c2dae67c8f9df7051
+    md5_10: cd3e1223d7
+    md5_5: cd3e1
+    md5_6: cd3e12
+    oomp_key: oomp_cpavlina_pth_semi_led_5mm
+    oomp_key_extra: oomp_footprint_cpavlina_pth_semi_led_5mm
+    oomp_key_full: oomp_footprint_cpavlina_pth_semi_led_5mm_cd3e12
+    oomp_key_simple: cpavlina_pth_semi_led_5mm
     original_filename: kicad-pcblib/pth-semi.pretty/LED-5mm.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_pth_semi_led_5mm
+  oomp_key_full: oomp_footprint_cpavlina_pth_semi_led_5mm
   oomp_key_simple: cpavlina_pth_semi_led_5mm
   owner: cpavlina
   repo:

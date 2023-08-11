@@ -17,9 +17,18 @@
   oomp:
     footprint_name: diomelf3516
     library_name: ipc7351_nominal
+    md5: 7c71ea0e7dc64bc0b74d54f5c033c1b6
+    md5_10: 7c71ea0e7d
+    md5_5: 7c71e
+    md5_6: 7c71ea
+    oomp_key: oomp_cpavlina_ipc7351_nominal_diomelf3516
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_nominal_diomelf3516
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_diomelf3516_7c71ea
+    oomp_key_simple: cpavlina_ipc7351_nominal_diomelf3516
     original_filename: kicad-pcblib/IPC7351-Nominal.pretty/DIOMELF3516.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_nominal_diomelf3516
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_diomelf3516
   oomp_key_simple: cpavlina_ipc7351_nominal_diomelf3516
   owner: cpavlina
   repo:

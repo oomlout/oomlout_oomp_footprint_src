@@ -17,9 +17,18 @@
   oomp:
     footprint_name: bluetooth_module_rn4020
     library_name: digikey_footprints
+    md5: c8a7a4aeaec14e83905e4f17ea29c6f6
+    md5_10: c8a7a4aeae
+    md5_5: c8a7a
+    md5_6: c8a7a4
+    oomp_key: oomp_digikey_digikey_footprints_bluetooth_module_rn4020
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_bluetooth_module_rn4020
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_bluetooth_module_rn4020_c8a7a4
+    oomp_key_simple: digikey_digikey_footprints_bluetooth_module_rn4020
     original_filename: digikey-kicad-library/digikey-footprints.pretty/Bluetooth_Module_RN4020.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_bluetooth_module_rn4020
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_bluetooth_module_rn4020
   oomp_key_simple: digikey_digikey_footprints_bluetooth_module_rn4020
   owner: digikey
   repo:

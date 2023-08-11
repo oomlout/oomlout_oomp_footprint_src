@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_ds_04
     library_name: xess
+    md5: 995b937299b1f2e48505a0cc6c54bde7
+    md5_10: 995b937299
+    md5_5: 995b9
+    md5_6: 995b93
+    oomp_key: oomp_xesscorp_xess_xess_ds_04
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_ds_04
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_ds_04_995b93
+    oomp_key_simple: xesscorp_xess_xess_ds_04
     original_filename: xess.pretty/xess-DS-04.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_ds_04
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_ds_04
   oomp_key_simple: xesscorp_xess_xess_ds_04
   owner: xesscorp
   repo:

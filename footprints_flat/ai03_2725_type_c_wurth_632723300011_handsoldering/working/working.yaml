@@ -17,9 +17,18 @@
   oomp:
     footprint_name: wurth_632723300011_handsoldering
     library_name: type_c
+    md5: 2e8b4dedf8143a0b2c858b58aa7d86c2
+    md5_10: 2e8b4dedf8
+    md5_5: 2e8b4
+    md5_6: 2e8b4d
+    oomp_key: oomp_ai03_2725_type_c_wurth_632723300011_handsoldering
+    oomp_key_extra: oomp_footprint_ai03_2725_type_c_wurth_632723300011_handsoldering
+    oomp_key_full: oomp_footprint_ai03_2725_type_c_wurth_632723300011_handsoldering_2e8b4d
+    oomp_key_simple: ai03_2725_type_c_wurth_632723300011_handsoldering
     original_filename: Type-C.pretty/Wurth-632723300011-HandSoldering.kicad_mod
     owner_name: ai03_2725
   oomp_key: oomp_ai03_2725_type_c_wurth_632723300011_handsoldering
+  oomp_key_full: oomp_footprint_ai03_2725_type_c_wurth_632723300011_handsoldering
   oomp_key_simple: ai03_2725_type_c_wurth_632723300011_handsoldering
   owner: ai03-2725
   repo:

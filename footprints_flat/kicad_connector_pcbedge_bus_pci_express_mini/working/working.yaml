@@ -17,9 +17,18 @@
   oomp:
     footprint_name: bus_pci_express_mini
     library_name: connector_pcbedge
+    md5: 04beda72227964529121086a43c6c55b
+    md5_10: 04beda7222
+    md5_5: 04bed
+    md5_6: 04beda
+    oomp_key: oomp_kicad_connector_pcbedge_bus_pci_express_mini
+    oomp_key_extra: oomp_footprint_kicad_connector_pcbedge_bus_pci_express_mini
+    oomp_key_full: oomp_footprint_kicad_connector_pcbedge_bus_pci_express_mini_04beda
+    oomp_key_simple: kicad_connector_pcbedge_bus_pci_express_mini
     original_filename: libraries/kicad-footprints/Connector_PCBEdge.pretty/BUS_PCI_Express_Mini.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_pcbedge_bus_pci_express_mini
+  oomp_key_full: oomp_footprint_kicad_connector_pcbedge_bus_pci_express_mini
   oomp_key_simple: kicad_connector_pcbedge_bus_pci_express_mini
   owner: kicad
   repo:

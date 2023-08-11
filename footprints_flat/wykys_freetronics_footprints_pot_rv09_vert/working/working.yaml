@@ -17,9 +17,18 @@
   oomp:
     footprint_name: pot_rv09_vert
     library_name: freetronics_footprints
+    md5: 57e4ffdca5dbf20aa49899b1e60d177a
+    md5_10: 57e4ffdca5
+    md5_5: 57e4f
+    md5_6: 57e4ff
+    oomp_key: oomp_wykys_freetronics_footprints_pot_rv09_vert
+    oomp_key_extra: oomp_footprint_wykys_freetronics_footprints_pot_rv09_vert
+    oomp_key_full: oomp_footprint_wykys_freetronics_footprints_pot_rv09_vert_57e4ff
+    oomp_key_simple: wykys_freetronics_footprints_pot_rv09_vert
     original_filename: kicad/mods/freetronics_footprints.pretty/POT_RV09_VERT.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_freetronics_footprints_pot_rv09_vert
+  oomp_key_full: oomp_footprint_wykys_freetronics_footprints_pot_rv09_vert
   oomp_key_simple: wykys_freetronics_footprints_pot_rv09_vert
   owner: wykys
   repo:

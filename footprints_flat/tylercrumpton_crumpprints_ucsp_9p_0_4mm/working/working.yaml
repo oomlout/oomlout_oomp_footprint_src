@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ucsp_9p_0_4mm
     library_name: crumpprints
+    md5: fd71a6510ba36a63fe835cc16b5ac374
+    md5_10: fd71a6510b
+    md5_5: fd71a
+    md5_6: fd71a6
+    oomp_key: oomp_tylercrumpton_crumpprints_ucsp_9p_0_4mm
+    oomp_key_extra: oomp_footprint_tylercrumpton_crumpprints_ucsp_9p_0_4mm
+    oomp_key_full: oomp_footprint_tylercrumpton_crumpprints_ucsp_9p_0_4mm_fd71a6
+    oomp_key_simple: tylercrumpton_crumpprints_ucsp_9p_0_4mm
     original_filename: CrumpPrints.pretty/UCSP-9p-0.4mm.kicad_mod
     owner_name: tylercrumpton
   oomp_key: oomp_tylercrumpton_crumpprints_ucsp_9p_0_4mm
+  oomp_key_full: oomp_footprint_tylercrumpton_crumpprints_ucsp_9p_0_4mm
   oomp_key_simple: tylercrumpton_crumpprints_ucsp_9p_0_4mm
   owner: tylercrumpton
   repo:

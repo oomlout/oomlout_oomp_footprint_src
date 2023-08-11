@@ -17,9 +17,18 @@
   oomp:
     footprint_name: nxp_hvson_8_1ep_3x3mm_sot782_1
     library_name: primarypoints
+    md5: d7a34eae9efa8cbc6d0a07362d7bdeaa
+    md5_10: d7a34eae9e
+    md5_5: d7a34
+    md5_6: d7a34e
+    oomp_key: oomp_zanekaminski_primarypoints_nxp_hvson_8_1ep_3x3mm_sot782_1
+    oomp_key_extra: oomp_footprint_zanekaminski_primarypoints_nxp_hvson_8_1ep_3x3mm_sot782_1
+    oomp_key_full: oomp_footprint_zanekaminski_primarypoints_nxp_hvson_8_1ep_3x3mm_sot782_1_d7a34e
+    oomp_key_simple: zanekaminski_primarypoints_nxp_hvson_8_1ep_3x3mm_sot782_1
     original_filename: primarypoints.pretty/NXP_HVSON-8-1EP_3x3mm_SOT782-1.kicad_mod
     owner_name: zanekaminski
   oomp_key: oomp_zanekaminski_primarypoints_nxp_hvson_8_1ep_3x3mm_sot782_1
+  oomp_key_full: oomp_footprint_zanekaminski_primarypoints_nxp_hvson_8_1ep_3x3mm_sot782_1
   oomp_key_simple: zanekaminski_primarypoints_nxp_hvson_8_1ep_3x3mm_sot782_1
   owner: ZaneKaminski
   repo:

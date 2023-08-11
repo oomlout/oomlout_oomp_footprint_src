@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: hdmi_female_dc3rx19ja3r1700
-    library_name: source_footprints
+    library_name: hdmi_female_dc3rx19ja3r1700_kicad_mod
+    md5: 03ef2ab6ff1567d803c5738a42a3d653
+    md5_10: 03ef2ab6ff
+    md5_5: 03ef2
+    md5_6: 03ef2a
+    oomp_key: oomp_digikey_hdmi_female_dc3rx19ja3r1700_hdmi_female_dc3rx19ja3r1700
+    oomp_key_extra: oomp_footprint_digikey_hdmi_female_dc3rx19ja3r1700_hdmi_female_dc3rx19ja3r1700
+    oomp_key_full: oomp_footprint_digikey_hdmi_female_dc3rx19ja3r1700_hdmi_female_dc3rx19ja3r1700_03ef2a
+    oomp_key_simple: digikey_hdmi_female_dc3rx19ja3r1700_hdmi_female_dc3rx19ja3r1700
     original_filename: digikey-kicad-library/src/Source_Footprints/HDMI_Female_DC3RX19JA3R1700.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_hdmi_female_dc3rx19ja3r1700_hdmi_female_dc3rx19ja3r1700
+  oomp_key_full: oomp_footprint_digikey_hdmi_female_dc3rx19ja3r1700_hdmi_female_dc3rx19ja3r1700
   oomp_key_simple: digikey_hdmi_female_dc3rx19ja3r1700_hdmi_female_dc3rx19ja3r1700
   owner: digikey
   repo:

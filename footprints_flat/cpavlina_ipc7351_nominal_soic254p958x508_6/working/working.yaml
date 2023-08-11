@@ -17,9 +17,18 @@
   oomp:
     footprint_name: soic254p958x508_6
     library_name: ipc7351_nominal
+    md5: 5512bb5cee4939043ce2f19ed2050553
+    md5_10: 5512bb5cee
+    md5_5: 5512b
+    md5_6: 5512bb
+    oomp_key: oomp_cpavlina_ipc7351_nominal_soic254p958x508_6
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_nominal_soic254p958x508_6
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_soic254p958x508_6_5512bb
+    oomp_key_simple: cpavlina_ipc7351_nominal_soic254p958x508_6
     original_filename: kicad-pcblib/IPC7351-Nominal.pretty/SOIC254P958X508-6.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_nominal_soic254p958x508_6
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_soic254p958x508_6
   oomp_key_simple: cpavlina_ipc7351_nominal_soic254p958x508_6
   owner: cpavlina
   repo:

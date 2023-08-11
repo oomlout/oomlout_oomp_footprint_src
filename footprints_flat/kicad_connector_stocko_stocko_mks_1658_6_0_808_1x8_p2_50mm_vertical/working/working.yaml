@@ -18,9 +18,18 @@
   oomp:
     footprint_name: stocko_mks_1658_6_0_808_1x8_p2_50mm_vertical
     library_name: connector_stocko
+    md5: fba241b5c8b00d813325cf696670e647
+    md5_10: fba241b5c8
+    md5_5: fba24
+    md5_6: fba241
+    oomp_key: oomp_kicad_connector_stocko_stocko_mks_1658_6_0_808_1x8_p2_50mm_vertical
+    oomp_key_extra: oomp_footprint_kicad_connector_stocko_stocko_mks_1658_6_0_808_1x8_p2_50mm_vertical
+    oomp_key_full: oomp_footprint_kicad_connector_stocko_stocko_mks_1658_6_0_808_1x8_p2_50mm_vertical_fba241
+    oomp_key_simple: kicad_connector_stocko_stocko_mks_1658_6_0_808_1x8_p2_50mm_vertical
     original_filename: libraries/kicad-footprints/Connector_Stocko.pretty/Stocko_MKS_1658-6-0-808_1x8_P2.50mm_Vertical.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_stocko_stocko_mks_1658_6_0_808_1x8_p2_50mm_vertical
+  oomp_key_full: oomp_footprint_kicad_connector_stocko_stocko_mks_1658_6_0_808_1x8_p2_50mm_vertical
   oomp_key_simple: kicad_connector_stocko_stocko_mks_1658_6_0_808_1x8_p2_50mm_vertical
   owner: kicad
   repo:

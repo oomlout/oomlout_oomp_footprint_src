@@ -18,9 +18,18 @@
   oomp:
     footprint_name: resonator_smd_murata_cdscb_2pin_4_5x2_0mm
     library_name: crystal
+    md5: b547d10a7d84acab82af7e55994c7da3
+    md5_10: b547d10a7d
+    md5_5: b547d
+    md5_6: b547d1
+    oomp_key: oomp_kicad_crystal_resonator_smd_murata_cdscb_2pin_4_5x2_0mm
+    oomp_key_extra: oomp_footprint_kicad_crystal_resonator_smd_murata_cdscb_2pin_4_5x2_0mm
+    oomp_key_full: oomp_footprint_kicad_crystal_resonator_smd_murata_cdscb_2pin_4_5x2_0mm_b547d1
+    oomp_key_simple: kicad_crystal_resonator_smd_murata_cdscb_2pin_4_5x2_0mm
     original_filename: libraries/kicad-footprints/Crystal.pretty/Resonator_SMD_Murata_CDSCB-2Pin_4.5x2.0mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_crystal_resonator_smd_murata_cdscb_2pin_4_5x2_0mm
+  oomp_key_full: oomp_footprint_kicad_crystal_resonator_smd_murata_cdscb_2pin_4_5x2_0mm
   oomp_key_simple: kicad_crystal_resonator_smd_murata_cdscb_2pin_4_5x2_0mm
   owner: kicad
   repo:

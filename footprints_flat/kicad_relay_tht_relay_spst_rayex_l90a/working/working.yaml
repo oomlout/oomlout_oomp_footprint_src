@@ -17,9 +17,18 @@
   oomp:
     footprint_name: relay_spst_rayex_l90a
     library_name: relay_tht
+    md5: 0485f4bbeb4436799bb6b1730466612d
+    md5_10: 0485f4bbeb
+    md5_5: 0485f
+    md5_6: 0485f4
+    oomp_key: oomp_kicad_relay_tht_relay_spst_rayex_l90a
+    oomp_key_extra: oomp_footprint_kicad_relay_tht_relay_spst_rayex_l90a
+    oomp_key_full: oomp_footprint_kicad_relay_tht_relay_spst_rayex_l90a_0485f4
+    oomp_key_simple: kicad_relay_tht_relay_spst_rayex_l90a
     original_filename: libraries/kicad-footprints/Relay_THT.pretty/Relay_SPST_RAYEX-L90A.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_relay_tht_relay_spst_rayex_l90a
+  oomp_key_full: oomp_footprint_kicad_relay_tht_relay_spst_rayex_l90a
   oomp_key_simple: kicad_relay_tht_relay_spst_rayex_l90a
   owner: kicad
   repo:

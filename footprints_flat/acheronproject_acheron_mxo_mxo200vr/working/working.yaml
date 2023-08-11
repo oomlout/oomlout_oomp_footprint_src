@@ -17,9 +17,18 @@
   oomp:
     footprint_name: mxo200vr
     library_name: acheron_mxo
+    md5: e15626d11a696e32d8c42a3f4772f1be
+    md5_10: e15626d11a
+    md5_5: e1562
+    md5_6: e15626
+    oomp_key: oomp_acheronproject_acheron_mxo_mxo200vr
+    oomp_key_extra: oomp_footprint_acheronproject_acheron_mxo_mxo200vr
+    oomp_key_full: oomp_footprint_acheronproject_acheron_mxo_mxo200vr_e15626
+    oomp_key_simple: acheronproject_acheron_mxo_mxo200vr
     original_filename: acheron_MXO.pretty/MXO200VR.kicad_mod
     owner_name: acheronproject
   oomp_key: oomp_acheronproject_acheron_mxo_mxo200vr
+  oomp_key_full: oomp_footprint_acheronproject_acheron_mxo_mxo200vr
   oomp_key_simple: acheronproject_acheron_mxo_mxo200vr
   owner: AcheronProject
   repo:

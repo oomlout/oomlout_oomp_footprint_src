@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ellvgg
     library_name: agg
+    md5: ca4ae120679efa89b7534b344a5ec600
+    md5_10: ca4ae12067
+    md5_5: ca4ae
+    md5_6: ca4ae1
+    oomp_key: oomp_adamgreig_agg_ellvgg
+    oomp_key_extra: oomp_footprint_adamgreig_agg_ellvgg
+    oomp_key_full: oomp_footprint_adamgreig_agg_ellvgg_ca4ae1
+    oomp_key_simple: adamgreig_agg_ellvgg
     original_filename: agg-kicad/agg.pretty/ELLVGG.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_ellvgg
+  oomp_key_full: oomp_footprint_adamgreig_agg_ellvgg
   oomp_key_simple: adamgreig_agg_ellvgg
   owner: adamgreig
   repo:

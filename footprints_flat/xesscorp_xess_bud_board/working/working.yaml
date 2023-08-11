@@ -17,9 +17,18 @@
   oomp:
     footprint_name: bud_board
     library_name: xess
+    md5: cb6e1b4840dbd7963f5b9149718be7c8
+    md5_10: cb6e1b4840
+    md5_5: cb6e1
+    md5_6: cb6e1b
+    oomp_key: oomp_xesscorp_xess_bud_board
+    oomp_key_extra: oomp_footprint_xesscorp_xess_bud_board
+    oomp_key_full: oomp_footprint_xesscorp_xess_bud_board_cb6e1b
+    oomp_key_simple: xesscorp_xess_bud_board
     original_filename: xess.pretty/bud_board.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_bud_board
+  oomp_key_full: oomp_footprint_xesscorp_xess_bud_board
   oomp_key_simple: xesscorp_xess_bud_board
   owner: xesscorp
   repo:

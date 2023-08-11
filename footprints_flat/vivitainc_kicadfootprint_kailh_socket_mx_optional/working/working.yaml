@@ -17,9 +17,18 @@
   oomp:
     footprint_name: kailh_socket_mx_optional
     library_name: kicadfootprint
+    md5: 2a2f780ed0c46eb8edf1798f10c0c402
+    md5_10: 2a2f780ed0
+    md5_5: 2a2f7
+    md5_6: 2a2f78
+    oomp_key: oomp_vivitainc_kicadfootprint_kailh_socket_mx_optional
+    oomp_key_extra: oomp_footprint_vivitainc_kicadfootprint_kailh_socket_mx_optional
+    oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_kailh_socket_mx_optional_2a2f78
+    oomp_key_simple: vivitainc_kicadfootprint_kailh_socket_mx_optional
     original_filename: KiCADfootprint.pretty/Kailh_socket_MX_optional.kicad_mod
     owner_name: vivitainc
   oomp_key: oomp_vivitainc_kicadfootprint_kailh_socket_mx_optional
+  oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_kailh_socket_mx_optional
   oomp_key_simple: vivitainc_kicadfootprint_kailh_socket_mx_optional
   owner: vivitainc
   repo:

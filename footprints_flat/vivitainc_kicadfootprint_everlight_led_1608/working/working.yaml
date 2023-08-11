@@ -17,9 +17,18 @@
   oomp:
     footprint_name: everlight_led_1608
     library_name: kicadfootprint
+    md5: 1e2f3ef3f5378be7d9f52cd4bb0c1c17
+    md5_10: 1e2f3ef3f5
+    md5_5: 1e2f3
+    md5_6: 1e2f3e
+    oomp_key: oomp_vivitainc_kicadfootprint_everlight_led_1608
+    oomp_key_extra: oomp_footprint_vivitainc_kicadfootprint_everlight_led_1608
+    oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_everlight_led_1608_1e2f3e
+    oomp_key_simple: vivitainc_kicadfootprint_everlight_led_1608
     original_filename: KiCADfootprint.pretty/Everlight_LED_1608.kicad_mod
     owner_name: vivitainc
   oomp_key: oomp_vivitainc_kicadfootprint_everlight_led_1608
+  oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_everlight_led_1608
   oomp_key_simple: vivitainc_kicadfootprint_everlight_led_1608
   owner: vivitainc
   repo:

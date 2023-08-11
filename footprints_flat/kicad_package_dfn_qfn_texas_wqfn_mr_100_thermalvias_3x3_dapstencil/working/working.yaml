@@ -17,9 +17,18 @@
   oomp:
     footprint_name: texas_wqfn_mr_100_thermalvias_3x3_dapstencil
     library_name: package_dfn_qfn
+    md5: ce3db666488d97f4b0468ecfedd3d3b6
+    md5_10: ce3db66648
+    md5_5: ce3db
+    md5_6: ce3db6
+    oomp_key: oomp_kicad_package_dfn_qfn_texas_wqfn_mr_100_thermalvias_3x3_dapstencil
+    oomp_key_extra: oomp_footprint_kicad_package_dfn_qfn_texas_wqfn_mr_100_thermalvias_3x3_dapstencil
+    oomp_key_full: oomp_footprint_kicad_package_dfn_qfn_texas_wqfn_mr_100_thermalvias_3x3_dapstencil_ce3db6
+    oomp_key_simple: kicad_package_dfn_qfn_texas_wqfn_mr_100_thermalvias_3x3_dapstencil
     original_filename: libraries/kicad-footprints/Package_DFN_QFN.pretty/Texas_WQFN-MR-100_ThermalVias_3x3-DapStencil.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_dfn_qfn_texas_wqfn_mr_100_thermalvias_3x3_dapstencil
+  oomp_key_full: oomp_footprint_kicad_package_dfn_qfn_texas_wqfn_mr_100_thermalvias_3x3_dapstencil
   oomp_key_simple: kicad_package_dfn_qfn_texas_wqfn_mr_100_thermalvias_3x3_dapstencil
   owner: kicad
   repo:

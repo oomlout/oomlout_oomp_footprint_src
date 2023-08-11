@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sot_666
     library_name: smd_semi
+    md5: dabdabdbb276705bd36f5eb22053cdf3
+    md5_10: dabdabdbb2
+    md5_5: dabda
+    md5_6: dabdab
+    oomp_key: oomp_cpavlina_smd_semi_sot_666
+    oomp_key_extra: oomp_footprint_cpavlina_smd_semi_sot_666
+    oomp_key_full: oomp_footprint_cpavlina_smd_semi_sot_666_dabdab
+    oomp_key_simple: cpavlina_smd_semi_sot_666
     original_filename: kicad-pcblib/smd-semi.pretty/SOT-666.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_smd_semi_sot_666
+  oomp_key_full: oomp_footprint_cpavlina_smd_semi_sot_666
   oomp_key_simple: cpavlina_smd_semi_sot_666
   owner: cpavlina
   repo:

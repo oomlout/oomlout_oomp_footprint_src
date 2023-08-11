@@ -17,9 +17,18 @@
   oomp:
     footprint_name: usb_micro_5pin_pthmount
     library_name: freetronics_footprints
+    md5: 2546530e166dc25cd3c28047aad56d9c
+    md5_10: 2546530e16
+    md5_5: '25465'
+    md5_6: '254653'
+    oomp_key: oomp_axello_freetronics_footprints_usb_micro_5pin_pthmount
+    oomp_key_extra: oomp_footprint_axello_freetronics_footprints_usb_micro_5pin_pthmount
+    oomp_key_full: oomp_footprint_axello_freetronics_footprints_usb_micro_5pin_pthmount_254653
+    oomp_key_simple: axello_freetronics_footprints_usb_micro_5pin_pthmount
     original_filename: kicad/mods/freetronics_footprints.pretty/USB-MICRO-5pin_PTHMOUNT.kicad_mod
     owner_name: axello
   oomp_key: oomp_axello_freetronics_footprints_usb_micro_5pin_pthmount
+  oomp_key_full: oomp_footprint_axello_freetronics_footprints_usb_micro_5pin_pthmount
   oomp_key_simple: axello_freetronics_footprints_usb_micro_5pin_pthmount
   owner: axello
   repo:

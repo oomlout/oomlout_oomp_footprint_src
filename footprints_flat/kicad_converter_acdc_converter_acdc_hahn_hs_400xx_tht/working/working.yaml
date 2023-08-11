@@ -17,9 +17,18 @@
   oomp:
     footprint_name: converter_acdc_hahn_hs_400xx_tht
     library_name: converter_acdc
+    md5: 49468bc4ebc12e4db8caa1117e287899
+    md5_10: 49468bc4eb
+    md5_5: '49468'
+    md5_6: 49468b
+    oomp_key: oomp_kicad_converter_acdc_converter_acdc_hahn_hs_400xx_tht
+    oomp_key_extra: oomp_footprint_kicad_converter_acdc_converter_acdc_hahn_hs_400xx_tht
+    oomp_key_full: oomp_footprint_kicad_converter_acdc_converter_acdc_hahn_hs_400xx_tht_49468b
+    oomp_key_simple: kicad_converter_acdc_converter_acdc_hahn_hs_400xx_tht
     original_filename: libraries/kicad-footprints/Converter_ACDC.pretty/Converter_ACDC_Hahn_HS-400xx_THT.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_converter_acdc_converter_acdc_hahn_hs_400xx_tht
+  oomp_key_full: oomp_footprint_kicad_converter_acdc_converter_acdc_hahn_hs_400xx_tht
   oomp_key_simple: kicad_converter_acdc_converter_acdc_hahn_hs_400xx_tht
   owner: kicad
   repo:

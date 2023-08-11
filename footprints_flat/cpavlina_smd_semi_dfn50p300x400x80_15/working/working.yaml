@@ -17,9 +17,18 @@
   oomp:
     footprint_name: dfn50p300x400x80_15
     library_name: smd_semi
+    md5: 3fe4a54f722274bb4fd4da72ffbd1f37
+    md5_10: 3fe4a54f72
+    md5_5: 3fe4a
+    md5_6: 3fe4a5
+    oomp_key: oomp_cpavlina_smd_semi_dfn50p300x400x80_15
+    oomp_key_extra: oomp_footprint_cpavlina_smd_semi_dfn50p300x400x80_15
+    oomp_key_full: oomp_footprint_cpavlina_smd_semi_dfn50p300x400x80_15_3fe4a5
+    oomp_key_simple: cpavlina_smd_semi_dfn50p300x400x80_15
     original_filename: kicad-pcblib/smd-semi.pretty/DFN50P300X400X80-15.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_smd_semi_dfn50p300x400x80_15
+  oomp_key_full: oomp_footprint_cpavlina_smd_semi_dfn50p300x400x80_15
   oomp_key_simple: cpavlina_smd_semi_dfn50p300x400x80_15
   owner: cpavlina
   repo:

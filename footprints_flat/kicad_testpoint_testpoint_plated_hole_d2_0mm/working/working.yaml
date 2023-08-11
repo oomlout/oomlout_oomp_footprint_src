@@ -17,9 +17,18 @@
   oomp:
     footprint_name: testpoint_plated_hole_d2_0mm
     library_name: testpoint
+    md5: 36a4ddf2e091201e565ddc1d324d5abe
+    md5_10: 36a4ddf2e0
+    md5_5: 36a4d
+    md5_6: 36a4dd
+    oomp_key: oomp_kicad_testpoint_testpoint_plated_hole_d2_0mm
+    oomp_key_extra: oomp_footprint_kicad_testpoint_testpoint_plated_hole_d2_0mm
+    oomp_key_full: oomp_footprint_kicad_testpoint_testpoint_plated_hole_d2_0mm_36a4dd
+    oomp_key_simple: kicad_testpoint_testpoint_plated_hole_d2_0mm
     original_filename: libraries/kicad-footprints/TestPoint.pretty/TestPoint_Plated_Hole_D2.0mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_testpoint_testpoint_plated_hole_d2_0mm
+  oomp_key_full: oomp_footprint_kicad_testpoint_testpoint_plated_hole_d2_0mm
   oomp_key_simple: kicad_testpoint_testpoint_plated_hole_d2_0mm
   owner: kicad
   repo:

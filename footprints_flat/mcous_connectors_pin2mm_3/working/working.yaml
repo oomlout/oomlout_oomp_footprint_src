@@ -17,9 +17,18 @@
   oomp:
     footprint_name: _pin2mm_3
     library_name: _connectors
+    md5: 1b0ef601d075f5c0239305459ad91c2a
+    md5_10: 1b0ef601d0
+    md5_5: 1b0ef
+    md5_6: 1b0ef6
+    oomp_key: oomp_mcous_connectors_pin2mm_3
+    oomp_key_extra: oomp_footprint_mcous_connectors_pin2mm_3
+    oomp_key_full: oomp_footprint_mcous_connectors_pin2mm_3_1b0ef6
+    oomp_key_simple: mcous_connectors_pin2mm_3
     original_filename: kicad-lib/footprints/_connectors.pretty/_Pin2mm_3.kicad_mod
     owner_name: mcous
   oomp_key: oomp_mcous_connectors_pin2mm_3
+  oomp_key_full: oomp_footprint_mcous_connectors_pin2mm_3
   oomp_key_simple: mcous_connectors_pin2mm_3
   owner: mcous
   repo:

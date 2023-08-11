@@ -17,9 +17,18 @@
   oomp:
     footprint_name: so_8
     library_name: apex
+    md5: cfa60ccb69293b7408c51dab554c307a
+    md5_10: cfa60ccb69
+    md5_5: cfa60
+    md5_6: cfa60c
+    oomp_key: oomp_apexelectrix_apex_so_8
+    oomp_key_extra: oomp_footprint_apexelectrix_apex_so_8
+    oomp_key_full: oomp_footprint_apexelectrix_apex_so_8_cfa60c
+    oomp_key_simple: apexelectrix_apex_so_8
     original_filename: Apex.pretty/SO-8.kicad_mod
     owner_name: apexelectrix
   oomp_key: oomp_apexelectrix_apex_so_8
+  oomp_key_full: oomp_footprint_apexelectrix_apex_so_8
   oomp_key_simple: apexelectrix_apex_so_8
   owner: apexelectrix
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: icon_servo
     library_name: kicadfootprint
+    md5: f6a66d34e9173b9a4f3a161d716965cc
+    md5_10: f6a66d34e9
+    md5_5: f6a66
+    md5_6: f6a66d
+    oomp_key: oomp_vivitainc_kicadfootprint_icon_servo
+    oomp_key_extra: oomp_footprint_vivitainc_kicadfootprint_icon_servo
+    oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_icon_servo_f6a66d
+    oomp_key_simple: vivitainc_kicadfootprint_icon_servo
     original_filename: KiCADfootprint.pretty/ICON_Servo.kicad_mod
     owner_name: vivitainc
   oomp_key: oomp_vivitainc_kicadfootprint_icon_servo
+  oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_icon_servo
   oomp_key_simple: vivitainc_kicadfootprint_icon_servo
   owner: vivitainc
   repo:

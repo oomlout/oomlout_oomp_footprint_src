@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_pic18f2450_qfn28
     library_name: xess
+    md5: 31aa91499272acf87baec96c996865fe
+    md5_10: 31aa914992
+    md5_5: 31aa9
+    md5_6: 31aa91
+    oomp_key: oomp_xesscorp_xess_xess_pic18f2450_qfn28
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_pic18f2450_qfn28
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_pic18f2450_qfn28_31aa91
+    oomp_key_simple: xesscorp_xess_xess_pic18f2450_qfn28
     original_filename: xess.pretty/xess-PIC18F2450-QFN28.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_pic18f2450_qfn28
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_pic18f2450_qfn28
   oomp_key_simple: xesscorp_xess_xess_pic18f2450_qfn28
   owner: xesscorp
   repo:

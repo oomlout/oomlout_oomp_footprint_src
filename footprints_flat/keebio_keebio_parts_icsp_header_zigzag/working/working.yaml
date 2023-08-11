@@ -17,9 +17,18 @@
   oomp:
     footprint_name: icsp_header_zigzag
     library_name: keebio_parts
+    md5: 0955e860bdfdbd834599c23e651628e0
+    md5_10: 0955e860bd
+    md5_5: 0955e
+    md5_6: 0955e8
+    oomp_key: oomp_keebio_keebio_parts_icsp_header_zigzag
+    oomp_key_extra: oomp_footprint_keebio_keebio_parts_icsp_header_zigzag
+    oomp_key_full: oomp_footprint_keebio_keebio_parts_icsp_header_zigzag_0955e8
+    oomp_key_simple: keebio_keebio_parts_icsp_header_zigzag
     original_filename: Keebio-Parts.pretty/ICSP-Header-ZigZag.kicad_mod
     owner_name: keebio
   oomp_key: oomp_keebio_keebio_parts_icsp_header_zigzag
+  oomp_key_full: oomp_footprint_keebio_keebio_parts_icsp_header_zigzag
   oomp_key_simple: keebio_keebio_parts_icsp_header_zigzag
   owner: keebio
   repo:

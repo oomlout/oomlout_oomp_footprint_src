@@ -15,9 +15,18 @@
   oomp:
     footprint_name: '61800929221'
     library_name: db
+    md5: 6fa6cc75edfd223a4daa1225e2c621dc
+    md5_10: 6fa6cc75ed
+    md5_5: 6fa6c
+    md5_6: 6fa6cc
+    oomp_key: oomp_electroniccats_db_61800929221
+    oomp_key_extra: oomp_footprint_electroniccats_db_61800929221
+    oomp_key_full: oomp_footprint_electroniccats_db_61800929221_6fa6cc
+    oomp_key_simple: electroniccats_db_61800929221
     original_filename: ComponentLibrariesKicadWurthElektronik/INPUT_OUTPUT_CONNECTORS-rev17b/DB.pretty/61800929221.kicad_mod
     owner_name: electroniccats
   oomp_key: oomp_electroniccats_db_61800929221
+  oomp_key_full: oomp_footprint_electroniccats_db_61800929221
   oomp_key_simple: electroniccats_db_61800929221
   owner: ElectronicCats
   repo:

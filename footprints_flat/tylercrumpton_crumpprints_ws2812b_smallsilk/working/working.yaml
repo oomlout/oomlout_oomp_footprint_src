@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ws2812b_smallsilk
     library_name: crumpprints
+    md5: ef175006e89b66c0bf2ba123af79a215
+    md5_10: ef175006e8
+    md5_5: ef175
+    md5_6: ef1750
+    oomp_key: oomp_tylercrumpton_crumpprints_ws2812b_smallsilk
+    oomp_key_extra: oomp_footprint_tylercrumpton_crumpprints_ws2812b_smallsilk
+    oomp_key_full: oomp_footprint_tylercrumpton_crumpprints_ws2812b_smallsilk_ef1750
+    oomp_key_simple: tylercrumpton_crumpprints_ws2812b_smallsilk
     original_filename: CrumpPrints.pretty/WS2812B_smallsilk.kicad_mod
     owner_name: tylercrumpton
   oomp_key: oomp_tylercrumpton_crumpprints_ws2812b_smallsilk
+  oomp_key_full: oomp_footprint_tylercrumpton_crumpprints_ws2812b_smallsilk
   oomp_key_simple: tylercrumpton_crumpprints_ws2812b_smallsilk
   owner: tylercrumpton
   repo:

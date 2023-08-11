@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_microchip_20_soic
     library_name: xess
+    md5: 649b39f973b162562c5b2cd5d7f7832f
+    md5_10: 649b39f973
+    md5_5: 649b3
+    md5_6: 649b39
+    oomp_key: oomp_xesscorp_xess_xess_microchip_20_soic
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_microchip_20_soic
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_microchip_20_soic_649b39
+    oomp_key_simple: xesscorp_xess_xess_microchip_20_soic
     original_filename: xess.pretty/xess-MICROCHIP-20_SOIC.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_microchip_20_soic
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_microchip_20_soic
   oomp_key_simple: xesscorp_xess_xess_microchip_20_soic
   owner: xesscorp
   repo:

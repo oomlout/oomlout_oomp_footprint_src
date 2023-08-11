@@ -17,9 +17,18 @@
   oomp:
     footprint_name: usb_mini_b_adamtech_musb_b5_s_vt_tsmt_1_smd_vertical
     library_name: connector_usb
+    md5: d6bd1036b9ef5afcf92b451cc41ac822
+    md5_10: d6bd1036b9
+    md5_5: d6bd1
+    md5_6: d6bd10
+    oomp_key: oomp_kicad_connector_usb_usb_mini_b_adamtech_musb_b5_s_vt_tsmt_1_smd_vertical
+    oomp_key_extra: oomp_footprint_kicad_connector_usb_usb_mini_b_adamtech_musb_b5_s_vt_tsmt_1_smd_vertical
+    oomp_key_full: oomp_footprint_kicad_connector_usb_usb_mini_b_adamtech_musb_b5_s_vt_tsmt_1_smd_vertical_d6bd10
+    oomp_key_simple: kicad_connector_usb_usb_mini_b_adamtech_musb_b5_s_vt_tsmt_1_smd_vertical
     original_filename: libraries/kicad-footprints/Connector_USB.pretty/USB_Mini-B_AdamTech_MUSB-B5-S-VT-TSMT-1_SMD_Vertical.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_usb_usb_mini_b_adamtech_musb_b5_s_vt_tsmt_1_smd_vertical
+  oomp_key_full: oomp_footprint_kicad_connector_usb_usb_mini_b_adamtech_musb_b5_s_vt_tsmt_1_smd_vertical
   oomp_key_simple: kicad_connector_usb_usb_mini_b_adamtech_musb_b5_s_vt_tsmt_1_smd_vertical
   owner: kicad
   repo:

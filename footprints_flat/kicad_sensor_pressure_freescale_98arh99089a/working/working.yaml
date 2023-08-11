@@ -17,9 +17,18 @@
   oomp:
     footprint_name: freescale_98arh99089a
     library_name: sensor_pressure
+    md5: 842f6140b6ea0f3e7e15bd557fe0bdb3
+    md5_10: 842f6140b6
+    md5_5: 842f6
+    md5_6: 842f61
+    oomp_key: oomp_kicad_sensor_pressure_freescale_98arh99089a
+    oomp_key_extra: oomp_footprint_kicad_sensor_pressure_freescale_98arh99089a
+    oomp_key_full: oomp_footprint_kicad_sensor_pressure_freescale_98arh99089a_842f61
+    oomp_key_simple: kicad_sensor_pressure_freescale_98arh99089a
     original_filename: libraries/kicad-footprints/Sensor_Pressure.pretty/Freescale_98ARH99089A.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_sensor_pressure_freescale_98arh99089a
+  oomp_key_full: oomp_footprint_kicad_sensor_pressure_freescale_98arh99089a
   oomp_key_simple: kicad_sensor_pressure_freescale_98arh99089a
   owner: kicad
   repo:

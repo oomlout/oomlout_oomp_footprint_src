@@ -17,9 +17,18 @@
   oomp:
     footprint_name: usb_a_skt
     library_name: agg
+    md5: 56062b0f0fd95a3224ca413052958574
+    md5_10: 56062b0f0f
+    md5_5: '56062'
+    md5_6: 56062b
+    oomp_key: oomp_adamgreig_agg_usb_a_skt
+    oomp_key_extra: oomp_footprint_adamgreig_agg_usb_a_skt
+    oomp_key_full: oomp_footprint_adamgreig_agg_usb_a_skt_56062b
+    oomp_key_simple: adamgreig_agg_usb_a_skt
     original_filename: agg-kicad/agg.pretty/USB-A-SKT.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_usb_a_skt
+  oomp_key_full: oomp_footprint_adamgreig_agg_usb_a_skt
   oomp_key_simple: adamgreig_agg_usb_a_skt
   owner: adamgreig
   repo:

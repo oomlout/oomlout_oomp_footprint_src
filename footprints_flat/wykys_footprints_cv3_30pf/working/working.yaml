@@ -17,9 +17,18 @@
   oomp:
     footprint_name: cv3_30pf
     library_name: footprints
+    md5: a49e4c3db93935610c7939c03ec6bc16
+    md5_10: a49e4c3db9
+    md5_5: a49e4
+    md5_6: a49e4c
+    oomp_key: oomp_wykys_footprints_cv3_30pf
+    oomp_key_extra: oomp_footprint_wykys_footprints_cv3_30pf
+    oomp_key_full: oomp_footprint_wykys_footprints_cv3_30pf_a49e4c
+    oomp_key_simple: wykys_footprints_cv3_30pf
     original_filename: kicad/demos/video/libs/footprints.pretty/CV3-30PF.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_footprints_cv3_30pf
+  oomp_key_full: oomp_footprint_wykys_footprints_cv3_30pf
   oomp_key_simple: wykys_footprints_cv3_30pf
   owner: wykys
   repo:

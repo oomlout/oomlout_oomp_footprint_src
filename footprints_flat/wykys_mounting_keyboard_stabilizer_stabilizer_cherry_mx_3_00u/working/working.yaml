@@ -17,9 +17,18 @@
   oomp:
     footprint_name: stabilizer_cherry_mx_3_00u
     library_name: mounting_keyboard_stabilizer
+    md5: 6b01d21f0c95010cf24f85420916dd99
+    md5_10: 6b01d21f0c
+    md5_5: 6b01d
+    md5_6: 6b01d2
+    oomp_key: oomp_wykys_mounting_keyboard_stabilizer_stabilizer_cherry_mx_3_00u
+    oomp_key_extra: oomp_footprint_wykys_mounting_keyboard_stabilizer_stabilizer_cherry_mx_3_00u
+    oomp_key_full: oomp_footprint_wykys_mounting_keyboard_stabilizer_stabilizer_cherry_mx_3_00u_6b01d2
+    oomp_key_simple: wykys_mounting_keyboard_stabilizer_stabilizer_cherry_mx_3_00u
     original_filename: kicad/6.0/3rdparty/footprints/com_github_perigoso_keyswitch-kicad-library/Mounting_Keyboard_Stabilizer.pretty/Stabilizer_Cherry_MX_3.00u.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_mounting_keyboard_stabilizer_stabilizer_cherry_mx_3_00u
+  oomp_key_full: oomp_footprint_wykys_mounting_keyboard_stabilizer_stabilizer_cherry_mx_3_00u
   oomp_key_simple: wykys_mounting_keyboard_stabilizer_stabilizer_cherry_mx_3_00u
   owner: wykys
   repo:

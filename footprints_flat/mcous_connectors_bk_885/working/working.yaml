@@ -17,9 +17,18 @@
   oomp:
     footprint_name: bk_885
     library_name: _connectors
+    md5: a409e590f79cc10fbc67905d20e7f0ad
+    md5_10: a409e590f7
+    md5_5: a409e
+    md5_6: a409e5
+    oomp_key: oomp_mcous_connectors_bk_885
+    oomp_key_extra: oomp_footprint_mcous_connectors_bk_885
+    oomp_key_full: oomp_footprint_mcous_connectors_bk_885_a409e5
+    oomp_key_simple: mcous_connectors_bk_885
     original_filename: kicad-lib/footprints/_connectors.pretty/BK-885.kicad_mod
     owner_name: mcous
   oomp_key: oomp_mcous_connectors_bk_885
+  oomp_key_full: oomp_footprint_mcous_connectors_bk_885
   oomp_key_simple: mcous_connectors_bk_885
   owner: mcous
   repo:

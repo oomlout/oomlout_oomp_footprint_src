@@ -17,9 +17,18 @@
   oomp:
     footprint_name: potentiometer_bourns_tc33x_vertical
     library_name: potentiometer_smd
+    md5: d6b13a0d79dda5d310ad078b60d64bfd
+    md5_10: d6b13a0d79
+    md5_5: d6b13
+    md5_6: d6b13a
+    oomp_key: oomp_kicad_potentiometer_smd_potentiometer_bourns_tc33x_vertical
+    oomp_key_extra: oomp_footprint_kicad_potentiometer_smd_potentiometer_bourns_tc33x_vertical
+    oomp_key_full: oomp_footprint_kicad_potentiometer_smd_potentiometer_bourns_tc33x_vertical_d6b13a
+    oomp_key_simple: kicad_potentiometer_smd_potentiometer_bourns_tc33x_vertical
     original_filename: libraries/kicad-footprints/Potentiometer_SMD.pretty/Potentiometer_Bourns_TC33X_Vertical.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_potentiometer_smd_potentiometer_bourns_tc33x_vertical
+  oomp_key_full: oomp_footprint_kicad_potentiometer_smd_potentiometer_bourns_tc33x_vertical
   oomp_key_simple: kicad_potentiometer_smd_potentiometer_bourns_tc33x_vertical
   owner: kicad
   repo:

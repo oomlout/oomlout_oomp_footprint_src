@@ -18,9 +18,18 @@
   oomp:
     footprint_name: tqfp_32_7x7mm_pitch0_8mm
     library_name: keebio_parts
+    md5: 256ed4b868f49058c6682a858a7e671c
+    md5_10: 256ed4b868
+    md5_5: 256ed
+    md5_6: 256ed4
+    oomp_key: oomp_keebio_keebio_parts_tqfp_32_7x7mm_pitch0_8mm
+    oomp_key_extra: oomp_footprint_keebio_keebio_parts_tqfp_32_7x7mm_pitch0_8mm
+    oomp_key_full: oomp_footprint_keebio_keebio_parts_tqfp_32_7x7mm_pitch0_8mm_256ed4
+    oomp_key_simple: keebio_keebio_parts_tqfp_32_7x7mm_pitch0_8mm
     original_filename: Keebio-Parts.pretty/TQFP-32_7x7mm_Pitch0.8mm.kicad_mod
     owner_name: keebio
   oomp_key: oomp_keebio_keebio_parts_tqfp_32_7x7mm_pitch0_8mm
+  oomp_key_full: oomp_footprint_keebio_keebio_parts_tqfp_32_7x7mm_pitch0_8mm
   oomp_key_simple: keebio_keebio_parts_tqfp_32_7x7mm_pitch0_8mm
   owner: keebio
   repo:

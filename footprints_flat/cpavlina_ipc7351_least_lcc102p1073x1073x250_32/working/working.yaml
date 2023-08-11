@@ -18,9 +18,18 @@
   oomp:
     footprint_name: lcc102p1073x1073x250_32
     library_name: ipc7351_least
+    md5: f240615e01ad3b477e3e2b50d449647e
+    md5_10: f240615e01
+    md5_5: f2406
+    md5_6: f24061
+    oomp_key: oomp_cpavlina_ipc7351_least_lcc102p1073x1073x250_32
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_least_lcc102p1073x1073x250_32
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_least_lcc102p1073x1073x250_32_f24061
+    oomp_key_simple: cpavlina_ipc7351_least_lcc102p1073x1073x250_32
     original_filename: kicad-pcblib/IPC7351-Least.pretty/LCC102P1073X1073X250-32.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_least_lcc102p1073x1073x250_32
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_least_lcc102p1073x1073x250_32
   oomp_key_simple: cpavlina_ipc7351_least_lcc102p1073x1073x250_32
   owner: cpavlina
   repo:

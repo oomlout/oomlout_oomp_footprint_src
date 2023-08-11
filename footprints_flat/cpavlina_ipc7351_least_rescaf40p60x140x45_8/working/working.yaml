@@ -18,9 +18,18 @@
   oomp:
     footprint_name: rescaf40p60x140x45_8
     library_name: ipc7351_least
+    md5: 6d9d1dd6ea2be241b049063100a1261b
+    md5_10: 6d9d1dd6ea
+    md5_5: 6d9d1
+    md5_6: 6d9d1d
+    oomp_key: oomp_cpavlina_ipc7351_least_rescaf40p60x140x45_8
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_least_rescaf40p60x140x45_8
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_least_rescaf40p60x140x45_8_6d9d1d
+    oomp_key_simple: cpavlina_ipc7351_least_rescaf40p60x140x45_8
     original_filename: kicad-pcblib/IPC7351-Least.pretty/RESCAF40P60X140X45-8.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_least_rescaf40p60x140x45_8
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_least_rescaf40p60x140x45_8
   oomp_key_simple: cpavlina_ipc7351_least_rescaf40p60x140x45_8
   owner: cpavlina
   repo:

@@ -19,9 +19,18 @@
   oomp:
     footprint_name: lumex_lds_a324ri
     library_name: manuf
+    md5: 0cbb9ab33eaad6426f2d25b8ed87c4a1
+    md5_10: 0cbb9ab33e
+    md5_5: 0cbb9
+    md5_6: 0cbb9a
+    oomp_key: oomp_iangitpers_manuf_lumex_lds_a324ri
+    oomp_key_extra: oomp_footprint_iangitpers_manuf_lumex_lds_a324ri
+    oomp_key_full: oomp_footprint_iangitpers_manuf_lumex_lds_a324ri_0cbb9a
+    oomp_key_simple: iangitpers_manuf_lumex_lds_a324ri
     original_filename: 4a/manuf.pretty/LUMEX-LDS-A324RI.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_manuf_lumex_lds_a324ri
+  oomp_key_full: oomp_footprint_iangitpers_manuf_lumex_lds_a324ri
   oomp_key_simple: iangitpers_manuf_lumex_lds_a324ri
   owner: Iangitpers
   repo:

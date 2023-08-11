@@ -15,9 +15,18 @@
   oomp:
     footprint_name: '61301311821'
     library_name: sockets
+    md5: 83753887fa7f9854156b50e18355a2fd
+    md5_10: 83753887fa
+    md5_5: '83753'
+    md5_6: '837538'
+    oomp_key: oomp_electroniccats_sockets_61301311821
+    oomp_key_extra: oomp_footprint_electroniccats_sockets_61301311821
+    oomp_key_full: oomp_footprint_electroniccats_sockets_61301311821_837538
+    oomp_key_simple: electroniccats_sockets_61301311821
     original_filename: ComponentLibrariesKicadWurthElektronik/EAGLE-BOARD-TO-BOARD_CONNECTORS-rev16c/Sockets.pretty/61301311821.kicad_mod
     owner_name: electroniccats
   oomp_key: oomp_electroniccats_sockets_61301311821
+  oomp_key_full: oomp_footprint_electroniccats_sockets_61301311821
   oomp_key_simple: electroniccats_sockets_61301311821
   owner: ElectronicCats
   repo:

@@ -18,9 +18,18 @@
   oomp:
     footprint_name: jae_ly20_8p_dt1_2x04_p2_00mm_vertical
     library_name: connector_jae
+    md5: de4a00faebfb65326c14e2e4de7f56d2
+    md5_10: de4a00faeb
+    md5_5: de4a0
+    md5_6: de4a00
+    oomp_key: oomp_kicad_connector_jae_jae_ly20_8p_dt1_2x04_p2_00mm_vertical
+    oomp_key_extra: oomp_footprint_kicad_connector_jae_jae_ly20_8p_dt1_2x04_p2_00mm_vertical
+    oomp_key_full: oomp_footprint_kicad_connector_jae_jae_ly20_8p_dt1_2x04_p2_00mm_vertical_de4a00
+    oomp_key_simple: kicad_connector_jae_jae_ly20_8p_dt1_2x04_p2_00mm_vertical
     original_filename: libraries/kicad-footprints/Connector_JAE.pretty/JAE_LY20-8P-DT1_2x04_P2.00mm_Vertical.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_jae_jae_ly20_8p_dt1_2x04_p2_00mm_vertical
+  oomp_key_full: oomp_footprint_kicad_connector_jae_jae_ly20_8p_dt1_2x04_p2_00mm_vertical
   oomp_key_simple: kicad_connector_jae_jae_ly20_8p_dt1_2x04_p2_00mm_vertical
   owner: kicad
   repo:

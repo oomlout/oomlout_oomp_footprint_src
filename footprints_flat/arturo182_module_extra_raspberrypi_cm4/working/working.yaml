@@ -19,9 +19,18 @@
   oomp:
     footprint_name: raspberrypi_cm4
     library_name: module_extra
+    md5: 2282ac4882bdfed398e7f3aef057d6eb
+    md5_10: 2282ac4882
+    md5_5: 2282a
+    md5_6: 2282ac
+    oomp_key: oomp_arturo182_module_extra_raspberrypi_cm4
+    oomp_key_extra: oomp_footprint_arturo182_module_extra_raspberrypi_cm4
+    oomp_key_full: oomp_footprint_arturo182_module_extra_raspberrypi_cm4_2282ac
+    oomp_key_simple: arturo182_module_extra_raspberrypi_cm4
     original_filename: kicad-modules/Module_Extra.pretty/RaspberryPi_CM4.kicad_mod
     owner_name: arturo182
   oomp_key: oomp_arturo182_module_extra_raspberrypi_cm4
+  oomp_key_full: oomp_footprint_arturo182_module_extra_raspberrypi_cm4
   oomp_key_simple: arturo182_module_extra_raspberrypi_cm4
   owner: arturo182
   repo:

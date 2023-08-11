@@ -17,9 +17,18 @@
   oomp:
     footprint_name: pot_trim_pth
     library_name: freetronics_footprints
+    md5: f9bfea5152ebdd712f3920028a796fdf
+    md5_10: f9bfea5152
+    md5_5: f9bfe
+    md5_6: f9bfea
+    oomp_key: oomp_joanthespark_freetronics_footprints_pot_trim_pth
+    oomp_key_extra: oomp_footprint_joanthespark_freetronics_footprints_pot_trim_pth
+    oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_pot_trim_pth_f9bfea
+    oomp_key_simple: joanthespark_freetronics_footprints_pot_trim_pth
     original_filename: KiCAD/mods/freetronics_footprints.pretty/POT_TRIM_PTH.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_freetronics_footprints_pot_trim_pth
+  oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_pot_trim_pth
   oomp_key_simple: joanthespark_freetronics_footprints_pot_trim_pth
   owner: JoanTheSpark
   repo:

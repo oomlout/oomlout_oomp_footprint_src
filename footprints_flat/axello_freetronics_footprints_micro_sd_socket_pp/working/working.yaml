@@ -17,9 +17,18 @@
   oomp:
     footprint_name: micro_sd_socket_pp
     library_name: freetronics_footprints
+    md5: ce96fa2dd9a140f1bdddc29846b5697f
+    md5_10: ce96fa2dd9
+    md5_5: ce96f
+    md5_6: ce96fa
+    oomp_key: oomp_axello_freetronics_footprints_micro_sd_socket_pp
+    oomp_key_extra: oomp_footprint_axello_freetronics_footprints_micro_sd_socket_pp
+    oomp_key_full: oomp_footprint_axello_freetronics_footprints_micro_sd_socket_pp_ce96fa
+    oomp_key_simple: axello_freetronics_footprints_micro_sd_socket_pp
     original_filename: kicad/mods/freetronics_footprints.pretty/MICRO-SD-SOCKET-PP.kicad_mod
     owner_name: axello
   oomp_key: oomp_axello_freetronics_footprints_micro_sd_socket_pp
+  oomp_key_full: oomp_footprint_axello_freetronics_footprints_micro_sd_socket_pp
   oomp_key_simple: axello_freetronics_footprints_micro_sd_socket_pp
   owner: axello
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sw_kailh_kh_4_00u
     library_name: switch_keyboard_kailh
+    md5: 8e0ccd995dec939ee535cf40dee32211
+    md5_10: 8e0ccd995d
+    md5_5: 8e0cc
+    md5_6: 8e0ccd
+    oomp_key: oomp_wykys_switch_keyboard_kailh_sw_kailh_kh_4_00u
+    oomp_key_extra: oomp_footprint_wykys_switch_keyboard_kailh_sw_kailh_kh_4_00u
+    oomp_key_full: oomp_footprint_wykys_switch_keyboard_kailh_sw_kailh_kh_4_00u_8e0ccd
+    oomp_key_simple: wykys_switch_keyboard_kailh_sw_kailh_kh_4_00u
     original_filename: kicad/6.0/3rdparty/footprints/com_github_perigoso_keyswitch-kicad-library/Switch_Keyboard_Kailh.pretty/SW_Kailh_KH_4.00u.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_switch_keyboard_kailh_sw_kailh_kh_4_00u
+  oomp_key_full: oomp_footprint_wykys_switch_keyboard_kailh_sw_kailh_kh_4_00u
   oomp_key_simple: wykys_switch_keyboard_kailh_sw_kailh_kh_4_00u
   owner: wykys
   repo:

@@ -19,9 +19,18 @@
   oomp:
     footprint_name: cp_eia_7343_20_kemet_v
     library_name: capacitor_tantalum_smd
+    md5: 5f178b43d6a067acd661b02f4143ff2e
+    md5_10: 5f178b43d6
+    md5_5: 5f178
+    md5_6: 5f178b
+    oomp_key: oomp_kicad_capacitor_tantalum_smd_cp_eia_7343_20_kemet_v
+    oomp_key_extra: oomp_footprint_kicad_capacitor_tantalum_smd_cp_eia_7343_20_kemet_v
+    oomp_key_full: oomp_footprint_kicad_capacitor_tantalum_smd_cp_eia_7343_20_kemet_v_5f178b
+    oomp_key_simple: kicad_capacitor_tantalum_smd_cp_eia_7343_20_kemet_v
     original_filename: libraries/kicad-footprints/Capacitor_Tantalum_SMD.pretty/CP_EIA-7343-20_Kemet-V.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_capacitor_tantalum_smd_cp_eia_7343_20_kemet_v
+  oomp_key_full: oomp_footprint_kicad_capacitor_tantalum_smd_cp_eia_7343_20_kemet_v
   oomp_key_simple: kicad_capacitor_tantalum_smd_cp_eia_7343_20_kemet_v
   owner: kicad
   repo:

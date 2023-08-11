@@ -17,9 +17,18 @@
   oomp:
     footprint_name: 0402_cap
     library_name: freetronics_footprints
+    md5: a4d474f92319dc263eb4dc6e88573f39
+    md5_10: a4d474f923
+    md5_5: a4d47
+    md5_6: a4d474
+    oomp_key: oomp_wykys_freetronics_footprints_0402_cap
+    oomp_key_extra: oomp_footprint_wykys_freetronics_footprints_0402_cap
+    oomp_key_full: oomp_footprint_wykys_freetronics_footprints_0402_cap_a4d474
+    oomp_key_simple: wykys_freetronics_footprints_0402_cap
     original_filename: kicad/mods/freetronics_footprints.pretty/0402_CAP.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_freetronics_footprints_0402_cap
+  oomp_key_full: oomp_footprint_wykys_freetronics_footprints_0402_cap
   oomp_key_simple: wykys_freetronics_footprints_0402_cap
   owner: wykys
   repo:

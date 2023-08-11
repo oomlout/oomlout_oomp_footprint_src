@@ -19,9 +19,18 @@
   oomp:
     footprint_name: usb_c_receptacle_gct_usb4110
     library_name: connector_usb_extra
+    md5: a4f03d15f45a4e59c2c6f94d8bc478f2
+    md5_10: a4f03d15f4
+    md5_5: a4f03
+    md5_6: a4f03d
+    oomp_key: oomp_arturo182_connector_usb_extra_usb_c_receptacle_gct_usb4110
+    oomp_key_extra: oomp_footprint_arturo182_connector_usb_extra_usb_c_receptacle_gct_usb4110
+    oomp_key_full: oomp_footprint_arturo182_connector_usb_extra_usb_c_receptacle_gct_usb4110_a4f03d
+    oomp_key_simple: arturo182_connector_usb_extra_usb_c_receptacle_gct_usb4110
     original_filename: kicad-modules/Connector_USB_Extra.pretty/USB_C_Receptacle_GCT_USB4110.kicad_mod
     owner_name: arturo182
   oomp_key: oomp_arturo182_connector_usb_extra_usb_c_receptacle_gct_usb4110
+  oomp_key_full: oomp_footprint_arturo182_connector_usb_extra_usb_c_receptacle_gct_usb4110
   oomp_key_simple: arturo182_connector_usb_extra_usb_c_receptacle_gct_usb4110
   owner: arturo182
   repo:

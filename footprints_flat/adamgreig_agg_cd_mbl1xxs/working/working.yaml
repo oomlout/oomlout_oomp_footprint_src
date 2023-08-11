@@ -17,9 +17,18 @@
   oomp:
     footprint_name: cd_mbl1xxs
     library_name: agg
+    md5: 879019c7c5e223c50fc303f5b20218e2
+    md5_10: 879019c7c5
+    md5_5: '87901'
+    md5_6: '879019'
+    oomp_key: oomp_adamgreig_agg_cd_mbl1xxs
+    oomp_key_extra: oomp_footprint_adamgreig_agg_cd_mbl1xxs
+    oomp_key_full: oomp_footprint_adamgreig_agg_cd_mbl1xxs_879019
+    oomp_key_simple: adamgreig_agg_cd_mbl1xxs
     original_filename: agg-kicad/agg.pretty/CD-MBL1xxS.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_cd_mbl1xxs
+  oomp_key_full: oomp_footprint_adamgreig_agg_cd_mbl1xxs
   oomp_key_simple: adamgreig_agg_cd_mbl1xxs
   owner: adamgreig
   repo:

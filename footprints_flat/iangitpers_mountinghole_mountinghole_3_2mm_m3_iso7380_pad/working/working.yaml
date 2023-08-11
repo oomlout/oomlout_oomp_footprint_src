@@ -19,9 +19,18 @@
   oomp:
     footprint_name: mountinghole_3_2mm_m3_iso7380_pad
     library_name: mountinghole
+    md5: 9e1df04f25424eda7f4bfa9690242cec
+    md5_10: 9e1df04f25
+    md5_5: 9e1df
+    md5_6: 9e1df0
+    oomp_key: oomp_iangitpers_mountinghole_mountinghole_3_2mm_m3_iso7380_pad
+    oomp_key_extra: oomp_footprint_iangitpers_mountinghole_mountinghole_3_2mm_m3_iso7380_pad
+    oomp_key_full: oomp_footprint_iangitpers_mountinghole_mountinghole_3_2mm_m3_iso7380_pad_9e1df0
+    oomp_key_simple: iangitpers_mountinghole_mountinghole_3_2mm_m3_iso7380_pad
     original_filename: 4a/MountingHole.pretty/MountingHole_3.2mm_M3_ISO7380_Pad.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_mountinghole_mountinghole_3_2mm_m3_iso7380_pad
+  oomp_key_full: oomp_footprint_iangitpers_mountinghole_mountinghole_3_2mm_m3_iso7380_pad
   oomp_key_simple: iangitpers_mountinghole_mountinghole_3_2mm_m3_iso7380_pad
   owner: Iangitpers
   repo:

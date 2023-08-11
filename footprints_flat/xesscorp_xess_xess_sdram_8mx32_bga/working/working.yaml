@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_sdram_8mx32_bga
     library_name: xess
+    md5: 1fb9d69cf8a33eb9a4a0597e5055037b
+    md5_10: 1fb9d69cf8
+    md5_5: 1fb9d
+    md5_6: 1fb9d6
+    oomp_key: oomp_xesscorp_xess_xess_sdram_8mx32_bga
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_sdram_8mx32_bga
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_sdram_8mx32_bga_1fb9d6
+    oomp_key_simple: xesscorp_xess_xess_sdram_8mx32_bga
     original_filename: xess.pretty/xess-SDRAM-8MX32-BGA.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_sdram_8mx32_bga
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_sdram_8mx32_bga
   oomp_key_simple: xesscorp_xess_xess_sdram_8mx32_bga
   owner: xesscorp
   repo:

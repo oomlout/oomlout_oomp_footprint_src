@@ -17,9 +17,18 @@
   oomp:
     footprint_name: murata_lqh3np_j0
     library_name: manuf
+    md5: 39321211f53b8647b3d6fd83e47ff577
+    md5_10: 39321211f5
+    md5_5: '39321'
+    md5_6: '393212'
+    oomp_key: oomp_cpavlina_manuf_murata_lqh3np_j0
+    oomp_key_extra: oomp_footprint_cpavlina_manuf_murata_lqh3np_j0
+    oomp_key_full: oomp_footprint_cpavlina_manuf_murata_lqh3np_j0_393212
+    oomp_key_simple: cpavlina_manuf_murata_lqh3np_j0
     original_filename: kicad-pcblib/manuf.pretty/MURATA-LQH3NP_J0.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_manuf_murata_lqh3np_j0
+  oomp_key_full: oomp_footprint_cpavlina_manuf_murata_lqh3np_j0
   oomp_key_simple: cpavlina_manuf_murata_lqh3np_j0
   owner: cpavlina
   repo:

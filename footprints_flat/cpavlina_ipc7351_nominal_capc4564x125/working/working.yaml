@@ -17,9 +17,18 @@
   oomp:
     footprint_name: capc4564x125
     library_name: ipc7351_nominal
+    md5: 6a1a25ed5456c6c64196eab6ad4a7627
+    md5_10: 6a1a25ed54
+    md5_5: 6a1a2
+    md5_6: 6a1a25
+    oomp_key: oomp_cpavlina_ipc7351_nominal_capc4564x125
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_nominal_capc4564x125
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_capc4564x125_6a1a25
+    oomp_key_simple: cpavlina_ipc7351_nominal_capc4564x125
     original_filename: kicad-pcblib/IPC7351-Nominal.pretty/CAPC4564X125.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_nominal_capc4564x125
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_capc4564x125
   oomp_key_simple: cpavlina_ipc7351_nominal_capc4564x125
   owner: cpavlina
   repo:

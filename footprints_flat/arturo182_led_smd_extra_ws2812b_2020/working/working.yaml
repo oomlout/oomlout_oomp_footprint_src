@@ -19,9 +19,18 @@
   oomp:
     footprint_name: ws2812b_2020
     library_name: led_smd_extra
+    md5: fd3bca309e21f99cbfe04d41df431f78
+    md5_10: fd3bca309e
+    md5_5: fd3bc
+    md5_6: fd3bca
+    oomp_key: oomp_arturo182_led_smd_extra_ws2812b_2020
+    oomp_key_extra: oomp_footprint_arturo182_led_smd_extra_ws2812b_2020
+    oomp_key_full: oomp_footprint_arturo182_led_smd_extra_ws2812b_2020_fd3bca
+    oomp_key_simple: arturo182_led_smd_extra_ws2812b_2020
     original_filename: kicad-modules/LED_SMD_Extra.pretty/WS2812B-2020.kicad_mod
     owner_name: arturo182
   oomp_key: oomp_arturo182_led_smd_extra_ws2812b_2020
+  oomp_key_full: oomp_footprint_arturo182_led_smd_extra_ws2812b_2020
   oomp_key_simple: arturo182_led_smd_extra_ws2812b_2020
   owner: arturo182
   repo:

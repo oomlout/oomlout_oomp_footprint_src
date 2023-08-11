@@ -17,9 +17,18 @@
   oomp:
     footprint_name: tic32
     library_name: avp
+    md5: 1a414f25330db03aeef504e23a41cdb0
+    md5_10: 1a414f2533
+    md5_5: 1a414
+    md5_6: 1a414f
+    oomp_key: oomp_av_p_avp_tic32
+    oomp_key_extra: oomp_footprint_av_p_avp_tic32
+    oomp_key_full: oomp_footprint_av_p_avp_tic32_1a414f
+    oomp_key_simple: av_p_avp_tic32
     original_filename: Avp.pretty/TIC32.kicad_mod
     owner_name: av_p
   oomp_key: oomp_av_p_avp_tic32
+  oomp_key_full: oomp_footprint_av_p_avp_tic32
   oomp_key_simple: av_p_avp_tic32
   owner: av-p
   repo:

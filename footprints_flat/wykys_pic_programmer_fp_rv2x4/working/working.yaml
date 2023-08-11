@@ -17,9 +17,18 @@
   oomp:
     footprint_name: rv2x4
     library_name: pic_programmer_fp
+    md5: 0f12277575c726ea09208e3af7bfdcb5
+    md5_10: 0f12277575
+    md5_5: 0f122
+    md5_6: 0f1227
+    oomp_key: oomp_wykys_pic_programmer_fp_rv2x4
+    oomp_key_extra: oomp_footprint_wykys_pic_programmer_fp_rv2x4
+    oomp_key_full: oomp_footprint_wykys_pic_programmer_fp_rv2x4_0f1227
+    oomp_key_simple: wykys_pic_programmer_fp_rv2x4
     original_filename: kicad/demos/pic_programmer/libs/pic_programmer_fp.pretty/RV2X4.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_pic_programmer_fp_rv2x4
+  oomp_key_full: oomp_footprint_wykys_pic_programmer_fp_rv2x4
   oomp_key_simple: wykys_pic_programmer_fp_rv2x4
   owner: wykys
   repo:

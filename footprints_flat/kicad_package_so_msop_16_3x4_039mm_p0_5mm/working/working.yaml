@@ -18,9 +18,18 @@
   oomp:
     footprint_name: msop_16_3x4_039mm_p0_5mm
     library_name: package_so
+    md5: 4f5026631ca52134d463de4bd8e688dd
+    md5_10: 4f5026631c
+    md5_5: 4f502
+    md5_6: 4f5026
+    oomp_key: oomp_kicad_package_so_msop_16_3x4_039mm_p0_5mm
+    oomp_key_extra: oomp_footprint_kicad_package_so_msop_16_3x4_039mm_p0_5mm
+    oomp_key_full: oomp_footprint_kicad_package_so_msop_16_3x4_039mm_p0_5mm_4f5026
+    oomp_key_simple: kicad_package_so_msop_16_3x4_039mm_p0_5mm
     original_filename: libraries/kicad-footprints/Package_SO.pretty/MSOP-16_3x4.039mm_P0.5mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_so_msop_16_3x4_039mm_p0_5mm
+  oomp_key_full: oomp_footprint_kicad_package_so_msop_16_3x4_039mm_p0_5mm
   oomp_key_simple: kicad_package_so_msop_16_3x4_039mm_p0_5mm
   owner: kicad
   repo:

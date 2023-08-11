@@ -17,9 +17,18 @@
   oomp:
     footprint_name: lora_module_rm103
     library_name: digikey_footprints
+    md5: 48a279dd8647ef7fefc0b9f04162617a
+    md5_10: 48a279dd86
+    md5_5: 48a27
+    md5_6: 48a279
+    oomp_key: oomp_digikey_digikey_footprints_lora_module_rm103
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_lora_module_rm103
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_lora_module_rm103_48a279
+    oomp_key_simple: digikey_digikey_footprints_lora_module_rm103
     original_filename: digikey-kicad-library/digikey-footprints.pretty/LORA_Module_RM103.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_lora_module_rm103
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_lora_module_rm103
   oomp_key_simple: digikey_digikey_footprints_lora_module_rm103
   owner: digikey
   repo:

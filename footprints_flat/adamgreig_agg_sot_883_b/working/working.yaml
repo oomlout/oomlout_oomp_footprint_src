@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sot_883_b
     library_name: agg
+    md5: 873aa89bd33cca2a292c9a3cb4a00a08
+    md5_10: 873aa89bd3
+    md5_5: 873aa
+    md5_6: 873aa8
+    oomp_key: oomp_adamgreig_agg_sot_883_b
+    oomp_key_extra: oomp_footprint_adamgreig_agg_sot_883_b
+    oomp_key_full: oomp_footprint_adamgreig_agg_sot_883_b_873aa8
+    oomp_key_simple: adamgreig_agg_sot_883_b
     original_filename: agg-kicad/agg.pretty/SOT-883-B.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_sot_883_b
+  oomp_key_full: oomp_footprint_adamgreig_agg_sot_883_b
   oomp_key_simple: adamgreig_agg_sot_883_b
   owner: adamgreig
   repo:

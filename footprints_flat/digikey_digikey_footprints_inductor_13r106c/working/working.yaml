@@ -17,9 +17,18 @@
   oomp:
     footprint_name: inductor_13r106c
     library_name: digikey_footprints
+    md5: ef702e7fbd124ffb857aecbbf3d74cb9
+    md5_10: ef702e7fbd
+    md5_5: ef702
+    md5_6: ef702e
+    oomp_key: oomp_digikey_digikey_footprints_inductor_13r106c
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_inductor_13r106c
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_inductor_13r106c_ef702e
+    oomp_key_simple: digikey_digikey_footprints_inductor_13r106c
     original_filename: digikey-kicad-library/digikey-footprints.pretty/Inductor_13R106C.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_inductor_13r106c
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_inductor_13r106c
   oomp_key_simple: digikey_digikey_footprints_inductor_13r106c
   owner: digikey
   repo:

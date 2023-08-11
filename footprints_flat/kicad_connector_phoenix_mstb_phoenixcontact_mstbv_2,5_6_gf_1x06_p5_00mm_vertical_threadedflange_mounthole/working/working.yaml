@@ -21,9 +21,18 @@
   oomp:
     footprint_name: phoenixcontact_mstbv_2,5_6_gf_1x06_p5_00mm_vertical_threadedflange_mounthole
     library_name: connector_phoenix_mstb
+    md5: b9e18d74bc75e13bb2ac9da05487668b
+    md5_10: b9e18d74bc
+    md5_5: b9e18
+    md5_6: b9e18d
+    oomp_key: oomp_kicad_connector_phoenix_mstb_phoenixcontact_mstbv_2,5_6_gf_1x06_p5_00mm_vertical_threadedflange_mounthole
+    oomp_key_extra: oomp_footprint_kicad_connector_phoenix_mstb_phoenixcontact_mstbv_2,5_6_gf_1x06_p5_00mm_vertical_threadedflange_mounthole
+    oomp_key_full: oomp_footprint_kicad_connector_phoenix_mstb_phoenixcontact_mstbv_2,5_6_gf_1x06_p5_00mm_vertical_threadedflange_mounthole_b9e18d
+    oomp_key_simple: kicad_connector_phoenix_mstb_phoenixcontact_mstbv_2,5_6_gf_1x06_p5_00mm_vertical_threadedflange_mounthole
     original_filename: libraries/kicad-footprints/Connector_Phoenix_MSTB.pretty/PhoenixContact_MSTBV_2,5_6-GF_1x06_P5.00mm_Vertical_ThreadedFlange_MountHole.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_phoenix_mstb_phoenixcontact_mstbv_2,5_6_gf_1x06_p5_00mm_vertical_threadedflange_mounthole
+  oomp_key_full: oomp_footprint_kicad_connector_phoenix_mstb_phoenixcontact_mstbv_2,5_6_gf_1x06_p5_00mm_vertical_threadedflange_mounthole
   oomp_key_simple: kicad_connector_phoenix_mstb_phoenixcontact_mstbv_2,5_6_gf_1x06_p5_00mm_vertical_threadedflange_mounthole
   owner: kicad
   repo:

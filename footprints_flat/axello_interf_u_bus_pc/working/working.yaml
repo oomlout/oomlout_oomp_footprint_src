@@ -17,9 +17,18 @@
   oomp:
     footprint_name: bus_pc
     library_name: interf_u
+    md5: 465b6a05809161638b6b314c601db8a0
+    md5_10: 465b6a0580
+    md5_5: 465b6
+    md5_6: 465b6a
+    oomp_key: oomp_axello_interf_u_bus_pc
+    oomp_key_extra: oomp_footprint_axello_interf_u_bus_pc
+    oomp_key_full: oomp_footprint_axello_interf_u_bus_pc_465b6a
+    oomp_key_simple: axello_interf_u_bus_pc
     original_filename: kicad/demos/interf_u/interf_u.pretty/BUS_PC.kicad_mod
     owner_name: axello
   oomp_key: oomp_axello_interf_u_bus_pc
+  oomp_key_full: oomp_footprint_axello_interf_u_bus_pc
   oomp_key_simple: axello_interf_u_bus_pc
   owner: axello
   repo:

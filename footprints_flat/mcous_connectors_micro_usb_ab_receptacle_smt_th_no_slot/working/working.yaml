@@ -17,9 +17,18 @@
   oomp:
     footprint_name: _micro_usb_ab_receptacle_smt_th_no_slot
     library_name: _connectors
+    md5: c20ba184da35f6edb6cda24875a312f1
+    md5_10: c20ba184da
+    md5_5: c20ba
+    md5_6: c20ba1
+    oomp_key: oomp_mcous_connectors_micro_usb_ab_receptacle_smt_th_no_slot
+    oomp_key_extra: oomp_footprint_mcous_connectors_micro_usb_ab_receptacle_smt_th_no_slot
+    oomp_key_full: oomp_footprint_mcous_connectors_micro_usb_ab_receptacle_smt_th_no_slot_c20ba1
+    oomp_key_simple: mcous_connectors_micro_usb_ab_receptacle_smt_th_no_slot
     original_filename: kicad-lib/footprints/_connectors.pretty/_Micro-USB-AB-receptacle-SMT-th-no-slot.kicad_mod
     owner_name: mcous
   oomp_key: oomp_mcous_connectors_micro_usb_ab_receptacle_smt_th_no_slot
+  oomp_key_full: oomp_footprint_mcous_connectors_micro_usb_ab_receptacle_smt_th_no_slot
   oomp_key_simple: mcous_connectors_micro_usb_ab_receptacle_smt_th_no_slot
   owner: mcous
   repo:

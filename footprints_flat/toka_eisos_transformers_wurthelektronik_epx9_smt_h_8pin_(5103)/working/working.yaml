@@ -17,9 +17,18 @@
   oomp:
     footprint_name: epx9_smt_h_8pin_(5103)
     library_name: transformers_wurthelektronik
+    md5: f79d377f49bc77225d94506fae88d315
+    md5_10: f79d377f49
+    md5_5: f79d3
+    md5_6: f79d37
+    oomp_key: oomp_toka_eisos_transformers_wurthelektronik_epx9_smt_h_8pin_(5103)
+    oomp_key_extra: oomp_footprint_toka_eisos_transformers_wurthelektronik_epx9_smt_h_8pin_(5103)
+    oomp_key_full: oomp_footprint_toka_eisos_transformers_wurthelektronik_epx9_smt_h_8pin_(5103)_f79d37
+    oomp_key_simple: toka_eisos_transformers_wurthelektronik_epx9_smt_h_8pin_(5103)
     original_filename: Transformers_WurthElektronik.pretty/EPX9_SMT_H_8PIN_(5103).kicad_mod
     owner_name: toka_eisos
   oomp_key: oomp_toka_eisos_transformers_wurthelektronik_epx9_smt_h_8pin_(5103)
+  oomp_key_full: oomp_footprint_toka_eisos_transformers_wurthelektronik_epx9_smt_h_8pin_(5103)
   oomp_key_simple: toka_eisos_transformers_wurthelektronik_epx9_smt_h_8pin_(5103)
   owner: toka-eisos
   repo:

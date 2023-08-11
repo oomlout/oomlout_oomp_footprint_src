@@ -17,9 +17,18 @@
   oomp:
     footprint_name: magneticbuzzer_kobitone_254_emb73_ro
     library_name: buzzer_beeper
+    md5: 71694c0a1ad76d56264afe1d53e88c26
+    md5_10: 71694c0a1a
+    md5_5: '71694'
+    md5_6: 71694c
+    oomp_key: oomp_kicad_buzzer_beeper_magneticbuzzer_kobitone_254_emb73_ro
+    oomp_key_extra: oomp_footprint_kicad_buzzer_beeper_magneticbuzzer_kobitone_254_emb73_ro
+    oomp_key_full: oomp_footprint_kicad_buzzer_beeper_magneticbuzzer_kobitone_254_emb73_ro_71694c
+    oomp_key_simple: kicad_buzzer_beeper_magneticbuzzer_kobitone_254_emb73_ro
     original_filename: libraries/kicad-footprints/Buzzer_Beeper.pretty/MagneticBuzzer_Kobitone_254-EMB73-RO.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_buzzer_beeper_magneticbuzzer_kobitone_254_emb73_ro
+  oomp_key_full: oomp_footprint_kicad_buzzer_beeper_magneticbuzzer_kobitone_254_emb73_ro
   oomp_key_simple: kicad_buzzer_beeper_magneticbuzzer_kobitone_254_emb73_ro
   owner: kicad
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: 30_tssop
     library_name: usst_footprints
+    md5: d9e669a35c732d65c8acbfaee5008fad
+    md5_10: d9e669a35c
+    md5_5: d9e66
+    md5_6: d9e669
+    oomp_key: oomp_uofsspaceteam_usst_footprints_30_tssop
+    oomp_key_extra: oomp_footprint_uofsspaceteam_usst_footprints_30_tssop
+    oomp_key_full: oomp_footprint_uofsspaceteam_usst_footprints_30_tssop_d9e669
+    oomp_key_simple: uofsspaceteam_usst_footprints_30_tssop
     original_filename: USST-footprints.pretty/30-TSSOP.kicad_mod
     owner_name: uofsspaceteam
   oomp_key: oomp_uofsspaceteam_usst_footprints_30_tssop
+  oomp_key_full: oomp_footprint_uofsspaceteam_usst_footprints_30_tssop
   oomp_key_simple: uofsspaceteam_usst_footprints_30_tssop
   owner: UofSSpaceTeam
   repo:

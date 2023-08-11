@@ -17,9 +17,18 @@
   oomp:
     footprint_name: b2b_ph_k
     library_name: kicadfootprint
+    md5: 1b7a9c3118ea9798e9e046edbeb7a84c
+    md5_10: 1b7a9c3118
+    md5_5: 1b7a9
+    md5_6: 1b7a9c
+    oomp_key: oomp_vivitainc_kicadfootprint_b2b_ph_k
+    oomp_key_extra: oomp_footprint_vivitainc_kicadfootprint_b2b_ph_k
+    oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_b2b_ph_k_1b7a9c
+    oomp_key_simple: vivitainc_kicadfootprint_b2b_ph_k
     original_filename: KiCADfootprint.pretty/B2B-PH-K.kicad_mod
     owner_name: vivitainc
   oomp_key: oomp_vivitainc_kicadfootprint_b2b_ph_k
+  oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_b2b_ph_k
   oomp_key_simple: vivitainc_kicadfootprint_b2b_ph_k
   owner: vivitainc
   repo:

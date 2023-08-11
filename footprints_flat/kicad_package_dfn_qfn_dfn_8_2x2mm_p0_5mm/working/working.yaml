@@ -17,9 +17,18 @@
   oomp:
     footprint_name: dfn_8_2x2mm_p0_5mm
     library_name: package_dfn_qfn
+    md5: 479934207b1267302fc49d0a66aa820c
+    md5_10: 479934207b
+    md5_5: '47993'
+    md5_6: '479934'
+    oomp_key: oomp_kicad_package_dfn_qfn_dfn_8_2x2mm_p0_5mm
+    oomp_key_extra: oomp_footprint_kicad_package_dfn_qfn_dfn_8_2x2mm_p0_5mm
+    oomp_key_full: oomp_footprint_kicad_package_dfn_qfn_dfn_8_2x2mm_p0_5mm_479934
+    oomp_key_simple: kicad_package_dfn_qfn_dfn_8_2x2mm_p0_5mm
     original_filename: libraries/kicad-footprints/Package_DFN_QFN.pretty/DFN-8_2x2mm_P0.5mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_dfn_qfn_dfn_8_2x2mm_p0_5mm
+  oomp_key_full: oomp_footprint_kicad_package_dfn_qfn_dfn_8_2x2mm_p0_5mm
   oomp_key_simple: kicad_package_dfn_qfn_dfn_8_2x2mm_p0_5mm
   owner: kicad
   repo:

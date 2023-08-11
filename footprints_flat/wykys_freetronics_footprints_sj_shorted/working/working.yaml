@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sj_shorted
     library_name: freetronics_footprints
+    md5: 2087393a4afb5c3ec2f582cb7030b1f6
+    md5_10: 2087393a4a
+    md5_5: '20873'
+    md5_6: '208739'
+    oomp_key: oomp_wykys_freetronics_footprints_sj_shorted
+    oomp_key_extra: oomp_footprint_wykys_freetronics_footprints_sj_shorted
+    oomp_key_full: oomp_footprint_wykys_freetronics_footprints_sj_shorted_208739
+    oomp_key_simple: wykys_freetronics_footprints_sj_shorted
     original_filename: kicad/mods/freetronics_footprints.pretty/SJ_SHORTED.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_freetronics_footprints_sj_shorted
+  oomp_key_full: oomp_footprint_wykys_freetronics_footprints_sj_shorted
   oomp_key_simple: wykys_freetronics_footprints_sj_shorted
   owner: wykys
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: tlga_8_3x5
     library_name: digikey_footprints
+    md5: 72df5161f61062b2c4559f95c1bf4831
+    md5_10: 72df5161f6
+    md5_5: 72df5
+    md5_6: 72df51
+    oomp_key: oomp_digikey_digikey_footprints_tlga_8_3x5
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_tlga_8_3x5
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_tlga_8_3x5_72df51
+    oomp_key_simple: digikey_digikey_footprints_tlga_8_3x5
     original_filename: digikey-kicad-library/digikey-footprints.pretty/TLGA-8_3x5.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_tlga_8_3x5
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_tlga_8_3x5
   oomp_key_simple: digikey_digikey_footprints_tlga_8_3x5
   owner: digikey
   repo:

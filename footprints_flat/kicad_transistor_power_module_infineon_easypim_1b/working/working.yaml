@@ -17,9 +17,18 @@
   oomp:
     footprint_name: infineon_easypim_1b
     library_name: transistor_power_module
+    md5: 9f68166f60fd76ae61f66156bd07ec7c
+    md5_10: 9f68166f60
+    md5_5: 9f681
+    md5_6: 9f6816
+    oomp_key: oomp_kicad_transistor_power_module_infineon_easypim_1b
+    oomp_key_extra: oomp_footprint_kicad_transistor_power_module_infineon_easypim_1b
+    oomp_key_full: oomp_footprint_kicad_transistor_power_module_infineon_easypim_1b_9f6816
+    oomp_key_simple: kicad_transistor_power_module_infineon_easypim_1b
     original_filename: libraries/kicad-footprints/Transistor_Power_Module.pretty/Infineon_EasyPIM-1B.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_transistor_power_module_infineon_easypim_1b
+  oomp_key_full: oomp_footprint_kicad_transistor_power_module_infineon_easypim_1b
   oomp_key_simple: kicad_transistor_power_module_infineon_easypim_1b
   owner: kicad
   repo:

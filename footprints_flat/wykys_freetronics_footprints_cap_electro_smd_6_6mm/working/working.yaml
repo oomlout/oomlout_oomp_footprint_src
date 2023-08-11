@@ -17,9 +17,18 @@
   oomp:
     footprint_name: cap_electro_smd_6_6mm
     library_name: freetronics_footprints
+    md5: 87d859812360f2411deab2ee6d62f491
+    md5_10: 87d8598123
+    md5_5: 87d85
+    md5_6: 87d859
+    oomp_key: oomp_wykys_freetronics_footprints_cap_electro_smd_6_6mm
+    oomp_key_extra: oomp_footprint_wykys_freetronics_footprints_cap_electro_smd_6_6mm
+    oomp_key_full: oomp_footprint_wykys_freetronics_footprints_cap_electro_smd_6_6mm_87d859
+    oomp_key_simple: wykys_freetronics_footprints_cap_electro_smd_6_6mm
     original_filename: kicad/mods/freetronics_footprints.pretty/CAP_ELECTRO_SMD_6.6mm.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_freetronics_footprints_cap_electro_smd_6_6mm
+  oomp_key_full: oomp_footprint_wykys_freetronics_footprints_cap_electro_smd_6_6mm
   oomp_key_simple: wykys_freetronics_footprints_cap_electro_smd_6_6mm
   owner: wykys
   repo:

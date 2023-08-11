@@ -17,9 +17,18 @@
   oomp:
     footprint_name: oplga_6_veml6070
     library_name: digikey_footprints
+    md5: 661c2d51393b1e11e0ffbca35ae7ed23
+    md5_10: 661c2d5139
+    md5_5: 661c2
+    md5_6: 661c2d
+    oomp_key: oomp_digikey_digikey_footprints_oplga_6_veml6070
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_oplga_6_veml6070
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_oplga_6_veml6070_661c2d
+    oomp_key_simple: digikey_digikey_footprints_oplga_6_veml6070
     original_filename: digikey-kicad-library/digikey-footprints.pretty/OPLGA-6_VEML6070.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_oplga_6_veml6070
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_oplga_6_veml6070
   oomp_key_simple: digikey_digikey_footprints_oplga_6_veml6070
   owner: digikey
   repo:

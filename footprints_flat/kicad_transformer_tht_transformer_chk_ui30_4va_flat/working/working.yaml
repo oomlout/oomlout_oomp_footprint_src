@@ -17,9 +17,18 @@
   oomp:
     footprint_name: transformer_chk_ui30_4va_flat
     library_name: transformer_tht
+    md5: 69e764833f46f899c6db3488ce2db58d
+    md5_10: 69e764833f
+    md5_5: 69e76
+    md5_6: 69e764
+    oomp_key: oomp_kicad_transformer_tht_transformer_chk_ui30_4va_flat
+    oomp_key_extra: oomp_footprint_kicad_transformer_tht_transformer_chk_ui30_4va_flat
+    oomp_key_full: oomp_footprint_kicad_transformer_tht_transformer_chk_ui30_4va_flat_69e764
+    oomp_key_simple: kicad_transformer_tht_transformer_chk_ui30_4va_flat
     original_filename: libraries/kicad-footprints/Transformer_THT.pretty/Transformer_CHK_UI30-4VA_Flat.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_transformer_tht_transformer_chk_ui30_4va_flat
+  oomp_key_full: oomp_footprint_kicad_transformer_tht_transformer_chk_ui30_4va_flat
   oomp_key_simple: kicad_transformer_tht_transformer_chk_ui30_4va_flat
   owner: kicad
   repo:

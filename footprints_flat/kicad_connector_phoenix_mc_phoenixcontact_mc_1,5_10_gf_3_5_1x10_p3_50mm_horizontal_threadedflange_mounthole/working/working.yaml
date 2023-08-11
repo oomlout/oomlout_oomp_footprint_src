@@ -21,9 +21,18 @@
   oomp:
     footprint_name: phoenixcontact_mc_1,5_10_gf_3_5_1x10_p3_50mm_horizontal_threadedflange_mounthole
     library_name: connector_phoenix_mc
+    md5: 7fae46b10d37d043c21893a86c4b7cb5
+    md5_10: 7fae46b10d
+    md5_5: 7fae4
+    md5_6: 7fae46
+    oomp_key: oomp_kicad_connector_phoenix_mc_phoenixcontact_mc_1,5_10_gf_3_5_1x10_p3_50mm_horizontal_threadedflange_mounthole
+    oomp_key_extra: oomp_footprint_kicad_connector_phoenix_mc_phoenixcontact_mc_1,5_10_gf_3_5_1x10_p3_50mm_horizontal_threadedflange_mounthole
+    oomp_key_full: oomp_footprint_kicad_connector_phoenix_mc_phoenixcontact_mc_1,5_10_gf_3_5_1x10_p3_50mm_horizontal_threadedflange_mounthole_7fae46
+    oomp_key_simple: kicad_connector_phoenix_mc_phoenixcontact_mc_1,5_10_gf_3_5_1x10_p3_50mm_horizontal_threadedflange_mounthole
     original_filename: libraries/kicad-footprints/Connector_Phoenix_MC.pretty/PhoenixContact_MC_1,5_10-GF-3.5_1x10_P3.50mm_Horizontal_ThreadedFlange_MountHole.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_phoenix_mc_phoenixcontact_mc_1,5_10_gf_3_5_1x10_p3_50mm_horizontal_threadedflange_mounthole
+  oomp_key_full: oomp_footprint_kicad_connector_phoenix_mc_phoenixcontact_mc_1,5_10_gf_3_5_1x10_p3_50mm_horizontal_threadedflange_mounthole
   oomp_key_simple: kicad_connector_phoenix_mc_phoenixcontact_mc_1,5_10_gf_3_5_1x10_p3_50mm_horizontal_threadedflange_mounthole
   owner: kicad
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ledc3224x270
     library_name: ipc7351_most
+    md5: 5ad918bba3a0d5c5f93a5255552d36af
+    md5_10: 5ad918bba3
+    md5_5: 5ad91
+    md5_6: 5ad918
+    oomp_key: oomp_cpavlina_ipc7351_most_ledc3224x270
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_most_ledc3224x270
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_most_ledc3224x270_5ad918
+    oomp_key_simple: cpavlina_ipc7351_most_ledc3224x270
     original_filename: kicad-pcblib/IPC7351-Most.pretty/LEDC3224X270.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_most_ledc3224x270
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_most_ledc3224x270
   oomp_key_simple: cpavlina_ipc7351_most_ledc3224x270
   owner: cpavlina
   repo:

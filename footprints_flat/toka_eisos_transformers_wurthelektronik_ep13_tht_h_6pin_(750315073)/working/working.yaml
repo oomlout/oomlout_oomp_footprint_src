@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ep13_tht_h_6pin_(750315073)
     library_name: transformers_wurthelektronik
+    md5: f95799909cadcc4c62b4d45dbe5a0dd2
+    md5_10: f95799909c
+    md5_5: f9579
+    md5_6: f95799
+    oomp_key: oomp_toka_eisos_transformers_wurthelektronik_ep13_tht_h_6pin_(750315073)
+    oomp_key_extra: oomp_footprint_toka_eisos_transformers_wurthelektronik_ep13_tht_h_6pin_(750315073)
+    oomp_key_full: oomp_footprint_toka_eisos_transformers_wurthelektronik_ep13_tht_h_6pin_(750315073)_f95799
+    oomp_key_simple: toka_eisos_transformers_wurthelektronik_ep13_tht_h_6pin_(750315073)
     original_filename: Transformers_WurthElektronik.pretty/EP13_THT_H_6PIN_(750315073).kicad_mod
     owner_name: toka_eisos
   oomp_key: oomp_toka_eisos_transformers_wurthelektronik_ep13_tht_h_6pin_(750315073)
+  oomp_key_full: oomp_footprint_toka_eisos_transformers_wurthelektronik_ep13_tht_h_6pin_(750315073)
   oomp_key_simple: toka_eisos_transformers_wurthelektronik_ep13_tht_h_6pin_(750315073)
   owner: toka-eisos
   repo:

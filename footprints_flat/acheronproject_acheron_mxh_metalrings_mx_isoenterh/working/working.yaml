@@ -17,9 +17,18 @@
   oomp:
     footprint_name: mx_isoenterh
     library_name: acheron_mxh_metalrings
+    md5: 97ead676bfff328c62a514c78bb9100d
+    md5_10: 97ead676bf
+    md5_5: 97ead
+    md5_6: 97ead6
+    oomp_key: oomp_acheronproject_acheron_mxh_metalrings_mx_isoenterh
+    oomp_key_extra: oomp_footprint_acheronproject_acheron_mxh_metalrings_mx_isoenterh
+    oomp_key_full: oomp_footprint_acheronproject_acheron_mxh_metalrings_mx_isoenterh_97ead6
+    oomp_key_simple: acheronproject_acheron_mxh_metalrings_mx_isoenterh
     original_filename: acheron_MXH_metalrings.pretty/MX_ISOEnterH.kicad_mod
     owner_name: acheronproject
   oomp_key: oomp_acheronproject_acheron_mxh_metalrings_mx_isoenterh
+  oomp_key_full: oomp_footprint_acheronproject_acheron_mxh_metalrings_mx_isoenterh
   oomp_key_simple: acheronproject_acheron_mxh_metalrings_mx_isoenterh
   owner: AcheronProject
   repo:

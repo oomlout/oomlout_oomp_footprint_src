@@ -17,9 +17,18 @@
   oomp:
     footprint_name: murata_pv36p
     library_name: manuf
+    md5: 432437ab397c37dda282a783d7f4563e
+    md5_10: 432437ab39
+    md5_5: '43243'
+    md5_6: '432437'
+    oomp_key: oomp_cpavlina_manuf_murata_pv36p
+    oomp_key_extra: oomp_footprint_cpavlina_manuf_murata_pv36p
+    oomp_key_full: oomp_footprint_cpavlina_manuf_murata_pv36p_432437
+    oomp_key_simple: cpavlina_manuf_murata_pv36p
     original_filename: kicad-pcblib/manuf.pretty/MURATA-PV36P.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_manuf_murata_pv36p
+  oomp_key_full: oomp_footprint_cpavlina_manuf_murata_pv36p
   oomp_key_simple: cpavlina_manuf_murata_pv36p
   owner: cpavlina
   repo:

@@ -18,9 +18,18 @@
   oomp:
     footprint_name: soic_8_3_9x4_9mm
     library_name: primarypoints
+    md5: 344f17d77f7b486068782e97f4d624e1
+    md5_10: 344f17d77f
+    md5_5: 344f1
+    md5_6: 344f17
+    oomp_key: oomp_zanekaminski_primarypoints_soic_8_3_9x4_9mm
+    oomp_key_extra: oomp_footprint_zanekaminski_primarypoints_soic_8_3_9x4_9mm
+    oomp_key_full: oomp_footprint_zanekaminski_primarypoints_soic_8_3_9x4_9mm_344f17
+    oomp_key_simple: zanekaminski_primarypoints_soic_8_3_9x4_9mm
     original_filename: primarypoints.pretty/SOIC-8_3.9x4.9mm.kicad_mod
     owner_name: zanekaminski
   oomp_key: oomp_zanekaminski_primarypoints_soic_8_3_9x4_9mm
+  oomp_key_full: oomp_footprint_zanekaminski_primarypoints_soic_8_3_9x4_9mm
   oomp_key_simple: zanekaminski_primarypoints_soic_8_3_9x4_9mm
   owner: ZaneKaminski
   repo:

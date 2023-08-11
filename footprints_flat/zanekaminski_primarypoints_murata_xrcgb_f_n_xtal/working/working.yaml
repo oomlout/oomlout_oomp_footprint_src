@@ -17,9 +17,18 @@
   oomp:
     footprint_name: murata_xrcgb_f_n_xtal
     library_name: primarypoints
+    md5: 9dd30decc4a0efea7ba9c83a96a8ca15
+    md5_10: 9dd30decc4
+    md5_5: 9dd30
+    md5_6: 9dd30d
+    oomp_key: oomp_zanekaminski_primarypoints_murata_xrcgb_f_n_xtal
+    oomp_key_extra: oomp_footprint_zanekaminski_primarypoints_murata_xrcgb_f_n_xtal
+    oomp_key_full: oomp_footprint_zanekaminski_primarypoints_murata_xrcgb_f_n_xtal_9dd30d
+    oomp_key_simple: zanekaminski_primarypoints_murata_xrcgb_f_n_xtal
     original_filename: primarypoints.pretty/Murata_XRCGB_F_N_XTAL.kicad_mod
     owner_name: zanekaminski
   oomp_key: oomp_zanekaminski_primarypoints_murata_xrcgb_f_n_xtal
+  oomp_key_full: oomp_footprint_zanekaminski_primarypoints_murata_xrcgb_f_n_xtal
   oomp_key_simple: zanekaminski_primarypoints_murata_xrcgb_f_n_xtal
   owner: ZaneKaminski
   repo:

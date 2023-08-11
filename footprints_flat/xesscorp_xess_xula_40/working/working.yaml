@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xula_40
     library_name: xess
+    md5: 51b68a8ce21d3db37b16a5f56769da1f
+    md5_10: 51b68a8ce2
+    md5_5: 51b68
+    md5_6: 51b68a
+    oomp_key: oomp_xesscorp_xess_xula_40
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xula_40
+    oomp_key_full: oomp_footprint_xesscorp_xess_xula_40_51b68a
+    oomp_key_simple: xesscorp_xess_xula_40
     original_filename: xess.pretty/XuLA-40.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xula_40
+  oomp_key_full: oomp_footprint_xesscorp_xess_xula_40
   oomp_key_simple: xesscorp_xess_xula_40
   owner: xesscorp
   repo:

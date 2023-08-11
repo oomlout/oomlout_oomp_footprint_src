@@ -17,9 +17,18 @@
   oomp:
     footprint_name: adafruit_feather_wiced_withmountingholes
     library_name: module
+    md5: a466455f72ad094dff7a01373dafc7a3
+    md5_10: a466455f72
+    md5_5: a4664
+    md5_6: a46645
+    oomp_key: oomp_kicad_module_adafruit_feather_wiced_withmountingholes
+    oomp_key_extra: oomp_footprint_kicad_module_adafruit_feather_wiced_withmountingholes
+    oomp_key_full: oomp_footprint_kicad_module_adafruit_feather_wiced_withmountingholes_a46645
+    oomp_key_simple: kicad_module_adafruit_feather_wiced_withmountingholes
     original_filename: libraries/kicad-footprints/Module.pretty/Adafruit_Feather_WICED_WithMountingHoles.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_module_adafruit_feather_wiced_withmountingholes
+  oomp_key_full: oomp_footprint_kicad_module_adafruit_feather_wiced_withmountingholes
   oomp_key_simple: kicad_module_adafruit_feather_wiced_withmountingholes
   owner: kicad
   repo:

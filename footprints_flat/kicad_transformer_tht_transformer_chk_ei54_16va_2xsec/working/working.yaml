@@ -17,9 +17,18 @@
   oomp:
     footprint_name: transformer_chk_ei54_16va_2xsec
     library_name: transformer_tht
+    md5: c0c518ba8242b5b767380dcbdf6a99a7
+    md5_10: c0c518ba82
+    md5_5: c0c51
+    md5_6: c0c518
+    oomp_key: oomp_kicad_transformer_tht_transformer_chk_ei54_16va_2xsec
+    oomp_key_extra: oomp_footprint_kicad_transformer_tht_transformer_chk_ei54_16va_2xsec
+    oomp_key_full: oomp_footprint_kicad_transformer_tht_transformer_chk_ei54_16va_2xsec_c0c518
+    oomp_key_simple: kicad_transformer_tht_transformer_chk_ei54_16va_2xsec
     original_filename: libraries/kicad-footprints/Transformer_THT.pretty/Transformer_CHK_EI54-16VA_2xSec.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_transformer_tht_transformer_chk_ei54_16va_2xsec
+  oomp_key_full: oomp_footprint_kicad_transformer_tht_transformer_chk_ei54_16va_2xsec
   oomp_key_simple: kicad_transformer_tht_transformer_chk_ei54_16va_2xsec
   owner: kicad
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: bourns_mf_r300_2
     library_name: manuf
+    md5: 7e4ebf7c0dee3c8dcd97d9b330fe2828
+    md5_10: 7e4ebf7c0d
+    md5_5: 7e4eb
+    md5_6: 7e4ebf
+    oomp_key: oomp_cpavlina_manuf_bourns_mf_r300_2
+    oomp_key_extra: oomp_footprint_cpavlina_manuf_bourns_mf_r300_2
+    oomp_key_full: oomp_footprint_cpavlina_manuf_bourns_mf_r300_2_7e4ebf
+    oomp_key_simple: cpavlina_manuf_bourns_mf_r300_2
     original_filename: kicad-pcblib/manuf.pretty/BOURNS-MF-R300-2.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_manuf_bourns_mf_r300_2
+  oomp_key_full: oomp_footprint_cpavlina_manuf_bourns_mf_r300_2
   oomp_key_simple: cpavlina_manuf_bourns_mf_r300_2
   owner: cpavlina
   repo:

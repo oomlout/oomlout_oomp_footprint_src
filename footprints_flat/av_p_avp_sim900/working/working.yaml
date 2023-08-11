@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sim900
     library_name: avp
+    md5: b2dbfb765c59ac68c2fd2ecff13bbdde
+    md5_10: b2dbfb765c
+    md5_5: b2dbf
+    md5_6: b2dbfb
+    oomp_key: oomp_av_p_avp_sim900
+    oomp_key_extra: oomp_footprint_av_p_avp_sim900
+    oomp_key_full: oomp_footprint_av_p_avp_sim900_b2dbfb
+    oomp_key_simple: av_p_avp_sim900
     original_filename: Avp.pretty/SIM900.kicad_mod
     owner_name: av_p
   oomp_key: oomp_av_p_avp_sim900
+  oomp_key_full: oomp_footprint_av_p_avp_sim900
   oomp_key_simple: av_p_avp_sim900
   owner: av-p
   repo:

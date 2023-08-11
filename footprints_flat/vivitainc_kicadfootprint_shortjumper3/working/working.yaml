@@ -17,9 +17,18 @@
   oomp:
     footprint_name: shortjumper3
     library_name: kicadfootprint
+    md5: f06802f785c6a4d54a3d96844f7dbcab
+    md5_10: f06802f785
+    md5_5: f0680
+    md5_6: f06802
+    oomp_key: oomp_vivitainc_kicadfootprint_shortjumper3
+    oomp_key_extra: oomp_footprint_vivitainc_kicadfootprint_shortjumper3
+    oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_shortjumper3_f06802
+    oomp_key_simple: vivitainc_kicadfootprint_shortjumper3
     original_filename: KiCADfootprint.pretty/ShortJumper3.kicad_mod
     owner_name: vivitainc
   oomp_key: oomp_vivitainc_kicadfootprint_shortjumper3
+  oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_shortjumper3
   oomp_key_simple: vivitainc_kicadfootprint_shortjumper3
   owner: vivitainc
   repo:

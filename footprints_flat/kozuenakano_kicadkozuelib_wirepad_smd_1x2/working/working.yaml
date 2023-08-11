@@ -17,9 +17,18 @@
   oomp:
     footprint_name: wirepad_smd_1x2
     library_name: kicadkozuelib
+    md5: c0fbd0982a0f5a4d3a63636f0215e843
+    md5_10: c0fbd0982a
+    md5_5: c0fbd
+    md5_6: c0fbd0
+    oomp_key: oomp_kozuenakano_kicadkozuelib_wirepad_smd_1x2
+    oomp_key_extra: oomp_footprint_kozuenakano_kicadkozuelib_wirepad_smd_1x2
+    oomp_key_full: oomp_footprint_kozuenakano_kicadkozuelib_wirepad_smd_1x2_c0fbd0
+    oomp_key_simple: kozuenakano_kicadkozuelib_wirepad_smd_1x2
     original_filename: KiCADKozueLib.pretty/wirePad_SMD_1x2.kicad_mod
     owner_name: kozuenakano
   oomp_key: oomp_kozuenakano_kicadkozuelib_wirepad_smd_1x2
+  oomp_key_full: oomp_footprint_kozuenakano_kicadkozuelib_wirepad_smd_1x2
   oomp_key_simple: kozuenakano_kicadkozuelib_wirepad_smd_1x2
   owner: KozueNakano
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xfl4020
     library_name: agg
+    md5: 21a70deb4db714dec1d2a6a2175be4d5
+    md5_10: 21a70deb4d
+    md5_5: 21a70
+    md5_6: 21a70d
+    oomp_key: oomp_adamgreig_agg_xfl4020
+    oomp_key_extra: oomp_footprint_adamgreig_agg_xfl4020
+    oomp_key_full: oomp_footprint_adamgreig_agg_xfl4020_21a70d
+    oomp_key_simple: adamgreig_agg_xfl4020
     original_filename: agg-kicad/agg.pretty/XFL4020.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_xfl4020
+  oomp_key_full: oomp_footprint_adamgreig_agg_xfl4020
   oomp_key_simple: adamgreig_agg_xfl4020
   owner: adamgreig
   repo:

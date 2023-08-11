@@ -17,9 +17,18 @@
   oomp:
     footprint_name: vh2pin
     library_name: kicad_conn
+    md5: be43b0b711446c0c95d92dd2ec5316b2
+    md5_10: be43b0b711
+    md5_5: be43b
+    md5_6: be43b0
+    oomp_key: oomp_kikaiken_kicad_conn_vh2pin
+    oomp_key_extra: oomp_footprint_kikaiken_kicad_conn_vh2pin
+    oomp_key_full: oomp_footprint_kikaiken_kicad_conn_vh2pin_be43b0
+    oomp_key_simple: kikaiken_kicad_conn_vh2pin
     original_filename: kicad_conn.pretty/VH2pin.kicad_mod
     owner_name: kikaiken
   oomp_key: oomp_kikaiken_kicad_conn_vh2pin
+  oomp_key_full: oomp_footprint_kikaiken_kicad_conn_vh2pin
   oomp_key_simple: kikaiken_kicad_conn_vh2pin
   owner: kikaiken
   repo:

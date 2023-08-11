@@ -18,9 +18,18 @@
   oomp:
     footprint_name: jst_shl_sm14b_shls_tf_1x14_1mp_p1_00mm_horizontal
     library_name: connector_jst
+    md5: 606c996ee9abc3fe73bc536977f4b142
+    md5_10: 606c996ee9
+    md5_5: 606c9
+    md5_6: 606c99
+    oomp_key: oomp_kicad_connector_jst_jst_shl_sm14b_shls_tf_1x14_1mp_p1_00mm_horizontal
+    oomp_key_extra: oomp_footprint_kicad_connector_jst_jst_shl_sm14b_shls_tf_1x14_1mp_p1_00mm_horizontal
+    oomp_key_full: oomp_footprint_kicad_connector_jst_jst_shl_sm14b_shls_tf_1x14_1mp_p1_00mm_horizontal_606c99
+    oomp_key_simple: kicad_connector_jst_jst_shl_sm14b_shls_tf_1x14_1mp_p1_00mm_horizontal
     original_filename: libraries/kicad-footprints/Connector_JST.pretty/JST_SHL_SM14B-SHLS-TF_1x14-1MP_P1.00mm_Horizontal.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_jst_jst_shl_sm14b_shls_tf_1x14_1mp_p1_00mm_horizontal
+  oomp_key_full: oomp_footprint_kicad_connector_jst_jst_shl_sm14b_shls_tf_1x14_1mp_p1_00mm_horizontal
   oomp_key_simple: kicad_connector_jst_jst_shl_sm14b_shls_tf_1x14_1mp_p1_00mm_horizontal
   owner: kicad
   repo:

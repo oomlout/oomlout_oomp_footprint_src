@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ft_module_sound
     library_name: freetronics_footprints
+    md5: 1473558fc0ddb99af4ceaedea69befae
+    md5_10: 1473558fc0
+    md5_5: '14735'
+    md5_6: '147355'
+    oomp_key: oomp_wykys_freetronics_footprints_ft_module_sound
+    oomp_key_extra: oomp_footprint_wykys_freetronics_footprints_ft_module_sound
+    oomp_key_full: oomp_footprint_wykys_freetronics_footprints_ft_module_sound_147355
+    oomp_key_simple: wykys_freetronics_footprints_ft_module_sound
     original_filename: kicad/mods/freetronics_footprints.pretty/FT_MODULE_SOUND.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_freetronics_footprints_ft_module_sound
+  oomp_key_full: oomp_footprint_wykys_freetronics_footprints_ft_module_sound
   oomp_key_simple: wykys_freetronics_footprints_ft_module_sound
   owner: wykys
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: diode_sma
     library_name: freetronics_footprints
+    md5: 60614e7f4df764b0fc6bb65b5c98589d
+    md5_10: 60614e7f4d
+    md5_5: '60614'
+    md5_6: 60614e
+    oomp_key: oomp_wykys_freetronics_footprints_diode_sma
+    oomp_key_extra: oomp_footprint_wykys_freetronics_footprints_diode_sma
+    oomp_key_full: oomp_footprint_wykys_freetronics_footprints_diode_sma_60614e
+    oomp_key_simple: wykys_freetronics_footprints_diode_sma
     original_filename: kicad/mods/freetronics_footprints.pretty/DIODE_SMA.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_freetronics_footprints_diode_sma
+  oomp_key_full: oomp_footprint_wykys_freetronics_footprints_diode_sma
   oomp_key_simple: wykys_freetronics_footprints_diode_sma
   owner: wykys
   repo:

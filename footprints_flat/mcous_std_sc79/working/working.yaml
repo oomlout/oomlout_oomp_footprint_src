@@ -17,9 +17,18 @@
   oomp:
     footprint_name: _sc79
     library_name: _std
+    md5: ea5baf270ef2b623d4b6283ec122f6cb
+    md5_10: ea5baf270e
+    md5_5: ea5ba
+    md5_6: ea5baf
+    oomp_key: oomp_mcous_std_sc79
+    oomp_key_extra: oomp_footprint_mcous_std_sc79
+    oomp_key_full: oomp_footprint_mcous_std_sc79_ea5baf
+    oomp_key_simple: mcous_std_sc79
     original_filename: kicad-lib/footprints/_std.pretty/_SC79.kicad_mod
     owner_name: mcous
   oomp_key: oomp_mcous_std_sc79
+  oomp_key_full: oomp_footprint_mcous_std_sc79
   oomp_key_simple: mcous_std_sc79
   owner: mcous
   repo:

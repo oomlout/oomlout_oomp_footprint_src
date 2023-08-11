@@ -18,9 +18,18 @@
   oomp:
     footprint_name: hirose_df12_df12c3_0_36ds_0_5v_2x18_p0_50mm_vertical
     library_name: connector_hirose
+    md5: 4d0813eda09cb303e306b797d6b6a3cf
+    md5_10: 4d0813eda0
+    md5_5: 4d081
+    md5_6: 4d0813
+    oomp_key: oomp_kicad_connector_hirose_hirose_df12_df12c3_0_36ds_0_5v_2x18_p0_50mm_vertical
+    oomp_key_extra: oomp_footprint_kicad_connector_hirose_hirose_df12_df12c3_0_36ds_0_5v_2x18_p0_50mm_vertical
+    oomp_key_full: oomp_footprint_kicad_connector_hirose_hirose_df12_df12c3_0_36ds_0_5v_2x18_p0_50mm_vertical_4d0813
+    oomp_key_simple: kicad_connector_hirose_hirose_df12_df12c3_0_36ds_0_5v_2x18_p0_50mm_vertical
     original_filename: libraries/kicad-footprints/Connector_Hirose.pretty/Hirose_DF12_DF12C3.0-36DS-0.5V_2x18_P0.50mm_Vertical.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_hirose_hirose_df12_df12c3_0_36ds_0_5v_2x18_p0_50mm_vertical
+  oomp_key_full: oomp_footprint_kicad_connector_hirose_hirose_df12_df12c3_0_36ds_0_5v_2x18_p0_50mm_vertical
   oomp_key_simple: kicad_connector_hirose_hirose_df12_df12c3_0_36ds_0_5v_2x18_p0_50mm_vertical
   owner: kicad
   repo:

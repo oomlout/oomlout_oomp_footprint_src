@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_n7e50_q516xx_40
     library_name: xess
+    md5: 90d847f472de492b5a0594e0877622e1
+    md5_10: 90d847f472
+    md5_5: 90d84
+    md5_6: 90d847
+    oomp_key: oomp_xesscorp_xess_xess_n7e50_q516xx_40
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_n7e50_q516xx_40
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_n7e50_q516xx_40_90d847
+    oomp_key_simple: xesscorp_xess_xess_n7e50_q516xx_40
     original_filename: xess.pretty/xess-N7E50-Q516XX-40.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_n7e50_q516xx_40
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_n7e50_q516xx_40
   oomp_key_simple: xesscorp_xess_xess_n7e50_q516xx_40
   owner: xesscorp
   repo:

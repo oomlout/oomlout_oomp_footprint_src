@@ -17,9 +17,18 @@
   oomp:
     footprint_name: diodes_sot_363_sc_88_419b
     library_name: primarypoints
+    md5: 4a6af23126d5d0229d16b5e458240f2f
+    md5_10: 4a6af23126
+    md5_5: 4a6af
+    md5_6: 4a6af2
+    oomp_key: oomp_zanekaminski_primarypoints_diodes_sot_363_sc_88_419b
+    oomp_key_extra: oomp_footprint_zanekaminski_primarypoints_diodes_sot_363_sc_88_419b
+    oomp_key_full: oomp_footprint_zanekaminski_primarypoints_diodes_sot_363_sc_88_419b_4a6af2
+    oomp_key_simple: zanekaminski_primarypoints_diodes_sot_363_sc_88_419b
     original_filename: primarypoints.pretty/Diodes_SOT-363_SC-88_419B.kicad_mod
     owner_name: zanekaminski
   oomp_key: oomp_zanekaminski_primarypoints_diodes_sot_363_sc_88_419b
+  oomp_key_full: oomp_footprint_zanekaminski_primarypoints_diodes_sot_363_sc_88_419b
   oomp_key_simple: zanekaminski_primarypoints_diodes_sot_363_sc_88_419b
   owner: ZaneKaminski
   repo:

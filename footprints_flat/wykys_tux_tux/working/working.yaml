@@ -16,10 +16,19 @@
   name: kicad
   oomp:
     footprint_name: tux
-    library_name: interf_u
+    library_name: tux_kicad_mod
+    md5: b9f85658de02cd5dff9f5f9df340f7aa
+    md5_10: b9f85658de
+    md5_5: b9f85
+    md5_6: b9f856
+    oomp_key: oomp_wykys_tux_tux
+    oomp_key_extra: oomp_footprint_wykys_tux_tux
+    oomp_key_full: oomp_footprint_wykys_tux_tux_b9f856
+    oomp_key_simple: wykys_tux_tux
     original_filename: kicad/demos/interf_u/tux.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_tux_tux
+  oomp_key_full: oomp_footprint_wykys_tux_tux
   oomp_key_simple: wykys_tux_tux
   owner: wykys
   repo:

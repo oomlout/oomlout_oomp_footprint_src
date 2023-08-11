@@ -18,9 +18,18 @@
   oomp:
     footprint_name: l_vishay_ihsm_4825
     library_name: inductor_smd
+    md5: ecf187b839d355334b2af979a34288e0
+    md5_10: ecf187b839
+    md5_5: ecf18
+    md5_6: ecf187
+    oomp_key: oomp_kicad_inductor_smd_l_vishay_ihsm_4825
+    oomp_key_extra: oomp_footprint_kicad_inductor_smd_l_vishay_ihsm_4825
+    oomp_key_full: oomp_footprint_kicad_inductor_smd_l_vishay_ihsm_4825_ecf187
+    oomp_key_simple: kicad_inductor_smd_l_vishay_ihsm_4825
     original_filename: libraries/kicad-footprints/Inductor_SMD.pretty/L_Vishay_IHSM-4825.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_inductor_smd_l_vishay_ihsm_4825
+  oomp_key_full: oomp_footprint_kicad_inductor_smd_l_vishay_ihsm_4825
   oomp_key_simple: kicad_inductor_smd_l_vishay_ihsm_4825
   owner: kicad
   repo:

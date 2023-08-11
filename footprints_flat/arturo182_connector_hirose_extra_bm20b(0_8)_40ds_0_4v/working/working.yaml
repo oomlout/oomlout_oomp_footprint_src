@@ -19,9 +19,18 @@
   oomp:
     footprint_name: bm20b(0_8)_40ds_0_4v
     library_name: connector_hirose_extra
+    md5: eda3520937a6053f38ef775e5a30aad8
+    md5_10: eda3520937
+    md5_5: eda35
+    md5_6: eda352
+    oomp_key: oomp_arturo182_connector_hirose_extra_bm20b(0_8)_40ds_0_4v
+    oomp_key_extra: oomp_footprint_arturo182_connector_hirose_extra_bm20b(0_8)_40ds_0_4v
+    oomp_key_full: oomp_footprint_arturo182_connector_hirose_extra_bm20b(0_8)_40ds_0_4v_eda352
+    oomp_key_simple: arturo182_connector_hirose_extra_bm20b(0_8)_40ds_0_4v
     original_filename: kicad-modules/Connector_Hirose_Extra.pretty/BM20B(0.8)-40DS-0.4V.kicad_mod
     owner_name: arturo182
   oomp_key: oomp_arturo182_connector_hirose_extra_bm20b(0_8)_40ds_0_4v
+  oomp_key_full: oomp_footprint_arturo182_connector_hirose_extra_bm20b(0_8)_40ds_0_4v
   oomp_key_simple: arturo182_connector_hirose_extra_bm20b(0_8)_40ds_0_4v
   owner: arturo182
   repo:

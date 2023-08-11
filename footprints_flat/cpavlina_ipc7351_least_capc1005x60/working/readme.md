@@ -19,8 +19,9 @@ Please consult that link for additional, details, files, and license information
 | github_path | http://github.com/cpavlina/kicad-pcblib/blob/master/IPC7351-Least.pretty/CAPC1005X60.kicad_mod |  
 | links | {'github_src': 'http://gitlab.com/cpavlina/kicad-pcblib/blob/master/smd-semi.pretty/VQFN50P230X230X100-12.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/cpavlina_ipc7351_least_capc1005x60/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/cpavlina_ipc7351_least_capc1005x60/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/cpavlina_ipc7351_least_capc1005x60/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/cpavlina_ipc7351_least_capc1005x60/working'} |  
 | name | kicad-pcblib |  
-| oomp | {'footprint_name': 'capc1005x60', 'library_name': 'ipc7351_least', 'original_filename': 'kicad-pcblib/IPC7351-Least.pretty/CAPC1005X60.kicad_mod', 'owner_name': 'cpavlina'} |  
+| oomp | {'footprint_name': 'capc1005x60', 'library_name': 'ipc7351_least', 'md5': '2b925a8cde585fe54ccfbf8fe3ccea24', 'md5_10': '2b925a8cde', 'md5_5': '2b925', 'md5_6': '2b925a', 'oomp_key': 'oomp_cpavlina_ipc7351_least_capc1005x60', 'oomp_key_extra': 'oomp_footprint_cpavlina_ipc7351_least_capc1005x60', 'oomp_key_full': 'oomp_footprint_cpavlina_ipc7351_least_capc1005x60_2b925a', 'oomp_key_simple': 'cpavlina_ipc7351_least_capc1005x60', 'original_filename': 'kicad-pcblib/IPC7351-Least.pretty/CAPC1005X60.kicad_mod', 'owner_name': 'cpavlina'} |  
 | oomp_key | oomp_cpavlina_ipc7351_least_capc1005x60 |  
+| oomp_key_full | oomp_footprint_cpavlina_ipc7351_least_capc1005x60 |  
 | oomp_key_simple | cpavlina_ipc7351_least_capc1005x60 |  
 | owner | cpavlina |  
 | repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  

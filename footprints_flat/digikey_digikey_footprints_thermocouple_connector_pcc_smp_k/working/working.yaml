@@ -17,9 +17,18 @@
   oomp:
     footprint_name: thermocouple_connector_pcc_smp_k
     library_name: digikey_footprints
+    md5: d16bb0336f12247acdc7d4ef6ea65091
+    md5_10: d16bb0336f
+    md5_5: d16bb
+    md5_6: d16bb0
+    oomp_key: oomp_digikey_digikey_footprints_thermocouple_connector_pcc_smp_k
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_thermocouple_connector_pcc_smp_k
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_thermocouple_connector_pcc_smp_k_d16bb0
+    oomp_key_simple: digikey_digikey_footprints_thermocouple_connector_pcc_smp_k
     original_filename: digikey-kicad-library/digikey-footprints.pretty/Thermocouple_Connector_PCC-SMP-K.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_thermocouple_connector_pcc_smp_k
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_thermocouple_connector_pcc_smp_k
   oomp_key_simple: digikey_digikey_footprints_thermocouple_connector_pcc_smp_k
   owner: digikey
   repo:

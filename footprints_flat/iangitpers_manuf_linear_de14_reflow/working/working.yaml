@@ -19,9 +19,18 @@
   oomp:
     footprint_name: linear_de14_reflow
     library_name: manuf
+    md5: 2ab938057ca0a1e364865ac81b68ad3c
+    md5_10: 2ab938057c
+    md5_5: 2ab93
+    md5_6: 2ab938
+    oomp_key: oomp_iangitpers_manuf_linear_de14_reflow
+    oomp_key_extra: oomp_footprint_iangitpers_manuf_linear_de14_reflow
+    oomp_key_full: oomp_footprint_iangitpers_manuf_linear_de14_reflow_2ab938
+    oomp_key_simple: iangitpers_manuf_linear_de14_reflow
     original_filename: 4a/manuf.pretty/LINEAR-DE14-REFLOW.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_manuf_linear_de14_reflow
+  oomp_key_full: oomp_footprint_iangitpers_manuf_linear_de14_reflow
   oomp_key_simple: iangitpers_manuf_linear_de14_reflow
   owner: Iangitpers
   repo:

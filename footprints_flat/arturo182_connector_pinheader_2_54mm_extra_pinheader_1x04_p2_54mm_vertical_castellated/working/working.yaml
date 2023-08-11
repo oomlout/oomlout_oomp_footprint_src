@@ -19,9 +19,18 @@
   oomp:
     footprint_name: pinheader_1x04_p2_54mm_vertical_castellated
     library_name: connector_pinheader_2_54mm_extra
+    md5: 5f725981e4b53a59eb7a15da9556ff07
+    md5_10: 5f725981e4
+    md5_5: 5f725
+    md5_6: 5f7259
+    oomp_key: oomp_arturo182_connector_pinheader_2_54mm_extra_pinheader_1x04_p2_54mm_vertical_castellated
+    oomp_key_extra: oomp_footprint_arturo182_connector_pinheader_2_54mm_extra_pinheader_1x04_p2_54mm_vertical_castellated
+    oomp_key_full: oomp_footprint_arturo182_connector_pinheader_2_54mm_extra_pinheader_1x04_p2_54mm_vertical_castellated_5f7259
+    oomp_key_simple: arturo182_connector_pinheader_2_54mm_extra_pinheader_1x04_p2_54mm_vertical_castellated
     original_filename: kicad-modules/Connector_PinHeader_2.54mm_Extra.pretty/PinHeader_1x04_P2.54mm_Vertical_Castellated.kicad_mod
     owner_name: arturo182
   oomp_key: oomp_arturo182_connector_pinheader_2_54mm_extra_pinheader_1x04_p2_54mm_vertical_castellated
+  oomp_key_full: oomp_footprint_arturo182_connector_pinheader_2_54mm_extra_pinheader_1x04_p2_54mm_vertical_castellated
   oomp_key_simple: arturo182_connector_pinheader_2_54mm_extra_pinheader_1x04_p2_54mm_vertical_castellated
   owner: arturo182
   repo:

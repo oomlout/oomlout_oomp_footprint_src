@@ -17,9 +17,18 @@
   oomp:
     footprint_name: soic_24_w7_50mm
     library_name: digikey_footprints
+    md5: 3a2465be0022ace8255cf78c304267ca
+    md5_10: 3a2465be00
+    md5_5: 3a246
+    md5_6: 3a2465
+    oomp_key: oomp_digikey_digikey_footprints_soic_24_w7_50mm
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_soic_24_w7_50mm
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_soic_24_w7_50mm_3a2465
+    oomp_key_simple: digikey_digikey_footprints_soic_24_w7_50mm
     original_filename: digikey-kicad-library/digikey-footprints.pretty/SOIC-24_W7.50mm.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_soic_24_w7_50mm
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_soic_24_w7_50mm
   oomp_key_simple: digikey_digikey_footprints_soic_24_w7_50mm
   owner: digikey
   repo:

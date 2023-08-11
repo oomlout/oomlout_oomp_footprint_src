@@ -18,9 +18,18 @@
   oomp:
     footprint_name: samtec_mecf_08_02_np_l_dv_2x08_p1_27mm_socket_horizontal
     library_name: connector_pcbedge
+    md5: 24b112153b604629a9baf3afbaef30ac
+    md5_10: 24b112153b
+    md5_5: 24b11
+    md5_6: 24b112
+    oomp_key: oomp_kicad_connector_pcbedge_samtec_mecf_08_02_np_l_dv_2x08_p1_27mm_socket_horizontal
+    oomp_key_extra: oomp_footprint_kicad_connector_pcbedge_samtec_mecf_08_02_np_l_dv_2x08_p1_27mm_socket_horizontal
+    oomp_key_full: oomp_footprint_kicad_connector_pcbedge_samtec_mecf_08_02_np_l_dv_2x08_p1_27mm_socket_horizontal_24b112
+    oomp_key_simple: kicad_connector_pcbedge_samtec_mecf_08_02_np_l_dv_2x08_p1_27mm_socket_horizontal
     original_filename: libraries/kicad-footprints/Connector_PCBEdge.pretty/Samtec_MECF-08-02-NP-L-DV_2x08_P1.27mm_Socket_Horizontal.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_pcbedge_samtec_mecf_08_02_np_l_dv_2x08_p1_27mm_socket_horizontal
+  oomp_key_full: oomp_footprint_kicad_connector_pcbedge_samtec_mecf_08_02_np_l_dv_2x08_p1_27mm_socket_horizontal
   oomp_key_simple: kicad_connector_pcbedge_samtec_mecf_08_02_np_l_dv_2x08_p1_27mm_socket_horizontal
   owner: kicad
   repo:

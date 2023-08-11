@@ -17,9 +17,18 @@
   oomp:
     footprint_name: hrd12003
     library_name: fujimoto
+    md5: 49ec7c3dc194d9b1750c23001bd3ba88
+    md5_10: 49ec7c3dc1
+    md5_5: 49ec7
+    md5_6: 49ec7c
+    oomp_key: oomp_kujimoto_fujimoto_hrd12003
+    oomp_key_extra: oomp_footprint_kujimoto_fujimoto_hrd12003
+    oomp_key_full: oomp_footprint_kujimoto_fujimoto_hrd12003_49ec7c
+    oomp_key_simple: kujimoto_fujimoto_hrd12003
     original_filename: fujimoto.pretty/HRD12003.kicad_mod
     owner_name: kujimoto
   oomp_key: oomp_kujimoto_fujimoto_hrd12003
+  oomp_key_full: oomp_footprint_kujimoto_fujimoto_hrd12003
   oomp_key_simple: kujimoto_fujimoto_hrd12003
   owner: Kujimoto
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: resc3115x70
     library_name: ipc7351_nominal
+    md5: 12452a8fe66cfa780750152f04beff79
+    md5_10: 12452a8fe6
+    md5_5: '12452'
+    md5_6: 12452a
+    oomp_key: oomp_cpavlina_ipc7351_nominal_resc3115x70
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_nominal_resc3115x70
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_resc3115x70_12452a
+    oomp_key_simple: cpavlina_ipc7351_nominal_resc3115x70
     original_filename: kicad-pcblib/IPC7351-Nominal.pretty/RESC3115X70.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_nominal_resc3115x70
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_resc3115x70
   oomp_key_simple: cpavlina_ipc7351_nominal_resc3115x70
   owner: cpavlina
   repo:

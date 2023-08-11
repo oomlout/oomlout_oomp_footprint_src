@@ -19,9 +19,18 @@
   oomp:
     footprint_name: k3_x245s
     library_name: button_switch_smd_extra
+    md5: a9d3e6de43282e9f0171cdd1981ced47
+    md5_10: a9d3e6de43
+    md5_5: a9d3e
+    md5_6: a9d3e6
+    oomp_key: oomp_arturo182_button_switch_smd_extra_k3_x245s
+    oomp_key_extra: oomp_footprint_arturo182_button_switch_smd_extra_k3_x245s
+    oomp_key_full: oomp_footprint_arturo182_button_switch_smd_extra_k3_x245s_a9d3e6
+    oomp_key_simple: arturo182_button_switch_smd_extra_k3_x245s
     original_filename: kicad-modules/Button_Switch_SMD_Extra.pretty/K3-x245S.kicad_mod
     owner_name: arturo182
   oomp_key: oomp_arturo182_button_switch_smd_extra_k3_x245s
+  oomp_key_full: oomp_footprint_arturo182_button_switch_smd_extra_k3_x245s
   oomp_key_simple: arturo182_button_switch_smd_extra_k3_x245s
   owner: arturo182
   repo:

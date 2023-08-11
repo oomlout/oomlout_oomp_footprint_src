@@ -17,9 +17,18 @@
   oomp:
     footprint_name: molex_39531_1002
     library_name: usst_footprints
+    md5: 4246fdb94fe77a86818efec5ce9d6c8b
+    md5_10: 4246fdb94f
+    md5_5: 4246f
+    md5_6: 4246fd
+    oomp_key: oomp_uofsspaceteam_usst_footprints_molex_39531_1002
+    oomp_key_extra: oomp_footprint_uofsspaceteam_usst_footprints_molex_39531_1002
+    oomp_key_full: oomp_footprint_uofsspaceteam_usst_footprints_molex_39531_1002_4246fd
+    oomp_key_simple: uofsspaceteam_usst_footprints_molex_39531_1002
     original_filename: USST-footprints.pretty/Molex_39531_1002.kicad_mod
     owner_name: uofsspaceteam
   oomp_key: oomp_uofsspaceteam_usst_footprints_molex_39531_1002
+  oomp_key_full: oomp_footprint_uofsspaceteam_usst_footprints_molex_39531_1002
   oomp_key_simple: uofsspaceteam_usst_footprints_molex_39531_1002
   owner: UofSSpaceTeam
   repo:

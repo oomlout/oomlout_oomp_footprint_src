@@ -17,9 +17,18 @@
   oomp:
     footprint_name: osccc200x250x080
     library_name: ipc7351_least
+    md5: 6806838006b5ab2260ea4161aa6a49d7
+    md5_10: '6806838006'
+    md5_5: '68068'
+    md5_6: '680683'
+    oomp_key: oomp_cpavlina_ipc7351_least_osccc200x250x080
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_least_osccc200x250x080
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_least_osccc200x250x080_680683
+    oomp_key_simple: cpavlina_ipc7351_least_osccc200x250x080
     original_filename: kicad-pcblib/IPC7351-Least.pretty/OSCCC200X250X080.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_least_osccc200x250x080
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_least_osccc200x250x080
   oomp_key_simple: cpavlina_ipc7351_least_osccc200x250x080
   owner: cpavlina
   repo:

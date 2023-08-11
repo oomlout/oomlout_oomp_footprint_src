@@ -18,9 +18,18 @@
   oomp:
     footprint_name: swr25x_nrtc_07_ra_ba
     library_name: connectors_sullins
+    md5: f03c64831171ec3544636b03f48b18a2
+    md5_10: f03c648311
+    md5_5: f03c6
+    md5_6: f03c64
+    oomp_key: oomp_twam_connectors_sullins_swr25x_nrtc_07_ra_ba
+    oomp_key_extra: oomp_footprint_twam_connectors_sullins_swr25x_nrtc_07_ra_ba
+    oomp_key_full: oomp_footprint_twam_connectors_sullins_swr25x_nrtc_07_ra_ba_f03c64
+    oomp_key_simple: twam_connectors_sullins_swr25x_nrtc_07_ra_ba
     original_filename: Connectors_Sullins.pretty/SWR25X-NRTC-07-RA-BA.kicad_mod
     owner_name: twam
   oomp_key: oomp_twam_connectors_sullins_swr25x_nrtc_07_ra_ba
+  oomp_key_full: oomp_footprint_twam_connectors_sullins_swr25x_nrtc_07_ra_ba
   oomp_key_simple: twam_connectors_sullins_swr25x_nrtc_07_ra_ba
   owner: twam
   repo:

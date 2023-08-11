@@ -17,9 +17,18 @@
   oomp:
     footprint_name: wlcsp_81_4_41x3_76mm_p0_4mm
     library_name: package_csp
+    md5: b301b715e527dff64872d5496a95714c
+    md5_10: b301b715e5
+    md5_5: b301b
+    md5_6: b301b7
+    oomp_key: oomp_kicad_package_csp_wlcsp_81_4_41x3_76mm_p0_4mm
+    oomp_key_extra: oomp_footprint_kicad_package_csp_wlcsp_81_4_41x3_76mm_p0_4mm
+    oomp_key_full: oomp_footprint_kicad_package_csp_wlcsp_81_4_41x3_76mm_p0_4mm_b301b7
+    oomp_key_simple: kicad_package_csp_wlcsp_81_4_41x3_76mm_p0_4mm
     original_filename: libraries/kicad-footprints/Package_CSP.pretty/WLCSP-81_4.41x3.76mm_P0.4mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_csp_wlcsp_81_4_41x3_76mm_p0_4mm
+  oomp_key_full: oomp_footprint_kicad_package_csp_wlcsp_81_4_41x3_76mm_p0_4mm
   oomp_key_simple: kicad_package_csp_wlcsp_81_4_41x3_76mm_p0_4mm
   owner: kicad
   repo:

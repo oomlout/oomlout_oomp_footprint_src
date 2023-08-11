@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ep5_smt_v_6pin_(6279)
     library_name: transformers_wurthelektronik
+    md5: 078fd9065574c4579eb4f5edb7e18037
+    md5_10: 078fd90655
+    md5_5: 078fd
+    md5_6: 078fd9
+    oomp_key: oomp_wurthelectronics_transformers_wurthelektronik_ep5_smt_v_6pin_(6279)
+    oomp_key_extra: oomp_footprint_wurthelectronics_transformers_wurthelektronik_ep5_smt_v_6pin_(6279)
+    oomp_key_full: oomp_footprint_wurthelectronics_transformers_wurthelektronik_ep5_smt_v_6pin_(6279)_078fd9
+    oomp_key_simple: wurthelectronics_transformers_wurthelektronik_ep5_smt_v_6pin_(6279)
     original_filename: Transformers_WurthElektronik.pretty/EP5_SMT_V_6PIN_(6279).kicad_mod
     owner_name: wurthelectronics
   oomp_key: oomp_wurthelectronics_transformers_wurthelektronik_ep5_smt_v_6pin_(6279)
+  oomp_key_full: oomp_footprint_wurthelectronics_transformers_wurthelektronik_ep5_smt_v_6pin_(6279)
   oomp_key_simple: wurthelectronics_transformers_wurthelektronik_ep5_smt_v_6pin_(6279)
   owner: WurthElectronics
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: minigearedmotor
     library_name: kicadfootprint
+    md5: 5deaa65ae43293d203af0dc3641b8c91
+    md5_10: 5deaa65ae4
+    md5_5: 5deaa
+    md5_6: 5deaa6
+    oomp_key: oomp_vivitainc_kicadfootprint_minigearedmotor
+    oomp_key_extra: oomp_footprint_vivitainc_kicadfootprint_minigearedmotor
+    oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_minigearedmotor_5deaa6
+    oomp_key_simple: vivitainc_kicadfootprint_minigearedmotor
     original_filename: KiCADfootprint.pretty/MiniGearedMotor.kicad_mod
     owner_name: vivitainc
   oomp_key: oomp_vivitainc_kicadfootprint_minigearedmotor
+  oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_minigearedmotor
   oomp_key_simple: vivitainc_kicadfootprint_minigearedmotor
   owner: vivitainc
   repo:

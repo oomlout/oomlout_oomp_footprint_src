@@ -17,9 +17,18 @@
   oomp:
     footprint_name: bricolage_1
     library_name: xess
+    md5: 0010296b69e30226760ddbce2cf454ab
+    md5_10: 0010296b69
+    md5_5: '00102'
+    md5_6: 001029
+    oomp_key: oomp_xesscorp_xess_bricolage_1
+    oomp_key_extra: oomp_footprint_xesscorp_xess_bricolage_1
+    oomp_key_full: oomp_footprint_xesscorp_xess_bricolage_1_001029
+    oomp_key_simple: xesscorp_xess_bricolage_1
     original_filename: xess.pretty/bricolage-1.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_bricolage_1
+  oomp_key_full: oomp_footprint_xesscorp_xess_bricolage_1
   oomp_key_simple: xesscorp_xess_bricolage_1
   owner: xesscorp
   repo:

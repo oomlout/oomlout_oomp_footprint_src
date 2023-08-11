@@ -17,9 +17,18 @@
   oomp:
     footprint_name: dip_8
     library_name: dip_sip
+    md5: 583ccc13119fe5283df4c733868f4b34
+    md5_10: 583ccc1311
+    md5_5: 583cc
+    md5_6: 583ccc
+    oomp_key: oomp_cpavlina_dip_sip_dip_8
+    oomp_key_extra: oomp_footprint_cpavlina_dip_sip_dip_8
+    oomp_key_full: oomp_footprint_cpavlina_dip_sip_dip_8_583ccc
+    oomp_key_simple: cpavlina_dip_sip_dip_8
     original_filename: kicad-pcblib/dip-sip.pretty/DIP-8.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_dip_sip_dip_8
+  oomp_key_full: oomp_footprint_cpavlina_dip_sip_dip_8
   oomp_key_simple: cpavlina_dip_sip_dip_8
   owner: cpavlina
   repo:

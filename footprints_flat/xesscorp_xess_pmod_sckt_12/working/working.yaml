@@ -17,9 +17,18 @@
   oomp:
     footprint_name: pmod_sckt_12
     library_name: xess
+    md5: ae75dfc78798c946f2e3b3449c85b367
+    md5_10: ae75dfc787
+    md5_5: ae75d
+    md5_6: ae75df
+    oomp_key: oomp_xesscorp_xess_pmod_sckt_12
+    oomp_key_extra: oomp_footprint_xesscorp_xess_pmod_sckt_12
+    oomp_key_full: oomp_footprint_xesscorp_xess_pmod_sckt_12_ae75df
+    oomp_key_simple: xesscorp_xess_pmod_sckt_12
     original_filename: xess.pretty/PMOD_SCKT-12.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_pmod_sckt_12
+  oomp_key_full: oomp_footprint_xesscorp_xess_pmod_sckt_12
   oomp_key_simple: xesscorp_xess_pmod_sckt_12
   owner: xesscorp
   repo:

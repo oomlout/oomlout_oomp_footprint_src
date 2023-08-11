@@ -17,9 +17,18 @@
   oomp:
     footprint_name: plcc_20_tht_socket
     library_name: package_lcc
+    md5: 5fa5883e6b90f5bfff875e89a4fe20e4
+    md5_10: 5fa5883e6b
+    md5_5: 5fa58
+    md5_6: 5fa588
+    oomp_key: oomp_kicad_package_lcc_plcc_20_tht_socket
+    oomp_key_extra: oomp_footprint_kicad_package_lcc_plcc_20_tht_socket
+    oomp_key_full: oomp_footprint_kicad_package_lcc_plcc_20_tht_socket_5fa588
+    oomp_key_simple: kicad_package_lcc_plcc_20_tht_socket
     original_filename: libraries/kicad-footprints/Package_LCC.pretty/PLCC-20_THT-Socket.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_lcc_plcc_20_tht_socket
+  oomp_key_full: oomp_footprint_kicad_package_lcc_plcc_20_tht_socket
   oomp_key_simple: kicad_package_lcc_plcc_20_tht_socket
   owner: kicad
   repo:

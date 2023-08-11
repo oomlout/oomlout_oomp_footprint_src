@@ -17,9 +17,18 @@
   oomp:
     footprint_name: qfp80_10mm_0_4mm
     library_name: freetronics_footprints
+    md5: 715dace0efc5a0aa15666c5ca4f4c108
+    md5_10: 715dace0ef
+    md5_5: 715da
+    md5_6: 715dac
+    oomp_key: oomp_joanthespark_freetronics_footprints_qfp80_10mm_0_4mm
+    oomp_key_extra: oomp_footprint_joanthespark_freetronics_footprints_qfp80_10mm_0_4mm
+    oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_qfp80_10mm_0_4mm_715dac
+    oomp_key_simple: joanthespark_freetronics_footprints_qfp80_10mm_0_4mm
     original_filename: KiCAD/mods/freetronics_footprints.pretty/QFP80_10mm_0.4mm.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_freetronics_footprints_qfp80_10mm_0_4mm
+  oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_qfp80_10mm_0_4mm
   oomp_key_simple: joanthespark_freetronics_footprints_qfp80_10mm_0_4mm
   owner: JoanTheSpark
   repo:

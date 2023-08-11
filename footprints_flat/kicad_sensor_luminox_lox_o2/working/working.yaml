@@ -17,9 +17,18 @@
   oomp:
     footprint_name: luminox_lox_o2
     library_name: sensor
+    md5: 4deda508f863a20a647f4332b3bfcafb
+    md5_10: 4deda508f8
+    md5_5: 4deda
+    md5_6: 4deda5
+    oomp_key: oomp_kicad_sensor_luminox_lox_o2
+    oomp_key_extra: oomp_footprint_kicad_sensor_luminox_lox_o2
+    oomp_key_full: oomp_footprint_kicad_sensor_luminox_lox_o2_4deda5
+    oomp_key_simple: kicad_sensor_luminox_lox_o2
     original_filename: libraries/kicad-footprints/Sensor.pretty/LuminOX_LOX-O2.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_sensor_luminox_lox_o2
+  oomp_key_full: oomp_footprint_kicad_sensor_luminox_lox_o2
   oomp_key_simple: kicad_sensor_luminox_lox_o2
   owner: kicad
   repo:

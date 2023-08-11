@@ -13,10 +13,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: '2320'
-    library_name: source_footprints
+    library_name: 2320_kicad_mod
+    md5: 4dc01feb9dbf5c14104f3be4dfbbfdde
+    md5_10: 4dc01feb9d
+    md5_5: 4dc01
+    md5_6: 4dc01f
+    oomp_key: oomp_digikey_2320_2320
+    oomp_key_extra: oomp_footprint_digikey_2320_2320
+    oomp_key_full: oomp_footprint_digikey_2320_2320_4dc01f
+    oomp_key_simple: digikey_2320_2320
     original_filename: digikey-kicad-library/src/Source_Footprints/2320.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_2320_2320
+  oomp_key_full: oomp_footprint_digikey_2320_2320
   oomp_key_simple: digikey_2320_2320
   owner: digikey
   repo:

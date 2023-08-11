@@ -17,9 +17,18 @@
   oomp:
     footprint_name: battery_panasonic_cr2477_vcn_vertical_circularholes
     library_name: battery
+    md5: e00a7946c02ed11b230ba90f5f7b8ecd
+    md5_10: e00a7946c0
+    md5_5: e00a7
+    md5_6: e00a79
+    oomp_key: oomp_kicad_battery_battery_panasonic_cr2477_vcn_vertical_circularholes
+    oomp_key_extra: oomp_footprint_kicad_battery_battery_panasonic_cr2477_vcn_vertical_circularholes
+    oomp_key_full: oomp_footprint_kicad_battery_battery_panasonic_cr2477_vcn_vertical_circularholes_e00a79
+    oomp_key_simple: kicad_battery_battery_panasonic_cr2477_vcn_vertical_circularholes
     original_filename: libraries/kicad-footprints/Battery.pretty/Battery_Panasonic_CR2477-VCN_Vertical_CircularHoles.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_battery_battery_panasonic_cr2477_vcn_vertical_circularholes
+  oomp_key_full: oomp_footprint_kicad_battery_battery_panasonic_cr2477_vcn_vertical_circularholes
   oomp_key_simple: kicad_battery_battery_panasonic_cr2477_vcn_vertical_circularholes
   owner: kicad
   repo:

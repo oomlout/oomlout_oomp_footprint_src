@@ -17,9 +17,18 @@
   oomp:
     footprint_name: valve_glimm
     library_name: valve
+    md5: 289fc93a93280d5d4b82ed9e47f38629
+    md5_10: 289fc93a93
+    md5_5: 289fc
+    md5_6: 289fc9
+    oomp_key: oomp_kicad_valve_valve_glimm
+    oomp_key_extra: oomp_footprint_kicad_valve_valve_glimm
+    oomp_key_full: oomp_footprint_kicad_valve_valve_glimm_289fc9
+    oomp_key_simple: kicad_valve_valve_glimm
     original_filename: libraries/kicad-footprints/Valve.pretty/Valve_Glimm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_valve_valve_glimm
+  oomp_key_full: oomp_footprint_kicad_valve_valve_glimm
   oomp_key_simple: kicad_valve_valve_glimm
   owner: kicad
   repo:

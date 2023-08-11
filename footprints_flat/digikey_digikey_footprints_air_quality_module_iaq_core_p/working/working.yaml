@@ -17,9 +17,18 @@
   oomp:
     footprint_name: air_quality_module_iaq_core_p
     library_name: digikey_footprints
+    md5: ea8c7a57d82f02f8e6ce1cb53d4d722d
+    md5_10: ea8c7a57d8
+    md5_5: ea8c7
+    md5_6: ea8c7a
+    oomp_key: oomp_digikey_digikey_footprints_air_quality_module_iaq_core_p
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_air_quality_module_iaq_core_p
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_air_quality_module_iaq_core_p_ea8c7a
+    oomp_key_simple: digikey_digikey_footprints_air_quality_module_iaq_core_p
     original_filename: digikey-kicad-library/digikey-footprints.pretty/Air_Quality_Module_IAQ-CORE_P.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_air_quality_module_iaq_core_p
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_air_quality_module_iaq_core_p
   oomp_key_simple: digikey_digikey_footprints_air_quality_module_iaq_core_p
   owner: digikey
   repo:

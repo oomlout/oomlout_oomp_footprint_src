@@ -17,9 +17,18 @@
   oomp:
     footprint_name: pin_6_smt
     library_name: mf_conn
+    md5: a9b88c2f63e01293eba7272b6bb14383
+    md5_10: a9b88c2f63
+    md5_5: a9b88
+    md5_6: a9b88c
+    oomp_key: oomp_marf41_mf_conn_pin_6_smt
+    oomp_key_extra: oomp_footprint_marf41_mf_conn_pin_6_smt
+    oomp_key_full: oomp_footprint_marf41_mf_conn_pin_6_smt_a9b88c
+    oomp_key_simple: marf41_mf_conn_pin_6_smt
     original_filename: MF-conn.pretty/PIN-6-SMT.kicad_mod
     owner_name: marf41
   oomp_key: oomp_marf41_mf_conn_pin_6_smt
+  oomp_key_full: oomp_footprint_marf41_mf_conn_pin_6_smt
   oomp_key_simple: marf41_mf_conn_pin_6_smt
   owner: marf41
   repo:

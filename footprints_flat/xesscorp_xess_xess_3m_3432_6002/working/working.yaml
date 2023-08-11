@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_3m_3432_6002
     library_name: xess
+    md5: 5d15010a902a961ae55bedb8daa86f02
+    md5_10: 5d15010a90
+    md5_5: 5d150
+    md5_6: 5d1501
+    oomp_key: oomp_xesscorp_xess_xess_3m_3432_6002
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_3m_3432_6002
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_3m_3432_6002_5d1501
+    oomp_key_simple: xesscorp_xess_xess_3m_3432_6002
     original_filename: xess.pretty/xess-3M-3432-6002.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_3m_3432_6002
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_3m_3432_6002
   oomp_key_simple: xesscorp_xess_xess_3m_3432_6002
   owner: xesscorp
   repo:

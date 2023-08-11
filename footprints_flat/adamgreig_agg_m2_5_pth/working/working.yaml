@@ -17,9 +17,18 @@
   oomp:
     footprint_name: m2_5_pth
     library_name: agg
+    md5: b40d295037a25aef5ecab82b8faa15ff
+    md5_10: b40d295037
+    md5_5: b40d2
+    md5_6: b40d29
+    oomp_key: oomp_adamgreig_agg_m2_5_pth
+    oomp_key_extra: oomp_footprint_adamgreig_agg_m2_5_pth
+    oomp_key_full: oomp_footprint_adamgreig_agg_m2_5_pth_b40d29
+    oomp_key_simple: adamgreig_agg_m2_5_pth
     original_filename: agg-kicad/agg.pretty/M2.5_PTH.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_m2_5_pth
+  oomp_key_full: oomp_footprint_adamgreig_agg_m2_5_pth
   oomp_key_simple: adamgreig_agg_m2_5_pth
   owner: adamgreig
   repo:

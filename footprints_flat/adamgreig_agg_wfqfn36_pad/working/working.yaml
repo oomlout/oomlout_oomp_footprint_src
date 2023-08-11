@@ -16,10 +16,19 @@
   name: agg-kicad
   oomp:
     footprint_name: wfqfn36_pad
-    library_name: unchecked
+    library_name: agg
+    md5: 873ed4b5d516cdf88a2f5dfc01911457
+    md5_10: 873ed4b5d5
+    md5_5: 873ed
+    md5_6: 873ed4
+    oomp_key: oomp_adamgreig_agg_wfqfn36_pad
+    oomp_key_extra: oomp_footprint_adamgreig_agg_wfqfn36_pad
+    oomp_key_full: oomp_footprint_adamgreig_agg_wfqfn36_pad_873ed4
+    oomp_key_simple: adamgreig_agg_wfqfn36_pad
     original_filename: agg-kicad/agg.pretty/unchecked.pretty/WFQFN36-PAD.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_wfqfn36_pad
+  oomp_key_full: oomp_footprint_adamgreig_agg_wfqfn36_pad
   oomp_key_simple: adamgreig_agg_wfqfn36_pad
   owner: adamgreig
   repo:

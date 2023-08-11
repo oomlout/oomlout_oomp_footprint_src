@@ -19,9 +19,18 @@
   oomp:
     footprint_name: molex_mini_fit_jr_5566_10a_2x05_p4_20mm_vertical
     library_name: connector_molex
+    md5: ff0ece78ee3b1126dc48fe639f4e87a7
+    md5_10: ff0ece78ee
+    md5_5: ff0ec
+    md5_6: ff0ece
+    oomp_key: oomp_kicad_connector_molex_molex_mini_fit_jr_5566_10a_2x05_p4_20mm_vertical
+    oomp_key_extra: oomp_footprint_kicad_connector_molex_molex_mini_fit_jr_5566_10a_2x05_p4_20mm_vertical
+    oomp_key_full: oomp_footprint_kicad_connector_molex_molex_mini_fit_jr_5566_10a_2x05_p4_20mm_vertical_ff0ece
+    oomp_key_simple: kicad_connector_molex_molex_mini_fit_jr_5566_10a_2x05_p4_20mm_vertical
     original_filename: libraries/kicad-footprints/Connector_Molex.pretty/Molex_Mini-Fit_Jr_5566-10A_2x05_P4.20mm_Vertical.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_molex_molex_mini_fit_jr_5566_10a_2x05_p4_20mm_vertical
+  oomp_key_full: oomp_footprint_kicad_connector_molex_molex_mini_fit_jr_5566_10a_2x05_p4_20mm_vertical
   oomp_key_simple: kicad_connector_molex_molex_mini_fit_jr_5566_10a_2x05_p4_20mm_vertical
   owner: kicad
   repo:

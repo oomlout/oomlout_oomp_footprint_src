@@ -18,9 +18,18 @@
   oomp:
     footprint_name: qfn50p700x700x100_45v1
     library_name: ipc7351_most
+    md5: daa10bf3d32328aaba45cbc131f036b3
+    md5_10: daa10bf3d3
+    md5_5: daa10
+    md5_6: daa10b
+    oomp_key: oomp_cpavlina_ipc7351_most_qfn50p700x700x100_45v1
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_most_qfn50p700x700x100_45v1
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_most_qfn50p700x700x100_45v1_daa10b
+    oomp_key_simple: cpavlina_ipc7351_most_qfn50p700x700x100_45v1
     original_filename: kicad-pcblib/IPC7351-Most.pretty/QFN50P700X700X100-45V1.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_most_qfn50p700x700x100_45v1
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_most_qfn50p700x700x100_45v1
   oomp_key_simple: cpavlina_ipc7351_most_qfn50p700x700x100_45v1
   owner: cpavlina
   repo:

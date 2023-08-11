@@ -17,9 +17,18 @@
   oomp:
     footprint_name: db_4
     library_name: suf_diode_bridge
+    md5: d6ede5c18386e6d6aac162ce5efc6412
+    md5_10: d6ede5c183
+    md5_5: d6ede
+    md5_6: d6ede5
+    oomp_key: oomp_suf_kicad_suf_diode_bridge_db_4
+    oomp_key_extra: oomp_footprint_suf_kicad_suf_diode_bridge_db_4
+    oomp_key_full: oomp_footprint_suf_kicad_suf_diode_bridge_db_4_d6ede5
+    oomp_key_simple: suf_kicad_suf_diode_bridge_db_4
     original_filename: suf_diode_bridge.pretty/DB-4.kicad_mod
     owner_name: suf_kicad
   oomp_key: oomp_suf_kicad_suf_diode_bridge_db_4
+  oomp_key_full: oomp_footprint_suf_kicad_suf_diode_bridge_db_4
   oomp_key_simple: suf_kicad_suf_diode_bridge_db_4
   owner: suf-KiCAD
   repo:

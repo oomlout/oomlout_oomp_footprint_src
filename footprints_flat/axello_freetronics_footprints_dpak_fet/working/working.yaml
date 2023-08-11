@@ -17,9 +17,18 @@
   oomp:
     footprint_name: dpak_fet
     library_name: freetronics_footprints
+    md5: 8147e4baba8bdf0f25f9a403a58eac1d
+    md5_10: 8147e4baba
+    md5_5: 8147e
+    md5_6: 8147e4
+    oomp_key: oomp_axello_freetronics_footprints_dpak_fet
+    oomp_key_extra: oomp_footprint_axello_freetronics_footprints_dpak_fet
+    oomp_key_full: oomp_footprint_axello_freetronics_footprints_dpak_fet_8147e4
+    oomp_key_simple: axello_freetronics_footprints_dpak_fet
     original_filename: kicad/mods/freetronics_footprints.pretty/DPAK_FET.kicad_mod
     owner_name: axello
   oomp_key: oomp_axello_freetronics_footprints_dpak_fet
+  oomp_key_full: oomp_footprint_axello_freetronics_footprints_dpak_fet
   oomp_key_simple: axello_freetronics_footprints_dpak_fet
   owner: axello
   repo:

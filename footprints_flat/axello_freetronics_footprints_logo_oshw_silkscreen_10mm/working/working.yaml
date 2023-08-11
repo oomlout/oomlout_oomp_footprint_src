@@ -17,9 +17,18 @@
   oomp:
     footprint_name: logo_oshw_silkscreen_10mm
     library_name: freetronics_footprints
+    md5: 14501db3454fb9dd65b76634690b20b3
+    md5_10: 14501db345
+    md5_5: '14501'
+    md5_6: 14501d
+    oomp_key: oomp_axello_freetronics_footprints_logo_oshw_silkscreen_10mm
+    oomp_key_extra: oomp_footprint_axello_freetronics_footprints_logo_oshw_silkscreen_10mm
+    oomp_key_full: oomp_footprint_axello_freetronics_footprints_logo_oshw_silkscreen_10mm_14501d
+    oomp_key_simple: axello_freetronics_footprints_logo_oshw_silkscreen_10mm
     original_filename: kicad/mods/freetronics_footprints.pretty/LOGO_OSHW_silkscreen_10mm.kicad_mod
     owner_name: axello
   oomp_key: oomp_axello_freetronics_footprints_logo_oshw_silkscreen_10mm
+  oomp_key_full: oomp_footprint_axello_freetronics_footprints_logo_oshw_silkscreen_10mm
   oomp_key_simple: axello_freetronics_footprints_logo_oshw_silkscreen_10mm
   owner: axello
   repo:

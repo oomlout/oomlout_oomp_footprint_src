@@ -17,9 +17,18 @@
   oomp:
     footprint_name: dfn_16_ep_ltc_de
     library_name: agg
+    md5: b182d7201b251e9d9f2edc71ee6eab82
+    md5_10: b182d7201b
+    md5_5: b182d
+    md5_6: b182d7
+    oomp_key: oomp_adamgreig_agg_dfn_16_ep_ltc_de
+    oomp_key_extra: oomp_footprint_adamgreig_agg_dfn_16_ep_ltc_de
+    oomp_key_full: oomp_footprint_adamgreig_agg_dfn_16_ep_ltc_de_b182d7
+    oomp_key_simple: adamgreig_agg_dfn_16_ep_ltc_de
     original_filename: agg-kicad/agg.pretty/DFN-16-EP-LTC-DE.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_dfn_16_ep_ltc_de
+  oomp_key_full: oomp_footprint_adamgreig_agg_dfn_16_ep_ltc_de
   oomp_key_simple: adamgreig_agg_dfn_16_ep_ltc_de
   owner: adamgreig
   repo:

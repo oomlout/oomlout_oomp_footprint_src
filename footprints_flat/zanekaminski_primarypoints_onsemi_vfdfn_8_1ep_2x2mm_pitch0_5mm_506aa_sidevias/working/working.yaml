@@ -17,9 +17,18 @@
   oomp:
     footprint_name: onsemi_vfdfn_8_1ep_2x2mm_pitch0_5mm_506aa_sidevias
     library_name: primarypoints
+    md5: 4518a754ea63c26127037e675a4fbdbb
+    md5_10: 4518a754ea
+    md5_5: 4518a
+    md5_6: 4518a7
+    oomp_key: oomp_zanekaminski_primarypoints_onsemi_vfdfn_8_1ep_2x2mm_pitch0_5mm_506aa_sidevias
+    oomp_key_extra: oomp_footprint_zanekaminski_primarypoints_onsemi_vfdfn_8_1ep_2x2mm_pitch0_5mm_506aa_sidevias
+    oomp_key_full: oomp_footprint_zanekaminski_primarypoints_onsemi_vfdfn_8_1ep_2x2mm_pitch0_5mm_506aa_sidevias_4518a7
+    oomp_key_simple: zanekaminski_primarypoints_onsemi_vfdfn_8_1ep_2x2mm_pitch0_5mm_506aa_sidevias
     original_filename: primarypoints.pretty/ONSemi_VFDFN-8-1EP_2x2mm_Pitch0.5mm_506AA_SideVias.kicad_mod
     owner_name: zanekaminski
   oomp_key: oomp_zanekaminski_primarypoints_onsemi_vfdfn_8_1ep_2x2mm_pitch0_5mm_506aa_sidevias
+  oomp_key_full: oomp_footprint_zanekaminski_primarypoints_onsemi_vfdfn_8_1ep_2x2mm_pitch0_5mm_506aa_sidevias
   oomp_key_simple: zanekaminski_primarypoints_onsemi_vfdfn_8_1ep_2x2mm_pitch0_5mm_506aa_sidevias
   owner: ZaneKaminski
   repo:

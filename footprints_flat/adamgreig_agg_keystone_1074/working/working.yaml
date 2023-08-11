@@ -17,9 +17,18 @@
   oomp:
     footprint_name: keystone_1074
     library_name: agg
+    md5: 026774a70f24f1536bd810557cf6a340
+    md5_10: 026774a70f
+    md5_5: '02677'
+    md5_6: '026774'
+    oomp_key: oomp_adamgreig_agg_keystone_1074
+    oomp_key_extra: oomp_footprint_adamgreig_agg_keystone_1074
+    oomp_key_full: oomp_footprint_adamgreig_agg_keystone_1074_026774
+    oomp_key_simple: adamgreig_agg_keystone_1074
     original_filename: agg-kicad/agg.pretty/KEYSTONE_1074.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_keystone_1074
+  oomp_key_full: oomp_footprint_adamgreig_agg_keystone_1074
   oomp_key_simple: adamgreig_agg_keystone_1074
   owner: adamgreig
   repo:

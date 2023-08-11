@@ -17,9 +17,18 @@
   oomp:
     footprint_name: l_sunlord_mwsa1206s_470
     library_name: inductor_smd
+    md5: ff6ff522ef262cde706b72d15ad041c7
+    md5_10: ff6ff522ef
+    md5_5: ff6ff
+    md5_6: ff6ff5
+    oomp_key: oomp_kicad_inductor_smd_l_sunlord_mwsa1206s_470
+    oomp_key_extra: oomp_footprint_kicad_inductor_smd_l_sunlord_mwsa1206s_470
+    oomp_key_full: oomp_footprint_kicad_inductor_smd_l_sunlord_mwsa1206s_470_ff6ff5
+    oomp_key_simple: kicad_inductor_smd_l_sunlord_mwsa1206s_470
     original_filename: libraries/kicad-footprints/Inductor_SMD.pretty/L_Sunlord_MWSA1206S-470.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_inductor_smd_l_sunlord_mwsa1206s_470
+  oomp_key_full: oomp_footprint_kicad_inductor_smd_l_sunlord_mwsa1206s_470
   oomp_key_simple: kicad_inductor_smd_l_sunlord_mwsa1206s_470
   owner: kicad
   repo:

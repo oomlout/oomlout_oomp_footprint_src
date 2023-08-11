@@ -17,9 +17,18 @@
   oomp:
     footprint_name: minidin_8
     library_name: w_conn_av
+    md5: 978f0b77b01e48b89045a922c186f3e6
+    md5_10: 978f0b77b0
+    md5_5: 978f0
+    md5_6: 978f0b
+    oomp_key: oomp_asofttech_w_conn_av_minidin_8
+    oomp_key_extra: oomp_footprint_asofttech_w_conn_av_minidin_8
+    oomp_key_full: oomp_footprint_asofttech_w_conn_av_minidin_8_978f0b
+    oomp_key_simple: asofttech_w_conn_av_minidin_8
     original_filename: CAD.KiCad.Libs/modules/w_conn_av.pretty/minidin-8.kicad_mod
     owner_name: asofttech
   oomp_key: oomp_asofttech_w_conn_av_minidin_8
+  oomp_key_full: oomp_footprint_asofttech_w_conn_av_minidin_8
   oomp_key_simple: asofttech_w_conn_av_minidin_8
   owner: ASoftTech
   repo:

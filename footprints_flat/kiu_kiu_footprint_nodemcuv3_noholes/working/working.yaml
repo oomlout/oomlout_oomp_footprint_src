@@ -17,9 +17,18 @@
   oomp:
     footprint_name: nodemcuv3_noholes
     library_name: kiu_footprint
+    md5: 6403f24129f787d679c83ef9f0e4e6f8
+    md5_10: 6403f24129
+    md5_5: 6403f
+    md5_6: 6403f2
+    oomp_key: oomp_kiu_kiu_footprint_nodemcuv3_noholes
+    oomp_key_extra: oomp_footprint_kiu_kiu_footprint_nodemcuv3_noholes
+    oomp_key_full: oomp_footprint_kiu_kiu_footprint_nodemcuv3_noholes_6403f2
+    oomp_key_simple: kiu_kiu_footprint_nodemcuv3_noholes
     original_filename: kiu-footprint.pretty/NodeMCUV3-NoHoles.kicad_mod
     owner_name: kiu
   oomp_key: oomp_kiu_kiu_footprint_nodemcuv3_noholes
+  oomp_key_full: oomp_footprint_kiu_kiu_footprint_nodemcuv3_noholes
   oomp_key_simple: kiu_kiu_footprint_nodemcuv3_noholes
   owner: kiu
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: spi_header
     library_name: esp_rs232
+    md5: 1dbc8d6fc98c2835dd836e9d7b7c1f26
+    md5_10: 1dbc8d6fc9
+    md5_5: 1dbc8
+    md5_6: 1dbc8d
+    oomp_key: oomp_joanthespark_esp_rs232_spi_header
+    oomp_key_extra: oomp_footprint_joanthespark_esp_rs232_spi_header
+    oomp_key_full: oomp_footprint_joanthespark_esp_rs232_spi_header_1dbc8d
+    oomp_key_simple: joanthespark_esp_rs232_spi_header
     original_filename: KiCAD/mods/ESP-RS232.pretty/SPI_Header.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_esp_rs232_spi_header
+  oomp_key_full: oomp_footprint_joanthespark_esp_rs232_spi_header
   oomp_key_simple: joanthespark_esp_rs232_spi_header
   owner: JoanTheSpark
   repo:

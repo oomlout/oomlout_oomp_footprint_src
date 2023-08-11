@@ -17,9 +17,18 @@
   oomp:
     footprint_name: koaspeer_mos_2w
     library_name: manuf
+    md5: 5ba6717fc763a1f6a93a38d915460753
+    md5_10: 5ba6717fc7
+    md5_5: 5ba67
+    md5_6: 5ba671
+    oomp_key: oomp_cpavlina_manuf_koaspeer_mos_2w
+    oomp_key_extra: oomp_footprint_cpavlina_manuf_koaspeer_mos_2w
+    oomp_key_full: oomp_footprint_cpavlina_manuf_koaspeer_mos_2w_5ba671
+    oomp_key_simple: cpavlina_manuf_koaspeer_mos_2w
     original_filename: kicad-pcblib/manuf.pretty/KOASPEER-MOS-2W.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_manuf_koaspeer_mos_2w
+  oomp_key_full: oomp_footprint_cpavlina_manuf_koaspeer_mos_2w
   oomp_key_simple: cpavlina_manuf_koaspeer_mos_2w
   owner: cpavlina
   repo:

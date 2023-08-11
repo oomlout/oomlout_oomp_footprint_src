@@ -17,9 +17,18 @@
   oomp:
     footprint_name: vl53l0cx
     library_name: kicadfootprint
+    md5: ddc468f999dfbf257f851a949b14eb50
+    md5_10: ddc468f999
+    md5_5: ddc46
+    md5_6: ddc468
+    oomp_key: oomp_vivitainc_kicadfootprint_vl53l0cx
+    oomp_key_extra: oomp_footprint_vivitainc_kicadfootprint_vl53l0cx
+    oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_vl53l0cx_ddc468
+    oomp_key_simple: vivitainc_kicadfootprint_vl53l0cx
     original_filename: KiCADfootprint.pretty/VL53L0CX.kicad_mod
     owner_name: vivitainc
   oomp_key: oomp_vivitainc_kicadfootprint_vl53l0cx
+  oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_vl53l0cx
   oomp_key_simple: vivitainc_kicadfootprint_vl53l0cx
   owner: vivitainc
   repo:

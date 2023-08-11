@@ -18,9 +18,18 @@
   oomp:
     footprint_name: oscillator_smd_seikoepson_sg8002lb_4pin_5_0x3_2mm
     library_name: oscillator
+    md5: 79f35fb6878b56ec139bdc107b5f59ff
+    md5_10: 79f35fb687
+    md5_5: 79f35
+    md5_6: 79f35f
+    oomp_key: oomp_kicad_oscillator_oscillator_smd_seikoepson_sg8002lb_4pin_5_0x3_2mm
+    oomp_key_extra: oomp_footprint_kicad_oscillator_oscillator_smd_seikoepson_sg8002lb_4pin_5_0x3_2mm
+    oomp_key_full: oomp_footprint_kicad_oscillator_oscillator_smd_seikoepson_sg8002lb_4pin_5_0x3_2mm_79f35f
+    oomp_key_simple: kicad_oscillator_oscillator_smd_seikoepson_sg8002lb_4pin_5_0x3_2mm
     original_filename: libraries/kicad-footprints/Oscillator.pretty/Oscillator_SMD_SeikoEpson_SG8002LB-4Pin_5.0x3.2mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_oscillator_oscillator_smd_seikoepson_sg8002lb_4pin_5_0x3_2mm
+  oomp_key_full: oomp_footprint_kicad_oscillator_oscillator_smd_seikoepson_sg8002lb_4pin_5_0x3_2mm
   oomp_key_simple: kicad_oscillator_oscillator_smd_seikoepson_sg8002lb_4pin_5_0x3_2mm
   owner: kicad
   repo:

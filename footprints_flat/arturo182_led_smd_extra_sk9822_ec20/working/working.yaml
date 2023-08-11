@@ -19,9 +19,18 @@
   oomp:
     footprint_name: sk9822_ec20
     library_name: led_smd_extra
+    md5: 0d3db4f64b4baedce18cb8c51d16c660
+    md5_10: 0d3db4f64b
+    md5_5: 0d3db
+    md5_6: 0d3db4
+    oomp_key: oomp_arturo182_led_smd_extra_sk9822_ec20
+    oomp_key_extra: oomp_footprint_arturo182_led_smd_extra_sk9822_ec20
+    oomp_key_full: oomp_footprint_arturo182_led_smd_extra_sk9822_ec20_0d3db4
+    oomp_key_simple: arturo182_led_smd_extra_sk9822_ec20
     original_filename: kicad-modules/LED_SMD_Extra.pretty/SK9822-EC20.kicad_mod
     owner_name: arturo182
   oomp_key: oomp_arturo182_led_smd_extra_sk9822_ec20
+  oomp_key_full: oomp_footprint_arturo182_led_smd_extra_sk9822_ec20
   oomp_key_simple: arturo182_led_smd_extra_sk9822_ec20
   owner: arturo182
   repo:

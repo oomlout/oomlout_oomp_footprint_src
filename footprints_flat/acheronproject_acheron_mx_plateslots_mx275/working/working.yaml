@@ -17,9 +17,18 @@
   oomp:
     footprint_name: mx275
     library_name: acheron_mx_plateslots
+    md5: c30297556e38b7fd081a0eaf8cc8c7be
+    md5_10: c30297556e
+    md5_5: c3029
+    md5_6: c30297
+    oomp_key: oomp_acheronproject_acheron_mx_plateslots_mx275
+    oomp_key_extra: oomp_footprint_acheronproject_acheron_mx_plateslots_mx275
+    oomp_key_full: oomp_footprint_acheronproject_acheron_mx_plateslots_mx275_c30297
+    oomp_key_simple: acheronproject_acheron_mx_plateslots_mx275
     original_filename: acheron_MX_PlateSlots.pretty/MX275.kicad_mod
     owner_name: acheronproject
   oomp_key: oomp_acheronproject_acheron_mx_plateslots_mx275
+  oomp_key_full: oomp_footprint_acheronproject_acheron_mx_plateslots_mx275
   oomp_key_simple: acheronproject_acheron_mx_plateslots_mx275
   owner: AcheronProject
   repo:

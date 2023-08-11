@@ -17,9 +17,18 @@
   oomp:
     footprint_name: jp_1_spark_gap
     library_name: sh_jumper_pins
+    md5: 7aec4be2fce497f5d6ce15e184ae9fc6
+    md5_10: 7aec4be2fc
+    md5_5: 7aec4
+    md5_6: 7aec4b
+    oomp_key: oomp_stefanhamminga_sh_jumper_pins_jp_1_spark_gap
+    oomp_key_extra: oomp_footprint_stefanhamminga_sh_jumper_pins_jp_1_spark_gap
+    oomp_key_full: oomp_footprint_stefanhamminga_sh_jumper_pins_jp_1_spark_gap_7aec4b
+    oomp_key_simple: stefanhamminga_sh_jumper_pins_jp_1_spark_gap
     original_filename: SH_Jumper_Pins.pretty/JP-1_Spark_Gap.kicad_mod
     owner_name: stefanhamminga
   oomp_key: oomp_stefanhamminga_sh_jumper_pins_jp_1_spark_gap
+  oomp_key_full: oomp_footprint_stefanhamminga_sh_jumper_pins_jp_1_spark_gap
   oomp_key_simple: stefanhamminga_sh_jumper_pins_jp_1_spark_gap
   owner: StefanHamminga
   repo:

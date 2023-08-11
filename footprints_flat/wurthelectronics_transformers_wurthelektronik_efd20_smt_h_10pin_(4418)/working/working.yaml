@@ -17,9 +17,18 @@
   oomp:
     footprint_name: efd20_smt_h_10pin_(4418)
     library_name: transformers_wurthelektronik
+    md5: df9ad752bfa83f75097d3f74fc8a3ee6
+    md5_10: df9ad752bf
+    md5_5: df9ad
+    md5_6: df9ad7
+    oomp_key: oomp_wurthelectronics_transformers_wurthelektronik_efd20_smt_h_10pin_(4418)
+    oomp_key_extra: oomp_footprint_wurthelectronics_transformers_wurthelektronik_efd20_smt_h_10pin_(4418)
+    oomp_key_full: oomp_footprint_wurthelectronics_transformers_wurthelektronik_efd20_smt_h_10pin_(4418)_df9ad7
+    oomp_key_simple: wurthelectronics_transformers_wurthelektronik_efd20_smt_h_10pin_(4418)
     original_filename: Transformers_WurthElektronik.pretty/EFD20_SMT_H_10PIN_(4418).kicad_mod
     owner_name: wurthelectronics
   oomp_key: oomp_wurthelectronics_transformers_wurthelektronik_efd20_smt_h_10pin_(4418)
+  oomp_key_full: oomp_footprint_wurthelectronics_transformers_wurthelektronik_efd20_smt_h_10pin_(4418)
   oomp_key_simple: wurthelectronics_transformers_wurthelektronik_efd20_smt_h_10pin_(4418)
   owner: WurthElectronics
   repo:

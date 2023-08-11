@@ -17,9 +17,18 @@
   oomp:
     footprint_name: oscsc250p320x500x110_4
     library_name: ipc7351_least
+    md5: 2401f37d3354295ac48876461724b7aa
+    md5_10: 2401f37d33
+    md5_5: 2401f
+    md5_6: 2401f3
+    oomp_key: oomp_cpavlina_ipc7351_least_oscsc250p320x500x110_4
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_least_oscsc250p320x500x110_4
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_least_oscsc250p320x500x110_4_2401f3
+    oomp_key_simple: cpavlina_ipc7351_least_oscsc250p320x500x110_4
     original_filename: kicad-pcblib/IPC7351-Least.pretty/OSCSC250P320X500X110-4.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_least_oscsc250p320x500x110_4
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_least_oscsc250p320x500x110_4
   oomp_key_simple: cpavlina_ipc7351_least_oscsc250p320x500x110_4
   owner: cpavlina
   repo:

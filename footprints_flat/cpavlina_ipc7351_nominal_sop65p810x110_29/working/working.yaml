@@ -18,9 +18,18 @@
   oomp:
     footprint_name: sop65p810x110_29
     library_name: ipc7351_nominal
+    md5: 2c7d7fc4cfaeda9a7050a468e603bd7c
+    md5_10: 2c7d7fc4cf
+    md5_5: 2c7d7
+    md5_6: 2c7d7f
+    oomp_key: oomp_cpavlina_ipc7351_nominal_sop65p810x110_29
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_nominal_sop65p810x110_29
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_sop65p810x110_29_2c7d7f
+    oomp_key_simple: cpavlina_ipc7351_nominal_sop65p810x110_29
     original_filename: kicad-pcblib/IPC7351-Nominal.pretty/SOP65P810X110-29.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_nominal_sop65p810x110_29
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_sop65p810x110_29
   oomp_key_simple: cpavlina_ipc7351_nominal_sop65p810x110_29
   owner: cpavlina
   repo:

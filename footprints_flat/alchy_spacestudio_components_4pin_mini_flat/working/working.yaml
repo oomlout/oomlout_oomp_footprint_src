@@ -17,9 +17,18 @@
   oomp:
     footprint_name: 4pin_mini_flat
     library_name: spacestudio_components
+    md5: 4025450c17c477ff806e0f5a22b221b3
+    md5_10: 4025450c17
+    md5_5: '40254'
+    md5_6: '402545'
+    oomp_key: oomp_alchy_spacestudio_components_4pin_mini_flat
+    oomp_key_extra: oomp_footprint_alchy_spacestudio_components_4pin_mini_flat
+    oomp_key_full: oomp_footprint_alchy_spacestudio_components_4pin_mini_flat_402545
+    oomp_key_simple: alchy_spacestudio_components_4pin_mini_flat
     original_filename: spacestudio_components.pretty/4pin_mini_flat.kicad_mod
     owner_name: alchy
   oomp_key: oomp_alchy_spacestudio_components_4pin_mini_flat
+  oomp_key_full: oomp_footprint_alchy_spacestudio_components_4pin_mini_flat
   oomp_key_simple: alchy_spacestudio_components_4pin_mini_flat
   owner: alchy
   repo:

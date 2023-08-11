@@ -17,9 +17,18 @@
   oomp:
     footprint_name: qfn_28_st
     library_name: agg
+    md5: db5698aff82e164f4fa7cfa4f67d0aef
+    md5_10: db5698aff8
+    md5_5: db569
+    md5_6: db5698
+    oomp_key: oomp_adamgreig_agg_qfn_28_st
+    oomp_key_extra: oomp_footprint_adamgreig_agg_qfn_28_st
+    oomp_key_full: oomp_footprint_adamgreig_agg_qfn_28_st_db5698
+    oomp_key_simple: adamgreig_agg_qfn_28_st
     original_filename: agg-kicad/agg.pretty/QFN-28-ST.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_qfn_28_st
+  oomp_key_full: oomp_footprint_adamgreig_agg_qfn_28_st
   oomp_key_simple: adamgreig_agg_qfn_28_st
   owner: adamgreig
   repo:

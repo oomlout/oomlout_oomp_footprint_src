@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ind_srp1040
     library_name: freetronics_footprints
+    md5: f6430eb493d33c3afc80a342fbd42559
+    md5_10: f6430eb493
+    md5_5: f6430
+    md5_6: f6430e
+    oomp_key: oomp_axello_freetronics_footprints_ind_srp1040
+    oomp_key_extra: oomp_footprint_axello_freetronics_footprints_ind_srp1040
+    oomp_key_full: oomp_footprint_axello_freetronics_footprints_ind_srp1040_f6430e
+    oomp_key_simple: axello_freetronics_footprints_ind_srp1040
     original_filename: kicad/mods/freetronics_footprints.pretty/IND_SRP1040.kicad_mod
     owner_name: axello
   oomp_key: oomp_axello_freetronics_footprints_ind_srp1040
+  oomp_key_full: oomp_footprint_axello_freetronics_footprints_ind_srp1040
   oomp_key_simple: axello_freetronics_footprints_ind_srp1040
   owner: axello
   repo:

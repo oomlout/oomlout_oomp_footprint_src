@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xesscorp2
     library_name: xess
+    md5: 501ea1072ecf7b424f0d4c698af5cb3e
+    md5_10: 501ea1072e
+    md5_5: 501ea
+    md5_6: 501ea1
+    oomp_key: oomp_xesscorp_xess_xesscorp2
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xesscorp2
+    oomp_key_full: oomp_footprint_xesscorp_xess_xesscorp2_501ea1
+    oomp_key_simple: xesscorp_xess_xesscorp2
     original_filename: xess.pretty/xesscorp2.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xesscorp2
+  oomp_key_full: oomp_footprint_xesscorp_xess_xesscorp2
   oomp_key_simple: xesscorp_xess_xesscorp2
   owner: xesscorp
   repo:

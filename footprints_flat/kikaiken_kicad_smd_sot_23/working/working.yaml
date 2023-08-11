@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sot_23
     library_name: kicad_smd
+    md5: 2e3fcec8ff4717a90299c08fb460c18b
+    md5_10: 2e3fcec8ff
+    md5_5: 2e3fc
+    md5_6: 2e3fce
+    oomp_key: oomp_kikaiken_kicad_smd_sot_23
+    oomp_key_extra: oomp_footprint_kikaiken_kicad_smd_sot_23
+    oomp_key_full: oomp_footprint_kikaiken_kicad_smd_sot_23_2e3fce
+    oomp_key_simple: kikaiken_kicad_smd_sot_23
     original_filename: kicad_smd.pretty/SOT-23.kicad_mod
     owner_name: kikaiken
   oomp_key: oomp_kikaiken_kicad_smd_sot_23
+  oomp_key_full: oomp_footprint_kikaiken_kicad_smd_sot_23
   oomp_key_simple: kikaiken_kicad_smd_sot_23
   owner: kikaiken
   repo:

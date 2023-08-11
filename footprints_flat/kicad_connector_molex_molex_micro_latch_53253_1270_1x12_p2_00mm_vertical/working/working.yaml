@@ -19,9 +19,18 @@
   oomp:
     footprint_name: molex_micro_latch_53253_1270_1x12_p2_00mm_vertical
     library_name: connector_molex
+    md5: b304f7939a7e21f6c105bb980144da70
+    md5_10: b304f7939a
+    md5_5: b304f
+    md5_6: b304f7
+    oomp_key: oomp_kicad_connector_molex_molex_micro_latch_53253_1270_1x12_p2_00mm_vertical
+    oomp_key_extra: oomp_footprint_kicad_connector_molex_molex_micro_latch_53253_1270_1x12_p2_00mm_vertical
+    oomp_key_full: oomp_footprint_kicad_connector_molex_molex_micro_latch_53253_1270_1x12_p2_00mm_vertical_b304f7
+    oomp_key_simple: kicad_connector_molex_molex_micro_latch_53253_1270_1x12_p2_00mm_vertical
     original_filename: libraries/kicad-footprints/Connector_Molex.pretty/Molex_Micro-Latch_53253-1270_1x12_P2.00mm_Vertical.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_molex_molex_micro_latch_53253_1270_1x12_p2_00mm_vertical
+  oomp_key_full: oomp_footprint_kicad_connector_molex_molex_micro_latch_53253_1270_1x12_p2_00mm_vertical
   oomp_key_simple: kicad_connector_molex_molex_micro_latch_53253_1270_1x12_p2_00mm_vertical
   owner: kicad
   repo:

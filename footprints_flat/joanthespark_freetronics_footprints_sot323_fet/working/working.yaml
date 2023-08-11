@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sot323_fet
     library_name: freetronics_footprints
+    md5: e9cd7e6d0c136b1cb76e345be70d8707
+    md5_10: e9cd7e6d0c
+    md5_5: e9cd7
+    md5_6: e9cd7e
+    oomp_key: oomp_joanthespark_freetronics_footprints_sot323_fet
+    oomp_key_extra: oomp_footprint_joanthespark_freetronics_footprints_sot323_fet
+    oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_sot323_fet_e9cd7e
+    oomp_key_simple: joanthespark_freetronics_footprints_sot323_fet
     original_filename: KiCAD/mods/freetronics_footprints.pretty/SOT323_FET.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_freetronics_footprints_sot323_fet
+  oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_sot323_fet
   oomp_key_simple: joanthespark_freetronics_footprints_sot323_fet
   owner: JoanTheSpark
   repo:

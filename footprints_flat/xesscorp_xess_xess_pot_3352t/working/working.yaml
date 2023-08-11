@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_pot_3352t
     library_name: xess
+    md5: e1ade478fd9831f9e94cf1389cce9894
+    md5_10: e1ade478fd
+    md5_5: e1ade
+    md5_6: e1ade4
+    oomp_key: oomp_xesscorp_xess_xess_pot_3352t
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_pot_3352t
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_pot_3352t_e1ade4
+    oomp_key_simple: xesscorp_xess_xess_pot_3352t
     original_filename: xess.pretty/xess-POT-3352T.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_pot_3352t
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_pot_3352t
   oomp_key_simple: xesscorp_xess_xess_pot_3352t
   owner: xesscorp
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: lqfp_32_7x7mm
     library_name: digikey_footprints
+    md5: 91baaeaeaedebfb48714517bf6d8a297
+    md5_10: 91baaeaeae
+    md5_5: 91baa
+    md5_6: 91baae
+    oomp_key: oomp_digikey_digikey_footprints_lqfp_32_7x7mm
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_lqfp_32_7x7mm
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_lqfp_32_7x7mm_91baae
+    oomp_key_simple: digikey_digikey_footprints_lqfp_32_7x7mm
     original_filename: digikey-kicad-library/digikey-footprints.pretty/LQFP-32_7x7mm.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_lqfp_32_7x7mm
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_lqfp_32_7x7mm
   oomp_key_simple: digikey_digikey_footprints_lqfp_32_7x7mm
   owner: digikey
   repo:

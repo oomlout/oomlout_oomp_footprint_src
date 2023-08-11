@@ -17,9 +17,18 @@
   oomp:
     footprint_name: usb_a_pth_amp787616_1
     library_name: usst_footprints
+    md5: 963610a646c4d06fb5f06e0e222bc668
+    md5_10: 963610a646
+    md5_5: '96361'
+    md5_6: '963610'
+    oomp_key: oomp_uofsspaceteam_usst_footprints_usb_a_pth_amp787616_1
+    oomp_key_extra: oomp_footprint_uofsspaceteam_usst_footprints_usb_a_pth_amp787616_1
+    oomp_key_full: oomp_footprint_uofsspaceteam_usst_footprints_usb_a_pth_amp787616_1_963610
+    oomp_key_simple: uofsspaceteam_usst_footprints_usb_a_pth_amp787616_1
     original_filename: USST-footprints.pretty/USB_A_PTH_AMP787616-1.kicad_mod
     owner_name: uofsspaceteam
   oomp_key: oomp_uofsspaceteam_usst_footprints_usb_a_pth_amp787616_1
+  oomp_key_full: oomp_footprint_uofsspaceteam_usst_footprints_usb_a_pth_amp787616_1
   oomp_key_simple: uofsspaceteam_usst_footprints_usb_a_pth_amp787616_1
   owner: UofSSpaceTeam
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: dub0008a
     library_name: agg
+    md5: 098148a234d208c9b5bab9387fb45b29
+    md5_10: 098148a234
+    md5_5: 09814
+    md5_6: 098148
+    oomp_key: oomp_adamgreig_agg_dub0008a
+    oomp_key_extra: oomp_footprint_adamgreig_agg_dub0008a
+    oomp_key_full: oomp_footprint_adamgreig_agg_dub0008a_098148
+    oomp_key_simple: adamgreig_agg_dub0008a
     original_filename: agg-kicad/agg.pretty/DUB0008A.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_dub0008a
+  oomp_key_full: oomp_footprint_adamgreig_agg_dub0008a
   oomp_key_simple: adamgreig_agg_dub0008a
   owner: adamgreig
   repo:

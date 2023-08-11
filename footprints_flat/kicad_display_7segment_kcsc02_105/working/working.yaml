@@ -17,9 +17,18 @@
   oomp:
     footprint_name: kcsc02_105
     library_name: display_7segment
+    md5: a8d2ec0df620c9023288b93b2edee648
+    md5_10: a8d2ec0df6
+    md5_5: a8d2e
+    md5_6: a8d2ec
+    oomp_key: oomp_kicad_display_7segment_kcsc02_105
+    oomp_key_extra: oomp_footprint_kicad_display_7segment_kcsc02_105
+    oomp_key_full: oomp_footprint_kicad_display_7segment_kcsc02_105_a8d2ec
+    oomp_key_simple: kicad_display_7segment_kcsc02_105
     original_filename: libraries/kicad-footprints/Display_7Segment.pretty/KCSC02-105.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_display_7segment_kcsc02_105
+  oomp_key_full: oomp_footprint_kicad_display_7segment_kcsc02_105
   oomp_key_simple: kicad_display_7segment_kcsc02_105
   owner: kicad
   repo:

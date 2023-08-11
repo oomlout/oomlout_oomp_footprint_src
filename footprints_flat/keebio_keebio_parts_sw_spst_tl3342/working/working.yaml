@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sw_spst_tl3342
     library_name: keebio_parts
+    md5: c7c6695307743c652a28144ff42b6b01
+    md5_10: c7c6695307
+    md5_5: c7c66
+    md5_6: c7c669
+    oomp_key: oomp_keebio_keebio_parts_sw_spst_tl3342
+    oomp_key_extra: oomp_footprint_keebio_keebio_parts_sw_spst_tl3342
+    oomp_key_full: oomp_footprint_keebio_keebio_parts_sw_spst_tl3342_c7c669
+    oomp_key_simple: keebio_keebio_parts_sw_spst_tl3342
     original_filename: Keebio-Parts.pretty/SW_SPST_TL3342.kicad_mod
     owner_name: keebio
   oomp_key: oomp_keebio_keebio_parts_sw_spst_tl3342
+  oomp_key_full: oomp_footprint_keebio_keebio_parts_sw_spst_tl3342
   oomp_key_simple: keebio_keebio_parts_sw_spst_tl3342
   owner: keebio
   repo:

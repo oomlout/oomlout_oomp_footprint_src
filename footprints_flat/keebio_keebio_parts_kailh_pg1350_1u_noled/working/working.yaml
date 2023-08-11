@@ -17,9 +17,18 @@
   oomp:
     footprint_name: kailh_pg1350_1u_noled
     library_name: keebio_parts
+    md5: f7649809cca4fb14b9bd1f43ed38e633
+    md5_10: f7649809cc
+    md5_5: f7649
+    md5_6: f76498
+    oomp_key: oomp_keebio_keebio_parts_kailh_pg1350_1u_noled
+    oomp_key_extra: oomp_footprint_keebio_keebio_parts_kailh_pg1350_1u_noled
+    oomp_key_full: oomp_footprint_keebio_keebio_parts_kailh_pg1350_1u_noled_f76498
+    oomp_key_simple: keebio_keebio_parts_kailh_pg1350_1u_noled
     original_filename: Keebio-Parts.pretty/Kailh-PG1350-1u-NoLED.kicad_mod
     owner_name: keebio
   oomp_key: oomp_keebio_keebio_parts_kailh_pg1350_1u_noled
+  oomp_key_full: oomp_footprint_keebio_keebio_parts_kailh_pg1350_1u_noled
   oomp_key_simple: keebio_keebio_parts_kailh_pg1350_1u_noled
   owner: keebio
   repo:

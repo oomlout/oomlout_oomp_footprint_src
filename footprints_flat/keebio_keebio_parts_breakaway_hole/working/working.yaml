@@ -17,9 +17,18 @@
   oomp:
     footprint_name: breakaway_hole
     library_name: keebio_parts
+    md5: 6bf0be7f822c55790434d8559bca425c
+    md5_10: 6bf0be7f82
+    md5_5: 6bf0b
+    md5_6: 6bf0be
+    oomp_key: oomp_keebio_keebio_parts_breakaway_hole
+    oomp_key_extra: oomp_footprint_keebio_keebio_parts_breakaway_hole
+    oomp_key_full: oomp_footprint_keebio_keebio_parts_breakaway_hole_6bf0be
+    oomp_key_simple: keebio_keebio_parts_breakaway_hole
     original_filename: Keebio-Parts.pretty/breakaway-hole.kicad_mod
     owner_name: keebio
   oomp_key: oomp_keebio_keebio_parts_breakaway_hole
+  oomp_key_full: oomp_footprint_keebio_keebio_parts_breakaway_hole
   oomp_key_simple: keebio_keebio_parts_breakaway_hole
   owner: keebio
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sot_343
     library_name: hcbt_aclass
+    md5: 25b7063405e2b70763167448855e0744
+    md5_10: 25b7063405
+    md5_5: 25b70
+    md5_6: 25b706
+    oomp_key: oomp_tmandic_hcbt_aclass_sot_343
+    oomp_key_extra: oomp_footprint_tmandic_hcbt_aclass_sot_343
+    oomp_key_full: oomp_footprint_tmandic_hcbt_aclass_sot_343_25b706
+    oomp_key_simple: tmandic_hcbt_aclass_sot_343
     original_filename: HCBT_Aclass.pretty/SOT-343.kicad_mod
     owner_name: tmandic
   oomp_key: oomp_tmandic_hcbt_aclass_sot_343
+  oomp_key_full: oomp_footprint_tmandic_hcbt_aclass_sot_343
   oomp_key_simple: tmandic_hcbt_aclass_sot_343
   owner: tmandic
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: mxo200
     library_name: acheron_mxo
+    md5: a672fcd73b803e45ac82a807858ff0eb
+    md5_10: a672fcd73b
+    md5_5: a672f
+    md5_6: a672fc
+    oomp_key: oomp_acheronproject_acheron_mxo_mxo200
+    oomp_key_extra: oomp_footprint_acheronproject_acheron_mxo_mxo200
+    oomp_key_full: oomp_footprint_acheronproject_acheron_mxo_mxo200_a672fc
+    oomp_key_simple: acheronproject_acheron_mxo_mxo200
     original_filename: acheron_MXO.pretty/MXO200.kicad_mod
     owner_name: acheronproject
   oomp_key: oomp_acheronproject_acheron_mxo_mxo200
+  oomp_key_full: oomp_footprint_acheronproject_acheron_mxo_mxo200
   oomp_key_simple: acheronproject_acheron_mxo_mxo200
   owner: AcheronProject
   repo:

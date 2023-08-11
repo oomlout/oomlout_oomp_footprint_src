@@ -17,9 +17,18 @@
   oomp:
     footprint_name: transformer_murata_78250jc
     library_name: transformer_smd
+    md5: 97329ac413fb4bcad6fbe070fafe980a
+    md5_10: 97329ac413
+    md5_5: '97329'
+    md5_6: 97329a
+    oomp_key: oomp_kicad_transformer_smd_transformer_murata_78250jc
+    oomp_key_extra: oomp_footprint_kicad_transformer_smd_transformer_murata_78250jc
+    oomp_key_full: oomp_footprint_kicad_transformer_smd_transformer_murata_78250jc_97329a
+    oomp_key_simple: kicad_transformer_smd_transformer_murata_78250jc
     original_filename: libraries/kicad-footprints/Transformer_SMD.pretty/Transformer_Murata_78250JC.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_transformer_smd_transformer_murata_78250jc
+  oomp_key_full: oomp_footprint_kicad_transformer_smd_transformer_murata_78250jc
   oomp_key_simple: kicad_transformer_smd_transformer_murata_78250jc
   owner: kicad
   repo:

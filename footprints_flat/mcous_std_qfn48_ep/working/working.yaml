@@ -17,9 +17,18 @@
   oomp:
     footprint_name: qfn48_ep
     library_name: _std
+    md5: e54e8e23c9a544667d71dd98cd5af0f5
+    md5_10: e54e8e23c9
+    md5_5: e54e8
+    md5_6: e54e8e
+    oomp_key: oomp_mcous_std_qfn48_ep
+    oomp_key_extra: oomp_footprint_mcous_std_qfn48_ep
+    oomp_key_full: oomp_footprint_mcous_std_qfn48_ep_e54e8e
+    oomp_key_simple: mcous_std_qfn48_ep
     original_filename: kicad-lib/footprints/_std.pretty/QFN48-EP.kicad_mod
     owner_name: mcous
   oomp_key: oomp_mcous_std_qfn48_ep
+  oomp_key_full: oomp_footprint_mcous_std_qfn48_ep
   oomp_key_simple: mcous_std_qfn48_ep
   owner: mcous
   repo:

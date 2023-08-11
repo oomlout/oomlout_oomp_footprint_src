@@ -17,9 +17,18 @@
   oomp:
     footprint_name: fairchild_mlp_6
     library_name: manuf
+    md5: ecb1fe6b4f50395fa49d148bd5f2b9d1
+    md5_10: ecb1fe6b4f
+    md5_5: ecb1f
+    md5_6: ecb1fe
+    oomp_key: oomp_cpavlina_manuf_fairchild_mlp_6
+    oomp_key_extra: oomp_footprint_cpavlina_manuf_fairchild_mlp_6
+    oomp_key_full: oomp_footprint_cpavlina_manuf_fairchild_mlp_6_ecb1fe
+    oomp_key_simple: cpavlina_manuf_fairchild_mlp_6
     original_filename: kicad-pcblib/manuf.pretty/FAIRCHILD-MLP-6.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_manuf_fairchild_mlp_6
+  oomp_key_full: oomp_footprint_cpavlina_manuf_fairchild_mlp_6
   oomp_key_simple: cpavlina_manuf_fairchild_mlp_6
   owner: cpavlina
   repo:

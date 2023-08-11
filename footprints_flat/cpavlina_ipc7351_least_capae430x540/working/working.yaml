@@ -17,9 +17,18 @@
   oomp:
     footprint_name: capae430x540
     library_name: ipc7351_least
+    md5: 079b4aad19e6f71a38ee9b2af6e0ff89
+    md5_10: 079b4aad19
+    md5_5: 079b4
+    md5_6: 079b4a
+    oomp_key: oomp_cpavlina_ipc7351_least_capae430x540
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_least_capae430x540
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_least_capae430x540_079b4a
+    oomp_key_simple: cpavlina_ipc7351_least_capae430x540
     original_filename: kicad-pcblib/IPC7351-Least.pretty/CAPAE430X540.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_least_capae430x540
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_least_capae430x540
   oomp_key_simple: cpavlina_ipc7351_least_capae430x540
   owner: cpavlina
   repo:

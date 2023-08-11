@@ -17,9 +17,18 @@
   oomp:
     footprint_name: hdmi_mini_female_2001_1_2_21_00_bk
     library_name: digikey_footprints
+    md5: 1ae994ce6429ebe4269498f07cd607fb
+    md5_10: 1ae994ce64
+    md5_5: 1ae99
+    md5_6: 1ae994
+    oomp_key: oomp_digikey_digikey_footprints_hdmi_mini_female_2001_1_2_21_00_bk
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_hdmi_mini_female_2001_1_2_21_00_bk
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_hdmi_mini_female_2001_1_2_21_00_bk_1ae994
+    oomp_key_simple: digikey_digikey_footprints_hdmi_mini_female_2001_1_2_21_00_bk
     original_filename: digikey-kicad-library/digikey-footprints.pretty/HDMI_Mini_Female_2001-1-2-21-00-BK.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_hdmi_mini_female_2001_1_2_21_00_bk
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_hdmi_mini_female_2001_1_2_21_00_bk
   oomp_key_simple: digikey_digikey_footprints_hdmi_mini_female_2001_1_2_21_00_bk
   owner: digikey
   repo:

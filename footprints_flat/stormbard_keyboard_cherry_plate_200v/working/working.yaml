@@ -17,9 +17,18 @@
   oomp:
     footprint_name: cherry_plate_200v
     library_name: keyboard
+    md5: 9c5827d19de94a494acbe390a21761e0
+    md5_10: 9c5827d19d
+    md5_5: 9c582
+    md5_6: 9c5827
+    oomp_key: oomp_stormbard_keyboard_cherry_plate_200v
+    oomp_key_extra: oomp_footprint_stormbard_keyboard_cherry_plate_200v
+    oomp_key_full: oomp_footprint_stormbard_keyboard_cherry_plate_200v_9c5827
+    oomp_key_simple: stormbard_keyboard_cherry_plate_200v
     original_filename: Keyboard.pretty/CHERRY_PLATE_200V.kicad_mod
     owner_name: stormbard
   oomp_key: oomp_stormbard_keyboard_cherry_plate_200v
+  oomp_key_full: oomp_footprint_stormbard_keyboard_cherry_plate_200v
   oomp_key_simple: stormbard_keyboard_cherry_plate_200v
   owner: stormbard
   repo:

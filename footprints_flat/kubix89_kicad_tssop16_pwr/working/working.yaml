@@ -17,9 +17,18 @@
   oomp:
     footprint_name: tssop16_pwr
     library_name: kicad
+    md5: 1d5b82dc08b6d33de53269b3e0cdc726
+    md5_10: 1d5b82dc08
+    md5_5: 1d5b8
+    md5_6: 1d5b82
+    oomp_key: oomp_kubix89_kicad_tssop16_pwr
+    oomp_key_extra: oomp_footprint_kubix89_kicad_tssop16_pwr
+    oomp_key_full: oomp_footprint_kubix89_kicad_tssop16_pwr_1d5b82
+    oomp_key_simple: kubix89_kicad_tssop16_pwr
     original_filename: kiCAD.pretty/TSSOP16-PWR.kicad_mod
     owner_name: kubix89
   oomp_key: oomp_kubix89_kicad_tssop16_pwr
+  oomp_key_full: oomp_footprint_kubix89_kicad_tssop16_pwr
   oomp_key_simple: kubix89_kicad_tssop16_pwr
   owner: kubiX89
   repo:

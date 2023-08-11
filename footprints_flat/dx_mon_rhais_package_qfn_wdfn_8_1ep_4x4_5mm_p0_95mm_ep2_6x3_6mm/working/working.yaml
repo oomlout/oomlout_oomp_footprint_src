@@ -17,9 +17,18 @@
   oomp:
     footprint_name: wdfn_8_1ep_4x4_5mm_p0_95mm_ep2_6x3_6mm
     library_name: rhais_package_qfn
+    md5: b531f2e20597c39e58ed41b1f46e58e6
+    md5_10: b531f2e205
+    md5_5: b531f
+    md5_6: b531f2
+    oomp_key: oomp_dx_mon_rhais_package_qfn_wdfn_8_1ep_4x4_5mm_p0_95mm_ep2_6x3_6mm
+    oomp_key_extra: oomp_footprint_dx_mon_rhais_package_qfn_wdfn_8_1ep_4x4_5mm_p0_95mm_ep2_6x3_6mm
+    oomp_key_full: oomp_footprint_dx_mon_rhais_package_qfn_wdfn_8_1ep_4x4_5mm_p0_95mm_ep2_6x3_6mm_b531f2
+    oomp_key_simple: dx_mon_rhais_package_qfn_wdfn_8_1ep_4x4_5mm_p0_95mm_ep2_6x3_6mm
     original_filename: rhais_package-qfn.pretty/WDFN-8-1EP_4x4.5mm_P0.95mm_EP2.6x3.6mm.kicad_mod
     owner_name: dx_mon
   oomp_key: oomp_dx_mon_rhais_package_qfn_wdfn_8_1ep_4x4_5mm_p0_95mm_ep2_6x3_6mm
+  oomp_key_full: oomp_footprint_dx_mon_rhais_package_qfn_wdfn_8_1ep_4x4_5mm_p0_95mm_ep2_6x3_6mm
   oomp_key_simple: dx_mon_rhais_package_qfn_wdfn_8_1ep_4x4_5mm_p0_95mm_ep2_6x3_6mm
   owner: DX-MON
   repo:

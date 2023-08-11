@@ -17,9 +17,18 @@
   oomp:
     footprint_name: transformer_myrra_ef20_7408x
     library_name: transformer_tht
+    md5: 4505a782b8b66ae9cd5cbd5f6c102dda
+    md5_10: 4505a782b8
+    md5_5: 4505a
+    md5_6: 4505a7
+    oomp_key: oomp_kicad_transformer_tht_transformer_myrra_ef20_7408x
+    oomp_key_extra: oomp_footprint_kicad_transformer_tht_transformer_myrra_ef20_7408x
+    oomp_key_full: oomp_footprint_kicad_transformer_tht_transformer_myrra_ef20_7408x_4505a7
+    oomp_key_simple: kicad_transformer_tht_transformer_myrra_ef20_7408x
     original_filename: libraries/kicad-footprints/Transformer_THT.pretty/Transformer_Myrra_EF20_7408x.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_transformer_tht_transformer_myrra_ef20_7408x
+  oomp_key_full: oomp_footprint_kicad_transformer_tht_transformer_myrra_ef20_7408x
   oomp_key_simple: kicad_transformer_tht_transformer_myrra_ef20_7408x
   owner: kicad
   repo:

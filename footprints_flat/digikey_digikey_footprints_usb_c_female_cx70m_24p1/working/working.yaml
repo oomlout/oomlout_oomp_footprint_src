@@ -17,9 +17,18 @@
   oomp:
     footprint_name: usb_c_female_cx70m_24p1
     library_name: digikey_footprints
+    md5: 5c2eeb8fb15afcf9f3f3b80c4a527869
+    md5_10: 5c2eeb8fb1
+    md5_5: 5c2ee
+    md5_6: 5c2eeb
+    oomp_key: oomp_digikey_digikey_footprints_usb_c_female_cx70m_24p1
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_usb_c_female_cx70m_24p1
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_usb_c_female_cx70m_24p1_5c2eeb
+    oomp_key_simple: digikey_digikey_footprints_usb_c_female_cx70m_24p1
     original_filename: digikey-kicad-library/digikey-footprints.pretty/USB-C_Female_CX70M-24P1.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_usb_c_female_cx70m_24p1
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_usb_c_female_cx70m_24p1
   oomp_key_simple: digikey_digikey_footprints_usb_c_female_cx70m_24p1
   owner: digikey
   repo:

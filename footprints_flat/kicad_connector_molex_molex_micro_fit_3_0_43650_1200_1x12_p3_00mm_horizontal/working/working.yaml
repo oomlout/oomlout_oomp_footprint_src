@@ -19,9 +19,18 @@
   oomp:
     footprint_name: molex_micro_fit_3_0_43650_1200_1x12_p3_00mm_horizontal
     library_name: connector_molex
+    md5: 0097d703f7f7be2be9a823f87d423f7f
+    md5_10: 0097d703f7
+    md5_5: 0097d
+    md5_6: 0097d7
+    oomp_key: oomp_kicad_connector_molex_molex_micro_fit_3_0_43650_1200_1x12_p3_00mm_horizontal
+    oomp_key_extra: oomp_footprint_kicad_connector_molex_molex_micro_fit_3_0_43650_1200_1x12_p3_00mm_horizontal
+    oomp_key_full: oomp_footprint_kicad_connector_molex_molex_micro_fit_3_0_43650_1200_1x12_p3_00mm_horizontal_0097d7
+    oomp_key_simple: kicad_connector_molex_molex_micro_fit_3_0_43650_1200_1x12_p3_00mm_horizontal
     original_filename: libraries/kicad-footprints/Connector_Molex.pretty/Molex_Micro-Fit_3.0_43650-1200_1x12_P3.00mm_Horizontal.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_molex_molex_micro_fit_3_0_43650_1200_1x12_p3_00mm_horizontal
+  oomp_key_full: oomp_footprint_kicad_connector_molex_molex_micro_fit_3_0_43650_1200_1x12_p3_00mm_horizontal
   oomp_key_simple: kicad_connector_molex_molex_micro_fit_3_0_43650_1200_1x12_p3_00mm_horizontal
   owner: kicad
   repo:

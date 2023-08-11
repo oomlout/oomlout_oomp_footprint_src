@@ -19,9 +19,18 @@
   oomp:
     footprint_name: luminus_mp3030
     library_name: manuf
+    md5: b92e4995e66682f69791ee014a4d5edd
+    md5_10: b92e4995e6
+    md5_5: b92e4
+    md5_6: b92e49
+    oomp_key: oomp_iangitpers_manuf_luminus_mp3030
+    oomp_key_extra: oomp_footprint_iangitpers_manuf_luminus_mp3030
+    oomp_key_full: oomp_footprint_iangitpers_manuf_luminus_mp3030_b92e49
+    oomp_key_simple: iangitpers_manuf_luminus_mp3030
     original_filename: 4a/manuf.pretty/LUMINUS-MP3030.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_manuf_luminus_mp3030
+  oomp_key_full: oomp_footprint_iangitpers_manuf_luminus_mp3030
   oomp_key_simple: iangitpers_manuf_luminus_mp3030
   owner: Iangitpers
   repo:

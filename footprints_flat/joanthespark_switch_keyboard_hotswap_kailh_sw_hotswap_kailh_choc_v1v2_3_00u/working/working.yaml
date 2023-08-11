@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sw_hotswap_kailh_choc_v1v2_3_00u
     library_name: switch_keyboard_hotswap_kailh
+    md5: b7c2b251cf8d2f502afc7ea0a836c215
+    md5_10: b7c2b251cf
+    md5_5: b7c2b
+    md5_6: b7c2b2
+    oomp_key: oomp_joanthespark_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_choc_v1v2_3_00u
+    oomp_key_extra: oomp_footprint_joanthespark_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_choc_v1v2_3_00u
+    oomp_key_full: oomp_footprint_joanthespark_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_choc_v1v2_3_00u_b7c2b2
+    oomp_key_simple: joanthespark_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_choc_v1v2_3_00u
     original_filename: KiCAD/6.0/3rdparty/footprints/com_github_perigoso_keyswitch-kicad-library/Switch_Keyboard_Hotswap_Kailh.pretty/SW_Hotswap_Kailh_Choc_V1V2_3.00u.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_choc_v1v2_3_00u
+  oomp_key_full: oomp_footprint_joanthespark_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_choc_v1v2_3_00u
   oomp_key_simple: joanthespark_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_choc_v1v2_3_00u
   owner: JoanTheSpark
   repo:

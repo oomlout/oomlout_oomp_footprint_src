@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sil_5
     library_name: sil_headers
+    md5: 0001f973615594a24ee8916f0534137c
+    md5_10: 0001f97361
+    md5_5: 0001f
+    md5_6: 0001f9
+    oomp_key: oomp_madworm_sil_headers_sil_5
+    oomp_key_extra: oomp_footprint_madworm_sil_headers_sil_5
+    oomp_key_full: oomp_footprint_madworm_sil_headers_sil_5_0001f9
+    oomp_key_simple: madworm_sil_headers_sil_5
     original_filename: SIL-Headers.pretty/SIL-5.kicad_mod
     owner_name: madworm
   oomp_key: oomp_madworm_sil_headers_sil_5
+  oomp_key_full: oomp_footprint_madworm_sil_headers_sil_5
   oomp_key_simple: madworm_sil_headers_sil_5
   owner: madworm
   repo:

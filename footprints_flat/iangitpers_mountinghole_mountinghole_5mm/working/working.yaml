@@ -19,9 +19,18 @@
   oomp:
     footprint_name: mountinghole_5mm
     library_name: mountinghole
+    md5: aa74ed8e6d5d28e155924ed5586694e5
+    md5_10: aa74ed8e6d
+    md5_5: aa74e
+    md5_6: aa74ed
+    oomp_key: oomp_iangitpers_mountinghole_mountinghole_5mm
+    oomp_key_extra: oomp_footprint_iangitpers_mountinghole_mountinghole_5mm
+    oomp_key_full: oomp_footprint_iangitpers_mountinghole_mountinghole_5mm_aa74ed
+    oomp_key_simple: iangitpers_mountinghole_mountinghole_5mm
     original_filename: 4a/MountingHole.pretty/MountingHole_5mm.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_mountinghole_mountinghole_5mm
+  oomp_key_full: oomp_footprint_iangitpers_mountinghole_mountinghole_5mm
   oomp_key_simple: iangitpers_mountinghole_mountinghole_5mm
   owner: Iangitpers
   repo:

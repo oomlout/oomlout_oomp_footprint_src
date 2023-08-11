@@ -17,9 +17,18 @@
   oomp:
     footprint_name: pts540series
     library_name: kicadfootprint
+    md5: 007b16f936259f0201244e5b16695e1c
+    md5_10: 007b16f936
+    md5_5: 007b1
+    md5_6: 007b16
+    oomp_key: oomp_vivitainc_kicadfootprint_pts540series
+    oomp_key_extra: oomp_footprint_vivitainc_kicadfootprint_pts540series
+    oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_pts540series_007b16
+    oomp_key_simple: vivitainc_kicadfootprint_pts540series
     original_filename: KiCADfootprint.pretty/PTS540series.kicad_mod
     owner_name: vivitainc
   oomp_key: oomp_vivitainc_kicadfootprint_pts540series
+  oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_pts540series
   oomp_key_simple: vivitainc_kicadfootprint_pts540series
   owner: vivitainc
   repo:

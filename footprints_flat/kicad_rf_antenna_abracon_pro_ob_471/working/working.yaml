@@ -17,9 +17,18 @@
   oomp:
     footprint_name: abracon_pro_ob_471
     library_name: rf_antenna
+    md5: cbc92f3a98a04d4e4ebff694bc550889
+    md5_10: cbc92f3a98
+    md5_5: cbc92
+    md5_6: cbc92f
+    oomp_key: oomp_kicad_rf_antenna_abracon_pro_ob_471
+    oomp_key_extra: oomp_footprint_kicad_rf_antenna_abracon_pro_ob_471
+    oomp_key_full: oomp_footprint_kicad_rf_antenna_abracon_pro_ob_471_cbc92f
+    oomp_key_simple: kicad_rf_antenna_abracon_pro_ob_471
     original_filename: libraries/kicad-footprints/RF_Antenna.pretty/Abracon_PRO-OB-471.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_rf_antenna_abracon_pro_ob_471
+  oomp_key_full: oomp_footprint_kicad_rf_antenna_abracon_pro_ob_471
   oomp_key_simple: kicad_rf_antenna_abracon_pro_ob_471
   owner: kicad
   repo:

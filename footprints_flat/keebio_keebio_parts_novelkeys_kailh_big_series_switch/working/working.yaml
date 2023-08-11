@@ -17,9 +17,18 @@
   oomp:
     footprint_name: novelkeys_kailh_big_series_switch
     library_name: keebio_parts
+    md5: 0cb3747aee32615a593a2241b4ae08e2
+    md5_10: 0cb3747aee
+    md5_5: 0cb37
+    md5_6: 0cb374
+    oomp_key: oomp_keebio_keebio_parts_novelkeys_kailh_big_series_switch
+    oomp_key_extra: oomp_footprint_keebio_keebio_parts_novelkeys_kailh_big_series_switch
+    oomp_key_full: oomp_footprint_keebio_keebio_parts_novelkeys_kailh_big_series_switch_0cb374
+    oomp_key_simple: keebio_keebio_parts_novelkeys_kailh_big_series_switch
     original_filename: Keebio-Parts.pretty/NovelKeys_Kailh_Big_Series_Switch.kicad_mod
     owner_name: keebio
   oomp_key: oomp_keebio_keebio_parts_novelkeys_kailh_big_series_switch
+  oomp_key_full: oomp_footprint_keebio_keebio_parts_novelkeys_kailh_big_series_switch
   oomp_key_simple: keebio_keebio_parts_novelkeys_kailh_big_series_switch
   owner: keebio
   repo:

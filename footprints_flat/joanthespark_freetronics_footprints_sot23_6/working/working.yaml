@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sot23_6
     library_name: freetronics_footprints
+    md5: 26dcf73f82ef284fa61caa152aa7c590
+    md5_10: 26dcf73f82
+    md5_5: 26dcf
+    md5_6: 26dcf7
+    oomp_key: oomp_joanthespark_freetronics_footprints_sot23_6
+    oomp_key_extra: oomp_footprint_joanthespark_freetronics_footprints_sot23_6
+    oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_sot23_6_26dcf7
+    oomp_key_simple: joanthespark_freetronics_footprints_sot23_6
     original_filename: KiCAD/mods/freetronics_footprints.pretty/SOT23-6.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_freetronics_footprints_sot23_6
+  oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_sot23_6
   oomp_key_simple: joanthespark_freetronics_footprints_sot23_6
   owner: JoanTheSpark
   repo:

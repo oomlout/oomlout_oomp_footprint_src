@@ -17,9 +17,18 @@
   oomp:
     footprint_name: resmelf7028
     library_name: ipc7351_most
+    md5: f174c18faadbcd827e7ba276b0c30b73
+    md5_10: f174c18faa
+    md5_5: f174c
+    md5_6: f174c1
+    oomp_key: oomp_cpavlina_ipc7351_most_resmelf7028
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_most_resmelf7028
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_most_resmelf7028_f174c1
+    oomp_key_simple: cpavlina_ipc7351_most_resmelf7028
     original_filename: kicad-pcblib/IPC7351-Most.pretty/RESMELF7028.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_most_resmelf7028
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_most_resmelf7028
   oomp_key_simple: cpavlina_ipc7351_most_resmelf7028
   owner: cpavlina
   repo:

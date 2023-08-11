@@ -17,9 +17,18 @@
   oomp:
     footprint_name: via_0_6mm
     library_name: keebio_parts
+    md5: 9b400bc8e787118e79fe67e04ab254c1
+    md5_10: 9b400bc8e7
+    md5_5: 9b400
+    md5_6: 9b400b
+    oomp_key: oomp_keebio_keebio_parts_via_0_6mm
+    oomp_key_extra: oomp_footprint_keebio_keebio_parts_via_0_6mm
+    oomp_key_full: oomp_footprint_keebio_keebio_parts_via_0_6mm_9b400b
+    oomp_key_simple: keebio_keebio_parts_via_0_6mm
     original_filename: Keebio-Parts.pretty/VIA-0.6mm.kicad_mod
     owner_name: keebio
   oomp_key: oomp_keebio_keebio_parts_via_0_6mm
+  oomp_key_full: oomp_footprint_keebio_keebio_parts_via_0_6mm
   oomp_key_simple: keebio_keebio_parts_via_0_6mm
   owner: keebio
   repo:

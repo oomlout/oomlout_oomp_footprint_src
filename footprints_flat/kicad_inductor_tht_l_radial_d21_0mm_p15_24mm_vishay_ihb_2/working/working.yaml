@@ -18,9 +18,18 @@
   oomp:
     footprint_name: l_radial_d21_0mm_p15_24mm_vishay_ihb_2
     library_name: inductor_tht
+    md5: 6ad02511a0c76ae3fdac03662003f430
+    md5_10: 6ad02511a0
+    md5_5: 6ad02
+    md5_6: 6ad025
+    oomp_key: oomp_kicad_inductor_tht_l_radial_d21_0mm_p15_24mm_vishay_ihb_2
+    oomp_key_extra: oomp_footprint_kicad_inductor_tht_l_radial_d21_0mm_p15_24mm_vishay_ihb_2
+    oomp_key_full: oomp_footprint_kicad_inductor_tht_l_radial_d21_0mm_p15_24mm_vishay_ihb_2_6ad025
+    oomp_key_simple: kicad_inductor_tht_l_radial_d21_0mm_p15_24mm_vishay_ihb_2
     original_filename: libraries/kicad-footprints/Inductor_THT.pretty/L_Radial_D21.0mm_P15.24mm_Vishay_IHB-2.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_inductor_tht_l_radial_d21_0mm_p15_24mm_vishay_ihb_2
+  oomp_key_full: oomp_footprint_kicad_inductor_tht_l_radial_d21_0mm_p15_24mm_vishay_ihb_2
   oomp_key_simple: kicad_inductor_tht_l_radial_d21_0mm_p15_24mm_vishay_ihb_2
   owner: kicad
   repo:

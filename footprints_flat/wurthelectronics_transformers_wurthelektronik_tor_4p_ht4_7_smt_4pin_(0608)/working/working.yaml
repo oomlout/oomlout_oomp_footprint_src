@@ -17,9 +17,18 @@
   oomp:
     footprint_name: tor_4p_ht4_7_smt_4pin_(0608)
     library_name: transformers_wurthelektronik
+    md5: afcba72cbbd5913f266f3cb04e65297b
+    md5_10: afcba72cbb
+    md5_5: afcba
+    md5_6: afcba7
+    oomp_key: oomp_wurthelectronics_transformers_wurthelektronik_tor_4p_ht4_7_smt_4pin_(0608)
+    oomp_key_extra: oomp_footprint_wurthelectronics_transformers_wurthelektronik_tor_4p_ht4_7_smt_4pin_(0608)
+    oomp_key_full: oomp_footprint_wurthelectronics_transformers_wurthelektronik_tor_4p_ht4_7_smt_4pin_(0608)_afcba7
+    oomp_key_simple: wurthelectronics_transformers_wurthelektronik_tor_4p_ht4_7_smt_4pin_(0608)
     original_filename: Transformers_WurthElektronik.pretty/TOR-4P-HT4.7_SMT_4PIN_(0608).kicad_mod
     owner_name: wurthelectronics
   oomp_key: oomp_wurthelectronics_transformers_wurthelektronik_tor_4p_ht4_7_smt_4pin_(0608)
+  oomp_key_full: oomp_footprint_wurthelectronics_transformers_wurthelektronik_tor_4p_ht4_7_smt_4pin_(0608)
   oomp_key_simple: wurthelectronics_transformers_wurthelektronik_tor_4p_ht4_7_smt_4pin_(0608)
   owner: WurthElectronics
   repo:

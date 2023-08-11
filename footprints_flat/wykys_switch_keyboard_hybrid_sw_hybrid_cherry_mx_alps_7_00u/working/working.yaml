@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sw_hybrid_cherry_mx_alps_7_00u
     library_name: switch_keyboard_hybrid
+    md5: 8cc5c276e7c4c389bc88f903ed0050ec
+    md5_10: 8cc5c276e7
+    md5_5: 8cc5c
+    md5_6: 8cc5c2
+    oomp_key: oomp_wykys_switch_keyboard_hybrid_sw_hybrid_cherry_mx_alps_7_00u
+    oomp_key_extra: oomp_footprint_wykys_switch_keyboard_hybrid_sw_hybrid_cherry_mx_alps_7_00u
+    oomp_key_full: oomp_footprint_wykys_switch_keyboard_hybrid_sw_hybrid_cherry_mx_alps_7_00u_8cc5c2
+    oomp_key_simple: wykys_switch_keyboard_hybrid_sw_hybrid_cherry_mx_alps_7_00u
     original_filename: kicad/6.0/3rdparty/footprints/com_github_perigoso_keyswitch-kicad-library/Switch_Keyboard_Hybrid.pretty/SW_Hybrid_Cherry_MX_Alps_7.00u.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_switch_keyboard_hybrid_sw_hybrid_cherry_mx_alps_7_00u
+  oomp_key_full: oomp_footprint_wykys_switch_keyboard_hybrid_sw_hybrid_cherry_mx_alps_7_00u
   oomp_key_simple: wykys_switch_keyboard_hybrid_sw_hybrid_cherry_mx_alps_7_00u
   owner: wykys
   repo:

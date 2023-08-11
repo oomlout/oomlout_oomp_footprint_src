@@ -17,9 +17,18 @@
   oomp:
     footprint_name: onsemi_sod323_477
     library_name: primarypoints
+    md5: 1aed61c3bdc0004ca5599d820c97614c
+    md5_10: 1aed61c3bd
+    md5_5: 1aed6
+    md5_6: 1aed61
+    oomp_key: oomp_zanekaminski_primarypoints_onsemi_sod323_477
+    oomp_key_extra: oomp_footprint_zanekaminski_primarypoints_onsemi_sod323_477
+    oomp_key_full: oomp_footprint_zanekaminski_primarypoints_onsemi_sod323_477_1aed61
+    oomp_key_simple: zanekaminski_primarypoints_onsemi_sod323_477
     original_filename: primarypoints.pretty/ONSemi_SOD323_477.kicad_mod
     owner_name: zanekaminski
   oomp_key: oomp_zanekaminski_primarypoints_onsemi_sod323_477
+  oomp_key_full: oomp_footprint_zanekaminski_primarypoints_onsemi_sod323_477
   oomp_key_simple: zanekaminski_primarypoints_onsemi_sod323_477
   owner: ZaneKaminski
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ind_srn8040
     library_name: freetronics_footprints
+    md5: be59a4083c8339f22eb03b2eea85b980
+    md5_10: be59a4083c
+    md5_5: be59a
+    md5_6: be59a4
+    oomp_key: oomp_joanthespark_freetronics_footprints_ind_srn8040
+    oomp_key_extra: oomp_footprint_joanthespark_freetronics_footprints_ind_srn8040
+    oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_ind_srn8040_be59a4
+    oomp_key_simple: joanthespark_freetronics_footprints_ind_srn8040
     original_filename: KiCAD/mods/freetronics_footprints.pretty/IND_SRN8040.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_freetronics_footprints_ind_srn8040
+  oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_ind_srn8040
   oomp_key_simple: joanthespark_freetronics_footprints_ind_srn8040
   owner: JoanTheSpark
   repo:

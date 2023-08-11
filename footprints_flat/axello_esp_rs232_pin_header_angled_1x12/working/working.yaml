@@ -17,9 +17,18 @@
   oomp:
     footprint_name: pin_header_angled_1x12
     library_name: esp_rs232
+    md5: d8d0220e90915f90e50c073af60cc275
+    md5_10: d8d0220e90
+    md5_5: d8d02
+    md5_6: d8d022
+    oomp_key: oomp_axello_esp_rs232_pin_header_angled_1x12
+    oomp_key_extra: oomp_footprint_axello_esp_rs232_pin_header_angled_1x12
+    oomp_key_full: oomp_footprint_axello_esp_rs232_pin_header_angled_1x12_d8d022
+    oomp_key_simple: axello_esp_rs232_pin_header_angled_1x12
     original_filename: kicad/mods/ESP-RS232.pretty/Pin_Header_Angled_1x12.kicad_mod
     owner_name: axello
   oomp_key: oomp_axello_esp_rs232_pin_header_angled_1x12
+  oomp_key_full: oomp_footprint_axello_esp_rs232_pin_header_angled_1x12
   oomp_key_simple: axello_esp_rs232_pin_header_angled_1x12
   owner: axello
   repo:

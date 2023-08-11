@@ -17,9 +17,18 @@
   oomp:
     footprint_name: keystone_2477
     library_name: andnxor_kicad
+    md5: 98da3beeee6bcc7f814769fb24612be8
+    md5_10: 98da3beeee
+    md5_5: 98da3
+    md5_6: 98da3b
+    oomp_key: oomp_andnxor_andnxor_kicad_keystone_2477
+    oomp_key_extra: oomp_footprint_andnxor_andnxor_kicad_keystone_2477
+    oomp_key_full: oomp_footprint_andnxor_andnxor_kicad_keystone_2477_98da3b
+    oomp_key_simple: andnxor_andnxor_kicad_keystone_2477
     original_filename: ANDnXOR-Kicad.pretty/Keystone_2477.kicad_mod
     owner_name: andnxor
   oomp_key: oomp_andnxor_andnxor_kicad_keystone_2477
+  oomp_key_full: oomp_footprint_andnxor_andnxor_kicad_keystone_2477
   oomp_key_simple: andnxor_andnxor_kicad_keystone_2477
   owner: ANDnXOR
   repo:

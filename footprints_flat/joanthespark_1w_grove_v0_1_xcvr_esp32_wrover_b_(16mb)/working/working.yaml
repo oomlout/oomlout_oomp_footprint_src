@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xcvr_esp32_wrover_b_(16mb)
     library_name: 1w_grove_v0_1
+    md5: 9fe3216d06c6e5921f5c950b28dfff85
+    md5_10: 9fe3216d06
+    md5_5: 9fe32
+    md5_6: 9fe321
+    oomp_key: oomp_joanthespark_1w_grove_v0_1_xcvr_esp32_wrover_b_(16mb)
+    oomp_key_extra: oomp_footprint_joanthespark_1w_grove_v0_1_xcvr_esp32_wrover_b_(16mb)
+    oomp_key_full: oomp_footprint_joanthespark_1w_grove_v0_1_xcvr_esp32_wrover_b_(16mb)_9fe321
+    oomp_key_simple: joanthespark_1w_grove_v0_1_xcvr_esp32_wrover_b_(16mb)
     original_filename: KiCAD/6.0/projects/1w-grove-v0.1/1w-grove-v0.1.pretty/XCVR_ESP32-WROVER-B_(16MB).kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_1w_grove_v0_1_xcvr_esp32_wrover_b_(16mb)
+  oomp_key_full: oomp_footprint_joanthespark_1w_grove_v0_1_xcvr_esp32_wrover_b_(16mb)
   oomp_key_simple: joanthespark_1w_grove_v0_1_xcvr_esp32_wrover_b_(16mb)
   owner: JoanTheSpark
   repo:

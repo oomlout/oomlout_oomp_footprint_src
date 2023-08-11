@@ -17,9 +17,18 @@
   oomp:
     footprint_name: l_10_4x10_4_h4_8
     library_name: inductor_smd
+    md5: 1a02323e8a726bc551fc98ef3ae87905
+    md5_10: 1a02323e8a
+    md5_5: 1a023
+    md5_6: 1a0232
+    oomp_key: oomp_kicad_inductor_smd_l_10_4x10_4_h4_8
+    oomp_key_extra: oomp_footprint_kicad_inductor_smd_l_10_4x10_4_h4_8
+    oomp_key_full: oomp_footprint_kicad_inductor_smd_l_10_4x10_4_h4_8_1a0232
+    oomp_key_simple: kicad_inductor_smd_l_10_4x10_4_h4_8
     original_filename: libraries/kicad-footprints/Inductor_SMD.pretty/L_10.4x10.4_H4.8.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_inductor_smd_l_10_4x10_4_h4_8
+  oomp_key_full: oomp_footprint_kicad_inductor_smd_l_10_4x10_4_h4_8
   oomp_key_simple: kicad_inductor_smd_l_10_4x10_4_h4_8
   owner: kicad
   repo:

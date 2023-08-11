@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ublox_zed
     library_name: rf_gps
+    md5: abf1779747b0d886e9a0b71efa884073
+    md5_10: abf1779747
+    md5_5: abf17
+    md5_6: abf177
+    oomp_key: oomp_kicad_rf_gps_ublox_zed
+    oomp_key_extra: oomp_footprint_kicad_rf_gps_ublox_zed
+    oomp_key_full: oomp_footprint_kicad_rf_gps_ublox_zed_abf177
+    oomp_key_simple: kicad_rf_gps_ublox_zed
     original_filename: libraries/kicad-footprints/RF_GPS.pretty/ublox_ZED.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_rf_gps_ublox_zed
+  oomp_key_full: oomp_footprint_kicad_rf_gps_ublox_zed
   oomp_key_simple: kicad_rf_gps_ublox_zed
   owner: kicad
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sm05b_pass
     library_name: agg
+    md5: 53c3632af378f3554fb3a286def9b63c
+    md5_10: 53c3632af3
+    md5_5: 53c36
+    md5_6: 53c363
+    oomp_key: oomp_adamgreig_agg_sm05b_pass
+    oomp_key_extra: oomp_footprint_adamgreig_agg_sm05b_pass
+    oomp_key_full: oomp_footprint_adamgreig_agg_sm05b_pass_53c363
+    oomp_key_simple: adamgreig_agg_sm05b_pass
     original_filename: agg-kicad/agg.pretty/SM05B-PASS.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_sm05b_pass
+  oomp_key_full: oomp_footprint_adamgreig_agg_sm05b_pass
   oomp_key_simple: adamgreig_agg_sm05b_pass
   owner: adamgreig
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: texas_r_puqfn_n10
     library_name: manuf
+    md5: ed76b8b97037e6eb0e31f7438a1767df
+    md5_10: ed76b8b970
+    md5_5: ed76b
+    md5_6: ed76b8
+    oomp_key: oomp_cpavlina_manuf_texas_r_puqfn_n10
+    oomp_key_extra: oomp_footprint_cpavlina_manuf_texas_r_puqfn_n10
+    oomp_key_full: oomp_footprint_cpavlina_manuf_texas_r_puqfn_n10_ed76b8
+    oomp_key_simple: cpavlina_manuf_texas_r_puqfn_n10
     original_filename: kicad-pcblib/manuf.pretty/TEXAS-R-PUQFN-N10.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_manuf_texas_r_puqfn_n10
+  oomp_key_full: oomp_footprint_cpavlina_manuf_texas_r_puqfn_n10
   oomp_key_simple: cpavlina_manuf_texas_r_puqfn_n10
   owner: cpavlina
   repo:

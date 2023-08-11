@@ -18,9 +18,18 @@
   oomp:
     footprint_name: dip_42_w15_24mm_smdsocket_smallpads
     library_name: package_dip
+    md5: 62fd451e12327ef40134eae086baa9b4
+    md5_10: 62fd451e12
+    md5_5: 62fd4
+    md5_6: 62fd45
+    oomp_key: oomp_kicad_package_dip_dip_42_w15_24mm_smdsocket_smallpads
+    oomp_key_extra: oomp_footprint_kicad_package_dip_dip_42_w15_24mm_smdsocket_smallpads
+    oomp_key_full: oomp_footprint_kicad_package_dip_dip_42_w15_24mm_smdsocket_smallpads_62fd45
+    oomp_key_simple: kicad_package_dip_dip_42_w15_24mm_smdsocket_smallpads
     original_filename: libraries/kicad-footprints/Package_DIP.pretty/DIP-42_W15.24mm_SMDSocket_SmallPads.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_dip_dip_42_w15_24mm_smdsocket_smallpads
+  oomp_key_full: oomp_footprint_kicad_package_dip_dip_42_w15_24mm_smdsocket_smallpads
   oomp_key_simple: kicad_package_dip_dip_42_w15_24mm_smdsocket_smallpads
   owner: kicad
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sot353
     library_name: kit_dev_coldfire
+    md5: 9dd45cea185611707596cb01c8ae20b3
+    md5_10: 9dd45cea18
+    md5_5: 9dd45
+    md5_6: 9dd45c
+    oomp_key: oomp_wykys_kit_dev_coldfire_sot353
+    oomp_key_extra: oomp_footprint_wykys_kit_dev_coldfire_sot353
+    oomp_key_full: oomp_footprint_wykys_kit_dev_coldfire_sot353_9dd45c
+    oomp_key_simple: wykys_kit_dev_coldfire_sot353
     original_filename: kicad/demos/kit-dev-coldfire-xilinx_5213/kit-dev-coldfire.pretty/SOT353.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_kit_dev_coldfire_sot353
+  oomp_key_full: oomp_footprint_wykys_kit_dev_coldfire_sot353
   oomp_key_simple: wykys_kit_dev_coldfire_sot353
   owner: wykys
   repo:

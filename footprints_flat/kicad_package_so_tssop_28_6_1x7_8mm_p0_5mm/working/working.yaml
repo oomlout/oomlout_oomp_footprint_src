@@ -18,9 +18,18 @@
   oomp:
     footprint_name: tssop_28_6_1x7_8mm_p0_5mm
     library_name: package_so
+    md5: 6dde33f1d9fc71e17c2590854f923075
+    md5_10: 6dde33f1d9
+    md5_5: 6dde3
+    md5_6: 6dde33
+    oomp_key: oomp_kicad_package_so_tssop_28_6_1x7_8mm_p0_5mm
+    oomp_key_extra: oomp_footprint_kicad_package_so_tssop_28_6_1x7_8mm_p0_5mm
+    oomp_key_full: oomp_footprint_kicad_package_so_tssop_28_6_1x7_8mm_p0_5mm_6dde33
+    oomp_key_simple: kicad_package_so_tssop_28_6_1x7_8mm_p0_5mm
     original_filename: libraries/kicad-footprints/Package_SO.pretty/TSSOP-28_6.1x7.8mm_P0.5mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_so_tssop_28_6_1x7_8mm_p0_5mm
+  oomp_key_full: oomp_footprint_kicad_package_so_tssop_28_6_1x7_8mm_p0_5mm
   oomp_key_simple: kicad_package_so_tssop_28_6_1x7_8mm_p0_5mm
   owner: kicad
   repo:

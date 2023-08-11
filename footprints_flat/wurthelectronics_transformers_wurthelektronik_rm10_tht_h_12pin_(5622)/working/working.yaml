@@ -17,9 +17,18 @@
   oomp:
     footprint_name: rm10_tht_h_12pin_(5622)
     library_name: transformers_wurthelektronik
+    md5: 5e88231d433bae368880bd39428f7b67
+    md5_10: 5e88231d43
+    md5_5: 5e882
+    md5_6: 5e8823
+    oomp_key: oomp_wurthelectronics_transformers_wurthelektronik_rm10_tht_h_12pin_(5622)
+    oomp_key_extra: oomp_footprint_wurthelectronics_transformers_wurthelektronik_rm10_tht_h_12pin_(5622)
+    oomp_key_full: oomp_footprint_wurthelectronics_transformers_wurthelektronik_rm10_tht_h_12pin_(5622)_5e8823
+    oomp_key_simple: wurthelectronics_transformers_wurthelektronik_rm10_tht_h_12pin_(5622)
     original_filename: Transformers_WurthElektronik.pretty/RM10_THT_H_12PIN_(5622).kicad_mod
     owner_name: wurthelectronics
   oomp_key: oomp_wurthelectronics_transformers_wurthelektronik_rm10_tht_h_12pin_(5622)
+  oomp_key_full: oomp_footprint_wurthelectronics_transformers_wurthelektronik_rm10_tht_h_12pin_(5622)
   oomp_key_simple: wurthelectronics_transformers_wurthelektronik_rm10_tht_h_12pin_(5622)
   owner: WurthElectronics
   repo:

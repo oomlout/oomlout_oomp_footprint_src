@@ -17,9 +17,18 @@
   oomp:
     footprint_name: molex_kk_254p_09
     library_name: agg
+    md5: ff74ca1511b5ee1720ffd10dc8029810
+    md5_10: ff74ca1511
+    md5_5: ff74c
+    md5_6: ff74ca
+    oomp_key: oomp_adamgreig_agg_molex_kk_254p_09
+    oomp_key_extra: oomp_footprint_adamgreig_agg_molex_kk_254p_09
+    oomp_key_full: oomp_footprint_adamgreig_agg_molex_kk_254p_09_ff74ca
+    oomp_key_simple: adamgreig_agg_molex_kk_254p_09
     original_filename: agg-kicad/agg.pretty/MOLEX-KK-254P-09.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_molex_kk_254p_09
+  oomp_key_full: oomp_footprint_adamgreig_agg_molex_kk_254p_09
   oomp_key_simple: adamgreig_agg_molex_kk_254p_09
   owner: adamgreig
   repo:

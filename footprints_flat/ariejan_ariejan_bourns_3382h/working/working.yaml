@@ -17,9 +17,18 @@
   oomp:
     footprint_name: bourns_3382h
     library_name: ariejan
+    md5: 1c8c8b06d8befa3874304cc8ad34a259
+    md5_10: 1c8c8b06d8
+    md5_5: 1c8c8
+    md5_6: 1c8c8b
+    oomp_key: oomp_ariejan_ariejan_bourns_3382h
+    oomp_key_extra: oomp_footprint_ariejan_ariejan_bourns_3382h
+    oomp_key_full: oomp_footprint_ariejan_ariejan_bourns_3382h_1c8c8b
+    oomp_key_simple: ariejan_ariejan_bourns_3382h
     original_filename: ariejan.pretty/BOURNS-3382H.kicad_mod
     owner_name: ariejan
   oomp_key: oomp_ariejan_ariejan_bourns_3382h
+  oomp_key_full: oomp_footprint_ariejan_ariejan_bourns_3382h
   oomp_key_simple: ariejan_ariejan_bourns_3382h
   owner: ariejan
   repo:

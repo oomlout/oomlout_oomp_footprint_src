@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_kusbx_smt_bs1n
     library_name: xess
+    md5: 142bfc9794e2b7c2d1716195030d3f1c
+    md5_10: 142bfc9794
+    md5_5: 142bf
+    md5_6: 142bfc
+    oomp_key: oomp_xesscorp_xess_xess_kusbx_smt_bs1n
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_kusbx_smt_bs1n
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_kusbx_smt_bs1n_142bfc
+    oomp_key_simple: xesscorp_xess_xess_kusbx_smt_bs1n
     original_filename: xess.pretty/xess-KUSBX-SMT-BS1N.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_kusbx_smt_bs1n
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_kusbx_smt_bs1n
   oomp_key_simple: xesscorp_xess_xess_kusbx_smt_bs1n
   owner: xesscorp
   repo:

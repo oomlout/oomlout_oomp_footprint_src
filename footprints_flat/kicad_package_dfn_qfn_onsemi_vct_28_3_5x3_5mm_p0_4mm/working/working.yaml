@@ -18,9 +18,18 @@
   oomp:
     footprint_name: onsemi_vct_28_3_5x3_5mm_p0_4mm
     library_name: package_dfn_qfn
+    md5: 0e05a0107724466468c51e80192076fb
+    md5_10: 0e05a01077
+    md5_5: 0e05a
+    md5_6: 0e05a0
+    oomp_key: oomp_kicad_package_dfn_qfn_onsemi_vct_28_3_5x3_5mm_p0_4mm
+    oomp_key_extra: oomp_footprint_kicad_package_dfn_qfn_onsemi_vct_28_3_5x3_5mm_p0_4mm
+    oomp_key_full: oomp_footprint_kicad_package_dfn_qfn_onsemi_vct_28_3_5x3_5mm_p0_4mm_0e05a0
+    oomp_key_simple: kicad_package_dfn_qfn_onsemi_vct_28_3_5x3_5mm_p0_4mm
     original_filename: libraries/kicad-footprints/Package_DFN_QFN.pretty/OnSemi_VCT-28_3.5x3.5mm_P0.4mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_dfn_qfn_onsemi_vct_28_3_5x3_5mm_p0_4mm
+  oomp_key_full: oomp_footprint_kicad_package_dfn_qfn_onsemi_vct_28_3_5x3_5mm_p0_4mm
   oomp_key_simple: kicad_package_dfn_qfn_onsemi_vct_28_3_5x3_5mm_p0_4mm
   owner: kicad
   repo:

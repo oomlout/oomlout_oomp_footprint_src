@@ -17,9 +17,18 @@
   oomp:
     footprint_name: led_d3_0mm_horizontal_o1_27mm_z2_0mm_irgrey
     library_name: led_tht
+    md5: 0ed9d8f5a7fc2c21250be6387e7a0af6
+    md5_10: 0ed9d8f5a7
+    md5_5: 0ed9d
+    md5_6: 0ed9d8
+    oomp_key: oomp_kicad_led_tht_led_d3_0mm_horizontal_o1_27mm_z2_0mm_irgrey
+    oomp_key_extra: oomp_footprint_kicad_led_tht_led_d3_0mm_horizontal_o1_27mm_z2_0mm_irgrey
+    oomp_key_full: oomp_footprint_kicad_led_tht_led_d3_0mm_horizontal_o1_27mm_z2_0mm_irgrey_0ed9d8
+    oomp_key_simple: kicad_led_tht_led_d3_0mm_horizontal_o1_27mm_z2_0mm_irgrey
     original_filename: libraries/kicad-footprints/LED_THT.pretty/LED_D3.0mm_Horizontal_O1.27mm_Z2.0mm_IRGrey.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_led_tht_led_d3_0mm_horizontal_o1_27mm_z2_0mm_irgrey
+  oomp_key_full: oomp_footprint_kicad_led_tht_led_d3_0mm_horizontal_o1_27mm_z2_0mm_irgrey
   oomp_key_simple: kicad_led_tht_led_d3_0mm_horizontal_o1_27mm_z2_0mm_irgrey
   owner: kicad
   repo:

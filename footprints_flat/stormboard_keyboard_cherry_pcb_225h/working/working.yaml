@@ -17,9 +17,18 @@
   oomp:
     footprint_name: cherry_pcb_225h
     library_name: keyboard
+    md5: 6d88465b238b8e4837237e3e2318fd24
+    md5_10: 6d88465b23
+    md5_5: 6d884
+    md5_6: 6d8846
+    oomp_key: oomp_stormboard_keyboard_cherry_pcb_225h
+    oomp_key_extra: oomp_footprint_stormboard_keyboard_cherry_pcb_225h
+    oomp_key_full: oomp_footprint_stormboard_keyboard_cherry_pcb_225h_6d8846
+    oomp_key_simple: stormboard_keyboard_cherry_pcb_225h
     original_filename: Keyboard.pretty/CHERRY_PCB_225H.kicad_mod
     owner_name: stormboard
   oomp_key: oomp_stormboard_keyboard_cherry_pcb_225h
+  oomp_key_full: oomp_footprint_stormboard_keyboard_cherry_pcb_225h
   oomp_key_simple: stormboard_keyboard_cherry_pcb_225h
   owner: stormboard
   repo:

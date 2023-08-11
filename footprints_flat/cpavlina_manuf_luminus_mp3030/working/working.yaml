@@ -17,9 +17,18 @@
   oomp:
     footprint_name: luminus_mp3030
     library_name: manuf
+    md5: b84022873ca8b8c4b77f304b701069ac
+    md5_10: b84022873c
+    md5_5: b8402
+    md5_6: b84022
+    oomp_key: oomp_cpavlina_manuf_luminus_mp3030
+    oomp_key_extra: oomp_footprint_cpavlina_manuf_luminus_mp3030
+    oomp_key_full: oomp_footprint_cpavlina_manuf_luminus_mp3030_b84022
+    oomp_key_simple: cpavlina_manuf_luminus_mp3030
     original_filename: kicad-pcblib/manuf.pretty/LUMINUS-MP3030.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_manuf_luminus_mp3030
+  oomp_key_full: oomp_footprint_cpavlina_manuf_luminus_mp3030
   oomp_key_simple: cpavlina_manuf_luminus_mp3030
   owner: cpavlina
   repo:

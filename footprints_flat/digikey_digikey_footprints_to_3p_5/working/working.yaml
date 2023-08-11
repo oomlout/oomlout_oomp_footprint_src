@@ -17,9 +17,18 @@
   oomp:
     footprint_name: to_3p_5
     library_name: digikey_footprints
+    md5: ad66ab0ca02f43f9be8a914b5f2bb5fb
+    md5_10: ad66ab0ca0
+    md5_5: ad66a
+    md5_6: ad66ab
+    oomp_key: oomp_digikey_digikey_footprints_to_3p_5
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_to_3p_5
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_to_3p_5_ad66ab
+    oomp_key_simple: digikey_digikey_footprints_to_3p_5
     original_filename: digikey-kicad-library/digikey-footprints.pretty/TO-3P-5.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_to_3p_5
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_to_3p_5
   oomp_key_simple: digikey_digikey_footprints_to_3p_5
   owner: digikey
   repo:

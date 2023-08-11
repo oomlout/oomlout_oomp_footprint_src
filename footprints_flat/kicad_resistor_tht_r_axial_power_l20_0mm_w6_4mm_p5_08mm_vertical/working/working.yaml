@@ -18,9 +18,18 @@
   oomp:
     footprint_name: r_axial_power_l20_0mm_w6_4mm_p5_08mm_vertical
     library_name: resistor_tht
+    md5: b6e54215088ffeba7bee0eab9a046919
+    md5_10: b6e5421508
+    md5_5: b6e54
+    md5_6: b6e542
+    oomp_key: oomp_kicad_resistor_tht_r_axial_power_l20_0mm_w6_4mm_p5_08mm_vertical
+    oomp_key_extra: oomp_footprint_kicad_resistor_tht_r_axial_power_l20_0mm_w6_4mm_p5_08mm_vertical
+    oomp_key_full: oomp_footprint_kicad_resistor_tht_r_axial_power_l20_0mm_w6_4mm_p5_08mm_vertical_b6e542
+    oomp_key_simple: kicad_resistor_tht_r_axial_power_l20_0mm_w6_4mm_p5_08mm_vertical
     original_filename: libraries/kicad-footprints/Resistor_THT.pretty/R_Axial_Power_L20.0mm_W6.4mm_P5.08mm_Vertical.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_resistor_tht_r_axial_power_l20_0mm_w6_4mm_p5_08mm_vertical
+  oomp_key_full: oomp_footprint_kicad_resistor_tht_r_axial_power_l20_0mm_w6_4mm_p5_08mm_vertical
   oomp_key_simple: kicad_resistor_tht_r_axial_power_l20_0mm_w6_4mm_p5_08mm_vertical
   owner: kicad
   repo:

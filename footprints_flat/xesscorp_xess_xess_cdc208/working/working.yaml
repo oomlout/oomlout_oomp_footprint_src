@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_cdc208
     library_name: xess
+    md5: 7b1d656882230191ea689208e3b93cce
+    md5_10: 7b1d656882
+    md5_5: 7b1d6
+    md5_6: 7b1d65
+    oomp_key: oomp_xesscorp_xess_xess_cdc208
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_cdc208
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_cdc208_7b1d65
+    oomp_key_simple: xesscorp_xess_xess_cdc208
     original_filename: xess.pretty/xess-CDC208.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_cdc208
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_cdc208
   oomp_key_simple: xesscorp_xess_xess_cdc208
   owner: xesscorp
   repo:

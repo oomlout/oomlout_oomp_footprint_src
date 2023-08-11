@@ -17,9 +17,18 @@
   oomp:
     footprint_name: texas_r_pdso_n5_drl_5
     library_name: package_to_sot_smd
+    md5: af64c9a4588f86f7c3a1a03cb8a1ab0d
+    md5_10: af64c9a458
+    md5_5: af64c
+    md5_6: af64c9
+    oomp_key: oomp_kicad_package_to_sot_smd_texas_r_pdso_n5_drl_5
+    oomp_key_extra: oomp_footprint_kicad_package_to_sot_smd_texas_r_pdso_n5_drl_5
+    oomp_key_full: oomp_footprint_kicad_package_to_sot_smd_texas_r_pdso_n5_drl_5_af64c9
+    oomp_key_simple: kicad_package_to_sot_smd_texas_r_pdso_n5_drl_5
     original_filename: libraries/kicad-footprints/Package_TO_SOT_SMD.pretty/Texas_R-PDSO-N5_DRL-5.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_to_sot_smd_texas_r_pdso_n5_drl_5
+  oomp_key_full: oomp_footprint_kicad_package_to_sot_smd_texas_r_pdso_n5_drl_5
   oomp_key_simple: kicad_package_to_sot_smd_texas_r_pdso_n5_drl_5
   owner: kicad
   repo:

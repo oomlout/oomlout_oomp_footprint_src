@@ -17,9 +17,18 @@
   oomp:
     footprint_name: conn_screw_4mm
     library_name: suf_connector_misc
+    md5: f1a932275d891b37c8d99b203ccd5b4e
+    md5_10: f1a932275d
+    md5_5: f1a93
+    md5_6: f1a932
+    oomp_key: oomp_suf_kicad_suf_connector_misc_conn_screw_4mm
+    oomp_key_extra: oomp_footprint_suf_kicad_suf_connector_misc_conn_screw_4mm
+    oomp_key_full: oomp_footprint_suf_kicad_suf_connector_misc_conn_screw_4mm_f1a932
+    oomp_key_simple: suf_kicad_suf_connector_misc_conn_screw_4mm
     original_filename: suf_connector_misc.pretty/conn_screw_4mm.kicad_mod
     owner_name: suf_kicad
   oomp_key: oomp_suf_kicad_suf_connector_misc_conn_screw_4mm
+  oomp_key_full: oomp_footprint_suf_kicad_suf_connector_misc_conn_screw_4mm
   oomp_key_simple: suf_kicad_suf_connector_misc_conn_screw_4mm
   owner: suf-KiCAD
   repo:

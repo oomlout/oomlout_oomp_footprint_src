@@ -18,9 +18,18 @@
   oomp:
     footprint_name: jst_auh_bm03b_auhks_ga_tb_1x03_1mp_p1_50mm_vertical
     library_name: connector_jst
+    md5: 24e7636a7ba54891c74c6dff218af613
+    md5_10: 24e7636a7b
+    md5_5: 24e76
+    md5_6: 24e763
+    oomp_key: oomp_kicad_connector_jst_jst_auh_bm03b_auhks_ga_tb_1x03_1mp_p1_50mm_vertical
+    oomp_key_extra: oomp_footprint_kicad_connector_jst_jst_auh_bm03b_auhks_ga_tb_1x03_1mp_p1_50mm_vertical
+    oomp_key_full: oomp_footprint_kicad_connector_jst_jst_auh_bm03b_auhks_ga_tb_1x03_1mp_p1_50mm_vertical_24e763
+    oomp_key_simple: kicad_connector_jst_jst_auh_bm03b_auhks_ga_tb_1x03_1mp_p1_50mm_vertical
     original_filename: libraries/kicad-footprints/Connector_JST.pretty/JST_AUH_BM03B-AUHKS-GA-TB_1x03-1MP_P1.50mm_Vertical.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_jst_jst_auh_bm03b_auhks_ga_tb_1x03_1mp_p1_50mm_vertical
+  oomp_key_full: oomp_footprint_kicad_connector_jst_jst_auh_bm03b_auhks_ga_tb_1x03_1mp_p1_50mm_vertical
   oomp_key_simple: kicad_connector_jst_jst_auh_bm03b_auhks_ga_tb_1x03_1mp_p1_50mm_vertical
   owner: kicad
   repo:

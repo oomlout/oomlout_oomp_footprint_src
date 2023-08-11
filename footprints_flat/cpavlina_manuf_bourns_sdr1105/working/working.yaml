@@ -17,9 +17,18 @@
   oomp:
     footprint_name: bourns_sdr1105
     library_name: manuf
+    md5: a5ce31cf2216ff10cf877428e76c1420
+    md5_10: a5ce31cf22
+    md5_5: a5ce3
+    md5_6: a5ce31
+    oomp_key: oomp_cpavlina_manuf_bourns_sdr1105
+    oomp_key_extra: oomp_footprint_cpavlina_manuf_bourns_sdr1105
+    oomp_key_full: oomp_footprint_cpavlina_manuf_bourns_sdr1105_a5ce31
+    oomp_key_simple: cpavlina_manuf_bourns_sdr1105
     original_filename: kicad-pcblib/manuf.pretty/BOURNS-SDR1105.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_manuf_bourns_sdr1105
+  oomp_key_full: oomp_footprint_cpavlina_manuf_bourns_sdr1105
   oomp_key_simple: cpavlina_manuf_bourns_sdr1105
   owner: cpavlina
   repo:

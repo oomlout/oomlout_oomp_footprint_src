@@ -17,9 +17,18 @@
   oomp:
     footprint_name: socket_strip_arduino_1x10
     library_name: socket_arduino_mega
+    md5: c30a1edee3a0f074913d9801f0adf7e3
+    md5_10: c30a1edee3
+    md5_5: c30a1
+    md5_6: c30a1e
+    oomp_key: oomp_wykys_socket_arduino_mega_socket_strip_arduino_1x10
+    oomp_key_extra: oomp_footprint_wykys_socket_arduino_mega_socket_strip_arduino_1x10
+    oomp_key_full: oomp_footprint_wykys_socket_arduino_mega_socket_strip_arduino_1x10_c30a1e
+    oomp_key_simple: wykys_socket_arduino_mega_socket_strip_arduino_1x10
     original_filename: kicad/Arduino_Mega_433Mhz_Shield/Socket_Arduino_Mega.pretty/Socket_Strip_Arduino_1x10.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_socket_arduino_mega_socket_strip_arduino_1x10
+  oomp_key_full: oomp_footprint_wykys_socket_arduino_mega_socket_strip_arduino_1x10
   oomp_key_simple: wykys_socket_arduino_mega_socket_strip_arduino_1x10
   owner: wykys
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: tqfp_64_7x7mm
     library_name: digikey_footprints
+    md5: 7669e121ef17debb7a6f146c1140de09
+    md5_10: 7669e121ef
+    md5_5: 7669e
+    md5_6: 7669e1
+    oomp_key: oomp_digikey_digikey_footprints_tqfp_64_7x7mm
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_tqfp_64_7x7mm
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_tqfp_64_7x7mm_7669e1
+    oomp_key_simple: digikey_digikey_footprints_tqfp_64_7x7mm
     original_filename: digikey-kicad-library/digikey-footprints.pretty/TQFP-64_7x7mm.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_tqfp_64_7x7mm
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_tqfp_64_7x7mm
   oomp_key_simple: digikey_digikey_footprints_tqfp_64_7x7mm
   owner: digikey
   repo:

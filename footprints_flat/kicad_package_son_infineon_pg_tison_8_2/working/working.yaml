@@ -18,9 +18,18 @@
   oomp:
     footprint_name: infineon_pg_tison_8_2
     library_name: package_son
+    md5: 0f3a7a4201bc2bbec288cefcd7ed52ca
+    md5_10: 0f3a7a4201
+    md5_5: 0f3a7
+    md5_6: 0f3a7a
+    oomp_key: oomp_kicad_package_son_infineon_pg_tison_8_2
+    oomp_key_extra: oomp_footprint_kicad_package_son_infineon_pg_tison_8_2
+    oomp_key_full: oomp_footprint_kicad_package_son_infineon_pg_tison_8_2_0f3a7a
+    oomp_key_simple: kicad_package_son_infineon_pg_tison_8_2
     original_filename: libraries/kicad-footprints/Package_SON.pretty/Infineon_PG-TISON-8-2.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_son_infineon_pg_tison_8_2
+  oomp_key_full: oomp_footprint_kicad_package_son_infineon_pg_tison_8_2
   oomp_key_simple: kicad_package_son_infineon_pg_tison_8_2
   owner: kicad
   repo:

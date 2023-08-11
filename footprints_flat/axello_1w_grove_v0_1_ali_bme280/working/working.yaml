@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ali_bme280
     library_name: 1w_grove_v0_1
+    md5: f36e93dda2ffd432c4350a189f14c157
+    md5_10: f36e93dda2
+    md5_5: f36e9
+    md5_6: f36e93
+    oomp_key: oomp_axello_1w_grove_v0_1_ali_bme280
+    oomp_key_extra: oomp_footprint_axello_1w_grove_v0_1_ali_bme280
+    oomp_key_full: oomp_footprint_axello_1w_grove_v0_1_ali_bme280_f36e93
+    oomp_key_simple: axello_1w_grove_v0_1_ali_bme280
     original_filename: kicad/6.0/projects/1w-grove-v0.1/1w-grove-v0.1.pretty/ali_bme280.kicad_mod
     owner_name: axello
   oomp_key: oomp_axello_1w_grove_v0_1_ali_bme280
+  oomp_key_full: oomp_footprint_axello_1w_grove_v0_1_ali_bme280
   oomp_key_simple: axello_1w_grove_v0_1_ali_bme280
   owner: axello
   repo:

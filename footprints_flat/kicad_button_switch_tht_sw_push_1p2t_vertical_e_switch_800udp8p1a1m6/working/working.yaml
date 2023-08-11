@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sw_push_1p2t_vertical_e_switch_800udp8p1a1m6
     library_name: button_switch_tht
+    md5: c7b10cfb3978f78eb613406e01c1a483
+    md5_10: c7b10cfb39
+    md5_5: c7b10
+    md5_6: c7b10c
+    oomp_key: oomp_kicad_button_switch_tht_sw_push_1p2t_vertical_e_switch_800udp8p1a1m6
+    oomp_key_extra: oomp_footprint_kicad_button_switch_tht_sw_push_1p2t_vertical_e_switch_800udp8p1a1m6
+    oomp_key_full: oomp_footprint_kicad_button_switch_tht_sw_push_1p2t_vertical_e_switch_800udp8p1a1m6_c7b10c
+    oomp_key_simple: kicad_button_switch_tht_sw_push_1p2t_vertical_e_switch_800udp8p1a1m6
     original_filename: libraries/kicad-footprints/Button_Switch_THT.pretty/SW_Push_1P2T_Vertical_E-Switch_800UDP8P1A1M6.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_button_switch_tht_sw_push_1p2t_vertical_e_switch_800udp8p1a1m6
+  oomp_key_full: oomp_footprint_kicad_button_switch_tht_sw_push_1p2t_vertical_e_switch_800udp8p1a1m6
   oomp_key_simple: kicad_button_switch_tht_sw_push_1p2t_vertical_e_switch_800udp8p1a1m6
   owner: kicad
   repo:

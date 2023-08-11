@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_74ac11244db
     library_name: xess
+    md5: 6e31a8ed820c7b4085d3e4f6a4be84e5
+    md5_10: 6e31a8ed82
+    md5_5: 6e31a
+    md5_6: 6e31a8
+    oomp_key: oomp_xesscorp_xess_xess_74ac11244db
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_74ac11244db
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_74ac11244db_6e31a8
+    oomp_key_simple: xesscorp_xess_xess_74ac11244db
     original_filename: xess.pretty/xess-74AC11244DB.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_74ac11244db
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_74ac11244db
   oomp_key_simple: xesscorp_xess_xess_74ac11244db
   owner: xesscorp
   repo:

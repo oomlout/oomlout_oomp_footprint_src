@@ -17,9 +17,18 @@
   oomp:
     footprint_name: vqfn_hr_11
     library_name: kicadfootprint
+    md5: a81f52ef8999ff855e09a596fc7e98c8
+    md5_10: a81f52ef89
+    md5_5: a81f5
+    md5_6: a81f52
+    oomp_key: oomp_vivitainc_kicadfootprint_vqfn_hr_11
+    oomp_key_extra: oomp_footprint_vivitainc_kicadfootprint_vqfn_hr_11
+    oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_vqfn_hr_11_a81f52
+    oomp_key_simple: vivitainc_kicadfootprint_vqfn_hr_11
     original_filename: KiCADfootprint.pretty/VQFN-HR-11.kicad_mod
     owner_name: vivitainc
   oomp_key: oomp_vivitainc_kicadfootprint_vqfn_hr_11
+  oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_vqfn_hr_11
   oomp_key_simple: vivitainc_kicadfootprint_vqfn_hr_11
   owner: vivitainc
   repo:

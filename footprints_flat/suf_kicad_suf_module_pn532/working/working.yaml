@@ -17,9 +17,18 @@
   oomp:
     footprint_name: pn532
     library_name: suf_module
+    md5: 57e90d654ff076a3a719c3bd1e4e3dcd
+    md5_10: 57e90d654f
+    md5_5: 57e90
+    md5_6: 57e90d
+    oomp_key: oomp_suf_kicad_suf_module_pn532
+    oomp_key_extra: oomp_footprint_suf_kicad_suf_module_pn532
+    oomp_key_full: oomp_footprint_suf_kicad_suf_module_pn532_57e90d
+    oomp_key_simple: suf_kicad_suf_module_pn532
     original_filename: suf_module.pretty/PN532.kicad_mod
     owner_name: suf_kicad
   oomp_key: oomp_suf_kicad_suf_module_pn532
+  oomp_key_full: oomp_footprint_suf_kicad_suf_module_pn532
   oomp_key_simple: suf_kicad_suf_module_pn532
   owner: suf-KiCAD
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: array_tab_null
     library_name: xess
+    md5: acb0ed961c676c4521a377f3a9d564df
+    md5_10: acb0ed961c
+    md5_5: acb0e
+    md5_6: acb0ed
+    oomp_key: oomp_xesscorp_xess_array_tab_null
+    oomp_key_extra: oomp_footprint_xesscorp_xess_array_tab_null
+    oomp_key_full: oomp_footprint_xesscorp_xess_array_tab_null_acb0ed
+    oomp_key_simple: xesscorp_xess_array_tab_null
     original_filename: xess.pretty/Array_Tab_Null.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_array_tab_null
+  oomp_key_full: oomp_footprint_xesscorp_xess_array_tab_null
   oomp_key_simple: xesscorp_xess_array_tab_null
   owner: xesscorp
   repo:

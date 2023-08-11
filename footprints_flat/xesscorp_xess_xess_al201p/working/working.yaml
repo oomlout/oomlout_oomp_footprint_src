@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_al201p
     library_name: xess
+    md5: 58e5845cc3a087a05c14b5cbe33c7da5
+    md5_10: 58e5845cc3
+    md5_5: 58e58
+    md5_6: 58e584
+    oomp_key: oomp_xesscorp_xess_xess_al201p
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_al201p
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_al201p_58e584
+    oomp_key_simple: xesscorp_xess_xess_al201p
     original_filename: xess.pretty/xess-AL201P.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_al201p
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_al201p
   oomp_key_simple: xesscorp_xess_xess_al201p
   owner: xesscorp
   repo:

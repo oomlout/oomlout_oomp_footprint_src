@@ -18,9 +18,18 @@
   oomp:
     footprint_name: sw_kailh_choc_mini_isoenter_270deg
     library_name: switch_keyboard_kailh
+    md5: ce4a48aae6d12b6239748c9bcbc1abd7
+    md5_10: ce4a48aae6
+    md5_5: ce4a4
+    md5_6: ce4a48
+    oomp_key: oomp_joanthespark_switch_keyboard_kailh_sw_kailh_choc_mini_isoenter_270deg
+    oomp_key_extra: oomp_footprint_joanthespark_switch_keyboard_kailh_sw_kailh_choc_mini_isoenter_270deg
+    oomp_key_full: oomp_footprint_joanthespark_switch_keyboard_kailh_sw_kailh_choc_mini_isoenter_270deg_ce4a48
+    oomp_key_simple: joanthespark_switch_keyboard_kailh_sw_kailh_choc_mini_isoenter_270deg
     original_filename: KiCAD/6.0/3rdparty/footprints/com_github_perigoso_keyswitch-kicad-library/Switch_Keyboard_Kailh.pretty/SW_Kailh_Choc_Mini_ISOEnter_270deg.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_switch_keyboard_kailh_sw_kailh_choc_mini_isoenter_270deg
+  oomp_key_full: oomp_footprint_joanthespark_switch_keyboard_kailh_sw_kailh_choc_mini_isoenter_270deg
   oomp_key_simple: joanthespark_switch_keyboard_kailh_sw_kailh_choc_mini_isoenter_270deg
   owner: JoanTheSpark
   repo:

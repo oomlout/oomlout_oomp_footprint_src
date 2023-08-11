@@ -18,9 +18,18 @@
   oomp:
     footprint_name: potentiometer_alps_rk09k_single_horizontal
     library_name: potentiometer_tht
+    md5: 419ece02101c9e29afac008561113b47
+    md5_10: 419ece0210
+    md5_5: 419ec
+    md5_6: 419ece
+    oomp_key: oomp_kicad_potentiometer_tht_potentiometer_alps_rk09k_single_horizontal
+    oomp_key_extra: oomp_footprint_kicad_potentiometer_tht_potentiometer_alps_rk09k_single_horizontal
+    oomp_key_full: oomp_footprint_kicad_potentiometer_tht_potentiometer_alps_rk09k_single_horizontal_419ece
+    oomp_key_simple: kicad_potentiometer_tht_potentiometer_alps_rk09k_single_horizontal
     original_filename: libraries/kicad-footprints/Potentiometer_THT.pretty/Potentiometer_Alps_RK09K_Single_Horizontal.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_potentiometer_tht_potentiometer_alps_rk09k_single_horizontal
+  oomp_key_full: oomp_footprint_kicad_potentiometer_tht_potentiometer_alps_rk09k_single_horizontal
   oomp_key_simple: kicad_potentiometer_tht_potentiometer_alps_rk09k_single_horizontal
   owner: kicad
   repo:

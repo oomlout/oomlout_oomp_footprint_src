@@ -17,9 +17,18 @@
   oomp:
     footprint_name: arduinopromicro_zigzag
     library_name: keebio_parts
+    md5: bcd9e1cb495573b71441b06ba7111ec7
+    md5_10: bcd9e1cb49
+    md5_5: bcd9e
+    md5_6: bcd9e1
+    oomp_key: oomp_keebio_keebio_parts_arduinopromicro_zigzag
+    oomp_key_extra: oomp_footprint_keebio_keebio_parts_arduinopromicro_zigzag
+    oomp_key_full: oomp_footprint_keebio_keebio_parts_arduinopromicro_zigzag_bcd9e1
+    oomp_key_simple: keebio_keebio_parts_arduinopromicro_zigzag
     original_filename: Keebio-Parts.pretty/ArduinoProMicro-ZigZag.kicad_mod
     owner_name: keebio
   oomp_key: oomp_keebio_keebio_parts_arduinopromicro_zigzag
+  oomp_key_full: oomp_footprint_keebio_keebio_parts_arduinopromicro_zigzag
   oomp_key_simple: keebio_keebio_parts_arduinopromicro_zigzag
   owner: keebio
   repo:

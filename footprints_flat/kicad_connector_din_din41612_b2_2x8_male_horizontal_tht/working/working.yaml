@@ -17,9 +17,18 @@
   oomp:
     footprint_name: din41612_b2_2x8_male_horizontal_tht
     library_name: connector_din
+    md5: 83432345a5c7bbafeeb6e4e5c7c36621
+    md5_10: 83432345a5
+    md5_5: '83432'
+    md5_6: '834323'
+    oomp_key: oomp_kicad_connector_din_din41612_b2_2x8_male_horizontal_tht
+    oomp_key_extra: oomp_footprint_kicad_connector_din_din41612_b2_2x8_male_horizontal_tht
+    oomp_key_full: oomp_footprint_kicad_connector_din_din41612_b2_2x8_male_horizontal_tht_834323
+    oomp_key_simple: kicad_connector_din_din41612_b2_2x8_male_horizontal_tht
     original_filename: libraries/kicad-footprints/Connector_DIN.pretty/DIN41612_B2_2x8_Male_Horizontal_THT.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_din_din41612_b2_2x8_male_horizontal_tht
+  oomp_key_full: oomp_footprint_kicad_connector_din_din41612_b2_2x8_male_horizontal_tht
   oomp_key_simple: kicad_connector_din_din41612_b2_2x8_male_horizontal_tht
   owner: kicad
   repo:

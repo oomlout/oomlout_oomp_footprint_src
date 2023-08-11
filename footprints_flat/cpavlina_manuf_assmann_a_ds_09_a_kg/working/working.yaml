@@ -17,9 +17,18 @@
   oomp:
     footprint_name: assmann_a_ds_09_a_kg
     library_name: manuf
+    md5: bda2e49829dc76f6c41b4e9559e9b178
+    md5_10: bda2e49829
+    md5_5: bda2e
+    md5_6: bda2e4
+    oomp_key: oomp_cpavlina_manuf_assmann_a_ds_09_a_kg
+    oomp_key_extra: oomp_footprint_cpavlina_manuf_assmann_a_ds_09_a_kg
+    oomp_key_full: oomp_footprint_cpavlina_manuf_assmann_a_ds_09_a_kg_bda2e4
+    oomp_key_simple: cpavlina_manuf_assmann_a_ds_09_a_kg
     original_filename: kicad-pcblib/manuf.pretty/ASSMANN-A-DS-09-A-KG.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_manuf_assmann_a_ds_09_a_kg
+  oomp_key_full: oomp_footprint_cpavlina_manuf_assmann_a_ds_09_a_kg
   oomp_key_simple: cpavlina_manuf_assmann_a_ds_09_a_kg
   owner: cpavlina
   repo:

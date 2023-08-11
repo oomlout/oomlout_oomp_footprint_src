@@ -17,9 +17,18 @@
   oomp:
     footprint_name: mountinghole_2_5mm_pad
     library_name: mountinghole
+    md5: beeb9a10d644775d0eec7055a9bed736
+    md5_10: beeb9a10d6
+    md5_5: beeb9
+    md5_6: beeb9a
+    oomp_key: oomp_kicad_mountinghole_mountinghole_2_5mm_pad
+    oomp_key_extra: oomp_footprint_kicad_mountinghole_mountinghole_2_5mm_pad
+    oomp_key_full: oomp_footprint_kicad_mountinghole_mountinghole_2_5mm_pad_beeb9a
+    oomp_key_simple: kicad_mountinghole_mountinghole_2_5mm_pad
     original_filename: libraries/kicad-footprints/MountingHole.pretty/MountingHole_2.5mm_Pad.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_mountinghole_mountinghole_2_5mm_pad
+  oomp_key_full: oomp_footprint_kicad_mountinghole_mountinghole_2_5mm_pad
   oomp_key_simple: kicad_mountinghole_mountinghole_2_5mm_pad
   owner: kicad
   repo:

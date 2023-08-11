@@ -19,9 +19,18 @@
   oomp:
     footprint_name: ck_pts645_smd
     library_name: manuf
+    md5: dc2a0cbc13e0091643337e4bc7321f6b
+    md5_10: dc2a0cbc13
+    md5_5: dc2a0
+    md5_6: dc2a0c
+    oomp_key: oomp_iangitpers_manuf_ck_pts645_smd
+    oomp_key_extra: oomp_footprint_iangitpers_manuf_ck_pts645_smd
+    oomp_key_full: oomp_footprint_iangitpers_manuf_ck_pts645_smd_dc2a0c
+    oomp_key_simple: iangitpers_manuf_ck_pts645_smd
     original_filename: 4a/manuf.pretty/CK-PTS645-SMD.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_manuf_ck_pts645_smd
+  oomp_key_full: oomp_footprint_iangitpers_manuf_ck_pts645_smd
   oomp_key_simple: iangitpers_manuf_ck_pts645_smd
   owner: Iangitpers
   repo:

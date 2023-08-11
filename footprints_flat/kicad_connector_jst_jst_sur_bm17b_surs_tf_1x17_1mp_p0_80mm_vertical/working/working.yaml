@@ -18,9 +18,18 @@
   oomp:
     footprint_name: jst_sur_bm17b_surs_tf_1x17_1mp_p0_80mm_vertical
     library_name: connector_jst
+    md5: d4d19d013cbb6d6f8d0365b3771d6fe4
+    md5_10: d4d19d013c
+    md5_5: d4d19
+    md5_6: d4d19d
+    oomp_key: oomp_kicad_connector_jst_jst_sur_bm17b_surs_tf_1x17_1mp_p0_80mm_vertical
+    oomp_key_extra: oomp_footprint_kicad_connector_jst_jst_sur_bm17b_surs_tf_1x17_1mp_p0_80mm_vertical
+    oomp_key_full: oomp_footprint_kicad_connector_jst_jst_sur_bm17b_surs_tf_1x17_1mp_p0_80mm_vertical_d4d19d
+    oomp_key_simple: kicad_connector_jst_jst_sur_bm17b_surs_tf_1x17_1mp_p0_80mm_vertical
     original_filename: libraries/kicad-footprints/Connector_JST.pretty/JST_SUR_BM17B-SURS-TF_1x17-1MP_P0.80mm_Vertical.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_jst_jst_sur_bm17b_surs_tf_1x17_1mp_p0_80mm_vertical
+  oomp_key_full: oomp_footprint_kicad_connector_jst_jst_sur_bm17b_surs_tf_1x17_1mp_p0_80mm_vertical
   oomp_key_simple: kicad_connector_jst_jst_sur_bm17b_surs_tf_1x17_1mp_p0_80mm_vertical
   owner: kicad
   repo:

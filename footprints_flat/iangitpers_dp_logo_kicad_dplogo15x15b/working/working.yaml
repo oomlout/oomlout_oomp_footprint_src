@@ -19,9 +19,18 @@
   oomp:
     footprint_name: dplogo15x15b
     library_name: dp_logo_kicad
+    md5: f00b4863c5fdab9a950a2f316d61ced6
+    md5_10: f00b4863c5
+    md5_5: f00b4
+    md5_6: f00b48
+    oomp_key: oomp_iangitpers_dp_logo_kicad_dplogo15x15b
+    oomp_key_extra: oomp_footprint_iangitpers_dp_logo_kicad_dplogo15x15b
+    oomp_key_full: oomp_footprint_iangitpers_dp_logo_kicad_dplogo15x15b_f00b48
+    oomp_key_simple: iangitpers_dp_logo_kicad_dplogo15x15b
     original_filename: 4a/DP_logo_kicad.pretty/dplogo15x15b.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_dp_logo_kicad_dplogo15x15b
+  oomp_key_full: oomp_footprint_iangitpers_dp_logo_kicad_dplogo15x15b
   oomp_key_simple: iangitpers_dp_logo_kicad_dplogo15x15b
   owner: Iangitpers
   repo:

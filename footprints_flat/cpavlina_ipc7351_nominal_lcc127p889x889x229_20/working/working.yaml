@@ -17,9 +17,18 @@
   oomp:
     footprint_name: lcc127p889x889x229_20
     library_name: ipc7351_nominal
+    md5: a2a00dec7a75e1b36835b011e00ecbc3
+    md5_10: a2a00dec7a
+    md5_5: a2a00
+    md5_6: a2a00d
+    oomp_key: oomp_cpavlina_ipc7351_nominal_lcc127p889x889x229_20
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_nominal_lcc127p889x889x229_20
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_lcc127p889x889x229_20_a2a00d
+    oomp_key_simple: cpavlina_ipc7351_nominal_lcc127p889x889x229_20
     original_filename: kicad-pcblib/IPC7351-Nominal.pretty/LCC127P889X889X229-20.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_nominal_lcc127p889x889x229_20
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_lcc127p889x889x229_20
   oomp_key_simple: cpavlina_ipc7351_nominal_lcc127p889x889x229_20
   owner: cpavlina
   repo:

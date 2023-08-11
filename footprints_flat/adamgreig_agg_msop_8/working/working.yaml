@@ -17,9 +17,18 @@
   oomp:
     footprint_name: msop_8
     library_name: agg
+    md5: c307a4876c3dd244b465b8f74f2113b5
+    md5_10: c307a4876c
+    md5_5: c307a
+    md5_6: c307a4
+    oomp_key: oomp_adamgreig_agg_msop_8
+    oomp_key_extra: oomp_footprint_adamgreig_agg_msop_8
+    oomp_key_full: oomp_footprint_adamgreig_agg_msop_8_c307a4
+    oomp_key_simple: adamgreig_agg_msop_8
     original_filename: agg-kicad/agg.pretty/MSOP-8.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_msop_8
+  oomp_key_full: oomp_footprint_adamgreig_agg_msop_8
   oomp_key_simple: adamgreig_agg_msop_8
   owner: adamgreig
   repo:

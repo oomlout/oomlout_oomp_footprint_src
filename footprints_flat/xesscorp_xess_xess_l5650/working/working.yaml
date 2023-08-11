@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_l5650
     library_name: xess
+    md5: cc36f1fc5da07efb06a4f36a555e1193
+    md5_10: cc36f1fc5d
+    md5_5: cc36f
+    md5_6: cc36f1
+    oomp_key: oomp_xesscorp_xess_xess_l5650
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_l5650
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_l5650_cc36f1
+    oomp_key_simple: xesscorp_xess_xess_l5650
     original_filename: xess.pretty/xess-L5650.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_l5650
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_l5650
   oomp_key_simple: xesscorp_xess_xess_l5650
   owner: xesscorp
   repo:

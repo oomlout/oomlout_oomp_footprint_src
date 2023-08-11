@@ -17,9 +17,18 @@
   oomp:
     footprint_name: usb3150_micro_vertical
     library_name: usst_footprints
+    md5: 5c8941ae7c0a638713dd57dcbe736928
+    md5_10: 5c8941ae7c
+    md5_5: 5c894
+    md5_6: 5c8941
+    oomp_key: oomp_uofsspaceteam_usst_footprints_usb3150_micro_vertical
+    oomp_key_extra: oomp_footprint_uofsspaceteam_usst_footprints_usb3150_micro_vertical
+    oomp_key_full: oomp_footprint_uofsspaceteam_usst_footprints_usb3150_micro_vertical_5c8941
+    oomp_key_simple: uofsspaceteam_usst_footprints_usb3150_micro_vertical
     original_filename: USST-footprints.pretty/USB3150_Micro_Vertical.kicad_mod
     owner_name: uofsspaceteam
   oomp_key: oomp_uofsspaceteam_usst_footprints_usb3150_micro_vertical
+  oomp_key_full: oomp_footprint_uofsspaceteam_usst_footprints_usb3150_micro_vertical
   oomp_key_simple: uofsspaceteam_usst_footprints_usb3150_micro_vertical
   owner: UofSSpaceTeam
   repo:

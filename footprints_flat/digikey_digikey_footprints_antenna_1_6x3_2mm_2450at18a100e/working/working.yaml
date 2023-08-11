@@ -17,9 +17,18 @@
   oomp:
     footprint_name: antenna_1_6x3_2mm_2450at18a100e
     library_name: digikey_footprints
+    md5: e56b41b94fc63451c61c5d20d3470831
+    md5_10: e56b41b94f
+    md5_5: e56b4
+    md5_6: e56b41
+    oomp_key: oomp_digikey_digikey_footprints_antenna_1_6x3_2mm_2450at18a100e
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_antenna_1_6x3_2mm_2450at18a100e
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_antenna_1_6x3_2mm_2450at18a100e_e56b41
+    oomp_key_simple: digikey_digikey_footprints_antenna_1_6x3_2mm_2450at18a100e
     original_filename: digikey-kicad-library/digikey-footprints.pretty/Antenna_1.6x3.2mm_2450AT18A100E.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_antenna_1_6x3_2mm_2450at18a100e
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_antenna_1_6x3_2mm_2450at18a100e
   oomp_key_simple: digikey_digikey_footprints_antenna_1_6x3_2mm_2450at18a100e
   owner: digikey
   repo:

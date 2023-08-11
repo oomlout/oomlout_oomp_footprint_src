@@ -17,9 +17,18 @@
   oomp:
     footprint_name: tor_header_smt_6pin_(1002)
     library_name: transformers_wurthelektronik
+    md5: 2afbe16331a83c4c924786fc2e882cce
+    md5_10: 2afbe16331
+    md5_5: 2afbe
+    md5_6: 2afbe1
+    oomp_key: oomp_toka_eisos_transformers_wurthelektronik_tor_header_smt_6pin_(1002)
+    oomp_key_extra: oomp_footprint_toka_eisos_transformers_wurthelektronik_tor_header_smt_6pin_(1002)
+    oomp_key_full: oomp_footprint_toka_eisos_transformers_wurthelektronik_tor_header_smt_6pin_(1002)_2afbe1
+    oomp_key_simple: toka_eisos_transformers_wurthelektronik_tor_header_smt_6pin_(1002)
     original_filename: Transformers_WurthElektronik.pretty/TOR_HEADER_SMT_6PIN_(1002).kicad_mod
     owner_name: toka_eisos
   oomp_key: oomp_toka_eisos_transformers_wurthelektronik_tor_header_smt_6pin_(1002)
+  oomp_key_full: oomp_footprint_toka_eisos_transformers_wurthelektronik_tor_header_smt_6pin_(1002)
   oomp_key_simple: toka_eisos_transformers_wurthelektronik_tor_header_smt_6pin_(1002)
   owner: toka-eisos
   repo:

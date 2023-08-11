@@ -17,9 +17,18 @@
   oomp:
     footprint_name: pgpt_pgpc_fixed_5_5mm
     library_name: kicadfootprint
+    md5: 531034ca99371599487706181bc5b81c
+    md5_10: 531034ca99
+    md5_5: '53103'
+    md5_6: '531034'
+    oomp_key: oomp_vivitainc_kicadfootprint_pgpt_pgpc_fixed_5_5mm
+    oomp_key_extra: oomp_footprint_vivitainc_kicadfootprint_pgpt_pgpc_fixed_5_5mm
+    oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_pgpt_pgpc_fixed_5_5mm_531034
+    oomp_key_simple: vivitainc_kicadfootprint_pgpt_pgpc_fixed_5_5mm
     original_filename: KiCADfootprint.pretty/PGPT_PGPC_Fixed_5.5mm.kicad_mod
     owner_name: vivitainc
   oomp_key: oomp_vivitainc_kicadfootprint_pgpt_pgpc_fixed_5_5mm
+  oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_pgpt_pgpc_fixed_5_5mm
   oomp_key_simple: vivitainc_kicadfootprint_pgpt_pgpc_fixed_5_5mm
   owner: vivitainc
   repo:

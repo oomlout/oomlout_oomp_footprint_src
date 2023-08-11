@@ -17,9 +17,18 @@
   oomp:
     footprint_name: diode_1n4001
     library_name: freetronics_footprints
+    md5: 5a2031254930bc361c4e2cd675d8ef06
+    md5_10: 5a20312549
+    md5_5: 5a203
+    md5_6: 5a2031
+    oomp_key: oomp_wykys_freetronics_footprints_diode_1n4001
+    oomp_key_extra: oomp_footprint_wykys_freetronics_footprints_diode_1n4001
+    oomp_key_full: oomp_footprint_wykys_freetronics_footprints_diode_1n4001_5a2031
+    oomp_key_simple: wykys_freetronics_footprints_diode_1n4001
     original_filename: kicad/mods/freetronics_footprints.pretty/DIODE-1N4001.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_freetronics_footprints_diode_1n4001
+  oomp_key_full: oomp_footprint_wykys_freetronics_footprints_diode_1n4001
   oomp_key_simple: wykys_freetronics_footprints_diode_1n4001
   owner: wykys
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: light_to_freq_tsl235r_lf
     library_name: digikey_footprints
+    md5: 7648ec99d3d9d60acad853b385a7008f
+    md5_10: 7648ec99d3
+    md5_5: 7648e
+    md5_6: 7648ec
+    oomp_key: oomp_digikey_digikey_footprints_light_to_freq_tsl235r_lf
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_light_to_freq_tsl235r_lf
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_light_to_freq_tsl235r_lf_7648ec
+    oomp_key_simple: digikey_digikey_footprints_light_to_freq_tsl235r_lf
     original_filename: digikey-kicad-library/digikey-footprints.pretty/Light_to_Freq_TSL235R-LF.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_light_to_freq_tsl235r_lf
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_light_to_freq_tsl235r_lf
   oomp_key_simple: digikey_digikey_footprints_light_to_freq_tsl235r_lf
   owner: digikey
   repo:

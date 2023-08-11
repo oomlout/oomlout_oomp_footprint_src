@@ -19,9 +19,18 @@
   oomp:
     footprint_name: mountinghole_4_3mm_m4_iso14580
     library_name: mountinghole
+    md5: dc88b3aba8d0eca454a55741f98d255b
+    md5_10: dc88b3aba8
+    md5_5: dc88b
+    md5_6: dc88b3
+    oomp_key: oomp_iangitpers_mountinghole_mountinghole_4_3mm_m4_iso14580
+    oomp_key_extra: oomp_footprint_iangitpers_mountinghole_mountinghole_4_3mm_m4_iso14580
+    oomp_key_full: oomp_footprint_iangitpers_mountinghole_mountinghole_4_3mm_m4_iso14580_dc88b3
+    oomp_key_simple: iangitpers_mountinghole_mountinghole_4_3mm_m4_iso14580
     original_filename: 4a/MountingHole.pretty/MountingHole_4.3mm_M4_ISO14580.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_mountinghole_mountinghole_4_3mm_m4_iso14580
+  oomp_key_full: oomp_footprint_iangitpers_mountinghole_mountinghole_4_3mm_m4_iso14580
   oomp_key_simple: iangitpers_mountinghole_mountinghole_4_3mm_m4_iso14580
   owner: Iangitpers
   repo:

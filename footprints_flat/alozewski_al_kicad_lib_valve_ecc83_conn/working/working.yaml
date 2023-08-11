@@ -17,9 +17,18 @@
   oomp:
     footprint_name: valve_ecc83_conn
     library_name: al_kicad_lib
+    md5: cc2b10cdaa864dc32dae0f0d2c41fa40
+    md5_10: cc2b10cdaa
+    md5_5: cc2b1
+    md5_6: cc2b10
+    oomp_key: oomp_alozewski_al_kicad_lib_valve_ecc83_conn
+    oomp_key_extra: oomp_footprint_alozewski_al_kicad_lib_valve_ecc83_conn
+    oomp_key_full: oomp_footprint_alozewski_al_kicad_lib_valve_ecc83_conn_cc2b10
+    oomp_key_simple: alozewski_al_kicad_lib_valve_ecc83_conn
     original_filename: al-kicad-lib.pretty/Valve_ECC83_Conn.kicad_mod
     owner_name: alozewski
   oomp_key: oomp_alozewski_al_kicad_lib_valve_ecc83_conn
+  oomp_key_full: oomp_footprint_alozewski_al_kicad_lib_valve_ecc83_conn
   oomp_key_simple: alozewski_al_kicad_lib_valve_ecc83_conn
   owner: alozewski
   repo:

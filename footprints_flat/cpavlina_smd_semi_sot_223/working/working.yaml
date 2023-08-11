@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sot_223
     library_name: smd_semi
+    md5: f824c0864290df72f33933bb06a9d0c0
+    md5_10: f824c08642
+    md5_5: f824c
+    md5_6: f824c0
+    oomp_key: oomp_cpavlina_smd_semi_sot_223
+    oomp_key_extra: oomp_footprint_cpavlina_smd_semi_sot_223
+    oomp_key_full: oomp_footprint_cpavlina_smd_semi_sot_223_f824c0
+    oomp_key_simple: cpavlina_smd_semi_sot_223
     original_filename: kicad-pcblib/smd-semi.pretty/SOT-223.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_smd_semi_sot_223
+  oomp_key_full: oomp_footprint_cpavlina_smd_semi_sot_223
   oomp_key_simple: cpavlina_smd_semi_sot_223
   owner: cpavlina
   repo:

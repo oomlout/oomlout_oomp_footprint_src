@@ -17,9 +17,18 @@
   oomp:
     footprint_name: jp_6
     library_name: sh_jumper_pins
+    md5: c4cb191e6d45665fee4c2657eb0981e9
+    md5_10: c4cb191e6d
+    md5_5: c4cb1
+    md5_6: c4cb19
+    oomp_key: oomp_stefanhamminga_sh_jumper_pins_jp_6
+    oomp_key_extra: oomp_footprint_stefanhamminga_sh_jumper_pins_jp_6
+    oomp_key_full: oomp_footprint_stefanhamminga_sh_jumper_pins_jp_6_c4cb19
+    oomp_key_simple: stefanhamminga_sh_jumper_pins_jp_6
     original_filename: SH_Jumper_Pins.pretty/JP-6.kicad_mod
     owner_name: stefanhamminga
   oomp_key: oomp_stefanhamminga_sh_jumper_pins_jp_6
+  oomp_key_full: oomp_footprint_stefanhamminga_sh_jumper_pins_jp_6
   oomp_key_simple: stefanhamminga_sh_jumper_pins_jp_6
   owner: StefanHamminga
   repo:

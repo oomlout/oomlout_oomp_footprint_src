@@ -19,9 +19,18 @@
   oomp:
     footprint_name: keystone_1043p
     library_name: manuf
+    md5: a6660b82b2d83040a28b575761cef798
+    md5_10: a6660b82b2
+    md5_5: a6660
+    md5_6: a6660b
+    oomp_key: oomp_iangitpers_manuf_keystone_1043p
+    oomp_key_extra: oomp_footprint_iangitpers_manuf_keystone_1043p
+    oomp_key_full: oomp_footprint_iangitpers_manuf_keystone_1043p_a6660b
+    oomp_key_simple: iangitpers_manuf_keystone_1043p
     original_filename: 4a/manuf.pretty/KEYSTONE_1043P.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_manuf_keystone_1043p
+  oomp_key_full: oomp_footprint_iangitpers_manuf_keystone_1043p
   oomp_key_simple: iangitpers_manuf_keystone_1043p
   owner: Iangitpers
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: latched_7x7mm_tl_2230
     library_name: switches
+    md5: 30b67d196f38b53210f35ec95ed51dfe
+    md5_10: 30b67d196f
+    md5_5: 30b67
+    md5_6: 30b67d
+    oomp_key: oomp_madworm_switches_latched_7x7mm_tl_2230
+    oomp_key_extra: oomp_footprint_madworm_switches_latched_7x7mm_tl_2230
+    oomp_key_full: oomp_footprint_madworm_switches_latched_7x7mm_tl_2230_30b67d
+    oomp_key_simple: madworm_switches_latched_7x7mm_tl_2230
     original_filename: Switches.pretty/Latched_7x7mm_TL_2230.kicad_mod
     owner_name: madworm
   oomp_key: oomp_madworm_switches_latched_7x7mm_tl_2230
+  oomp_key_full: oomp_footprint_madworm_switches_latched_7x7mm_tl_2230
   oomp_key_simple: madworm_switches_latched_7x7mm_tl_2230
   owner: madworm
   repo:

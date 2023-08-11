@@ -19,9 +19,18 @@
   oomp:
     footprint_name: mountinghole_4_5mm_pad_topbottom
     library_name: mountinghole
+    md5: 13f69ea822f9502a57c2b8ad2e9a61c8
+    md5_10: 13f69ea822
+    md5_5: 13f69
+    md5_6: 13f69e
+    oomp_key: oomp_iangitpers_mountinghole_mountinghole_4_5mm_pad_topbottom
+    oomp_key_extra: oomp_footprint_iangitpers_mountinghole_mountinghole_4_5mm_pad_topbottom
+    oomp_key_full: oomp_footprint_iangitpers_mountinghole_mountinghole_4_5mm_pad_topbottom_13f69e
+    oomp_key_simple: iangitpers_mountinghole_mountinghole_4_5mm_pad_topbottom
     original_filename: 4a/MountingHole.pretty/MountingHole_4.5mm_Pad_TopBottom.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_mountinghole_mountinghole_4_5mm_pad_topbottom
+  oomp_key_full: oomp_footprint_iangitpers_mountinghole_mountinghole_4_5mm_pad_topbottom
   oomp_key_simple: iangitpers_mountinghole_mountinghole_4_5mm_pad_topbottom
   owner: Iangitpers
   repo:

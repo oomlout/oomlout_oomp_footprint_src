@@ -19,9 +19,18 @@
   oomp:
     footprint_name: phoenixcontact_mstbva_2,5_7_g_5,08_1x07_p5_08mm_vertical
     library_name: connector_phoenix_mstb
+    md5: 3b21e545400e5acd45680c267b61f106
+    md5_10: 3b21e54540
+    md5_5: 3b21e
+    md5_6: 3b21e5
+    oomp_key: oomp_kicad_connector_phoenix_mstb_phoenixcontact_mstbva_2,5_7_g_5,08_1x07_p5_08mm_vertical
+    oomp_key_extra: oomp_footprint_kicad_connector_phoenix_mstb_phoenixcontact_mstbva_2,5_7_g_5,08_1x07_p5_08mm_vertical
+    oomp_key_full: oomp_footprint_kicad_connector_phoenix_mstb_phoenixcontact_mstbva_2,5_7_g_5,08_1x07_p5_08mm_vertical_3b21e5
+    oomp_key_simple: kicad_connector_phoenix_mstb_phoenixcontact_mstbva_2,5_7_g_5,08_1x07_p5_08mm_vertical
     original_filename: libraries/kicad-footprints/Connector_Phoenix_MSTB.pretty/PhoenixContact_MSTBVA_2,5_7-G-5,08_1x07_P5.08mm_Vertical.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_phoenix_mstb_phoenixcontact_mstbva_2,5_7_g_5,08_1x07_p5_08mm_vertical
+  oomp_key_full: oomp_footprint_kicad_connector_phoenix_mstb_phoenixcontact_mstbva_2,5_7_g_5,08_1x07_p5_08mm_vertical
   oomp_key_simple: kicad_connector_phoenix_mstb_phoenixcontact_mstbva_2,5_7_g_5,08_1x07_p5_08mm_vertical
   owner: kicad
   repo:

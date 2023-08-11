@@ -17,9 +17,18 @@
   oomp:
     footprint_name: texas_s_pwson_n6_thermalvias
     library_name: avp
+    md5: ab7efefa0cd8b80aaa6af1fb1e5cc172
+    md5_10: ab7efefa0c
+    md5_5: ab7ef
+    md5_6: ab7efe
+    oomp_key: oomp_av_p_avp_texas_s_pwson_n6_thermalvias
+    oomp_key_extra: oomp_footprint_av_p_avp_texas_s_pwson_n6_thermalvias
+    oomp_key_full: oomp_footprint_av_p_avp_texas_s_pwson_n6_thermalvias_ab7efe
+    oomp_key_simple: av_p_avp_texas_s_pwson_n6_thermalvias
     original_filename: Avp.pretty/Texas_S-PWSON-N6_ThermalVias.kicad_mod
     owner_name: av_p
   oomp_key: oomp_av_p_avp_texas_s_pwson_n6_thermalvias
+  oomp_key_full: oomp_footprint_av_p_avp_texas_s_pwson_n6_thermalvias
   oomp_key_simple: av_p_avp_texas_s_pwson_n6_thermalvias
   owner: av-p
   repo:

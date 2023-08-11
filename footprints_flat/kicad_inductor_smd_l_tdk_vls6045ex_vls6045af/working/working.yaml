@@ -17,9 +17,18 @@
   oomp:
     footprint_name: l_tdk_vls6045ex_vls6045af
     library_name: inductor_smd
+    md5: 36e4ad62d0b03969c53f83b1a081f3f0
+    md5_10: 36e4ad62d0
+    md5_5: 36e4a
+    md5_6: 36e4ad
+    oomp_key: oomp_kicad_inductor_smd_l_tdk_vls6045ex_vls6045af
+    oomp_key_extra: oomp_footprint_kicad_inductor_smd_l_tdk_vls6045ex_vls6045af
+    oomp_key_full: oomp_footprint_kicad_inductor_smd_l_tdk_vls6045ex_vls6045af_36e4ad
+    oomp_key_simple: kicad_inductor_smd_l_tdk_vls6045ex_vls6045af
     original_filename: libraries/kicad-footprints/Inductor_SMD.pretty/L_TDK_VLS6045EX_VLS6045AF.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_inductor_smd_l_tdk_vls6045ex_vls6045af
+  oomp_key_full: oomp_footprint_kicad_inductor_smd_l_tdk_vls6045ex_vls6045af
   oomp_key_simple: kicad_inductor_smd_l_tdk_vls6045ex_vls6045af
   owner: kicad
   repo:

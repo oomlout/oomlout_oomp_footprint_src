@@ -17,9 +17,18 @@
   oomp:
     footprint_name: relay_spst_schrack_rp_ii_1_forma_rm5mm
     library_name: relay_tht
+    md5: a388dda5fd006af942d50eae821bcc5f
+    md5_10: a388dda5fd
+    md5_5: a388d
+    md5_6: a388dd
+    oomp_key: oomp_kicad_relay_tht_relay_spst_schrack_rp_ii_1_forma_rm5mm
+    oomp_key_extra: oomp_footprint_kicad_relay_tht_relay_spst_schrack_rp_ii_1_forma_rm5mm
+    oomp_key_full: oomp_footprint_kicad_relay_tht_relay_spst_schrack_rp_ii_1_forma_rm5mm_a388dd
+    oomp_key_simple: kicad_relay_tht_relay_spst_schrack_rp_ii_1_forma_rm5mm
     original_filename: libraries/kicad-footprints/Relay_THT.pretty/Relay_SPST_Schrack-RP-II-1-FormA_RM5mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_relay_tht_relay_spst_schrack_rp_ii_1_forma_rm5mm
+  oomp_key_full: oomp_footprint_kicad_relay_tht_relay_spst_schrack_rp_ii_1_forma_rm5mm
   oomp_key_simple: kicad_relay_tht_relay_spst_schrack_rp_ii_1_forma_rm5mm
   owner: kicad
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: diode_sod_123
     library_name: freetronics_footprints
+    md5: 803ec6a4e0c852282b8a631ac7741932
+    md5_10: 803ec6a4e0
+    md5_5: 803ec
+    md5_6: 803ec6
+    oomp_key: oomp_axello_freetronics_footprints_diode_sod_123
+    oomp_key_extra: oomp_footprint_axello_freetronics_footprints_diode_sod_123
+    oomp_key_full: oomp_footprint_axello_freetronics_footprints_diode_sod_123_803ec6
+    oomp_key_simple: axello_freetronics_footprints_diode_sod_123
     original_filename: kicad/mods/freetronics_footprints.pretty/DIODE_SOD-123.kicad_mod
     owner_name: axello
   oomp_key: oomp_axello_freetronics_footprints_diode_sod_123
+  oomp_key_full: oomp_footprint_axello_freetronics_footprints_diode_sod_123
   oomp_key_simple: axello_freetronics_footprints_diode_sod_123
   owner: axello
   repo:

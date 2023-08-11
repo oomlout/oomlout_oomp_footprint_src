@@ -17,9 +17,18 @@
   oomp:
     footprint_name: cp_elec_10x12_6
     library_name: capacitor_smd
+    md5: fc488a73413e9e4236322f5e4c191bce
+    md5_10: fc488a7341
+    md5_5: fc488
+    md5_6: fc488a
+    oomp_key: oomp_kicad_capacitor_smd_cp_elec_10x12_6
+    oomp_key_extra: oomp_footprint_kicad_capacitor_smd_cp_elec_10x12_6
+    oomp_key_full: oomp_footprint_kicad_capacitor_smd_cp_elec_10x12_6_fc488a
+    oomp_key_simple: kicad_capacitor_smd_cp_elec_10x12_6
     original_filename: libraries/kicad-footprints/Capacitor_SMD.pretty/CP_Elec_10x12.6.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_capacitor_smd_cp_elec_10x12_6
+  oomp_key_full: oomp_footprint_kicad_capacitor_smd_cp_elec_10x12_6
   oomp_key_simple: kicad_capacitor_smd_cp_elec_10x12_6
   owner: kicad
   repo:

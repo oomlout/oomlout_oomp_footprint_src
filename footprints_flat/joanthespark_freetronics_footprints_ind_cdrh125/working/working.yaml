@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ind_cdrh125
     library_name: freetronics_footprints
+    md5: 3bf111feb80480f07edf979037acdf15
+    md5_10: 3bf111feb8
+    md5_5: 3bf11
+    md5_6: 3bf111
+    oomp_key: oomp_joanthespark_freetronics_footprints_ind_cdrh125
+    oomp_key_extra: oomp_footprint_joanthespark_freetronics_footprints_ind_cdrh125
+    oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_ind_cdrh125_3bf111
+    oomp_key_simple: joanthespark_freetronics_footprints_ind_cdrh125
     original_filename: KiCAD/mods/freetronics_footprints.pretty/IND_CDRH125.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_freetronics_footprints_ind_cdrh125
+  oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_ind_cdrh125
   oomp_key_simple: joanthespark_freetronics_footprints_ind_cdrh125
   owner: JoanTheSpark
   repo:

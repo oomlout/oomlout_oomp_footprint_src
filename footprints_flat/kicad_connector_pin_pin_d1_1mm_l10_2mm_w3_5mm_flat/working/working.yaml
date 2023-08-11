@@ -18,9 +18,18 @@
   oomp:
     footprint_name: pin_d1_1mm_l10_2mm_w3_5mm_flat
     library_name: connector_pin
+    md5: 421fe5196f75e0fc5a882ee79c50fff2
+    md5_10: 421fe5196f
+    md5_5: 421fe
+    md5_6: 421fe5
+    oomp_key: oomp_kicad_connector_pin_pin_d1_1mm_l10_2mm_w3_5mm_flat
+    oomp_key_extra: oomp_footprint_kicad_connector_pin_pin_d1_1mm_l10_2mm_w3_5mm_flat
+    oomp_key_full: oomp_footprint_kicad_connector_pin_pin_d1_1mm_l10_2mm_w3_5mm_flat_421fe5
+    oomp_key_simple: kicad_connector_pin_pin_d1_1mm_l10_2mm_w3_5mm_flat
     original_filename: libraries/kicad-footprints/Connector_Pin.pretty/Pin_D1.1mm_L10.2mm_W3.5mm_Flat.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_pin_pin_d1_1mm_l10_2mm_w3_5mm_flat
+  oomp_key_full: oomp_footprint_kicad_connector_pin_pin_d1_1mm_l10_2mm_w3_5mm_flat
   oomp_key_simple: kicad_connector_pin_pin_d1_1mm_l10_2mm_w3_5mm_flat
   owner: kicad
   repo:

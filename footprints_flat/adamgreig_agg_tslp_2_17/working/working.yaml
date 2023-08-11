@@ -16,10 +16,19 @@
   name: agg-kicad
   oomp:
     footprint_name: tslp_2_17
-    library_name: unchecked
+    library_name: agg
+    md5: 0c10c443370f31c3245bcb0823271892
+    md5_10: 0c10c44337
+    md5_5: 0c10c
+    md5_6: 0c10c4
+    oomp_key: oomp_adamgreig_agg_tslp_2_17
+    oomp_key_extra: oomp_footprint_adamgreig_agg_tslp_2_17
+    oomp_key_full: oomp_footprint_adamgreig_agg_tslp_2_17_0c10c4
+    oomp_key_simple: adamgreig_agg_tslp_2_17
     original_filename: agg-kicad/agg.pretty/unchecked.pretty/TSLP-2-17.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_tslp_2_17
+  oomp_key_full: oomp_footprint_adamgreig_agg_tslp_2_17
   oomp_key_simple: adamgreig_agg_tslp_2_17
   owner: adamgreig
   repo:

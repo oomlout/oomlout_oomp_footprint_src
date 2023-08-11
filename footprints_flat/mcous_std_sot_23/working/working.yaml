@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sot_23
     library_name: _std
+    md5: f7da9b2055e9209187b49c14d244e4cc
+    md5_10: f7da9b2055
+    md5_5: f7da9
+    md5_6: f7da9b
+    oomp_key: oomp_mcous_std_sot_23
+    oomp_key_extra: oomp_footprint_mcous_std_sot_23
+    oomp_key_full: oomp_footprint_mcous_std_sot_23_f7da9b
+    oomp_key_simple: mcous_std_sot_23
     original_filename: kicad-lib/footprints/_std.pretty/SOT-23.kicad_mod
     owner_name: mcous
   oomp_key: oomp_mcous_std_sot_23
+  oomp_key_full: oomp_footprint_mcous_std_sot_23
   oomp_key_simple: mcous_std_sot_23
   owner: mcous
   repo:

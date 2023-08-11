@@ -17,9 +17,18 @@
   oomp:
     footprint_name: wfdfn_14_1ep_3x3mm
     library_name: digikey_footprints
+    md5: 6d0f069d6433039d0ceeb8f9a93a2eb3
+    md5_10: 6d0f069d64
+    md5_5: 6d0f0
+    md5_6: 6d0f06
+    oomp_key: oomp_digikey_digikey_footprints_wfdfn_14_1ep_3x3mm
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_wfdfn_14_1ep_3x3mm
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_wfdfn_14_1ep_3x3mm_6d0f06
+    oomp_key_simple: digikey_digikey_footprints_wfdfn_14_1ep_3x3mm
     original_filename: digikey-kicad-library/digikey-footprints.pretty/WFDFN-14-1EP_3x3mm.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_wfdfn_14_1ep_3x3mm
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_wfdfn_14_1ep_3x3mm
   oomp_key_simple: digikey_digikey_footprints_wfdfn_14_1ep_3x3mm
   owner: digikey
   repo:

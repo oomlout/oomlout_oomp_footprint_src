@@ -17,9 +17,18 @@
   oomp:
     footprint_name: magneticbuzzer_kingstate_kcg0601
     library_name: buzzer_beeper
+    md5: 0d96e64a9ccbcc059aa21875c048153d
+    md5_10: 0d96e64a9c
+    md5_5: 0d96e
+    md5_6: 0d96e6
+    oomp_key: oomp_kicad_buzzer_beeper_magneticbuzzer_kingstate_kcg0601
+    oomp_key_extra: oomp_footprint_kicad_buzzer_beeper_magneticbuzzer_kingstate_kcg0601
+    oomp_key_full: oomp_footprint_kicad_buzzer_beeper_magneticbuzzer_kingstate_kcg0601_0d96e6
+    oomp_key_simple: kicad_buzzer_beeper_magneticbuzzer_kingstate_kcg0601
     original_filename: libraries/kicad-footprints/Buzzer_Beeper.pretty/MagneticBuzzer_Kingstate_KCG0601.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_buzzer_beeper_magneticbuzzer_kingstate_kcg0601
+  oomp_key_full: oomp_footprint_kicad_buzzer_beeper_magneticbuzzer_kingstate_kcg0601
   oomp_key_simple: kicad_buzzer_beeper_magneticbuzzer_kingstate_kcg0601
   owner: kicad
   repo:

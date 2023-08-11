@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sc_59
     library_name: smd_semi
+    md5: 1b93b7762131b67dd8f3c8ae9867d850
+    md5_10: 1b93b77621
+    md5_5: 1b93b
+    md5_6: 1b93b7
+    oomp_key: oomp_cpavlina_smd_semi_sc_59
+    oomp_key_extra: oomp_footprint_cpavlina_smd_semi_sc_59
+    oomp_key_full: oomp_footprint_cpavlina_smd_semi_sc_59_1b93b7
+    oomp_key_simple: cpavlina_smd_semi_sc_59
     original_filename: kicad-pcblib/smd-semi.pretty/SC-59.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_smd_semi_sc_59
+  oomp_key_full: oomp_footprint_cpavlina_smd_semi_sc_59
   oomp_key_simple: cpavlina_smd_semi_sc_59
   owner: cpavlina
   repo:

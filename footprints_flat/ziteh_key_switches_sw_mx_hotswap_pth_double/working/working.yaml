@@ -19,9 +19,18 @@
   oomp:
     footprint_name: sw_mx_hotswap_pth_double
     library_name: key_switches
+    md5: 03f716022f42114a683c0897debe96e3
+    md5_10: 03f716022f
+    md5_5: 03f71
+    md5_6: 03f716
+    oomp_key: oomp_ziteh_key_switches_sw_mx_hotswap_pth_double
+    oomp_key_extra: oomp_footprint_ziteh_key_switches_sw_mx_hotswap_pth_double
+    oomp_key_full: oomp_footprint_ziteh_key_switches_sw_mx_hotswap_pth_double_03f716
+    oomp_key_simple: ziteh_key_switches_sw_mx_hotswap_pth_double
     original_filename: key-switches.pretty/SW_MX_HotSwap_PTH_double.kicad_mod
     owner_name: ziteh
   oomp_key: oomp_ziteh_key_switches_sw_mx_hotswap_pth_double
+  oomp_key_full: oomp_footprint_ziteh_key_switches_sw_mx_hotswap_pth_double
   oomp_key_simple: ziteh_key_switches_sw_mx_hotswap_pth_double
   owner: ziteh
   repo:

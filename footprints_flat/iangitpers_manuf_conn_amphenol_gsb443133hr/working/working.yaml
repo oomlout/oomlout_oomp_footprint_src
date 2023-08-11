@@ -19,9 +19,18 @@
   oomp:
     footprint_name: conn_amphenol_gsb443133hr
     library_name: manuf
+    md5: 9e2277abbf5d136f016d1ce86a8ec80d
+    md5_10: 9e2277abbf
+    md5_5: 9e227
+    md5_6: 9e2277
+    oomp_key: oomp_iangitpers_manuf_conn_amphenol_gsb443133hr
+    oomp_key_extra: oomp_footprint_iangitpers_manuf_conn_amphenol_gsb443133hr
+    oomp_key_full: oomp_footprint_iangitpers_manuf_conn_amphenol_gsb443133hr_9e2277
+    oomp_key_simple: iangitpers_manuf_conn_amphenol_gsb443133hr
     original_filename: 4a/manuf.pretty/CONN-Amphenol-GSB443133HR.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_manuf_conn_amphenol_gsb443133hr
+  oomp_key_full: oomp_footprint_iangitpers_manuf_conn_amphenol_gsb443133hr
   oomp_key_simple: iangitpers_manuf_conn_amphenol_gsb443133hr
   owner: Iangitpers
   repo:

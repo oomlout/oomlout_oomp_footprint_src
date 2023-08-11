@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ipl1_116_02_l_sh
     library_name: agg
+    md5: 93d3f9ccbc480abf6911ceae874e5c2b
+    md5_10: 93d3f9ccbc
+    md5_5: 93d3f
+    md5_6: 93d3f9
+    oomp_key: oomp_adamgreig_agg_ipl1_116_02_l_sh
+    oomp_key_extra: oomp_footprint_adamgreig_agg_ipl1_116_02_l_sh
+    oomp_key_full: oomp_footprint_adamgreig_agg_ipl1_116_02_l_sh_93d3f9
+    oomp_key_simple: adamgreig_agg_ipl1_116_02_l_sh
     original_filename: agg-kicad/agg.pretty/IPL1-116-02-L-SH.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_ipl1_116_02_l_sh
+  oomp_key_full: oomp_footprint_adamgreig_agg_ipl1_116_02_l_sh
   oomp_key_simple: adamgreig_agg_ipl1_116_02_l_sh
   owner: adamgreig
   repo:

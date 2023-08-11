@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ws2812b
     library_name: freetronics_footprints
+    md5: 74842bce9949803e3c9ac2060a84c2af
+    md5_10: 74842bce99
+    md5_5: '74842'
+    md5_6: 74842b
+    oomp_key: oomp_wykys_freetronics_footprints_ws2812b
+    oomp_key_extra: oomp_footprint_wykys_freetronics_footprints_ws2812b
+    oomp_key_full: oomp_footprint_wykys_freetronics_footprints_ws2812b_74842b
+    oomp_key_simple: wykys_freetronics_footprints_ws2812b
     original_filename: kicad/mods/freetronics_footprints.pretty/WS2812B.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_freetronics_footprints_ws2812b
+  oomp_key_full: oomp_footprint_wykys_freetronics_footprints_ws2812b
   oomp_key_simple: wykys_freetronics_footprints_ws2812b
   owner: wykys
   repo:

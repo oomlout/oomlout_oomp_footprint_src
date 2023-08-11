@@ -17,9 +17,18 @@
   oomp:
     footprint_name: mx_fmask_2u
     library_name: keebio_parts
+    md5: 5cb8bf59ea042cebcbdaea4ab60a46dd
+    md5_10: 5cb8bf59ea
+    md5_5: 5cb8b
+    md5_6: 5cb8bf
+    oomp_key: oomp_keebio_keebio_parts_mx_fmask_2u
+    oomp_key_extra: oomp_footprint_keebio_keebio_parts_mx_fmask_2u
+    oomp_key_full: oomp_footprint_keebio_keebio_parts_mx_fmask_2u_5cb8bf
+    oomp_key_simple: keebio_keebio_parts_mx_fmask_2u
     original_filename: Keebio-Parts.pretty/MX_FMask-2u.kicad_mod
     owner_name: keebio
   oomp_key: oomp_keebio_keebio_parts_mx_fmask_2u
+  oomp_key_full: oomp_footprint_keebio_keebio_parts_mx_fmask_2u
   oomp_key_simple: keebio_keebio_parts_mx_fmask_2u
   owner: keebio
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: dfn_8_ep_microchip
     library_name: agg
+    md5: b511a2b705dcaee2375c07292eada96b
+    md5_10: b511a2b705
+    md5_5: b511a
+    md5_6: b511a2
+    oomp_key: oomp_adamgreig_agg_dfn_8_ep_microchip
+    oomp_key_extra: oomp_footprint_adamgreig_agg_dfn_8_ep_microchip
+    oomp_key_full: oomp_footprint_adamgreig_agg_dfn_8_ep_microchip_b511a2
+    oomp_key_simple: adamgreig_agg_dfn_8_ep_microchip
     original_filename: agg-kicad/agg.pretty/DFN-8-EP-MICROCHIP.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_dfn_8_ep_microchip
+  oomp_key_full: oomp_footprint_adamgreig_agg_dfn_8_ep_microchip
   oomp_key_simple: adamgreig_agg_dfn_8_ep_microchip
   owner: adamgreig
   repo:

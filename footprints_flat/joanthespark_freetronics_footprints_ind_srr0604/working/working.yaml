@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ind_srr0604
     library_name: freetronics_footprints
+    md5: 2e800d4c4d458b9ccf0dfe9b2c4a8ac5
+    md5_10: 2e800d4c4d
+    md5_5: 2e800
+    md5_6: 2e800d
+    oomp_key: oomp_joanthespark_freetronics_footprints_ind_srr0604
+    oomp_key_extra: oomp_footprint_joanthespark_freetronics_footprints_ind_srr0604
+    oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_ind_srr0604_2e800d
+    oomp_key_simple: joanthespark_freetronics_footprints_ind_srr0604
     original_filename: KiCAD/mods/freetronics_footprints.pretty/IND_SRR0604.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_freetronics_footprints_ind_srr0604
+  oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_ind_srr0604
   oomp_key_simple: joanthespark_freetronics_footprints_ind_srr0604
   owner: JoanTheSpark
   repo:

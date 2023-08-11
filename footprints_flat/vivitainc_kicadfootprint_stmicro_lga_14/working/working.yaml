@@ -17,9 +17,18 @@
   oomp:
     footprint_name: stmicro_lga_14
     library_name: kicadfootprint
+    md5: b69d933140d6552b2feab765b237acdf
+    md5_10: b69d933140
+    md5_5: b69d9
+    md5_6: b69d93
+    oomp_key: oomp_vivitainc_kicadfootprint_stmicro_lga_14
+    oomp_key_extra: oomp_footprint_vivitainc_kicadfootprint_stmicro_lga_14
+    oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_stmicro_lga_14_b69d93
+    oomp_key_simple: vivitainc_kicadfootprint_stmicro_lga_14
     original_filename: KiCADfootprint.pretty/STMicro_LGA-14.kicad_mod
     owner_name: vivitainc
   oomp_key: oomp_vivitainc_kicadfootprint_stmicro_lga_14
+  oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_stmicro_lga_14
   oomp_key_simple: vivitainc_kicadfootprint_stmicro_lga_14
   owner: vivitainc
   repo:

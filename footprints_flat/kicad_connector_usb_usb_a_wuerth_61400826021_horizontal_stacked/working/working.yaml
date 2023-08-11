@@ -17,9 +17,18 @@
   oomp:
     footprint_name: usb_a_wuerth_61400826021_horizontal_stacked
     library_name: connector_usb
+    md5: b62ac90c5a8bad8ab662047041cf8cc0
+    md5_10: b62ac90c5a
+    md5_5: b62ac
+    md5_6: b62ac9
+    oomp_key: oomp_kicad_connector_usb_usb_a_wuerth_61400826021_horizontal_stacked
+    oomp_key_extra: oomp_footprint_kicad_connector_usb_usb_a_wuerth_61400826021_horizontal_stacked
+    oomp_key_full: oomp_footprint_kicad_connector_usb_usb_a_wuerth_61400826021_horizontal_stacked_b62ac9
+    oomp_key_simple: kicad_connector_usb_usb_a_wuerth_61400826021_horizontal_stacked
     original_filename: libraries/kicad-footprints/Connector_USB.pretty/USB_A_Wuerth_61400826021_Horizontal_Stacked.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_usb_usb_a_wuerth_61400826021_horizontal_stacked
+  oomp_key_full: oomp_footprint_kicad_connector_usb_usb_a_wuerth_61400826021_horizontal_stacked
   oomp_key_simple: kicad_connector_usb_usb_a_wuerth_61400826021_horizontal_stacked
   owner: kicad
   repo:

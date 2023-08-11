@@ -17,9 +17,18 @@
   oomp:
     footprint_name: via_stich_0_5_m
     library_name: usst_footprints
+    md5: 141416ca452c3ef06975c6cdbae24e01
+    md5_10: 141416ca45
+    md5_5: '14141'
+    md5_6: '141416'
+    oomp_key: oomp_uofsspaceteam_usst_footprints_via_stich_0_5_m
+    oomp_key_extra: oomp_footprint_uofsspaceteam_usst_footprints_via_stich_0_5_m
+    oomp_key_full: oomp_footprint_uofsspaceteam_usst_footprints_via_stich_0_5_m_141416
+    oomp_key_simple: uofsspaceteam_usst_footprints_via_stich_0_5_m
     original_filename: USST-footprints.pretty/VIA_STICH_0.5_M.kicad_mod
     owner_name: uofsspaceteam
   oomp_key: oomp_uofsspaceteam_usst_footprints_via_stich_0_5_m
+  oomp_key_full: oomp_footprint_uofsspaceteam_usst_footprints_via_stich_0_5_m
   oomp_key_simple: uofsspaceteam_usst_footprints_via_stich_0_5_m
   owner: UofSSpaceTeam
   repo:

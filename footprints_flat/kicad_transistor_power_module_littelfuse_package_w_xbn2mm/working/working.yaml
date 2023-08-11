@@ -17,9 +17,18 @@
   oomp:
     footprint_name: littelfuse_package_w_xbn2mm
     library_name: transistor_power_module
+    md5: 234079e741bb2c86363ce5cb050f0be3
+    md5_10: 234079e741
+    md5_5: '23407'
+    md5_6: '234079'
+    oomp_key: oomp_kicad_transistor_power_module_littelfuse_package_w_xbn2mm
+    oomp_key_extra: oomp_footprint_kicad_transistor_power_module_littelfuse_package_w_xbn2mm
+    oomp_key_full: oomp_footprint_kicad_transistor_power_module_littelfuse_package_w_xbn2mm_234079
+    oomp_key_simple: kicad_transistor_power_module_littelfuse_package_w_xbn2mm
     original_filename: libraries/kicad-footprints/Transistor_Power_Module.pretty/Littelfuse_Package_W_XBN2MM.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_transistor_power_module_littelfuse_package_w_xbn2mm
+  oomp_key_full: oomp_footprint_kicad_transistor_power_module_littelfuse_package_w_xbn2mm
   oomp_key_simple: kicad_transistor_power_module_littelfuse_package_w_xbn2mm
   owner: kicad
   repo:

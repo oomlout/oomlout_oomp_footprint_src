@@ -17,9 +17,18 @@
   oomp:
     footprint_name: d2pak_smd
     library_name: usst_footprints
+    md5: aca19ff3f46bfd15acf1ddd1c51b8904
+    md5_10: aca19ff3f4
+    md5_5: aca19
+    md5_6: aca19f
+    oomp_key: oomp_uofsspacedesignteam_usst_footprints_d2pak_smd
+    oomp_key_extra: oomp_footprint_uofsspacedesignteam_usst_footprints_d2pak_smd
+    oomp_key_full: oomp_footprint_uofsspacedesignteam_usst_footprints_d2pak_smd_aca19f
+    oomp_key_simple: uofsspacedesignteam_usst_footprints_d2pak_smd
     original_filename: USST-footprints.pretty/D2PAK_SMD.kicad_mod
     owner_name: uofsspacedesignteam
   oomp_key: oomp_uofsspacedesignteam_usst_footprints_d2pak_smd
+  oomp_key_full: oomp_footprint_uofsspacedesignteam_usst_footprints_d2pak_smd
   oomp_key_simple: uofsspacedesignteam_usst_footprints_d2pak_smd
   owner: UofSSpaceDesignTeam
   repo:

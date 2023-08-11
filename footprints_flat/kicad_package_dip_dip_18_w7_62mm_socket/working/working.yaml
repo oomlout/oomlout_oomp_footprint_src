@@ -18,9 +18,18 @@
   oomp:
     footprint_name: dip_18_w7_62mm_socket
     library_name: package_dip
+    md5: e47254671e625f25613effa6ea5864fe
+    md5_10: e47254671e
+    md5_5: e4725
+    md5_6: e47254
+    oomp_key: oomp_kicad_package_dip_dip_18_w7_62mm_socket
+    oomp_key_extra: oomp_footprint_kicad_package_dip_dip_18_w7_62mm_socket
+    oomp_key_full: oomp_footprint_kicad_package_dip_dip_18_w7_62mm_socket_e47254
+    oomp_key_simple: kicad_package_dip_dip_18_w7_62mm_socket
     original_filename: libraries/kicad-footprints/Package_DIP.pretty/DIP-18_W7.62mm_Socket.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_dip_dip_18_w7_62mm_socket
+  oomp_key_full: oomp_footprint_kicad_package_dip_dip_18_w7_62mm_socket
   oomp_key_simple: kicad_package_dip_dip_18_w7_62mm_socket
   owner: kicad
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: led_hole
     library_name: poncho_modelos
+    md5: dc9f829985487ad46267b53d184a26bb
+    md5_10: dc9f829985
+    md5_5: dc9f8
+    md5_6: dc9f82
+    oomp_key: oomp_lacieunlam_poncho_modelos_led_hole
+    oomp_key_extra: oomp_footprint_lacieunlam_poncho_modelos_led_hole
+    oomp_key_full: oomp_footprint_lacieunlam_poncho_modelos_led_hole_dc9f82
+    oomp_key_simple: lacieunlam_poncho_modelos_led_hole
     original_filename: Poncho_Modelos.pretty/Led_Hole.kicad_mod
     owner_name: lacieunlam
   oomp_key: oomp_lacieunlam_poncho_modelos_led_hole
+  oomp_key_full: oomp_footprint_lacieunlam_poncho_modelos_led_hole
   oomp_key_simple: lacieunlam_poncho_modelos_led_hole
   owner: LacieUnlam
   repo:

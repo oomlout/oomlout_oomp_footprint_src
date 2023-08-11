@@ -17,9 +17,18 @@
   oomp:
     footprint_name: wire_pad_16ga
     library_name: apex_smd_wire_pads
+    md5: f16f78109290163f63e6d8d0f755d3c9
+    md5_10: f16f781092
+    md5_5: f16f7
+    md5_6: f16f78
+    oomp_key: oomp_apexelectrix_apex_smd_wire_pads_wire_pad_16ga
+    oomp_key_extra: oomp_footprint_apexelectrix_apex_smd_wire_pads_wire_pad_16ga
+    oomp_key_full: oomp_footprint_apexelectrix_apex_smd_wire_pads_wire_pad_16ga_f16f78
+    oomp_key_simple: apexelectrix_apex_smd_wire_pads_wire_pad_16ga
     original_filename: apex-smd-wire-pads.pretty/wire-pad-16ga.kicad_mod
     owner_name: apexelectrix
   oomp_key: oomp_apexelectrix_apex_smd_wire_pads_wire_pad_16ga
+  oomp_key_full: oomp_footprint_apexelectrix_apex_smd_wire_pads_wire_pad_16ga
   oomp_key_simple: apexelectrix_apex_smd_wire_pads_wire_pad_16ga
   owner: apexelectrix
   repo:

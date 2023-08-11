@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_b3f_10xx
     library_name: xess
+    md5: 323a9bf7fd09b258f1bcd7c3cc9be4cd
+    md5_10: 323a9bf7fd
+    md5_5: 323a9
+    md5_6: 323a9b
+    oomp_key: oomp_xesscorp_xess_xess_b3f_10xx
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_b3f_10xx
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_b3f_10xx_323a9b
+    oomp_key_simple: xesscorp_xess_xess_b3f_10xx
     original_filename: xess.pretty/xess-B3F-10XX.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_b3f_10xx
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_b3f_10xx
   oomp_key_simple: xesscorp_xess_xess_b3f_10xx
   owner: xesscorp
   repo:

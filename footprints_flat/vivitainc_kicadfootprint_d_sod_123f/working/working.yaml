@@ -17,9 +17,18 @@
   oomp:
     footprint_name: d_sod_123f
     library_name: kicadfootprint
+    md5: e729c9b4577ac1550db9cb638de96c75
+    md5_10: e729c9b457
+    md5_5: e729c
+    md5_6: e729c9
+    oomp_key: oomp_vivitainc_kicadfootprint_d_sod_123f
+    oomp_key_extra: oomp_footprint_vivitainc_kicadfootprint_d_sod_123f
+    oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_d_sod_123f_e729c9
+    oomp_key_simple: vivitainc_kicadfootprint_d_sod_123f
     original_filename: KiCADfootprint.pretty/D_SOD-123F.kicad_mod
     owner_name: vivitainc
   oomp_key: oomp_vivitainc_kicadfootprint_d_sod_123f
+  oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_d_sod_123f
   oomp_key_simple: vivitainc_kicadfootprint_d_sod_123f
   owner: vivitainc
   repo:

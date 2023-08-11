@@ -17,9 +17,18 @@
   oomp:
     footprint_name: adafruit_ssd1306_no_mounting_holes
     library_name: display
+    md5: b81815b3379dbce8c83f017078fac76d
+    md5_10: b81815b337
+    md5_5: b8181
+    md5_6: b81815
+    oomp_key: oomp_kicad_display_adafruit_ssd1306_no_mounting_holes
+    oomp_key_extra: oomp_footprint_kicad_display_adafruit_ssd1306_no_mounting_holes
+    oomp_key_full: oomp_footprint_kicad_display_adafruit_ssd1306_no_mounting_holes_b81815
+    oomp_key_simple: kicad_display_adafruit_ssd1306_no_mounting_holes
     original_filename: libraries/kicad-footprints/Display.pretty/Adafruit_SSD1306_No_Mounting_Holes.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_display_adafruit_ssd1306_no_mounting_holes
+  oomp_key_full: oomp_footprint_kicad_display_adafruit_ssd1306_no_mounting_holes
   oomp_key_simple: kicad_display_adafruit_ssd1306_no_mounting_holes
   owner: kicad
   repo:

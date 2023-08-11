@@ -17,9 +17,18 @@
   oomp:
     footprint_name: r_0603
     library_name: _std
+    md5: b4e0b53a208e99d5cdacbcab2bd5a986
+    md5_10: b4e0b53a20
+    md5_5: b4e0b
+    md5_6: b4e0b5
+    oomp_key: oomp_mcous_std_r_0603
+    oomp_key_extra: oomp_footprint_mcous_std_r_0603
+    oomp_key_full: oomp_footprint_mcous_std_r_0603_b4e0b5
+    oomp_key_simple: mcous_std_r_0603
     original_filename: kicad-lib/footprints/_std.pretty/R_0603.kicad_mod
     owner_name: mcous
   oomp_key: oomp_mcous_std_r_0603
+  oomp_key_full: oomp_footprint_mcous_std_r_0603
   oomp_key_simple: mcous_std_r_0603
   owner: mcous
   repo:

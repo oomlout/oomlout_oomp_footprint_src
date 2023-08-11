@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sil_8_1_27mm
     library_name: sil_headers
+    md5: 72067530a1e37584d0e2918d2eb7a4d7
+    md5_10: 72067530a1
+    md5_5: '72067'
+    md5_6: '720675'
+    oomp_key: oomp_madworm_sil_headers_sil_8_1_27mm
+    oomp_key_extra: oomp_footprint_madworm_sil_headers_sil_8_1_27mm
+    oomp_key_full: oomp_footprint_madworm_sil_headers_sil_8_1_27mm_720675
+    oomp_key_simple: madworm_sil_headers_sil_8_1_27mm
     original_filename: SIL-Headers.pretty/SIL-8-1.27mm.kicad_mod
     owner_name: madworm
   oomp_key: oomp_madworm_sil_headers_sil_8_1_27mm
+  oomp_key_full: oomp_footprint_madworm_sil_headers_sil_8_1_27mm
   oomp_key_simple: madworm_sil_headers_sil_8_1_27mm
   owner: madworm
   repo:

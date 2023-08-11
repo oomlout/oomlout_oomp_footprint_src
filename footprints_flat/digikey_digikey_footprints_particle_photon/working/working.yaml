@@ -17,9 +17,18 @@
   oomp:
     footprint_name: particle_photon
     library_name: digikey_footprints
+    md5: c505ad8664018ffda75ee7f616f7f77c
+    md5_10: c505ad8664
+    md5_5: c505a
+    md5_6: c505ad
+    oomp_key: oomp_digikey_digikey_footprints_particle_photon
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_particle_photon
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_particle_photon_c505ad
+    oomp_key_simple: digikey_digikey_footprints_particle_photon
     original_filename: digikey-kicad-library/digikey-footprints.pretty/Particle_Photon.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_particle_photon
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_particle_photon
   oomp_key_simple: digikey_digikey_footprints_particle_photon
   owner: digikey
   repo:

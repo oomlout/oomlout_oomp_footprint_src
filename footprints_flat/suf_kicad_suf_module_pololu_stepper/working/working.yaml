@@ -17,9 +17,18 @@
   oomp:
     footprint_name: pololu_stepper
     library_name: suf_module
+    md5: e2fdb734b33182ff7dd2de0e930d0da6
+    md5_10: e2fdb734b3
+    md5_5: e2fdb
+    md5_6: e2fdb7
+    oomp_key: oomp_suf_kicad_suf_module_pololu_stepper
+    oomp_key_extra: oomp_footprint_suf_kicad_suf_module_pololu_stepper
+    oomp_key_full: oomp_footprint_suf_kicad_suf_module_pololu_stepper_e2fdb7
+    oomp_key_simple: suf_kicad_suf_module_pololu_stepper
     original_filename: suf_module.pretty/POLOLU_STEPPER.kicad_mod
     owner_name: suf_kicad
   oomp_key: oomp_suf_kicad_suf_module_pololu_stepper
+  oomp_key_full: oomp_footprint_suf_kicad_suf_module_pololu_stepper
   oomp_key_simple: suf_kicad_suf_module_pololu_stepper
   owner: suf-KiCAD
   repo:

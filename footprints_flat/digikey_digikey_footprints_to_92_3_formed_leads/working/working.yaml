@@ -17,9 +17,18 @@
   oomp:
     footprint_name: to_92_3_formed_leads
     library_name: digikey_footprints
+    md5: d7a3867c41834276ac7db6ea52ed3880
+    md5_10: d7a3867c41
+    md5_5: d7a38
+    md5_6: d7a386
+    oomp_key: oomp_digikey_digikey_footprints_to_92_3_formed_leads
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_to_92_3_formed_leads
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_to_92_3_formed_leads_d7a386
+    oomp_key_simple: digikey_digikey_footprints_to_92_3_formed_leads
     original_filename: digikey-kicad-library/digikey-footprints.pretty/TO-92-3_Formed_Leads.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_to_92_3_formed_leads
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_to_92_3_formed_leads
   oomp_key_simple: digikey_digikey_footprints_to_92_3_formed_leads
   owner: digikey
   repo:

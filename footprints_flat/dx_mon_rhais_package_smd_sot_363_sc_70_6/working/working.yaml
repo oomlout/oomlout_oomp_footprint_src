@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sot_363_sc_70_6
     library_name: rhais_package_smd
+    md5: 96ead84ce28a5028714c2542cd376d97
+    md5_10: 96ead84ce2
+    md5_5: 96ead
+    md5_6: 96ead8
+    oomp_key: oomp_dx_mon_rhais_package_smd_sot_363_sc_70_6
+    oomp_key_extra: oomp_footprint_dx_mon_rhais_package_smd_sot_363_sc_70_6
+    oomp_key_full: oomp_footprint_dx_mon_rhais_package_smd_sot_363_sc_70_6_96ead8
+    oomp_key_simple: dx_mon_rhais_package_smd_sot_363_sc_70_6
     original_filename: rhais_package-smd.pretty/SOT-363_SC-70-6.kicad_mod
     owner_name: dx_mon
   oomp_key: oomp_dx_mon_rhais_package_smd_sot_363_sc_70_6
+  oomp_key_full: oomp_footprint_dx_mon_rhais_package_smd_sot_363_sc_70_6
   oomp_key_simple: dx_mon_rhais_package_smd_sot_363_sc_70_6
   owner: DX-MON
   repo:

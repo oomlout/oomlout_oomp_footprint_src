@@ -17,9 +17,18 @@
   oomp:
     footprint_name: nettie_3_tht_pad0_3mm
     library_name: nettie
+    md5: 64c5111c334721914070c75c6342e76d
+    md5_10: 64c5111c33
+    md5_5: 64c51
+    md5_6: 64c511
+    oomp_key: oomp_kicad_nettie_nettie_3_tht_pad0_3mm
+    oomp_key_extra: oomp_footprint_kicad_nettie_nettie_3_tht_pad0_3mm
+    oomp_key_full: oomp_footprint_kicad_nettie_nettie_3_tht_pad0_3mm_64c511
+    oomp_key_simple: kicad_nettie_nettie_3_tht_pad0_3mm
     original_filename: libraries/kicad-footprints/NetTie.pretty/NetTie-3_THT_Pad0.3mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_nettie_nettie_3_tht_pad0_3mm
+  oomp_key_full: oomp_footprint_kicad_nettie_nettie_3_tht_pad0_3mm
   oomp_key_simple: kicad_nettie_nettie_3_tht_pad0_3mm
   owner: kicad
   repo:

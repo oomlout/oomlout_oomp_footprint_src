@@ -17,9 +17,18 @@
   oomp:
     footprint_name: abracon_ab26trq
     library_name: manuf
+    md5: 05d2cb7c66220d91ea5e7d211f870086
+    md5_10: 05d2cb7c66
+    md5_5: 05d2c
+    md5_6: 05d2cb
+    oomp_key: oomp_cpavlina_manuf_abracon_ab26trq
+    oomp_key_extra: oomp_footprint_cpavlina_manuf_abracon_ab26trq
+    oomp_key_full: oomp_footprint_cpavlina_manuf_abracon_ab26trq_05d2cb
+    oomp_key_simple: cpavlina_manuf_abracon_ab26trq
     original_filename: kicad-pcblib/manuf.pretty/ABRACON_AB26TRQ.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_manuf_abracon_ab26trq
+  oomp_key_full: oomp_footprint_cpavlina_manuf_abracon_ab26trq
   oomp_key_simple: cpavlina_manuf_abracon_ab26trq
   owner: cpavlina
   repo:

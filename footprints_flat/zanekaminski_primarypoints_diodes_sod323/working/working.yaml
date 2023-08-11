@@ -17,9 +17,18 @@
   oomp:
     footprint_name: diodes_sod323
     library_name: primarypoints
+    md5: cf0f45c7735344359546f76fd05173ec
+    md5_10: cf0f45c773
+    md5_5: cf0f4
+    md5_6: cf0f45
+    oomp_key: oomp_zanekaminski_primarypoints_diodes_sod323
+    oomp_key_extra: oomp_footprint_zanekaminski_primarypoints_diodes_sod323
+    oomp_key_full: oomp_footprint_zanekaminski_primarypoints_diodes_sod323_cf0f45
+    oomp_key_simple: zanekaminski_primarypoints_diodes_sod323
     original_filename: primarypoints.pretty/Diodes_SOD323.kicad_mod
     owner_name: zanekaminski
   oomp_key: oomp_zanekaminski_primarypoints_diodes_sod323
+  oomp_key_full: oomp_footprint_zanekaminski_primarypoints_diodes_sod323
   oomp_key_simple: zanekaminski_primarypoints_diodes_sod323
   owner: ZaneKaminski
   repo:

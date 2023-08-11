@@ -19,9 +19,18 @@
   oomp:
     footprint_name: mountinghole_8_4mm_m8_pad_toponly
     library_name: mountinghole
+    md5: d15079e3da68f7bd65c91612c95d6ccf
+    md5_10: d15079e3da
+    md5_5: d1507
+    md5_6: d15079
+    oomp_key: oomp_iangitpers_mountinghole_mountinghole_8_4mm_m8_pad_toponly
+    oomp_key_extra: oomp_footprint_iangitpers_mountinghole_mountinghole_8_4mm_m8_pad_toponly
+    oomp_key_full: oomp_footprint_iangitpers_mountinghole_mountinghole_8_4mm_m8_pad_toponly_d15079
+    oomp_key_simple: iangitpers_mountinghole_mountinghole_8_4mm_m8_pad_toponly
     original_filename: 4a/MountingHole.pretty/MountingHole_8.4mm_M8_Pad_TopOnly.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_mountinghole_mountinghole_8_4mm_m8_pad_toponly
+  oomp_key_full: oomp_footprint_iangitpers_mountinghole_mountinghole_8_4mm_m8_pad_toponly
   oomp_key_simple: iangitpers_mountinghole_mountinghole_8_4mm_m8_pad_toponly
   owner: Iangitpers
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: keystone_103
     library_name: agg
+    md5: c5a00f5e22ccff0a7e69ca155b597626
+    md5_10: c5a00f5e22
+    md5_5: c5a00
+    md5_6: c5a00f
+    oomp_key: oomp_adamgreig_agg_keystone_103
+    oomp_key_extra: oomp_footprint_adamgreig_agg_keystone_103
+    oomp_key_full: oomp_footprint_adamgreig_agg_keystone_103_c5a00f
+    oomp_key_simple: adamgreig_agg_keystone_103
     original_filename: agg-kicad/agg.pretty/KEYSTONE_103.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_keystone_103
+  oomp_key_full: oomp_footprint_adamgreig_agg_keystone_103
   oomp_key_simple: adamgreig_agg_keystone_103
   owner: adamgreig
   repo:

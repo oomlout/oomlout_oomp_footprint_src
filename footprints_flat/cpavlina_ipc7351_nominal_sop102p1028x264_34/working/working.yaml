@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sop102p1028x264_34
     library_name: ipc7351_nominal
+    md5: b931c7c3f5315524b77c44b647207ea4
+    md5_10: b931c7c3f5
+    md5_5: b931c
+    md5_6: b931c7
+    oomp_key: oomp_cpavlina_ipc7351_nominal_sop102p1028x264_34
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_nominal_sop102p1028x264_34
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_sop102p1028x264_34_b931c7
+    oomp_key_simple: cpavlina_ipc7351_nominal_sop102p1028x264_34
     original_filename: kicad-pcblib/IPC7351-Nominal.pretty/SOP102P1028X264-34.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_nominal_sop102p1028x264_34
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_sop102p1028x264_34
   oomp_key_simple: cpavlina_ipc7351_nominal_sop102p1028x264_34
   owner: cpavlina
   repo:

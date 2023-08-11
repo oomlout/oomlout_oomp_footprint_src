@@ -16,10 +16,19 @@
   name: KiCAD
   oomp:
     footprint_name: rj10_v2
-    library_name: 1w_grove_v0_1
+    library_name: rj10_v2_kicad_mod
+    md5: dea7b0eb2c1f07ae3416fa3b4d045fd1
+    md5_10: dea7b0eb2c
+    md5_5: dea7b
+    md5_6: dea7b0
+    oomp_key: oomp_joanthespark_rj10_v2_rj10_v2
+    oomp_key_extra: oomp_footprint_joanthespark_rj10_v2_rj10_v2
+    oomp_key_full: oomp_footprint_joanthespark_rj10_v2_rj10_v2_dea7b0
+    oomp_key_simple: joanthespark_rj10_v2_rj10_v2
     original_filename: KiCAD/6.0/projects/1w-grove-v0.1/rj10-v2.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_rj10_v2_rj10_v2
+  oomp_key_full: oomp_footprint_joanthespark_rj10_v2_rj10_v2
   oomp_key_simple: joanthespark_rj10_v2_rj10_v2
   owner: JoanTheSpark
   repo:

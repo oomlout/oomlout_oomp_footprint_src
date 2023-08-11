@@ -17,9 +17,18 @@
   oomp:
     footprint_name: led_sk6805_plcc4_2_4x2_7mm_p1_3mm
     library_name: led_smd
+    md5: 56baa1f26c27c4844953afcf85181b2b
+    md5_10: 56baa1f26c
+    md5_5: 56baa
+    md5_6: 56baa1
+    oomp_key: oomp_kicad_led_smd_led_sk6805_plcc4_2_4x2_7mm_p1_3mm
+    oomp_key_extra: oomp_footprint_kicad_led_smd_led_sk6805_plcc4_2_4x2_7mm_p1_3mm
+    oomp_key_full: oomp_footprint_kicad_led_smd_led_sk6805_plcc4_2_4x2_7mm_p1_3mm_56baa1
+    oomp_key_simple: kicad_led_smd_led_sk6805_plcc4_2_4x2_7mm_p1_3mm
     original_filename: libraries/kicad-footprints/LED_SMD.pretty/LED_SK6805_PLCC4_2.4x2.7mm_P1.3mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_led_smd_led_sk6805_plcc4_2_4x2_7mm_p1_3mm
+  oomp_key_full: oomp_footprint_kicad_led_smd_led_sk6805_plcc4_2_4x2_7mm_p1_3mm
   oomp_key_simple: kicad_led_smd_led_sk6805_plcc4_2_4x2_7mm_p1_3mm
   owner: kicad
   repo:

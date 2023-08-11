@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sop55p1340x127_28
     library_name: ipc7351_least
+    md5: f8bcf0155c0b98e913a5590c57e50a98
+    md5_10: f8bcf0155c
+    md5_5: f8bcf
+    md5_6: f8bcf0
+    oomp_key: oomp_cpavlina_ipc7351_least_sop55p1340x127_28
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_least_sop55p1340x127_28
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_least_sop55p1340x127_28_f8bcf0
+    oomp_key_simple: cpavlina_ipc7351_least_sop55p1340x127_28
     original_filename: kicad-pcblib/IPC7351-Least.pretty/SOP55P1340X127-28.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_least_sop55p1340x127_28
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_least_sop55p1340x127_28
   oomp_key_simple: cpavlina_ipc7351_least_sop55p1340x127_28
   owner: cpavlina
   repo:

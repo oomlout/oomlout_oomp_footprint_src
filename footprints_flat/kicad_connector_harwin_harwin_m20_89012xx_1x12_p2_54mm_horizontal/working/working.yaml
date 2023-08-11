@@ -19,9 +19,18 @@
   oomp:
     footprint_name: harwin_m20_89012xx_1x12_p2_54mm_horizontal
     library_name: connector_harwin
+    md5: fc8aeba132f6aff2dd6bedf450c1e618
+    md5_10: fc8aeba132
+    md5_5: fc8ae
+    md5_6: fc8aeb
+    oomp_key: oomp_kicad_connector_harwin_harwin_m20_89012xx_1x12_p2_54mm_horizontal
+    oomp_key_extra: oomp_footprint_kicad_connector_harwin_harwin_m20_89012xx_1x12_p2_54mm_horizontal
+    oomp_key_full: oomp_footprint_kicad_connector_harwin_harwin_m20_89012xx_1x12_p2_54mm_horizontal_fc8aeb
+    oomp_key_simple: kicad_connector_harwin_harwin_m20_89012xx_1x12_p2_54mm_horizontal
     original_filename: libraries/kicad-footprints/Connector_Harwin.pretty/Harwin_M20-89012xx_1x12_P2.54mm_Horizontal.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_harwin_harwin_m20_89012xx_1x12_p2_54mm_horizontal
+  oomp_key_full: oomp_footprint_kicad_connector_harwin_harwin_m20_89012xx_1x12_p2_54mm_horizontal
   oomp_key_simple: kicad_connector_harwin_harwin_m20_89012xx_1x12_p2_54mm_horizontal
   owner: kicad
   repo:

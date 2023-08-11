@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sot23ebc
     library_name: kit_dev_coldfire
+    md5: 7a1680bde148b9b15afc6289db25ffdf
+    md5_10: 7a1680bde1
+    md5_5: 7a168
+    md5_6: 7a1680
+    oomp_key: oomp_joanthespark_kit_dev_coldfire_sot23ebc
+    oomp_key_extra: oomp_footprint_joanthespark_kit_dev_coldfire_sot23ebc
+    oomp_key_full: oomp_footprint_joanthespark_kit_dev_coldfire_sot23ebc_7a1680
+    oomp_key_simple: joanthespark_kit_dev_coldfire_sot23ebc
     original_filename: KiCAD/demos/kit-dev-coldfire-xilinx_5213/kit-dev-coldfire.pretty/SOT23EBC.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_kit_dev_coldfire_sot23ebc
+  oomp_key_full: oomp_footprint_joanthespark_kit_dev_coldfire_sot23ebc
   oomp_key_simple: joanthespark_kit_dev_coldfire_sot23ebc
   owner: JoanTheSpark
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: holepad_single_4_5mmdrill
     library_name: usst_footprints
+    md5: 7c5c63a07b65b42eab7bbffb7d2eeeab
+    md5_10: 7c5c63a07b
+    md5_5: 7c5c6
+    md5_6: 7c5c63
+    oomp_key: oomp_uofsspaceteam_usst_footprints_holepad_single_4_5mmdrill
+    oomp_key_extra: oomp_footprint_uofsspaceteam_usst_footprints_holepad_single_4_5mmdrill
+    oomp_key_full: oomp_footprint_uofsspaceteam_usst_footprints_holepad_single_4_5mmdrill_7c5c63
+    oomp_key_simple: uofsspaceteam_usst_footprints_holepad_single_4_5mmdrill
     original_filename: USST-footprints.pretty/HolePad_single_4-5mmDrill.kicad_mod
     owner_name: uofsspaceteam
   oomp_key: oomp_uofsspaceteam_usst_footprints_holepad_single_4_5mmdrill
+  oomp_key_full: oomp_footprint_uofsspaceteam_usst_footprints_holepad_single_4_5mmdrill
   oomp_key_simple: uofsspaceteam_usst_footprints_holepad_single_4_5mmdrill
   owner: UofSSpaceTeam
   repo:

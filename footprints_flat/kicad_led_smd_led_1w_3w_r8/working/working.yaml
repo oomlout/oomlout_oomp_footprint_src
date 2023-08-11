@@ -17,9 +17,18 @@
   oomp:
     footprint_name: led_1w_3w_r8
     library_name: led_smd
+    md5: ebbc45d857cecd8289c7645766f2a00e
+    md5_10: ebbc45d857
+    md5_5: ebbc4
+    md5_6: ebbc45
+    oomp_key: oomp_kicad_led_smd_led_1w_3w_r8
+    oomp_key_extra: oomp_footprint_kicad_led_smd_led_1w_3w_r8
+    oomp_key_full: oomp_footprint_kicad_led_smd_led_1w_3w_r8_ebbc45
+    oomp_key_simple: kicad_led_smd_led_1w_3w_r8
     original_filename: libraries/kicad-footprints/LED_SMD.pretty/LED_1W_3W_R8.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_led_smd_led_1w_3w_r8
+  oomp_key_full: oomp_footprint_kicad_led_smd_led_1w_3w_r8
   oomp_key_simple: kicad_led_smd_led_1w_3w_r8
   owner: kicad
   repo:

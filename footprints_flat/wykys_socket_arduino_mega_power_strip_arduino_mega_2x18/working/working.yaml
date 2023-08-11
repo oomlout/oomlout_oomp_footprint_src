@@ -17,9 +17,18 @@
   oomp:
     footprint_name: power_strip_arduino_mega_2x18
     library_name: socket_arduino_mega
+    md5: a2291e89f26d8c4c1aa40a1640ef65f1
+    md5_10: a2291e89f2
+    md5_5: a2291
+    md5_6: a2291e
+    oomp_key: oomp_wykys_socket_arduino_mega_power_strip_arduino_mega_2x18
+    oomp_key_extra: oomp_footprint_wykys_socket_arduino_mega_power_strip_arduino_mega_2x18
+    oomp_key_full: oomp_footprint_wykys_socket_arduino_mega_power_strip_arduino_mega_2x18_a2291e
+    oomp_key_simple: wykys_socket_arduino_mega_power_strip_arduino_mega_2x18
     original_filename: kicad/Arduino_Mega_433Mhz_Shield/Socket_Arduino_Mega.pretty/Power_Strip_Arduino_Mega_2x18.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_socket_arduino_mega_power_strip_arduino_mega_2x18
+  oomp_key_full: oomp_footprint_wykys_socket_arduino_mega_power_strip_arduino_mega_2x18
   oomp_key_simple: wykys_socket_arduino_mega_power_strip_arduino_mega_2x18
   owner: wykys
   repo:

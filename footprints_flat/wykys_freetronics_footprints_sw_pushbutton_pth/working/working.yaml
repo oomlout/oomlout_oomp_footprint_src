@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sw_pushbutton_pth
     library_name: freetronics_footprints
+    md5: 250423b30b9e0b724c0e2c18368d7d3f
+    md5_10: 250423b30b
+    md5_5: '25042'
+    md5_6: '250423'
+    oomp_key: oomp_wykys_freetronics_footprints_sw_pushbutton_pth
+    oomp_key_extra: oomp_footprint_wykys_freetronics_footprints_sw_pushbutton_pth
+    oomp_key_full: oomp_footprint_wykys_freetronics_footprints_sw_pushbutton_pth_250423
+    oomp_key_simple: wykys_freetronics_footprints_sw_pushbutton_pth
     original_filename: kicad/mods/freetronics_footprints.pretty/SW_PUSHBUTTON_PTH.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_freetronics_footprints_sw_pushbutton_pth
+  oomp_key_full: oomp_footprint_wykys_freetronics_footprints_sw_pushbutton_pth
   oomp_key_simple: wykys_freetronics_footprints_sw_pushbutton_pth
   owner: wykys
   repo:

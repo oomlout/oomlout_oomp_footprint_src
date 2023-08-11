@@ -17,9 +17,18 @@
   oomp:
     footprint_name: usb_a_female_vertical_ra_73725_0110blf
     library_name: digikey_footprints
+    md5: d67cc547744e27fd7aab9e0937f763b7
+    md5_10: d67cc54774
+    md5_5: d67cc
+    md5_6: d67cc5
+    oomp_key: oomp_digikey_digikey_footprints_usb_a_female_vertical_ra_73725_0110blf
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_usb_a_female_vertical_ra_73725_0110blf
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_usb_a_female_vertical_ra_73725_0110blf_d67cc5
+    oomp_key_simple: digikey_digikey_footprints_usb_a_female_vertical_ra_73725_0110blf
     original_filename: digikey-kicad-library/digikey-footprints.pretty/USB_A_Female_Vertical_RA_73725-0110BLF.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_usb_a_female_vertical_ra_73725_0110blf
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_usb_a_female_vertical_ra_73725_0110blf
   oomp_key_simple: digikey_digikey_footprints_usb_a_female_vertical_ra_73725_0110blf
   owner: digikey
   repo:

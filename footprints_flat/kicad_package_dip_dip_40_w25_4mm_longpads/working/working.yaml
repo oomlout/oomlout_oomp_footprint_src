@@ -18,9 +18,18 @@
   oomp:
     footprint_name: dip_40_w25_4mm_longpads
     library_name: package_dip
+    md5: 000b38366c8ca68aa8d49922641496ca
+    md5_10: 000b38366c
+    md5_5: 000b3
+    md5_6: 000b38
+    oomp_key: oomp_kicad_package_dip_dip_40_w25_4mm_longpads
+    oomp_key_extra: oomp_footprint_kicad_package_dip_dip_40_w25_4mm_longpads
+    oomp_key_full: oomp_footprint_kicad_package_dip_dip_40_w25_4mm_longpads_000b38
+    oomp_key_simple: kicad_package_dip_dip_40_w25_4mm_longpads
     original_filename: libraries/kicad-footprints/Package_DIP.pretty/DIP-40_W25.4mm_LongPads.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_dip_dip_40_w25_4mm_longpads
+  oomp_key_full: oomp_footprint_kicad_package_dip_dip_40_w25_4mm_longpads
   oomp_key_simple: kicad_package_dip_dip_40_w25_4mm_longpads
   owner: kicad
   repo:

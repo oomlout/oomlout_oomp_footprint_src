@@ -17,9 +17,18 @@
   oomp:
     footprint_name: potentiometer_bourns_3314s_horizontal
     library_name: potentiometer_smd
+    md5: dc735478a9e834e5929560d4641a052b
+    md5_10: dc735478a9
+    md5_5: dc735
+    md5_6: dc7354
+    oomp_key: oomp_kicad_potentiometer_smd_potentiometer_bourns_3314s_horizontal
+    oomp_key_extra: oomp_footprint_kicad_potentiometer_smd_potentiometer_bourns_3314s_horizontal
+    oomp_key_full: oomp_footprint_kicad_potentiometer_smd_potentiometer_bourns_3314s_horizontal_dc7354
+    oomp_key_simple: kicad_potentiometer_smd_potentiometer_bourns_3314s_horizontal
     original_filename: libraries/kicad-footprints/Potentiometer_SMD.pretty/Potentiometer_Bourns_3314S_Horizontal.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_potentiometer_smd_potentiometer_bourns_3314s_horizontal
+  oomp_key_full: oomp_footprint_kicad_potentiometer_smd_potentiometer_bourns_3314s_horizontal
   oomp_key_simple: kicad_potentiometer_smd_potentiometer_bourns_3314s_horizontal
   owner: kicad
   repo:

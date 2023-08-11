@@ -17,9 +17,18 @@
   oomp:
     footprint_name: uson_10_2_5x1_0mm_p0_5mm
     library_name: rhais_package_qfn
+    md5: ca25f27e106e647d61602160bfd64eae
+    md5_10: ca25f27e10
+    md5_5: ca25f
+    md5_6: ca25f2
+    oomp_key: oomp_dx_mon_rhais_package_qfn_uson_10_2_5x1_0mm_p0_5mm
+    oomp_key_extra: oomp_footprint_dx_mon_rhais_package_qfn_uson_10_2_5x1_0mm_p0_5mm
+    oomp_key_full: oomp_footprint_dx_mon_rhais_package_qfn_uson_10_2_5x1_0mm_p0_5mm_ca25f2
+    oomp_key_simple: dx_mon_rhais_package_qfn_uson_10_2_5x1_0mm_p0_5mm
     original_filename: rhais_package-qfn.pretty/USON-10_2.5x1.0mm_P0.5mm.kicad_mod
     owner_name: dx_mon
   oomp_key: oomp_dx_mon_rhais_package_qfn_uson_10_2_5x1_0mm_p0_5mm
+  oomp_key_full: oomp_footprint_dx_mon_rhais_package_qfn_uson_10_2_5x1_0mm_p0_5mm
   oomp_key_simple: dx_mon_rhais_package_qfn_uson_10_2_5x1_0mm_p0_5mm
   owner: DX-MON
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: rf_module_spwf01sa_11
     library_name: digikey_footprints
+    md5: 5bb76897a16b0a6b4d40e7cbaa23e9eb
+    md5_10: 5bb76897a1
+    md5_5: 5bb76
+    md5_6: 5bb768
+    oomp_key: oomp_digikey_digikey_footprints_rf_module_spwf01sa_11
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_rf_module_spwf01sa_11
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_rf_module_spwf01sa_11_5bb768
+    oomp_key_simple: digikey_digikey_footprints_rf_module_spwf01sa_11
     original_filename: digikey-kicad-library/digikey-footprints.pretty/RF_Module_SPWF01SA.11.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_rf_module_spwf01sa_11
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_rf_module_spwf01sa_11
   oomp_key_simple: digikey_digikey_footprints_rf_module_spwf01sa_11
   owner: digikey
   repo:

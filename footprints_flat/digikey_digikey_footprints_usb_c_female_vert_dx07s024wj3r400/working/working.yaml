@@ -17,9 +17,18 @@
   oomp:
     footprint_name: usb_c_female_vert_dx07s024wj3r400
     library_name: digikey_footprints
+    md5: 1700727260942f277f5f6ddfba2bc5a6
+    md5_10: '1700727260'
+    md5_5: '17007'
+    md5_6: '170072'
+    oomp_key: oomp_digikey_digikey_footprints_usb_c_female_vert_dx07s024wj3r400
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_usb_c_female_vert_dx07s024wj3r400
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_usb_c_female_vert_dx07s024wj3r400_170072
+    oomp_key_simple: digikey_digikey_footprints_usb_c_female_vert_dx07s024wj3r400
     original_filename: digikey-kicad-library/digikey-footprints.pretty/USB-C_Female_Vert_DX07S024WJ3R400.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_usb_c_female_vert_dx07s024wj3r400
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_usb_c_female_vert_dx07s024wj3r400
   oomp_key_simple: digikey_digikey_footprints_usb_c_female_vert_dx07s024wj3r400
   owner: digikey
   repo:

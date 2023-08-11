@@ -17,9 +17,18 @@
   oomp:
     footprint_name: esp_01
     library_name: suf_module
+    md5: 3777529665b354a015fe22f989f8beb9
+    md5_10: '3777529665'
+    md5_5: '37775'
+    md5_6: '377752'
+    oomp_key: oomp_suf_kicad_suf_module_esp_01
+    oomp_key_extra: oomp_footprint_suf_kicad_suf_module_esp_01
+    oomp_key_full: oomp_footprint_suf_kicad_suf_module_esp_01_377752
+    oomp_key_simple: suf_kicad_suf_module_esp_01
     original_filename: suf_module.pretty/ESP-01.kicad_mod
     owner_name: suf_kicad
   oomp_key: oomp_suf_kicad_suf_module_esp_01
+  oomp_key_full: oomp_footprint_suf_kicad_suf_module_esp_01
   oomp_key_simple: suf_kicad_suf_module_esp_01
   owner: suf-KiCAD
   repo:

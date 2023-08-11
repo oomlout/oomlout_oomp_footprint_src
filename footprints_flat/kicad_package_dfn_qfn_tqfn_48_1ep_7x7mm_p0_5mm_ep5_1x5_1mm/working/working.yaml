@@ -18,9 +18,18 @@
   oomp:
     footprint_name: tqfn_48_1ep_7x7mm_p0_5mm_ep5_1x5_1mm
     library_name: package_dfn_qfn
+    md5: 5c1cb949e7d2858cb21f4db19b98377d
+    md5_10: 5c1cb949e7
+    md5_5: 5c1cb
+    md5_6: 5c1cb9
+    oomp_key: oomp_kicad_package_dfn_qfn_tqfn_48_1ep_7x7mm_p0_5mm_ep5_1x5_1mm
+    oomp_key_extra: oomp_footprint_kicad_package_dfn_qfn_tqfn_48_1ep_7x7mm_p0_5mm_ep5_1x5_1mm
+    oomp_key_full: oomp_footprint_kicad_package_dfn_qfn_tqfn_48_1ep_7x7mm_p0_5mm_ep5_1x5_1mm_5c1cb9
+    oomp_key_simple: kicad_package_dfn_qfn_tqfn_48_1ep_7x7mm_p0_5mm_ep5_1x5_1mm
     original_filename: libraries/kicad-footprints/Package_DFN_QFN.pretty/TQFN-48-1EP_7x7mm_P0.5mm_EP5.1x5.1mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_dfn_qfn_tqfn_48_1ep_7x7mm_p0_5mm_ep5_1x5_1mm
+  oomp_key_full: oomp_footprint_kicad_package_dfn_qfn_tqfn_48_1ep_7x7mm_p0_5mm_ep5_1x5_1mm
   oomp_key_simple: kicad_package_dfn_qfn_tqfn_48_1ep_7x7mm_p0_5mm_ep5_1x5_1mm
   owner: kicad
   repo:

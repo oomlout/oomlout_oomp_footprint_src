@@ -18,9 +18,18 @@
   oomp:
     footprint_name: pqfp_132_24x24mm_p0_635mm_i386
     library_name: package_qfp
+    md5: 55778775f0f322391235ed0e562ab6a4
+    md5_10: 55778775f0
+    md5_5: '55778'
+    md5_6: '557787'
+    oomp_key: oomp_kicad_package_qfp_pqfp_132_24x24mm_p0_635mm_i386
+    oomp_key_extra: oomp_footprint_kicad_package_qfp_pqfp_132_24x24mm_p0_635mm_i386
+    oomp_key_full: oomp_footprint_kicad_package_qfp_pqfp_132_24x24mm_p0_635mm_i386_557787
+    oomp_key_simple: kicad_package_qfp_pqfp_132_24x24mm_p0_635mm_i386
     original_filename: libraries/kicad-footprints/Package_QFP.pretty/PQFP-132_24x24mm_P0.635mm_i386.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_qfp_pqfp_132_24x24mm_p0_635mm_i386
+  oomp_key_full: oomp_footprint_kicad_package_qfp_pqfp_132_24x24mm_p0_635mm_i386
   oomp_key_simple: kicad_package_qfp_pqfp_132_24x24mm_p0_635mm_i386
   owner: kicad
   repo:

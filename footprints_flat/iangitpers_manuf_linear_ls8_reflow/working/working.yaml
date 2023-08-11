@@ -19,9 +19,18 @@
   oomp:
     footprint_name: linear_ls8_reflow
     library_name: manuf
+    md5: 0fa849b17ffcb9aa2014402c4474479a
+    md5_10: 0fa849b17f
+    md5_5: 0fa84
+    md5_6: 0fa849
+    oomp_key: oomp_iangitpers_manuf_linear_ls8_reflow
+    oomp_key_extra: oomp_footprint_iangitpers_manuf_linear_ls8_reflow
+    oomp_key_full: oomp_footprint_iangitpers_manuf_linear_ls8_reflow_0fa849
+    oomp_key_simple: iangitpers_manuf_linear_ls8_reflow
     original_filename: 4a/manuf.pretty/LINEAR-LS8-REFLOW.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_manuf_linear_ls8_reflow
+  oomp_key_full: oomp_footprint_iangitpers_manuf_linear_ls8_reflow
   oomp_key_simple: iangitpers_manuf_linear_ls8_reflow
   owner: Iangitpers
   repo:

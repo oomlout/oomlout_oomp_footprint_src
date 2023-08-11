@@ -17,9 +17,18 @@
   oomp:
     footprint_name: r_shunt_ohmite_lvk20
     library_name: resistor_smd
+    md5: 7f4eb6cf711c1e396d37bf8e9f10d2d7
+    md5_10: 7f4eb6cf71
+    md5_5: 7f4eb
+    md5_6: 7f4eb6
+    oomp_key: oomp_kicad_resistor_smd_r_shunt_ohmite_lvk20
+    oomp_key_extra: oomp_footprint_kicad_resistor_smd_r_shunt_ohmite_lvk20
+    oomp_key_full: oomp_footprint_kicad_resistor_smd_r_shunt_ohmite_lvk20_7f4eb6
+    oomp_key_simple: kicad_resistor_smd_r_shunt_ohmite_lvk20
     original_filename: libraries/kicad-footprints/Resistor_SMD.pretty/R_Shunt_Ohmite_LVK20.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_resistor_smd_r_shunt_ohmite_lvk20
+  oomp_key_full: oomp_footprint_kicad_resistor_smd_r_shunt_ohmite_lvk20
   oomp_key_simple: kicad_resistor_smd_r_shunt_ohmite_lvk20
   owner: kicad
   repo:

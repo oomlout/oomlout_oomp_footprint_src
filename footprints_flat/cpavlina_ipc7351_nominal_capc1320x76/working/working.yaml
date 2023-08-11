@@ -17,9 +17,18 @@
   oomp:
     footprint_name: capc1320x76
     library_name: ipc7351_nominal
+    md5: ed6bdec6eee2579e4cd0b31754f8364a
+    md5_10: ed6bdec6ee
+    md5_5: ed6bd
+    md5_6: ed6bde
+    oomp_key: oomp_cpavlina_ipc7351_nominal_capc1320x76
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_nominal_capc1320x76
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_capc1320x76_ed6bde
+    oomp_key_simple: cpavlina_ipc7351_nominal_capc1320x76
     original_filename: kicad-pcblib/IPC7351-Nominal.pretty/CAPC1320X76.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_nominal_capc1320x76
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_capc1320x76
   oomp_key_simple: cpavlina_ipc7351_nominal_capc1320x76
   owner: cpavlina
   repo:

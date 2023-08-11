@@ -17,9 +17,18 @@
   oomp:
     footprint_name: rf200
     library_name: crumpprints
+    md5: b9ed43ff89bdd71d61e27514e936407b
+    md5_10: b9ed43ff89
+    md5_5: b9ed4
+    md5_6: b9ed43
+    oomp_key: oomp_tylercrumpton_crumpprints_rf200
+    oomp_key_extra: oomp_footprint_tylercrumpton_crumpprints_rf200
+    oomp_key_full: oomp_footprint_tylercrumpton_crumpprints_rf200_b9ed43
+    oomp_key_simple: tylercrumpton_crumpprints_rf200
     original_filename: CrumpPrints.pretty/RF200.kicad_mod
     owner_name: tylercrumpton
   oomp_key: oomp_tylercrumpton_crumpprints_rf200
+  oomp_key_full: oomp_footprint_tylercrumpton_crumpprints_rf200
   oomp_key_simple: tylercrumpton_crumpprints_rf200
   owner: tylercrumpton
   repo:

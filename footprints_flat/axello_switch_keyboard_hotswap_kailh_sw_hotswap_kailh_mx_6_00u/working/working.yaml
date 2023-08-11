@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sw_hotswap_kailh_mx_6_00u
     library_name: switch_keyboard_hotswap_kailh
+    md5: c7719c362fa79b7f927d1ad8e03923fa
+    md5_10: c7719c362f
+    md5_5: c7719
+    md5_6: c7719c
+    oomp_key: oomp_axello_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_mx_6_00u
+    oomp_key_extra: oomp_footprint_axello_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_mx_6_00u
+    oomp_key_full: oomp_footprint_axello_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_mx_6_00u_c7719c
+    oomp_key_simple: axello_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_mx_6_00u
     original_filename: kicad/6.0/3rdparty/footprints/com_github_perigoso_keyswitch-kicad-library/Switch_Keyboard_Hotswap_Kailh.pretty/SW_Hotswap_Kailh_MX_6.00u.kicad_mod
     owner_name: axello
   oomp_key: oomp_axello_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_mx_6_00u
+  oomp_key_full: oomp_footprint_axello_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_mx_6_00u
   oomp_key_simple: axello_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_mx_6_00u
   owner: axello
   repo:

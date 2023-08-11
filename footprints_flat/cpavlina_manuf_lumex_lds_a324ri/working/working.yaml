@@ -17,9 +17,18 @@
   oomp:
     footprint_name: lumex_lds_a324ri
     library_name: manuf
+    md5: cedb78ce3c7a2d1133e99e8cfb07994e
+    md5_10: cedb78ce3c
+    md5_5: cedb7
+    md5_6: cedb78
+    oomp_key: oomp_cpavlina_manuf_lumex_lds_a324ri
+    oomp_key_extra: oomp_footprint_cpavlina_manuf_lumex_lds_a324ri
+    oomp_key_full: oomp_footprint_cpavlina_manuf_lumex_lds_a324ri_cedb78
+    oomp_key_simple: cpavlina_manuf_lumex_lds_a324ri
     original_filename: kicad-pcblib/manuf.pretty/LUMEX-LDS-A324RI.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_manuf_lumex_lds_a324ri
+  oomp_key_full: oomp_footprint_cpavlina_manuf_lumex_lds_a324ri
   oomp_key_simple: cpavlina_manuf_lumex_lds_a324ri
   owner: cpavlina
   repo:

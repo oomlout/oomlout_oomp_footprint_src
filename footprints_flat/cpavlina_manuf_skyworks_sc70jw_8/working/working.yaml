@@ -17,9 +17,18 @@
   oomp:
     footprint_name: skyworks_sc70jw_8
     library_name: manuf
+    md5: 8f5d64b233f93c173c656165eeb178e9
+    md5_10: 8f5d64b233
+    md5_5: 8f5d6
+    md5_6: 8f5d64
+    oomp_key: oomp_cpavlina_manuf_skyworks_sc70jw_8
+    oomp_key_extra: oomp_footprint_cpavlina_manuf_skyworks_sc70jw_8
+    oomp_key_full: oomp_footprint_cpavlina_manuf_skyworks_sc70jw_8_8f5d64
+    oomp_key_simple: cpavlina_manuf_skyworks_sc70jw_8
     original_filename: kicad-pcblib/manuf.pretty/SKYWORKS-SC70JW-8.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_manuf_skyworks_sc70jw_8
+  oomp_key_full: oomp_footprint_cpavlina_manuf_skyworks_sc70jw_8
   oomp_key_simple: cpavlina_manuf_skyworks_sc70jw_8
   owner: cpavlina
   repo:

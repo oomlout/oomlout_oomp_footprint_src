@@ -17,9 +17,18 @@
   oomp:
     footprint_name: switch_tactile_tht_6x6mm_mjtp1230
     library_name: digikey_footprints
+    md5: 428bb772a96f5e1d687ee8ccc4426676
+    md5_10: 428bb772a9
+    md5_5: 428bb
+    md5_6: 428bb7
+    oomp_key: oomp_digikey_digikey_footprints_switch_tactile_tht_6x6mm_mjtp1230
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_switch_tactile_tht_6x6mm_mjtp1230
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_switch_tactile_tht_6x6mm_mjtp1230_428bb7
+    oomp_key_simple: digikey_digikey_footprints_switch_tactile_tht_6x6mm_mjtp1230
     original_filename: digikey-kicad-library/digikey-footprints.pretty/Switch_Tactile_THT_6x6mm_MJTP1230.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_switch_tactile_tht_6x6mm_mjtp1230
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_switch_tactile_tht_6x6mm_mjtp1230
   oomp_key_simple: digikey_digikey_footprints_switch_tactile_tht_6x6mm_mjtp1230
   owner: digikey
   repo:

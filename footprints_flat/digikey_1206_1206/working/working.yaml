@@ -13,10 +13,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: '1206'
-    library_name: source_footprints
+    library_name: 1206_kicad_mod
+    md5: 7196bfd1209ea7859a6b2c9e52375b15
+    md5_10: 7196bfd120
+    md5_5: 7196b
+    md5_6: 7196bf
+    oomp_key: oomp_digikey_1206_1206
+    oomp_key_extra: oomp_footprint_digikey_1206_1206
+    oomp_key_full: oomp_footprint_digikey_1206_1206_7196bf
+    oomp_key_simple: digikey_1206_1206
     original_filename: digikey-kicad-library/src/Source_Footprints/1206.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_1206_1206
+  oomp_key_full: oomp_footprint_digikey_1206_1206
   oomp_key_simple: digikey_1206_1206
   owner: digikey
   repo:

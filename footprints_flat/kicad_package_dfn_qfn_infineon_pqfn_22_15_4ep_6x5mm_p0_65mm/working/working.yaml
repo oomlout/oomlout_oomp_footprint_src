@@ -18,9 +18,18 @@
   oomp:
     footprint_name: infineon_pqfn_22_15_4ep_6x5mm_p0_65mm
     library_name: package_dfn_qfn
+    md5: d8a7af9b539c98b59bea23903eb5f158
+    md5_10: d8a7af9b53
+    md5_5: d8a7a
+    md5_6: d8a7af
+    oomp_key: oomp_kicad_package_dfn_qfn_infineon_pqfn_22_15_4ep_6x5mm_p0_65mm
+    oomp_key_extra: oomp_footprint_kicad_package_dfn_qfn_infineon_pqfn_22_15_4ep_6x5mm_p0_65mm
+    oomp_key_full: oomp_footprint_kicad_package_dfn_qfn_infineon_pqfn_22_15_4ep_6x5mm_p0_65mm_d8a7af
+    oomp_key_simple: kicad_package_dfn_qfn_infineon_pqfn_22_15_4ep_6x5mm_p0_65mm
     original_filename: libraries/kicad-footprints/Package_DFN_QFN.pretty/Infineon_PQFN-22-15-4EP_6x5mm_P0.65mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_dfn_qfn_infineon_pqfn_22_15_4ep_6x5mm_p0_65mm
+  oomp_key_full: oomp_footprint_kicad_package_dfn_qfn_infineon_pqfn_22_15_4ep_6x5mm_p0_65mm
   oomp_key_simple: kicad_package_dfn_qfn_infineon_pqfn_22_15_4ep_6x5mm_p0_65mm
   owner: kicad
   repo:

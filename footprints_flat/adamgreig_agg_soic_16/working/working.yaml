@@ -17,9 +17,18 @@
   oomp:
     footprint_name: soic_16
     library_name: agg
+    md5: 7eff5de76bd0f3aeaa596ca83f1688b3
+    md5_10: 7eff5de76b
+    md5_5: 7eff5
+    md5_6: 7eff5d
+    oomp_key: oomp_adamgreig_agg_soic_16
+    oomp_key_extra: oomp_footprint_adamgreig_agg_soic_16
+    oomp_key_full: oomp_footprint_adamgreig_agg_soic_16_7eff5d
+    oomp_key_simple: adamgreig_agg_soic_16
     original_filename: agg-kicad/agg.pretty/SOIC-16.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_soic_16
+  oomp_key_full: oomp_footprint_adamgreig_agg_soic_16
   oomp_key_simple: adamgreig_agg_soic_16
   owner: adamgreig
   repo:

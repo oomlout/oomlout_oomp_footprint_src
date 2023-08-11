@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sw_tactile_spst_angled_pts645vx39_2lfs
     library_name: button_switch_tht
+    md5: 509d87300078dfcaa74795e4c89483c0
+    md5_10: 509d873000
+    md5_5: 509d8
+    md5_6: 509d87
+    oomp_key: oomp_kicad_button_switch_tht_sw_tactile_spst_angled_pts645vx39_2lfs
+    oomp_key_extra: oomp_footprint_kicad_button_switch_tht_sw_tactile_spst_angled_pts645vx39_2lfs
+    oomp_key_full: oomp_footprint_kicad_button_switch_tht_sw_tactile_spst_angled_pts645vx39_2lfs_509d87
+    oomp_key_simple: kicad_button_switch_tht_sw_tactile_spst_angled_pts645vx39_2lfs
     original_filename: libraries/kicad-footprints/Button_Switch_THT.pretty/SW_Tactile_SPST_Angled_PTS645Vx39-2LFS.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_button_switch_tht_sw_tactile_spst_angled_pts645vx39_2lfs
+  oomp_key_full: oomp_footprint_kicad_button_switch_tht_sw_tactile_spst_angled_pts645vx39_2lfs
   oomp_key_simple: kicad_button_switch_tht_sw_tactile_spst_angled_pts645vx39_2lfs
   owner: kicad
   repo:

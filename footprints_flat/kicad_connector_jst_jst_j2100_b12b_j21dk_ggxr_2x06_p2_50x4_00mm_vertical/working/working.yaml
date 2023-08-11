@@ -18,9 +18,18 @@
   oomp:
     footprint_name: jst_j2100_b12b_j21dk_ggxr_2x06_p2_50x4_00mm_vertical
     library_name: connector_jst
+    md5: da5da6306667c7572b289b0f9546e4b5
+    md5_10: da5da63066
+    md5_5: da5da
+    md5_6: da5da6
+    oomp_key: oomp_kicad_connector_jst_jst_j2100_b12b_j21dk_ggxr_2x06_p2_50x4_00mm_vertical
+    oomp_key_extra: oomp_footprint_kicad_connector_jst_jst_j2100_b12b_j21dk_ggxr_2x06_p2_50x4_00mm_vertical
+    oomp_key_full: oomp_footprint_kicad_connector_jst_jst_j2100_b12b_j21dk_ggxr_2x06_p2_50x4_00mm_vertical_da5da6
+    oomp_key_simple: kicad_connector_jst_jst_j2100_b12b_j21dk_ggxr_2x06_p2_50x4_00mm_vertical
     original_filename: libraries/kicad-footprints/Connector_JST.pretty/JST_J2100_B12B-J21DK-GGXR_2x06_P2.50x4.00mm_Vertical.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_jst_jst_j2100_b12b_j21dk_ggxr_2x06_p2_50x4_00mm_vertical
+  oomp_key_full: oomp_footprint_kicad_connector_jst_jst_j2100_b12b_j21dk_ggxr_2x06_p2_50x4_00mm_vertical
   oomp_key_simple: kicad_connector_jst_jst_j2100_b12b_j21dk_ggxr_2x06_p2_50x4_00mm_vertical
   owner: kicad
   repo:

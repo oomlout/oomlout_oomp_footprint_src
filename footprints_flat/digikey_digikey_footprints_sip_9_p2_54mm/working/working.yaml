@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sip_9_p2_54mm
     library_name: digikey_footprints
+    md5: 8d1a6d49f8de540561b3223032d3c8cb
+    md5_10: 8d1a6d49f8
+    md5_5: 8d1a6
+    md5_6: 8d1a6d
+    oomp_key: oomp_digikey_digikey_footprints_sip_9_p2_54mm
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_sip_9_p2_54mm
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_sip_9_p2_54mm_8d1a6d
+    oomp_key_simple: digikey_digikey_footprints_sip_9_p2_54mm
     original_filename: digikey-kicad-library/digikey-footprints.pretty/SIP-9_P2.54mm.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_sip_9_p2_54mm
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_sip_9_p2_54mm
   oomp_key_simple: digikey_digikey_footprints_sip_9_p2_54mm
   owner: digikey
   repo:

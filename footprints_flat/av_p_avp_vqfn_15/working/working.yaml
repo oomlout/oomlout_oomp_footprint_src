@@ -17,9 +17,18 @@
   oomp:
     footprint_name: vqfn_15
     library_name: avp
+    md5: 2e7ca93dd2713848bee78150cae639ee
+    md5_10: 2e7ca93dd2
+    md5_5: 2e7ca
+    md5_6: 2e7ca9
+    oomp_key: oomp_av_p_avp_vqfn_15
+    oomp_key_extra: oomp_footprint_av_p_avp_vqfn_15
+    oomp_key_full: oomp_footprint_av_p_avp_vqfn_15_2e7ca9
+    oomp_key_simple: av_p_avp_vqfn_15
     original_filename: Avp.pretty/VQFN-15.kicad_mod
     owner_name: av_p
   oomp_key: oomp_av_p_avp_vqfn_15
+  oomp_key_full: oomp_footprint_av_p_avp_vqfn_15
   oomp_key_simple: av_p_avp_vqfn_15
   owner: av-p
   repo:

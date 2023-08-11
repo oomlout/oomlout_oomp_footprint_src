@@ -17,9 +17,18 @@
   oomp:
     footprint_name: oscillator_xlh736022_579200i
     library_name: digikey_footprints
+    md5: cdd6f972684ae51092db491d83f421a6
+    md5_10: cdd6f97268
+    md5_5: cdd6f
+    md5_6: cdd6f9
+    oomp_key: oomp_digikey_digikey_footprints_oscillator_xlh736022_579200i
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_oscillator_xlh736022_579200i
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_oscillator_xlh736022_579200i_cdd6f9
+    oomp_key_simple: digikey_digikey_footprints_oscillator_xlh736022_579200i
     original_filename: digikey-kicad-library/digikey-footprints.pretty/Oscillator_XLH736022.579200I.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_oscillator_xlh736022_579200i
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_oscillator_xlh736022_579200i
   oomp_key_simple: digikey_digikey_footprints_oscillator_xlh736022_579200i
   owner: digikey
   repo:

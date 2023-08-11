@@ -17,9 +17,18 @@
   oomp:
     footprint_name: mx700hr
     library_name: acheron_mxh_metalrings
+    md5: eb835af6d3b8e7ca1223df4afb8527c5
+    md5_10: eb835af6d3
+    md5_5: eb835
+    md5_6: eb835a
+    oomp_key: oomp_acheronproject_acheron_mxh_metalrings_mx700hr
+    oomp_key_extra: oomp_footprint_acheronproject_acheron_mxh_metalrings_mx700hr
+    oomp_key_full: oomp_footprint_acheronproject_acheron_mxh_metalrings_mx700hr_eb835a
+    oomp_key_simple: acheronproject_acheron_mxh_metalrings_mx700hr
     original_filename: acheron_MXH_metalrings.pretty/MX700HR.kicad_mod
     owner_name: acheronproject
   oomp_key: oomp_acheronproject_acheron_mxh_metalrings_mx700hr
+  oomp_key_full: oomp_footprint_acheronproject_acheron_mxh_metalrings_mx700hr
   oomp_key_simple: acheronproject_acheron_mxh_metalrings_mx700hr
   owner: AcheronProject
   repo:

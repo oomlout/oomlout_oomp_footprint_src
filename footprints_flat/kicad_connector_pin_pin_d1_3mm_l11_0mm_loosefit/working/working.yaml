@@ -18,9 +18,18 @@
   oomp:
     footprint_name: pin_d1_3mm_l11_0mm_loosefit
     library_name: connector_pin
+    md5: 14e47fdf146b0d48ec1dbfef3a0a61ef
+    md5_10: 14e47fdf14
+    md5_5: 14e47
+    md5_6: 14e47f
+    oomp_key: oomp_kicad_connector_pin_pin_d1_3mm_l11_0mm_loosefit
+    oomp_key_extra: oomp_footprint_kicad_connector_pin_pin_d1_3mm_l11_0mm_loosefit
+    oomp_key_full: oomp_footprint_kicad_connector_pin_pin_d1_3mm_l11_0mm_loosefit_14e47f
+    oomp_key_simple: kicad_connector_pin_pin_d1_3mm_l11_0mm_loosefit
     original_filename: libraries/kicad-footprints/Connector_Pin.pretty/Pin_D1.3mm_L11.0mm_LooseFit.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_pin_pin_d1_3mm_l11_0mm_loosefit
+  oomp_key_full: oomp_footprint_kicad_connector_pin_pin_d1_3mm_l11_0mm_loosefit
   oomp_key_simple: kicad_connector_pin_pin_d1_3mm_l11_0mm_loosefit
   owner: kicad
   repo:

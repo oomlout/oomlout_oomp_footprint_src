@@ -17,9 +17,18 @@
   oomp:
     footprint_name: 3_pin_jumper
     library_name: keebio_parts
+    md5: 8cd5907da3250527067544373f29ae87
+    md5_10: 8cd5907da3
+    md5_5: 8cd59
+    md5_6: 8cd590
+    oomp_key: oomp_keebio_keebio_parts_3_pin_jumper
+    oomp_key_extra: oomp_footprint_keebio_keebio_parts_3_pin_jumper
+    oomp_key_full: oomp_footprint_keebio_keebio_parts_3_pin_jumper_8cd590
+    oomp_key_simple: keebio_keebio_parts_3_pin_jumper
     original_filename: Keebio-Parts.pretty/3_Pin_Jumper.kicad_mod
     owner_name: keebio
   oomp_key: oomp_keebio_keebio_parts_3_pin_jumper
+  oomp_key_full: oomp_footprint_keebio_keebio_parts_3_pin_jumper
   oomp_key_simple: keebio_keebio_parts_3_pin_jumper
   owner: keebio
   repo:

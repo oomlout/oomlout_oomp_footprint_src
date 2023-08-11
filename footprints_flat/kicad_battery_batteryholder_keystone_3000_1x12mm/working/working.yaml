@@ -17,9 +17,18 @@
   oomp:
     footprint_name: batteryholder_keystone_3000_1x12mm
     library_name: battery
+    md5: 4b679a94aa8eb11ec640c302ae21a2af
+    md5_10: 4b679a94aa
+    md5_5: 4b679
+    md5_6: 4b679a
+    oomp_key: oomp_kicad_battery_batteryholder_keystone_3000_1x12mm
+    oomp_key_extra: oomp_footprint_kicad_battery_batteryholder_keystone_3000_1x12mm
+    oomp_key_full: oomp_footprint_kicad_battery_batteryholder_keystone_3000_1x12mm_4b679a
+    oomp_key_simple: kicad_battery_batteryholder_keystone_3000_1x12mm
     original_filename: libraries/kicad-footprints/Battery.pretty/BatteryHolder_Keystone_3000_1x12mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_battery_batteryholder_keystone_3000_1x12mm
+  oomp_key_full: oomp_footprint_kicad_battery_batteryholder_keystone_3000_1x12mm
   oomp_key_simple: kicad_battery_batteryholder_keystone_3000_1x12mm
   owner: kicad
   repo:

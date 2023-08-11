@@ -17,9 +17,18 @@
   oomp:
     footprint_name: trrs_jack_one_sided
     library_name: keebio_parts
+    md5: 459b5b6726a764b6220ab77f13916e9d
+    md5_10: 459b5b6726
+    md5_5: 459b5
+    md5_6: 459b5b
+    oomp_key: oomp_keebio_keebio_parts_trrs_jack_one_sided
+    oomp_key_extra: oomp_footprint_keebio_keebio_parts_trrs_jack_one_sided
+    oomp_key_full: oomp_footprint_keebio_keebio_parts_trrs_jack_one_sided_459b5b
+    oomp_key_simple: keebio_keebio_parts_trrs_jack_one_sided
     original_filename: Keebio-Parts.pretty/TRRS_Jack-one-sided.kicad_mod
     owner_name: keebio
   oomp_key: oomp_keebio_keebio_parts_trrs_jack_one_sided
+  oomp_key_full: oomp_footprint_keebio_keebio_parts_trrs_jack_one_sided
   oomp_key_simple: keebio_keebio_parts_trrs_jack_one_sided
   owner: keebio
   repo:

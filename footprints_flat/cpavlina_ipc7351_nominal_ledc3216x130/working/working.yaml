@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ledc3216x130
     library_name: ipc7351_nominal
+    md5: aa4f5803c7aa6986720040af31074823
+    md5_10: aa4f5803c7
+    md5_5: aa4f5
+    md5_6: aa4f58
+    oomp_key: oomp_cpavlina_ipc7351_nominal_ledc3216x130
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_nominal_ledc3216x130
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_ledc3216x130_aa4f58
+    oomp_key_simple: cpavlina_ipc7351_nominal_ledc3216x130
     original_filename: kicad-pcblib/IPC7351-Nominal.pretty/LEDC3216X130.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_nominal_ledc3216x130
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_ledc3216x130
   oomp_key_simple: cpavlina_ipc7351_nominal_ledc3216x130
   owner: cpavlina
   repo:

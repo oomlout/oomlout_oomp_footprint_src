@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ep7_tht_h_6pin_(2150)
     library_name: transformers_wurthelektronik
+    md5: bc89e835869b0935f7bd3ba0d7b6bdad
+    md5_10: bc89e83586
+    md5_5: bc89e
+    md5_6: bc89e8
+    oomp_key: oomp_wurthelectronics_transformers_wurthelektronik_ep7_tht_h_6pin_(2150)
+    oomp_key_extra: oomp_footprint_wurthelectronics_transformers_wurthelektronik_ep7_tht_h_6pin_(2150)
+    oomp_key_full: oomp_footprint_wurthelectronics_transformers_wurthelektronik_ep7_tht_h_6pin_(2150)_bc89e8
+    oomp_key_simple: wurthelectronics_transformers_wurthelektronik_ep7_tht_h_6pin_(2150)
     original_filename: Transformers_WurthElektronik.pretty/EP7_THT_H_6PIN_(2150).kicad_mod
     owner_name: wurthelectronics
   oomp_key: oomp_wurthelectronics_transformers_wurthelektronik_ep7_tht_h_6pin_(2150)
+  oomp_key_full: oomp_footprint_wurthelectronics_transformers_wurthelektronik_ep7_tht_h_6pin_(2150)
   oomp_key_simple: wurthelectronics_transformers_wurthelektronik_ep7_tht_h_6pin_(2150)
   owner: WurthElectronics
   repo:

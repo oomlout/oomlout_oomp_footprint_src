@@ -17,9 +17,18 @@
   oomp:
     footprint_name: header_2x7_shrouded_2mm
     library_name: kicad
+    md5: d9cb9fca58027b90d6c912d3c13d3089
+    md5_10: d9cb9fca58
+    md5_5: d9cb9
+    md5_6: d9cb9f
+    oomp_key: oomp_kubix89_kicad_header_2x7_shrouded_2mm
+    oomp_key_extra: oomp_footprint_kubix89_kicad_header_2x7_shrouded_2mm
+    oomp_key_full: oomp_footprint_kubix89_kicad_header_2x7_shrouded_2mm_d9cb9f
+    oomp_key_simple: kubix89_kicad_header_2x7_shrouded_2mm
     original_filename: kiCAD.pretty/HEADER_2X7_SHROUDED_2MM.kicad_mod
     owner_name: kubix89
   oomp_key: oomp_kubix89_kicad_header_2x7_shrouded_2mm
+  oomp_key_full: oomp_footprint_kubix89_kicad_header_2x7_shrouded_2mm
   oomp_key_simple: kubix89_kicad_header_2x7_shrouded_2mm
   owner: kubiX89
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sot363
     library_name: _std
+    md5: 11502a69a6b275c99ed7859428955708
+    md5_10: 11502a69a6
+    md5_5: '11502'
+    md5_6: 11502a
+    oomp_key: oomp_mcous_std_sot363
+    oomp_key_extra: oomp_footprint_mcous_std_sot363
+    oomp_key_full: oomp_footprint_mcous_std_sot363_11502a
+    oomp_key_simple: mcous_std_sot363
     original_filename: kicad-lib/footprints/_std.pretty/SOT363.kicad_mod
     owner_name: mcous
   oomp_key: oomp_mcous_std_sot363
+  oomp_key_full: oomp_footprint_mcous_std_sot363
   oomp_key_simple: mcous_std_sot363
   owner: mcous
   repo:

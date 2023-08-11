@@ -18,9 +18,18 @@
   oomp:
     footprint_name: at90usb1286_tqfp_14mm
     library_name: keebio_parts
+    md5: 862332bc56e90112968e691ec8d8ed14
+    md5_10: 862332bc56
+    md5_5: '86233'
+    md5_6: '862332'
+    oomp_key: oomp_keebio_keebio_parts_at90usb1286_tqfp_14mm
+    oomp_key_extra: oomp_footprint_keebio_keebio_parts_at90usb1286_tqfp_14mm
+    oomp_key_full: oomp_footprint_keebio_keebio_parts_at90usb1286_tqfp_14mm_862332
+    oomp_key_simple: keebio_keebio_parts_at90usb1286_tqfp_14mm
     original_filename: Keebio-Parts.pretty/AT90USB1286_TQFP_14mm.kicad_mod
     owner_name: keebio
   oomp_key: oomp_keebio_keebio_parts_at90usb1286_tqfp_14mm
+  oomp_key_full: oomp_footprint_keebio_keebio_parts_at90usb1286_tqfp_14mm
   oomp_key_simple: keebio_keebio_parts_at90usb1286_tqfp_14mm
   owner: keebio
   repo:

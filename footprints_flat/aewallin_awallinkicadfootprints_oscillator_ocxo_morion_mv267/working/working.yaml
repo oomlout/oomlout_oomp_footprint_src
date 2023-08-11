@@ -17,9 +17,18 @@
   oomp:
     footprint_name: oscillator_ocxo_morion_mv267
     library_name: awallinkicadfootprints
+    md5: aac628b42a4fcd20e48d797644a2c1d9
+    md5_10: aac628b42a
+    md5_5: aac62
+    md5_6: aac628
+    oomp_key: oomp_aewallin_awallinkicadfootprints_oscillator_ocxo_morion_mv267
+    oomp_key_extra: oomp_footprint_aewallin_awallinkicadfootprints_oscillator_ocxo_morion_mv267
+    oomp_key_full: oomp_footprint_aewallin_awallinkicadfootprints_oscillator_ocxo_morion_mv267_aac628
+    oomp_key_simple: aewallin_awallinkicadfootprints_oscillator_ocxo_morion_mv267
     original_filename: awallinKiCadFootprints.pretty/Oscillator_OCXO_Morion_MV267.kicad_mod
     owner_name: aewallin
   oomp_key: oomp_aewallin_awallinkicadfootprints_oscillator_ocxo_morion_mv267
+  oomp_key_full: oomp_footprint_aewallin_awallinkicadfootprints_oscillator_ocxo_morion_mv267
   oomp_key_simple: aewallin_awallinkicadfootprints_oscillator_ocxo_morion_mv267
   owner: aewallin
   repo:

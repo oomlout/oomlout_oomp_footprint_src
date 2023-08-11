@@ -19,9 +19,18 @@
   oomp:
     footprint_name: apa102_2020_plcc6
     library_name: dp_led
+    md5: c55959d7edf9580091b53b03ae4fe876
+    md5_10: c55959d7ed
+    md5_5: c5595
+    md5_6: c55959
+    oomp_key: oomp_iangitpers_dp_led_apa102_2020_plcc6
+    oomp_key_extra: oomp_footprint_iangitpers_dp_led_apa102_2020_plcc6
+    oomp_key_full: oomp_footprint_iangitpers_dp_led_apa102_2020_plcc6_c55959
+    oomp_key_simple: iangitpers_dp_led_apa102_2020_plcc6
     original_filename: 4a/dp-LED/dp-LED.pretty/APA102-2020_PLCC6.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_dp_led_apa102_2020_plcc6
+  oomp_key_full: oomp_footprint_iangitpers_dp_led_apa102_2020_plcc6
   oomp_key_simple: iangitpers_dp_led_apa102_2020_plcc6
   owner: Iangitpers
   repo:

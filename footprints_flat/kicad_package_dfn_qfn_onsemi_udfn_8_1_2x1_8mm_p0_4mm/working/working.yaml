@@ -18,9 +18,18 @@
   oomp:
     footprint_name: onsemi_udfn_8_1_2x1_8mm_p0_4mm
     library_name: package_dfn_qfn
+    md5: 40ade8fa492fa4c83feda41e7e0fd638
+    md5_10: 40ade8fa49
+    md5_5: 40ade
+    md5_6: 40ade8
+    oomp_key: oomp_kicad_package_dfn_qfn_onsemi_udfn_8_1_2x1_8mm_p0_4mm
+    oomp_key_extra: oomp_footprint_kicad_package_dfn_qfn_onsemi_udfn_8_1_2x1_8mm_p0_4mm
+    oomp_key_full: oomp_footprint_kicad_package_dfn_qfn_onsemi_udfn_8_1_2x1_8mm_p0_4mm_40ade8
+    oomp_key_simple: kicad_package_dfn_qfn_onsemi_udfn_8_1_2x1_8mm_p0_4mm
     original_filename: libraries/kicad-footprints/Package_DFN_QFN.pretty/OnSemi_UDFN-8_1.2x1.8mm_P0.4mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_dfn_qfn_onsemi_udfn_8_1_2x1_8mm_p0_4mm
+  oomp_key_full: oomp_footprint_kicad_package_dfn_qfn_onsemi_udfn_8_1_2x1_8mm_p0_4mm
   oomp_key_simple: kicad_package_dfn_qfn_onsemi_udfn_8_1_2x1_8mm_p0_4mm
   owner: kicad
   repo:

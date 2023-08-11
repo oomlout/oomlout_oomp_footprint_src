@@ -17,9 +17,18 @@
   oomp:
     footprint_name: dip_40_w15_24mm
     library_name: digikey_footprints
+    md5: 7a430a6c53d6a3fd73296373aeca73a1
+    md5_10: 7a430a6c53
+    md5_5: 7a430
+    md5_6: 7a430a
+    oomp_key: oomp_digikey_digikey_footprints_dip_40_w15_24mm
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_dip_40_w15_24mm
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_dip_40_w15_24mm_7a430a
+    oomp_key_simple: digikey_digikey_footprints_dip_40_w15_24mm
     original_filename: digikey-kicad-library/digikey-footprints.pretty/DIP-40_W15.24mm.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_dip_40_w15_24mm
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_dip_40_w15_24mm
   oomp_key_simple: digikey_digikey_footprints_dip_40_w15_24mm
   owner: digikey
   repo:

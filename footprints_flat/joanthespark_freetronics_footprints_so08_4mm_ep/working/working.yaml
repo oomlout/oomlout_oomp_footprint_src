@@ -17,9 +17,18 @@
   oomp:
     footprint_name: so08_4mm_ep
     library_name: freetronics_footprints
+    md5: d550a1725baaa280b38051f6543a05e9
+    md5_10: d550a1725b
+    md5_5: d550a
+    md5_6: d550a1
+    oomp_key: oomp_joanthespark_freetronics_footprints_so08_4mm_ep
+    oomp_key_extra: oomp_footprint_joanthespark_freetronics_footprints_so08_4mm_ep
+    oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_so08_4mm_ep_d550a1
+    oomp_key_simple: joanthespark_freetronics_footprints_so08_4mm_ep
     original_filename: KiCAD/mods/freetronics_footprints.pretty/SO08_4mm_EP.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_freetronics_footprints_so08_4mm_ep
+  oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_so08_4mm_ep
   oomp_key_simple: joanthespark_freetronics_footprints_so08_4mm_ep
   owner: JoanTheSpark
   repo:

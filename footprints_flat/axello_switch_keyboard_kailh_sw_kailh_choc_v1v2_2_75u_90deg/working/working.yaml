@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sw_kailh_choc_v1v2_2_75u_90deg
     library_name: switch_keyboard_kailh
+    md5: 2981f5c3a72ccf10992f1cbda563d6af
+    md5_10: 2981f5c3a7
+    md5_5: 2981f
+    md5_6: 2981f5
+    oomp_key: oomp_axello_switch_keyboard_kailh_sw_kailh_choc_v1v2_2_75u_90deg
+    oomp_key_extra: oomp_footprint_axello_switch_keyboard_kailh_sw_kailh_choc_v1v2_2_75u_90deg
+    oomp_key_full: oomp_footprint_axello_switch_keyboard_kailh_sw_kailh_choc_v1v2_2_75u_90deg_2981f5
+    oomp_key_simple: axello_switch_keyboard_kailh_sw_kailh_choc_v1v2_2_75u_90deg
     original_filename: kicad/6.0/3rdparty/footprints/com_github_perigoso_keyswitch-kicad-library/Switch_Keyboard_Kailh.pretty/SW_Kailh_Choc_V1V2_2.75u_90deg.kicad_mod
     owner_name: axello
   oomp_key: oomp_axello_switch_keyboard_kailh_sw_kailh_choc_v1v2_2_75u_90deg
+  oomp_key_full: oomp_footprint_axello_switch_keyboard_kailh_sw_kailh_choc_v1v2_2_75u_90deg
   oomp_key_simple: axello_switch_keyboard_kailh_sw_kailh_choc_v1v2_2_75u_90deg
   owner: axello
   repo:

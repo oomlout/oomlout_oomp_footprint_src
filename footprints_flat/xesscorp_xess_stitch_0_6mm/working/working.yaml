@@ -17,9 +17,18 @@
   oomp:
     footprint_name: stitch_0_6mm
     library_name: xess
+    md5: d5e8e3cb76cb8070450d67719b2d7d19
+    md5_10: d5e8e3cb76
+    md5_5: d5e8e
+    md5_6: d5e8e3
+    oomp_key: oomp_xesscorp_xess_stitch_0_6mm
+    oomp_key_extra: oomp_footprint_xesscorp_xess_stitch_0_6mm
+    oomp_key_full: oomp_footprint_xesscorp_xess_stitch_0_6mm_d5e8e3
+    oomp_key_simple: xesscorp_xess_stitch_0_6mm
     original_filename: xess.pretty/stitch-0.6mm.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_stitch_0_6mm
+  oomp_key_full: oomp_footprint_xesscorp_xess_stitch_0_6mm
   oomp_key_simple: xesscorp_xess_stitch_0_6mm
   owner: xesscorp
   repo:

@@ -18,9 +18,18 @@
   oomp:
     footprint_name: banana_cliff_fcr7350x_s16n_pc_horizontal
     library_name: connector
+    md5: 56648bffe3fc32dd716ed5768e0513d6
+    md5_10: 56648bffe3
+    md5_5: '56648'
+    md5_6: 56648b
+    oomp_key: oomp_kicad_connector_banana_cliff_fcr7350x_s16n_pc_horizontal
+    oomp_key_extra: oomp_footprint_kicad_connector_banana_cliff_fcr7350x_s16n_pc_horizontal
+    oomp_key_full: oomp_footprint_kicad_connector_banana_cliff_fcr7350x_s16n_pc_horizontal_56648b
+    oomp_key_simple: kicad_connector_banana_cliff_fcr7350x_s16n_pc_horizontal
     original_filename: libraries/kicad-footprints/Connector.pretty/Banana_Cliff_FCR7350x_S16N-PC_Horizontal.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_banana_cliff_fcr7350x_s16n_pc_horizontal
+  oomp_key_full: oomp_footprint_kicad_connector_banana_cliff_fcr7350x_s16n_pc_horizontal
   oomp_key_simple: kicad_connector_banana_cliff_fcr7350x_s16n_pc_horizontal
   owner: kicad
   repo:

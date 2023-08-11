@@ -17,9 +17,18 @@
   oomp:
     footprint_name: r_2010_handsoldering
     library_name: apex_smd_resistors
+    md5: 7d9e06d40c9192846816b12a8192fbe3
+    md5_10: 7d9e06d40c
+    md5_5: 7d9e0
+    md5_6: 7d9e06
+    oomp_key: oomp_apexelectrix_apex_smd_resistors_r_2010_handsoldering
+    oomp_key_extra: oomp_footprint_apexelectrix_apex_smd_resistors_r_2010_handsoldering
+    oomp_key_full: oomp_footprint_apexelectrix_apex_smd_resistors_r_2010_handsoldering_7d9e06
+    oomp_key_simple: apexelectrix_apex_smd_resistors_r_2010_handsoldering
     original_filename: apex-smd-resistors.pretty/R_2010_HandSoldering.kicad_mod
     owner_name: apexelectrix
   oomp_key: oomp_apexelectrix_apex_smd_resistors_r_2010_handsoldering
+  oomp_key_full: oomp_footprint_apexelectrix_apex_smd_resistors_r_2010_handsoldering
   oomp_key_simple: apexelectrix_apex_smd_resistors_r_2010_handsoldering
   owner: apexelectrix
   repo:

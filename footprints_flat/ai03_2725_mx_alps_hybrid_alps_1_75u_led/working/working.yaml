@@ -16,10 +16,19 @@
   name: MX_Alps_Hybrid.pretty
   oomp:
     footprint_name: alps_1_75u_led
-    library_name: alps_only
+    library_name: mx_alps_hybrid
+    md5: 3c1bca582d6f868ea9028f540dd53859
+    md5_10: 3c1bca582d
+    md5_5: 3c1bc
+    md5_6: 3c1bca
+    oomp_key: oomp_ai03_2725_mx_alps_hybrid_alps_1_75u_led
+    oomp_key_extra: oomp_footprint_ai03_2725_mx_alps_hybrid_alps_1_75u_led
+    oomp_key_full: oomp_footprint_ai03_2725_mx_alps_hybrid_alps_1_75u_led_3c1bca
+    oomp_key_simple: ai03_2725_mx_alps_hybrid_alps_1_75u_led
     original_filename: MX_Alps_Hybrid.pretty/Alps_Only.pretty/ALPS-1.75U-LED.kicad_mod
     owner_name: ai03_2725
   oomp_key: oomp_ai03_2725_mx_alps_hybrid_alps_1_75u_led
+  oomp_key_full: oomp_footprint_ai03_2725_mx_alps_hybrid_alps_1_75u_led
   oomp_key_simple: ai03_2725_mx_alps_hybrid_alps_1_75u_led
   owner: ai03-2725
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sot6
     library_name: kicadfootprint
+    md5: ebad90cadba6e33327ed15b9eb570f78
+    md5_10: ebad90cadb
+    md5_5: ebad9
+    md5_6: ebad90
+    oomp_key: oomp_vivitainc_kicadfootprint_sot6
+    oomp_key_extra: oomp_footprint_vivitainc_kicadfootprint_sot6
+    oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_sot6_ebad90
+    oomp_key_simple: vivitainc_kicadfootprint_sot6
     original_filename: KiCADfootprint.pretty/SOT6.kicad_mod
     owner_name: vivitainc
   oomp_key: oomp_vivitainc_kicadfootprint_sot6
+  oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_sot6
   oomp_key_simple: vivitainc_kicadfootprint_sot6
   owner: vivitainc
   repo:

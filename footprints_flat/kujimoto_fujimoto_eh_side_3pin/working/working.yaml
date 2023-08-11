@@ -17,9 +17,18 @@
   oomp:
     footprint_name: eh_side_3pin
     library_name: fujimoto
+    md5: 56d98ccb1c6e1c89fb5d2ef6c1ce3e3c
+    md5_10: 56d98ccb1c
+    md5_5: 56d98
+    md5_6: 56d98c
+    oomp_key: oomp_kujimoto_fujimoto_eh_side_3pin
+    oomp_key_extra: oomp_footprint_kujimoto_fujimoto_eh_side_3pin
+    oomp_key_full: oomp_footprint_kujimoto_fujimoto_eh_side_3pin_56d98c
+    oomp_key_simple: kujimoto_fujimoto_eh_side_3pin
     original_filename: fujimoto.pretty/EH_side_3pin.kicad_mod
     owner_name: kujimoto
   oomp_key: oomp_kujimoto_fujimoto_eh_side_3pin
+  oomp_key_full: oomp_footprint_kujimoto_fujimoto_eh_side_3pin
   oomp_key_simple: kujimoto_fujimoto_eh_side_3pin
   owner: Kujimoto
   repo:

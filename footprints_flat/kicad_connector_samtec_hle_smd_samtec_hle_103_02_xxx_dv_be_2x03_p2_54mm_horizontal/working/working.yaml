@@ -19,9 +19,18 @@
   oomp:
     footprint_name: samtec_hle_103_02_xxx_dv_be_2x03_p2_54mm_horizontal
     library_name: connector_samtec_hle_smd
+    md5: f353347bfe66c60c6350d6266ab3b8c8
+    md5_10: f353347bfe
+    md5_5: f3533
+    md5_6: f35334
+    oomp_key: oomp_kicad_connector_samtec_hle_smd_samtec_hle_103_02_xxx_dv_be_2x03_p2_54mm_horizontal
+    oomp_key_extra: oomp_footprint_kicad_connector_samtec_hle_smd_samtec_hle_103_02_xxx_dv_be_2x03_p2_54mm_horizontal
+    oomp_key_full: oomp_footprint_kicad_connector_samtec_hle_smd_samtec_hle_103_02_xxx_dv_be_2x03_p2_54mm_horizontal_f35334
+    oomp_key_simple: kicad_connector_samtec_hle_smd_samtec_hle_103_02_xxx_dv_be_2x03_p2_54mm_horizontal
     original_filename: libraries/kicad-footprints/Connector_Samtec_HLE_SMD.pretty/Samtec_HLE-103-02-xxx-DV-BE_2x03_P2.54mm_Horizontal.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_samtec_hle_smd_samtec_hle_103_02_xxx_dv_be_2x03_p2_54mm_horizontal
+  oomp_key_full: oomp_footprint_kicad_connector_samtec_hle_smd_samtec_hle_103_02_xxx_dv_be_2x03_p2_54mm_horizontal
   oomp_key_simple: kicad_connector_samtec_hle_smd_samtec_hle_103_02_xxx_dv_be_2x03_p2_54mm_horizontal
   owner: kicad
   repo:

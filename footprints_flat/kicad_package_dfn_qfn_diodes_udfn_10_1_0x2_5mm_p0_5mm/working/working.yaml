@@ -17,9 +17,18 @@
   oomp:
     footprint_name: diodes_udfn_10_1_0x2_5mm_p0_5mm
     library_name: package_dfn_qfn
+    md5: 9a8fb50998575e0fb56f9d184ca9435c
+    md5_10: 9a8fb50998
+    md5_5: 9a8fb
+    md5_6: 9a8fb5
+    oomp_key: oomp_kicad_package_dfn_qfn_diodes_udfn_10_1_0x2_5mm_p0_5mm
+    oomp_key_extra: oomp_footprint_kicad_package_dfn_qfn_diodes_udfn_10_1_0x2_5mm_p0_5mm
+    oomp_key_full: oomp_footprint_kicad_package_dfn_qfn_diodes_udfn_10_1_0x2_5mm_p0_5mm_9a8fb5
+    oomp_key_simple: kicad_package_dfn_qfn_diodes_udfn_10_1_0x2_5mm_p0_5mm
     original_filename: libraries/kicad-footprints/Package_DFN_QFN.pretty/Diodes_UDFN-10_1.0x2.5mm_P0.5mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_dfn_qfn_diodes_udfn_10_1_0x2_5mm_p0_5mm
+  oomp_key_full: oomp_footprint_kicad_package_dfn_qfn_diodes_udfn_10_1_0x2_5mm_p0_5mm
   oomp_key_simple: kicad_package_dfn_qfn_diodes_udfn_10_1_0x2_5mm_p0_5mm
   owner: kicad
   repo:

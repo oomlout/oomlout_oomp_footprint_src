@@ -17,9 +17,18 @@
   oomp:
     footprint_name: nichia_nss
     library_name: nichia_leds
+    md5: 59345f3739d4355dd5d72cbfca3f0405
+    md5_10: 59345f3739
+    md5_5: '59345'
+    md5_6: 59345f
+    oomp_key: oomp_madworm_nichia_leds_nichia_nss
+    oomp_key_extra: oomp_footprint_madworm_nichia_leds_nichia_nss
+    oomp_key_full: oomp_footprint_madworm_nichia_leds_nichia_nss_59345f
+    oomp_key_simple: madworm_nichia_leds_nichia_nss
     original_filename: Nichia-LEDs.pretty/Nichia_NSS.kicad_mod
     owner_name: madworm
   oomp_key: oomp_madworm_nichia_leds_nichia_nss
+  oomp_key_full: oomp_footprint_madworm_nichia_leds_nichia_nss
   oomp_key_simple: madworm_nichia_leds_nichia_nss
   owner: madworm
   repo:

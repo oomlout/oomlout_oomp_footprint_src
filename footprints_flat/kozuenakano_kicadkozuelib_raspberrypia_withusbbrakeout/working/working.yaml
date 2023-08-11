@@ -17,9 +17,18 @@
   oomp:
     footprint_name: raspberrypia_withusbbrakeout
     library_name: kicadkozuelib
+    md5: 2e5b818a0af832103e8a5daa4d4fd7fb
+    md5_10: 2e5b818a0a
+    md5_5: 2e5b8
+    md5_6: 2e5b81
+    oomp_key: oomp_kozuenakano_kicadkozuelib_raspberrypia_withusbbrakeout
+    oomp_key_extra: oomp_footprint_kozuenakano_kicadkozuelib_raspberrypia_withusbbrakeout
+    oomp_key_full: oomp_footprint_kozuenakano_kicadkozuelib_raspberrypia_withusbbrakeout_2e5b81
+    oomp_key_simple: kozuenakano_kicadkozuelib_raspberrypia_withusbbrakeout
     original_filename: KiCADKozueLib.pretty/RaspberryPiA+withUSBBrakeOut.kicad_mod
     owner_name: kozuenakano
   oomp_key: oomp_kozuenakano_kicadkozuelib_raspberrypia_withusbbrakeout
+  oomp_key_full: oomp_footprint_kozuenakano_kicadkozuelib_raspberrypia_withusbbrakeout
   oomp_key_simple: kozuenakano_kicadkozuelib_raspberrypia_withusbbrakeout
   owner: KozueNakano
   repo:

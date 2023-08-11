@@ -17,9 +17,18 @@
   oomp:
     footprint_name: tfml_110_02_l_d
     library_name: agg
+    md5: 5014df7208f1879b4df23120ece68e3c
+    md5_10: 5014df7208
+    md5_5: 5014d
+    md5_6: 5014df
+    oomp_key: oomp_adamgreig_agg_tfml_110_02_l_d
+    oomp_key_extra: oomp_footprint_adamgreig_agg_tfml_110_02_l_d
+    oomp_key_full: oomp_footprint_adamgreig_agg_tfml_110_02_l_d_5014df
+    oomp_key_simple: adamgreig_agg_tfml_110_02_l_d
     original_filename: agg-kicad/agg.pretty/TFML-110-02-L-D.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_tfml_110_02_l_d
+  oomp_key_full: oomp_footprint_adamgreig_agg_tfml_110_02_l_d
   oomp_key_simple: adamgreig_agg_tfml_110_02_l_d
   owner: adamgreig
   repo:

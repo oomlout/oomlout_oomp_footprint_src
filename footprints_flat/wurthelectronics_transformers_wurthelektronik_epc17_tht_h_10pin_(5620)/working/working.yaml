@@ -17,9 +17,18 @@
   oomp:
     footprint_name: epc17_tht_h_10pin_(5620)
     library_name: transformers_wurthelektronik
+    md5: 112bc8c1b2d868e0f53d853c03a27c76
+    md5_10: 112bc8c1b2
+    md5_5: 112bc
+    md5_6: 112bc8
+    oomp_key: oomp_wurthelectronics_transformers_wurthelektronik_epc17_tht_h_10pin_(5620)
+    oomp_key_extra: oomp_footprint_wurthelectronics_transformers_wurthelektronik_epc17_tht_h_10pin_(5620)
+    oomp_key_full: oomp_footprint_wurthelectronics_transformers_wurthelektronik_epc17_tht_h_10pin_(5620)_112bc8
+    oomp_key_simple: wurthelectronics_transformers_wurthelektronik_epc17_tht_h_10pin_(5620)
     original_filename: Transformers_WurthElektronik.pretty/EPC17_THT_H_10PIN_(5620).kicad_mod
     owner_name: wurthelectronics
   oomp_key: oomp_wurthelectronics_transformers_wurthelektronik_epc17_tht_h_10pin_(5620)
+  oomp_key_full: oomp_footprint_wurthelectronics_transformers_wurthelektronik_epc17_tht_h_10pin_(5620)
   oomp_key_simple: wurthelectronics_transformers_wurthelektronik_epc17_tht_h_10pin_(5620)
   owner: WurthElectronics
   repo:

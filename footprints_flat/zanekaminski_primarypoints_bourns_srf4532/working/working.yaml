@@ -17,9 +17,18 @@
   oomp:
     footprint_name: bourns_srf4532
     library_name: primarypoints
+    md5: 3ef62fe414a39e875a5bba170f7ceafa
+    md5_10: 3ef62fe414
+    md5_5: 3ef62
+    md5_6: 3ef62f
+    oomp_key: oomp_zanekaminski_primarypoints_bourns_srf4532
+    oomp_key_extra: oomp_footprint_zanekaminski_primarypoints_bourns_srf4532
+    oomp_key_full: oomp_footprint_zanekaminski_primarypoints_bourns_srf4532_3ef62f
+    oomp_key_simple: zanekaminski_primarypoints_bourns_srf4532
     original_filename: primarypoints.pretty/Bourns_SRF4532.kicad_mod
     owner_name: zanekaminski
   oomp_key: oomp_zanekaminski_primarypoints_bourns_srf4532
+  oomp_key_full: oomp_footprint_zanekaminski_primarypoints_bourns_srf4532
   oomp_key_simple: zanekaminski_primarypoints_bourns_srf4532
   owner: ZaneKaminski
   repo:

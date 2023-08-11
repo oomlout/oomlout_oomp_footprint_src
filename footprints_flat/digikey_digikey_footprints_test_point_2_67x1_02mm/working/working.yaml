@@ -17,9 +17,18 @@
   oomp:
     footprint_name: test_point_2_67x1_02mm
     library_name: digikey_footprints
+    md5: 7b3d69876be079ed2f29abbc0e8d527b
+    md5_10: 7b3d69876b
+    md5_5: 7b3d6
+    md5_6: 7b3d69
+    oomp_key: oomp_digikey_digikey_footprints_test_point_2_67x1_02mm
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_test_point_2_67x1_02mm
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_test_point_2_67x1_02mm_7b3d69
+    oomp_key_simple: digikey_digikey_footprints_test_point_2_67x1_02mm
     original_filename: digikey-kicad-library/digikey-footprints.pretty/Test_Point_2.67x1.02mm.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_test_point_2_67x1_02mm
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_test_point_2_67x1_02mm
   oomp_key_simple: digikey_digikey_footprints_test_point_2_67x1_02mm
   owner: digikey
   repo:

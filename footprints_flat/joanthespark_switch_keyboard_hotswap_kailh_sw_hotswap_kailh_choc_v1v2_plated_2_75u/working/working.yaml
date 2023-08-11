@@ -18,9 +18,18 @@
   oomp:
     footprint_name: sw_hotswap_kailh_choc_v1v2_plated_2_75u
     library_name: switch_keyboard_hotswap_kailh
+    md5: 1f9df567b5b02f5e55e999e9d72f0290
+    md5_10: 1f9df567b5
+    md5_5: 1f9df
+    md5_6: 1f9df5
+    oomp_key: oomp_joanthespark_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_choc_v1v2_plated_2_75u
+    oomp_key_extra: oomp_footprint_joanthespark_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_choc_v1v2_plated_2_75u
+    oomp_key_full: oomp_footprint_joanthespark_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_choc_v1v2_plated_2_75u_1f9df5
+    oomp_key_simple: joanthespark_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_choc_v1v2_plated_2_75u
     original_filename: KiCAD/6.0/3rdparty/footprints/com_github_perigoso_keyswitch-kicad-library/Switch_Keyboard_Hotswap_Kailh.pretty/SW_Hotswap_Kailh_Choc_V1V2_Plated_2.75u.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_choc_v1v2_plated_2_75u
+  oomp_key_full: oomp_footprint_joanthespark_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_choc_v1v2_plated_2_75u
   oomp_key_simple: joanthespark_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_choc_v1v2_plated_2_75u
   owner: JoanTheSpark
   repo:

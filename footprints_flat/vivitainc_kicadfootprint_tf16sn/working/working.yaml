@@ -17,9 +17,18 @@
   oomp:
     footprint_name: tf16sn
     library_name: kicadfootprint
+    md5: 90aeb07fd417373e5f70ed00fa114ddb
+    md5_10: 90aeb07fd4
+    md5_5: 90aeb
+    md5_6: 90aeb0
+    oomp_key: oomp_vivitainc_kicadfootprint_tf16sn
+    oomp_key_extra: oomp_footprint_vivitainc_kicadfootprint_tf16sn
+    oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_tf16sn_90aeb0
+    oomp_key_simple: vivitainc_kicadfootprint_tf16sn
     original_filename: KiCADfootprint.pretty/TF16SN.kicad_mod
     owner_name: vivitainc
   oomp_key: oomp_vivitainc_kicadfootprint_tf16sn
+  oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_tf16sn
   oomp_key_simple: vivitainc_kicadfootprint_tf16sn
   owner: vivitainc
   repo:

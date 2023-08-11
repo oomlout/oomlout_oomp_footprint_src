@@ -17,9 +17,18 @@
   oomp:
     footprint_name: jumper_tin_p5_38mm
     library_name: digikey_footprints
+    md5: 15176e51597fc0391e7b5d08c19cc7b5
+    md5_10: 15176e5159
+    md5_5: '15176'
+    md5_6: 15176e
+    oomp_key: oomp_digikey_digikey_footprints_jumper_tin_p5_38mm
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_jumper_tin_p5_38mm
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_jumper_tin_p5_38mm_15176e
+    oomp_key_simple: digikey_digikey_footprints_jumper_tin_p5_38mm
     original_filename: digikey-kicad-library/digikey-footprints.pretty/Jumper_Tin_P5.38mm.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_jumper_tin_p5_38mm
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_jumper_tin_p5_38mm
   oomp_key_simple: digikey_digikey_footprints_jumper_tin_p5_38mm
   owner: digikey
   repo:

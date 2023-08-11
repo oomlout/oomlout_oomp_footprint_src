@@ -17,9 +17,18 @@
   oomp:
     footprint_name: potentiometer_bourns_3296w_vertical
     library_name: potentiometer_tht
+    md5: 1ad1272113fd6a8625685f6550287d0c
+    md5_10: 1ad1272113
+    md5_5: 1ad12
+    md5_6: 1ad127
+    oomp_key: oomp_kicad_potentiometer_tht_potentiometer_bourns_3296w_vertical
+    oomp_key_extra: oomp_footprint_kicad_potentiometer_tht_potentiometer_bourns_3296w_vertical
+    oomp_key_full: oomp_footprint_kicad_potentiometer_tht_potentiometer_bourns_3296w_vertical_1ad127
+    oomp_key_simple: kicad_potentiometer_tht_potentiometer_bourns_3296w_vertical
     original_filename: libraries/kicad-footprints/Potentiometer_THT.pretty/Potentiometer_Bourns_3296W_Vertical.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_potentiometer_tht_potentiometer_bourns_3296w_vertical
+  oomp_key_full: oomp_footprint_kicad_potentiometer_tht_potentiometer_bourns_3296w_vertical
   oomp_key_simple: kicad_potentiometer_tht_potentiometer_bourns_3296w_vertical
   owner: kicad
   repo:

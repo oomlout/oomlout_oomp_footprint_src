@@ -17,9 +17,18 @@
   oomp:
     footprint_name: smd2520
     library_name: rhais_osc
+    md5: 6955a2cfe648ed6e150898d997d673d6
+    md5_10: 6955a2cfe6
+    md5_5: 6955a
+    md5_6: 6955a2
+    oomp_key: oomp_dx_mon_rhais_osc_smd2520
+    oomp_key_extra: oomp_footprint_dx_mon_rhais_osc_smd2520
+    oomp_key_full: oomp_footprint_dx_mon_rhais_osc_smd2520_6955a2
+    oomp_key_simple: dx_mon_rhais_osc_smd2520
     original_filename: rhais_osc.pretty/SMD2520.kicad_mod
     owner_name: dx_mon
   oomp_key: oomp_dx_mon_rhais_osc_smd2520
+  oomp_key_full: oomp_footprint_dx_mon_rhais_osc_smd2520
   oomp_key_simple: dx_mon_rhais_osc_smd2520
   owner: DX-MON
   repo:

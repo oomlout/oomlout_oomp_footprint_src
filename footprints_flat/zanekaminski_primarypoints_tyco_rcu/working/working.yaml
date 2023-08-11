@@ -17,9 +17,18 @@
   oomp:
     footprint_name: tyco_rcu
     library_name: primarypoints
+    md5: 45aa17ea3d016fca4b412fb3925acfc2
+    md5_10: 45aa17ea3d
+    md5_5: 45aa1
+    md5_6: 45aa17
+    oomp_key: oomp_zanekaminski_primarypoints_tyco_rcu
+    oomp_key_extra: oomp_footprint_zanekaminski_primarypoints_tyco_rcu
+    oomp_key_full: oomp_footprint_zanekaminski_primarypoints_tyco_rcu_45aa17
+    oomp_key_simple: zanekaminski_primarypoints_tyco_rcu
     original_filename: primarypoints.pretty/Tyco_RCU.kicad_mod
     owner_name: zanekaminski
   oomp_key: oomp_zanekaminski_primarypoints_tyco_rcu
+  oomp_key_full: oomp_footprint_zanekaminski_primarypoints_tyco_rcu
   oomp_key_simple: zanekaminski_primarypoints_tyco_rcu
   owner: ZaneKaminski
   repo:

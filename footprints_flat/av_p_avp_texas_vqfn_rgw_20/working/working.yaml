@@ -17,9 +17,18 @@
   oomp:
     footprint_name: texas_vqfn_rgw_20
     library_name: avp
+    md5: 49c7743882b92d4b46bf2e554f9c7338
+    md5_10: 49c7743882
+    md5_5: 49c77
+    md5_6: 49c774
+    oomp_key: oomp_av_p_avp_texas_vqfn_rgw_20
+    oomp_key_extra: oomp_footprint_av_p_avp_texas_vqfn_rgw_20
+    oomp_key_full: oomp_footprint_av_p_avp_texas_vqfn_rgw_20_49c774
+    oomp_key_simple: av_p_avp_texas_vqfn_rgw_20
     original_filename: Avp.pretty/Texas_VQFN-RGW-20.kicad_mod
     owner_name: av_p
   oomp_key: oomp_av_p_avp_texas_vqfn_rgw_20
+  oomp_key_full: oomp_footprint_av_p_avp_texas_vqfn_rgw_20
   oomp_key_simple: av_p_avp_texas_vqfn_rgw_20
   owner: av-p
   repo:

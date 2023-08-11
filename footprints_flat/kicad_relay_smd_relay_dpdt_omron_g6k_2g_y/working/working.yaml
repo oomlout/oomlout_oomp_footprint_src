@@ -17,9 +17,18 @@
   oomp:
     footprint_name: relay_dpdt_omron_g6k_2g_y
     library_name: relay_smd
+    md5: a31ba3aedc5b13b3da31b083ffa59522
+    md5_10: a31ba3aedc
+    md5_5: a31ba
+    md5_6: a31ba3
+    oomp_key: oomp_kicad_relay_smd_relay_dpdt_omron_g6k_2g_y
+    oomp_key_extra: oomp_footprint_kicad_relay_smd_relay_dpdt_omron_g6k_2g_y
+    oomp_key_full: oomp_footprint_kicad_relay_smd_relay_dpdt_omron_g6k_2g_y_a31ba3
+    oomp_key_simple: kicad_relay_smd_relay_dpdt_omron_g6k_2g_y
     original_filename: libraries/kicad-footprints/Relay_SMD.pretty/Relay_DPDT_Omron_G6K-2G-Y.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_relay_smd_relay_dpdt_omron_g6k_2g_y
+  oomp_key_full: oomp_footprint_kicad_relay_smd_relay_dpdt_omron_g6k_2g_y
   oomp_key_simple: kicad_relay_smd_relay_dpdt_omron_g6k_2g_y
   owner: kicad
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: testpoint_pad_d2_0mm
     library_name: testpoint
+    md5: 61f2ad830806fdab0c55beff87972e28
+    md5_10: 61f2ad8308
+    md5_5: 61f2a
+    md5_6: 61f2ad
+    oomp_key: oomp_kicad_testpoint_testpoint_pad_d2_0mm
+    oomp_key_extra: oomp_footprint_kicad_testpoint_testpoint_pad_d2_0mm
+    oomp_key_full: oomp_footprint_kicad_testpoint_testpoint_pad_d2_0mm_61f2ad
+    oomp_key_simple: kicad_testpoint_testpoint_pad_d2_0mm
     original_filename: libraries/kicad-footprints/TestPoint.pretty/TestPoint_Pad_D2.0mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_testpoint_testpoint_pad_d2_0mm
+  oomp_key_full: oomp_footprint_kicad_testpoint_testpoint_pad_d2_0mm
   oomp_key_simple: kicad_testpoint_testpoint_pad_d2_0mm
   owner: kicad
   repo:

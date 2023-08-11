@@ -17,9 +17,18 @@
   oomp:
     footprint_name: 1w_rgb_led_6pin
     library_name: crumpprints
+    md5: 2cc47528d5dec8dae3ce882c0a467921
+    md5_10: 2cc47528d5
+    md5_5: 2cc47
+    md5_6: 2cc475
+    oomp_key: oomp_tylercrumpton_crumpprints_1w_rgb_led_6pin
+    oomp_key_extra: oomp_footprint_tylercrumpton_crumpprints_1w_rgb_led_6pin
+    oomp_key_full: oomp_footprint_tylercrumpton_crumpprints_1w_rgb_led_6pin_2cc475
+    oomp_key_simple: tylercrumpton_crumpprints_1w_rgb_led_6pin
     original_filename: CrumpPrints.pretty/1W_RGB_LED_6PIN.kicad_mod
     owner_name: tylercrumpton
   oomp_key: oomp_tylercrumpton_crumpprints_1w_rgb_led_6pin
+  oomp_key_full: oomp_footprint_tylercrumpton_crumpprints_1w_rgb_led_6pin
   oomp_key_simple: tylercrumpton_crumpprints_1w_rgb_led_6pin
   owner: tylercrumpton
   repo:

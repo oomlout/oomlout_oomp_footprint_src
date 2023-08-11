@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ee16_5_tht_v_4pin_(6300)
     library_name: transformers_wurthelektronik
+    md5: db82a48b5107135e8d7471494ca83f20
+    md5_10: db82a48b51
+    md5_5: db82a
+    md5_6: db82a4
+    oomp_key: oomp_wurthelectronics_transformers_wurthelektronik_ee16_5_tht_v_4pin_(6300)
+    oomp_key_extra: oomp_footprint_wurthelectronics_transformers_wurthelektronik_ee16_5_tht_v_4pin_(6300)
+    oomp_key_full: oomp_footprint_wurthelectronics_transformers_wurthelektronik_ee16_5_tht_v_4pin_(6300)_db82a4
+    oomp_key_simple: wurthelectronics_transformers_wurthelektronik_ee16_5_tht_v_4pin_(6300)
     original_filename: Transformers_WurthElektronik.pretty/EE16.5_THT_V_4PIN_(6300).kicad_mod
     owner_name: wurthelectronics
   oomp_key: oomp_wurthelectronics_transformers_wurthelektronik_ee16_5_tht_v_4pin_(6300)
+  oomp_key_full: oomp_footprint_wurthelectronics_transformers_wurthelektronik_ee16_5_tht_v_4pin_(6300)
   oomp_key_simple: wurthelectronics_transformers_wurthelektronik_ee16_5_tht_v_4pin_(6300)
   owner: WurthElectronics
   repo:

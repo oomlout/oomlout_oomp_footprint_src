@@ -17,9 +17,18 @@
   oomp:
     footprint_name: vls201610hbx_1
     library_name: agg
+    md5: 6fe2844643bb3d83fd9935378db0b5bd
+    md5_10: 6fe2844643
+    md5_5: 6fe28
+    md5_6: 6fe284
+    oomp_key: oomp_adamgreig_agg_vls201610hbx_1
+    oomp_key_extra: oomp_footprint_adamgreig_agg_vls201610hbx_1
+    oomp_key_full: oomp_footprint_adamgreig_agg_vls201610hbx_1_6fe284
+    oomp_key_simple: adamgreig_agg_vls201610hbx_1
     original_filename: agg-kicad/agg.pretty/VLS201610HBX-1.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_vls201610hbx_1
+  oomp_key_full: oomp_footprint_adamgreig_agg_vls201610hbx_1
   oomp_key_simple: adamgreig_agg_vls201610hbx_1
   owner: adamgreig
   repo:

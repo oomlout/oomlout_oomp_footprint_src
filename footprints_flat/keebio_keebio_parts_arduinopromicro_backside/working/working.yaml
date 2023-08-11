@@ -17,9 +17,18 @@
   oomp:
     footprint_name: arduinopromicro_backside
     library_name: keebio_parts
+    md5: 7190602d463f10c98109bbefa1bbb2fc
+    md5_10: 7190602d46
+    md5_5: '71906'
+    md5_6: '719060'
+    oomp_key: oomp_keebio_keebio_parts_arduinopromicro_backside
+    oomp_key_extra: oomp_footprint_keebio_keebio_parts_arduinopromicro_backside
+    oomp_key_full: oomp_footprint_keebio_keebio_parts_arduinopromicro_backside_719060
+    oomp_key_simple: keebio_keebio_parts_arduinopromicro_backside
     original_filename: Keebio-Parts.pretty/ArduinoProMicro-BackSide.kicad_mod
     owner_name: keebio
   oomp_key: oomp_keebio_keebio_parts_arduinopromicro_backside
+  oomp_key_full: oomp_footprint_keebio_keebio_parts_arduinopromicro_backside
   oomp_key_simple: keebio_keebio_parts_arduinopromicro_backside
   owner: keebio
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: smd_1608
     library_name: kicad_smd
+    md5: 1baac6ba453dbab7b95cd4361c330078
+    md5_10: 1baac6ba45
+    md5_5: 1baac
+    md5_6: 1baac6
+    oomp_key: oomp_kikaiken_kicad_smd_smd_1608
+    oomp_key_extra: oomp_footprint_kikaiken_kicad_smd_smd_1608
+    oomp_key_full: oomp_footprint_kikaiken_kicad_smd_smd_1608_1baac6
+    oomp_key_simple: kikaiken_kicad_smd_smd_1608
     original_filename: kicad_smd.pretty/SMD_1608.kicad_mod
     owner_name: kikaiken
   oomp_key: oomp_kikaiken_kicad_smd_smd_1608
+  oomp_key_full: oomp_footprint_kikaiken_kicad_smd_smd_1608
   oomp_key_simple: kikaiken_kicad_smd_smd_1608
   owner: kikaiken
   repo:

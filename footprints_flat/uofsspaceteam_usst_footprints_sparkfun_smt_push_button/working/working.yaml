@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sparkfun_smt_push_button
     library_name: usst_footprints
+    md5: f766254f8a252c729487fd56827514fa
+    md5_10: f766254f8a
+    md5_5: f7662
+    md5_6: f76625
+    oomp_key: oomp_uofsspaceteam_usst_footprints_sparkfun_smt_push_button
+    oomp_key_extra: oomp_footprint_uofsspaceteam_usst_footprints_sparkfun_smt_push_button
+    oomp_key_full: oomp_footprint_uofsspaceteam_usst_footprints_sparkfun_smt_push_button_f76625
+    oomp_key_simple: uofsspaceteam_usst_footprints_sparkfun_smt_push_button
     original_filename: USST-footprints.pretty/Sparkfun_SMT_push_button.kicad_mod
     owner_name: uofsspaceteam
   oomp_key: oomp_uofsspaceteam_usst_footprints_sparkfun_smt_push_button
+  oomp_key_full: oomp_footprint_uofsspaceteam_usst_footprints_sparkfun_smt_push_button
   oomp_key_simple: uofsspaceteam_usst_footprints_sparkfun_smt_push_button
   owner: UofSSpaceTeam
   repo:

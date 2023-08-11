@@ -17,9 +17,18 @@
   oomp:
     footprint_name: linear_de14_reflow
     library_name: manuf
+    md5: 77483371673bdc2549699c5fa59fa773
+    md5_10: '7748337167'
+    md5_5: '77483'
+    md5_6: '774833'
+    oomp_key: oomp_cpavlina_manuf_linear_de14_reflow
+    oomp_key_extra: oomp_footprint_cpavlina_manuf_linear_de14_reflow
+    oomp_key_full: oomp_footprint_cpavlina_manuf_linear_de14_reflow_774833
+    oomp_key_simple: cpavlina_manuf_linear_de14_reflow
     original_filename: kicad-pcblib/manuf.pretty/LINEAR-DE14-REFLOW.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_manuf_linear_de14_reflow
+  oomp_key_full: oomp_footprint_cpavlina_manuf_linear_de14_reflow
   oomp_key_simple: cpavlina_manuf_linear_de14_reflow
   owner: cpavlina
   repo:

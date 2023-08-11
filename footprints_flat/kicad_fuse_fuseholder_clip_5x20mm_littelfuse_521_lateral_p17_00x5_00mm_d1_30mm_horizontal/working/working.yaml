@@ -18,9 +18,18 @@
   oomp:
     footprint_name: fuseholder_clip_5x20mm_littelfuse_521_lateral_p17_00x5_00mm_d1_30mm_horizontal
     library_name: fuse
+    md5: fc7dbcf656c233996d0a13d2f422d644
+    md5_10: fc7dbcf656
+    md5_5: fc7db
+    md5_6: fc7dbc
+    oomp_key: oomp_kicad_fuse_fuseholder_clip_5x20mm_littelfuse_521_lateral_p17_00x5_00mm_d1_30mm_horizontal
+    oomp_key_extra: oomp_footprint_kicad_fuse_fuseholder_clip_5x20mm_littelfuse_521_lateral_p17_00x5_00mm_d1_30mm_horizontal
+    oomp_key_full: oomp_footprint_kicad_fuse_fuseholder_clip_5x20mm_littelfuse_521_lateral_p17_00x5_00mm_d1_30mm_horizontal_fc7dbc
+    oomp_key_simple: kicad_fuse_fuseholder_clip_5x20mm_littelfuse_521_lateral_p17_00x5_00mm_d1_30mm_horizontal
     original_filename: libraries/kicad-footprints/Fuse.pretty/Fuseholder_Clip-5x20mm_Littelfuse_521_Lateral_P17.00x5.00mm_D1.30mm_Horizontal.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_fuse_fuseholder_clip_5x20mm_littelfuse_521_lateral_p17_00x5_00mm_d1_30mm_horizontal
+  oomp_key_full: oomp_footprint_kicad_fuse_fuseholder_clip_5x20mm_littelfuse_521_lateral_p17_00x5_00mm_d1_30mm_horizontal
   oomp_key_simple: kicad_fuse_fuseholder_clip_5x20mm_littelfuse_521_lateral_p17_00x5_00mm_d1_30mm_horizontal
   owner: kicad
   repo:

@@ -18,9 +18,18 @@
   oomp:
     footprint_name: pson80p250x200x80_5
     library_name: ipc7351_nominal
+    md5: ef1b32bfc01f4bbdfeea6a0aef15847e
+    md5_10: ef1b32bfc0
+    md5_5: ef1b3
+    md5_6: ef1b32
+    oomp_key: oomp_cpavlina_ipc7351_nominal_pson80p250x200x80_5
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_nominal_pson80p250x200x80_5
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_pson80p250x200x80_5_ef1b32
+    oomp_key_simple: cpavlina_ipc7351_nominal_pson80p250x200x80_5
     original_filename: kicad-pcblib/IPC7351-Nominal.pretty/PSON80P250X200X80-5.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_nominal_pson80p250x200x80_5
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_pson80p250x200x80_5
   oomp_key_simple: cpavlina_ipc7351_nominal_pson80p250x200x80_5
   owner: cpavlina
   repo:

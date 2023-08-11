@@ -17,9 +17,18 @@
   oomp:
     footprint_name: rs_282g05a3_sm_rt
     library_name: xess
+    md5: 43afaf370b20061561da5b1b44c9acac
+    md5_10: 43afaf370b
+    md5_5: 43afa
+    md5_6: 43afaf
+    oomp_key: oomp_xesscorp_xess_rs_282g05a3_sm_rt
+    oomp_key_extra: oomp_footprint_xesscorp_xess_rs_282g05a3_sm_rt
+    oomp_key_full: oomp_footprint_xesscorp_xess_rs_282g05a3_sm_rt_43afaf
+    oomp_key_simple: xesscorp_xess_rs_282g05a3_sm_rt
     original_filename: xess.pretty/RS-282G05A3-SM_RT.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_rs_282g05a3_sm_rt
+  oomp_key_full: oomp_footprint_xesscorp_xess_rs_282g05a3_sm_rt
   oomp_key_simple: xesscorp_xess_rs_282g05a3_sm_rt
   owner: xesscorp
   repo:

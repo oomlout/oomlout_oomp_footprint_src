@@ -17,9 +17,18 @@
   oomp:
     footprint_name: photodiode_radial_5_1x3mm_p2_54mm
     library_name: digikey_footprints
+    md5: 988acc71c7066a0be834260492c81045
+    md5_10: 988acc71c7
+    md5_5: 988ac
+    md5_6: 988acc
+    oomp_key: oomp_digikey_digikey_footprints_photodiode_radial_5_1x3mm_p2_54mm
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_photodiode_radial_5_1x3mm_p2_54mm
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_photodiode_radial_5_1x3mm_p2_54mm_988acc
+    oomp_key_simple: digikey_digikey_footprints_photodiode_radial_5_1x3mm_p2_54mm
     original_filename: digikey-kicad-library/digikey-footprints.pretty/Photodiode_Radial_5.1x3mm_P2.54mm.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_photodiode_radial_5_1x3mm_p2_54mm
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_photodiode_radial_5_1x3mm_p2_54mm
   oomp_key_simple: digikey_digikey_footprints_photodiode_radial_5_1x3mm_p2_54mm
   owner: digikey
   repo:

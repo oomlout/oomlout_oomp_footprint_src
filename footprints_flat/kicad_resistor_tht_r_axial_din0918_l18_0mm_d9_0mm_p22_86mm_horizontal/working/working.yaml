@@ -18,9 +18,18 @@
   oomp:
     footprint_name: r_axial_din0918_l18_0mm_d9_0mm_p22_86mm_horizontal
     library_name: resistor_tht
+    md5: b5bf886721b7ff4af6860eed34ae5b4a
+    md5_10: b5bf886721
+    md5_5: b5bf8
+    md5_6: b5bf88
+    oomp_key: oomp_kicad_resistor_tht_r_axial_din0918_l18_0mm_d9_0mm_p22_86mm_horizontal
+    oomp_key_extra: oomp_footprint_kicad_resistor_tht_r_axial_din0918_l18_0mm_d9_0mm_p22_86mm_horizontal
+    oomp_key_full: oomp_footprint_kicad_resistor_tht_r_axial_din0918_l18_0mm_d9_0mm_p22_86mm_horizontal_b5bf88
+    oomp_key_simple: kicad_resistor_tht_r_axial_din0918_l18_0mm_d9_0mm_p22_86mm_horizontal
     original_filename: libraries/kicad-footprints/Resistor_THT.pretty/R_Axial_DIN0918_L18.0mm_D9.0mm_P22.86mm_Horizontal.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_resistor_tht_r_axial_din0918_l18_0mm_d9_0mm_p22_86mm_horizontal
+  oomp_key_full: oomp_footprint_kicad_resistor_tht_r_axial_din0918_l18_0mm_d9_0mm_p22_86mm_horizontal
   oomp_key_simple: kicad_resistor_tht_r_axial_din0918_l18_0mm_d9_0mm_p22_86mm_horizontal
   owner: kicad
   repo:

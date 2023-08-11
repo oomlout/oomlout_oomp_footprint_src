@@ -17,9 +17,18 @@
   oomp:
     footprint_name: do_214ab_smc
     library_name: apex_smd_diode
+    md5: 8b85b2e925913da193ea32bd005bc733
+    md5_10: 8b85b2e925
+    md5_5: 8b85b
+    md5_6: 8b85b2
+    oomp_key: oomp_apexelectrix_apex_smd_diode_do_214ab_smc
+    oomp_key_extra: oomp_footprint_apexelectrix_apex_smd_diode_do_214ab_smc
+    oomp_key_full: oomp_footprint_apexelectrix_apex_smd_diode_do_214ab_smc_8b85b2
+    oomp_key_simple: apexelectrix_apex_smd_diode_do_214ab_smc
     original_filename: apex-smd-diode.pretty/DO-214AB_SMC.kicad_mod
     owner_name: apexelectrix
   oomp_key: oomp_apexelectrix_apex_smd_diode_do_214ab_smc
+  oomp_key_full: oomp_footprint_apexelectrix_apex_smd_diode_do_214ab_smc
   oomp_key_simple: apexelectrix_apex_smd_diode_do_214ab_smc
   owner: apexelectrix
   repo:

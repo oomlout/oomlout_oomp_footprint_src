@@ -19,9 +19,18 @@
   oomp:
     footprint_name: u_blox_max
     library_name: manuf
+    md5: 7a4dcc6c356518836749410a2652c6d9
+    md5_10: 7a4dcc6c35
+    md5_5: 7a4dc
+    md5_6: 7a4dcc
+    oomp_key: oomp_iangitpers_manuf_u_blox_max
+    oomp_key_extra: oomp_footprint_iangitpers_manuf_u_blox_max
+    oomp_key_full: oomp_footprint_iangitpers_manuf_u_blox_max_7a4dcc
+    oomp_key_simple: iangitpers_manuf_u_blox_max
     original_filename: 4a/manuf.pretty/U-BLOX_MAX.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_manuf_u_blox_max
+  oomp_key_full: oomp_footprint_iangitpers_manuf_u_blox_max
   oomp_key_simple: iangitpers_manuf_u_blox_max
   owner: Iangitpers
   repo:

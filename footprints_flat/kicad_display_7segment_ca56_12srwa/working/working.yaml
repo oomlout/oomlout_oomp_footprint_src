@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ca56_12srwa
     library_name: display_7segment
+    md5: 56b0fe0394217b1389da71c41d9f56b2
+    md5_10: 56b0fe0394
+    md5_5: 56b0f
+    md5_6: 56b0fe
+    oomp_key: oomp_kicad_display_7segment_ca56_12srwa
+    oomp_key_extra: oomp_footprint_kicad_display_7segment_ca56_12srwa
+    oomp_key_full: oomp_footprint_kicad_display_7segment_ca56_12srwa_56b0fe
+    oomp_key_simple: kicad_display_7segment_ca56_12srwa
     original_filename: libraries/kicad-footprints/Display_7Segment.pretty/CA56-12SRWA.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_display_7segment_ca56_12srwa
+  oomp_key_full: oomp_footprint_kicad_display_7segment_ca56_12srwa
   oomp_key_simple: kicad_display_7segment_ca56_12srwa
   owner: kicad
   repo:

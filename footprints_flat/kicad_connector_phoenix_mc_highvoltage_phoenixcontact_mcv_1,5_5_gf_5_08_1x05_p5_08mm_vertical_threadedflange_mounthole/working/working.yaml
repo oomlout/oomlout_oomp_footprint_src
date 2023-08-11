@@ -21,9 +21,18 @@
   oomp:
     footprint_name: phoenixcontact_mcv_1,5_5_gf_5_08_1x05_p5_08mm_vertical_threadedflange_mounthole
     library_name: connector_phoenix_mc_highvoltage
+    md5: d2549f6cd2e6591ada1d763bd59e7ec3
+    md5_10: d2549f6cd2
+    md5_5: d2549
+    md5_6: d2549f
+    oomp_key: oomp_kicad_connector_phoenix_mc_highvoltage_phoenixcontact_mcv_1,5_5_gf_5_08_1x05_p5_08mm_vertical_threadedflange_mounthole
+    oomp_key_extra: oomp_footprint_kicad_connector_phoenix_mc_highvoltage_phoenixcontact_mcv_1,5_5_gf_5_08_1x05_p5_08mm_vertical_threadedflange_mounthole
+    oomp_key_full: oomp_footprint_kicad_connector_phoenix_mc_highvoltage_phoenixcontact_mcv_1,5_5_gf_5_08_1x05_p5_08mm_vertical_threadedflange_mounthole_d2549f
+    oomp_key_simple: kicad_connector_phoenix_mc_highvoltage_phoenixcontact_mcv_1,5_5_gf_5_08_1x05_p5_08mm_vertical_threadedflange_mounthole
     original_filename: libraries/kicad-footprints/Connector_Phoenix_MC_HighVoltage.pretty/PhoenixContact_MCV_1,5_5-GF-5.08_1x05_P5.08mm_Vertical_ThreadedFlange_MountHole.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_phoenix_mc_highvoltage_phoenixcontact_mcv_1,5_5_gf_5_08_1x05_p5_08mm_vertical_threadedflange_mounthole
+  oomp_key_full: oomp_footprint_kicad_connector_phoenix_mc_highvoltage_phoenixcontact_mcv_1,5_5_gf_5_08_1x05_p5_08mm_vertical_threadedflange_mounthole
   oomp_key_simple: kicad_connector_phoenix_mc_highvoltage_phoenixcontact_mcv_1,5_5_gf_5_08_1x05_p5_08mm_vertical_threadedflange_mounthole
   owner: kicad
   repo:

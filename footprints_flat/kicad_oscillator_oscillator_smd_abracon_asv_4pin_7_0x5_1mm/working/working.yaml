@@ -18,9 +18,18 @@
   oomp:
     footprint_name: oscillator_smd_abracon_asv_4pin_7_0x5_1mm
     library_name: oscillator
+    md5: 04023dc3eb8741025a5154980489b1aa
+    md5_10: 04023dc3eb
+    md5_5: '04023'
+    md5_6: 04023d
+    oomp_key: oomp_kicad_oscillator_oscillator_smd_abracon_asv_4pin_7_0x5_1mm
+    oomp_key_extra: oomp_footprint_kicad_oscillator_oscillator_smd_abracon_asv_4pin_7_0x5_1mm
+    oomp_key_full: oomp_footprint_kicad_oscillator_oscillator_smd_abracon_asv_4pin_7_0x5_1mm_04023d
+    oomp_key_simple: kicad_oscillator_oscillator_smd_abracon_asv_4pin_7_0x5_1mm
     original_filename: libraries/kicad-footprints/Oscillator.pretty/Oscillator_SMD_Abracon_ASV-4Pin_7.0x5.1mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_oscillator_oscillator_smd_abracon_asv_4pin_7_0x5_1mm
+  oomp_key_full: oomp_footprint_kicad_oscillator_oscillator_smd_abracon_asv_4pin_7_0x5_1mm
   oomp_key_simple: kicad_oscillator_oscillator_smd_abracon_asv_4pin_7_0x5_1mm
   owner: kicad
   repo:

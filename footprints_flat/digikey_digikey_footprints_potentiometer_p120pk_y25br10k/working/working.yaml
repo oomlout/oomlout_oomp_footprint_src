@@ -17,9 +17,18 @@
   oomp:
     footprint_name: potentiometer_p120pk_y25br10k
     library_name: digikey_footprints
+    md5: 466ef42658ce11c6cc1f962e0dc6d88b
+    md5_10: 466ef42658
+    md5_5: 466ef
+    md5_6: 466ef4
+    oomp_key: oomp_digikey_digikey_footprints_potentiometer_p120pk_y25br10k
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_potentiometer_p120pk_y25br10k
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_potentiometer_p120pk_y25br10k_466ef4
+    oomp_key_simple: digikey_digikey_footprints_potentiometer_p120pk_y25br10k
     original_filename: digikey-kicad-library/digikey-footprints.pretty/Potentiometer_P120PK-Y25BR10K.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_potentiometer_p120pk_y25br10k
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_potentiometer_p120pk_y25br10k
   oomp_key_simple: digikey_digikey_footprints_potentiometer_p120pk_y25br10k
   owner: digikey
   repo:

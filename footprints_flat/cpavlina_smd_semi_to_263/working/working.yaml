@@ -17,9 +17,18 @@
   oomp:
     footprint_name: to_263
     library_name: smd_semi
+    md5: 1fea41557bccb4d99c691271794c013c
+    md5_10: 1fea41557b
+    md5_5: 1fea4
+    md5_6: 1fea41
+    oomp_key: oomp_cpavlina_smd_semi_to_263
+    oomp_key_extra: oomp_footprint_cpavlina_smd_semi_to_263
+    oomp_key_full: oomp_footprint_cpavlina_smd_semi_to_263_1fea41
+    oomp_key_simple: cpavlina_smd_semi_to_263
     original_filename: kicad-pcblib/smd-semi.pretty/TO-263.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_smd_semi_to_263
+  oomp_key_full: oomp_footprint_cpavlina_smd_semi_to_263
   oomp_key_simple: cpavlina_smd_semi_to_263
   owner: cpavlina
   repo:

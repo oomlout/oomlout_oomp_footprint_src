@@ -19,9 +19,18 @@
   oomp:
     footprint_name: ce_logo_42x30mm_silkscreen
     library_name: symbol
+    md5: 204001d53621edd38d2ece04652a6aff
+    md5_10: 204001d536
+    md5_5: '20400'
+    md5_6: '204001'
+    oomp_key: oomp_iangitpers_symbol_ce_logo_42x30mm_silkscreen
+    oomp_key_extra: oomp_footprint_iangitpers_symbol_ce_logo_42x30mm_silkscreen
+    oomp_key_full: oomp_footprint_iangitpers_symbol_ce_logo_42x30mm_silkscreen_204001
+    oomp_key_simple: iangitpers_symbol_ce_logo_42x30mm_silkscreen
     original_filename: 4a/Symbol.pretty/CE-Logo_42x30mm_SilkScreen.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_symbol_ce_logo_42x30mm_silkscreen
+  oomp_key_full: oomp_footprint_iangitpers_symbol_ce_logo_42x30mm_silkscreen
   oomp_key_simple: iangitpers_symbol_ce_logo_42x30mm_silkscreen
   owner: Iangitpers
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sot323_fet
     library_name: freetronics_footprints
+    md5: 65c4c00e5fa4f52083d13600b7f3e3bc
+    md5_10: 65c4c00e5f
+    md5_5: 65c4c
+    md5_6: 65c4c0
+    oomp_key: oomp_wykys_freetronics_footprints_sot323_fet
+    oomp_key_extra: oomp_footprint_wykys_freetronics_footprints_sot323_fet
+    oomp_key_full: oomp_footprint_wykys_freetronics_footprints_sot323_fet_65c4c0
+    oomp_key_simple: wykys_freetronics_footprints_sot323_fet
     original_filename: kicad/mods/freetronics_footprints.pretty/SOT323_FET.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_freetronics_footprints_sot323_fet
+  oomp_key_full: oomp_footprint_wykys_freetronics_footprints_sot323_fet
   oomp_key_simple: wykys_freetronics_footprints_sot323_fet
   owner: wykys
   repo:

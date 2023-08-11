@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ws2812b
     library_name: andnxor_kicad
+    md5: d405cb72679dc1883a9bc575a949b6d8
+    md5_10: d405cb7267
+    md5_5: d405c
+    md5_6: d405cb
+    oomp_key: oomp_andnxor_andnxor_kicad_ws2812b
+    oomp_key_extra: oomp_footprint_andnxor_andnxor_kicad_ws2812b
+    oomp_key_full: oomp_footprint_andnxor_andnxor_kicad_ws2812b_d405cb
+    oomp_key_simple: andnxor_andnxor_kicad_ws2812b
     original_filename: ANDnXOR-Kicad.pretty/WS2812B.kicad_mod
     owner_name: andnxor
   oomp_key: oomp_andnxor_andnxor_kicad_ws2812b
+  oomp_key_full: oomp_footprint_andnxor_andnxor_kicad_ws2812b
   oomp_key_simple: andnxor_andnxor_kicad_ws2812b
   owner: ANDnXOR
   repo:

@@ -18,9 +18,18 @@
   oomp:
     footprint_name: mf_connectors_bat_hld_001
     library_name: mf_connectors
+    md5: a60fb0756f75448337311108340372da
+    md5_10: a60fb0756f
+    md5_5: a60fb
+    md5_6: a60fb0
+    oomp_key: oomp_macrofab_mf_connectors_mf_connectors_bat_hld_001
+    oomp_key_extra: oomp_footprint_macrofab_mf_connectors_mf_connectors_bat_hld_001
+    oomp_key_full: oomp_footprint_macrofab_mf_connectors_mf_connectors_bat_hld_001_a60fb0
+    oomp_key_simple: macrofab_mf_connectors_mf_connectors_bat_hld_001
     original_filename: EDALibraries/KiCad/Footprints/MF_Connectors.pretty/MF_Connectors-BAT-HLD-001.kicad_mod
     owner_name: macrofab
   oomp_key: oomp_macrofab_mf_connectors_mf_connectors_bat_hld_001
+  oomp_key_full: oomp_footprint_macrofab_mf_connectors_mf_connectors_bat_hld_001
   oomp_key_simple: macrofab_mf_connectors_mf_connectors_bat_hld_001
   owner: MacroFab
   repo:

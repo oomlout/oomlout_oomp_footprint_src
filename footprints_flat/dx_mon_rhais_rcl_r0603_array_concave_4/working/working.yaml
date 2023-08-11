@@ -18,9 +18,18 @@
   oomp:
     footprint_name: r0603_array_concave_4
     library_name: rhais_rcl
+    md5: 881aad05d408962d8c8c9a3d7792d9cc
+    md5_10: 881aad05d4
+    md5_5: 881aa
+    md5_6: 881aad
+    oomp_key: oomp_dx_mon_rhais_rcl_r0603_array_concave_4
+    oomp_key_extra: oomp_footprint_dx_mon_rhais_rcl_r0603_array_concave_4
+    oomp_key_full: oomp_footprint_dx_mon_rhais_rcl_r0603_array_concave_4_881aad
+    oomp_key_simple: dx_mon_rhais_rcl_r0603_array_concave_4
     original_filename: rhais_rcl.pretty/R0603_Array_Concave_4.kicad_mod
     owner_name: dx_mon
   oomp_key: oomp_dx_mon_rhais_rcl_r0603_array_concave_4
+  oomp_key_full: oomp_footprint_dx_mon_rhais_rcl_r0603_array_concave_4
   oomp_key_simple: dx_mon_rhais_rcl_r0603_array_concave_4
   owner: DX-MON
   repo:

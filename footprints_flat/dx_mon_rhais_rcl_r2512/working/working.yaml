@@ -17,9 +17,18 @@
   oomp:
     footprint_name: r2512
     library_name: rhais_rcl
+    md5: d7d2099bd595d3fe4e563fb7b8b6da6d
+    md5_10: d7d2099bd5
+    md5_5: d7d20
+    md5_6: d7d209
+    oomp_key: oomp_dx_mon_rhais_rcl_r2512
+    oomp_key_extra: oomp_footprint_dx_mon_rhais_rcl_r2512
+    oomp_key_full: oomp_footprint_dx_mon_rhais_rcl_r2512_d7d209
+    oomp_key_simple: dx_mon_rhais_rcl_r2512
     original_filename: rhais_rcl.pretty/R2512.kicad_mod
     owner_name: dx_mon
   oomp_key: oomp_dx_mon_rhais_rcl_r2512
+  oomp_key_full: oomp_footprint_dx_mon_rhais_rcl_r2512
   oomp_key_simple: dx_mon_rhais_rcl_r2512
   owner: DX-MON
   repo:

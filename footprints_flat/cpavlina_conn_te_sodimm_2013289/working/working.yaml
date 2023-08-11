@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sodimm_2013289
     library_name: conn_te
+    md5: 90f417a78f9077aa7aba689fb5cc90e5
+    md5_10: 90f417a78f
+    md5_5: 90f41
+    md5_6: 90f417
+    oomp_key: oomp_cpavlina_conn_te_sodimm_2013289
+    oomp_key_extra: oomp_footprint_cpavlina_conn_te_sodimm_2013289
+    oomp_key_full: oomp_footprint_cpavlina_conn_te_sodimm_2013289_90f417
+    oomp_key_simple: cpavlina_conn_te_sodimm_2013289
     original_filename: kicad-pcblib/conn-te.pretty/SODIMM-2013289.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_conn_te_sodimm_2013289
+  oomp_key_full: oomp_footprint_cpavlina_conn_te_sodimm_2013289
   oomp_key_simple: cpavlina_conn_te_sodimm_2013289
   owner: cpavlina
   repo:

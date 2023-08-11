@@ -17,9 +17,18 @@
   oomp:
     footprint_name: quectel_bg96
     library_name: rf_gsm
+    md5: 3b2bd5360843cf55dcab2db9098e8289
+    md5_10: 3b2bd53608
+    md5_5: 3b2bd
+    md5_6: 3b2bd5
+    oomp_key: oomp_kicad_rf_gsm_quectel_bg96
+    oomp_key_extra: oomp_footprint_kicad_rf_gsm_quectel_bg96
+    oomp_key_full: oomp_footprint_kicad_rf_gsm_quectel_bg96_3b2bd5
+    oomp_key_simple: kicad_rf_gsm_quectel_bg96
     original_filename: libraries/kicad-footprints/RF_GSM.pretty/Quectel_BG96.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_rf_gsm_quectel_bg96
+  oomp_key_full: oomp_footprint_kicad_rf_gsm_quectel_bg96
   oomp_key_simple: kicad_rf_gsm_quectel_bg96
   owner: kicad
   repo:

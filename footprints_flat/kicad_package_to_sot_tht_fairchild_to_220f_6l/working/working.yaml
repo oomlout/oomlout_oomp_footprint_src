@@ -17,9 +17,18 @@
   oomp:
     footprint_name: fairchild_to_220f_6l
     library_name: package_to_sot_tht
+    md5: b676a7f141d9d075cbd3fbe9f742c203
+    md5_10: b676a7f141
+    md5_5: b676a
+    md5_6: b676a7
+    oomp_key: oomp_kicad_package_to_sot_tht_fairchild_to_220f_6l
+    oomp_key_extra: oomp_footprint_kicad_package_to_sot_tht_fairchild_to_220f_6l
+    oomp_key_full: oomp_footprint_kicad_package_to_sot_tht_fairchild_to_220f_6l_b676a7
+    oomp_key_simple: kicad_package_to_sot_tht_fairchild_to_220f_6l
     original_filename: libraries/kicad-footprints/Package_TO_SOT_THT.pretty/Fairchild_TO-220F-6L.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_to_sot_tht_fairchild_to_220f_6l
+  oomp_key_full: oomp_footprint_kicad_package_to_sot_tht_fairchild_to_220f_6l
   oomp_key_simple: kicad_package_to_sot_tht_fairchild_to_220f_6l
   owner: kicad
   repo:

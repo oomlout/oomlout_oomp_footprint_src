@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xmit
     library_name: rf
+    md5: e4427ef4a59b172038585e021dba8cdd
+    md5_10: e4427ef4a5
+    md5_5: e4427
+    md5_6: e4427e
+    oomp_key: oomp_axello_rf_xmit
+    oomp_key_extra: oomp_footprint_axello_rf_xmit
+    oomp_key_full: oomp_footprint_axello_rf_xmit_e4427e
+    oomp_key_simple: axello_rf_xmit
     original_filename: kicad/mods/RF.pretty/XMIT.kicad_mod
     owner_name: axello
   oomp_key: oomp_axello_rf_xmit
+  oomp_key_full: oomp_footprint_axello_rf_xmit
   oomp_key_simple: axello_rf_xmit
   owner: axello
   repo:

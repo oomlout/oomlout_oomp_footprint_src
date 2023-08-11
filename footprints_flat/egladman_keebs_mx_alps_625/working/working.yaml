@@ -17,9 +17,18 @@
   oomp:
     footprint_name: mx_alps_625
     library_name: keebs
+    md5: f18eff73acb9cf5b625cef743254fb9f
+    md5_10: f18eff73ac
+    md5_5: f18ef
+    md5_6: f18eff
+    oomp_key: oomp_egladman_keebs_mx_alps_625
+    oomp_key_extra: oomp_footprint_egladman_keebs_mx_alps_625
+    oomp_key_full: oomp_footprint_egladman_keebs_mx_alps_625_f18eff
+    oomp_key_simple: egladman_keebs_mx_alps_625
     original_filename: keebs.pretty/Mx_Alps_625.kicad_mod
     owner_name: egladman
   oomp_key: oomp_egladman_keebs_mx_alps_625
+  oomp_key_full: oomp_footprint_egladman_keebs_mx_alps_625
   oomp_key_simple: egladman_keebs_mx_alps_625
   owner: egladman
   repo:

@@ -19,9 +19,18 @@
   oomp:
     footprint_name: analog_lfcsp_vq_56
     library_name: manuf
+    md5: a3fe35add8991df672fb23f59ed8b3f3
+    md5_10: a3fe35add8
+    md5_5: a3fe3
+    md5_6: a3fe35
+    oomp_key: oomp_iangitpers_manuf_analog_lfcsp_vq_56
+    oomp_key_extra: oomp_footprint_iangitpers_manuf_analog_lfcsp_vq_56
+    oomp_key_full: oomp_footprint_iangitpers_manuf_analog_lfcsp_vq_56_a3fe35
+    oomp_key_simple: iangitpers_manuf_analog_lfcsp_vq_56
     original_filename: 4a/manuf.pretty/ANALOG-LFCSP-VQ-56.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_manuf_analog_lfcsp_vq_56
+  oomp_key_full: oomp_footprint_iangitpers_manuf_analog_lfcsp_vq_56
   oomp_key_simple: iangitpers_manuf_analog_lfcsp_vq_56
   owner: Iangitpers
   repo:

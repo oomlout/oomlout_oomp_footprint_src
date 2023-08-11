@@ -17,9 +17,18 @@
   oomp:
     footprint_name: oscillator_smd_vcxo_abracon_ablno
     library_name: awallinkicadfootprints
+    md5: adac5eb0a776711c7dd4e0fa143275a6
+    md5_10: adac5eb0a7
+    md5_5: adac5
+    md5_6: adac5e
+    oomp_key: oomp_aewallin_awallinkicadfootprints_oscillator_smd_vcxo_abracon_ablno
+    oomp_key_extra: oomp_footprint_aewallin_awallinkicadfootprints_oscillator_smd_vcxo_abracon_ablno
+    oomp_key_full: oomp_footprint_aewallin_awallinkicadfootprints_oscillator_smd_vcxo_abracon_ablno_adac5e
+    oomp_key_simple: aewallin_awallinkicadfootprints_oscillator_smd_vcxo_abracon_ablno
     original_filename: awallinKiCadFootprints.pretty/Oscillator_SMD_VCXO_Abracon_ABLNO.kicad_mod
     owner_name: aewallin
   oomp_key: oomp_aewallin_awallinkicadfootprints_oscillator_smd_vcxo_abracon_ablno
+  oomp_key_full: oomp_footprint_aewallin_awallinkicadfootprints_oscillator_smd_vcxo_abracon_ablno
   oomp_key_simple: aewallin_awallinkicadfootprints_oscillator_smd_vcxo_abracon_ablno
   owner: aewallin
   repo:

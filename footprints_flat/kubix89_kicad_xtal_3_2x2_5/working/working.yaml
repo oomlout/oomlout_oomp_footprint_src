@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xtal_3_2x2_5
     library_name: kicad
+    md5: e299132cd37eee37ea0cdd0b532e141f
+    md5_10: e299132cd3
+    md5_5: e2991
+    md5_6: e29913
+    oomp_key: oomp_kubix89_kicad_xtal_3_2x2_5
+    oomp_key_extra: oomp_footprint_kubix89_kicad_xtal_3_2x2_5
+    oomp_key_full: oomp_footprint_kubix89_kicad_xtal_3_2x2_5_e29913
+    oomp_key_simple: kubix89_kicad_xtal_3_2x2_5
     original_filename: kiCAD.pretty/XTAL_3.2X2.5.kicad_mod
     owner_name: kubix89
   oomp_key: oomp_kubix89_kicad_xtal_3_2x2_5
+  oomp_key_full: oomp_footprint_kubix89_kicad_xtal_3_2x2_5
   oomp_key_simple: kubix89_kicad_xtal_3_2x2_5
   owner: kubiX89
   repo:

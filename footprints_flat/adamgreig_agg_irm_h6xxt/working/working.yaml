@@ -17,9 +17,18 @@
   oomp:
     footprint_name: irm_h6xxt
     library_name: agg
+    md5: 23e160020ce29b947b7d23e891359113
+    md5_10: 23e160020c
+    md5_5: 23e16
+    md5_6: 23e160
+    oomp_key: oomp_adamgreig_agg_irm_h6xxt
+    oomp_key_extra: oomp_footprint_adamgreig_agg_irm_h6xxt
+    oomp_key_full: oomp_footprint_adamgreig_agg_irm_h6xxt_23e160
+    oomp_key_simple: adamgreig_agg_irm_h6xxt
     original_filename: agg-kicad/agg.pretty/IRM-H6XXT.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_irm_h6xxt
+  oomp_key_full: oomp_footprint_adamgreig_agg_irm_h6xxt
   oomp_key_simple: adamgreig_agg_irm_h6xxt
   owner: adamgreig
   repo:

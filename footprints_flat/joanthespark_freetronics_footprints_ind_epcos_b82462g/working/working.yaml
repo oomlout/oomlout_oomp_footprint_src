@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ind_epcos_b82462g
     library_name: freetronics_footprints
+    md5: bf73d68d895cb4cad8b2ae49d319766a
+    md5_10: bf73d68d89
+    md5_5: bf73d
+    md5_6: bf73d6
+    oomp_key: oomp_joanthespark_freetronics_footprints_ind_epcos_b82462g
+    oomp_key_extra: oomp_footprint_joanthespark_freetronics_footprints_ind_epcos_b82462g
+    oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_ind_epcos_b82462g_bf73d6
+    oomp_key_simple: joanthespark_freetronics_footprints_ind_epcos_b82462g
     original_filename: KiCAD/mods/freetronics_footprints.pretty/IND_EPCOS_B82462G.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_freetronics_footprints_ind_epcos_b82462g
+  oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_ind_epcos_b82462g
   oomp_key_simple: joanthespark_freetronics_footprints_ind_epcos_b82462g
   owner: JoanTheSpark
   repo:

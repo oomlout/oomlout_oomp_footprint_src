@@ -17,9 +17,18 @@
   oomp:
     footprint_name: soic127p600x175_16b
     library_name: ipc7351_most
+    md5: 15a752d2bf10ad2161131aa7b6a46150
+    md5_10: 15a752d2bf
+    md5_5: 15a75
+    md5_6: 15a752
+    oomp_key: oomp_cpavlina_ipc7351_most_soic127p600x175_16b
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_most_soic127p600x175_16b
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_most_soic127p600x175_16b_15a752
+    oomp_key_simple: cpavlina_ipc7351_most_soic127p600x175_16b
     original_filename: kicad-pcblib/IPC7351-Most.pretty/SOIC127P600X175-16B.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_most_soic127p600x175_16b
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_most_soic127p600x175_16b
   oomp_key_simple: cpavlina_ipc7351_most_soic127p600x175_16b
   owner: cpavlina
   repo:

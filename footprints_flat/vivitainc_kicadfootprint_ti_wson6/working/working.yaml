@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ti_wson6
     library_name: kicadfootprint
+    md5: cedc0ba98295a4d42e3950db4ec8da58
+    md5_10: cedc0ba982
+    md5_5: cedc0
+    md5_6: cedc0b
+    oomp_key: oomp_vivitainc_kicadfootprint_ti_wson6
+    oomp_key_extra: oomp_footprint_vivitainc_kicadfootprint_ti_wson6
+    oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_ti_wson6_cedc0b
+    oomp_key_simple: vivitainc_kicadfootprint_ti_wson6
     original_filename: KiCADfootprint.pretty/TI_WSON6.kicad_mod
     owner_name: vivitainc
   oomp_key: oomp_vivitainc_kicadfootprint_ti_wson6
+  oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_ti_wson6
   oomp_key_simple: vivitainc_kicadfootprint_ti_wson6
   owner: vivitainc
   repo:

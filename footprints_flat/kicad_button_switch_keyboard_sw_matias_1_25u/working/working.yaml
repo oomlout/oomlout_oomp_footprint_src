@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sw_matias_1_25u
     library_name: button_switch_keyboard
+    md5: d4e4b9575b6af831f713d435fcc0bb8b
+    md5_10: d4e4b9575b
+    md5_5: d4e4b
+    md5_6: d4e4b9
+    oomp_key: oomp_kicad_button_switch_keyboard_sw_matias_1_25u
+    oomp_key_extra: oomp_footprint_kicad_button_switch_keyboard_sw_matias_1_25u
+    oomp_key_full: oomp_footprint_kicad_button_switch_keyboard_sw_matias_1_25u_d4e4b9
+    oomp_key_simple: kicad_button_switch_keyboard_sw_matias_1_25u
     original_filename: libraries/kicad-footprints/Button_Switch_Keyboard.pretty/SW_Matias_1.25u.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_button_switch_keyboard_sw_matias_1_25u
+  oomp_key_full: oomp_footprint_kicad_button_switch_keyboard_sw_matias_1_25u
   oomp_key_simple: kicad_button_switch_keyboard_sw_matias_1_25u
   owner: kicad
   repo:

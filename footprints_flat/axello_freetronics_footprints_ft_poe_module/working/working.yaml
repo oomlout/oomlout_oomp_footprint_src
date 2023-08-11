@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ft_poe_module
     library_name: freetronics_footprints
+    md5: 0b1c1435295733aba63d993dbb781130
+    md5_10: 0b1c143529
+    md5_5: 0b1c1
+    md5_6: 0b1c14
+    oomp_key: oomp_axello_freetronics_footprints_ft_poe_module
+    oomp_key_extra: oomp_footprint_axello_freetronics_footprints_ft_poe_module
+    oomp_key_full: oomp_footprint_axello_freetronics_footprints_ft_poe_module_0b1c14
+    oomp_key_simple: axello_freetronics_footprints_ft_poe_module
     original_filename: kicad/mods/freetronics_footprints.pretty/FT-POE-MODULE.kicad_mod
     owner_name: axello
   oomp_key: oomp_axello_freetronics_footprints_ft_poe_module
+  oomp_key_full: oomp_footprint_axello_freetronics_footprints_ft_poe_module
   oomp_key_simple: axello_freetronics_footprints_ft_poe_module
   owner: axello
   repo:

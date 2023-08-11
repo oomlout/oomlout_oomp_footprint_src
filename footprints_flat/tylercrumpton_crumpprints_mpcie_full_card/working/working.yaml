@@ -17,9 +17,18 @@
   oomp:
     footprint_name: mpcie_full_card
     library_name: crumpprints
+    md5: 99dcdf963b596921a64edb8a904d92b7
+    md5_10: 99dcdf963b
+    md5_5: 99dcd
+    md5_6: 99dcdf
+    oomp_key: oomp_tylercrumpton_crumpprints_mpcie_full_card
+    oomp_key_extra: oomp_footprint_tylercrumpton_crumpprints_mpcie_full_card
+    oomp_key_full: oomp_footprint_tylercrumpton_crumpprints_mpcie_full_card_99dcdf
+    oomp_key_simple: tylercrumpton_crumpprints_mpcie_full_card
     original_filename: CrumpPrints.pretty/MPCIe_full_card.kicad_mod
     owner_name: tylercrumpton
   oomp_key: oomp_tylercrumpton_crumpprints_mpcie_full_card
+  oomp_key_full: oomp_footprint_tylercrumpton_crumpprints_mpcie_full_card
   oomp_key_simple: tylercrumpton_crumpprints_mpcie_full_card
   owner: tylercrumpton
   repo:

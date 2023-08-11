@@ -18,9 +18,18 @@
   oomp:
     footprint_name: dip_5_6_w10_16mm
     library_name: package_dip
+    md5: 5ae5b4fc445ef980e7cc252c4672ca1d
+    md5_10: 5ae5b4fc44
+    md5_5: 5ae5b
+    md5_6: 5ae5b4
+    oomp_key: oomp_kicad_package_dip_dip_5_6_w10_16mm
+    oomp_key_extra: oomp_footprint_kicad_package_dip_dip_5_6_w10_16mm
+    oomp_key_full: oomp_footprint_kicad_package_dip_dip_5_6_w10_16mm_5ae5b4
+    oomp_key_simple: kicad_package_dip_dip_5_6_w10_16mm
     original_filename: libraries/kicad-footprints/Package_DIP.pretty/DIP-5-6_W10.16mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_dip_dip_5_6_w10_16mm
+  oomp_key_full: oomp_footprint_kicad_package_dip_dip_5_6_w10_16mm
   oomp_key_simple: kicad_package_dip_dip_5_6_w10_16mm
   owner: kicad
   repo:

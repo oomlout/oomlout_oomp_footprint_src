@@ -17,9 +17,18 @@
   oomp:
     footprint_name: nn01_103
     library_name: agg
+    md5: 5501530fa2d9c7cda6321f0e87a48bed
+    md5_10: 5501530fa2
+    md5_5: '55015'
+    md5_6: '550153'
+    oomp_key: oomp_adamgreig_agg_nn01_103
+    oomp_key_extra: oomp_footprint_adamgreig_agg_nn01_103
+    oomp_key_full: oomp_footprint_adamgreig_agg_nn01_103_550153
+    oomp_key_simple: adamgreig_agg_nn01_103
     original_filename: agg-kicad/agg.pretty/NN01-103.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_nn01_103
+  oomp_key_full: oomp_footprint_adamgreig_agg_nn01_103
   oomp_key_simple: adamgreig_agg_nn01_103
   owner: adamgreig
   repo:

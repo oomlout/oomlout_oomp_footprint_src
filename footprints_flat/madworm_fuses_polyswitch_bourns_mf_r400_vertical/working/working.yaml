@@ -17,9 +17,18 @@
   oomp:
     footprint_name: bourns_mf_r400_vertical
     library_name: fuses_polyswitch
+    md5: 43123b0a01756f950a1b50b1b1231812
+    md5_10: 43123b0a01
+    md5_5: '43123'
+    md5_6: 43123b
+    oomp_key: oomp_madworm_fuses_polyswitch_bourns_mf_r400_vertical
+    oomp_key_extra: oomp_footprint_madworm_fuses_polyswitch_bourns_mf_r400_vertical
+    oomp_key_full: oomp_footprint_madworm_fuses_polyswitch_bourns_mf_r400_vertical_43123b
+    oomp_key_simple: madworm_fuses_polyswitch_bourns_mf_r400_vertical
     original_filename: Fuses-polyswitch.pretty/Bourns_MF-R400_vertical.kicad_mod
     owner_name: madworm
   oomp_key: oomp_madworm_fuses_polyswitch_bourns_mf_r400_vertical
+  oomp_key_full: oomp_footprint_madworm_fuses_polyswitch_bourns_mf_r400_vertical
   oomp_key_simple: madworm_fuses_polyswitch_bourns_mf_r400_vertical
   owner: madworm
   repo:

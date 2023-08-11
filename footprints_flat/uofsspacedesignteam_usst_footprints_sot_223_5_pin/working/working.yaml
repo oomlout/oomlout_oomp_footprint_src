@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sot_223_5_pin
     library_name: usst_footprints
+    md5: 910212fa9ff5e567be04aac86e2ad6d8
+    md5_10: 910212fa9f
+    md5_5: '91021'
+    md5_6: '910212'
+    oomp_key: oomp_uofsspacedesignteam_usst_footprints_sot_223_5_pin
+    oomp_key_extra: oomp_footprint_uofsspacedesignteam_usst_footprints_sot_223_5_pin
+    oomp_key_full: oomp_footprint_uofsspacedesignteam_usst_footprints_sot_223_5_pin_910212
+    oomp_key_simple: uofsspacedesignteam_usst_footprints_sot_223_5_pin
     original_filename: USST-footprints.pretty/SOT-223_5-pin.kicad_mod
     owner_name: uofsspacedesignteam
   oomp_key: oomp_uofsspacedesignteam_usst_footprints_sot_223_5_pin
+  oomp_key_full: oomp_footprint_uofsspacedesignteam_usst_footprints_sot_223_5_pin
   oomp_key_simple: uofsspacedesignteam_usst_footprints_sot_223_5_pin
   owner: UofSSpaceDesignTeam
   repo:

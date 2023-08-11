@@ -17,9 +17,18 @@
   oomp:
     footprint_name: hdmi_a_kycon_kdmix_sl1_ns_ws_b15_verticalrightangle
     library_name: connector_hdmi
+    md5: 03a670fc2bf35a56efda91689c8b2e9f
+    md5_10: 03a670fc2b
+    md5_5: 03a67
+    md5_6: 03a670
+    oomp_key: oomp_kicad_connector_hdmi_hdmi_a_kycon_kdmix_sl1_ns_ws_b15_verticalrightangle
+    oomp_key_extra: oomp_footprint_kicad_connector_hdmi_hdmi_a_kycon_kdmix_sl1_ns_ws_b15_verticalrightangle
+    oomp_key_full: oomp_footprint_kicad_connector_hdmi_hdmi_a_kycon_kdmix_sl1_ns_ws_b15_verticalrightangle_03a670
+    oomp_key_simple: kicad_connector_hdmi_hdmi_a_kycon_kdmix_sl1_ns_ws_b15_verticalrightangle
     original_filename: libraries/kicad-footprints/Connector_HDMI.pretty/HDMI_A_Kycon_KDMIX-SL1-NS-WS-B15_VerticalRightAngle.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_hdmi_hdmi_a_kycon_kdmix_sl1_ns_ws_b15_verticalrightangle
+  oomp_key_full: oomp_footprint_kicad_connector_hdmi_hdmi_a_kycon_kdmix_sl1_ns_ws_b15_verticalrightangle
   oomp_key_simple: kicad_connector_hdmi_hdmi_a_kycon_kdmix_sl1_ns_ws_b15_verticalrightangle
   owner: kicad
   repo:

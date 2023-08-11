@@ -17,9 +17,18 @@
   oomp:
     footprint_name: usb_mini_b_vert_hw_mu_5f_23
     library_name: avp
+    md5: ce2f4fee9682fb2d168b9fd5eeea940e
+    md5_10: ce2f4fee96
+    md5_5: ce2f4
+    md5_6: ce2f4f
+    oomp_key: oomp_av_p_avp_usb_mini_b_vert_hw_mu_5f_23
+    oomp_key_extra: oomp_footprint_av_p_avp_usb_mini_b_vert_hw_mu_5f_23
+    oomp_key_full: oomp_footprint_av_p_avp_usb_mini_b_vert_hw_mu_5f_23_ce2f4f
+    oomp_key_simple: av_p_avp_usb_mini_b_vert_hw_mu_5f_23
     original_filename: Avp.pretty/USB-MINI-B-vert-HW-MU-5F-23.kicad_mod
     owner_name: av_p
   oomp_key: oomp_av_p_avp_usb_mini_b_vert_hw_mu_5f_23
+  oomp_key_full: oomp_footprint_av_p_avp_usb_mini_b_vert_hw_mu_5f_23
   oomp_key_simple: av_p_avp_usb_mini_b_vert_hw_mu_5f_23
   owner: av-p
   repo:

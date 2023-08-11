@@ -17,9 +17,18 @@
   oomp:
     footprint_name: hdr_2x4
     library_name: xess
+    md5: ad0f7ee734ed21bcf9c6cbc2e7b59e44
+    md5_10: ad0f7ee734
+    md5_5: ad0f7
+    md5_6: ad0f7e
+    oomp_key: oomp_xesscorp_xess_hdr_2x4
+    oomp_key_extra: oomp_footprint_xesscorp_xess_hdr_2x4
+    oomp_key_full: oomp_footprint_xesscorp_xess_hdr_2x4_ad0f7e
+    oomp_key_simple: xesscorp_xess_hdr_2x4
     original_filename: xess.pretty/HDR_2x4.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_hdr_2x4
+  oomp_key_full: oomp_footprint_xesscorp_xess_hdr_2x4
   oomp_key_simple: xesscorp_xess_hdr_2x4
   owner: xesscorp
   repo:

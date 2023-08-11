@@ -17,9 +17,18 @@
   oomp:
     footprint_name: pmod_6_male
     library_name: xess
+    md5: f368e54339a38135cd33d1d5f25825ce
+    md5_10: f368e54339
+    md5_5: f368e
+    md5_6: f368e5
+    oomp_key: oomp_xesscorp_xess_pmod_6_male
+    oomp_key_extra: oomp_footprint_xesscorp_xess_pmod_6_male
+    oomp_key_full: oomp_footprint_xesscorp_xess_pmod_6_male_f368e5
+    oomp_key_simple: xesscorp_xess_pmod_6_male
     original_filename: xess.pretty/PMOD-6-MALE.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_pmod_6_male
+  oomp_key_full: oomp_footprint_xesscorp_xess_pmod_6_male
   oomp_key_simple: xesscorp_xess_pmod_6_male
   owner: xesscorp
   repo:

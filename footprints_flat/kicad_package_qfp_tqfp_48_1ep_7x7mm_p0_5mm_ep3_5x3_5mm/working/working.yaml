@@ -18,9 +18,18 @@
   oomp:
     footprint_name: tqfp_48_1ep_7x7mm_p0_5mm_ep3_5x3_5mm
     library_name: package_qfp
+    md5: 34937f7b0ab808033dd58cb347fac09d
+    md5_10: 34937f7b0a
+    md5_5: '34937'
+    md5_6: 34937f
+    oomp_key: oomp_kicad_package_qfp_tqfp_48_1ep_7x7mm_p0_5mm_ep3_5x3_5mm
+    oomp_key_extra: oomp_footprint_kicad_package_qfp_tqfp_48_1ep_7x7mm_p0_5mm_ep3_5x3_5mm
+    oomp_key_full: oomp_footprint_kicad_package_qfp_tqfp_48_1ep_7x7mm_p0_5mm_ep3_5x3_5mm_34937f
+    oomp_key_simple: kicad_package_qfp_tqfp_48_1ep_7x7mm_p0_5mm_ep3_5x3_5mm
     original_filename: libraries/kicad-footprints/Package_QFP.pretty/TQFP-48-1EP_7x7mm_P0.5mm_EP3.5x3.5mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_qfp_tqfp_48_1ep_7x7mm_p0_5mm_ep3_5x3_5mm
+  oomp_key_full: oomp_footprint_kicad_package_qfp_tqfp_48_1ep_7x7mm_p0_5mm_ep3_5x3_5mm
   oomp_key_simple: kicad_package_qfp_tqfp_48_1ep_7x7mm_p0_5mm_ep3_5x3_5mm
   owner: kicad
   repo:

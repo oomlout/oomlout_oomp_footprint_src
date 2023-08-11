@@ -17,9 +17,18 @@
   oomp:
     footprint_name: nettie_4_tht_pad1_0mm
     library_name: nettie
+    md5: 16387243a960c71167b3d6ba12e92b78
+    md5_10: 16387243a9
+    md5_5: '16387'
+    md5_6: '163872'
+    oomp_key: oomp_kicad_nettie_nettie_4_tht_pad1_0mm
+    oomp_key_extra: oomp_footprint_kicad_nettie_nettie_4_tht_pad1_0mm
+    oomp_key_full: oomp_footprint_kicad_nettie_nettie_4_tht_pad1_0mm_163872
+    oomp_key_simple: kicad_nettie_nettie_4_tht_pad1_0mm
     original_filename: libraries/kicad-footprints/NetTie.pretty/NetTie-4_THT_Pad1.0mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_nettie_nettie_4_tht_pad1_0mm
+  oomp_key_full: oomp_footprint_kicad_nettie_nettie_4_tht_pad1_0mm
   oomp_key_simple: kicad_nettie_nettie_4_tht_pad1_0mm
   owner: kicad
   repo:

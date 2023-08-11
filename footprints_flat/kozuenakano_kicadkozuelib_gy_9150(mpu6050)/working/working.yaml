@@ -17,9 +17,18 @@
   oomp:
     footprint_name: gy_9150(mpu6050)
     library_name: kicadkozuelib
+    md5: c68d4ebf12d192c2e022b08119bbf556
+    md5_10: c68d4ebf12
+    md5_5: c68d4
+    md5_6: c68d4e
+    oomp_key: oomp_kozuenakano_kicadkozuelib_gy_9150(mpu6050)
+    oomp_key_extra: oomp_footprint_kozuenakano_kicadkozuelib_gy_9150(mpu6050)
+    oomp_key_full: oomp_footprint_kozuenakano_kicadkozuelib_gy_9150(mpu6050)_c68d4e
+    oomp_key_simple: kozuenakano_kicadkozuelib_gy_9150(mpu6050)
     original_filename: KiCADKozueLib.pretty/GY-9150(MPU6050).kicad_mod
     owner_name: kozuenakano
   oomp_key: oomp_kozuenakano_kicadkozuelib_gy_9150(mpu6050)
+  oomp_key_full: oomp_footprint_kozuenakano_kicadkozuelib_gy_9150(mpu6050)
   oomp_key_simple: kozuenakano_kicadkozuelib_gy_9150(mpu6050)
   owner: KozueNakano
   repo:

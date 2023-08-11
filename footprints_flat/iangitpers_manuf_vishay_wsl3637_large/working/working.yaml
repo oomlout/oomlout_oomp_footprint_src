@@ -19,9 +19,18 @@
   oomp:
     footprint_name: vishay_wsl3637_large
     library_name: manuf
+    md5: e9bdbc89110411357dc950c6b07d5eb7
+    md5_10: e9bdbc8911
+    md5_5: e9bdb
+    md5_6: e9bdbc
+    oomp_key: oomp_iangitpers_manuf_vishay_wsl3637_large
+    oomp_key_extra: oomp_footprint_iangitpers_manuf_vishay_wsl3637_large
+    oomp_key_full: oomp_footprint_iangitpers_manuf_vishay_wsl3637_large_e9bdbc
+    oomp_key_simple: iangitpers_manuf_vishay_wsl3637_large
     original_filename: 4a/manuf.pretty/VISHAY-WSL3637-LARGE.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_manuf_vishay_wsl3637_large
+  oomp_key_full: oomp_footprint_iangitpers_manuf_vishay_wsl3637_large
   oomp_key_simple: iangitpers_manuf_vishay_wsl3637_large
   owner: Iangitpers
   repo:

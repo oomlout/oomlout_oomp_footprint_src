@@ -18,9 +18,18 @@
   oomp:
     footprint_name: l_axial_l14_5mm_d5_8mm_p25_40mm_horizontal_fastron_hbcc
     library_name: inductor_tht
+    md5: 482b9b9d2c3e8aa7e8b4a1f17d08996d
+    md5_10: 482b9b9d2c
+    md5_5: 482b9
+    md5_6: 482b9b
+    oomp_key: oomp_kicad_inductor_tht_l_axial_l14_5mm_d5_8mm_p25_40mm_horizontal_fastron_hbcc
+    oomp_key_extra: oomp_footprint_kicad_inductor_tht_l_axial_l14_5mm_d5_8mm_p25_40mm_horizontal_fastron_hbcc
+    oomp_key_full: oomp_footprint_kicad_inductor_tht_l_axial_l14_5mm_d5_8mm_p25_40mm_horizontal_fastron_hbcc_482b9b
+    oomp_key_simple: kicad_inductor_tht_l_axial_l14_5mm_d5_8mm_p25_40mm_horizontal_fastron_hbcc
     original_filename: libraries/kicad-footprints/Inductor_THT.pretty/L_Axial_L14.5mm_D5.8mm_P25.40mm_Horizontal_Fastron_HBCC.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_inductor_tht_l_axial_l14_5mm_d5_8mm_p25_40mm_horizontal_fastron_hbcc
+  oomp_key_full: oomp_footprint_kicad_inductor_tht_l_axial_l14_5mm_d5_8mm_p25_40mm_horizontal_fastron_hbcc
   oomp_key_simple: kicad_inductor_tht_l_axial_l14_5mm_d5_8mm_p25_40mm_horizontal_fastron_hbcc
   owner: kicad
   repo:

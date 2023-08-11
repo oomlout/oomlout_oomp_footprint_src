@@ -17,9 +17,18 @@
   oomp:
     footprint_name: directfet_mc
     library_name: package_directfet
+    md5: c1a849603b7096603b771db7526034e5
+    md5_10: c1a849603b
+    md5_5: c1a84
+    md5_6: c1a849
+    oomp_key: oomp_kicad_package_directfet_directfet_mc
+    oomp_key_extra: oomp_footprint_kicad_package_directfet_directfet_mc
+    oomp_key_full: oomp_footprint_kicad_package_directfet_directfet_mc_c1a849
+    oomp_key_simple: kicad_package_directfet_directfet_mc
     original_filename: libraries/kicad-footprints/Package_DirectFET.pretty/DirectFET_MC.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_directfet_directfet_mc
+  oomp_key_full: oomp_footprint_kicad_package_directfet_directfet_mc
   oomp_key_simple: kicad_package_directfet_directfet_mc
   owner: kicad
   repo:

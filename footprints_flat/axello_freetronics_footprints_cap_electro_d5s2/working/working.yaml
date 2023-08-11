@@ -17,9 +17,18 @@
   oomp:
     footprint_name: cap_electro_d5s2
     library_name: freetronics_footprints
+    md5: a110ed6541e44ef666d079fc9914396a
+    md5_10: a110ed6541
+    md5_5: a110e
+    md5_6: a110ed
+    oomp_key: oomp_axello_freetronics_footprints_cap_electro_d5s2
+    oomp_key_extra: oomp_footprint_axello_freetronics_footprints_cap_electro_d5s2
+    oomp_key_full: oomp_footprint_axello_freetronics_footprints_cap_electro_d5s2_a110ed
+    oomp_key_simple: axello_freetronics_footprints_cap_electro_d5s2
     original_filename: kicad/mods/freetronics_footprints.pretty/CAP_ELECTRO_D5S2.kicad_mod
     owner_name: axello
   oomp_key: oomp_axello_freetronics_footprints_cap_electro_d5s2
+  oomp_key_full: oomp_footprint_axello_freetronics_footprints_cap_electro_d5s2
   oomp_key_simple: axello_freetronics_footprints_cap_electro_d5s2
   owner: axello
   repo:

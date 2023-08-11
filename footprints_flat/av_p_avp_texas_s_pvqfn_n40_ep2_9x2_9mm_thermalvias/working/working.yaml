@@ -18,9 +18,18 @@
   oomp:
     footprint_name: texas_s_pvqfn_n40_ep2_9x2_9mm_thermalvias
     library_name: avp
+    md5: 576ff4eaac56a821b6ae558c7998690a
+    md5_10: 576ff4eaac
+    md5_5: 576ff
+    md5_6: 576ff4
+    oomp_key: oomp_av_p_avp_texas_s_pvqfn_n40_ep2_9x2_9mm_thermalvias
+    oomp_key_extra: oomp_footprint_av_p_avp_texas_s_pvqfn_n40_ep2_9x2_9mm_thermalvias
+    oomp_key_full: oomp_footprint_av_p_avp_texas_s_pvqfn_n40_ep2_9x2_9mm_thermalvias_576ff4
+    oomp_key_simple: av_p_avp_texas_s_pvqfn_n40_ep2_9x2_9mm_thermalvias
     original_filename: Avp.pretty/Texas_S-PVQFN-N40_EP2.9x2.9mm_ThermalVias.kicad_mod
     owner_name: av_p
   oomp_key: oomp_av_p_avp_texas_s_pvqfn_n40_ep2_9x2_9mm_thermalvias
+  oomp_key_full: oomp_footprint_av_p_avp_texas_s_pvqfn_n40_ep2_9x2_9mm_thermalvias
   oomp_key_simple: av_p_avp_texas_s_pvqfn_n40_ep2_9x2_9mm_thermalvias
   owner: av-p
   repo:

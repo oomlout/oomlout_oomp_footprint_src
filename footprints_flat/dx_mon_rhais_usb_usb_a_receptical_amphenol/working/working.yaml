@@ -17,9 +17,18 @@
   oomp:
     footprint_name: usb_a_receptical_amphenol
     library_name: rhais_usb
+    md5: cb27f32f8a754b12556189269a594842
+    md5_10: cb27f32f8a
+    md5_5: cb27f
+    md5_6: cb27f3
+    oomp_key: oomp_dx_mon_rhais_usb_usb_a_receptical_amphenol
+    oomp_key_extra: oomp_footprint_dx_mon_rhais_usb_usb_a_receptical_amphenol
+    oomp_key_full: oomp_footprint_dx_mon_rhais_usb_usb_a_receptical_amphenol_cb27f3
+    oomp_key_simple: dx_mon_rhais_usb_usb_a_receptical_amphenol
     original_filename: rhais_usb.pretty/USB_A_Receptical_Amphenol.kicad_mod
     owner_name: dx_mon
   oomp_key: oomp_dx_mon_rhais_usb_usb_a_receptical_amphenol
+  oomp_key_full: oomp_footprint_dx_mon_rhais_usb_usb_a_receptical_amphenol
   oomp_key_simple: dx_mon_rhais_usb_usb_a_receptical_amphenol
   owner: DX-MON
   repo:

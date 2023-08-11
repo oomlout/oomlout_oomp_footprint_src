@@ -17,9 +17,18 @@
   oomp:
     footprint_name: cherry_plate_200h
     library_name: keyboard
+    md5: f2d1db6a6adfd4aa7110723ed1ba2936
+    md5_10: f2d1db6a6a
+    md5_5: f2d1d
+    md5_6: f2d1db
+    oomp_key: oomp_stormboard_keyboard_cherry_plate_200h
+    oomp_key_extra: oomp_footprint_stormboard_keyboard_cherry_plate_200h
+    oomp_key_full: oomp_footprint_stormboard_keyboard_cherry_plate_200h_f2d1db
+    oomp_key_simple: stormboard_keyboard_cherry_plate_200h
     original_filename: Keyboard.pretty/CHERRY_PLATE_200H.kicad_mod
     owner_name: stormboard
   oomp_key: oomp_stormboard_keyboard_cherry_plate_200h
+  oomp_key_full: oomp_footprint_stormboard_keyboard_cherry_plate_200h
   oomp_key_simple: stormboard_keyboard_cherry_plate_200h
   owner: stormboard
   repo:

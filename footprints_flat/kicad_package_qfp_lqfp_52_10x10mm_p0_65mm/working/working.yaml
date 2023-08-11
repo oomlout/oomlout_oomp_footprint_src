@@ -18,9 +18,18 @@
   oomp:
     footprint_name: lqfp_52_10x10mm_p0_65mm
     library_name: package_qfp
+    md5: 9f02d965d26cb6348e937bdec6a393e6
+    md5_10: 9f02d965d2
+    md5_5: 9f02d
+    md5_6: 9f02d9
+    oomp_key: oomp_kicad_package_qfp_lqfp_52_10x10mm_p0_65mm
+    oomp_key_extra: oomp_footprint_kicad_package_qfp_lqfp_52_10x10mm_p0_65mm
+    oomp_key_full: oomp_footprint_kicad_package_qfp_lqfp_52_10x10mm_p0_65mm_9f02d9
+    oomp_key_simple: kicad_package_qfp_lqfp_52_10x10mm_p0_65mm
     original_filename: libraries/kicad-footprints/Package_QFP.pretty/LQFP-52_10x10mm_P0.65mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_qfp_lqfp_52_10x10mm_p0_65mm
+  oomp_key_full: oomp_footprint_kicad_package_qfp_lqfp_52_10x10mm_p0_65mm
   oomp_key_simple: kicad_package_qfp_lqfp_52_10x10mm_p0_65mm
   owner: kicad
   repo:

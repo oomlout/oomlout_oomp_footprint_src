@@ -17,9 +17,18 @@
   oomp:
     footprint_name: c_0402
     library_name: avp
+    md5: 3e49d164ebff16a0d15ca46d3c28076b
+    md5_10: 3e49d164eb
+    md5_5: 3e49d
+    md5_6: 3e49d1
+    oomp_key: oomp_av_p_avp_c_0402
+    oomp_key_extra: oomp_footprint_av_p_avp_c_0402
+    oomp_key_full: oomp_footprint_av_p_avp_c_0402_3e49d1
+    oomp_key_simple: av_p_avp_c_0402
     original_filename: Avp.pretty/C_0402.kicad_mod
     owner_name: av_p
   oomp_key: oomp_av_p_avp_c_0402
+  oomp_key_full: oomp_footprint_av_p_avp_c_0402
   oomp_key_simple: av_p_avp_c_0402
   owner: av-p
   repo:

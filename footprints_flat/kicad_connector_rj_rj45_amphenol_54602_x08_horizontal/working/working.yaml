@@ -17,9 +17,18 @@
   oomp:
     footprint_name: rj45_amphenol_54602_x08_horizontal
     library_name: connector_rj
+    md5: 01ab1610b45b64dd32b1cf833536ecad
+    md5_10: 01ab1610b4
+    md5_5: 01ab1
+    md5_6: 01ab16
+    oomp_key: oomp_kicad_connector_rj_rj45_amphenol_54602_x08_horizontal
+    oomp_key_extra: oomp_footprint_kicad_connector_rj_rj45_amphenol_54602_x08_horizontal
+    oomp_key_full: oomp_footprint_kicad_connector_rj_rj45_amphenol_54602_x08_horizontal_01ab16
+    oomp_key_simple: kicad_connector_rj_rj45_amphenol_54602_x08_horizontal
     original_filename: libraries/kicad-footprints/Connector_RJ.pretty/RJ45_Amphenol_54602-x08_Horizontal.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_rj_rj45_amphenol_54602_x08_horizontal
+  oomp_key_full: oomp_footprint_kicad_connector_rj_rj45_amphenol_54602_x08_horizontal
   oomp_key_simple: kicad_connector_rj_rj45_amphenol_54602_x08_horizontal
   owner: kicad
   repo:

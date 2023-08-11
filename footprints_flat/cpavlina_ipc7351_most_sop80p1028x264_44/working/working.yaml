@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sop80p1028x264_44
     library_name: ipc7351_most
+    md5: dbb8e765c251209d48c69dad93a5db16
+    md5_10: dbb8e765c2
+    md5_5: dbb8e
+    md5_6: dbb8e7
+    oomp_key: oomp_cpavlina_ipc7351_most_sop80p1028x264_44
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_most_sop80p1028x264_44
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_most_sop80p1028x264_44_dbb8e7
+    oomp_key_simple: cpavlina_ipc7351_most_sop80p1028x264_44
     original_filename: kicad-pcblib/IPC7351-Most.pretty/SOP80P1028X264-44.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_most_sop80p1028x264_44
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_most_sop80p1028x264_44
   oomp_key_simple: cpavlina_ipc7351_most_sop80p1028x264_44
   owner: cpavlina
   repo:

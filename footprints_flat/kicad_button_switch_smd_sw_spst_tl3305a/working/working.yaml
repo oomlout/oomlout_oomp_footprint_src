@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sw_spst_tl3305a
     library_name: button_switch_smd
+    md5: 6e5405fb614efeeb408b38c12139047c
+    md5_10: 6e5405fb61
+    md5_5: 6e540
+    md5_6: 6e5405
+    oomp_key: oomp_kicad_button_switch_smd_sw_spst_tl3305a
+    oomp_key_extra: oomp_footprint_kicad_button_switch_smd_sw_spst_tl3305a
+    oomp_key_full: oomp_footprint_kicad_button_switch_smd_sw_spst_tl3305a_6e5405
+    oomp_key_simple: kicad_button_switch_smd_sw_spst_tl3305a
     original_filename: libraries/kicad-footprints/Button_Switch_SMD.pretty/SW_SPST_TL3305A.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_button_switch_smd_sw_spst_tl3305a
+  oomp_key_full: oomp_footprint_kicad_button_switch_smd_sw_spst_tl3305a
   oomp_key_simple: kicad_button_switch_smd_sw_spst_tl3305a
   owner: kicad
   repo:

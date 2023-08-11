@@ -18,9 +18,18 @@
   oomp:
     footprint_name: capcaf63p100x137x66_4
     library_name: ipc7351_least
+    md5: e15e5b46203fafb1cdea889c81587b32
+    md5_10: e15e5b4620
+    md5_5: e15e5
+    md5_6: e15e5b
+    oomp_key: oomp_cpavlina_ipc7351_least_capcaf63p100x137x66_4
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_least_capcaf63p100x137x66_4
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_least_capcaf63p100x137x66_4_e15e5b
+    oomp_key_simple: cpavlina_ipc7351_least_capcaf63p100x137x66_4
     original_filename: kicad-pcblib/IPC7351-Least.pretty/CAPCAF63P100X137X66-4.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_least_capcaf63p100x137x66_4
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_least_capcaf63p100x137x66_4
   oomp_key_simple: cpavlina_ipc7351_least_capcaf63p100x137x66_4
   owner: cpavlina
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: pololu_breakout_16_15_2x20_3mm
     library_name: module
+    md5: 847a89b56ccbcbae9883802be440d453
+    md5_10: 847a89b56c
+    md5_5: 847a8
+    md5_6: 847a89
+    oomp_key: oomp_kicad_module_pololu_breakout_16_15_2x20_3mm
+    oomp_key_extra: oomp_footprint_kicad_module_pololu_breakout_16_15_2x20_3mm
+    oomp_key_full: oomp_footprint_kicad_module_pololu_breakout_16_15_2x20_3mm_847a89
+    oomp_key_simple: kicad_module_pololu_breakout_16_15_2x20_3mm
     original_filename: libraries/kicad-footprints/Module.pretty/Pololu_Breakout-16_15.2x20.3mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_module_pololu_breakout_16_15_2x20_3mm
+  oomp_key_full: oomp_footprint_kicad_module_pololu_breakout_16_15_2x20_3mm
   oomp_key_simple: kicad_module_pololu_breakout_16_15_2x20_3mm
   owner: kicad
   repo:

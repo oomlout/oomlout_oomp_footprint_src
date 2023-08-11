@@ -17,9 +17,18 @@
   oomp:
     footprint_name: relay_tht_ec2
     library_name: digikey_footprints
+    md5: 35af46d1a1b4a1ce7911667815d63121
+    md5_10: 35af46d1a1
+    md5_5: 35af4
+    md5_6: 35af46
+    oomp_key: oomp_digikey_digikey_footprints_relay_tht_ec2
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_relay_tht_ec2
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_relay_tht_ec2_35af46
+    oomp_key_simple: digikey_digikey_footprints_relay_tht_ec2
     original_filename: digikey-kicad-library/digikey-footprints.pretty/Relay_THT_EC2.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_relay_tht_ec2
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_relay_tht_ec2
   oomp_key_simple: digikey_digikey_footprints_relay_tht_ec2
   owner: digikey
   repo:

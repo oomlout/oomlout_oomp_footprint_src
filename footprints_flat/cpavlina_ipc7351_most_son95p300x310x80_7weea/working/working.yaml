@@ -18,9 +18,18 @@
   oomp:
     footprint_name: son95p300x310x80_7weea
     library_name: ipc7351_most
+    md5: dd4e0ede162f3e9ffa419130ec246806
+    md5_10: dd4e0ede16
+    md5_5: dd4e0
+    md5_6: dd4e0e
+    oomp_key: oomp_cpavlina_ipc7351_most_son95p300x310x80_7weea
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_most_son95p300x310x80_7weea
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_most_son95p300x310x80_7weea_dd4e0e
+    oomp_key_simple: cpavlina_ipc7351_most_son95p300x310x80_7weea
     original_filename: kicad-pcblib/IPC7351-Most.pretty/SON95P300X310X80-7WEEA.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_most_son95p300x310x80_7weea
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_most_son95p300x310x80_7weea
   oomp_key_simple: cpavlina_ipc7351_most_son95p300x310x80_7weea
   owner: cpavlina
   repo:

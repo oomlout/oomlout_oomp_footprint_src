@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_jp1_nosilk
     library_name: xess
+    md5: 8852a6cfddc474ee91d2c9580dd77e92
+    md5_10: 8852a6cfdd
+    md5_5: 8852a
+    md5_6: 8852a6
+    oomp_key: oomp_xesscorp_xess_xess_jp1_nosilk
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_jp1_nosilk
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_jp1_nosilk_8852a6
+    oomp_key_simple: xesscorp_xess_xess_jp1_nosilk
     original_filename: xess.pretty/xess-JP1-NOSILK.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_jp1_nosilk
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_jp1_nosilk
   oomp_key_simple: xesscorp_xess_xess_jp1_nosilk
   owner: xesscorp
   repo:

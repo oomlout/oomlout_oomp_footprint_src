@@ -18,9 +18,18 @@
   oomp:
     footprint_name: pson50p300x300x80_11
     library_name: ipc7351_least
+    md5: 946812b79a62068988fd0d0c3d9c234f
+    md5_10: 946812b79a
+    md5_5: '94681'
+    md5_6: '946812'
+    oomp_key: oomp_cpavlina_ipc7351_least_pson50p300x300x80_11
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_least_pson50p300x300x80_11
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_least_pson50p300x300x80_11_946812
+    oomp_key_simple: cpavlina_ipc7351_least_pson50p300x300x80_11
     original_filename: kicad-pcblib/IPC7351-Least.pretty/PSON50P300X300X80-11.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_least_pson50p300x300x80_11
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_least_pson50p300x300x80_11
   oomp_key_simple: cpavlina_ipc7351_least_pson50p300x300x80_11
   owner: cpavlina
   repo:

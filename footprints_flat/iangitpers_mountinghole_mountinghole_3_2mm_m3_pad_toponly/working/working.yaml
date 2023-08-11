@@ -19,9 +19,18 @@
   oomp:
     footprint_name: mountinghole_3_2mm_m3_pad_toponly
     library_name: mountinghole
+    md5: b5462978c2a36993be47830b35bb57bc
+    md5_10: b5462978c2
+    md5_5: b5462
+    md5_6: b54629
+    oomp_key: oomp_iangitpers_mountinghole_mountinghole_3_2mm_m3_pad_toponly
+    oomp_key_extra: oomp_footprint_iangitpers_mountinghole_mountinghole_3_2mm_m3_pad_toponly
+    oomp_key_full: oomp_footprint_iangitpers_mountinghole_mountinghole_3_2mm_m3_pad_toponly_b54629
+    oomp_key_simple: iangitpers_mountinghole_mountinghole_3_2mm_m3_pad_toponly
     original_filename: 4a/MountingHole.pretty/MountingHole_3.2mm_M3_Pad_TopOnly.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_mountinghole_mountinghole_3_2mm_m3_pad_toponly
+  oomp_key_full: oomp_footprint_iangitpers_mountinghole_mountinghole_3_2mm_m3_pad_toponly
   oomp_key_simple: iangitpers_mountinghole_mountinghole_3_2mm_m3_pad_toponly
   owner: Iangitpers
   repo:

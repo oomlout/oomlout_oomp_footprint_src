@@ -17,9 +17,18 @@
   oomp:
     footprint_name: usb_minib_5pin
     library_name: freetronics_footprints
+    md5: 3cd464473494b272a78a176784b90acd
+    md5_10: 3cd4644734
+    md5_5: 3cd46
+    md5_6: 3cd464
+    oomp_key: oomp_wykys_freetronics_footprints_usb_minib_5pin
+    oomp_key_extra: oomp_footprint_wykys_freetronics_footprints_usb_minib_5pin
+    oomp_key_full: oomp_footprint_wykys_freetronics_footprints_usb_minib_5pin_3cd464
+    oomp_key_simple: wykys_freetronics_footprints_usb_minib_5pin
     original_filename: kicad/mods/freetronics_footprints.pretty/USB-MINIB-5pin.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_freetronics_footprints_usb_minib_5pin
+  oomp_key_full: oomp_footprint_wykys_freetronics_footprints_usb_minib_5pin
   oomp_key_simple: wykys_freetronics_footprints_usb_minib_5pin
   owner: wykys
   repo:

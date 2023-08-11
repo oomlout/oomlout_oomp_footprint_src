@@ -17,9 +17,18 @@
   oomp:
     footprint_name: batt_wedge_smd
     library_name: usst_footprints
+    md5: fcdd37c5968dd99e84f2a66d2b098cf2
+    md5_10: fcdd37c596
+    md5_5: fcdd3
+    md5_6: fcdd37
+    oomp_key: oomp_uofsspacedesignteam_usst_footprints_batt_wedge_smd
+    oomp_key_extra: oomp_footprint_uofsspacedesignteam_usst_footprints_batt_wedge_smd
+    oomp_key_full: oomp_footprint_uofsspacedesignteam_usst_footprints_batt_wedge_smd_fcdd37
+    oomp_key_simple: uofsspacedesignteam_usst_footprints_batt_wedge_smd
     original_filename: USST-footprints.pretty/batt_wedge_smd.kicad_mod
     owner_name: uofsspacedesignteam
   oomp_key: oomp_uofsspacedesignteam_usst_footprints_batt_wedge_smd
+  oomp_key_full: oomp_footprint_uofsspacedesignteam_usst_footprints_batt_wedge_smd
   oomp_key_simple: uofsspacedesignteam_usst_footprints_batt_wedge_smd
   owner: UofSSpaceDesignTeam
   repo:

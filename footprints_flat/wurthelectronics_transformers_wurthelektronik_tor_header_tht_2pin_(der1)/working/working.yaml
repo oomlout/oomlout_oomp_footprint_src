@@ -17,9 +17,18 @@
   oomp:
     footprint_name: tor_header_tht_2pin_(der1)
     library_name: transformers_wurthelektronik
+    md5: 0991da03c45b9605e10e72dbe134c54c
+    md5_10: 0991da03c4
+    md5_5: 0991d
+    md5_6: 0991da
+    oomp_key: oomp_wurthelectronics_transformers_wurthelektronik_tor_header_tht_2pin_(der1)
+    oomp_key_extra: oomp_footprint_wurthelectronics_transformers_wurthelektronik_tor_header_tht_2pin_(der1)
+    oomp_key_full: oomp_footprint_wurthelectronics_transformers_wurthelektronik_tor_header_tht_2pin_(der1)_0991da
+    oomp_key_simple: wurthelectronics_transformers_wurthelektronik_tor_header_tht_2pin_(der1)
     original_filename: Transformers_WurthElektronik.pretty/TOR_HEADER_THT_2PIN_(DER1).kicad_mod
     owner_name: wurthelectronics
   oomp_key: oomp_wurthelectronics_transformers_wurthelektronik_tor_header_tht_2pin_(der1)
+  oomp_key_full: oomp_footprint_wurthelectronics_transformers_wurthelektronik_tor_header_tht_2pin_(der1)
   oomp_key_simple: wurthelectronics_transformers_wurthelektronik_tor_header_tht_2pin_(der1)
   owner: WurthElectronics
   repo:

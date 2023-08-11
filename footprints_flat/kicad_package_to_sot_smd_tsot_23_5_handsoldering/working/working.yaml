@@ -17,9 +17,18 @@
   oomp:
     footprint_name: tsot_23_5_handsoldering
     library_name: package_to_sot_smd
+    md5: 09ae2a4026f031132560bbba7aef7c99
+    md5_10: 09ae2a4026
+    md5_5: 09ae2
+    md5_6: 09ae2a
+    oomp_key: oomp_kicad_package_to_sot_smd_tsot_23_5_handsoldering
+    oomp_key_extra: oomp_footprint_kicad_package_to_sot_smd_tsot_23_5_handsoldering
+    oomp_key_full: oomp_footprint_kicad_package_to_sot_smd_tsot_23_5_handsoldering_09ae2a
+    oomp_key_simple: kicad_package_to_sot_smd_tsot_23_5_handsoldering
     original_filename: libraries/kicad-footprints/Package_TO_SOT_SMD.pretty/TSOT-23-5_HandSoldering.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_to_sot_smd_tsot_23_5_handsoldering
+  oomp_key_full: oomp_footprint_kicad_package_to_sot_smd_tsot_23_5_handsoldering
   oomp_key_simple: kicad_package_to_sot_smd_tsot_23_5_handsoldering
   owner: kicad
   repo:

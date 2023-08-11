@@ -17,9 +17,18 @@
   oomp:
     footprint_name: recom_12v60w_rpa60_fw
     library_name: usst_footprints
+    md5: 20e5815f6a1c2e5d0adcd1506ea34660
+    md5_10: 20e5815f6a
+    md5_5: 20e58
+    md5_6: 20e581
+    oomp_key: oomp_uofsspaceteam_usst_footprints_recom_12v60w_rpa60_fw
+    oomp_key_extra: oomp_footprint_uofsspaceteam_usst_footprints_recom_12v60w_rpa60_fw
+    oomp_key_full: oomp_footprint_uofsspaceteam_usst_footprints_recom_12v60w_rpa60_fw_20e581
+    oomp_key_simple: uofsspaceteam_usst_footprints_recom_12v60w_rpa60_fw
     original_filename: USST-footprints.pretty/Recom-12V60W-RPA60-FW.kicad_mod
     owner_name: uofsspaceteam
   oomp_key: oomp_uofsspaceteam_usst_footprints_recom_12v60w_rpa60_fw
+  oomp_key_full: oomp_footprint_uofsspaceteam_usst_footprints_recom_12v60w_rpa60_fw
   oomp_key_simple: uofsspaceteam_usst_footprints_recom_12v60w_rpa60_fw
   owner: UofSSpaceTeam
   repo:

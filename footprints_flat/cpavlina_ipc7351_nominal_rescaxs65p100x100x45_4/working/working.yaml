@@ -18,9 +18,18 @@
   oomp:
     footprint_name: rescaxs65p100x100x45_4
     library_name: ipc7351_nominal
+    md5: fbbe9b5d94d4c208f1dcd8b9909bcbed
+    md5_10: fbbe9b5d94
+    md5_5: fbbe9
+    md5_6: fbbe9b
+    oomp_key: oomp_cpavlina_ipc7351_nominal_rescaxs65p100x100x45_4
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_nominal_rescaxs65p100x100x45_4
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_rescaxs65p100x100x45_4_fbbe9b
+    oomp_key_simple: cpavlina_ipc7351_nominal_rescaxs65p100x100x45_4
     original_filename: kicad-pcblib/IPC7351-Nominal.pretty/RESCAXS65P100X100X45-4.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_nominal_rescaxs65p100x100x45_4
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_rescaxs65p100x100x45_4
   oomp_key_simple: cpavlina_ipc7351_nominal_rescaxs65p100x100x45_4
   owner: cpavlina
   repo:

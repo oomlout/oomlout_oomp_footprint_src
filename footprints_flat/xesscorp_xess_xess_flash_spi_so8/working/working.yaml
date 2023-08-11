@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_flash_spi_so8
     library_name: xess
+    md5: 012debeb033374f2c09ba75397e469b2
+    md5_10: 012debeb03
+    md5_5: 012de
+    md5_6: 012deb
+    oomp_key: oomp_xesscorp_xess_xess_flash_spi_so8
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_flash_spi_so8
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_flash_spi_so8_012deb
+    oomp_key_simple: xesscorp_xess_xess_flash_spi_so8
     original_filename: xess.pretty/xess-FLASH-SPI-SO8.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_flash_spi_so8
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_flash_spi_so8
   oomp_key_simple: xesscorp_xess_xess_flash_spi_so8
   owner: xesscorp
   repo:

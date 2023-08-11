@@ -18,9 +18,18 @@
   oomp:
     footprint_name: pinheader_1x31_p2_54mm_horizontal
     library_name: connector_pinheader_2_54mm
+    md5: b7e257fe412ee76e0a55aa4e7458eb40
+    md5_10: b7e257fe41
+    md5_5: b7e25
+    md5_6: b7e257
+    oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x31_p2_54mm_horizontal
+    oomp_key_extra: oomp_footprint_kicad_connector_pinheader_2_54mm_pinheader_1x31_p2_54mm_horizontal
+    oomp_key_full: oomp_footprint_kicad_connector_pinheader_2_54mm_pinheader_1x31_p2_54mm_horizontal_b7e257
+    oomp_key_simple: kicad_connector_pinheader_2_54mm_pinheader_1x31_p2_54mm_horizontal
     original_filename: libraries/kicad-footprints/Connector_PinHeader_2.54mm.pretty/PinHeader_1x31_P2.54mm_Horizontal.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_pinheader_2_54mm_pinheader_1x31_p2_54mm_horizontal
+  oomp_key_full: oomp_footprint_kicad_connector_pinheader_2_54mm_pinheader_1x31_p2_54mm_horizontal
   oomp_key_simple: kicad_connector_pinheader_2_54mm_pinheader_1x31_p2_54mm_horizontal
   owner: kicad
   repo:

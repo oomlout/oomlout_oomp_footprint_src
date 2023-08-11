@@ -17,9 +17,18 @@
   oomp:
     footprint_name: prod_pijl
     library_name: 1w_grove_v0_1
+    md5: e991945af1be0e4a91c12d5f718da167
+    md5_10: e991945af1
+    md5_5: e9919
+    md5_6: e99194
+    oomp_key: oomp_wykys_1w_grove_v0_1_prod_pijl
+    oomp_key_extra: oomp_footprint_wykys_1w_grove_v0_1_prod_pijl
+    oomp_key_full: oomp_footprint_wykys_1w_grove_v0_1_prod_pijl_e99194
+    oomp_key_simple: wykys_1w_grove_v0_1_prod_pijl
     original_filename: kicad/6.0/projects/1w-grove-v0.1/1w-grove-v0.1.pretty/prod.pijl.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_1w_grove_v0_1_prod_pijl
+  oomp_key_full: oomp_footprint_wykys_1w_grove_v0_1_prod_pijl
   oomp_key_simple: wykys_1w_grove_v0_1_prod_pijl
   owner: wykys
   repo:

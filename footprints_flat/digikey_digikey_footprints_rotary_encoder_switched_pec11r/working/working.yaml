@@ -17,9 +17,18 @@
   oomp:
     footprint_name: rotary_encoder_switched_pec11r
     library_name: digikey_footprints
+    md5: 0802f76d8225152524f2f112e2bf9312
+    md5_10: 0802f76d82
+    md5_5: 0802f
+    md5_6: 0802f7
+    oomp_key: oomp_digikey_digikey_footprints_rotary_encoder_switched_pec11r
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_rotary_encoder_switched_pec11r
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_rotary_encoder_switched_pec11r_0802f7
+    oomp_key_simple: digikey_digikey_footprints_rotary_encoder_switched_pec11r
     original_filename: digikey-kicad-library/digikey-footprints.pretty/Rotary_Encoder_Switched_PEC11R.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_rotary_encoder_switched_pec11r
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_rotary_encoder_switched_pec11r
   oomp_key_simple: digikey_digikey_footprints_rotary_encoder_switched_pec11r
   owner: digikey
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: test_smd_small
     library_name: conn_test
+    md5: 53ca557631e14be83391e9b4b1ca4e16
+    md5_10: 53ca557631
+    md5_5: 53ca5
+    md5_6: 53ca55
+    oomp_key: oomp_cpavlina_conn_test_test_smd_small
+    oomp_key_extra: oomp_footprint_cpavlina_conn_test_test_smd_small
+    oomp_key_full: oomp_footprint_cpavlina_conn_test_test_smd_small_53ca55
+    oomp_key_simple: cpavlina_conn_test_test_smd_small
     original_filename: kicad-pcblib/conn-test.pretty/TEST-SMD-SMALL.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_conn_test_test_smd_small
+  oomp_key_full: oomp_footprint_cpavlina_conn_test_test_smd_small
   oomp_key_simple: cpavlina_conn_test_test_smd_small
   owner: cpavlina
   repo:

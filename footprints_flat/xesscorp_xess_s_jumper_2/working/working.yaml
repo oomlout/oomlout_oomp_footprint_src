@@ -17,9 +17,18 @@
   oomp:
     footprint_name: s_jumper_2
     library_name: xess
+    md5: 04db5ffd4fcf57e19e9b5ccd6a92f262
+    md5_10: 04db5ffd4f
+    md5_5: 04db5
+    md5_6: 04db5f
+    oomp_key: oomp_xesscorp_xess_s_jumper_2
+    oomp_key_extra: oomp_footprint_xesscorp_xess_s_jumper_2
+    oomp_key_full: oomp_footprint_xesscorp_xess_s_jumper_2_04db5f
+    oomp_key_simple: xesscorp_xess_s_jumper_2
     original_filename: xess.pretty/S_JUMPER_2.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_s_jumper_2
+  oomp_key_full: oomp_footprint_xesscorp_xess_s_jumper_2
   oomp_key_simple: xesscorp_xess_s_jumper_2
   owner: xesscorp
   repo:

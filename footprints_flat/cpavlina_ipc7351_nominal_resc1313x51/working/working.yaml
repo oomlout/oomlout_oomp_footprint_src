@@ -17,9 +17,18 @@
   oomp:
     footprint_name: resc1313x51
     library_name: ipc7351_nominal
+    md5: c7f212755bf6e0d82de0df472dc4ee5d
+    md5_10: c7f212755b
+    md5_5: c7f21
+    md5_6: c7f212
+    oomp_key: oomp_cpavlina_ipc7351_nominal_resc1313x51
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_nominal_resc1313x51
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_resc1313x51_c7f212
+    oomp_key_simple: cpavlina_ipc7351_nominal_resc1313x51
     original_filename: kicad-pcblib/IPC7351-Nominal.pretty/RESC1313X51.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_nominal_resc1313x51
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_resc1313x51
   oomp_key_simple: cpavlina_ipc7351_nominal_resc1313x51
   owner: cpavlina
   repo:

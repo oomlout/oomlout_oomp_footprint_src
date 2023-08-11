@@ -18,9 +18,18 @@
   oomp:
     footprint_name: soic_8_5_23x5_23mm_p1_27mm
     library_name: keebio_parts
+    md5: fa14a186b94f0ac761e805fcef88cb0c
+    md5_10: fa14a186b9
+    md5_5: fa14a
+    md5_6: fa14a1
+    oomp_key: oomp_keebio_keebio_parts_soic_8_5_23x5_23mm_p1_27mm
+    oomp_key_extra: oomp_footprint_keebio_keebio_parts_soic_8_5_23x5_23mm_p1_27mm
+    oomp_key_full: oomp_footprint_keebio_keebio_parts_soic_8_5_23x5_23mm_p1_27mm_fa14a1
+    oomp_key_simple: keebio_keebio_parts_soic_8_5_23x5_23mm_p1_27mm
     original_filename: Keebio-Parts.pretty/SOIC-8_5.23x5.23mm_P1.27mm.kicad_mod
     owner_name: keebio
   oomp_key: oomp_keebio_keebio_parts_soic_8_5_23x5_23mm_p1_27mm
+  oomp_key_full: oomp_footprint_keebio_keebio_parts_soic_8_5_23x5_23mm_p1_27mm
   oomp_key_simple: keebio_keebio_parts_soic_8_5_23x5_23mm_p1_27mm
   owner: keebio
   repo:

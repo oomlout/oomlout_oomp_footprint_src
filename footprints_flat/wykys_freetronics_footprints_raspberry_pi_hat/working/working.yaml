@@ -17,9 +17,18 @@
   oomp:
     footprint_name: raspberry_pi_hat
     library_name: freetronics_footprints
+    md5: b5c91171106176af68470db628d9db32
+    md5_10: b5c9117110
+    md5_5: b5c91
+    md5_6: b5c911
+    oomp_key: oomp_wykys_freetronics_footprints_raspberry_pi_hat
+    oomp_key_extra: oomp_footprint_wykys_freetronics_footprints_raspberry_pi_hat
+    oomp_key_full: oomp_footprint_wykys_freetronics_footprints_raspberry_pi_hat_b5c911
+    oomp_key_simple: wykys_freetronics_footprints_raspberry_pi_hat
     original_filename: kicad/mods/freetronics_footprints.pretty/RASPBERRY_PI_HAT.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_freetronics_footprints_raspberry_pi_hat
+  oomp_key_full: oomp_footprint_wykys_freetronics_footprints_raspberry_pi_hat
   oomp_key_simple: wykys_freetronics_footprints_raspberry_pi_hat
   owner: wykys
   repo:

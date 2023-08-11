@@ -17,9 +17,18 @@
   oomp:
     footprint_name: potentiometer_piher_pc_16_dual_horizontal
     library_name: potentiometer_tht
+    md5: 22cb1a87dfb7f11bfcaf21136cedf0e9
+    md5_10: 22cb1a87df
+    md5_5: 22cb1
+    md5_6: 22cb1a
+    oomp_key: oomp_kicad_potentiometer_tht_potentiometer_piher_pc_16_dual_horizontal
+    oomp_key_extra: oomp_footprint_kicad_potentiometer_tht_potentiometer_piher_pc_16_dual_horizontal
+    oomp_key_full: oomp_footprint_kicad_potentiometer_tht_potentiometer_piher_pc_16_dual_horizontal_22cb1a
+    oomp_key_simple: kicad_potentiometer_tht_potentiometer_piher_pc_16_dual_horizontal
     original_filename: libraries/kicad-footprints/Potentiometer_THT.pretty/Potentiometer_Piher_PC-16_Dual_Horizontal.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_potentiometer_tht_potentiometer_piher_pc_16_dual_horizontal
+  oomp_key_full: oomp_footprint_kicad_potentiometer_tht_potentiometer_piher_pc_16_dual_horizontal
   oomp_key_simple: kicad_potentiometer_tht_potentiometer_piher_pc_16_dual_horizontal
   owner: kicad
   repo:

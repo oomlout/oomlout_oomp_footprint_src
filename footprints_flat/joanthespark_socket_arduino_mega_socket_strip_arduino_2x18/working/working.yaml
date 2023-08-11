@@ -17,9 +17,18 @@
   oomp:
     footprint_name: socket_strip_arduino_2x18
     library_name: socket_arduino_mega
+    md5: 3e1a39e2756bd1bfe836eb391d39d304
+    md5_10: 3e1a39e275
+    md5_5: 3e1a3
+    md5_6: 3e1a39
+    oomp_key: oomp_joanthespark_socket_arduino_mega_socket_strip_arduino_2x18
+    oomp_key_extra: oomp_footprint_joanthespark_socket_arduino_mega_socket_strip_arduino_2x18
+    oomp_key_full: oomp_footprint_joanthespark_socket_arduino_mega_socket_strip_arduino_2x18_3e1a39
+    oomp_key_simple: joanthespark_socket_arduino_mega_socket_strip_arduino_2x18
     original_filename: KiCAD/Arduino_Mega_433Mhz_Shield/Socket_Arduino_Mega.pretty/Socket_Strip_Arduino_2x18.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_socket_arduino_mega_socket_strip_arduino_2x18
+  oomp_key_full: oomp_footprint_joanthespark_socket_arduino_mega_socket_strip_arduino_2x18
   oomp_key_simple: joanthespark_socket_arduino_mega_socket_strip_arduino_2x18
   owner: JoanTheSpark
   repo:

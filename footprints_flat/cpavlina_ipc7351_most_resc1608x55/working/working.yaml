@@ -17,9 +17,18 @@
   oomp:
     footprint_name: resc1608x55
     library_name: ipc7351_most
+    md5: 9a08db85306404bdfb4df47717c1ad80
+    md5_10: 9a08db8530
+    md5_5: 9a08d
+    md5_6: 9a08db
+    oomp_key: oomp_cpavlina_ipc7351_most_resc1608x55
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_most_resc1608x55
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_most_resc1608x55_9a08db
+    oomp_key_simple: cpavlina_ipc7351_most_resc1608x55
     original_filename: kicad-pcblib/IPC7351-Most.pretty/RESC1608X55.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_most_resc1608x55
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_most_resc1608x55
   oomp_key_simple: cpavlina_ipc7351_most_resc1608x55
   owner: cpavlina
   repo:

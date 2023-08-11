@@ -17,9 +17,18 @@
   oomp:
     footprint_name: conn2
     library_name: 1w_grove_v0_1
+    md5: 30ae0044381c700f908907b48557a156
+    md5_10: 30ae004438
+    md5_5: 30ae0
+    md5_6: 30ae00
+    oomp_key: oomp_axello_1w_grove_v0_1_conn2
+    oomp_key_extra: oomp_footprint_axello_1w_grove_v0_1_conn2
+    oomp_key_full: oomp_footprint_axello_1w_grove_v0_1_conn2_30ae00
+    oomp_key_simple: axello_1w_grove_v0_1_conn2
     original_filename: kicad/6.0/projects/1w-grove-v0.1/1w-grove-v0.1.pretty/conn2.kicad_mod
     owner_name: axello
   oomp_key: oomp_axello_1w_grove_v0_1_conn2
+  oomp_key_full: oomp_footprint_axello_1w_grove_v0_1_conn2
   oomp_key_simple: axello_1w_grove_v0_1_conn2
   owner: axello
   repo:

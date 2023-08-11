@@ -19,8 +19,9 @@ Please consult that link for additional, details, files, and license information
 | github_path | http://github.com/adamgreig/agg-kicad/blob/master/agg.pretty/NN01-103.kicad_mod |  
 | links | {'github_src': 'http://gitlab.com/adamgreig/agg-kicad/blob/master/agg.pretty/unchecked.pretty/XTAL50x32.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/adamgreig_agg_nn01_103/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/adamgreig_agg_nn01_103/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/adamgreig_agg_nn01_103/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/adamgreig_agg_nn01_103/working'} |  
 | name | agg-kicad |  
-| oomp | {'footprint_name': 'nn01_103', 'library_name': 'agg', 'original_filename': 'agg-kicad/agg.pretty/NN01-103.kicad_mod', 'owner_name': 'adamgreig'} |  
+| oomp | {'footprint_name': 'nn01_103', 'library_name': 'agg', 'md5': '5501530fa2d9c7cda6321f0e87a48bed', 'md5_10': '5501530fa2', 'md5_5': '55015', 'md5_6': '550153', 'oomp_key': 'oomp_adamgreig_agg_nn01_103', 'oomp_key_extra': 'oomp_footprint_adamgreig_agg_nn01_103', 'oomp_key_full': 'oomp_footprint_adamgreig_agg_nn01_103_550153', 'oomp_key_simple': 'adamgreig_agg_nn01_103', 'original_filename': 'agg-kicad/agg.pretty/NN01-103.kicad_mod', 'owner_name': 'adamgreig'} |  
 | oomp_key | oomp_adamgreig_agg_nn01_103 |  
+| oomp_key_full | oomp_footprint_adamgreig_agg_nn01_103 |  
 | oomp_key_simple | adamgreig_agg_nn01_103 |  
 | owner | adamgreig |  
 | repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  

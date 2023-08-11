@@ -17,9 +17,18 @@
   oomp:
     footprint_name: tg_5006cg
     library_name: agg
+    md5: 6eed1cc242f83052a57eb7adc4f798a2
+    md5_10: 6eed1cc242
+    md5_5: 6eed1
+    md5_6: 6eed1c
+    oomp_key: oomp_adamgreig_agg_tg_5006cg
+    oomp_key_extra: oomp_footprint_adamgreig_agg_tg_5006cg
+    oomp_key_full: oomp_footprint_adamgreig_agg_tg_5006cg_6eed1c
+    oomp_key_simple: adamgreig_agg_tg_5006cg
     original_filename: agg-kicad/agg.pretty/TG-5006CG.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_tg_5006cg
+  oomp_key_full: oomp_footprint_adamgreig_agg_tg_5006cg
   oomp_key_simple: adamgreig_agg_tg_5006cg
   owner: adamgreig
   repo:

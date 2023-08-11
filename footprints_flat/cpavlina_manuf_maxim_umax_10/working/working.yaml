@@ -17,9 +17,18 @@
   oomp:
     footprint_name: maxim_umax_10
     library_name: manuf
+    md5: 5e4b2f3fb3d1c4b4437bb90a834b5f60
+    md5_10: 5e4b2f3fb3
+    md5_5: 5e4b2
+    md5_6: 5e4b2f
+    oomp_key: oomp_cpavlina_manuf_maxim_umax_10
+    oomp_key_extra: oomp_footprint_cpavlina_manuf_maxim_umax_10
+    oomp_key_full: oomp_footprint_cpavlina_manuf_maxim_umax_10_5e4b2f
+    oomp_key_simple: cpavlina_manuf_maxim_umax_10
     original_filename: kicad-pcblib/manuf.pretty/MAXIM_uMAX-10.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_manuf_maxim_umax_10
+  oomp_key_full: oomp_footprint_cpavlina_manuf_maxim_umax_10
   oomp_key_simple: cpavlina_manuf_maxim_umax_10
   owner: cpavlina
   repo:

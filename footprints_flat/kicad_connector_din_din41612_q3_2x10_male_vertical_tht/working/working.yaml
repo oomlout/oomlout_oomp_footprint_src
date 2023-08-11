@@ -17,9 +17,18 @@
   oomp:
     footprint_name: din41612_q3_2x10_male_vertical_tht
     library_name: connector_din
+    md5: 6c69fb65e24df8a9b745dc750a489f9d
+    md5_10: 6c69fb65e2
+    md5_5: 6c69f
+    md5_6: 6c69fb
+    oomp_key: oomp_kicad_connector_din_din41612_q3_2x10_male_vertical_tht
+    oomp_key_extra: oomp_footprint_kicad_connector_din_din41612_q3_2x10_male_vertical_tht
+    oomp_key_full: oomp_footprint_kicad_connector_din_din41612_q3_2x10_male_vertical_tht_6c69fb
+    oomp_key_simple: kicad_connector_din_din41612_q3_2x10_male_vertical_tht
     original_filename: libraries/kicad-footprints/Connector_DIN.pretty/DIN41612_Q3_2x10_Male_Vertical_THT.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_din_din41612_q3_2x10_male_vertical_tht
+  oomp_key_full: oomp_footprint_kicad_connector_din_din41612_q3_2x10_male_vertical_tht
   oomp_key_simple: kicad_connector_din_din41612_q3_2x10_male_vertical_tht
   owner: kicad
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ft_poe_module
     library_name: freetronics_footprints
+    md5: 9b88988f9c7e5e4e8405a0a0842c637f
+    md5_10: 9b88988f9c
+    md5_5: 9b889
+    md5_6: 9b8898
+    oomp_key: oomp_wykys_freetronics_footprints_ft_poe_module
+    oomp_key_extra: oomp_footprint_wykys_freetronics_footprints_ft_poe_module
+    oomp_key_full: oomp_footprint_wykys_freetronics_footprints_ft_poe_module_9b8898
+    oomp_key_simple: wykys_freetronics_footprints_ft_poe_module
     original_filename: kicad/mods/freetronics_footprints.pretty/FT-POE-MODULE.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_freetronics_footprints_ft_poe_module
+  oomp_key_full: oomp_footprint_wykys_freetronics_footprints_ft_poe_module
   oomp_key_simple: wykys_freetronics_footprints_ft_poe_module
   owner: wykys
   repo:

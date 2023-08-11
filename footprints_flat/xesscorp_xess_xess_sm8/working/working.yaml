@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_sm8
     library_name: xess
+    md5: 589863e8448d046ffa41a3b32fe04ccc
+    md5_10: 589863e844
+    md5_5: '58986'
+    md5_6: '589863'
+    oomp_key: oomp_xesscorp_xess_xess_sm8
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_sm8
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_sm8_589863
+    oomp_key_simple: xesscorp_xess_xess_sm8
     original_filename: xess.pretty/xess-SM8.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_sm8
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_sm8
   oomp_key_simple: xesscorp_xess_xess_sm8
   owner: xesscorp
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: d_smc_rm10_universal_handsoldering
     library_name: diode_smd
+    md5: 71f79389adea65264c01c1ff0f4eba9b
+    md5_10: 71f79389ad
+    md5_5: 71f79
+    md5_6: 71f793
+    oomp_key: oomp_kicad_diode_smd_d_smc_rm10_universal_handsoldering
+    oomp_key_extra: oomp_footprint_kicad_diode_smd_d_smc_rm10_universal_handsoldering
+    oomp_key_full: oomp_footprint_kicad_diode_smd_d_smc_rm10_universal_handsoldering_71f793
+    oomp_key_simple: kicad_diode_smd_d_smc_rm10_universal_handsoldering
     original_filename: libraries/kicad-footprints/Diode_SMD.pretty/D_SMC-RM10_Universal_Handsoldering.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_diode_smd_d_smc_rm10_universal_handsoldering
+  oomp_key_full: oomp_footprint_kicad_diode_smd_d_smc_rm10_universal_handsoldering
   oomp_key_simple: kicad_diode_smd_d_smc_rm10_universal_handsoldering
   owner: kicad
   repo:

@@ -19,9 +19,18 @@
   oomp:
     footprint_name: samtec_hle_124_02_xx_dv_te_2x24_p2_54mm_horizontal
     library_name: connector_samtec_hle_tht
+    md5: 644dc5f86b8bd311410687fce1d54cc6
+    md5_10: 644dc5f86b
+    md5_5: 644dc
+    md5_6: 644dc5
+    oomp_key: oomp_kicad_connector_samtec_hle_tht_samtec_hle_124_02_xx_dv_te_2x24_p2_54mm_horizontal
+    oomp_key_extra: oomp_footprint_kicad_connector_samtec_hle_tht_samtec_hle_124_02_xx_dv_te_2x24_p2_54mm_horizontal
+    oomp_key_full: oomp_footprint_kicad_connector_samtec_hle_tht_samtec_hle_124_02_xx_dv_te_2x24_p2_54mm_horizontal_644dc5
+    oomp_key_simple: kicad_connector_samtec_hle_tht_samtec_hle_124_02_xx_dv_te_2x24_p2_54mm_horizontal
     original_filename: libraries/kicad-footprints/Connector_Samtec_HLE_THT.pretty/Samtec_HLE-124-02-xx-DV-TE_2x24_P2.54mm_Horizontal.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_samtec_hle_tht_samtec_hle_124_02_xx_dv_te_2x24_p2_54mm_horizontal
+  oomp_key_full: oomp_footprint_kicad_connector_samtec_hle_tht_samtec_hle_124_02_xx_dv_te_2x24_p2_54mm_horizontal
   oomp_key_simple: kicad_connector_samtec_hle_tht_samtec_hle_124_02_xx_dv_te_2x24_p2_54mm_horizontal
   owner: kicad
   repo:

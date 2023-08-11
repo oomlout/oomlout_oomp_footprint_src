@@ -17,9 +17,18 @@
   oomp:
     footprint_name: hall_sensor_sip_3_a132_lua_t
     library_name: digikey_footprints
+    md5: 54ac80e7b3409a0f83af54bea0580666
+    md5_10: 54ac80e7b3
+    md5_5: 54ac8
+    md5_6: 54ac80
+    oomp_key: oomp_digikey_digikey_footprints_hall_sensor_sip_3_a132_lua_t
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_hall_sensor_sip_3_a132_lua_t
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_hall_sensor_sip_3_a132_lua_t_54ac80
+    oomp_key_simple: digikey_digikey_footprints_hall_sensor_sip_3_a132_lua_t
     original_filename: digikey-kicad-library/digikey-footprints.pretty/Hall_Sensor_SIP-3_A132_LUA-T.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_hall_sensor_sip_3_a132_lua_t
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_hall_sensor_sip_3_a132_lua_t
   oomp_key_simple: digikey_digikey_footprints_hall_sensor_sip_3_a132_lua_t
   owner: digikey
   repo:

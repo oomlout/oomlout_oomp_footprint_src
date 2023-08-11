@@ -17,9 +17,18 @@
   oomp:
     footprint_name: capc4564x145
     library_name: ipc7351_least
+    md5: 3e1c41bb0859491a6c943f30628ed0b9
+    md5_10: 3e1c41bb08
+    md5_5: 3e1c4
+    md5_6: 3e1c41
+    oomp_key: oomp_cpavlina_ipc7351_least_capc4564x145
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_least_capc4564x145
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_least_capc4564x145_3e1c41
+    oomp_key_simple: cpavlina_ipc7351_least_capc4564x145
     original_filename: kicad-pcblib/IPC7351-Least.pretty/CAPC4564X145.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_least_capc4564x145
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_least_capc4564x145
   oomp_key_simple: cpavlina_ipc7351_least_capc4564x145
   owner: cpavlina
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: te_fsmsm
     library_name: manuf
+    md5: 9d945c0f671806b29557d3348f999b17
+    md5_10: 9d945c0f67
+    md5_5: 9d945
+    md5_6: 9d945c
+    oomp_key: oomp_cpavlina_manuf_te_fsmsm
+    oomp_key_extra: oomp_footprint_cpavlina_manuf_te_fsmsm
+    oomp_key_full: oomp_footprint_cpavlina_manuf_te_fsmsm_9d945c
+    oomp_key_simple: cpavlina_manuf_te_fsmsm
     original_filename: kicad-pcblib/manuf.pretty/TE-FSMSM.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_manuf_te_fsmsm
+  oomp_key_full: oomp_footprint_cpavlina_manuf_te_fsmsm
   oomp_key_simple: cpavlina_manuf_te_fsmsm
   owner: cpavlina
   repo:

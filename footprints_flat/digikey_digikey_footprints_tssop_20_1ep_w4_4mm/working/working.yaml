@@ -17,9 +17,18 @@
   oomp:
     footprint_name: tssop_20_1ep_w4_4mm
     library_name: digikey_footprints
+    md5: da7f3d3c381da9f5d376779b260a119c
+    md5_10: da7f3d3c38
+    md5_5: da7f3
+    md5_6: da7f3d
+    oomp_key: oomp_digikey_digikey_footprints_tssop_20_1ep_w4_4mm
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_tssop_20_1ep_w4_4mm
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_tssop_20_1ep_w4_4mm_da7f3d
+    oomp_key_simple: digikey_digikey_footprints_tssop_20_1ep_w4_4mm
     original_filename: digikey-kicad-library/digikey-footprints.pretty/TSSOP-20-1EP_W4.4mm.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_tssop_20_1ep_w4_4mm
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_tssop_20_1ep_w4_4mm
   oomp_key_simple: digikey_digikey_footprints_tssop_20_1ep_w4_4mm
   owner: digikey
   repo:

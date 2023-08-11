@@ -17,9 +17,18 @@
   oomp:
     footprint_name: soj127p1118x375_32
     library_name: ipc7351_least
+    md5: 89036d31a4a556f6d3407901a310e225
+    md5_10: 89036d31a4
+    md5_5: '89036'
+    md5_6: 89036d
+    oomp_key: oomp_cpavlina_ipc7351_least_soj127p1118x375_32
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_least_soj127p1118x375_32
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_least_soj127p1118x375_32_89036d
+    oomp_key_simple: cpavlina_ipc7351_least_soj127p1118x375_32
     original_filename: kicad-pcblib/IPC7351-Least.pretty/SOJ127P1118X375-32.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_least_soj127p1118x375_32
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_least_soj127p1118x375_32
   oomp_key_simple: cpavlina_ipc7351_least_soj127p1118x375_32
   owner: cpavlina
   repo:

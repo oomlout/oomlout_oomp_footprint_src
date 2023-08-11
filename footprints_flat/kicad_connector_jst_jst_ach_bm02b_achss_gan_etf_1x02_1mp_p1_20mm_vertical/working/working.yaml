@@ -18,9 +18,18 @@
   oomp:
     footprint_name: jst_ach_bm02b_achss_gan_etf_1x02_1mp_p1_20mm_vertical
     library_name: connector_jst
+    md5: 14a6e07efa94729d112792ca1ab0ee92
+    md5_10: 14a6e07efa
+    md5_5: 14a6e
+    md5_6: 14a6e0
+    oomp_key: oomp_kicad_connector_jst_jst_ach_bm02b_achss_gan_etf_1x02_1mp_p1_20mm_vertical
+    oomp_key_extra: oomp_footprint_kicad_connector_jst_jst_ach_bm02b_achss_gan_etf_1x02_1mp_p1_20mm_vertical
+    oomp_key_full: oomp_footprint_kicad_connector_jst_jst_ach_bm02b_achss_gan_etf_1x02_1mp_p1_20mm_vertical_14a6e0
+    oomp_key_simple: kicad_connector_jst_jst_ach_bm02b_achss_gan_etf_1x02_1mp_p1_20mm_vertical
     original_filename: libraries/kicad-footprints/Connector_JST.pretty/JST_ACH_BM02B-ACHSS-GAN-ETF_1x02-1MP_P1.20mm_Vertical.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_jst_jst_ach_bm02b_achss_gan_etf_1x02_1mp_p1_20mm_vertical
+  oomp_key_full: oomp_footprint_kicad_connector_jst_jst_ach_bm02b_achss_gan_etf_1x02_1mp_p1_20mm_vertical
   oomp_key_simple: kicad_connector_jst_jst_ach_bm02b_achss_gan_etf_1x02_1mp_p1_20mm_vertical
   owner: kicad
   repo:

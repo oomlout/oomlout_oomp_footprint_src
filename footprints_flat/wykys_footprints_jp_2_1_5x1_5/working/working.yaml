@@ -17,9 +17,18 @@
   oomp:
     footprint_name: jp_2_1_5x1_5
     library_name: footprints
+    md5: 73d6b0ae3a27b5b106e775931bcbe0d8
+    md5_10: 73d6b0ae3a
+    md5_5: 73d6b
+    md5_6: 73d6b0
+    oomp_key: oomp_wykys_footprints_jp_2_1_5x1_5
+    oomp_key_extra: oomp_footprint_wykys_footprints_jp_2_1_5x1_5
+    oomp_key_full: oomp_footprint_wykys_footprints_jp_2_1_5x1_5_73d6b0
+    oomp_key_simple: wykys_footprints_jp_2_1_5x1_5
     original_filename: kicad/demos/stickhub/footprints.pretty/JP-2_1.5x1.5.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_footprints_jp_2_1_5x1_5
+  oomp_key_full: oomp_footprint_wykys_footprints_jp_2_1_5x1_5
   oomp_key_simple: wykys_footprints_jp_2_1_5x1_5
   owner: wykys
   repo:

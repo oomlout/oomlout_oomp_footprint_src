@@ -17,9 +17,18 @@
   oomp:
     footprint_name: oshw_logo2_14_6x12mm_silkscreen
     library_name: symbol
+    md5: 15c25bd3bcc7174c6caacd48e002f5e9
+    md5_10: 15c25bd3bc
+    md5_5: 15c25
+    md5_6: 15c25b
+    oomp_key: oomp_kicad_symbol_oshw_logo2_14_6x12mm_silkscreen
+    oomp_key_extra: oomp_footprint_kicad_symbol_oshw_logo2_14_6x12mm_silkscreen
+    oomp_key_full: oomp_footprint_kicad_symbol_oshw_logo2_14_6x12mm_silkscreen_15c25b
+    oomp_key_simple: kicad_symbol_oshw_logo2_14_6x12mm_silkscreen
     original_filename: libraries/kicad-footprints/Symbol.pretty/OSHW-Logo2_14.6x12mm_SilkScreen.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_symbol_oshw_logo2_14_6x12mm_silkscreen
+  oomp_key_full: oomp_footprint_kicad_symbol_oshw_logo2_14_6x12mm_silkscreen
   oomp_key_simple: kicad_symbol_oshw_logo2_14_6x12mm_silkscreen
   owner: kicad
   repo:

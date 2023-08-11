@@ -17,9 +17,18 @@
   oomp:
     footprint_name: resc6331x70
     library_name: ipc7351_least
+    md5: 9320cd029281e2ec14c79a0e890050ab
+    md5_10: 9320cd0292
+    md5_5: 9320c
+    md5_6: 9320cd
+    oomp_key: oomp_cpavlina_ipc7351_least_resc6331x70
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_least_resc6331x70
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_least_resc6331x70_9320cd
+    oomp_key_simple: cpavlina_ipc7351_least_resc6331x70
     original_filename: kicad-pcblib/IPC7351-Least.pretty/RESC6331X70.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_least_resc6331x70
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_least_resc6331x70
   oomp_key_simple: cpavlina_ipc7351_least_resc6331x70
   owner: cpavlina
   repo:

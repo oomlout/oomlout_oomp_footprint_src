@@ -18,9 +18,18 @@
   oomp:
     footprint_name: jst_sh_sm04b_srss_tb_1x04_1mp_p1_00mm_horizontal
     library_name: footprints
+    md5: 017d214f605bc16edf8cf1474dd12bfa
+    md5_10: 017d214f60
+    md5_5: 017d2
+    md5_6: 017d21
+    oomp_key: oomp_wykys_footprints_jst_sh_sm04b_srss_tb_1x04_1mp_p1_00mm_horizontal
+    oomp_key_extra: oomp_footprint_wykys_footprints_jst_sh_sm04b_srss_tb_1x04_1mp_p1_00mm_horizontal
+    oomp_key_full: oomp_footprint_wykys_footprints_jst_sh_sm04b_srss_tb_1x04_1mp_p1_00mm_horizontal_017d21
+    oomp_key_simple: wykys_footprints_jst_sh_sm04b_srss_tb_1x04_1mp_p1_00mm_horizontal
     original_filename: kicad/demos/stickhub/footprints.pretty/JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_footprints_jst_sh_sm04b_srss_tb_1x04_1mp_p1_00mm_horizontal
+  oomp_key_full: oomp_footprint_wykys_footprints_jst_sh_sm04b_srss_tb_1x04_1mp_p1_00mm_horizontal
   oomp_key_simple: wykys_footprints_jst_sh_sm04b_srss_tb_1x04_1mp_p1_00mm_horizontal
   owner: wykys
   repo:

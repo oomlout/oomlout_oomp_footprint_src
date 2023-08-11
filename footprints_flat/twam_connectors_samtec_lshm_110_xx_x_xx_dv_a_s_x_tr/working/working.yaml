@@ -17,9 +17,18 @@
   oomp:
     footprint_name: lshm_110_xx_x_xx_dv_a_s_x_tr
     library_name: connectors_samtec
+    md5: 659b30b56db12760238c23c155400b29
+    md5_10: 659b30b56d
+    md5_5: 659b3
+    md5_6: 659b30
+    oomp_key: oomp_twam_connectors_samtec_lshm_110_xx_x_xx_dv_a_s_x_tr
+    oomp_key_extra: oomp_footprint_twam_connectors_samtec_lshm_110_xx_x_xx_dv_a_s_x_tr
+    oomp_key_full: oomp_footprint_twam_connectors_samtec_lshm_110_xx_x_xx_dv_a_s_x_tr_659b30
+    oomp_key_simple: twam_connectors_samtec_lshm_110_xx_x_xx_dv_a_s_x_tr
     original_filename: Connectors_Samtec.pretty/LSHM-110-XX.X-XX-DV-A-S-X-TR.kicad_mod
     owner_name: twam
   oomp_key: oomp_twam_connectors_samtec_lshm_110_xx_x_xx_dv_a_s_x_tr
+  oomp_key_full: oomp_footprint_twam_connectors_samtec_lshm_110_xx_x_xx_dv_a_s_x_tr
   oomp_key_simple: twam_connectors_samtec_lshm_110_xx_x_xx_dv_a_s_x_tr
   owner: twam
   repo:

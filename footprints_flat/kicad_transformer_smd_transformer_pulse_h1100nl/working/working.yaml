@@ -18,9 +18,18 @@
   oomp:
     footprint_name: transformer_pulse_h1100nl
     library_name: transformer_smd
+    md5: 613e750cf9447a3b0dc880f5edb7363a
+    md5_10: 613e750cf9
+    md5_5: 613e7
+    md5_6: 613e75
+    oomp_key: oomp_kicad_transformer_smd_transformer_pulse_h1100nl
+    oomp_key_extra: oomp_footprint_kicad_transformer_smd_transformer_pulse_h1100nl
+    oomp_key_full: oomp_footprint_kicad_transformer_smd_transformer_pulse_h1100nl_613e75
+    oomp_key_simple: kicad_transformer_smd_transformer_pulse_h1100nl
     original_filename: libraries/kicad-footprints/Transformer_SMD.pretty/Transformer_Pulse_H1100NL.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_transformer_smd_transformer_pulse_h1100nl
+  oomp_key_full: oomp_footprint_kicad_transformer_smd_transformer_pulse_h1100nl
   oomp_key_simple: kicad_transformer_smd_transformer_pulse_h1100nl
   owner: kicad
   repo:

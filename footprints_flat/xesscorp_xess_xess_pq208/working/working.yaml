@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_pq208
     library_name: xess
+    md5: 5dc683cc8ef9c720020502c3e2044e7d
+    md5_10: 5dc683cc8e
+    md5_5: 5dc68
+    md5_6: 5dc683
+    oomp_key: oomp_xesscorp_xess_xess_pq208
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_pq208
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_pq208_5dc683
+    oomp_key_simple: xesscorp_xess_xess_pq208
     original_filename: xess.pretty/xess-PQ208.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_pq208
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_pq208
   oomp_key_simple: xesscorp_xess_xess_pq208
   owner: xesscorp
   repo:

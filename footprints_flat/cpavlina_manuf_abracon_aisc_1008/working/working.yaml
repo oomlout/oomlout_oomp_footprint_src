@@ -17,9 +17,18 @@
   oomp:
     footprint_name: abracon_aisc_1008
     library_name: manuf
+    md5: b98065a6bd55b13cffa1d498832d252b
+    md5_10: b98065a6bd
+    md5_5: b9806
+    md5_6: b98065
+    oomp_key: oomp_cpavlina_manuf_abracon_aisc_1008
+    oomp_key_extra: oomp_footprint_cpavlina_manuf_abracon_aisc_1008
+    oomp_key_full: oomp_footprint_cpavlina_manuf_abracon_aisc_1008_b98065
+    oomp_key_simple: cpavlina_manuf_abracon_aisc_1008
     original_filename: kicad-pcblib/manuf.pretty/ABRACON-AISC-1008.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_manuf_abracon_aisc_1008
+  oomp_key_full: oomp_footprint_cpavlina_manuf_abracon_aisc_1008
   oomp_key_simple: cpavlina_manuf_abracon_aisc_1008
   owner: cpavlina
   repo:

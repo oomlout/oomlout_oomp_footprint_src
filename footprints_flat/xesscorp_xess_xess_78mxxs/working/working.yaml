@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_78mxxs
     library_name: xess
+    md5: 26f0e09b3413c75f49f9e3f2f6ce5ceb
+    md5_10: 26f0e09b34
+    md5_5: 26f0e
+    md5_6: 26f0e0
+    oomp_key: oomp_xesscorp_xess_xess_78mxxs
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_78mxxs
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_78mxxs_26f0e0
+    oomp_key_simple: xesscorp_xess_xess_78mxxs
     original_filename: xess.pretty/xess-78MXXS.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_78mxxs
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_78mxxs
   oomp_key_simple: xesscorp_xess_xess_78mxxs
   owner: xesscorp
   repo:

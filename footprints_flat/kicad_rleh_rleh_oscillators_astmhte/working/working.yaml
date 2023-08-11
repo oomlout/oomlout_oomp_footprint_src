@@ -17,9 +17,18 @@
   oomp:
     footprint_name: astmhte
     library_name: rleh_oscillators
+    md5: f08c3ad81ccc82600d0a5a5d78ec0aff
+    md5_10: f08c3ad81c
+    md5_5: f08c3
+    md5_6: f08c3a
+    oomp_key: oomp_kicad_rleh_rleh_oscillators_astmhte
+    oomp_key_extra: oomp_footprint_kicad_rleh_rleh_oscillators_astmhte
+    oomp_key_full: oomp_footprint_kicad_rleh_rleh_oscillators_astmhte_f08c3a
+    oomp_key_simple: kicad_rleh_rleh_oscillators_astmhte
     original_filename: rleh-oscillators.pretty/ASTMHTE.kicad_mod
     owner_name: kicad_rleh
   oomp_key: oomp_kicad_rleh_rleh_oscillators_astmhte
+  oomp_key_full: oomp_footprint_kicad_rleh_rleh_oscillators_astmhte
   oomp_key_simple: kicad_rleh_rleh_oscillators_astmhte
   owner: kicad-rleh
   repo:

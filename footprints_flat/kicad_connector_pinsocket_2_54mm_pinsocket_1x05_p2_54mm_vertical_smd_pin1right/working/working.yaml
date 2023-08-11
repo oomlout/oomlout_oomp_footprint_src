@@ -19,9 +19,18 @@
   oomp:
     footprint_name: pinsocket_1x05_p2_54mm_vertical_smd_pin1right
     library_name: connector_pinsocket_2_54mm
+    md5: b49bb46df9647a30dc499e988656c55f
+    md5_10: b49bb46df9
+    md5_5: b49bb
+    md5_6: b49bb4
+    oomp_key: oomp_kicad_connector_pinsocket_2_54mm_pinsocket_1x05_p2_54mm_vertical_smd_pin1right
+    oomp_key_extra: oomp_footprint_kicad_connector_pinsocket_2_54mm_pinsocket_1x05_p2_54mm_vertical_smd_pin1right
+    oomp_key_full: oomp_footprint_kicad_connector_pinsocket_2_54mm_pinsocket_1x05_p2_54mm_vertical_smd_pin1right_b49bb4
+    oomp_key_simple: kicad_connector_pinsocket_2_54mm_pinsocket_1x05_p2_54mm_vertical_smd_pin1right
     original_filename: libraries/kicad-footprints/Connector_PinSocket_2.54mm.pretty/PinSocket_1x05_P2.54mm_Vertical_SMD_Pin1Right.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_pinsocket_2_54mm_pinsocket_1x05_p2_54mm_vertical_smd_pin1right
+  oomp_key_full: oomp_footprint_kicad_connector_pinsocket_2_54mm_pinsocket_1x05_p2_54mm_vertical_smd_pin1right
   oomp_key_simple: kicad_connector_pinsocket_2_54mm_pinsocket_1x05_p2_54mm_vertical_smd_pin1right
   owner: kicad
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: diodes_sot26
     library_name: kicadfootprint
+    md5: c7d8812bdcb6ebbac9a3187bdfff36f0
+    md5_10: c7d8812bdc
+    md5_5: c7d88
+    md5_6: c7d881
+    oomp_key: oomp_vivitainc_kicadfootprint_diodes_sot26
+    oomp_key_extra: oomp_footprint_vivitainc_kicadfootprint_diodes_sot26
+    oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_diodes_sot26_c7d881
+    oomp_key_simple: vivitainc_kicadfootprint_diodes_sot26
     original_filename: KiCADfootprint.pretty/DIODES_SOT26.kicad_mod
     owner_name: vivitainc
   oomp_key: oomp_vivitainc_kicadfootprint_diodes_sot26
+  oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_diodes_sot26
   oomp_key_simple: vivitainc_kicadfootprint_diodes_sot26
   owner: vivitainc
   repo:

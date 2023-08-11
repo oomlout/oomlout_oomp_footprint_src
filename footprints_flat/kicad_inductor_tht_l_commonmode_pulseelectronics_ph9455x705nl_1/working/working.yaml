@@ -17,9 +17,18 @@
   oomp:
     footprint_name: l_commonmode_pulseelectronics_ph9455x705nl_1
     library_name: inductor_tht
+    md5: b7f3241fbadfef66ead2df136419eb15
+    md5_10: b7f3241fba
+    md5_5: b7f32
+    md5_6: b7f324
+    oomp_key: oomp_kicad_inductor_tht_l_commonmode_pulseelectronics_ph9455x705nl_1
+    oomp_key_extra: oomp_footprint_kicad_inductor_tht_l_commonmode_pulseelectronics_ph9455x705nl_1
+    oomp_key_full: oomp_footprint_kicad_inductor_tht_l_commonmode_pulseelectronics_ph9455x705nl_1_b7f324
+    oomp_key_simple: kicad_inductor_tht_l_commonmode_pulseelectronics_ph9455x705nl_1
     original_filename: libraries/kicad-footprints/Inductor_THT.pretty/L_CommonMode_PulseElectronics_PH9455x705NL_1.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_inductor_tht_l_commonmode_pulseelectronics_ph9455x705nl_1
+  oomp_key_full: oomp_footprint_kicad_inductor_tht_l_commonmode_pulseelectronics_ph9455x705nl_1
   oomp_key_simple: kicad_inductor_tht_l_commonmode_pulseelectronics_ph9455x705nl_1
   owner: kicad
   repo:

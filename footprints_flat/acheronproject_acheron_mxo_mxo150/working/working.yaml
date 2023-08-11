@@ -17,9 +17,18 @@
   oomp:
     footprint_name: mxo150
     library_name: acheron_mxo
+    md5: 04f1d5b7e6b1c68a56068f00d095d154
+    md5_10: 04f1d5b7e6
+    md5_5: 04f1d
+    md5_6: 04f1d5
+    oomp_key: oomp_acheronproject_acheron_mxo_mxo150
+    oomp_key_extra: oomp_footprint_acheronproject_acheron_mxo_mxo150
+    oomp_key_full: oomp_footprint_acheronproject_acheron_mxo_mxo150_04f1d5
+    oomp_key_simple: acheronproject_acheron_mxo_mxo150
     original_filename: acheron_MXO.pretty/MXO150.kicad_mod
     owner_name: acheronproject
   oomp_key: oomp_acheronproject_acheron_mxo_mxo150
+  oomp_key_full: oomp_footprint_acheronproject_acheron_mxo_mxo150
   oomp_key_simple: acheronproject_acheron_mxo_mxo150
   owner: AcheronProject
   repo:

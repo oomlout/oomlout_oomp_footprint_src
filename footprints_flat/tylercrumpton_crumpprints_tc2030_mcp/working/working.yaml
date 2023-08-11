@@ -17,9 +17,18 @@
   oomp:
     footprint_name: tc2030_mcp
     library_name: crumpprints
+    md5: 9ceb5fb8585d90a1e8301c128f9208c9
+    md5_10: 9ceb5fb858
+    md5_5: 9ceb5
+    md5_6: 9ceb5f
+    oomp_key: oomp_tylercrumpton_crumpprints_tc2030_mcp
+    oomp_key_extra: oomp_footprint_tylercrumpton_crumpprints_tc2030_mcp
+    oomp_key_full: oomp_footprint_tylercrumpton_crumpprints_tc2030_mcp_9ceb5f
+    oomp_key_simple: tylercrumpton_crumpprints_tc2030_mcp
     original_filename: CrumpPrints.pretty/TC2030-MCP.kicad_mod
     owner_name: tylercrumpton
   oomp_key: oomp_tylercrumpton_crumpprints_tc2030_mcp
+  oomp_key_full: oomp_footprint_tylercrumpton_crumpprints_tc2030_mcp
   oomp_key_simple: tylercrumpton_crumpprints_tc2030_mcp
   owner: tylercrumpton
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: rv2x4
     library_name: pic_programmer_fp
+    md5: 2af4b9a02f9f9fd00def199649e448ec
+    md5_10: 2af4b9a02f
+    md5_5: 2af4b
+    md5_6: 2af4b9
+    oomp_key: oomp_axello_pic_programmer_fp_rv2x4
+    oomp_key_extra: oomp_footprint_axello_pic_programmer_fp_rv2x4
+    oomp_key_full: oomp_footprint_axello_pic_programmer_fp_rv2x4_2af4b9
+    oomp_key_simple: axello_pic_programmer_fp_rv2x4
     original_filename: kicad/demos/pic_programmer/libs/pic_programmer_fp.pretty/RV2X4.kicad_mod
     owner_name: axello
   oomp_key: oomp_axello_pic_programmer_fp_rv2x4
+  oomp_key_full: oomp_footprint_axello_pic_programmer_fp_rv2x4
   oomp_key_simple: axello_pic_programmer_fp_rv2x4
   owner: axello
   repo:

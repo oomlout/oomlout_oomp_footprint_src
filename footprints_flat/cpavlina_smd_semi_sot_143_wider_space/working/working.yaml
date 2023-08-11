@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sot_143_wider_space
     library_name: smd_semi
+    md5: 4bfa89403924b9c16b100d5d25bfc20b
+    md5_10: 4bfa894039
+    md5_5: 4bfa8
+    md5_6: 4bfa89
+    oomp_key: oomp_cpavlina_smd_semi_sot_143_wider_space
+    oomp_key_extra: oomp_footprint_cpavlina_smd_semi_sot_143_wider_space
+    oomp_key_full: oomp_footprint_cpavlina_smd_semi_sot_143_wider_space_4bfa89
+    oomp_key_simple: cpavlina_smd_semi_sot_143_wider_space
     original_filename: kicad-pcblib/smd-semi.pretty/SOT-143-WIDER-SPACE.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_smd_semi_sot_143_wider_space
+  oomp_key_full: oomp_footprint_cpavlina_smd_semi_sot_143_wider_space
   oomp_key_simple: cpavlina_smd_semi_sot_143_wider_space
   owner: cpavlina
   repo:

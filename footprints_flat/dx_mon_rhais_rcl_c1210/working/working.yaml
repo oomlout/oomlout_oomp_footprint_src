@@ -17,9 +17,18 @@
   oomp:
     footprint_name: c1210
     library_name: rhais_rcl
+    md5: d8f2ef9e352aec15e3551c072609bdc7
+    md5_10: d8f2ef9e35
+    md5_5: d8f2e
+    md5_6: d8f2ef
+    oomp_key: oomp_dx_mon_rhais_rcl_c1210
+    oomp_key_extra: oomp_footprint_dx_mon_rhais_rcl_c1210
+    oomp_key_full: oomp_footprint_dx_mon_rhais_rcl_c1210_d8f2ef
+    oomp_key_simple: dx_mon_rhais_rcl_c1210
     original_filename: rhais_rcl.pretty/C1210.kicad_mod
     owner_name: dx_mon
   oomp_key: oomp_dx_mon_rhais_rcl_c1210
+  oomp_key_full: oomp_footprint_dx_mon_rhais_rcl_c1210
   oomp_key_simple: dx_mon_rhais_rcl_c1210
   owner: DX-MON
   repo:

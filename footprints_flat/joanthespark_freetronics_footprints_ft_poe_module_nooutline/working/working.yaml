@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ft_poe_module_nooutline
     library_name: freetronics_footprints
+    md5: 06e00a84c9fa44541fae81c96ca6f973
+    md5_10: 06e00a84c9
+    md5_5: 06e00
+    md5_6: 06e00a
+    oomp_key: oomp_joanthespark_freetronics_footprints_ft_poe_module_nooutline
+    oomp_key_extra: oomp_footprint_joanthespark_freetronics_footprints_ft_poe_module_nooutline
+    oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_ft_poe_module_nooutline_06e00a
+    oomp_key_simple: joanthespark_freetronics_footprints_ft_poe_module_nooutline
     original_filename: KiCAD/mods/freetronics_footprints.pretty/FT-POE-MODULE-NOOUTLINE.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_freetronics_footprints_ft_poe_module_nooutline
+  oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_ft_poe_module_nooutline
   oomp_key_simple: joanthespark_freetronics_footprints_ft_poe_module_nooutline
   owner: JoanTheSpark
   repo:

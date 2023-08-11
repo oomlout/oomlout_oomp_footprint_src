@@ -19,9 +19,18 @@
   oomp:
     footprint_name: bourns_sdr1105
     library_name: manuf
+    md5: b82bcc32bb87510237e59bf76eff4085
+    md5_10: b82bcc32bb
+    md5_5: b82bc
+    md5_6: b82bcc
+    oomp_key: oomp_iangitpers_manuf_bourns_sdr1105
+    oomp_key_extra: oomp_footprint_iangitpers_manuf_bourns_sdr1105
+    oomp_key_full: oomp_footprint_iangitpers_manuf_bourns_sdr1105_b82bcc
+    oomp_key_simple: iangitpers_manuf_bourns_sdr1105
     original_filename: 4a/manuf.pretty/BOURNS-SDR1105.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_manuf_bourns_sdr1105
+  oomp_key_full: oomp_footprint_iangitpers_manuf_bourns_sdr1105
   oomp_key_simple: iangitpers_manuf_bourns_sdr1105
   owner: Iangitpers
   repo:

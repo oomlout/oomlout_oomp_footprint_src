@@ -17,9 +17,18 @@
   oomp:
     footprint_name: 1x26
     library_name: freetronics_footprints
+    md5: 4713116bf708128ab35938b7d3f4ecfa
+    md5_10: 4713116bf7
+    md5_5: '47131'
+    md5_6: '471311'
+    oomp_key: oomp_wykys_freetronics_footprints_1x26
+    oomp_key_extra: oomp_footprint_wykys_freetronics_footprints_1x26
+    oomp_key_full: oomp_footprint_wykys_freetronics_footprints_1x26_471311
+    oomp_key_simple: wykys_freetronics_footprints_1x26
     original_filename: kicad/mods/freetronics_footprints.pretty/1X26.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_freetronics_footprints_1x26
+  oomp_key_full: oomp_footprint_wykys_freetronics_footprints_1x26
   oomp_key_simple: wykys_freetronics_footprints_1x26
   owner: wykys
   repo:

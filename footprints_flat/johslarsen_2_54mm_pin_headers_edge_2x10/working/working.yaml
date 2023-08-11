@@ -17,9 +17,18 @@
   oomp:
     footprint_name: edge_2x10
     library_name: 2_54mm_pin_headers
+    md5: 32126b0d3740dcb936362de414435b19
+    md5_10: 32126b0d37
+    md5_5: '32126'
+    md5_6: 32126b
+    oomp_key: oomp_johslarsen_2_54mm_pin_headers_edge_2x10
+    oomp_key_extra: oomp_footprint_johslarsen_2_54mm_pin_headers_edge_2x10
+    oomp_key_full: oomp_footprint_johslarsen_2_54mm_pin_headers_edge_2x10_32126b
+    oomp_key_simple: johslarsen_2_54mm_pin_headers_edge_2x10
     original_filename: 2.54mm_Pin_Headers.pretty/Edge_2x10.kicad_mod
     owner_name: johslarsen
   oomp_key: oomp_johslarsen_2_54mm_pin_headers_edge_2x10
+  oomp_key_full: oomp_footprint_johslarsen_2_54mm_pin_headers_edge_2x10
   oomp_key_simple: johslarsen_2_54mm_pin_headers_edge_2x10
   owner: johslarsen
   repo:

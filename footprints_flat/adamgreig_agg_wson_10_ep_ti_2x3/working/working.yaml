@@ -17,9 +17,18 @@
   oomp:
     footprint_name: wson_10_ep_ti_2x3
     library_name: agg
+    md5: 148da216dcd5173d25806830cec1f5f4
+    md5_10: 148da216dc
+    md5_5: 148da
+    md5_6: 148da2
+    oomp_key: oomp_adamgreig_agg_wson_10_ep_ti_2x3
+    oomp_key_extra: oomp_footprint_adamgreig_agg_wson_10_ep_ti_2x3
+    oomp_key_full: oomp_footprint_adamgreig_agg_wson_10_ep_ti_2x3_148da2
+    oomp_key_simple: adamgreig_agg_wson_10_ep_ti_2x3
     original_filename: agg-kicad/agg.pretty/WSON-10-EP-TI-2x3.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_wson_10_ep_ti_2x3
+  oomp_key_full: oomp_footprint_adamgreig_agg_wson_10_ep_ti_2x3
   oomp_key_simple: adamgreig_agg_wson_10_ep_ti_2x3
   owner: adamgreig
   repo:

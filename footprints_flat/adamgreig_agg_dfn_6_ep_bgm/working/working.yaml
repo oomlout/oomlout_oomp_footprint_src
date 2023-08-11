@@ -17,9 +17,18 @@
   oomp:
     footprint_name: dfn_6_ep_bgm
     library_name: agg
+    md5: a09f66bb233798cbd0f18e30e848664d
+    md5_10: a09f66bb23
+    md5_5: a09f6
+    md5_6: a09f66
+    oomp_key: oomp_adamgreig_agg_dfn_6_ep_bgm
+    oomp_key_extra: oomp_footprint_adamgreig_agg_dfn_6_ep_bgm
+    oomp_key_full: oomp_footprint_adamgreig_agg_dfn_6_ep_bgm_a09f66
+    oomp_key_simple: adamgreig_agg_dfn_6_ep_bgm
     original_filename: agg-kicad/agg.pretty/DFN-6-EP-BGM.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_dfn_6_ep_bgm
+  oomp_key_full: oomp_footprint_adamgreig_agg_dfn_6_ep_bgm
   oomp_key_simple: adamgreig_agg_dfn_6_ep_bgm
   owner: adamgreig
   repo:

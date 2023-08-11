@@ -17,9 +17,18 @@
   oomp:
     footprint_name: texas_s_pwqfn_n100_ep5_5x5_5mm
     library_name: package_dfn_qfn
+    md5: 01f5e43608144b06f88d8ee5b99fc5ad
+    md5_10: 01f5e43608
+    md5_5: 01f5e
+    md5_6: 01f5e4
+    oomp_key: oomp_kicad_package_dfn_qfn_texas_s_pwqfn_n100_ep5_5x5_5mm
+    oomp_key_extra: oomp_footprint_kicad_package_dfn_qfn_texas_s_pwqfn_n100_ep5_5x5_5mm
+    oomp_key_full: oomp_footprint_kicad_package_dfn_qfn_texas_s_pwqfn_n100_ep5_5x5_5mm_01f5e4
+    oomp_key_simple: kicad_package_dfn_qfn_texas_s_pwqfn_n100_ep5_5x5_5mm
     original_filename: libraries/kicad-footprints/Package_DFN_QFN.pretty/Texas_S-PWQFN-N100_EP5.5x5.5mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_dfn_qfn_texas_s_pwqfn_n100_ep5_5x5_5mm
+  oomp_key_full: oomp_footprint_kicad_package_dfn_qfn_texas_s_pwqfn_n100_ep5_5x5_5mm
   oomp_key_simple: kicad_package_dfn_qfn_texas_s_pwqfn_n100_ep5_5x5_5mm
   owner: kicad
   repo:

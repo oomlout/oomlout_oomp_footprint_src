@@ -17,9 +17,18 @@
   oomp:
     footprint_name: resc6432x76
     library_name: ipc7351_nominal
+    md5: f8019d7508b5a0ea1dc11e6556e28f1b
+    md5_10: f8019d7508
+    md5_5: f8019
+    md5_6: f8019d
+    oomp_key: oomp_cpavlina_ipc7351_nominal_resc6432x76
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_nominal_resc6432x76
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_resc6432x76_f8019d
+    oomp_key_simple: cpavlina_ipc7351_nominal_resc6432x76
     original_filename: kicad-pcblib/IPC7351-Nominal.pretty/RESC6432X76.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_nominal_resc6432x76
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_resc6432x76
   oomp_key_simple: cpavlina_ipc7351_nominal_resc6432x76
   owner: cpavlina
   repo:

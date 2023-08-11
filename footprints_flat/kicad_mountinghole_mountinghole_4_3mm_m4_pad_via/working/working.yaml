@@ -17,9 +17,18 @@
   oomp:
     footprint_name: mountinghole_4_3mm_m4_pad_via
     library_name: mountinghole
+    md5: 1e19afc86884a0777121f886f01406f3
+    md5_10: 1e19afc868
+    md5_5: 1e19a
+    md5_6: 1e19af
+    oomp_key: oomp_kicad_mountinghole_mountinghole_4_3mm_m4_pad_via
+    oomp_key_extra: oomp_footprint_kicad_mountinghole_mountinghole_4_3mm_m4_pad_via
+    oomp_key_full: oomp_footprint_kicad_mountinghole_mountinghole_4_3mm_m4_pad_via_1e19af
+    oomp_key_simple: kicad_mountinghole_mountinghole_4_3mm_m4_pad_via
     original_filename: libraries/kicad-footprints/MountingHole.pretty/MountingHole_4.3mm_M4_Pad_Via.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_mountinghole_mountinghole_4_3mm_m4_pad_via
+  oomp_key_full: oomp_footprint_kicad_mountinghole_mountinghole_4_3mm_m4_pad_via
   oomp_key_simple: kicad_mountinghole_mountinghole_4_3mm_m4_pad_via
   owner: kicad
   repo:

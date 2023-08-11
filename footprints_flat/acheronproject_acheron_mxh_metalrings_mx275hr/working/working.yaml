@@ -17,9 +17,18 @@
   oomp:
     footprint_name: mx275hr
     library_name: acheron_mxh_metalrings
+    md5: 724ec904a328e9474b8c3929320b4fc5
+    md5_10: 724ec904a3
+    md5_5: 724ec
+    md5_6: 724ec9
+    oomp_key: oomp_acheronproject_acheron_mxh_metalrings_mx275hr
+    oomp_key_extra: oomp_footprint_acheronproject_acheron_mxh_metalrings_mx275hr
+    oomp_key_full: oomp_footprint_acheronproject_acheron_mxh_metalrings_mx275hr_724ec9
+    oomp_key_simple: acheronproject_acheron_mxh_metalrings_mx275hr
     original_filename: acheron_MXH_metalrings.pretty/MX275HR.kicad_mod
     owner_name: acheronproject
   oomp_key: oomp_acheronproject_acheron_mxh_metalrings_mx275hr
+  oomp_key_full: oomp_footprint_acheronproject_acheron_mxh_metalrings_mx275hr
   oomp_key_simple: acheronproject_acheron_mxh_metalrings_mx275hr
   owner: AcheronProject
   repo:

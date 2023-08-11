@@ -17,9 +17,18 @@
   oomp:
     footprint_name: nxp_udfn_10
     library_name: manuf
+    md5: 3f978fc5c4e623b151046573f53a37ac
+    md5_10: 3f978fc5c4
+    md5_5: 3f978
+    md5_6: 3f978f
+    oomp_key: oomp_cpavlina_manuf_nxp_udfn_10
+    oomp_key_extra: oomp_footprint_cpavlina_manuf_nxp_udfn_10
+    oomp_key_full: oomp_footprint_cpavlina_manuf_nxp_udfn_10_3f978f
+    oomp_key_simple: cpavlina_manuf_nxp_udfn_10
     original_filename: kicad-pcblib/manuf.pretty/NXP-UDFN-10.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_manuf_nxp_udfn_10
+  oomp_key_full: oomp_footprint_cpavlina_manuf_nxp_udfn_10
   oomp_key_simple: cpavlina_manuf_nxp_udfn_10
   owner: cpavlina
   repo:

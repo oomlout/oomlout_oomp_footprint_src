@@ -17,9 +17,18 @@
   oomp:
     footprint_name: capc2012x88
     library_name: ipc7351_nominal
+    md5: 962d78d4ac4834529b9d66a5d6aa68e9
+    md5_10: 962d78d4ac
+    md5_5: 962d7
+    md5_6: 962d78
+    oomp_key: oomp_cpavlina_ipc7351_nominal_capc2012x88
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_nominal_capc2012x88
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_capc2012x88_962d78
+    oomp_key_simple: cpavlina_ipc7351_nominal_capc2012x88
     original_filename: kicad-pcblib/IPC7351-Nominal.pretty/CAPC2012X88.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_nominal_capc2012x88
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_capc2012x88
   oomp_key_simple: cpavlina_ipc7351_nominal_capc2012x88
   owner: cpavlina
   repo:

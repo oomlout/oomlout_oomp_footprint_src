@@ -17,9 +17,18 @@
   oomp:
     footprint_name: arduino_mega_shield
     library_name: freetronics_footprints
+    md5: 5607ee9c69cee8eb83c6a7116c0234c8
+    md5_10: 5607ee9c69
+    md5_5: 5607e
+    md5_6: 5607ee
+    oomp_key: oomp_wykys_freetronics_footprints_arduino_mega_shield
+    oomp_key_extra: oomp_footprint_wykys_freetronics_footprints_arduino_mega_shield
+    oomp_key_full: oomp_footprint_wykys_freetronics_footprints_arduino_mega_shield_5607ee
+    oomp_key_simple: wykys_freetronics_footprints_arduino_mega_shield
     original_filename: kicad/mods/freetronics_footprints.pretty/ARDUINO_MEGA_SHIELD.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_freetronics_footprints_arduino_mega_shield
+  oomp_key_full: oomp_footprint_wykys_freetronics_footprints_arduino_mega_shield
   oomp_key_simple: wykys_freetronics_footprints_arduino_mega_shield
   owner: wykys
   repo:

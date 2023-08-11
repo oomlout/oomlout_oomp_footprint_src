@@ -17,9 +17,18 @@
   oomp:
     footprint_name: logo_and_name_50mm_fsilk
     library_name: toroid_kicad
+    md5: adc755b0c43b3664844cd3bba1d4fddb
+    md5_10: adc755b0c4
+    md5_5: adc75
+    md5_6: adc755
+    oomp_key: oomp_toroid_io_toroid_kicad_logo_and_name_50mm_fsilk
+    oomp_key_extra: oomp_footprint_toroid_io_toroid_kicad_logo_and_name_50mm_fsilk
+    oomp_key_full: oomp_footprint_toroid_io_toroid_kicad_logo_and_name_50mm_fsilk_adc755
+    oomp_key_simple: toroid_io_toroid_kicad_logo_and_name_50mm_fsilk
     original_filename: toroid-kicad.pretty/Logo_and_Name_50mm_FSilk.kicad_mod
     owner_name: toroid_io
   oomp_key: oomp_toroid_io_toroid_kicad_logo_and_name_50mm_fsilk
+  oomp_key_full: oomp_footprint_toroid_io_toroid_kicad_logo_and_name_50mm_fsilk
   oomp_key_simple: toroid_io_toroid_kicad_logo_and_name_50mm_fsilk
   owner: Toroid-io
   repo:

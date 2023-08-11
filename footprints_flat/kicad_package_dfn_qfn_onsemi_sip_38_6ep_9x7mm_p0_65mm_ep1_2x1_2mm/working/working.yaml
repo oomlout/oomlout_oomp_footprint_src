@@ -17,9 +17,18 @@
   oomp:
     footprint_name: onsemi_sip_38_6ep_9x7mm_p0_65mm_ep1_2x1_2mm
     library_name: package_dfn_qfn
+    md5: c4cc258dd8e83411ec6a3f2f1997555a
+    md5_10: c4cc258dd8
+    md5_5: c4cc2
+    md5_6: c4cc25
+    oomp_key: oomp_kicad_package_dfn_qfn_onsemi_sip_38_6ep_9x7mm_p0_65mm_ep1_2x1_2mm
+    oomp_key_extra: oomp_footprint_kicad_package_dfn_qfn_onsemi_sip_38_6ep_9x7mm_p0_65mm_ep1_2x1_2mm
+    oomp_key_full: oomp_footprint_kicad_package_dfn_qfn_onsemi_sip_38_6ep_9x7mm_p0_65mm_ep1_2x1_2mm_c4cc25
+    oomp_key_simple: kicad_package_dfn_qfn_onsemi_sip_38_6ep_9x7mm_p0_65mm_ep1_2x1_2mm
     original_filename: libraries/kicad-footprints/Package_DFN_QFN.pretty/OnSemi_SIP-38-6EP-9x7mm_P0.65mm_EP1.2x1.2mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_dfn_qfn_onsemi_sip_38_6ep_9x7mm_p0_65mm_ep1_2x1_2mm
+  oomp_key_full: oomp_footprint_kicad_package_dfn_qfn_onsemi_sip_38_6ep_9x7mm_p0_65mm_ep1_2x1_2mm
   oomp_key_simple: kicad_package_dfn_qfn_onsemi_sip_38_6ep_9x7mm_p0_65mm_ep1_2x1_2mm
   owner: kicad
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: panasonic_smdcap_g
     library_name: agg
+    md5: be13087d9a72476669bd43c7a805ea5e
+    md5_10: be13087d9a
+    md5_5: be130
+    md5_6: be1308
+    oomp_key: oomp_adamgreig_agg_panasonic_smdcap_g
+    oomp_key_extra: oomp_footprint_adamgreig_agg_panasonic_smdcap_g
+    oomp_key_full: oomp_footprint_adamgreig_agg_panasonic_smdcap_g_be1308
+    oomp_key_simple: adamgreig_agg_panasonic_smdcap_g
     original_filename: agg-kicad/agg.pretty/PANASONIC-SMDCAP-G.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_panasonic_smdcap_g
+  oomp_key_full: oomp_footprint_adamgreig_agg_panasonic_smdcap_g
   oomp_key_simple: adamgreig_agg_panasonic_smdcap_g
   owner: adamgreig
   repo:

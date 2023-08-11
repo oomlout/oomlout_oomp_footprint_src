@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ambient_prox_apds_9960
     library_name: digikey_footprints
+    md5: a186a0bd1945470ba5ecabf964a66140
+    md5_10: a186a0bd19
+    md5_5: a186a
+    md5_6: a186a0
+    oomp_key: oomp_digikey_digikey_footprints_ambient_prox_apds_9960
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_ambient_prox_apds_9960
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_ambient_prox_apds_9960_a186a0
+    oomp_key_simple: digikey_digikey_footprints_ambient_prox_apds_9960
     original_filename: digikey-kicad-library/digikey-footprints.pretty/Ambient_Prox_APDS-9960.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_ambient_prox_apds_9960
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_ambient_prox_apds_9960
   oomp_key_simple: digikey_digikey_footprints_ambient_prox_apds_9960
   owner: digikey
   repo:

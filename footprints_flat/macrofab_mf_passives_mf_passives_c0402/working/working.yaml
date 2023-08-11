@@ -17,9 +17,18 @@
   oomp:
     footprint_name: mf_passives_c0402
     library_name: mf_passives
+    md5: f9b107dba0b60204e114171bc6b45a7e
+    md5_10: f9b107dba0
+    md5_5: f9b10
+    md5_6: f9b107
+    oomp_key: oomp_macrofab_mf_passives_mf_passives_c0402
+    oomp_key_extra: oomp_footprint_macrofab_mf_passives_mf_passives_c0402
+    oomp_key_full: oomp_footprint_macrofab_mf_passives_mf_passives_c0402_f9b107
+    oomp_key_simple: macrofab_mf_passives_mf_passives_c0402
     original_filename: EDALibraries/KiCad/Footprints/MF_Passives.pretty/MF_Passives-C0402.kicad_mod
     owner_name: macrofab
   oomp_key: oomp_macrofab_mf_passives_mf_passives_c0402
+  oomp_key_full: oomp_footprint_macrofab_mf_passives_mf_passives_c0402
   oomp_key_simple: macrofab_mf_passives_mf_passives_c0402
   owner: MacroFab
   repo:

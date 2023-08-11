@@ -17,9 +17,18 @@
   oomp:
     footprint_name: htqfp_100_14x14mm
     library_name: digikey_footprints
+    md5: 1d6177e70baa31b79112dcabec9540ff
+    md5_10: 1d6177e70b
+    md5_5: 1d617
+    md5_6: 1d6177
+    oomp_key: oomp_digikey_digikey_footprints_htqfp_100_14x14mm
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_htqfp_100_14x14mm
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_htqfp_100_14x14mm_1d6177
+    oomp_key_simple: digikey_digikey_footprints_htqfp_100_14x14mm
     original_filename: digikey-kicad-library/digikey-footprints.pretty/HTQFP-100_14x14mm.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_htqfp_100_14x14mm
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_htqfp_100_14x14mm
   oomp_key_simple: digikey_digikey_footprints_htqfp_100_14x14mm
   owner: digikey
   repo:

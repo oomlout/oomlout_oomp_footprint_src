@@ -17,9 +17,18 @@
   oomp:
     footprint_name: l_sunlord_swpa6028s
     library_name: inductor_smd
+    md5: 112f3749921b045f24d1e92072b6ec0d
+    md5_10: 112f374992
+    md5_5: 112f3
+    md5_6: 112f37
+    oomp_key: oomp_kicad_inductor_smd_l_sunlord_swpa6028s
+    oomp_key_extra: oomp_footprint_kicad_inductor_smd_l_sunlord_swpa6028s
+    oomp_key_full: oomp_footprint_kicad_inductor_smd_l_sunlord_swpa6028s_112f37
+    oomp_key_simple: kicad_inductor_smd_l_sunlord_swpa6028s
     original_filename: libraries/kicad-footprints/Inductor_SMD.pretty/L_Sunlord_SWPA6028S.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_inductor_smd_l_sunlord_swpa6028s
+  oomp_key_full: oomp_footprint_kicad_inductor_smd_l_sunlord_swpa6028s
   oomp_key_simple: kicad_inductor_smd_l_sunlord_swpa6028s
   owner: kicad
   repo:

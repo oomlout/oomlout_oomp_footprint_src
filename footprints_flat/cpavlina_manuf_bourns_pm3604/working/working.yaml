@@ -17,9 +17,18 @@
   oomp:
     footprint_name: bourns_pm3604
     library_name: manuf
+    md5: 990a91fccdecb6b38ae5ccfec0ae6e18
+    md5_10: 990a91fccd
+    md5_5: 990a9
+    md5_6: 990a91
+    oomp_key: oomp_cpavlina_manuf_bourns_pm3604
+    oomp_key_extra: oomp_footprint_cpavlina_manuf_bourns_pm3604
+    oomp_key_full: oomp_footprint_cpavlina_manuf_bourns_pm3604_990a91
+    oomp_key_simple: cpavlina_manuf_bourns_pm3604
     original_filename: kicad-pcblib/manuf.pretty/BOURNS-PM3604.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_manuf_bourns_pm3604
+  oomp_key_full: oomp_footprint_cpavlina_manuf_bourns_pm3604
   oomp_key_simple: cpavlina_manuf_bourns_pm3604
   owner: cpavlina
   repo:

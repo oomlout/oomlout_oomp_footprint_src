@@ -17,9 +17,18 @@
   oomp:
     footprint_name: kicad_logo2_20mm_copper
     library_name: symbol
+    md5: 5437d41e2f5307994796f843eeaf90d3
+    md5_10: 5437d41e2f
+    md5_5: 5437d
+    md5_6: 5437d4
+    oomp_key: oomp_kicad_symbol_kicad_logo2_20mm_copper
+    oomp_key_extra: oomp_footprint_kicad_symbol_kicad_logo2_20mm_copper
+    oomp_key_full: oomp_footprint_kicad_symbol_kicad_logo2_20mm_copper_5437d4
+    oomp_key_simple: kicad_symbol_kicad_logo2_20mm_copper
     original_filename: libraries/kicad-footprints/Symbol.pretty/KiCad-Logo2_20mm_Copper.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_symbol_kicad_logo2_20mm_copper
+  oomp_key_full: oomp_footprint_kicad_symbol_kicad_logo2_20mm_copper
   oomp_key_simple: kicad_symbol_kicad_logo2_20mm_copper
   owner: kicad
   repo:

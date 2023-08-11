@@ -17,9 +17,18 @@
   oomp:
     footprint_name: so4
     library_name: kicadfootprint
+    md5: 28de54dc9cf2abf426fccd31e3d70ccf
+    md5_10: 28de54dc9c
+    md5_5: 28de5
+    md5_6: 28de54
+    oomp_key: oomp_vivitainc_kicadfootprint_so4
+    oomp_key_extra: oomp_footprint_vivitainc_kicadfootprint_so4
+    oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_so4_28de54
+    oomp_key_simple: vivitainc_kicadfootprint_so4
     original_filename: KiCADfootprint.pretty/SO4.kicad_mod
     owner_name: vivitainc
   oomp_key: oomp_vivitainc_kicadfootprint_so4
+  oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_so4
   oomp_key_simple: vivitainc_kicadfootprint_so4
   owner: vivitainc
   repo:

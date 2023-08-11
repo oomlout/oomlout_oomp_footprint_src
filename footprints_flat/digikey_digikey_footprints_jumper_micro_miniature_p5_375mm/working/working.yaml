@@ -17,9 +17,18 @@
   oomp:
     footprint_name: jumper_micro_miniature_p5_375mm
     library_name: digikey_footprints
+    md5: 0bb493c3a24ff5e93ee9ed5f391ed338
+    md5_10: 0bb493c3a2
+    md5_5: 0bb49
+    md5_6: 0bb493
+    oomp_key: oomp_digikey_digikey_footprints_jumper_micro_miniature_p5_375mm
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_jumper_micro_miniature_p5_375mm
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_jumper_micro_miniature_p5_375mm_0bb493
+    oomp_key_simple: digikey_digikey_footprints_jumper_micro_miniature_p5_375mm
     original_filename: digikey-kicad-library/digikey-footprints.pretty/Jumper_Micro-Miniature_P5.375mm.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_jumper_micro_miniature_p5_375mm
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_jumper_micro_miniature_p5_375mm
   oomp_key_simple: digikey_digikey_footprints_jumper_micro_miniature_p5_375mm
   owner: digikey
   repo:

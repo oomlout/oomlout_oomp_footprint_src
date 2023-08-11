@@ -19,9 +19,18 @@
   oomp:
     footprint_name: panasonic_sssmini3_f2_b
     library_name: manuf
+    md5: dc64894177acfd46085bcd39f6a5efca
+    md5_10: dc64894177
+    md5_5: dc648
+    md5_6: dc6489
+    oomp_key: oomp_iangitpers_manuf_panasonic_sssmini3_f2_b
+    oomp_key_extra: oomp_footprint_iangitpers_manuf_panasonic_sssmini3_f2_b
+    oomp_key_full: oomp_footprint_iangitpers_manuf_panasonic_sssmini3_f2_b_dc6489
+    oomp_key_simple: iangitpers_manuf_panasonic_sssmini3_f2_b
     original_filename: 4a/manuf.pretty/PANASONIC-SSSMini3-F2-B.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_manuf_panasonic_sssmini3_f2_b
+  oomp_key_full: oomp_footprint_iangitpers_manuf_panasonic_sssmini3_f2_b
   oomp_key_simple: iangitpers_manuf_panasonic_sssmini3_f2_b
   owner: Iangitpers
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: esd_logo_22x20mm_silkscreen
     library_name: symbol
+    md5: f4c321b00aa5023044b5c2c7753df325
+    md5_10: f4c321b00a
+    md5_5: f4c32
+    md5_6: f4c321
+    oomp_key: oomp_kicad_symbol_esd_logo_22x20mm_silkscreen
+    oomp_key_extra: oomp_footprint_kicad_symbol_esd_logo_22x20mm_silkscreen
+    oomp_key_full: oomp_footprint_kicad_symbol_esd_logo_22x20mm_silkscreen_f4c321
+    oomp_key_simple: kicad_symbol_esd_logo_22x20mm_silkscreen
     original_filename: libraries/kicad-footprints/Symbol.pretty/ESD-Logo_22x20mm_SilkScreen.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_symbol_esd_logo_22x20mm_silkscreen
+  oomp_key_full: oomp_footprint_kicad_symbol_esd_logo_22x20mm_silkscreen
   oomp_key_simple: kicad_symbol_esd_logo_22x20mm_silkscreen
   owner: kicad
   repo:

@@ -18,9 +18,18 @@
   oomp:
     footprint_name: diodes_soic_8_3_9x4_9mm
     library_name: primarypoints
+    md5: 14b1fbecb2ee0713fc4bbb813a676716
+    md5_10: 14b1fbecb2
+    md5_5: 14b1f
+    md5_6: 14b1fb
+    oomp_key: oomp_zanekaminski_primarypoints_diodes_soic_8_3_9x4_9mm
+    oomp_key_extra: oomp_footprint_zanekaminski_primarypoints_diodes_soic_8_3_9x4_9mm
+    oomp_key_full: oomp_footprint_zanekaminski_primarypoints_diodes_soic_8_3_9x4_9mm_14b1fb
+    oomp_key_simple: zanekaminski_primarypoints_diodes_soic_8_3_9x4_9mm
     original_filename: primarypoints.pretty/Diodes_SOIC-8_3.9x4.9mm.kicad_mod
     owner_name: zanekaminski
   oomp_key: oomp_zanekaminski_primarypoints_diodes_soic_8_3_9x4_9mm
+  oomp_key_full: oomp_footprint_zanekaminski_primarypoints_diodes_soic_8_3_9x4_9mm
   oomp_key_simple: zanekaminski_primarypoints_diodes_soic_8_3_9x4_9mm
   owner: ZaneKaminski
   repo:

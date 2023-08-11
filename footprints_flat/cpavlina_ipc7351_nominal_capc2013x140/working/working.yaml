@@ -17,9 +17,18 @@
   oomp:
     footprint_name: capc2013x140
     library_name: ipc7351_nominal
+    md5: 39fbb1263a149be19d07ae1e42d11cf4
+    md5_10: 39fbb1263a
+    md5_5: 39fbb
+    md5_6: 39fbb1
+    oomp_key: oomp_cpavlina_ipc7351_nominal_capc2013x140
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_nominal_capc2013x140
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_capc2013x140_39fbb1
+    oomp_key_simple: cpavlina_ipc7351_nominal_capc2013x140
     original_filename: kicad-pcblib/IPC7351-Nominal.pretty/CAPC2013X140.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_nominal_capc2013x140
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_capc2013x140
   oomp_key_simple: cpavlina_ipc7351_nominal_capc2013x140
   owner: cpavlina
   repo:

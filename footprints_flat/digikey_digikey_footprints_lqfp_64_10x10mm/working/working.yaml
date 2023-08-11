@@ -17,9 +17,18 @@
   oomp:
     footprint_name: lqfp_64_10x10mm
     library_name: digikey_footprints
+    md5: 1dfa48feeaf769966d67c78133718c89
+    md5_10: 1dfa48feea
+    md5_5: 1dfa4
+    md5_6: 1dfa48
+    oomp_key: oomp_digikey_digikey_footprints_lqfp_64_10x10mm
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_lqfp_64_10x10mm
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_lqfp_64_10x10mm_1dfa48
+    oomp_key_simple: digikey_digikey_footprints_lqfp_64_10x10mm
     original_filename: digikey-kicad-library/digikey-footprints.pretty/LQFP-64_10x10mm.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_lqfp_64_10x10mm
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_lqfp_64_10x10mm
   oomp_key_simple: digikey_digikey_footprints_lqfp_64_10x10mm
   owner: digikey
   repo:

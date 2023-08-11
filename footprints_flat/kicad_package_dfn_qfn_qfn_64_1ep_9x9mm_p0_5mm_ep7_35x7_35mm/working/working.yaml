@@ -18,9 +18,18 @@
   oomp:
     footprint_name: qfn_64_1ep_9x9mm_p0_5mm_ep7_35x7_35mm
     library_name: package_dfn_qfn
+    md5: a0064e61d15079c4ebab18279ab2eff7
+    md5_10: a0064e61d1
+    md5_5: a0064
+    md5_6: a0064e
+    oomp_key: oomp_kicad_package_dfn_qfn_qfn_64_1ep_9x9mm_p0_5mm_ep7_35x7_35mm
+    oomp_key_extra: oomp_footprint_kicad_package_dfn_qfn_qfn_64_1ep_9x9mm_p0_5mm_ep7_35x7_35mm
+    oomp_key_full: oomp_footprint_kicad_package_dfn_qfn_qfn_64_1ep_9x9mm_p0_5mm_ep7_35x7_35mm_a0064e
+    oomp_key_simple: kicad_package_dfn_qfn_qfn_64_1ep_9x9mm_p0_5mm_ep7_35x7_35mm
     original_filename: libraries/kicad-footprints/Package_DFN_QFN.pretty/QFN-64-1EP_9x9mm_P0.5mm_EP7.35x7.35mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_dfn_qfn_qfn_64_1ep_9x9mm_p0_5mm_ep7_35x7_35mm
+  oomp_key_full: oomp_footprint_kicad_package_dfn_qfn_qfn_64_1ep_9x9mm_p0_5mm_ep7_35x7_35mm
   oomp_key_simple: kicad_package_dfn_qfn_qfn_64_1ep_9x9mm_p0_5mm_ep7_35x7_35mm
   owner: kicad
   repo:

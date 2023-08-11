@@ -18,9 +18,18 @@
   oomp:
     footprint_name: cfp127p1730x254_36
     library_name: ipc7351_nominal
+    md5: ef76aa28f78c9639c03702b24c8fe74a
+    md5_10: ef76aa28f7
+    md5_5: ef76a
+    md5_6: ef76aa
+    oomp_key: oomp_cpavlina_ipc7351_nominal_cfp127p1730x254_36
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_nominal_cfp127p1730x254_36
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_cfp127p1730x254_36_ef76aa
+    oomp_key_simple: cpavlina_ipc7351_nominal_cfp127p1730x254_36
     original_filename: kicad-pcblib/IPC7351-Nominal.pretty/CFP127P1730X254-36.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_nominal_cfp127p1730x254_36
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_cfp127p1730x254_36
   oomp_key_simple: cpavlina_ipc7351_nominal_cfp127p1730x254_36
   owner: cpavlina
   repo:

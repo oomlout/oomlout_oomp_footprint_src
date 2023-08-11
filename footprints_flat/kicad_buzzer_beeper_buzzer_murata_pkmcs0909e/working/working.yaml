@@ -17,9 +17,18 @@
   oomp:
     footprint_name: buzzer_murata_pkmcs0909e
     library_name: buzzer_beeper
+    md5: f96be7ef2ea8476ec1b3abdcc8aafeda
+    md5_10: f96be7ef2e
+    md5_5: f96be
+    md5_6: f96be7
+    oomp_key: oomp_kicad_buzzer_beeper_buzzer_murata_pkmcs0909e
+    oomp_key_extra: oomp_footprint_kicad_buzzer_beeper_buzzer_murata_pkmcs0909e
+    oomp_key_full: oomp_footprint_kicad_buzzer_beeper_buzzer_murata_pkmcs0909e_f96be7
+    oomp_key_simple: kicad_buzzer_beeper_buzzer_murata_pkmcs0909e
     original_filename: libraries/kicad-footprints/Buzzer_Beeper.pretty/Buzzer_Murata_PKMCS0909E.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_buzzer_beeper_buzzer_murata_pkmcs0909e
+  oomp_key_full: oomp_footprint_kicad_buzzer_beeper_buzzer_murata_pkmcs0909e
   oomp_key_simple: kicad_buzzer_beeper_buzzer_murata_pkmcs0909e
   owner: kicad
   repo:

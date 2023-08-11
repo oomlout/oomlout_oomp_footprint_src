@@ -19,9 +19,18 @@
   oomp:
     footprint_name: molex_slimstack_55560_0601_2x30_p0_50mm_vertical
     library_name: connector_molex
+    md5: ecd034699e71e9b9e3974027627b4650
+    md5_10: ecd034699e
+    md5_5: ecd03
+    md5_6: ecd034
+    oomp_key: oomp_kicad_connector_molex_molex_slimstack_55560_0601_2x30_p0_50mm_vertical
+    oomp_key_extra: oomp_footprint_kicad_connector_molex_molex_slimstack_55560_0601_2x30_p0_50mm_vertical
+    oomp_key_full: oomp_footprint_kicad_connector_molex_molex_slimstack_55560_0601_2x30_p0_50mm_vertical_ecd034
+    oomp_key_simple: kicad_connector_molex_molex_slimstack_55560_0601_2x30_p0_50mm_vertical
     original_filename: libraries/kicad-footprints/Connector_Molex.pretty/Molex_SlimStack_55560-0601_2x30_P0.50mm_Vertical.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_molex_molex_slimstack_55560_0601_2x30_p0_50mm_vertical
+  oomp_key_full: oomp_footprint_kicad_connector_molex_molex_slimstack_55560_0601_2x30_p0_50mm_vertical
   oomp_key_simple: kicad_connector_molex_molex_slimstack_55560_0601_2x30_p0_50mm_vertical
   owner: kicad
   repo:

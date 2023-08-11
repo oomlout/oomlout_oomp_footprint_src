@@ -17,9 +17,18 @@
   oomp:
     footprint_name: tor_header_smt_8pin_(1107)
     library_name: transformers_wurthelektronik
+    md5: ac8812cc0a49f64ae661bfd8156a53c4
+    md5_10: ac8812cc0a
+    md5_5: ac881
+    md5_6: ac8812
+    oomp_key: oomp_wurthelectronics_transformers_wurthelektronik_tor_header_smt_8pin_(1107)
+    oomp_key_extra: oomp_footprint_wurthelectronics_transformers_wurthelektronik_tor_header_smt_8pin_(1107)
+    oomp_key_full: oomp_footprint_wurthelectronics_transformers_wurthelektronik_tor_header_smt_8pin_(1107)_ac8812
+    oomp_key_simple: wurthelectronics_transformers_wurthelektronik_tor_header_smt_8pin_(1107)
     original_filename: Transformers_WurthElektronik.pretty/TOR_HEADER_SMT_8PIN_(1107).kicad_mod
     owner_name: wurthelectronics
   oomp_key: oomp_wurthelectronics_transformers_wurthelektronik_tor_header_smt_8pin_(1107)
+  oomp_key_full: oomp_footprint_wurthelectronics_transformers_wurthelektronik_tor_header_smt_8pin_(1107)
   oomp_key_simple: wurthelectronics_transformers_wurthelektronik_tor_header_smt_8pin_(1107)
   owner: WurthElectronics
   repo:

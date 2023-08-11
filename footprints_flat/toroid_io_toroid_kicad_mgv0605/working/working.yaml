@@ -17,9 +17,18 @@
   oomp:
     footprint_name: mgv0605
     library_name: toroid_kicad
+    md5: a615d0e008cfe74ee7a0d1fa2ce8302c
+    md5_10: a615d0e008
+    md5_5: a615d
+    md5_6: a615d0
+    oomp_key: oomp_toroid_io_toroid_kicad_mgv0605
+    oomp_key_extra: oomp_footprint_toroid_io_toroid_kicad_mgv0605
+    oomp_key_full: oomp_footprint_toroid_io_toroid_kicad_mgv0605_a615d0
+    oomp_key_simple: toroid_io_toroid_kicad_mgv0605
     original_filename: toroid-kicad.pretty/MGV0605.kicad_mod
     owner_name: toroid_io
   oomp_key: oomp_toroid_io_toroid_kicad_mgv0605
+  oomp_key_full: oomp_footprint_toroid_io_toroid_kicad_mgv0605
   oomp_key_simple: toroid_io_toroid_kicad_mgv0605
   owner: Toroid-io
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: to_8_3
     library_name: package_to_sot_tht
+    md5: 42451286c8e54442bd7e9faef9e3fc3b
+    md5_10: 42451286c8
+    md5_5: '42451'
+    md5_6: '424512'
+    oomp_key: oomp_kicad_package_to_sot_tht_to_8_3
+    oomp_key_extra: oomp_footprint_kicad_package_to_sot_tht_to_8_3
+    oomp_key_full: oomp_footprint_kicad_package_to_sot_tht_to_8_3_424512
+    oomp_key_simple: kicad_package_to_sot_tht_to_8_3
     original_filename: libraries/kicad-footprints/Package_TO_SOT_THT.pretty/TO-8-3.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_to_sot_tht_to_8_3
+  oomp_key_full: oomp_footprint_kicad_package_to_sot_tht_to_8_3
   oomp_key_simple: kicad_package_to_sot_tht_to_8_3
   owner: kicad
   repo:

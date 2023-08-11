@@ -17,9 +17,18 @@
   oomp:
     footprint_name: teensy_2_0
     library_name: keebio_parts
+    md5: 82b92b99500f58c2ceebe5f229429107
+    md5_10: 82b92b9950
+    md5_5: 82b92
+    md5_6: 82b92b
+    oomp_key: oomp_keebio_keebio_parts_teensy_2_0
+    oomp_key_extra: oomp_footprint_keebio_keebio_parts_teensy_2_0
+    oomp_key_full: oomp_footprint_keebio_keebio_parts_teensy_2_0_82b92b
+    oomp_key_simple: keebio_keebio_parts_teensy_2_0
     original_filename: Keebio-Parts.pretty/Teensy_2.0.kicad_mod
     owner_name: keebio
   oomp_key: oomp_keebio_keebio_parts_teensy_2_0
+  oomp_key_full: oomp_footprint_keebio_keebio_parts_teensy_2_0
   oomp_key_simple: keebio_keebio_parts_teensy_2_0
   owner: keebio
   repo:

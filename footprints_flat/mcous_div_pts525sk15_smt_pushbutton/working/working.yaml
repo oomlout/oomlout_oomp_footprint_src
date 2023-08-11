@@ -17,9 +17,18 @@
   oomp:
     footprint_name: _pts525sk15_smt_pushbutton
     library_name: _div
+    md5: 85e16d63b72c8ad9942094f4e0c38ab5
+    md5_10: 85e16d63b7
+    md5_5: 85e16
+    md5_6: 85e16d
+    oomp_key: oomp_mcous_div_pts525sk15_smt_pushbutton
+    oomp_key_extra: oomp_footprint_mcous_div_pts525sk15_smt_pushbutton
+    oomp_key_full: oomp_footprint_mcous_div_pts525sk15_smt_pushbutton_85e16d
+    oomp_key_simple: mcous_div_pts525sk15_smt_pushbutton
     original_filename: kicad-lib/footprints/_div.pretty/_PTS525SK15-SMT-Pushbutton.kicad_mod
     owner_name: mcous
   oomp_key: oomp_mcous_div_pts525sk15_smt_pushbutton
+  oomp_key_full: oomp_footprint_mcous_div_pts525sk15_smt_pushbutton
   oomp_key_simple: mcous_div_pts525sk15_smt_pushbutton
   owner: mcous
   repo:

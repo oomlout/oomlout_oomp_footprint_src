@@ -17,9 +17,18 @@
   oomp:
     footprint_name: usb_a_3_0_stacked_wm10420_nd
     library_name: usst_footprints
+    md5: d30384756a705544cd35f11e57bc4cbc
+    md5_10: d30384756a
+    md5_5: d3038
+    md5_6: d30384
+    oomp_key: oomp_uofsspaceteam_usst_footprints_usb_a_3_0_stacked_wm10420_nd
+    oomp_key_extra: oomp_footprint_uofsspaceteam_usst_footprints_usb_a_3_0_stacked_wm10420_nd
+    oomp_key_full: oomp_footprint_uofsspaceteam_usst_footprints_usb_a_3_0_stacked_wm10420_nd_d30384
+    oomp_key_simple: uofsspaceteam_usst_footprints_usb_a_3_0_stacked_wm10420_nd
     original_filename: USST-footprints.pretty/USB-A_3.0_Stacked_WM10420-ND.kicad_mod
     owner_name: uofsspaceteam
   oomp_key: oomp_uofsspaceteam_usst_footprints_usb_a_3_0_stacked_wm10420_nd
+  oomp_key_full: oomp_footprint_uofsspaceteam_usst_footprints_usb_a_3_0_stacked_wm10420_nd
   oomp_key_simple: uofsspaceteam_usst_footprints_usb_a_3_0_stacked_wm10420_nd
   owner: UofSSpaceTeam
   repo:

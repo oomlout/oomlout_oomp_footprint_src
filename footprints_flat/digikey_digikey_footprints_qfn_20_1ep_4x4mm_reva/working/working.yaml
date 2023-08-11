@@ -17,9 +17,18 @@
   oomp:
     footprint_name: qfn_20_1ep_4x4mm_reva
     library_name: digikey_footprints
+    md5: baee8deccfa8283d037113ccd55556fc
+    md5_10: baee8deccf
+    md5_5: baee8
+    md5_6: baee8d
+    oomp_key: oomp_digikey_digikey_footprints_qfn_20_1ep_4x4mm_reva
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_qfn_20_1ep_4x4mm_reva
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_qfn_20_1ep_4x4mm_reva_baee8d
+    oomp_key_simple: digikey_digikey_footprints_qfn_20_1ep_4x4mm_reva
     original_filename: digikey-kicad-library/digikey-footprints.pretty/QFN-20-1EP_4x4mm_RevA.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_qfn_20_1ep_4x4mm_reva
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_qfn_20_1ep_4x4mm_reva
   oomp_key_simple: digikey_digikey_footprints_qfn_20_1ep_4x4mm_reva
   owner: digikey
   repo:

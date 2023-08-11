@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_746x
     library_name: xess
+    md5: c3a42e0430550f940b0225eb5e109c55
+    md5_10: c3a42e0430
+    md5_5: c3a42
+    md5_6: c3a42e
+    oomp_key: oomp_xesscorp_xess_xess_746x
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_746x
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_746x_c3a42e
+    oomp_key_simple: xesscorp_xess_xess_746x
     original_filename: xess.pretty/xess-746X.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_746x
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_746x
   oomp_key_simple: xesscorp_xess_xess_746x
   owner: xesscorp
   repo:

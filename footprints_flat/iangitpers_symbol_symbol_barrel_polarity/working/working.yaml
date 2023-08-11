@@ -19,9 +19,18 @@
   oomp:
     footprint_name: symbol_barrel_polarity
     library_name: symbol
+    md5: 03a4717ced14d111e9889069e4a2a826
+    md5_10: 03a4717ced
+    md5_5: 03a47
+    md5_6: 03a471
+    oomp_key: oomp_iangitpers_symbol_symbol_barrel_polarity
+    oomp_key_extra: oomp_footprint_iangitpers_symbol_symbol_barrel_polarity
+    oomp_key_full: oomp_footprint_iangitpers_symbol_symbol_barrel_polarity_03a471
+    oomp_key_simple: iangitpers_symbol_symbol_barrel_polarity
     original_filename: 4a/Symbol.pretty/Symbol_Barrel_Polarity.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_symbol_symbol_barrel_polarity
+  oomp_key_full: oomp_footprint_iangitpers_symbol_symbol_barrel_polarity
   oomp_key_simple: iangitpers_symbol_symbol_barrel_polarity
   owner: Iangitpers
   repo:

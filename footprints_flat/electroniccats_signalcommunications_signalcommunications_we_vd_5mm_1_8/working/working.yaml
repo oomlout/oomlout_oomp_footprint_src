@@ -18,9 +18,18 @@
   oomp:
     footprint_name: signalcommunications_we_vd_5mm_1_8
     library_name: signalcommunications
+    md5: a63affcd1caabd96d60e34b4cd2609a9
+    md5_10: a63affcd1c
+    md5_5: a63af
+    md5_6: a63aff
+    oomp_key: oomp_electroniccats_signalcommunications_signalcommunications_we_vd_5mm_1_8
+    oomp_key_extra: oomp_footprint_electroniccats_signalcommunications_signalcommunications_we_vd_5mm_1_8
+    oomp_key_full: oomp_footprint_electroniccats_signalcommunications_signalcommunications_we_vd_5mm_1_8_a63aff
+    oomp_key_simple: electroniccats_signalcommunications_signalcommunications_we_vd_5mm_1_8
     original_filename: ComponentLibrariesKicadWurthElektronik/SIGNAL-COMMUNICATIONS-rev18a/SignalCommunications.pretty/SignalCommunications-WE-VD_5MM-1.8.kicad_mod
     owner_name: electroniccats
   oomp_key: oomp_electroniccats_signalcommunications_signalcommunications_we_vd_5mm_1_8
+  oomp_key_full: oomp_footprint_electroniccats_signalcommunications_signalcommunications_we_vd_5mm_1_8
   oomp_key_simple: electroniccats_signalcommunications_signalcommunications_we_vd_5mm_1_8
   owner: ElectronicCats
   repo:

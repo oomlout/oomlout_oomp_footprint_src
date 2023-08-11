@@ -20,9 +20,18 @@
   oomp:
     footprint_name: pmodpinheader_1x06_p2_54mm_horizontal
     library_name: connector_pinheader_2_54mm_extra
+    md5: 85db45d7ba0371c8f82824de7f496264
+    md5_10: 85db45d7ba
+    md5_5: 85db4
+    md5_6: 85db45
+    oomp_key: oomp_arturo182_connector_pinheader_2_54mm_extra_pmodpinheader_1x06_p2_54mm_horizontal
+    oomp_key_extra: oomp_footprint_arturo182_connector_pinheader_2_54mm_extra_pmodpinheader_1x06_p2_54mm_horizontal
+    oomp_key_full: oomp_footprint_arturo182_connector_pinheader_2_54mm_extra_pmodpinheader_1x06_p2_54mm_horizontal_85db45
+    oomp_key_simple: arturo182_connector_pinheader_2_54mm_extra_pmodpinheader_1x06_p2_54mm_horizontal
     original_filename: kicad-modules/Connector_PinHeader_2.54mm_Extra.pretty/PMODPinHeader_1x06_P2.54mm_Horizontal.kicad_mod
     owner_name: arturo182
   oomp_key: oomp_arturo182_connector_pinheader_2_54mm_extra_pmodpinheader_1x06_p2_54mm_horizontal
+  oomp_key_full: oomp_footprint_arturo182_connector_pinheader_2_54mm_extra_pmodpinheader_1x06_p2_54mm_horizontal
   oomp_key_simple: arturo182_connector_pinheader_2_54mm_extra_pmodpinheader_1x06_p2_54mm_horizontal
   owner: arturo182
   repo:

@@ -18,9 +18,18 @@
   oomp:
     footprint_name: lfcsp_48_1ep_7x7mm_p0_5mm_ep4_1x4_1mm
     library_name: package_csp
+    md5: 924c524ae51edad14aa39cf77644b49d
+    md5_10: 924c524ae5
+    md5_5: 924c5
+    md5_6: 924c52
+    oomp_key: oomp_kicad_package_csp_lfcsp_48_1ep_7x7mm_p0_5mm_ep4_1x4_1mm
+    oomp_key_extra: oomp_footprint_kicad_package_csp_lfcsp_48_1ep_7x7mm_p0_5mm_ep4_1x4_1mm
+    oomp_key_full: oomp_footprint_kicad_package_csp_lfcsp_48_1ep_7x7mm_p0_5mm_ep4_1x4_1mm_924c52
+    oomp_key_simple: kicad_package_csp_lfcsp_48_1ep_7x7mm_p0_5mm_ep4_1x4_1mm
     original_filename: libraries/kicad-footprints/Package_CSP.pretty/LFCSP-48-1EP_7x7mm_P0.5mm_EP4.1x4.1mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_csp_lfcsp_48_1ep_7x7mm_p0_5mm_ep4_1x4_1mm
+  oomp_key_full: oomp_footprint_kicad_package_csp_lfcsp_48_1ep_7x7mm_p0_5mm_ep4_1x4_1mm
   oomp_key_simple: kicad_package_csp_lfcsp_48_1ep_7x7mm_p0_5mm_ep4_1x4_1mm
   owner: kicad
   repo:

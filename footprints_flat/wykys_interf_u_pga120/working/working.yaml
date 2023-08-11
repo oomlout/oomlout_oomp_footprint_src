@@ -17,9 +17,18 @@
   oomp:
     footprint_name: pga120
     library_name: interf_u
+    md5: bed14553f39769250e3fdeb405396f45
+    md5_10: bed14553f3
+    md5_5: bed14
+    md5_6: bed145
+    oomp_key: oomp_wykys_interf_u_pga120
+    oomp_key_extra: oomp_footprint_wykys_interf_u_pga120
+    oomp_key_full: oomp_footprint_wykys_interf_u_pga120_bed145
+    oomp_key_simple: wykys_interf_u_pga120
     original_filename: kicad/demos/interf_u/interf_u.pretty/PGA120.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_interf_u_pga120
+  oomp_key_full: oomp_footprint_wykys_interf_u_pga120
   oomp_key_simple: wykys_interf_u_pga120
   owner: wykys
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sot_1333_1
     library_name: package_to_sot_smd
+    md5: eb6293f1d0520a2a170afc6335ae28fd
+    md5_10: eb6293f1d0
+    md5_5: eb629
+    md5_6: eb6293
+    oomp_key: oomp_kicad_package_to_sot_smd_sot_1333_1
+    oomp_key_extra: oomp_footprint_kicad_package_to_sot_smd_sot_1333_1
+    oomp_key_full: oomp_footprint_kicad_package_to_sot_smd_sot_1333_1_eb6293
+    oomp_key_simple: kicad_package_to_sot_smd_sot_1333_1
     original_filename: libraries/kicad-footprints/Package_TO_SOT_SMD.pretty/SOT-1333-1.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_to_sot_smd_sot_1333_1
+  oomp_key_full: oomp_footprint_kicad_package_to_sot_smd_sot_1333_1
   oomp_key_simple: kicad_package_to_sot_smd_sot_1333_1
   owner: kicad
   repo:

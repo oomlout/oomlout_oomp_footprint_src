@@ -17,9 +17,18 @@
   oomp:
     footprint_name: so16_4mm
     library_name: freetronics_footprints
+    md5: 582add260d2eb82981eee6a11315497f
+    md5_10: 582add260d
+    md5_5: 582ad
+    md5_6: 582add
+    oomp_key: oomp_wykys_freetronics_footprints_so16_4mm
+    oomp_key_extra: oomp_footprint_wykys_freetronics_footprints_so16_4mm
+    oomp_key_full: oomp_footprint_wykys_freetronics_footprints_so16_4mm_582add
+    oomp_key_simple: wykys_freetronics_footprints_so16_4mm
     original_filename: kicad/mods/freetronics_footprints.pretty/SO16_4mm.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_freetronics_footprints_so16_4mm
+  oomp_key_full: oomp_footprint_wykys_freetronics_footprints_so16_4mm
   oomp_key_simple: wykys_freetronics_footprints_so16_4mm
   owner: wykys
   repo:

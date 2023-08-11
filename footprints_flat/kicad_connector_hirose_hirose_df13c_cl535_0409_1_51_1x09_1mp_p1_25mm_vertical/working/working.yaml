@@ -18,9 +18,18 @@
   oomp:
     footprint_name: hirose_df13c_cl535_0409_1_51_1x09_1mp_p1_25mm_vertical
     library_name: connector_hirose
+    md5: 99ed1f9c94fd8aab022701caf4a76333
+    md5_10: 99ed1f9c94
+    md5_5: 99ed1
+    md5_6: 99ed1f
+    oomp_key: oomp_kicad_connector_hirose_hirose_df13c_cl535_0409_1_51_1x09_1mp_p1_25mm_vertical
+    oomp_key_extra: oomp_footprint_kicad_connector_hirose_hirose_df13c_cl535_0409_1_51_1x09_1mp_p1_25mm_vertical
+    oomp_key_full: oomp_footprint_kicad_connector_hirose_hirose_df13c_cl535_0409_1_51_1x09_1mp_p1_25mm_vertical_99ed1f
+    oomp_key_simple: kicad_connector_hirose_hirose_df13c_cl535_0409_1_51_1x09_1mp_p1_25mm_vertical
     original_filename: libraries/kicad-footprints/Connector_Hirose.pretty/Hirose_DF13C_CL535-0409-1-51_1x09-1MP_P1.25mm_Vertical.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_hirose_hirose_df13c_cl535_0409_1_51_1x09_1mp_p1_25mm_vertical
+  oomp_key_full: oomp_footprint_kicad_connector_hirose_hirose_df13c_cl535_0409_1_51_1x09_1mp_p1_25mm_vertical
   oomp_key_simple: kicad_connector_hirose_hirose_df13c_cl535_0409_1_51_1x09_1mp_p1_25mm_vertical
   owner: kicad
   repo:

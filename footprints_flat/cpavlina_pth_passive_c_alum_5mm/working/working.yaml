@@ -17,9 +17,18 @@
   oomp:
     footprint_name: c_alum_5mm
     library_name: pth_passive
+    md5: 6f4f2fc39c63a3aa105831b99c02b2f7
+    md5_10: 6f4f2fc39c
+    md5_5: 6f4f2
+    md5_6: 6f4f2f
+    oomp_key: oomp_cpavlina_pth_passive_c_alum_5mm
+    oomp_key_extra: oomp_footprint_cpavlina_pth_passive_c_alum_5mm
+    oomp_key_full: oomp_footprint_cpavlina_pth_passive_c_alum_5mm_6f4f2f
+    oomp_key_simple: cpavlina_pth_passive_c_alum_5mm
     original_filename: kicad-pcblib/pth-passive.pretty/C-ALUM-5mm.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_pth_passive_c_alum_5mm
+  oomp_key_full: oomp_footprint_cpavlina_pth_passive_c_alum_5mm
   oomp_key_simple: cpavlina_pth_passive_c_alum_5mm
   owner: cpavlina
   repo:

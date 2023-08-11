@@ -18,9 +18,18 @@
   oomp:
     footprint_name: rescav80p160x640x70_16
     library_name: ipc7351_nominal
+    md5: db42ce130bb37b24265d2a206a99ee4e
+    md5_10: db42ce130b
+    md5_5: db42c
+    md5_6: db42ce
+    oomp_key: oomp_cpavlina_ipc7351_nominal_rescav80p160x640x70_16
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_nominal_rescav80p160x640x70_16
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_rescav80p160x640x70_16_db42ce
+    oomp_key_simple: cpavlina_ipc7351_nominal_rescav80p160x640x70_16
     original_filename: kicad-pcblib/IPC7351-Nominal.pretty/RESCAV80P160X640X70-16.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_nominal_rescav80p160x640x70_16
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_rescav80p160x640x70_16
   oomp_key_simple: cpavlina_ipc7351_nominal_rescav80p160x640x70_16
   owner: cpavlina
   repo:

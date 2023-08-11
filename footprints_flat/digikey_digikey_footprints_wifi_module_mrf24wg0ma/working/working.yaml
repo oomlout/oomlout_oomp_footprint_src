@@ -17,9 +17,18 @@
   oomp:
     footprint_name: wifi_module_mrf24wg0ma
     library_name: digikey_footprints
+    md5: b1f7192a398f6b03ae598e14cb6fe914
+    md5_10: b1f7192a39
+    md5_5: b1f71
+    md5_6: b1f719
+    oomp_key: oomp_digikey_digikey_footprints_wifi_module_mrf24wg0ma
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_wifi_module_mrf24wg0ma
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_wifi_module_mrf24wg0ma_b1f719
+    oomp_key_simple: digikey_digikey_footprints_wifi_module_mrf24wg0ma
     original_filename: digikey-kicad-library/digikey-footprints.pretty/WiFi_Module_MRF24WG0MA.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_wifi_module_mrf24wg0ma
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_wifi_module_mrf24wg0ma
   oomp_key_simple: digikey_digikey_footprints_wifi_module_mrf24wg0ma
   owner: digikey
   repo:

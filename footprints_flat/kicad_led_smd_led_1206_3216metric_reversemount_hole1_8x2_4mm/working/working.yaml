@@ -19,9 +19,18 @@
   oomp:
     footprint_name: led_1206_3216metric_reversemount_hole1_8x2_4mm
     library_name: led_smd
+    md5: e54d9abd79e5a6e973a02a45b2f5ba9c
+    md5_10: e54d9abd79
+    md5_5: e54d9
+    md5_6: e54d9a
+    oomp_key: oomp_kicad_led_smd_led_1206_3216metric_reversemount_hole1_8x2_4mm
+    oomp_key_extra: oomp_footprint_kicad_led_smd_led_1206_3216metric_reversemount_hole1_8x2_4mm
+    oomp_key_full: oomp_footprint_kicad_led_smd_led_1206_3216metric_reversemount_hole1_8x2_4mm_e54d9a
+    oomp_key_simple: kicad_led_smd_led_1206_3216metric_reversemount_hole1_8x2_4mm
     original_filename: libraries/kicad-footprints/LED_SMD.pretty/LED_1206_3216Metric_ReverseMount_Hole1.8x2.4mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_led_smd_led_1206_3216metric_reversemount_hole1_8x2_4mm
+  oomp_key_full: oomp_footprint_kicad_led_smd_led_1206_3216metric_reversemount_hole1_8x2_4mm
   oomp_key_simple: kicad_led_smd_led_1206_3216metric_reversemount_hole1_8x2_4mm
   owner: kicad
   repo:

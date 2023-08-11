@@ -17,9 +17,18 @@
   oomp:
     footprint_name: testpoint_pad_d4_0mm
     library_name: testpoint
+    md5: f99ae870e77beda63d87a65d4abeb9d5
+    md5_10: f99ae870e7
+    md5_5: f99ae
+    md5_6: f99ae8
+    oomp_key: oomp_kicad_testpoint_testpoint_pad_d4_0mm
+    oomp_key_extra: oomp_footprint_kicad_testpoint_testpoint_pad_d4_0mm
+    oomp_key_full: oomp_footprint_kicad_testpoint_testpoint_pad_d4_0mm_f99ae8
+    oomp_key_simple: kicad_testpoint_testpoint_pad_d4_0mm
     original_filename: libraries/kicad-footprints/TestPoint.pretty/TestPoint_Pad_D4.0mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_testpoint_testpoint_pad_d4_0mm
+  oomp_key_full: oomp_footprint_kicad_testpoint_testpoint_pad_d4_0mm
   oomp_key_simple: kicad_testpoint_testpoint_pad_d4_0mm
   owner: kicad
   repo:

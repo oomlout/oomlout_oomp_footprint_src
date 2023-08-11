@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sw_alps_matias_isoenter
     library_name: switch_keyboard_alps_matias
+    md5: 13ddd51ad562011d8dc64777b13f9602
+    md5_10: 13ddd51ad5
+    md5_5: 13ddd
+    md5_6: 13ddd5
+    oomp_key: oomp_wykys_switch_keyboard_alps_matias_sw_alps_matias_isoenter
+    oomp_key_extra: oomp_footprint_wykys_switch_keyboard_alps_matias_sw_alps_matias_isoenter
+    oomp_key_full: oomp_footprint_wykys_switch_keyboard_alps_matias_sw_alps_matias_isoenter_13ddd5
+    oomp_key_simple: wykys_switch_keyboard_alps_matias_sw_alps_matias_isoenter
     original_filename: kicad/6.0/3rdparty/footprints/com_github_perigoso_keyswitch-kicad-library/Switch_Keyboard_Alps_Matias.pretty/SW_Alps_Matias_ISOEnter.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_switch_keyboard_alps_matias_sw_alps_matias_isoenter
+  oomp_key_full: oomp_footprint_wykys_switch_keyboard_alps_matias_sw_alps_matias_isoenter
   oomp_key_simple: wykys_switch_keyboard_alps_matias_sw_alps_matias_isoenter
   owner: wykys
   repo:

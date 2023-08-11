@@ -17,9 +17,18 @@
   oomp:
     footprint_name: b32921
     library_name: agg
+    md5: bd5b7ce497323bf3e7164f0d12de883e
+    md5_10: bd5b7ce497
+    md5_5: bd5b7
+    md5_6: bd5b7c
+    oomp_key: oomp_adamgreig_agg_b32921
+    oomp_key_extra: oomp_footprint_adamgreig_agg_b32921
+    oomp_key_full: oomp_footprint_adamgreig_agg_b32921_bd5b7c
+    oomp_key_simple: adamgreig_agg_b32921
     original_filename: agg-kicad/agg.pretty/B32921.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_b32921
+  oomp_key_full: oomp_footprint_adamgreig_agg_b32921
   oomp_key_simple: adamgreig_agg_b32921
   owner: adamgreig
   repo:

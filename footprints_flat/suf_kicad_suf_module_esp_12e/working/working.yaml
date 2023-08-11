@@ -17,9 +17,18 @@
   oomp:
     footprint_name: esp_12e
     library_name: suf_module
+    md5: e9cd369fc26b3cabae0073c2fa2e9464
+    md5_10: e9cd369fc2
+    md5_5: e9cd3
+    md5_6: e9cd36
+    oomp_key: oomp_suf_kicad_suf_module_esp_12e
+    oomp_key_extra: oomp_footprint_suf_kicad_suf_module_esp_12e
+    oomp_key_full: oomp_footprint_suf_kicad_suf_module_esp_12e_e9cd36
+    oomp_key_simple: suf_kicad_suf_module_esp_12e
     original_filename: suf_module.pretty/ESP-12E.kicad_mod
     owner_name: suf_kicad
   oomp_key: oomp_suf_kicad_suf_module_esp_12e
+  oomp_key_full: oomp_footprint_suf_kicad_suf_module_esp_12e
   oomp_key_simple: suf_kicad_suf_module_esp_12e
   owner: suf-KiCAD
   repo:

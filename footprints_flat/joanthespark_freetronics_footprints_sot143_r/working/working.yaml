@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sot143_r
     library_name: freetronics_footprints
+    md5: 7565d24876fa56761f10b4bfc5167c72
+    md5_10: 7565d24876
+    md5_5: 7565d
+    md5_6: 7565d2
+    oomp_key: oomp_joanthespark_freetronics_footprints_sot143_r
+    oomp_key_extra: oomp_footprint_joanthespark_freetronics_footprints_sot143_r
+    oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_sot143_r_7565d2
+    oomp_key_simple: joanthespark_freetronics_footprints_sot143_r
     original_filename: KiCAD/mods/freetronics_footprints.pretty/SOT143-R.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_freetronics_footprints_sot143_r
+  oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_sot143_r
   oomp_key_simple: joanthespark_freetronics_footprints_sot143_r
   owner: JoanTheSpark
   repo:

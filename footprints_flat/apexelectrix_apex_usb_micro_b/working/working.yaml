@@ -17,9 +17,18 @@
   oomp:
     footprint_name: usb_micro_b
     library_name: apex
+    md5: 3b777618df59fdcc89b344fa7d1ef63c
+    md5_10: 3b777618df
+    md5_5: 3b777
+    md5_6: 3b7776
+    oomp_key: oomp_apexelectrix_apex_usb_micro_b
+    oomp_key_extra: oomp_footprint_apexelectrix_apex_usb_micro_b
+    oomp_key_full: oomp_footprint_apexelectrix_apex_usb_micro_b_3b7776
+    oomp_key_simple: apexelectrix_apex_usb_micro_b
     original_filename: Apex.pretty/USB-Micro-B.kicad_mod
     owner_name: apexelectrix
   oomp_key: oomp_apexelectrix_apex_usb_micro_b
+  oomp_key_full: oomp_footprint_apexelectrix_apex_usb_micro_b
   oomp_key_simple: apexelectrix_apex_usb_micro_b
   owner: apexelectrix
   repo:

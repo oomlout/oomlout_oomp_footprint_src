@@ -21,9 +21,18 @@
   oomp:
     footprint_name: phoenixcontact_mcv_1,5_8_gf_3_5_1x08_p3_50mm_vertical_threadedflange_mounthole
     library_name: connector_phoenix_mc
+    md5: 330d4310a1b10d41c4ace23da2458aa0
+    md5_10: 330d4310a1
+    md5_5: 330d4
+    md5_6: 330d43
+    oomp_key: oomp_kicad_connector_phoenix_mc_phoenixcontact_mcv_1,5_8_gf_3_5_1x08_p3_50mm_vertical_threadedflange_mounthole
+    oomp_key_extra: oomp_footprint_kicad_connector_phoenix_mc_phoenixcontact_mcv_1,5_8_gf_3_5_1x08_p3_50mm_vertical_threadedflange_mounthole
+    oomp_key_full: oomp_footprint_kicad_connector_phoenix_mc_phoenixcontact_mcv_1,5_8_gf_3_5_1x08_p3_50mm_vertical_threadedflange_mounthole_330d43
+    oomp_key_simple: kicad_connector_phoenix_mc_phoenixcontact_mcv_1,5_8_gf_3_5_1x08_p3_50mm_vertical_threadedflange_mounthole
     original_filename: libraries/kicad-footprints/Connector_Phoenix_MC.pretty/PhoenixContact_MCV_1,5_8-GF-3.5_1x08_P3.50mm_Vertical_ThreadedFlange_MountHole.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_phoenix_mc_phoenixcontact_mcv_1,5_8_gf_3_5_1x08_p3_50mm_vertical_threadedflange_mounthole
+  oomp_key_full: oomp_footprint_kicad_connector_phoenix_mc_phoenixcontact_mcv_1,5_8_gf_3_5_1x08_p3_50mm_vertical_threadedflange_mounthole
   oomp_key_simple: kicad_connector_phoenix_mc_phoenixcontact_mcv_1,5_8_gf_3_5_1x08_p3_50mm_vertical_threadedflange_mounthole
   owner: kicad
   repo:

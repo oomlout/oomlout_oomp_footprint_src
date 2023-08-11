@@ -17,9 +17,18 @@
   oomp:
     footprint_name: c_0402
     library_name: keebio_parts
+    md5: e6dd9663f80e6865cda5e57b5c5f851c
+    md5_10: e6dd9663f8
+    md5_5: e6dd9
+    md5_6: e6dd96
+    oomp_key: oomp_keebio_keebio_parts_c_0402
+    oomp_key_extra: oomp_footprint_keebio_keebio_parts_c_0402
+    oomp_key_full: oomp_footprint_keebio_keebio_parts_c_0402_e6dd96
+    oomp_key_simple: keebio_keebio_parts_c_0402
     original_filename: Keebio-Parts.pretty/C_0402.kicad_mod
     owner_name: keebio
   oomp_key: oomp_keebio_keebio_parts_c_0402
+  oomp_key_full: oomp_footprint_keebio_keebio_parts_c_0402
   oomp_key_simple: keebio_keebio_parts_c_0402
   owner: keebio
   repo:

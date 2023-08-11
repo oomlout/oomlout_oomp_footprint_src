@@ -17,9 +17,18 @@
   oomp:
     footprint_name: hrs_zx80_b_5p(30)
     library_name: 1w_grove_v0_1
+    md5: f7006d71a21055dfa0c221a07f0a2568
+    md5_10: f7006d71a2
+    md5_5: f7006
+    md5_6: f7006d
+    oomp_key: oomp_wykys_1w_grove_v0_1_hrs_zx80_b_5p(30)
+    oomp_key_extra: oomp_footprint_wykys_1w_grove_v0_1_hrs_zx80_b_5p(30)
+    oomp_key_full: oomp_footprint_wykys_1w_grove_v0_1_hrs_zx80_b_5p(30)_f7006d
+    oomp_key_simple: wykys_1w_grove_v0_1_hrs_zx80_b_5p(30)
     original_filename: kicad/6.0/projects/1w-grove-v0.1/1w-grove-v0.1.pretty/HRS_ZX80-B-5P(30).kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_1w_grove_v0_1_hrs_zx80_b_5p(30)
+  oomp_key_full: oomp_footprint_wykys_1w_grove_v0_1_hrs_zx80_b_5p(30)
   oomp_key_simple: wykys_1w_grove_v0_1_hrs_zx80_b_5p(30)
   owner: wykys
   repo:

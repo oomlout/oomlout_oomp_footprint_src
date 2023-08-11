@@ -17,9 +17,18 @@
   oomp:
     footprint_name: din41612_q_2x32_male_horizontal_tht
     library_name: connector_din
+    md5: ea0b163cf1054c560428ad758d3e8d15
+    md5_10: ea0b163cf1
+    md5_5: ea0b1
+    md5_6: ea0b16
+    oomp_key: oomp_kicad_connector_din_din41612_q_2x32_male_horizontal_tht
+    oomp_key_extra: oomp_footprint_kicad_connector_din_din41612_q_2x32_male_horizontal_tht
+    oomp_key_full: oomp_footprint_kicad_connector_din_din41612_q_2x32_male_horizontal_tht_ea0b16
+    oomp_key_simple: kicad_connector_din_din41612_q_2x32_male_horizontal_tht
     original_filename: libraries/kicad-footprints/Connector_DIN.pretty/DIN41612_Q_2x32_Male_Horizontal_THT.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_din_din41612_q_2x32_male_horizontal_tht
+  oomp_key_full: oomp_footprint_kicad_connector_din_din41612_q_2x32_male_horizontal_tht
   oomp_key_simple: kicad_connector_din_din41612_q_2x32_male_horizontal_tht
   owner: kicad
   repo:

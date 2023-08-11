@@ -17,9 +17,18 @@
   oomp:
     footprint_name: low_profile_choc_mx
     library_name: keebio_parts
+    md5: cf7fb0f0087cbafedda8fb64b2bfde88
+    md5_10: cf7fb0f008
+    md5_5: cf7fb
+    md5_6: cf7fb0
+    oomp_key: oomp_keebio_keebio_parts_low_profile_choc_mx
+    oomp_key_extra: oomp_footprint_keebio_keebio_parts_low_profile_choc_mx
+    oomp_key_full: oomp_footprint_keebio_keebio_parts_low_profile_choc_mx_cf7fb0
+    oomp_key_simple: keebio_keebio_parts_low_profile_choc_mx
     original_filename: Keebio-Parts.pretty/Low-Profile-Choc-MX.kicad_mod
     owner_name: keebio
   oomp_key: oomp_keebio_keebio_parts_low_profile_choc_mx
+  oomp_key_full: oomp_footprint_keebio_keebio_parts_low_profile_choc_mx
   oomp_key_simple: keebio_keebio_parts_low_profile_choc_mx
   owner: keebio
   repo:

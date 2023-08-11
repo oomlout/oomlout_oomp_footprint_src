@@ -17,9 +17,18 @@
   oomp:
     footprint_name: resistor_hybrid
     library_name: keebio_parts
+    md5: cba8109a3ac396cff3ed6e02f6564287
+    md5_10: cba8109a3a
+    md5_5: cba81
+    md5_6: cba810
+    oomp_key: oomp_keebio_keebio_parts_resistor_hybrid
+    oomp_key_extra: oomp_footprint_keebio_keebio_parts_resistor_hybrid
+    oomp_key_full: oomp_footprint_keebio_keebio_parts_resistor_hybrid_cba810
+    oomp_key_simple: keebio_keebio_parts_resistor_hybrid
     original_filename: Keebio-Parts.pretty/Resistor-Hybrid.kicad_mod
     owner_name: keebio
   oomp_key: oomp_keebio_keebio_parts_resistor_hybrid
+  oomp_key_full: oomp_footprint_keebio_keebio_parts_resistor_hybrid
   oomp_key_simple: keebio_keebio_parts_resistor_hybrid
   owner: keebio
   repo:

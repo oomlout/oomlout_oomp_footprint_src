@@ -17,9 +17,18 @@
   oomp:
     footprint_name: supersot_3
     library_name: package_to_sot_smd
+    md5: efc9cd42901ba4826730a6b53a9349e0
+    md5_10: efc9cd4290
+    md5_5: efc9c
+    md5_6: efc9cd
+    oomp_key: oomp_kicad_package_to_sot_smd_supersot_3
+    oomp_key_extra: oomp_footprint_kicad_package_to_sot_smd_supersot_3
+    oomp_key_full: oomp_footprint_kicad_package_to_sot_smd_supersot_3_efc9cd
+    oomp_key_simple: kicad_package_to_sot_smd_supersot_3
     original_filename: libraries/kicad-footprints/Package_TO_SOT_SMD.pretty/SuperSOT-3.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_to_sot_smd_supersot_3
+  oomp_key_full: oomp_footprint_kicad_package_to_sot_smd_supersot_3
   oomp_key_simple: kicad_package_to_sot_smd_supersot_3
   owner: kicad
   repo:

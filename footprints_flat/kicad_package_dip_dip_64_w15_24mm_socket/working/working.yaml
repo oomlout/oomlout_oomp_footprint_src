@@ -18,9 +18,18 @@
   oomp:
     footprint_name: dip_64_w15_24mm_socket
     library_name: package_dip
+    md5: a034ce23c4786a2948e2e566c62dc126
+    md5_10: a034ce23c4
+    md5_5: a034c
+    md5_6: a034ce
+    oomp_key: oomp_kicad_package_dip_dip_64_w15_24mm_socket
+    oomp_key_extra: oomp_footprint_kicad_package_dip_dip_64_w15_24mm_socket
+    oomp_key_full: oomp_footprint_kicad_package_dip_dip_64_w15_24mm_socket_a034ce
+    oomp_key_simple: kicad_package_dip_dip_64_w15_24mm_socket
     original_filename: libraries/kicad-footprints/Package_DIP.pretty/DIP-64_W15.24mm_Socket.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_dip_dip_64_w15_24mm_socket
+  oomp_key_full: oomp_footprint_kicad_package_dip_dip_64_w15_24mm_socket
   oomp_key_simple: kicad_package_dip_dip_64_w15_24mm_socket
   owner: kicad
   repo:

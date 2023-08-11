@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ftdi_ssop_20
     library_name: kicadfootprint
+    md5: d5d7fa6568eabbdf5859618cbf942b0b
+    md5_10: d5d7fa6568
+    md5_5: d5d7f
+    md5_6: d5d7fa
+    oomp_key: oomp_vivitainc_kicadfootprint_ftdi_ssop_20
+    oomp_key_extra: oomp_footprint_vivitainc_kicadfootprint_ftdi_ssop_20
+    oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_ftdi_ssop_20_d5d7fa
+    oomp_key_simple: vivitainc_kicadfootprint_ftdi_ssop_20
     original_filename: KiCADfootprint.pretty/FTDI_SSOP-20.kicad_mod
     owner_name: vivitainc
   oomp_key: oomp_vivitainc_kicadfootprint_ftdi_ssop_20
+  oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_ftdi_ssop_20
   oomp_key_simple: vivitainc_kicadfootprint_ftdi_ssop_20
   owner: vivitainc
   repo:

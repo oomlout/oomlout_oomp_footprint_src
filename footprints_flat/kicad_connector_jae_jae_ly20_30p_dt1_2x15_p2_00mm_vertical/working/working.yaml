@@ -18,9 +18,18 @@
   oomp:
     footprint_name: jae_ly20_30p_dt1_2x15_p2_00mm_vertical
     library_name: connector_jae
+    md5: 35da2402949fd7d7be1dca4f8e4a7bf8
+    md5_10: 35da240294
+    md5_5: 35da2
+    md5_6: 35da24
+    oomp_key: oomp_kicad_connector_jae_jae_ly20_30p_dt1_2x15_p2_00mm_vertical
+    oomp_key_extra: oomp_footprint_kicad_connector_jae_jae_ly20_30p_dt1_2x15_p2_00mm_vertical
+    oomp_key_full: oomp_footprint_kicad_connector_jae_jae_ly20_30p_dt1_2x15_p2_00mm_vertical_35da24
+    oomp_key_simple: kicad_connector_jae_jae_ly20_30p_dt1_2x15_p2_00mm_vertical
     original_filename: libraries/kicad-footprints/Connector_JAE.pretty/JAE_LY20-30P-DT1_2x15_P2.00mm_Vertical.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_jae_jae_ly20_30p_dt1_2x15_p2_00mm_vertical
+  oomp_key_full: oomp_footprint_kicad_connector_jae_jae_ly20_30p_dt1_2x15_p2_00mm_vertical
   oomp_key_simple: kicad_connector_jae_jae_ly20_30p_dt1_2x15_p2_00mm_vertical
   owner: kicad
   repo:

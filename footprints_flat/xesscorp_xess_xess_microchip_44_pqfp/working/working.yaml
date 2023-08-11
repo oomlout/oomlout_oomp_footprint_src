@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_microchip_44_pqfp
     library_name: xess
+    md5: eeb09a150e28e2788a3c64b56c26d9d3
+    md5_10: eeb09a150e
+    md5_5: eeb09
+    md5_6: eeb09a
+    oomp_key: oomp_xesscorp_xess_xess_microchip_44_pqfp
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_microchip_44_pqfp
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_microchip_44_pqfp_eeb09a
+    oomp_key_simple: xesscorp_xess_xess_microchip_44_pqfp
     original_filename: xess.pretty/xess-MICROCHIP-44_PQFP.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_microchip_44_pqfp
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_microchip_44_pqfp
   oomp_key_simple: xesscorp_xess_xess_microchip_44_pqfp
   owner: xesscorp
   repo:

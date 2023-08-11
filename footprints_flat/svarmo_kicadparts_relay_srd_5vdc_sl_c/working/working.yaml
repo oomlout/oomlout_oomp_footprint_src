@@ -17,9 +17,18 @@
   oomp:
     footprint_name: relay_srd_5vdc_sl_c
     library_name: kicadparts
+    md5: 9d01f89807b8f602e38bd011976f49a5
+    md5_10: 9d01f89807
+    md5_5: 9d01f
+    md5_6: 9d01f8
+    oomp_key: oomp_svarmo_kicadparts_relay_srd_5vdc_sl_c
+    oomp_key_extra: oomp_footprint_svarmo_kicadparts_relay_srd_5vdc_sl_c
+    oomp_key_full: oomp_footprint_svarmo_kicadparts_relay_srd_5vdc_sl_c_9d01f8
+    oomp_key_simple: svarmo_kicadparts_relay_srd_5vdc_sl_c
     original_filename: kicadParts.pretty/Relay_srd-5vdc-sl-c.kicad_mod
     owner_name: svarmo
   oomp_key: oomp_svarmo_kicadparts_relay_srd_5vdc_sl_c
+  oomp_key_full: oomp_footprint_svarmo_kicadparts_relay_srd_5vdc_sl_c
   oomp_key_simple: svarmo_kicadparts_relay_srd_5vdc_sl_c
   owner: svarmo
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: pot_trim_pth
     library_name: freetronics_footprints
+    md5: 5c04a932da9fb110286b54761673c539
+    md5_10: 5c04a932da
+    md5_5: 5c04a
+    md5_6: 5c04a9
+    oomp_key: oomp_axello_freetronics_footprints_pot_trim_pth
+    oomp_key_extra: oomp_footprint_axello_freetronics_footprints_pot_trim_pth
+    oomp_key_full: oomp_footprint_axello_freetronics_footprints_pot_trim_pth_5c04a9
+    oomp_key_simple: axello_freetronics_footprints_pot_trim_pth
     original_filename: kicad/mods/freetronics_footprints.pretty/POT_TRIM_PTH.kicad_mod
     owner_name: axello
   oomp_key: oomp_axello_freetronics_footprints_pot_trim_pth
+  oomp_key_full: oomp_footprint_axello_freetronics_footprints_pot_trim_pth
   oomp_key_simple: axello_freetronics_footprints_pot_trim_pth
   owner: axello
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sip_8_dcdc
     library_name: agg
+    md5: c51034d840d57e4977371681cfe4e5c2
+    md5_10: c51034d840
+    md5_5: c5103
+    md5_6: c51034
+    oomp_key: oomp_adamgreig_agg_sip_8_dcdc
+    oomp_key_extra: oomp_footprint_adamgreig_agg_sip_8_dcdc
+    oomp_key_full: oomp_footprint_adamgreig_agg_sip_8_dcdc_c51034
+    oomp_key_simple: adamgreig_agg_sip_8_dcdc
     original_filename: agg-kicad/agg.pretty/SIP-8-DCDC.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_sip_8_dcdc
+  oomp_key_full: oomp_footprint_adamgreig_agg_sip_8_dcdc
   oomp_key_simple: adamgreig_agg_sip_8_dcdc
   owner: adamgreig
   repo:

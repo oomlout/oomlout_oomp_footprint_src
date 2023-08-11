@@ -17,9 +17,18 @@
   oomp:
     footprint_name: te2007088_1_backplane
     library_name: usst_footprints
+    md5: 29c9562cd3ad4b5f36ae8eca3c0a6974
+    md5_10: 29c9562cd3
+    md5_5: 29c95
+    md5_6: 29c956
+    oomp_key: oomp_uofsspacedesignteam_usst_footprints_te2007088_1_backplane
+    oomp_key_extra: oomp_footprint_uofsspacedesignteam_usst_footprints_te2007088_1_backplane
+    oomp_key_full: oomp_footprint_uofsspacedesignteam_usst_footprints_te2007088_1_backplane_29c956
+    oomp_key_simple: uofsspacedesignteam_usst_footprints_te2007088_1_backplane
     original_filename: USST-footprints.pretty/TE2007088-1_Backplane.kicad_mod
     owner_name: uofsspacedesignteam
   oomp_key: oomp_uofsspacedesignteam_usst_footprints_te2007088_1_backplane
+  oomp_key_full: oomp_footprint_uofsspacedesignteam_usst_footprints_te2007088_1_backplane
   oomp_key_simple: uofsspacedesignteam_usst_footprints_te2007088_1_backplane
   owner: UofSSpaceDesignTeam
   repo:

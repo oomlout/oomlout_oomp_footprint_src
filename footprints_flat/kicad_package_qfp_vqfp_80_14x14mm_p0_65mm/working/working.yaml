@@ -18,9 +18,18 @@
   oomp:
     footprint_name: vqfp_80_14x14mm_p0_65mm
     library_name: package_qfp
+    md5: cd7768aa68935e9415a3716b7f69633f
+    md5_10: cd7768aa68
+    md5_5: cd776
+    md5_6: cd7768
+    oomp_key: oomp_kicad_package_qfp_vqfp_80_14x14mm_p0_65mm
+    oomp_key_extra: oomp_footprint_kicad_package_qfp_vqfp_80_14x14mm_p0_65mm
+    oomp_key_full: oomp_footprint_kicad_package_qfp_vqfp_80_14x14mm_p0_65mm_cd7768
+    oomp_key_simple: kicad_package_qfp_vqfp_80_14x14mm_p0_65mm
     original_filename: libraries/kicad-footprints/Package_QFP.pretty/VQFP-80_14x14mm_P0.65mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_qfp_vqfp_80_14x14mm_p0_65mm
+  oomp_key_full: oomp_footprint_kicad_package_qfp_vqfp_80_14x14mm_p0_65mm
   oomp_key_simple: kicad_package_qfp_vqfp_80_14x14mm_p0_65mm
   owner: kicad
   repo:

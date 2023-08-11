@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ind_sru1038
     library_name: freetronics_footprints
+    md5: c7c3203a852765d81cbdf613da15425f
+    md5_10: c7c3203a85
+    md5_5: c7c32
+    md5_6: c7c320
+    oomp_key: oomp_wykys_freetronics_footprints_ind_sru1038
+    oomp_key_extra: oomp_footprint_wykys_freetronics_footprints_ind_sru1038
+    oomp_key_full: oomp_footprint_wykys_freetronics_footprints_ind_sru1038_c7c320
+    oomp_key_simple: wykys_freetronics_footprints_ind_sru1038
     original_filename: kicad/mods/freetronics_footprints.pretty/IND_SRU1038.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_freetronics_footprints_ind_sru1038
+  oomp_key_full: oomp_footprint_wykys_freetronics_footprints_ind_sru1038
   oomp_key_simple: wykys_freetronics_footprints_ind_sru1038
   owner: wykys
   repo:

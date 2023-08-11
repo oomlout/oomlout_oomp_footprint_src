@@ -7,10 +7,8 @@
   footprint_library_directory_flat: footprints_flat/fatenozomi_fate_parts_sw_cherry_mx_1_50u_pcb/working
   github_path: http://github.com/FateNozomi/Fate_Parts.pretty/blob/master/MX_Switch.pretty/SW_Cherry_MX_1.50u_PCB.kicad_mod
   links:
-    github_owner: FateNozomi
-    github_repo_name: Fate_Parts
-    github_src: http://github.com/FateNozomi/Fate_Parts.pretty/blob/master/USB_Type-C.pretty/USB_C_Receptacle_HRO_TYPE-C-31-M-12.kicad_mod
-    github_src_repo: https://github.com/FateNozomi/Fate_Parts
+    github_src: http://gitlab.com/FateNozomi/Fate_Parts.pretty/blob/master/USB_Type-C.pretty/USB_C_Receptacle_HRO_TYPE-C-31-M-12.kicad_mod
+    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/fatenozomi_fate_parts_sw_cherry_mx_1_50u_pcb/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/fatenozomi_fate_parts_sw_cherry_mx_1_50u_pcb/working
     oomp_src_flat: footprints_flat/footprints_flat/fatenozomi_fate_parts_sw_cherry_mx_1_50u_pcb/working
@@ -18,111 +16,24 @@
   name: Fate_Parts.pretty
   oomp:
     footprint_name: sw_cherry_mx_1_50u_pcb
-    library_name: mx_switch
+    library_name: fate_parts
+    md5: eab49c59acac13a33d111043513bdd20
+    md5_10: eab49c59ac
+    md5_5: eab49
+    md5_6: eab49c
+    oomp_key: oomp_fatenozomi_fate_parts_sw_cherry_mx_1_50u_pcb
+    oomp_key_extra: oomp_footprint_fatenozomi_fate_parts_sw_cherry_mx_1_50u_pcb
+    oomp_key_full: oomp_footprint_fatenozomi_fate_parts_sw_cherry_mx_1_50u_pcb_eab49c
+    oomp_key_simple: fatenozomi_fate_parts_sw_cherry_mx_1_50u_pcb
     original_filename: Fate_Parts.pretty/MX_Switch.pretty/SW_Cherry_MX_1.50u_PCB.kicad_mod
     owner_name: fatenozomi
   oomp_key: oomp_fatenozomi_fate_parts_sw_cherry_mx_1_50u_pcb
+  oomp_key_full: oomp_footprint_fatenozomi_fate_parts_sw_cherry_mx_1_50u_pcb
   oomp_key_simple: fatenozomi_fate_parts_sw_cherry_mx_1_50u_pcb
   owner: FateNozomi
   repo:
-    allow_forking: true
-    archive_url: https://api.github.com/repos/FateNozomi/Fate_Parts/{archive_format}{/ref}
-    archived: false
-    assignees_url: https://api.github.com/repos/FateNozomi/Fate_Parts/assignees{/user}
-    blobs_url: https://api.github.com/repos/FateNozomi/Fate_Parts/git/blobs{/sha}
-    branches_url: https://api.github.com/repos/FateNozomi/Fate_Parts/branches{/branch}
-    clone_url: https://github.com/FateNozomi/Fate_Parts.git
-    collaborators_url: https://api.github.com/repos/FateNozomi/Fate_Parts/collaborators{/collaborator}
-    comments_url: https://api.github.com/repos/FateNozomi/Fate_Parts/comments{/number}
-    commits_url: https://api.github.com/repos/FateNozomi/Fate_Parts/commits{/sha}
-    compare_url: https://api.github.com/repos/FateNozomi/Fate_Parts/compare/{base}...{head}
-    contents_url: https://api.github.com/repos/FateNozomi/Fate_Parts/contents/{+path}
-    contributors_url: https://api.github.com/repos/FateNozomi/Fate_Parts/contributors
-    created_at: '2018-10-22T09:12:53Z'
-    default_branch: master
-    deployments_url: https://api.github.com/repos/FateNozomi/Fate_Parts/deployments
-    description: KiCAD footprints for mechanical keyboard parts
-    disabled: false
-    downloads_url: https://api.github.com/repos/FateNozomi/Fate_Parts/downloads
-    events_url: https://api.github.com/repos/FateNozomi/Fate_Parts/events
-    fork: false
-    forks: 2
-    forks_count: 2
-    forks_url: https://api.github.com/repos/FateNozomi/Fate_Parts/forks
-    full_name: FateNozomi/Fate_Parts
-    git_commits_url: https://api.github.com/repos/FateNozomi/Fate_Parts/git/commits{/sha}
-    git_refs_url: https://api.github.com/repos/FateNozomi/Fate_Parts/git/refs{/sha}
-    git_tags_url: https://api.github.com/repos/FateNozomi/Fate_Parts/git/tags{/sha}
-    git_url: git://github.com/FateNozomi/Fate_Parts.git
-    has_discussions: false
-    has_downloads: true
-    has_issues: true
-    has_pages: false
-    has_projects: true
-    has_wiki: true
-    homepage: null
-    hooks_url: https://api.github.com/repos/FateNozomi/Fate_Parts/hooks
-    html_url: https://github.com/FateNozomi/Fate_Parts
-    id: 154115922
-    is_template: false
-    issue_comment_url: https://api.github.com/repos/FateNozomi/Fate_Parts/issues/comments{/number}
-    issue_events_url: https://api.github.com/repos/FateNozomi/Fate_Parts/issues/events{/number}
-    issues_url: https://api.github.com/repos/FateNozomi/Fate_Parts/issues{/number}
-    keys_url: https://api.github.com/repos/FateNozomi/Fate_Parts/keys{/key_id}
-    labels_url: https://api.github.com/repos/FateNozomi/Fate_Parts/labels{/name}
-    language: null
-    languages_url: https://api.github.com/repos/FateNozomi/Fate_Parts/languages
-    license: null
-    merges_url: https://api.github.com/repos/FateNozomi/Fate_Parts/merges
-    milestones_url: https://api.github.com/repos/FateNozomi/Fate_Parts/milestones{/number}
-    mirror_url: null
-    name: Fate_Parts
-    network_count: 2
-    node_id: MDEwOlJlcG9zaXRvcnkxNTQxMTU5MjI=
-    notifications_url: https://api.github.com/repos/FateNozomi/Fate_Parts/notifications{?since,all,participating}
-    open_issues: 0
-    open_issues_count: 0
-    owner:
-      avatar_url: https://avatars.githubusercontent.com/u/6317676?v=4
-      events_url: https://api.github.com/users/FateNozomi/events{/privacy}
-      followers_url: https://api.github.com/users/FateNozomi/followers
-      following_url: https://api.github.com/users/FateNozomi/following{/other_user}
-      gists_url: https://api.github.com/users/FateNozomi/gists{/gist_id}
-      gravatar_id: ''
-      html_url: https://github.com/FateNozomi
-      id: 6317676
-      login: FateNozomi
-      node_id: MDQ6VXNlcjYzMTc2NzY=
-      organizations_url: https://api.github.com/users/FateNozomi/orgs
-      received_events_url: https://api.github.com/users/FateNozomi/received_events
-      repos_url: https://api.github.com/users/FateNozomi/repos
-      site_admin: false
-      starred_url: https://api.github.com/users/FateNozomi/starred{/owner}{/repo}
-      subscriptions_url: https://api.github.com/users/FateNozomi/subscriptions
-      type: User
-      url: https://api.github.com/users/FateNozomi
-    private: false
-    pulls_url: https://api.github.com/repos/FateNozomi/Fate_Parts/pulls{/number}
-    pushed_at: '2019-11-03T13:06:48Z'
-    releases_url: https://api.github.com/repos/FateNozomi/Fate_Parts/releases{/id}
-    size: 92
-    ssh_url: git@github.com:FateNozomi/Fate_Parts.git
-    stargazers_count: 0
-    stargazers_url: https://api.github.com/repos/FateNozomi/Fate_Parts/stargazers
-    statuses_url: https://api.github.com/repos/FateNozomi/Fate_Parts/statuses/{sha}
-    subscribers_count: 2
-    subscribers_url: https://api.github.com/repos/FateNozomi/Fate_Parts/subscribers
-    subscription_url: https://api.github.com/repos/FateNozomi/Fate_Parts/subscription
-    svn_url: https://github.com/FateNozomi/Fate_Parts
-    tags_url: https://api.github.com/repos/FateNozomi/Fate_Parts/tags
-    teams_url: https://api.github.com/repos/FateNozomi/Fate_Parts/teams
-    temp_clone_token: null
-    topics: []
-    trees_url: https://api.github.com/repos/FateNozomi/Fate_Parts/git/trees{/sha}
-    updated_at: '2019-11-03T13:06:50Z'
-    url: https://api.github.com/repos/FateNozomi/Fate_Parts
-    visibility: public
-    watchers: 0
-    watchers_count: 0
-    web_commit_signoff_required: false
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: http://github.com/FateNozomi/Fate_Parts.pretty

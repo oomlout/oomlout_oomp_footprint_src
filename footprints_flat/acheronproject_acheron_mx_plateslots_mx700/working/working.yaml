@@ -17,9 +17,18 @@
   oomp:
     footprint_name: mx700
     library_name: acheron_mx_plateslots
+    md5: 55b65dc235599a862845510251a02fd6
+    md5_10: 55b65dc235
+    md5_5: 55b65
+    md5_6: 55b65d
+    oomp_key: oomp_acheronproject_acheron_mx_plateslots_mx700
+    oomp_key_extra: oomp_footprint_acheronproject_acheron_mx_plateslots_mx700
+    oomp_key_full: oomp_footprint_acheronproject_acheron_mx_plateslots_mx700_55b65d
+    oomp_key_simple: acheronproject_acheron_mx_plateslots_mx700
     original_filename: acheron_MX_PlateSlots.pretty/MX700.kicad_mod
     owner_name: acheronproject
   oomp_key: oomp_acheronproject_acheron_mx_plateslots_mx700
+  oomp_key_full: oomp_footprint_acheronproject_acheron_mx_plateslots_mx700
   oomp_key_simple: acheronproject_acheron_mx_plateslots_mx700
   owner: AcheronProject
   repo:

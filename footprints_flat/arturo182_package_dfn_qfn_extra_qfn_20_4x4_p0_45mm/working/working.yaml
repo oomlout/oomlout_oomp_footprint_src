@@ -19,9 +19,18 @@
   oomp:
     footprint_name: qfn_20_4x4_p0_45mm
     library_name: package_dfn_qfn_extra
+    md5: 13f01752234847cb50adafcb472b2f92
+    md5_10: 13f0175223
+    md5_5: 13f01
+    md5_6: 13f017
+    oomp_key: oomp_arturo182_package_dfn_qfn_extra_qfn_20_4x4_p0_45mm
+    oomp_key_extra: oomp_footprint_arturo182_package_dfn_qfn_extra_qfn_20_4x4_p0_45mm
+    oomp_key_full: oomp_footprint_arturo182_package_dfn_qfn_extra_qfn_20_4x4_p0_45mm_13f017
+    oomp_key_simple: arturo182_package_dfn_qfn_extra_qfn_20_4x4_p0_45mm
     original_filename: kicad-modules/Package_DFN_QFN_Extra.pretty/QFN-20_4x4_P0.45mm.kicad_mod
     owner_name: arturo182
   oomp_key: oomp_arturo182_package_dfn_qfn_extra_qfn_20_4x4_p0_45mm
+  oomp_key_full: oomp_footprint_arturo182_package_dfn_qfn_extra_qfn_20_4x4_p0_45mm
   oomp_key_simple: arturo182_package_dfn_qfn_extra_qfn_20_4x4_p0_45mm
   owner: arturo182
   repo:

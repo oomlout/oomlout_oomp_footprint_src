@@ -19,9 +19,18 @@
   oomp:
     footprint_name: murata_cstce
     library_name: manuf
+    md5: e80c433e532a7d3f7e99f3af42d99d1a
+    md5_10: e80c433e53
+    md5_5: e80c4
+    md5_6: e80c43
+    oomp_key: oomp_iangitpers_manuf_murata_cstce
+    oomp_key_extra: oomp_footprint_iangitpers_manuf_murata_cstce
+    oomp_key_full: oomp_footprint_iangitpers_manuf_murata_cstce_e80c43
+    oomp_key_simple: iangitpers_manuf_murata_cstce
     original_filename: 4a/manuf.pretty/MURATA_CSTCE.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_manuf_murata_cstce
+  oomp_key_full: oomp_footprint_iangitpers_manuf_murata_cstce
   oomp_key_simple: iangitpers_manuf_murata_cstce
   owner: Iangitpers
   repo:

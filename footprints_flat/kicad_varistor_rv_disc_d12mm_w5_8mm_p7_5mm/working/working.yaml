@@ -17,9 +17,18 @@
   oomp:
     footprint_name: rv_disc_d12mm_w5_8mm_p7_5mm
     library_name: varistor
+    md5: 349a227647de0d47731b68ebea9bbd1a
+    md5_10: 349a227647
+    md5_5: 349a2
+    md5_6: 349a22
+    oomp_key: oomp_kicad_varistor_rv_disc_d12mm_w5_8mm_p7_5mm
+    oomp_key_extra: oomp_footprint_kicad_varistor_rv_disc_d12mm_w5_8mm_p7_5mm
+    oomp_key_full: oomp_footprint_kicad_varistor_rv_disc_d12mm_w5_8mm_p7_5mm_349a22
+    oomp_key_simple: kicad_varistor_rv_disc_d12mm_w5_8mm_p7_5mm
     original_filename: libraries/kicad-footprints/Varistor.pretty/RV_Disc_D12mm_W5.8mm_P7.5mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_varistor_rv_disc_d12mm_w5_8mm_p7_5mm
+  oomp_key_full: oomp_footprint_kicad_varistor_rv_disc_d12mm_w5_8mm_p7_5mm
   oomp_key_simple: kicad_varistor_rv_disc_d12mm_w5_8mm_p7_5mm
   owner: kicad
   repo:

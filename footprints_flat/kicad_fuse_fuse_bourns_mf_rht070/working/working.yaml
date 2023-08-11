@@ -17,9 +17,18 @@
   oomp:
     footprint_name: fuse_bourns_mf_rht070
     library_name: fuse
+    md5: cadc43ac6744f42da140e844a513fc8e
+    md5_10: cadc43ac67
+    md5_5: cadc4
+    md5_6: cadc43
+    oomp_key: oomp_kicad_fuse_fuse_bourns_mf_rht070
+    oomp_key_extra: oomp_footprint_kicad_fuse_fuse_bourns_mf_rht070
+    oomp_key_full: oomp_footprint_kicad_fuse_fuse_bourns_mf_rht070_cadc43
+    oomp_key_simple: kicad_fuse_fuse_bourns_mf_rht070
     original_filename: libraries/kicad-footprints/Fuse.pretty/Fuse_Bourns_MF-RHT070.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_fuse_fuse_bourns_mf_rht070
+  oomp_key_full: oomp_footprint_kicad_fuse_fuse_bourns_mf_rht070
   oomp_key_simple: kicad_fuse_fuse_bourns_mf_rht070
   owner: kicad
   repo:

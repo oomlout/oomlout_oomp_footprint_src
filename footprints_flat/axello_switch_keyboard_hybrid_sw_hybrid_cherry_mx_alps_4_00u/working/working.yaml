@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sw_hybrid_cherry_mx_alps_4_00u
     library_name: switch_keyboard_hybrid
+    md5: a8306323dc1375e2fd197efe6c32d31d
+    md5_10: a8306323dc
+    md5_5: a8306
+    md5_6: a83063
+    oomp_key: oomp_axello_switch_keyboard_hybrid_sw_hybrid_cherry_mx_alps_4_00u
+    oomp_key_extra: oomp_footprint_axello_switch_keyboard_hybrid_sw_hybrid_cherry_mx_alps_4_00u
+    oomp_key_full: oomp_footprint_axello_switch_keyboard_hybrid_sw_hybrid_cherry_mx_alps_4_00u_a83063
+    oomp_key_simple: axello_switch_keyboard_hybrid_sw_hybrid_cherry_mx_alps_4_00u
     original_filename: kicad/6.0/3rdparty/footprints/com_github_perigoso_keyswitch-kicad-library/Switch_Keyboard_Hybrid.pretty/SW_Hybrid_Cherry_MX_Alps_4.00u.kicad_mod
     owner_name: axello
   oomp_key: oomp_axello_switch_keyboard_hybrid_sw_hybrid_cherry_mx_alps_4_00u
+  oomp_key_full: oomp_footprint_axello_switch_keyboard_hybrid_sw_hybrid_cherry_mx_alps_4_00u
   oomp_key_simple: axello_switch_keyboard_hybrid_sw_hybrid_cherry_mx_alps_4_00u
   owner: axello
   repo:

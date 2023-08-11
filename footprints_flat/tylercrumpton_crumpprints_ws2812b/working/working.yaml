@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ws2812b
     library_name: crumpprints
+    md5: c3b3a318f66757e3f721be416ff138bb
+    md5_10: c3b3a318f6
+    md5_5: c3b3a
+    md5_6: c3b3a3
+    oomp_key: oomp_tylercrumpton_crumpprints_ws2812b
+    oomp_key_extra: oomp_footprint_tylercrumpton_crumpprints_ws2812b
+    oomp_key_full: oomp_footprint_tylercrumpton_crumpprints_ws2812b_c3b3a3
+    oomp_key_simple: tylercrumpton_crumpprints_ws2812b
     original_filename: CrumpPrints.pretty/WS2812B.kicad_mod
     owner_name: tylercrumpton
   oomp_key: oomp_tylercrumpton_crumpprints_ws2812b
+  oomp_key_full: oomp_footprint_tylercrumpton_crumpprints_ws2812b
   oomp_key_simple: tylercrumpton_crumpprints_ws2812b
   owner: tylercrumpton
   repo:

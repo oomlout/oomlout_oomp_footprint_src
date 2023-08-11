@@ -18,9 +18,18 @@
   oomp:
     footprint_name: r_array_concave_4x0402
     library_name: resistor_smd
+    md5: e32bc6bb861e6c734196328bf5a36204
+    md5_10: e32bc6bb86
+    md5_5: e32bc
+    md5_6: e32bc6
+    oomp_key: oomp_kicad_resistor_smd_r_array_concave_4x0402
+    oomp_key_extra: oomp_footprint_kicad_resistor_smd_r_array_concave_4x0402
+    oomp_key_full: oomp_footprint_kicad_resistor_smd_r_array_concave_4x0402_e32bc6
+    oomp_key_simple: kicad_resistor_smd_r_array_concave_4x0402
     original_filename: libraries/kicad-footprints/Resistor_SMD.pretty/R_Array_Concave_4x0402.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_resistor_smd_r_array_concave_4x0402
+  oomp_key_full: oomp_footprint_kicad_resistor_smd_r_array_concave_4x0402
   oomp_key_simple: kicad_resistor_smd_r_array_concave_4x0402
   owner: kicad
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: indc2520x220
     library_name: ipc7351_nominal
+    md5: 6fe2b62d75ee0fb28d564c8dce1aa6f9
+    md5_10: 6fe2b62d75
+    md5_5: 6fe2b
+    md5_6: 6fe2b6
+    oomp_key: oomp_cpavlina_ipc7351_nominal_indc2520x220
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_nominal_indc2520x220
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_indc2520x220_6fe2b6
+    oomp_key_simple: cpavlina_ipc7351_nominal_indc2520x220
     original_filename: kicad-pcblib/IPC7351-Nominal.pretty/INDC2520X220.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_nominal_indc2520x220
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_indc2520x220
   oomp_key_simple: cpavlina_ipc7351_nominal_indc2520x220
   owner: cpavlina
   repo:

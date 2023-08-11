@@ -19,9 +19,18 @@
   oomp:
     footprint_name: esd_logo_22x20mm_silkscreen
     library_name: symbol
+    md5: 313015f4708eff6ec8bcb65df004562a
+    md5_10: 313015f470
+    md5_5: '31301'
+    md5_6: '313015'
+    oomp_key: oomp_iangitpers_symbol_esd_logo_22x20mm_silkscreen
+    oomp_key_extra: oomp_footprint_iangitpers_symbol_esd_logo_22x20mm_silkscreen
+    oomp_key_full: oomp_footprint_iangitpers_symbol_esd_logo_22x20mm_silkscreen_313015
+    oomp_key_simple: iangitpers_symbol_esd_logo_22x20mm_silkscreen
     original_filename: 4a/Symbol.pretty/ESD-Logo_22x20mm_SilkScreen.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_symbol_esd_logo_22x20mm_silkscreen
+  oomp_key_full: oomp_footprint_iangitpers_symbol_esd_logo_22x20mm_silkscreen
   oomp_key_simple: iangitpers_symbol_esd_logo_22x20mm_silkscreen
   owner: Iangitpers
   repo:

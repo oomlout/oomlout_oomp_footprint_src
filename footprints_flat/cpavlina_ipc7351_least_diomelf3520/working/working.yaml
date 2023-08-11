@@ -17,9 +17,18 @@
   oomp:
     footprint_name: diomelf3520
     library_name: ipc7351_least
+    md5: 98b9c66f702173ddcb8bece308fc121a
+    md5_10: 98b9c66f70
+    md5_5: 98b9c
+    md5_6: 98b9c6
+    oomp_key: oomp_cpavlina_ipc7351_least_diomelf3520
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_least_diomelf3520
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_least_diomelf3520_98b9c6
+    oomp_key_simple: cpavlina_ipc7351_least_diomelf3520
     original_filename: kicad-pcblib/IPC7351-Least.pretty/DIOMELF3520.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_least_diomelf3520
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_least_diomelf3520
   oomp_key_simple: cpavlina_ipc7351_least_diomelf3520
   owner: cpavlina
   repo:

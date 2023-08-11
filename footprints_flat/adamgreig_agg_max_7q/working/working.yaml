@@ -16,10 +16,19 @@
   name: agg-kicad
   oomp:
     footprint_name: max_7q
-    library_name: unchecked
+    library_name: agg
+    md5: 757bc92e3b936658677e3b5335c96794
+    md5_10: 757bc92e3b
+    md5_5: 757bc
+    md5_6: 757bc9
+    oomp_key: oomp_adamgreig_agg_max_7q
+    oomp_key_extra: oomp_footprint_adamgreig_agg_max_7q
+    oomp_key_full: oomp_footprint_adamgreig_agg_max_7q_757bc9
+    oomp_key_simple: adamgreig_agg_max_7q
     original_filename: agg-kicad/agg.pretty/unchecked.pretty/MAX-7Q.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_max_7q
+  oomp_key_full: oomp_footprint_adamgreig_agg_max_7q
   oomp_key_simple: adamgreig_agg_max_7q
   owner: adamgreig
   repo:

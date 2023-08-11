@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_flash_256kx8_tsop32
     library_name: xess
+    md5: 92c0abd165034c9f59b95900e01037ba
+    md5_10: 92c0abd165
+    md5_5: 92c0a
+    md5_6: 92c0ab
+    oomp_key: oomp_xesscorp_xess_xess_flash_256kx8_tsop32
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_flash_256kx8_tsop32
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_flash_256kx8_tsop32_92c0ab
+    oomp_key_simple: xesscorp_xess_xess_flash_256kx8_tsop32
     original_filename: xess.pretty/xess-FLASH-256KX8-TSOP32.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_flash_256kx8_tsop32
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_flash_256kx8_tsop32
   oomp_key_simple: xesscorp_xess_xess_flash_256kx8_tsop32
   owner: xesscorp
   repo:

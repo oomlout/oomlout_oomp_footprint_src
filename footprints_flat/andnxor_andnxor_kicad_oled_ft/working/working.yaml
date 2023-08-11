@@ -17,9 +17,18 @@
   oomp:
     footprint_name: oled_ft
     library_name: andnxor_kicad
+    md5: 37c391218507a355d9dc39e1fdceac68
+    md5_10: 37c3912185
+    md5_5: 37c39
+    md5_6: 37c391
+    oomp_key: oomp_andnxor_andnxor_kicad_oled_ft
+    oomp_key_extra: oomp_footprint_andnxor_andnxor_kicad_oled_ft
+    oomp_key_full: oomp_footprint_andnxor_andnxor_kicad_oled_ft_37c391
+    oomp_key_simple: andnxor_andnxor_kicad_oled_ft
     original_filename: ANDnXOR-Kicad.pretty/OLED_FT.kicad_mod
     owner_name: andnxor
   oomp_key: oomp_andnxor_andnxor_kicad_oled_ft
+  oomp_key_full: oomp_footprint_andnxor_andnxor_kicad_oled_ft
   oomp_key_simple: andnxor_andnxor_kicad_oled_ft
   owner: ANDnXOR
   repo:

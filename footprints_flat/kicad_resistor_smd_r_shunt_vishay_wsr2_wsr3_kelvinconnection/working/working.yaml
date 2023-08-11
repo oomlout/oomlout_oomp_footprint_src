@@ -17,9 +17,18 @@
   oomp:
     footprint_name: r_shunt_vishay_wsr2_wsr3_kelvinconnection
     library_name: resistor_smd
+    md5: 681e631efbf53ebbaba407b853602a18
+    md5_10: 681e631efb
+    md5_5: 681e6
+    md5_6: 681e63
+    oomp_key: oomp_kicad_resistor_smd_r_shunt_vishay_wsr2_wsr3_kelvinconnection
+    oomp_key_extra: oomp_footprint_kicad_resistor_smd_r_shunt_vishay_wsr2_wsr3_kelvinconnection
+    oomp_key_full: oomp_footprint_kicad_resistor_smd_r_shunt_vishay_wsr2_wsr3_kelvinconnection_681e63
+    oomp_key_simple: kicad_resistor_smd_r_shunt_vishay_wsr2_wsr3_kelvinconnection
     original_filename: libraries/kicad-footprints/Resistor_SMD.pretty/R_Shunt_Vishay_WSR2_WSR3_KelvinConnection.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_resistor_smd_r_shunt_vishay_wsr2_wsr3_kelvinconnection
+  oomp_key_full: oomp_footprint_kicad_resistor_smd_r_shunt_vishay_wsr2_wsr3_kelvinconnection
   oomp_key_simple: kicad_resistor_smd_r_shunt_vishay_wsr2_wsr3_kelvinconnection
   owner: kicad
   repo:

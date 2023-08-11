@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_mdin04s
     library_name: xess
+    md5: 87833469a898dc9c41118a25be46d978
+    md5_10: 87833469a8
+    md5_5: '87833'
+    md5_6: '878334'
+    oomp_key: oomp_xesscorp_xess_xess_mdin04s
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_mdin04s
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_mdin04s_878334
+    oomp_key_simple: xesscorp_xess_xess_mdin04s
     original_filename: xess.pretty/xess-MDIN04S.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_mdin04s
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_mdin04s
   oomp_key_simple: xesscorp_xess_xess_mdin04s
   owner: xesscorp
   repo:

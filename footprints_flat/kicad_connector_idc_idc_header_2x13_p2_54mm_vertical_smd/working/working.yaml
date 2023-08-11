@@ -18,9 +18,18 @@
   oomp:
     footprint_name: idc_header_2x13_p2_54mm_vertical_smd
     library_name: connector_idc
+    md5: f42e1bb173a244b0a33b1855a26eccd9
+    md5_10: f42e1bb173
+    md5_5: f42e1
+    md5_6: f42e1b
+    oomp_key: oomp_kicad_connector_idc_idc_header_2x13_p2_54mm_vertical_smd
+    oomp_key_extra: oomp_footprint_kicad_connector_idc_idc_header_2x13_p2_54mm_vertical_smd
+    oomp_key_full: oomp_footprint_kicad_connector_idc_idc_header_2x13_p2_54mm_vertical_smd_f42e1b
+    oomp_key_simple: kicad_connector_idc_idc_header_2x13_p2_54mm_vertical_smd
     original_filename: libraries/kicad-footprints/Connector_IDC.pretty/IDC-Header_2x13_P2.54mm_Vertical_SMD.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_idc_idc_header_2x13_p2_54mm_vertical_smd
+  oomp_key_full: oomp_footprint_kicad_connector_idc_idc_header_2x13_p2_54mm_vertical_smd
   oomp_key_simple: kicad_connector_idc_idc_header_2x13_p2_54mm_vertical_smd
   owner: kicad
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: powerpak_sc_75_6l_single
     library_name: agg
+    md5: 36e7dec5acc72608a6fab09e34d0b7dc
+    md5_10: 36e7dec5ac
+    md5_5: 36e7d
+    md5_6: 36e7de
+    oomp_key: oomp_adamgreig_agg_powerpak_sc_75_6l_single
+    oomp_key_extra: oomp_footprint_adamgreig_agg_powerpak_sc_75_6l_single
+    oomp_key_full: oomp_footprint_adamgreig_agg_powerpak_sc_75_6l_single_36e7de
+    oomp_key_simple: adamgreig_agg_powerpak_sc_75_6l_single
     original_filename: agg-kicad/agg.pretty/PowerPAK-SC-75-6L-Single.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_powerpak_sc_75_6l_single
+  oomp_key_full: oomp_footprint_adamgreig_agg_powerpak_sc_75_6l_single
   oomp_key_simple: adamgreig_agg_powerpak_sc_75_6l_single
   owner: adamgreig
   repo:

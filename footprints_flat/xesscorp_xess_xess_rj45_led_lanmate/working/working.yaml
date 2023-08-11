@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_rj45_led_lanmate
     library_name: xess
+    md5: b0cff3a0cb222fa98452d22433c5f12d
+    md5_10: b0cff3a0cb
+    md5_5: b0cff
+    md5_6: b0cff3
+    oomp_key: oomp_xesscorp_xess_xess_rj45_led_lanmate
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_rj45_led_lanmate
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_rj45_led_lanmate_b0cff3
+    oomp_key_simple: xesscorp_xess_xess_rj45_led_lanmate
     original_filename: xess.pretty/xess-RJ45+LED-LANMATE.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_rj45_led_lanmate
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_rj45_led_lanmate
   oomp_key_simple: xesscorp_xess_xess_rj45_led_lanmate
   owner: xesscorp
   repo:

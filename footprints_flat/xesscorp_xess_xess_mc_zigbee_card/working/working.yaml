@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_mc_zigbee_card
     library_name: xess
+    md5: 93dde64a9b968112253e2373cc83b9a9
+    md5_10: 93dde64a9b
+    md5_5: 93dde
+    md5_6: 93dde6
+    oomp_key: oomp_xesscorp_xess_xess_mc_zigbee_card
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_mc_zigbee_card
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_mc_zigbee_card_93dde6
+    oomp_key_simple: xesscorp_xess_xess_mc_zigbee_card
     original_filename: xess.pretty/xess-MC_ZIGBEE_CARD.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_mc_zigbee_card
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_mc_zigbee_card
   oomp_key_simple: xesscorp_xess_xess_mc_zigbee_card
   owner: xesscorp
   repo:

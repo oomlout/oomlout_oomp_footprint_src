@@ -17,9 +17,18 @@
   oomp:
     footprint_name: winbonduson8_3x2mm
     library_name: kicadfootprint
+    md5: 28e99a469b4bd3ef5c9c1de49354b39a
+    md5_10: 28e99a469b
+    md5_5: 28e99
+    md5_6: 28e99a
+    oomp_key: oomp_vivitainc_kicadfootprint_winbonduson8_3x2mm
+    oomp_key_extra: oomp_footprint_vivitainc_kicadfootprint_winbonduson8_3x2mm
+    oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_winbonduson8_3x2mm_28e99a
+    oomp_key_simple: vivitainc_kicadfootprint_winbonduson8_3x2mm
     original_filename: KiCADfootprint.pretty/WinbondUSON8_3x2mm.kicad_mod
     owner_name: vivitainc
   oomp_key: oomp_vivitainc_kicadfootprint_winbonduson8_3x2mm
+  oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_winbonduson8_3x2mm
   oomp_key_simple: vivitainc_kicadfootprint_winbonduson8_3x2mm
   owner: vivitainc
   repo:

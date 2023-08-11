@@ -17,9 +17,18 @@
   oomp:
     footprint_name: arduinopromicro
     library_name: keebio_parts
+    md5: eab93221edcb2fe2df0111b58322abdc
+    md5_10: eab93221ed
+    md5_5: eab93
+    md5_6: eab932
+    oomp_key: oomp_keebio_keebio_parts_arduinopromicro
+    oomp_key_extra: oomp_footprint_keebio_keebio_parts_arduinopromicro
+    oomp_key_full: oomp_footprint_keebio_keebio_parts_arduinopromicro_eab932
+    oomp_key_simple: keebio_keebio_parts_arduinopromicro
     original_filename: Keebio-Parts.pretty/ArduinoProMicro.kicad_mod
     owner_name: keebio
   oomp_key: oomp_keebio_keebio_parts_arduinopromicro
+  oomp_key_full: oomp_footprint_keebio_keebio_parts_arduinopromicro
   oomp_key_simple: keebio_keebio_parts_arduinopromicro
   owner: keebio
   repo:

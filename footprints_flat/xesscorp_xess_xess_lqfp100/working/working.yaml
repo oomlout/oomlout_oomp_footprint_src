@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_lqfp100
     library_name: xess
+    md5: 3b29c2322a6588dae272d7d542a4e348
+    md5_10: 3b29c2322a
+    md5_5: 3b29c
+    md5_6: 3b29c2
+    oomp_key: oomp_xesscorp_xess_xess_lqfp100
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_lqfp100
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_lqfp100_3b29c2
+    oomp_key_simple: xesscorp_xess_xess_lqfp100
     original_filename: xess.pretty/xess-LQFP100.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_lqfp100
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_lqfp100
   oomp_key_simple: xesscorp_xess_xess_lqfp100
   owner: xesscorp
   repo:

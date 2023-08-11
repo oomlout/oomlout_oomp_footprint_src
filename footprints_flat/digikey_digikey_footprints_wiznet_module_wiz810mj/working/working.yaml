@@ -17,9 +17,18 @@
   oomp:
     footprint_name: wiznet_module_wiz810mj
     library_name: digikey_footprints
+    md5: cd1eb04b50f62e013ab21e43db3cb358
+    md5_10: cd1eb04b50
+    md5_5: cd1eb
+    md5_6: cd1eb0
+    oomp_key: oomp_digikey_digikey_footprints_wiznet_module_wiz810mj
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_wiznet_module_wiz810mj
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_wiznet_module_wiz810mj_cd1eb0
+    oomp_key_simple: digikey_digikey_footprints_wiznet_module_wiz810mj
     original_filename: digikey-kicad-library/digikey-footprints.pretty/WizNet_Module_WIZ810MJ.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_wiznet_module_wiz810mj
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_wiznet_module_wiz810mj
   oomp_key_simple: digikey_digikey_footprints_wiznet_module_wiz810mj
   owner: digikey
   repo:

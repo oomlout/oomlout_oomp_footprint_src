@@ -17,9 +17,18 @@
   oomp:
     footprint_name: do_214ac
     library_name: digikey_footprints
+    md5: 5dca9a3b48bc3a6ff2548b665e1e0bc6
+    md5_10: 5dca9a3b48
+    md5_5: 5dca9
+    md5_6: 5dca9a
+    oomp_key: oomp_digikey_digikey_footprints_do_214ac
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_do_214ac
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_do_214ac_5dca9a
+    oomp_key_simple: digikey_digikey_footprints_do_214ac
     original_filename: digikey-kicad-library/digikey-footprints.pretty/DO-214AC.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_do_214ac
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_do_214ac
   oomp_key_simple: digikey_digikey_footprints_do_214ac
   owner: digikey
   repo:

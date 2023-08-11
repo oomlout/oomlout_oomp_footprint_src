@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sot_143r
     library_name: smd_semi
+    md5: 2477d36f0365a6ff8e1e4dbe0fa891b9
+    md5_10: 2477d36f03
+    md5_5: 2477d
+    md5_6: 2477d3
+    oomp_key: oomp_cpavlina_smd_semi_sot_143r
+    oomp_key_extra: oomp_footprint_cpavlina_smd_semi_sot_143r
+    oomp_key_full: oomp_footprint_cpavlina_smd_semi_sot_143r_2477d3
+    oomp_key_simple: cpavlina_smd_semi_sot_143r
     original_filename: kicad-pcblib/smd-semi.pretty/SOT-143R.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_smd_semi_sot_143r
+  oomp_key_full: oomp_footprint_cpavlina_smd_semi_sot_143r
   oomp_key_simple: cpavlina_smd_semi_sot_143r
   owner: cpavlina
   repo:

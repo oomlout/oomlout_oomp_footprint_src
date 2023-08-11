@@ -17,9 +17,18 @@
   oomp:
     footprint_name: vtx_214_003_1xx
     library_name: agg
+    md5: 8b514d0b8b5209ea8c68bb7a0e2fa8de
+    md5_10: 8b514d0b8b
+    md5_5: 8b514
+    md5_6: 8b514d
+    oomp_key: oomp_adamgreig_agg_vtx_214_003_1xx
+    oomp_key_extra: oomp_footprint_adamgreig_agg_vtx_214_003_1xx
+    oomp_key_full: oomp_footprint_adamgreig_agg_vtx_214_003_1xx_8b514d
+    oomp_key_simple: adamgreig_agg_vtx_214_003_1xx
     original_filename: agg-kicad/agg.pretty/VTX-214-003-1xx.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_vtx_214_003_1xx
+  oomp_key_full: oomp_footprint_adamgreig_agg_vtx_214_003_1xx
   oomp_key_simple: adamgreig_agg_vtx_214_003_1xx
   owner: adamgreig
   repo:

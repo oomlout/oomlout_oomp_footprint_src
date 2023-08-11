@@ -19,9 +19,18 @@
   oomp:
     footprint_name: onsemi_dfn12
     library_name: manuf
+    md5: 30695fef2824a73a53898ebd98c82e8f
+    md5_10: 30695fef28
+    md5_5: '30695'
+    md5_6: 30695f
+    oomp_key: oomp_iangitpers_manuf_onsemi_dfn12
+    oomp_key_extra: oomp_footprint_iangitpers_manuf_onsemi_dfn12
+    oomp_key_full: oomp_footprint_iangitpers_manuf_onsemi_dfn12_30695f
+    oomp_key_simple: iangitpers_manuf_onsemi_dfn12
     original_filename: 4a/manuf.pretty/ONSEMI_DFN12.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_manuf_onsemi_dfn12
+  oomp_key_full: oomp_footprint_iangitpers_manuf_onsemi_dfn12
   oomp_key_simple: iangitpers_manuf_onsemi_dfn12
   owner: Iangitpers
   repo:

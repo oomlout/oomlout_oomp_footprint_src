@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_bumper
     library_name: xess
+    md5: f46b83b17de25952fb4af441fd8fddb2
+    md5_10: f46b83b17d
+    md5_5: f46b8
+    md5_6: f46b83
+    oomp_key: oomp_xesscorp_xess_xess_bumper
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_bumper
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_bumper_f46b83
+    oomp_key_simple: xesscorp_xess_xess_bumper
     original_filename: xess.pretty/xess-BUMPER.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_bumper
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_bumper
   oomp_key_simple: xesscorp_xess_xess_bumper
   owner: xesscorp
   repo:

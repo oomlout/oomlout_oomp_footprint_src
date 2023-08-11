@@ -17,9 +17,18 @@
   oomp:
     footprint_name: dip_16_dcdc
     library_name: agg
+    md5: a1b3c6c017583363a13276ec5817d74d
+    md5_10: a1b3c6c017
+    md5_5: a1b3c
+    md5_6: a1b3c6
+    oomp_key: oomp_adamgreig_agg_dip_16_dcdc
+    oomp_key_extra: oomp_footprint_adamgreig_agg_dip_16_dcdc
+    oomp_key_full: oomp_footprint_adamgreig_agg_dip_16_dcdc_a1b3c6
+    oomp_key_simple: adamgreig_agg_dip_16_dcdc
     original_filename: agg-kicad/agg.pretty/DIP-16-DCDC.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_dip_16_dcdc
+  oomp_key_full: oomp_footprint_adamgreig_agg_dip_16_dcdc
   oomp_key_simple: adamgreig_agg_dip_16_dcdc
   owner: adamgreig
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: testpoint_keystone_5018
     library_name: manuf
+    md5: cae5ada06d1a6f68d789a14a8a66be66
+    md5_10: cae5ada06d
+    md5_5: cae5a
+    md5_6: cae5ad
+    oomp_key: oomp_cpavlina_manuf_testpoint_keystone_5018
+    oomp_key_extra: oomp_footprint_cpavlina_manuf_testpoint_keystone_5018
+    oomp_key_full: oomp_footprint_cpavlina_manuf_testpoint_keystone_5018_cae5ad
+    oomp_key_simple: cpavlina_manuf_testpoint_keystone_5018
     original_filename: kicad-pcblib/manuf.pretty/TESTPOINT-KEYSTONE-5018.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_manuf_testpoint_keystone_5018
+  oomp_key_full: oomp_footprint_cpavlina_manuf_testpoint_keystone_5018
   oomp_key_simple: cpavlina_manuf_testpoint_keystone_5018
   owner: cpavlina
   repo:

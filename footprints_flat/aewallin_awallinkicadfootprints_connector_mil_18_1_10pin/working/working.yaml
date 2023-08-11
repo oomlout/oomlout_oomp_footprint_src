@@ -17,9 +17,18 @@
   oomp:
     footprint_name: connector_mil_18_1_10pin
     library_name: awallinkicadfootprints
+    md5: 78eed4017412581cb49364b5baa53bd6
+    md5_10: 78eed40174
+    md5_5: 78eed
+    md5_6: 78eed4
+    oomp_key: oomp_aewallin_awallinkicadfootprints_connector_mil_18_1_10pin
+    oomp_key_extra: oomp_footprint_aewallin_awallinkicadfootprints_connector_mil_18_1_10pin
+    oomp_key_full: oomp_footprint_aewallin_awallinkicadfootprints_connector_mil_18_1_10pin_78eed4
+    oomp_key_simple: aewallin_awallinkicadfootprints_connector_mil_18_1_10pin
     original_filename: awallinKiCadFootprints.pretty/Connector_MIL_18-1_10pin.kicad_mod
     owner_name: aewallin
   oomp_key: oomp_aewallin_awallinkicadfootprints_connector_mil_18_1_10pin
+  oomp_key_full: oomp_footprint_aewallin_awallinkicadfootprints_connector_mil_18_1_10pin
   oomp_key_simple: aewallin_awallinkicadfootprints_connector_mil_18_1_10pin
   owner: aewallin
   repo:

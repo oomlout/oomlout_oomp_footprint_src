@@ -18,9 +18,18 @@
   oomp:
     footprint_name: terminalblock_phoenix_ptsm_0,5_8_hv_2_5_smd_1x08_1mp_p2_50mm_vertical
     library_name: terminalblock_phoenix
+    md5: f51862b1d354ab71dd95ea9c7eaad406
+    md5_10: f51862b1d3
+    md5_5: f5186
+    md5_6: f51862
+    oomp_key: oomp_kicad_terminalblock_phoenix_terminalblock_phoenix_ptsm_0,5_8_hv_2_5_smd_1x08_1mp_p2_50mm_vertical
+    oomp_key_extra: oomp_footprint_kicad_terminalblock_phoenix_terminalblock_phoenix_ptsm_0,5_8_hv_2_5_smd_1x08_1mp_p2_50mm_vertical
+    oomp_key_full: oomp_footprint_kicad_terminalblock_phoenix_terminalblock_phoenix_ptsm_0,5_8_hv_2_5_smd_1x08_1mp_p2_50mm_vertical_f51862
+    oomp_key_simple: kicad_terminalblock_phoenix_terminalblock_phoenix_ptsm_0,5_8_hv_2_5_smd_1x08_1mp_p2_50mm_vertical
     original_filename: libraries/kicad-footprints/TerminalBlock_Phoenix.pretty/TerminalBlock_Phoenix_PTSM-0,5-8-HV-2.5-SMD_1x08-1MP_P2.50mm_Vertical.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_terminalblock_phoenix_terminalblock_phoenix_ptsm_0,5_8_hv_2_5_smd_1x08_1mp_p2_50mm_vertical
+  oomp_key_full: oomp_footprint_kicad_terminalblock_phoenix_terminalblock_phoenix_ptsm_0,5_8_hv_2_5_smd_1x08_1mp_p2_50mm_vertical
   oomp_key_simple: kicad_terminalblock_phoenix_terminalblock_phoenix_ptsm_0,5_8_hv_2_5_smd_1x08_1mp_p2_50mm_vertical
   owner: kicad
   repo:

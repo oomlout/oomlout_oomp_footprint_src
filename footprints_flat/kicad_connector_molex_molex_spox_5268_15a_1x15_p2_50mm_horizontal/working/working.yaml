@@ -18,9 +18,18 @@
   oomp:
     footprint_name: molex_spox_5268_15a_1x15_p2_50mm_horizontal
     library_name: connector_molex
+    md5: bbc9e234affb73e7782095ffde1312c3
+    md5_10: bbc9e234af
+    md5_5: bbc9e
+    md5_6: bbc9e2
+    oomp_key: oomp_kicad_connector_molex_molex_spox_5268_15a_1x15_p2_50mm_horizontal
+    oomp_key_extra: oomp_footprint_kicad_connector_molex_molex_spox_5268_15a_1x15_p2_50mm_horizontal
+    oomp_key_full: oomp_footprint_kicad_connector_molex_molex_spox_5268_15a_1x15_p2_50mm_horizontal_bbc9e2
+    oomp_key_simple: kicad_connector_molex_molex_spox_5268_15a_1x15_p2_50mm_horizontal
     original_filename: libraries/kicad-footprints/Connector_Molex.pretty/Molex_SPOX_5268-15A_1x15_P2.50mm_Horizontal.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_molex_molex_spox_5268_15a_1x15_p2_50mm_horizontal
+  oomp_key_full: oomp_footprint_kicad_connector_molex_molex_spox_5268_15a_1x15_p2_50mm_horizontal
   oomp_key_simple: kicad_connector_molex_molex_spox_5268_15a_1x15_p2_50mm_horizontal
   owner: kicad
   repo:

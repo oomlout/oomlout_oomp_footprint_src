@@ -17,9 +17,18 @@
   oomp:
     footprint_name: pin_header_straight_2x10_pitch2_54mm
     library_name: kicadfootprint
+    md5: 40f765d50186d4da0841c465ec55cc79
+    md5_10: 40f765d501
+    md5_5: 40f76
+    md5_6: 40f765
+    oomp_key: oomp_vivitainc_kicadfootprint_pin_header_straight_2x10_pitch2_54mm
+    oomp_key_extra: oomp_footprint_vivitainc_kicadfootprint_pin_header_straight_2x10_pitch2_54mm
+    oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_pin_header_straight_2x10_pitch2_54mm_40f765
+    oomp_key_simple: vivitainc_kicadfootprint_pin_header_straight_2x10_pitch2_54mm
     original_filename: KiCADfootprint.pretty/Pin_Header_Straight_2x10_Pitch2.54mm.kicad_mod
     owner_name: vivitainc
   oomp_key: oomp_vivitainc_kicadfootprint_pin_header_straight_2x10_pitch2_54mm
+  oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_pin_header_straight_2x10_pitch2_54mm
   oomp_key_simple: vivitainc_kicadfootprint_pin_header_straight_2x10_pitch2_54mm
   owner: vivitainc
   repo:

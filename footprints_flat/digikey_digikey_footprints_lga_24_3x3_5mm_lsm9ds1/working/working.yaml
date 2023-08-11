@@ -17,9 +17,18 @@
   oomp:
     footprint_name: lga_24_3x3_5mm_lsm9ds1
     library_name: digikey_footprints
+    md5: fddd4708903a0f564391c4581f132f11
+    md5_10: fddd470890
+    md5_5: fddd4
+    md5_6: fddd47
+    oomp_key: oomp_digikey_digikey_footprints_lga_24_3x3_5mm_lsm9ds1
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_lga_24_3x3_5mm_lsm9ds1
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_lga_24_3x3_5mm_lsm9ds1_fddd47
+    oomp_key_simple: digikey_digikey_footprints_lga_24_3x3_5mm_lsm9ds1
     original_filename: digikey-kicad-library/digikey-footprints.pretty/LGA-24_3x3.5mm_LSM9DS1.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_lga_24_3x3_5mm_lsm9ds1
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_lga_24_3x3_5mm_lsm9ds1
   oomp_key_simple: digikey_digikey_footprints_lga_24_3x3_5mm_lsm9ds1
   owner: digikey
   repo:

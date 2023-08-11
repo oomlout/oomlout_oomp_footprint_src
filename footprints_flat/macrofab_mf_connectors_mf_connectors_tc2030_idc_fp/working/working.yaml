@@ -17,9 +17,18 @@
   oomp:
     footprint_name: mf_connectors_tc2030_idc_fp
     library_name: mf_connectors
+    md5: 59af61b81d321a72f458d325f9f21fa8
+    md5_10: 59af61b81d
+    md5_5: 59af6
+    md5_6: 59af61
+    oomp_key: oomp_macrofab_mf_connectors_mf_connectors_tc2030_idc_fp
+    oomp_key_extra: oomp_footprint_macrofab_mf_connectors_mf_connectors_tc2030_idc_fp
+    oomp_key_full: oomp_footprint_macrofab_mf_connectors_mf_connectors_tc2030_idc_fp_59af61
+    oomp_key_simple: macrofab_mf_connectors_mf_connectors_tc2030_idc_fp
     original_filename: EDALibraries/KiCad/Footprints/MF_Connectors.pretty/MF_Connectors-TC2030-IDC-FP.kicad_mod
     owner_name: macrofab
   oomp_key: oomp_macrofab_mf_connectors_mf_connectors_tc2030_idc_fp
+  oomp_key_full: oomp_footprint_macrofab_mf_connectors_mf_connectors_tc2030_idc_fp
   oomp_key_simple: macrofab_mf_connectors_mf_connectors_tc2030_idc_fp
   owner: MacroFab
   repo:

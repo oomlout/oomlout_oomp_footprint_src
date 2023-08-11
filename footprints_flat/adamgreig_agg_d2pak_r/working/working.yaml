@@ -17,9 +17,18 @@
   oomp:
     footprint_name: d2pak_r
     library_name: agg
+    md5: 08e0b9f9537282ed27dfce8d5a498966
+    md5_10: 08e0b9f953
+    md5_5: 08e0b
+    md5_6: 08e0b9
+    oomp_key: oomp_adamgreig_agg_d2pak_r
+    oomp_key_extra: oomp_footprint_adamgreig_agg_d2pak_r
+    oomp_key_full: oomp_footprint_adamgreig_agg_d2pak_r_08e0b9
+    oomp_key_simple: adamgreig_agg_d2pak_r
     original_filename: agg-kicad/agg.pretty/D2PAK_R.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_d2pak_r
+  oomp_key_full: oomp_footprint_adamgreig_agg_d2pak_r
   oomp_key_simple: adamgreig_agg_d2pak_r
   owner: adamgreig
   repo:

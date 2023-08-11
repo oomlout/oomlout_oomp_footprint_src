@@ -18,9 +18,18 @@
   oomp:
     footprint_name: solder_connector_gim
     library_name: 00_cosi_connector
+    md5: 00b93ac67765e56da9e1a32aa349f0c5
+    md5_10: 00b93ac677
+    md5_5: 00b93
+    md5_6: 00b93a
+    oomp_key: oomp_losnarfos_00_cosi_connector_solder_connector_gim
+    oomp_key_extra: oomp_footprint_losnarfos_00_cosi_connector_solder_connector_gim
+    oomp_key_full: oomp_footprint_losnarfos_00_cosi_connector_solder_connector_gim_00b93a
+    oomp_key_simple: losnarfos_00_cosi_connector_solder_connector_gim
     original_filename: Kicad_Libraries/cosi_footprints/00_cosi_connector.pretty/solder_connector_GIM.kicad_mod
     owner_name: losnarfos
   oomp_key: oomp_losnarfos_00_cosi_connector_solder_connector_gim
+  oomp_key_full: oomp_footprint_losnarfos_00_cosi_connector_solder_connector_gim
   oomp_key_simple: losnarfos_00_cosi_connector_solder_connector_gim
   owner: LosNarfos
   repo:

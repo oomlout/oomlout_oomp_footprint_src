@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_amp555165_1
     library_name: xess
+    md5: f33dae6a35d585c0e17f24b73faf75a5
+    md5_10: f33dae6a35
+    md5_5: f33da
+    md5_6: f33dae
+    oomp_key: oomp_xesscorp_xess_xess_amp555165_1
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_amp555165_1
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_amp555165_1_f33dae
+    oomp_key_simple: xesscorp_xess_xess_amp555165_1
     original_filename: xess.pretty/xess-AMP555165-1.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_amp555165_1
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_amp555165_1
   oomp_key_simple: xesscorp_xess_xess_amp555165_1
   owner: xesscorp
   repo:

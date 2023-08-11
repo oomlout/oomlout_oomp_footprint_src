@@ -17,9 +17,18 @@
   oomp:
     footprint_name: test_point_3_43x1_78mm
     library_name: digikey_footprints
+    md5: dd46f2003c7f7608a5d842737e1dd63b
+    md5_10: dd46f2003c
+    md5_5: dd46f
+    md5_6: dd46f2
+    oomp_key: oomp_digikey_digikey_footprints_test_point_3_43x1_78mm
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_test_point_3_43x1_78mm
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_test_point_3_43x1_78mm_dd46f2
+    oomp_key_simple: digikey_digikey_footprints_test_point_3_43x1_78mm
     original_filename: digikey-kicad-library/digikey-footprints.pretty/Test_Point_3.43x1.78mm.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_test_point_3_43x1_78mm
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_test_point_3_43x1_78mm
   oomp_key_simple: digikey_digikey_footprints_test_point_3_43x1_78mm
   owner: digikey
   repo:

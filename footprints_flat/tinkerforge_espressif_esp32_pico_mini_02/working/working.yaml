@@ -17,9 +17,18 @@
   oomp:
     footprint_name: esp32_pico_mini_02
     library_name: espressif
+    md5: 1594b11c25dbddcf411fa1f638d4ff52
+    md5_10: 1594b11c25
+    md5_5: 1594b
+    md5_6: 1594b1
+    oomp_key: oomp_tinkerforge_espressif_esp32_pico_mini_02
+    oomp_key_extra: oomp_footprint_tinkerforge_espressif_esp32_pico_mini_02
+    oomp_key_full: oomp_footprint_tinkerforge_espressif_esp32_pico_mini_02_1594b1
+    oomp_key_simple: tinkerforge_espressif_esp32_pico_mini_02
     original_filename: kicad-libraries/footprints/Espressif.pretty/ESP32-PICO-MINI-02.kicad_mod
     owner_name: tinkerforge
   oomp_key: oomp_tinkerforge_espressif_esp32_pico_mini_02
+  oomp_key_full: oomp_footprint_tinkerforge_espressif_esp32_pico_mini_02
   oomp_key_simple: tinkerforge_espressif_esp32_pico_mini_02
   owner: Tinkerforge
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: mx_alps_choc_1u
     library_name: keebio_parts
+    md5: 88f6954db63e7a6f9fbde1c4fc6fc6ae
+    md5_10: 88f6954db6
+    md5_5: 88f69
+    md5_6: 88f695
+    oomp_key: oomp_keebio_keebio_parts_mx_alps_choc_1u
+    oomp_key_extra: oomp_footprint_keebio_keebio_parts_mx_alps_choc_1u
+    oomp_key_full: oomp_footprint_keebio_keebio_parts_mx_alps_choc_1u_88f695
+    oomp_key_simple: keebio_keebio_parts_mx_alps_choc_1u
     original_filename: Keebio-Parts.pretty/MX-Alps-Choc-1U.kicad_mod
     owner_name: keebio
   oomp_key: oomp_keebio_keebio_parts_mx_alps_choc_1u
+  oomp_key_full: oomp_footprint_keebio_keebio_parts_mx_alps_choc_1u
   oomp_key_simple: keebio_keebio_parts_mx_alps_choc_1u
   owner: keebio
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: solderjumperleft
     library_name: keebio_parts
+    md5: d2aac74cb0c869ffef53bfd41ef45a0a
+    md5_10: d2aac74cb0
+    md5_5: d2aac
+    md5_6: d2aac7
+    oomp_key: oomp_keebio_keebio_parts_solderjumperleft
+    oomp_key_extra: oomp_footprint_keebio_keebio_parts_solderjumperleft
+    oomp_key_full: oomp_footprint_keebio_keebio_parts_solderjumperleft_d2aac7
+    oomp_key_simple: keebio_keebio_parts_solderjumperleft
     original_filename: Keebio-Parts.pretty/SolderJumperLeft.kicad_mod
     owner_name: keebio
   oomp_key: oomp_keebio_keebio_parts_solderjumperleft
+  oomp_key_full: oomp_footprint_keebio_keebio_parts_solderjumperleft
   oomp_key_simple: keebio_keebio_parts_solderjumperleft
   owner: keebio
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: fiducial_1_5mm
     library_name: fab
+    md5: 108390df8e272b1466071d1fd5be0951
+    md5_10: 108390df8e
+    md5_5: '10839'
+    md5_6: '108390'
+    oomp_key: oomp_cpavlina_fab_fiducial_1_5mm
+    oomp_key_extra: oomp_footprint_cpavlina_fab_fiducial_1_5mm
+    oomp_key_full: oomp_footprint_cpavlina_fab_fiducial_1_5mm_108390
+    oomp_key_simple: cpavlina_fab_fiducial_1_5mm
     original_filename: kicad-pcblib/fab.pretty/FIDUCIAL-1.5mm.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_fab_fiducial_1_5mm
+  oomp_key_full: oomp_footprint_cpavlina_fab_fiducial_1_5mm
   oomp_key_simple: cpavlina_fab_fiducial_1_5mm
   owner: cpavlina
   repo:

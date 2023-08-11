@@ -19,9 +19,18 @@
   oomp:
     footprint_name: r_0805_2012metric
     library_name: 1w_grove_v0_1
+    md5: d02b2ee98cb6c780df619fd52cb59c50
+    md5_10: d02b2ee98c
+    md5_5: d02b2
+    md5_6: d02b2e
+    oomp_key: oomp_wykys_1w_grove_v0_1_r_0805_2012metric
+    oomp_key_extra: oomp_footprint_wykys_1w_grove_v0_1_r_0805_2012metric
+    oomp_key_full: oomp_footprint_wykys_1w_grove_v0_1_r_0805_2012metric_d02b2e
+    oomp_key_simple: wykys_1w_grove_v0_1_r_0805_2012metric
     original_filename: kicad/6.0/projects/1w-grove-v0.1/1w-grove-v0.1.pretty/R_0805_2012Metric.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_1w_grove_v0_1_r_0805_2012metric
+  oomp_key_full: oomp_footprint_wykys_1w_grove_v0_1_r_0805_2012metric
   oomp_key_simple: wykys_1w_grove_v0_1_r_0805_2012metric
   owner: wykys
   repo:

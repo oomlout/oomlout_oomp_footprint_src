@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sw_kailh_kh_2_00u
     library_name: switch_keyboard_kailh
+    md5: 232e78515d6fa7f810fb1ddfbf63d050
+    md5_10: 232e78515d
+    md5_5: 232e7
+    md5_6: 232e78
+    oomp_key: oomp_joanthespark_switch_keyboard_kailh_sw_kailh_kh_2_00u
+    oomp_key_extra: oomp_footprint_joanthespark_switch_keyboard_kailh_sw_kailh_kh_2_00u
+    oomp_key_full: oomp_footprint_joanthespark_switch_keyboard_kailh_sw_kailh_kh_2_00u_232e78
+    oomp_key_simple: joanthespark_switch_keyboard_kailh_sw_kailh_kh_2_00u
     original_filename: KiCAD/6.0/3rdparty/footprints/com_github_perigoso_keyswitch-kicad-library/Switch_Keyboard_Kailh.pretty/SW_Kailh_KH_2.00u.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_switch_keyboard_kailh_sw_kailh_kh_2_00u
+  oomp_key_full: oomp_footprint_joanthespark_switch_keyboard_kailh_sw_kailh_kh_2_00u
   oomp_key_simple: joanthespark_switch_keyboard_kailh_sw_kailh_kh_2_00u
   owner: JoanTheSpark
   repo:

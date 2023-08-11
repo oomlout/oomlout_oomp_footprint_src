@@ -17,9 +17,18 @@
   oomp:
     footprint_name: cnc_3220_10_0300_00
     library_name: manuf
+    md5: e4eb050c50ea18331c2cf4cfcec7c6fc
+    md5_10: e4eb050c50
+    md5_5: e4eb0
+    md5_6: e4eb05
+    oomp_key: oomp_cpavlina_manuf_cnc_3220_10_0300_00
+    oomp_key_extra: oomp_footprint_cpavlina_manuf_cnc_3220_10_0300_00
+    oomp_key_full: oomp_footprint_cpavlina_manuf_cnc_3220_10_0300_00_e4eb05
+    oomp_key_simple: cpavlina_manuf_cnc_3220_10_0300_00
     original_filename: kicad-pcblib/manuf.pretty/CNC-3220-10-0300-00.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_manuf_cnc_3220_10_0300_00
+  oomp_key_full: oomp_footprint_cpavlina_manuf_cnc_3220_10_0300_00
   oomp_key_simple: cpavlina_manuf_cnc_3220_10_0300_00
   owner: cpavlina
   repo:

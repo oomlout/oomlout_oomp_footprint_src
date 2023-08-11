@@ -17,9 +17,18 @@
   oomp:
     footprint_name: relay_spst_panasonic_alfg_forma_circularholes
     library_name: relay_tht
+    md5: 1db131bb450faedb8c57b17d2c9962a1
+    md5_10: 1db131bb45
+    md5_5: 1db13
+    md5_6: 1db131
+    oomp_key: oomp_kicad_relay_tht_relay_spst_panasonic_alfg_forma_circularholes
+    oomp_key_extra: oomp_footprint_kicad_relay_tht_relay_spst_panasonic_alfg_forma_circularholes
+    oomp_key_full: oomp_footprint_kicad_relay_tht_relay_spst_panasonic_alfg_forma_circularholes_1db131
+    oomp_key_simple: kicad_relay_tht_relay_spst_panasonic_alfg_forma_circularholes
     original_filename: libraries/kicad-footprints/Relay_THT.pretty/Relay_SPST_Panasonic_ALFG_FormA_CircularHoles.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_relay_tht_relay_spst_panasonic_alfg_forma_circularholes
+  oomp_key_full: oomp_footprint_kicad_relay_tht_relay_spst_panasonic_alfg_forma_circularholes
   oomp_key_simple: kicad_relay_tht_relay_spst_panasonic_alfg_forma_circularholes
   owner: kicad
   repo:

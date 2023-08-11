@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sot_23_3
     library_name: 1wire_v0_4
+    md5: 8f1a45317d50f7a9423497e9cc6c5123
+    md5_10: 8f1a45317d
+    md5_5: 8f1a4
+    md5_6: 8f1a45
+    oomp_key: oomp_wykys_1wire_v0_4_sot_23_3
+    oomp_key_extra: oomp_footprint_wykys_1wire_v0_4_sot_23_3
+    oomp_key_full: oomp_footprint_wykys_1wire_v0_4_sot_23_3_8f1a45
+    oomp_key_simple: wykys_1wire_v0_4_sot_23_3
     original_filename: kicad/6.0/projects/1w-grove-v0.1/1wire-v0.4.pretty/SOT-23-3.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_1wire_v0_4_sot_23_3
+  oomp_key_full: oomp_footprint_wykys_1wire_v0_4_sot_23_3
   oomp_key_simple: wykys_1wire_v0_4_sot_23_3
   owner: wykys
   repo:

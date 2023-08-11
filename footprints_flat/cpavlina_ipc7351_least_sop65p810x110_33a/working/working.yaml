@@ -18,9 +18,18 @@
   oomp:
     footprint_name: sop65p810x110_33a
     library_name: ipc7351_least
+    md5: f4b97a36cfe0ad32a2fe20ad1c0d819d
+    md5_10: f4b97a36cf
+    md5_5: f4b97
+    md5_6: f4b97a
+    oomp_key: oomp_cpavlina_ipc7351_least_sop65p810x110_33a
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_least_sop65p810x110_33a
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_least_sop65p810x110_33a_f4b97a
+    oomp_key_simple: cpavlina_ipc7351_least_sop65p810x110_33a
     original_filename: kicad-pcblib/IPC7351-Least.pretty/SOP65P810X110-33A.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_least_sop65p810x110_33a
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_least_sop65p810x110_33a
   oomp_key_simple: cpavlina_ipc7351_least_sop65p810x110_33a
   owner: cpavlina
   repo:

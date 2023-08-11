@@ -17,9 +17,18 @@
   oomp:
     footprint_name: do_35
     library_name: pth_semi
+    md5: b774ab003f67176d1f787a4bfb781fba
+    md5_10: b774ab003f
+    md5_5: b774a
+    md5_6: b774ab
+    oomp_key: oomp_cpavlina_pth_semi_do_35
+    oomp_key_extra: oomp_footprint_cpavlina_pth_semi_do_35
+    oomp_key_full: oomp_footprint_cpavlina_pth_semi_do_35_b774ab
+    oomp_key_simple: cpavlina_pth_semi_do_35
     original_filename: kicad-pcblib/pth-semi.pretty/DO-35.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_pth_semi_do_35
+  oomp_key_full: oomp_footprint_cpavlina_pth_semi_do_35
   oomp_key_simple: cpavlina_pth_semi_do_35
   owner: cpavlina
   repo:

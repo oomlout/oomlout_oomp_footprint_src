@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_2pol254
     library_name: xess
+    md5: 178b525570340ab739ca5fdfa8f5c4ca
+    md5_10: 178b525570
+    md5_5: 178b5
+    md5_6: 178b52
+    oomp_key: oomp_xesscorp_xess_xess_2pol254
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_2pol254
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_2pol254_178b52
+    oomp_key_simple: xesscorp_xess_xess_2pol254
     original_filename: xess.pretty/xess-2POL254.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_2pol254
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_2pol254
   oomp_key_simple: xesscorp_xess_xess_2pol254
   owner: xesscorp
   repo:

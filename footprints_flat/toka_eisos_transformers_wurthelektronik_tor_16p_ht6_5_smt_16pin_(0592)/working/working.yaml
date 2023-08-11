@@ -17,9 +17,18 @@
   oomp:
     footprint_name: tor_16p_ht6_5_smt_16pin_(0592)
     library_name: transformers_wurthelektronik
+    md5: 37cdd50371d4633cf2528570d6aeaa07
+    md5_10: 37cdd50371
+    md5_5: 37cdd
+    md5_6: 37cdd5
+    oomp_key: oomp_toka_eisos_transformers_wurthelektronik_tor_16p_ht6_5_smt_16pin_(0592)
+    oomp_key_extra: oomp_footprint_toka_eisos_transformers_wurthelektronik_tor_16p_ht6_5_smt_16pin_(0592)
+    oomp_key_full: oomp_footprint_toka_eisos_transformers_wurthelektronik_tor_16p_ht6_5_smt_16pin_(0592)_37cdd5
+    oomp_key_simple: toka_eisos_transformers_wurthelektronik_tor_16p_ht6_5_smt_16pin_(0592)
     original_filename: Transformers_WurthElektronik.pretty/TOR-16P-HT6.5_SMT_16PIN_(0592).kicad_mod
     owner_name: toka_eisos
   oomp_key: oomp_toka_eisos_transformers_wurthelektronik_tor_16p_ht6_5_smt_16pin_(0592)
+  oomp_key_full: oomp_footprint_toka_eisos_transformers_wurthelektronik_tor_16p_ht6_5_smt_16pin_(0592)
   oomp_key_simple: toka_eisos_transformers_wurthelektronik_tor_16p_ht6_5_smt_16pin_(0592)
   owner: toka-eisos
   repo:

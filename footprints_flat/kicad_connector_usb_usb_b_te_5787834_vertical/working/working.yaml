@@ -17,9 +17,18 @@
   oomp:
     footprint_name: usb_b_te_5787834_vertical
     library_name: connector_usb
+    md5: 1e7ab95d8e2a835d12a5a3213bfafbc1
+    md5_10: 1e7ab95d8e
+    md5_5: 1e7ab
+    md5_6: 1e7ab9
+    oomp_key: oomp_kicad_connector_usb_usb_b_te_5787834_vertical
+    oomp_key_extra: oomp_footprint_kicad_connector_usb_usb_b_te_5787834_vertical
+    oomp_key_full: oomp_footprint_kicad_connector_usb_usb_b_te_5787834_vertical_1e7ab9
+    oomp_key_simple: kicad_connector_usb_usb_b_te_5787834_vertical
     original_filename: libraries/kicad-footprints/Connector_USB.pretty/USB_B_TE_5787834_Vertical.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_usb_usb_b_te_5787834_vertical
+  oomp_key_full: oomp_footprint_kicad_connector_usb_usb_b_te_5787834_vertical
   oomp_key_simple: kicad_connector_usb_usb_b_te_5787834_vertical
   owner: kicad
   repo:

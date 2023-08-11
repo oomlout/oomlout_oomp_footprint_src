@@ -17,9 +17,18 @@
   oomp:
     footprint_name: conrad_usb_uart
     library_name: suf_module
+    md5: 72865f0e0477831afdd0381f3ca11ffc
+    md5_10: 72865f0e04
+    md5_5: '72865'
+    md5_6: 72865f
+    oomp_key: oomp_suf_kicad_suf_module_conrad_usb_uart
+    oomp_key_extra: oomp_footprint_suf_kicad_suf_module_conrad_usb_uart
+    oomp_key_full: oomp_footprint_suf_kicad_suf_module_conrad_usb_uart_72865f
+    oomp_key_simple: suf_kicad_suf_module_conrad_usb_uart
     original_filename: suf_module.pretty/CONRAD_USB_UART.kicad_mod
     owner_name: suf_kicad
   oomp_key: oomp_suf_kicad_suf_module_conrad_usb_uart
+  oomp_key_full: oomp_footprint_suf_kicad_suf_module_conrad_usb_uart
   oomp_key_simple: suf_kicad_suf_module_conrad_usb_uart
   owner: suf-KiCAD
   repo:

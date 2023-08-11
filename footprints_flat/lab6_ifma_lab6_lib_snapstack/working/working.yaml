@@ -17,9 +17,18 @@
   oomp:
     footprint_name: snapstack
     library_name: lab6_lib
+    md5: 0434742ba46e84173c135cde5f2d61b8
+    md5_10: 0434742ba4
+    md5_5: '04347'
+    md5_6: '043474'
+    oomp_key: oomp_lab6_ifma_lab6_lib_snapstack
+    oomp_key_extra: oomp_footprint_lab6_ifma_lab6_lib_snapstack
+    oomp_key_full: oomp_footprint_lab6_ifma_lab6_lib_snapstack_043474
+    oomp_key_simple: lab6_ifma_lab6_lib_snapstack
     original_filename: LAB6-LIB.pretty/SnapStack.kicad_mod
     owner_name: lab6_ifma
   oomp_key: oomp_lab6_ifma_lab6_lib_snapstack
+  oomp_key_full: oomp_footprint_lab6_ifma_lab6_lib_snapstack
   oomp_key_simple: lab6_ifma_lab6_lib_snapstack
   owner: lab6-ifma
   repo:

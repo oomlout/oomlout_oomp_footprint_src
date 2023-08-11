@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ssop28_5_3mm
     library_name: freetronics_footprints
+    md5: 1508b50d2470dad71d652ef35a0b1f44
+    md5_10: 1508b50d24
+    md5_5: 1508b
+    md5_6: 1508b5
+    oomp_key: oomp_axello_freetronics_footprints_ssop28_5_3mm
+    oomp_key_extra: oomp_footprint_axello_freetronics_footprints_ssop28_5_3mm
+    oomp_key_full: oomp_footprint_axello_freetronics_footprints_ssop28_5_3mm_1508b5
+    oomp_key_simple: axello_freetronics_footprints_ssop28_5_3mm
     original_filename: kicad/mods/freetronics_footprints.pretty/SSOP28_5.3mm.kicad_mod
     owner_name: axello
   oomp_key: oomp_axello_freetronics_footprints_ssop28_5_3mm
+  oomp_key_full: oomp_footprint_axello_freetronics_footprints_ssop28_5_3mm
   oomp_key_simple: axello_freetronics_footprints_ssop28_5_3mm
   owner: axello
   repo:

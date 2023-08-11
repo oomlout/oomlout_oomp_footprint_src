@@ -17,9 +17,18 @@
   oomp:
     footprint_name: l_neosid_ms95
     library_name: inductor_smd
+    md5: 31cdff5bb150d6e4ca3f30cf8d2357c8
+    md5_10: 31cdff5bb1
+    md5_5: 31cdf
+    md5_6: 31cdff
+    oomp_key: oomp_kicad_inductor_smd_l_neosid_ms95
+    oomp_key_extra: oomp_footprint_kicad_inductor_smd_l_neosid_ms95
+    oomp_key_full: oomp_footprint_kicad_inductor_smd_l_neosid_ms95_31cdff
+    oomp_key_simple: kicad_inductor_smd_l_neosid_ms95
     original_filename: libraries/kicad-footprints/Inductor_SMD.pretty/L_Neosid_Ms95.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_inductor_smd_l_neosid_ms95
+  oomp_key_full: oomp_footprint_kicad_inductor_smd_l_neosid_ms95
   oomp_key_simple: kicad_inductor_smd_l_neosid_ms95
   owner: kicad
   repo:

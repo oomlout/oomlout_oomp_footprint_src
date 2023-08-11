@@ -19,9 +19,18 @@
   oomp:
     footprint_name: microsd_hc_hirose_dm3d_sf
     library_name: connector_card
+    md5: 5da424e67fe222091e532dbb844674c6
+    md5_10: 5da424e67f
+    md5_5: 5da42
+    md5_6: 5da424
+    oomp_key: oomp_iangitpers_connector_card_microsd_hc_hirose_dm3d_sf
+    oomp_key_extra: oomp_footprint_iangitpers_connector_card_microsd_hc_hirose_dm3d_sf
+    oomp_key_full: oomp_footprint_iangitpers_connector_card_microsd_hc_hirose_dm3d_sf_5da424
+    oomp_key_simple: iangitpers_connector_card_microsd_hc_hirose_dm3d_sf
     original_filename: 4a/Connector_Card.pretty/microSD_HC_Hirose_DM3D-SF.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_connector_card_microsd_hc_hirose_dm3d_sf
+  oomp_key_full: oomp_footprint_iangitpers_connector_card_microsd_hc_hirose_dm3d_sf
   oomp_key_simple: iangitpers_connector_card_microsd_hc_hirose_dm3d_sf
   owner: Iangitpers
   repo:

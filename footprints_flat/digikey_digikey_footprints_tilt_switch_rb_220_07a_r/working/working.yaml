@@ -17,9 +17,18 @@
   oomp:
     footprint_name: tilt_switch_rb_220_07a_r
     library_name: digikey_footprints
+    md5: f3f8961ae5ee5c54fabb12761e016f19
+    md5_10: f3f8961ae5
+    md5_5: f3f89
+    md5_6: f3f896
+    oomp_key: oomp_digikey_digikey_footprints_tilt_switch_rb_220_07a_r
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_tilt_switch_rb_220_07a_r
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_tilt_switch_rb_220_07a_r_f3f896
+    oomp_key_simple: digikey_digikey_footprints_tilt_switch_rb_220_07a_r
     original_filename: digikey-kicad-library/digikey-footprints.pretty/Tilt_Switch_RB-220-07A_R.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_tilt_switch_rb_220_07a_r
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_tilt_switch_rb_220_07a_r
   oomp_key_simple: digikey_digikey_footprints_tilt_switch_rb_220_07a_r
   owner: digikey
   repo:

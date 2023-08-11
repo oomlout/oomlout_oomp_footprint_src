@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sc88
     library_name: kicadfootprint
+    md5: 9effe751cdc3dfa9ff3fd15c5248abfc
+    md5_10: 9effe751cd
+    md5_5: 9effe
+    md5_6: 9effe7
+    oomp_key: oomp_vivitainc_kicadfootprint_sc88
+    oomp_key_extra: oomp_footprint_vivitainc_kicadfootprint_sc88
+    oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_sc88_9effe7
+    oomp_key_simple: vivitainc_kicadfootprint_sc88
     original_filename: KiCADfootprint.pretty/SC88.kicad_mod
     owner_name: vivitainc
   oomp_key: oomp_vivitainc_kicadfootprint_sc88
+  oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_sc88
   oomp_key_simple: vivitainc_kicadfootprint_sc88
   owner: vivitainc
   repo:

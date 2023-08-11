@@ -17,9 +17,18 @@
   oomp:
     footprint_name: wifi_module_atwinc1500_mr210pb
     library_name: digikey_footprints
+    md5: ad03537f0c02e876c1c7fd0246202ae8
+    md5_10: ad03537f0c
+    md5_5: ad035
+    md5_6: ad0353
+    oomp_key: oomp_digikey_digikey_footprints_wifi_module_atwinc1500_mr210pb
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_wifi_module_atwinc1500_mr210pb
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_wifi_module_atwinc1500_mr210pb_ad0353
+    oomp_key_simple: digikey_digikey_footprints_wifi_module_atwinc1500_mr210pb
     original_filename: digikey-kicad-library/digikey-footprints.pretty/WIFI_Module_ATWINC1500-MR210PB.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_wifi_module_atwinc1500_mr210pb
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_wifi_module_atwinc1500_mr210pb
   oomp_key_simple: digikey_digikey_footprints_wifi_module_atwinc1500_mr210pb
   owner: digikey
   repo:

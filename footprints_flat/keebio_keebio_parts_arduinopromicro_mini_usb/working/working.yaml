@@ -17,9 +17,18 @@
   oomp:
     footprint_name: arduinopromicro_mini_usb
     library_name: keebio_parts
+    md5: 2467b5394f4a610ef29ca2ea5bffbca6
+    md5_10: 2467b5394f
+    md5_5: 2467b
+    md5_6: 2467b5
+    oomp_key: oomp_keebio_keebio_parts_arduinopromicro_mini_usb
+    oomp_key_extra: oomp_footprint_keebio_keebio_parts_arduinopromicro_mini_usb
+    oomp_key_full: oomp_footprint_keebio_keebio_parts_arduinopromicro_mini_usb_2467b5
+    oomp_key_simple: keebio_keebio_parts_arduinopromicro_mini_usb
     original_filename: Keebio-Parts.pretty/ArduinoProMicro-Mini-USB.kicad_mod
     owner_name: keebio
   oomp_key: oomp_keebio_keebio_parts_arduinopromicro_mini_usb
+  oomp_key_full: oomp_footprint_keebio_keebio_parts_arduinopromicro_mini_usb
   oomp_key_simple: keebio_keebio_parts_arduinopromicro_mini_usb
   owner: keebio
   repo:

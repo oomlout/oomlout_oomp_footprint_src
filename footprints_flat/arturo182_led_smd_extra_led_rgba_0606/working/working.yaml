@@ -19,9 +19,18 @@
   oomp:
     footprint_name: led_rgba_0606
     library_name: led_smd_extra
+    md5: f440aecd7defad311bfc3c4a64b2a6ba
+    md5_10: f440aecd7d
+    md5_5: f440a
+    md5_6: f440ae
+    oomp_key: oomp_arturo182_led_smd_extra_led_rgba_0606
+    oomp_key_extra: oomp_footprint_arturo182_led_smd_extra_led_rgba_0606
+    oomp_key_full: oomp_footprint_arturo182_led_smd_extra_led_rgba_0606_f440ae
+    oomp_key_simple: arturo182_led_smd_extra_led_rgba_0606
     original_filename: kicad-modules/LED_SMD_Extra.pretty/LED_RGBA_0606.kicad_mod
     owner_name: arturo182
   oomp_key: oomp_arturo182_led_smd_extra_led_rgba_0606
+  oomp_key_full: oomp_footprint_arturo182_led_smd_extra_led_rgba_0606
   oomp_key_simple: arturo182_led_smd_extra_led_rgba_0606
   owner: arturo182
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: samtec_hle_120_02_xxx_dv_be_xx_xx
     library_name: rpi_hat
+    md5: 53b3dda3ee1a36be96c2d2a5d248e1fc
+    md5_10: 53b3dda3ee
+    md5_5: 53b3d
+    md5_6: 53b3dd
+    oomp_key: oomp_xesscorp_rpi_hat_samtec_hle_120_02_xxx_dv_be_xx_xx
+    oomp_key_extra: oomp_footprint_xesscorp_rpi_hat_samtec_hle_120_02_xxx_dv_be_xx_xx
+    oomp_key_full: oomp_footprint_xesscorp_rpi_hat_samtec_hle_120_02_xxx_dv_be_xx_xx_53b3dd
+    oomp_key_simple: xesscorp_rpi_hat_samtec_hle_120_02_xxx_dv_be_xx_xx
     original_filename: RPi_Hat.pretty/Samtec_HLE-120-02-XXX-DV-BE-XX-XX.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_rpi_hat_samtec_hle_120_02_xxx_dv_be_xx_xx
+  oomp_key_full: oomp_footprint_xesscorp_rpi_hat_samtec_hle_120_02_xxx_dv_be_xx_xx
   oomp_key_simple: xesscorp_rpi_hat_samtec_hle_120_02_xxx_dv_be_xx_xx
   owner: xesscorp
   repo:

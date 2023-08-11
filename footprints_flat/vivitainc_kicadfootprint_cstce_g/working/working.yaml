@@ -17,9 +17,18 @@
   oomp:
     footprint_name: cstce_g
     library_name: kicadfootprint
+    md5: ca885346b0ac82cd42e6fb67ed0b1bd7
+    md5_10: ca885346b0
+    md5_5: ca885
+    md5_6: ca8853
+    oomp_key: oomp_vivitainc_kicadfootprint_cstce_g
+    oomp_key_extra: oomp_footprint_vivitainc_kicadfootprint_cstce_g
+    oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_cstce_g_ca8853
+    oomp_key_simple: vivitainc_kicadfootprint_cstce_g
     original_filename: KiCADfootprint.pretty/CSTCE_G.kicad_mod
     owner_name: vivitainc
   oomp_key: oomp_vivitainc_kicadfootprint_cstce_g
+  oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_cstce_g
   oomp_key_simple: vivitainc_kicadfootprint_cstce_g
   owner: vivitainc
   repo:

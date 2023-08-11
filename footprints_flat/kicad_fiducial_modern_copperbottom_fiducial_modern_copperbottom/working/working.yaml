@@ -16,10 +16,19 @@
   name: libraries/kicad-footprints/
   oomp:
     footprint_name: fiducial_modern_copperbottom
-    library_name: fiducial
+    library_name: fiducial_modern_copperbottom_kicad_mod
+    md5: ac5afb30afd291f144a762e577a67791
+    md5_10: ac5afb30af
+    md5_5: ac5af
+    md5_6: ac5afb
+    oomp_key: oomp_kicad_fiducial_modern_copperbottom_fiducial_modern_copperbottom
+    oomp_key_extra: oomp_footprint_kicad_fiducial_modern_copperbottom_fiducial_modern_copperbottom
+    oomp_key_full: oomp_footprint_kicad_fiducial_modern_copperbottom_fiducial_modern_copperbottom_ac5afb
+    oomp_key_simple: kicad_fiducial_modern_copperbottom_fiducial_modern_copperbottom
     original_filename: libraries/kicad-footprints/Obsolete/Fiducial/Fiducial_Modern_CopperBottom.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_fiducial_modern_copperbottom_fiducial_modern_copperbottom
+  oomp_key_full: oomp_footprint_kicad_fiducial_modern_copperbottom_fiducial_modern_copperbottom
   oomp_key_simple: kicad_fiducial_modern_copperbottom_fiducial_modern_copperbottom
   owner: kicad
   repo:

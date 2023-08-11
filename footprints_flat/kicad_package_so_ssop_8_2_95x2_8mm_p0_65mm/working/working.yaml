@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ssop_8_2_95x2_8mm_p0_65mm
     library_name: package_so
+    md5: f5a829c3368163a23de981c4771ed2b2
+    md5_10: f5a829c336
+    md5_5: f5a82
+    md5_6: f5a829
+    oomp_key: oomp_kicad_package_so_ssop_8_2_95x2_8mm_p0_65mm
+    oomp_key_extra: oomp_footprint_kicad_package_so_ssop_8_2_95x2_8mm_p0_65mm
+    oomp_key_full: oomp_footprint_kicad_package_so_ssop_8_2_95x2_8mm_p0_65mm_f5a829
+    oomp_key_simple: kicad_package_so_ssop_8_2_95x2_8mm_p0_65mm
     original_filename: libraries/kicad-footprints/Package_SO.pretty/SSOP-8_2.95x2.8mm_P0.65mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_so_ssop_8_2_95x2_8mm_p0_65mm
+  oomp_key_full: oomp_footprint_kicad_package_so_ssop_8_2_95x2_8mm_p0_65mm
   oomp_key_simple: kicad_package_so_ssop_8_2_95x2_8mm_p0_65mm
   owner: kicad
   repo:

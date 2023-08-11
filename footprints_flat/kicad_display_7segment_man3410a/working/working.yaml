@@ -17,9 +17,18 @@
   oomp:
     footprint_name: man3410a
     library_name: display_7segment
+    md5: 099263d5abfc3d9f8dcf910dd56acf5d
+    md5_10: 099263d5ab
+    md5_5: 09926
+    md5_6: 099263
+    oomp_key: oomp_kicad_display_7segment_man3410a
+    oomp_key_extra: oomp_footprint_kicad_display_7segment_man3410a
+    oomp_key_full: oomp_footprint_kicad_display_7segment_man3410a_099263
+    oomp_key_simple: kicad_display_7segment_man3410a
     original_filename: libraries/kicad-footprints/Display_7Segment.pretty/MAN3410A.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_display_7segment_man3410a
+  oomp_key_full: oomp_footprint_kicad_display_7segment_man3410a
   oomp_key_simple: kicad_display_7segment_man3410a
   owner: kicad
   repo:

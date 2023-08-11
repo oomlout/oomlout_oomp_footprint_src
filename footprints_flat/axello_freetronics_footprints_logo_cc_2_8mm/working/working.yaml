@@ -17,9 +17,18 @@
   oomp:
     footprint_name: logo_cc_2_8mm
     library_name: freetronics_footprints
+    md5: d879cefa8448347573d1814ed11417df
+    md5_10: d879cefa84
+    md5_5: d879c
+    md5_6: d879ce
+    oomp_key: oomp_axello_freetronics_footprints_logo_cc_2_8mm
+    oomp_key_extra: oomp_footprint_axello_freetronics_footprints_logo_cc_2_8mm
+    oomp_key_full: oomp_footprint_axello_freetronics_footprints_logo_cc_2_8mm_d879ce
+    oomp_key_simple: axello_freetronics_footprints_logo_cc_2_8mm
     original_filename: kicad/mods/freetronics_footprints.pretty/LOGO_CC_2.8mm.kicad_mod
     owner_name: axello
   oomp_key: oomp_axello_freetronics_footprints_logo_cc_2_8mm
+  oomp_key_full: oomp_footprint_axello_freetronics_footprints_logo_cc_2_8mm
   oomp_key_simple: axello_freetronics_footprints_logo_cc_2_8mm
   owner: axello
   repo:

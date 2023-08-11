@@ -19,9 +19,18 @@
   oomp:
     footprint_name: phoenixcontact_mc_1,5_10_gf_3_81_1x10_p3_81mm_horizontal_threadedflange
     library_name: connector_phoenix_mc
+    md5: fa7ebfaa8fa2bf08c1fc5ca2f3a2fc31
+    md5_10: fa7ebfaa8f
+    md5_5: fa7eb
+    md5_6: fa7ebf
+    oomp_key: oomp_kicad_connector_phoenix_mc_phoenixcontact_mc_1,5_10_gf_3_81_1x10_p3_81mm_horizontal_threadedflange
+    oomp_key_extra: oomp_footprint_kicad_connector_phoenix_mc_phoenixcontact_mc_1,5_10_gf_3_81_1x10_p3_81mm_horizontal_threadedflange
+    oomp_key_full: oomp_footprint_kicad_connector_phoenix_mc_phoenixcontact_mc_1,5_10_gf_3_81_1x10_p3_81mm_horizontal_threadedflange_fa7ebf
+    oomp_key_simple: kicad_connector_phoenix_mc_phoenixcontact_mc_1,5_10_gf_3_81_1x10_p3_81mm_horizontal_threadedflange
     original_filename: libraries/kicad-footprints/Connector_Phoenix_MC.pretty/PhoenixContact_MC_1,5_10-GF-3.81_1x10_P3.81mm_Horizontal_ThreadedFlange.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_phoenix_mc_phoenixcontact_mc_1,5_10_gf_3_81_1x10_p3_81mm_horizontal_threadedflange
+  oomp_key_full: oomp_footprint_kicad_connector_phoenix_mc_phoenixcontact_mc_1,5_10_gf_3_81_1x10_p3_81mm_horizontal_threadedflange
   oomp_key_simple: kicad_connector_phoenix_mc_phoenixcontact_mc_1,5_10_gf_3_81_1x10_p3_81mm_horizontal_threadedflange
   owner: kicad
   repo:

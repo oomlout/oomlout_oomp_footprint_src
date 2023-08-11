@@ -17,9 +17,18 @@
   oomp:
     footprint_name: potentiometer_bourns_3266x_horizontal
     library_name: potentiometer_tht
+    md5: 010a4d114de2f49425eaf9536c776f1f
+    md5_10: 010a4d114d
+    md5_5: 010a4
+    md5_6: 010a4d
+    oomp_key: oomp_kicad_potentiometer_tht_potentiometer_bourns_3266x_horizontal
+    oomp_key_extra: oomp_footprint_kicad_potentiometer_tht_potentiometer_bourns_3266x_horizontal
+    oomp_key_full: oomp_footprint_kicad_potentiometer_tht_potentiometer_bourns_3266x_horizontal_010a4d
+    oomp_key_simple: kicad_potentiometer_tht_potentiometer_bourns_3266x_horizontal
     original_filename: libraries/kicad-footprints/Potentiometer_THT.pretty/Potentiometer_Bourns_3266X_Horizontal.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_potentiometer_tht_potentiometer_bourns_3266x_horizontal
+  oomp_key_full: oomp_footprint_kicad_potentiometer_tht_potentiometer_bourns_3266x_horizontal
   oomp_key_simple: kicad_potentiometer_tht_potentiometer_bourns_3266x_horizontal
   owner: kicad
   repo:

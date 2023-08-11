@@ -18,9 +18,18 @@
   oomp:
     footprint_name: pinheader_1x39_p2_00mm_horizontal
     library_name: connector_pinheader_2_00mm
+    md5: 33b2d718a90c8e06319b88c35ec1071a
+    md5_10: 33b2d718a9
+    md5_5: 33b2d
+    md5_6: 33b2d7
+    oomp_key: oomp_kicad_connector_pinheader_2_00mm_pinheader_1x39_p2_00mm_horizontal
+    oomp_key_extra: oomp_footprint_kicad_connector_pinheader_2_00mm_pinheader_1x39_p2_00mm_horizontal
+    oomp_key_full: oomp_footprint_kicad_connector_pinheader_2_00mm_pinheader_1x39_p2_00mm_horizontal_33b2d7
+    oomp_key_simple: kicad_connector_pinheader_2_00mm_pinheader_1x39_p2_00mm_horizontal
     original_filename: libraries/kicad-footprints/Connector_PinHeader_2.00mm.pretty/PinHeader_1x39_P2.00mm_Horizontal.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_pinheader_2_00mm_pinheader_1x39_p2_00mm_horizontal
+  oomp_key_full: oomp_footprint_kicad_connector_pinheader_2_00mm_pinheader_1x39_p2_00mm_horizontal
   oomp_key_simple: kicad_connector_pinheader_2_00mm_pinheader_1x39_p2_00mm_horizontal
   owner: kicad
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: planar_smt_6pin_(1091)
     library_name: transformers_wurthelektronik
+    md5: c93bc986de25914804f9592383322057
+    md5_10: c93bc986de
+    md5_5: c93bc
+    md5_6: c93bc9
+    oomp_key: oomp_toka_eisos_transformers_wurthelektronik_planar_smt_6pin_(1091)
+    oomp_key_extra: oomp_footprint_toka_eisos_transformers_wurthelektronik_planar_smt_6pin_(1091)
+    oomp_key_full: oomp_footprint_toka_eisos_transformers_wurthelektronik_planar_smt_6pin_(1091)_c93bc9
+    oomp_key_simple: toka_eisos_transformers_wurthelektronik_planar_smt_6pin_(1091)
     original_filename: Transformers_WurthElektronik.pretty/PLANAR_SMT_6PIN_(1091).kicad_mod
     owner_name: toka_eisos
   oomp_key: oomp_toka_eisos_transformers_wurthelektronik_planar_smt_6pin_(1091)
+  oomp_key_full: oomp_footprint_toka_eisos_transformers_wurthelektronik_planar_smt_6pin_(1091)
   oomp_key_simple: toka_eisos_transformers_wurthelektronik_planar_smt_6pin_(1091)
   owner: toka-eisos
   repo:

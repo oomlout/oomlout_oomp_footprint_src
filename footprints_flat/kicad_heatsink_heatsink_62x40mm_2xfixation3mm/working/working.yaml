@@ -17,9 +17,18 @@
   oomp:
     footprint_name: heatsink_62x40mm_2xfixation3mm
     library_name: heatsink
+    md5: 64295257ef95a622047509ab1dd5d25a
+    md5_10: 64295257ef
+    md5_5: '64295'
+    md5_6: '642952'
+    oomp_key: oomp_kicad_heatsink_heatsink_62x40mm_2xfixation3mm
+    oomp_key_extra: oomp_footprint_kicad_heatsink_heatsink_62x40mm_2xfixation3mm
+    oomp_key_full: oomp_footprint_kicad_heatsink_heatsink_62x40mm_2xfixation3mm_642952
+    oomp_key_simple: kicad_heatsink_heatsink_62x40mm_2xfixation3mm
     original_filename: libraries/kicad-footprints/Heatsink.pretty/Heatsink_62x40mm_2xFixation3mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_heatsink_heatsink_62x40mm_2xfixation3mm
+  oomp_key_full: oomp_footprint_kicad_heatsink_heatsink_62x40mm_2xfixation3mm
   oomp_key_simple: kicad_heatsink_heatsink_62x40mm_2xfixation3mm
   owner: kicad
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: relay_dpdt_schrack_rt2_formc_dual_coil_rm5mm
     library_name: relay_tht
+    md5: 6ffb848c3fcd79e1e09f422347041acd
+    md5_10: 6ffb848c3f
+    md5_5: 6ffb8
+    md5_6: 6ffb84
+    oomp_key: oomp_kicad_relay_tht_relay_dpdt_schrack_rt2_formc_dual_coil_rm5mm
+    oomp_key_extra: oomp_footprint_kicad_relay_tht_relay_dpdt_schrack_rt2_formc_dual_coil_rm5mm
+    oomp_key_full: oomp_footprint_kicad_relay_tht_relay_dpdt_schrack_rt2_formc_dual_coil_rm5mm_6ffb84
+    oomp_key_simple: kicad_relay_tht_relay_dpdt_schrack_rt2_formc_dual_coil_rm5mm
     original_filename: libraries/kicad-footprints/Relay_THT.pretty/Relay_DPDT_Schrack-RT2-FormC-Dual-Coil_RM5mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_relay_tht_relay_dpdt_schrack_rt2_formc_dual_coil_rm5mm
+  oomp_key_full: oomp_footprint_kicad_relay_tht_relay_dpdt_schrack_rt2_formc_dual_coil_rm5mm
   oomp_key_simple: kicad_relay_tht_relay_dpdt_schrack_rt2_formc_dual_coil_rm5mm
   owner: kicad
   repo:

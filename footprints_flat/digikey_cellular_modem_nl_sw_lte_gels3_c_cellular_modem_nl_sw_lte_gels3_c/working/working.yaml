@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: cellular_modem_nl_sw_lte_gels3_c
-    library_name: source_footprints
+    library_name: cellular_modem_nl_sw_lte_gels3_c_kicad_mod
+    md5: 0ed4c538ecaad4363655d9e144ddd4f0
+    md5_10: 0ed4c538ec
+    md5_5: 0ed4c
+    md5_6: 0ed4c5
+    oomp_key: oomp_digikey_cellular_modem_nl_sw_lte_gels3_c_cellular_modem_nl_sw_lte_gels3_c
+    oomp_key_extra: oomp_footprint_digikey_cellular_modem_nl_sw_lte_gels3_c_cellular_modem_nl_sw_lte_gels3_c
+    oomp_key_full: oomp_footprint_digikey_cellular_modem_nl_sw_lte_gels3_c_cellular_modem_nl_sw_lte_gels3_c_0ed4c5
+    oomp_key_simple: digikey_cellular_modem_nl_sw_lte_gels3_c_cellular_modem_nl_sw_lte_gels3_c
     original_filename: digikey-kicad-library/src/Source_Footprints/Cellular_Modem_NL-SW-LTE-GELS3-C.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_cellular_modem_nl_sw_lte_gels3_c_cellular_modem_nl_sw_lte_gels3_c
+  oomp_key_full: oomp_footprint_digikey_cellular_modem_nl_sw_lte_gels3_c_cellular_modem_nl_sw_lte_gels3_c
   oomp_key_simple: digikey_cellular_modem_nl_sw_lte_gels3_c_cellular_modem_nl_sw_lte_gels3_c
   owner: digikey
   repo:

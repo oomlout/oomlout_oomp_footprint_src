@@ -17,9 +17,18 @@
   oomp:
     footprint_name: scart
     library_name: w_conn_av
+    md5: 7961c5309f710690e177cd73c084073b
+    md5_10: 7961c5309f
+    md5_5: 7961c
+    md5_6: 7961c5
+    oomp_key: oomp_asofttech_w_conn_av_scart
+    oomp_key_extra: oomp_footprint_asofttech_w_conn_av_scart
+    oomp_key_full: oomp_footprint_asofttech_w_conn_av_scart_7961c5
+    oomp_key_simple: asofttech_w_conn_av_scart
     original_filename: CAD.KiCad.Libs/modules/w_conn_av.pretty/SCART.kicad_mod
     owner_name: asofttech
   oomp_key: oomp_asofttech_w_conn_av_scart
+  oomp_key_full: oomp_footprint_asofttech_w_conn_av_scart
   oomp_key_simple: asofttech_w_conn_av_scart
   owner: ASoftTech
   repo:

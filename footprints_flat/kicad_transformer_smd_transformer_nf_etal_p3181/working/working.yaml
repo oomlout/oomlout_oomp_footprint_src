@@ -17,9 +17,18 @@
   oomp:
     footprint_name: transformer_nf_etal_p3181
     library_name: transformer_smd
+    md5: 9daf7e3a9d8b7a1441eac327175d1d20
+    md5_10: 9daf7e3a9d
+    md5_5: 9daf7
+    md5_6: 9daf7e
+    oomp_key: oomp_kicad_transformer_smd_transformer_nf_etal_p3181
+    oomp_key_extra: oomp_footprint_kicad_transformer_smd_transformer_nf_etal_p3181
+    oomp_key_full: oomp_footprint_kicad_transformer_smd_transformer_nf_etal_p3181_9daf7e
+    oomp_key_simple: kicad_transformer_smd_transformer_nf_etal_p3181
     original_filename: libraries/kicad-footprints/Transformer_SMD.pretty/Transformer_NF_ETAL_P3181.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_transformer_smd_transformer_nf_etal_p3181
+  oomp_key_full: oomp_footprint_kicad_transformer_smd_transformer_nf_etal_p3181
   oomp_key_simple: kicad_transformer_smd_transformer_nf_etal_p3181
   owner: kicad
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: usb_micro_b_amphenol_10104110_horizontal
     library_name: connector_usb
+    md5: 9ae142b2e02c9c1bfae4f0106b21dce4
+    md5_10: 9ae142b2e0
+    md5_5: 9ae14
+    md5_6: 9ae142
+    oomp_key: oomp_kicad_connector_usb_usb_micro_b_amphenol_10104110_horizontal
+    oomp_key_extra: oomp_footprint_kicad_connector_usb_usb_micro_b_amphenol_10104110_horizontal
+    oomp_key_full: oomp_footprint_kicad_connector_usb_usb_micro_b_amphenol_10104110_horizontal_9ae142
+    oomp_key_simple: kicad_connector_usb_usb_micro_b_amphenol_10104110_horizontal
     original_filename: libraries/kicad-footprints/Connector_USB.pretty/USB_Micro-B_Amphenol_10104110_Horizontal.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_usb_usb_micro_b_amphenol_10104110_horizontal
+  oomp_key_full: oomp_footprint_kicad_connector_usb_usb_micro_b_amphenol_10104110_horizontal
   oomp_key_simple: kicad_connector_usb_usb_micro_b_amphenol_10104110_horizontal
   owner: kicad
   repo:

@@ -16,10 +16,19 @@
   name: KiCAD
   oomp:
     footprint_name: axellogo
-    library_name: mods
+    library_name: axellogo_kicad_mod
+    md5: 047b2d3b5ba83d56f3a4d0f0c185da78
+    md5_10: 047b2d3b5b
+    md5_5: 047b2
+    md5_6: 047b2d
+    oomp_key: oomp_joanthespark_axellogo_axellogo
+    oomp_key_extra: oomp_footprint_joanthespark_axellogo_axellogo
+    oomp_key_full: oomp_footprint_joanthespark_axellogo_axellogo_047b2d
+    oomp_key_simple: joanthespark_axellogo_axellogo
     original_filename: KiCAD/mods/axellogo.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_axellogo_axellogo
+  oomp_key_full: oomp_footprint_joanthespark_axellogo_axellogo
   oomp_key_simple: joanthespark_axellogo_axellogo
   owner: JoanTheSpark
   repo:

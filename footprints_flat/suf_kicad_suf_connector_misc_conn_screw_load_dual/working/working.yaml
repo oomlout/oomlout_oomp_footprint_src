@@ -17,9 +17,18 @@
   oomp:
     footprint_name: conn_screw_load_dual
     library_name: suf_connector_misc
+    md5: ba29246b35b1311467f4f2b36007a6ed
+    md5_10: ba29246b35
+    md5_5: ba292
+    md5_6: ba2924
+    oomp_key: oomp_suf_kicad_suf_connector_misc_conn_screw_load_dual
+    oomp_key_extra: oomp_footprint_suf_kicad_suf_connector_misc_conn_screw_load_dual
+    oomp_key_full: oomp_footprint_suf_kicad_suf_connector_misc_conn_screw_load_dual_ba2924
+    oomp_key_simple: suf_kicad_suf_connector_misc_conn_screw_load_dual
     original_filename: suf_connector_misc.pretty/Conn_Screw_Load_Dual.kicad_mod
     owner_name: suf_kicad
   oomp_key: oomp_suf_kicad_suf_connector_misc_conn_screw_load_dual
+  oomp_key_full: oomp_footprint_suf_kicad_suf_connector_misc_conn_screw_load_dual
   oomp_key_simple: suf_kicad_suf_connector_misc_conn_screw_load_dual
   owner: suf-KiCAD
   repo:

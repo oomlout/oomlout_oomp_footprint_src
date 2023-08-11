@@ -17,9 +17,18 @@
   oomp:
     footprint_name: mapbga_121_8x8mm_0_65mm_copper_alignment_marks
     library_name: sh_bga
+    md5: e6a43781288c6a50ac92961057003589
+    md5_10: e6a4378128
+    md5_5: e6a43
+    md5_6: e6a437
+    oomp_key: oomp_stefanhamminga_sh_bga_mapbga_121_8x8mm_0_65mm_copper_alignment_marks
+    oomp_key_extra: oomp_footprint_stefanhamminga_sh_bga_mapbga_121_8x8mm_0_65mm_copper_alignment_marks
+    oomp_key_full: oomp_footprint_stefanhamminga_sh_bga_mapbga_121_8x8mm_0_65mm_copper_alignment_marks_e6a437
+    oomp_key_simple: stefanhamminga_sh_bga_mapbga_121_8x8mm_0_65mm_copper_alignment_marks
     original_filename: SH_BGA.pretty/MAPBGA-121_8x8mm_0.65mm_Copper_alignment_marks.kicad_mod
     owner_name: stefanhamminga
   oomp_key: oomp_stefanhamminga_sh_bga_mapbga_121_8x8mm_0_65mm_copper_alignment_marks
+  oomp_key_full: oomp_footprint_stefanhamminga_sh_bga_mapbga_121_8x8mm_0_65mm_copper_alignment_marks
   oomp_key_simple: stefanhamminga_sh_bga_mapbga_121_8x8mm_0_65mm_copper_alignment_marks
   owner: StefanHamminga
   repo:

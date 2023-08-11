@@ -19,9 +19,18 @@
   oomp:
     footprint_name: molex_200528_0270_1x27_1mp_p1_00mm_horizontal
     library_name: connector_ffc_fpc
+    md5: 405e4c30e0b8cf2b47fa8bf2aebe65ba
+    md5_10: 405e4c30e0
+    md5_5: 405e4
+    md5_6: 405e4c
+    oomp_key: oomp_kicad_connector_ffc_fpc_molex_200528_0270_1x27_1mp_p1_00mm_horizontal
+    oomp_key_extra: oomp_footprint_kicad_connector_ffc_fpc_molex_200528_0270_1x27_1mp_p1_00mm_horizontal
+    oomp_key_full: oomp_footprint_kicad_connector_ffc_fpc_molex_200528_0270_1x27_1mp_p1_00mm_horizontal_405e4c
+    oomp_key_simple: kicad_connector_ffc_fpc_molex_200528_0270_1x27_1mp_p1_00mm_horizontal
     original_filename: libraries/kicad-footprints/Connector_FFC-FPC.pretty/Molex_200528-0270_1x27-1MP_P1.00mm_Horizontal.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_ffc_fpc_molex_200528_0270_1x27_1mp_p1_00mm_horizontal
+  oomp_key_full: oomp_footprint_kicad_connector_ffc_fpc_molex_200528_0270_1x27_1mp_p1_00mm_horizontal
   oomp_key_simple: kicad_connector_ffc_fpc_molex_200528_0270_1x27_1mp_p1_00mm_horizontal
   owner: kicad
   repo:

@@ -18,9 +18,18 @@
   oomp:
     footprint_name: signalcommunications_we_tpc_2811_2813_old
     library_name: signalcommunications
+    md5: 75fe66a9aaf641fed1d7fb6c6be1c33b
+    md5_10: 75fe66a9aa
+    md5_5: 75fe6
+    md5_6: 75fe66
+    oomp_key: oomp_electroniccats_signalcommunications_signalcommunications_we_tpc_2811_2813_old
+    oomp_key_extra: oomp_footprint_electroniccats_signalcommunications_signalcommunications_we_tpc_2811_2813_old
+    oomp_key_full: oomp_footprint_electroniccats_signalcommunications_signalcommunications_we_tpc_2811_2813_old_75fe66
+    oomp_key_simple: electroniccats_signalcommunications_signalcommunications_we_tpc_2811_2813_old
     original_filename: ComponentLibrariesKicadWurthElektronik/SIGNAL-COMMUNICATIONS-rev18a/SignalCommunications.pretty/SignalCommunications-WE-TPC_2811_2813_OLD.kicad_mod
     owner_name: electroniccats
   oomp_key: oomp_electroniccats_signalcommunications_signalcommunications_we_tpc_2811_2813_old
+  oomp_key_full: oomp_footprint_electroniccats_signalcommunications_signalcommunications_we_tpc_2811_2813_old
   oomp_key_simple: electroniccats_signalcommunications_signalcommunications_we_tpc_2811_2813_old
   owner: ElectronicCats
   repo:

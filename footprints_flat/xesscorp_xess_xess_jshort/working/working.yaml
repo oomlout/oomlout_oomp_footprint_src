@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_jshort
     library_name: xess
+    md5: 55292254d85a0648b33a178ab795e3fd
+    md5_10: 55292254d8
+    md5_5: '55292'
+    md5_6: '552922'
+    oomp_key: oomp_xesscorp_xess_xess_jshort
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_jshort
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_jshort_552922
+    oomp_key_simple: xesscorp_xess_xess_jshort
     original_filename: xess.pretty/xess-JSHORT.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_jshort
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_jshort
   oomp_key_simple: xesscorp_xess_xess_jshort
   owner: xesscorp
   repo:

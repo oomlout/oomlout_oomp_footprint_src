@@ -17,9 +17,18 @@
   oomp:
     footprint_name: _msop_8_n
     library_name: _std
+    md5: c39238256dd3050658c91f82989e82d9
+    md5_10: c39238256d
+    md5_5: c3923
+    md5_6: c39238
+    oomp_key: oomp_mcous_std_msop_8_n
+    oomp_key_extra: oomp_footprint_mcous_std_msop_8_n
+    oomp_key_full: oomp_footprint_mcous_std_msop_8_n_c39238
+    oomp_key_simple: mcous_std_msop_8_n
     original_filename: kicad-lib/footprints/_std.pretty/_MSOP-8-N.kicad_mod
     owner_name: mcous
   oomp_key: oomp_mcous_std_msop_8_n
+  oomp_key_full: oomp_footprint_mcous_std_msop_8_n
   oomp_key_simple: mcous_std_msop_8_n
   owner: mcous
   repo:

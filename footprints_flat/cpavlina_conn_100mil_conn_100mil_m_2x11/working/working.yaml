@@ -17,9 +17,18 @@
   oomp:
     footprint_name: conn_100mil_m_2x11
     library_name: conn_100mil
+    md5: 579e9cb57df5fe9c48109742159341c9
+    md5_10: 579e9cb57d
+    md5_5: 579e9
+    md5_6: 579e9c
+    oomp_key: oomp_cpavlina_conn_100mil_conn_100mil_m_2x11
+    oomp_key_extra: oomp_footprint_cpavlina_conn_100mil_conn_100mil_m_2x11
+    oomp_key_full: oomp_footprint_cpavlina_conn_100mil_conn_100mil_m_2x11_579e9c
+    oomp_key_simple: cpavlina_conn_100mil_conn_100mil_m_2x11
     original_filename: kicad-pcblib/conn-100mil.pretty/CONN-100MIL-M-2x11.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_conn_100mil_conn_100mil_m_2x11
+  oomp_key_full: oomp_footprint_cpavlina_conn_100mil_conn_100mil_m_2x11
   oomp_key_simple: cpavlina_conn_100mil_conn_100mil_m_2x11
   owner: cpavlina
   repo:

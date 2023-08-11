@@ -17,9 +17,18 @@
   oomp:
     footprint_name: oscillator_dip_8
     library_name: oscillator
+    md5: 3bc25512b4fdb1665a06c4b00f8ee7bf
+    md5_10: 3bc25512b4
+    md5_5: 3bc25
+    md5_6: 3bc255
+    oomp_key: oomp_kicad_oscillator_oscillator_dip_8
+    oomp_key_extra: oomp_footprint_kicad_oscillator_oscillator_dip_8
+    oomp_key_full: oomp_footprint_kicad_oscillator_oscillator_dip_8_3bc255
+    oomp_key_simple: kicad_oscillator_oscillator_dip_8
     original_filename: libraries/kicad-footprints/Oscillator.pretty/Oscillator_DIP-8.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_oscillator_oscillator_dip_8
+  oomp_key_full: oomp_footprint_kicad_oscillator_oscillator_dip_8
   oomp_key_simple: kicad_oscillator_oscillator_dip_8
   owner: kicad
   repo:

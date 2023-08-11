@@ -17,9 +17,18 @@
   oomp:
     footprint_name: mouse_bite_1mm_slot
     library_name: panelization
+    md5: 62b031237fe176705f6a6486ecdac9fd
+    md5_10: 62b031237f
+    md5_5: 62b03
+    md5_6: 62b031
+    oomp_key: oomp_madworm_panelization_mouse_bite_1mm_slot
+    oomp_key_extra: oomp_footprint_madworm_panelization_mouse_bite_1mm_slot
+    oomp_key_full: oomp_footprint_madworm_panelization_mouse_bite_1mm_slot_62b031
+    oomp_key_simple: madworm_panelization_mouse_bite_1mm_slot
     original_filename: Panelization.pretty/mouse-bite-1mm-slot.kicad_mod
     owner_name: madworm
   oomp_key: oomp_madworm_panelization_mouse_bite_1mm_slot
+  oomp_key_full: oomp_footprint_madworm_panelization_mouse_bite_1mm_slot
   oomp_key_simple: madworm_panelization_mouse_bite_1mm_slot
   owner: madworm
   repo:

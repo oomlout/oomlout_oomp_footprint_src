@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ce_140
     library_name: 1w_grove_v0_1
+    md5: b6b19143d79ee3800b403e0bc3620706
+    md5_10: b6b19143d7
+    md5_5: b6b19
+    md5_6: b6b191
+    oomp_key: oomp_joanthespark_1w_grove_v0_1_ce_140
+    oomp_key_extra: oomp_footprint_joanthespark_1w_grove_v0_1_ce_140
+    oomp_key_full: oomp_footprint_joanthespark_1w_grove_v0_1_ce_140_b6b191
+    oomp_key_simple: joanthespark_1w_grove_v0_1_ce_140
     original_filename: KiCAD/6.0/projects/1w-grove-v0.1/1w-grove-v0.1.pretty/CE-140.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_1w_grove_v0_1_ce_140
+  oomp_key_full: oomp_footprint_joanthespark_1w_grove_v0_1_ce_140
   oomp_key_simple: joanthespark_1w_grove_v0_1_ce_140
   owner: JoanTheSpark
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: terminalblock_3_81mm_2pol
     library_name: toroid_kicad
+    md5: b574c53596ead463e1e548ba968de180
+    md5_10: b574c53596
+    md5_5: b574c
+    md5_6: b574c5
+    oomp_key: oomp_andresmanelli_toroid_kicad_terminalblock_3_81mm_2pol
+    oomp_key_extra: oomp_footprint_andresmanelli_toroid_kicad_terminalblock_3_81mm_2pol
+    oomp_key_full: oomp_footprint_andresmanelli_toroid_kicad_terminalblock_3_81mm_2pol_b574c5
+    oomp_key_simple: andresmanelli_toroid_kicad_terminalblock_3_81mm_2pol
     original_filename: TOROID-KiCad.pretty/TerminalBlock_3.81mm_2pol.kicad_mod
     owner_name: andresmanelli
   oomp_key: oomp_andresmanelli_toroid_kicad_terminalblock_3_81mm_2pol
+  oomp_key_full: oomp_footprint_andresmanelli_toroid_kicad_terminalblock_3_81mm_2pol
   oomp_key_simple: andresmanelli_toroid_kicad_terminalblock_3_81mm_2pol
   owner: andresmanelli
   repo:

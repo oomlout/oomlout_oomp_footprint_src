@@ -19,9 +19,18 @@
   oomp:
     footprint_name: molex_mini_fit_sr_42819_52xx_1x05_p10_00mm_vertical_thermalvias
     library_name: connector_molex
+    md5: b27cf0cad1bad296f548452ab7a67cdc
+    md5_10: b27cf0cad1
+    md5_5: b27cf
+    md5_6: b27cf0
+    oomp_key: oomp_kicad_connector_molex_molex_mini_fit_sr_42819_52xx_1x05_p10_00mm_vertical_thermalvias
+    oomp_key_extra: oomp_footprint_kicad_connector_molex_molex_mini_fit_sr_42819_52xx_1x05_p10_00mm_vertical_thermalvias
+    oomp_key_full: oomp_footprint_kicad_connector_molex_molex_mini_fit_sr_42819_52xx_1x05_p10_00mm_vertical_thermalvias_b27cf0
+    oomp_key_simple: kicad_connector_molex_molex_mini_fit_sr_42819_52xx_1x05_p10_00mm_vertical_thermalvias
     original_filename: libraries/kicad-footprints/Connector_Molex.pretty/Molex_Mini-Fit_Sr_42819-52XX_1x05_P10.00mm_Vertical_ThermalVias.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_molex_molex_mini_fit_sr_42819_52xx_1x05_p10_00mm_vertical_thermalvias
+  oomp_key_full: oomp_footprint_kicad_connector_molex_molex_mini_fit_sr_42819_52xx_1x05_p10_00mm_vertical_thermalvias
   oomp_key_simple: kicad_connector_molex_molex_mini_fit_sr_42819_52xx_1x05_p10_00mm_vertical_thermalvias
   owner: kicad
   repo:

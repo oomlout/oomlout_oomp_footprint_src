@@ -17,9 +17,18 @@
   oomp:
     footprint_name: led_0805
     library_name: leds
+    md5: 9f91b647eef9f152600f587093bc32e7
+    md5_10: 9f91b647ee
+    md5_5: 9f91b
+    md5_6: 9f91b6
+    oomp_key: oomp_kicad_legacy_leds_led_0805
+    oomp_key_extra: oomp_footprint_kicad_legacy_leds_led_0805
+    oomp_key_full: oomp_footprint_kicad_legacy_leds_led_0805_9f91b6
+    oomp_key_simple: kicad_legacy_leds_led_0805
     original_filename: LEDs.pretty/LED_0805.kicad_mod
     owner_name: kicad_legacy
   oomp_key: oomp_kicad_legacy_leds_led_0805
+  oomp_key_full: oomp_footprint_kicad_legacy_leds_led_0805
   oomp_key_simple: kicad_legacy_leds_led_0805
   owner: kicad-legacy
   repo:

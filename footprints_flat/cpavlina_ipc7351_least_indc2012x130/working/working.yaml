@@ -17,9 +17,18 @@
   oomp:
     footprint_name: indc2012x130
     library_name: ipc7351_least
+    md5: 682596283e337bdcf40aebc253d8d963
+    md5_10: 682596283e
+    md5_5: '68259'
+    md5_6: '682596'
+    oomp_key: oomp_cpavlina_ipc7351_least_indc2012x130
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_least_indc2012x130
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_least_indc2012x130_682596
+    oomp_key_simple: cpavlina_ipc7351_least_indc2012x130
     original_filename: kicad-pcblib/IPC7351-Least.pretty/INDC2012X130.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_least_indc2012x130
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_least_indc2012x130
   oomp_key_simple: cpavlina_ipc7351_least_indc2012x130
   owner: cpavlina
   repo:

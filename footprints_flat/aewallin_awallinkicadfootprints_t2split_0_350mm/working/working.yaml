@@ -17,9 +17,18 @@
   oomp:
     footprint_name: t2split_0_350mm
     library_name: awallinkicadfootprints
+    md5: d8a3e5883ef97ae02bb8514a833e29eb
+    md5_10: d8a3e5883e
+    md5_5: d8a3e
+    md5_6: d8a3e5
+    oomp_key: oomp_aewallin_awallinkicadfootprints_t2split_0_350mm
+    oomp_key_extra: oomp_footprint_aewallin_awallinkicadfootprints_t2split_0_350mm
+    oomp_key_full: oomp_footprint_aewallin_awallinkicadfootprints_t2split_0_350mm_d8a3e5
+    oomp_key_simple: aewallin_awallinkicadfootprints_t2split_0_350mm
     original_filename: awallinKiCadFootprints.pretty/T2split_0.350mm.kicad_mod
     owner_name: aewallin
   oomp_key: oomp_aewallin_awallinkicadfootprints_t2split_0_350mm
+  oomp_key_full: oomp_footprint_aewallin_awallinkicadfootprints_t2split_0_350mm
   oomp_key_simple: aewallin_awallinkicadfootprints_t2split_0_350mm
   owner: aewallin
   repo:

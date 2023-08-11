@@ -17,9 +17,18 @@
   oomp:
     footprint_name: nxp_xson_16
     library_name: package_son
+    md5: a46e98b1f0e7c68ca64a866b5aaa0928
+    md5_10: a46e98b1f0
+    md5_5: a46e9
+    md5_6: a46e98
+    oomp_key: oomp_kicad_package_son_nxp_xson_16
+    oomp_key_extra: oomp_footprint_kicad_package_son_nxp_xson_16
+    oomp_key_full: oomp_footprint_kicad_package_son_nxp_xson_16_a46e98
+    oomp_key_simple: kicad_package_son_nxp_xson_16
     original_filename: libraries/kicad-footprints/Package_SON.pretty/NXP_XSON-16.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_son_nxp_xson_16
+  oomp_key_full: oomp_footprint_kicad_package_son_nxp_xson_16
   oomp_key_simple: kicad_package_son_nxp_xson_16
   owner: kicad
   repo:

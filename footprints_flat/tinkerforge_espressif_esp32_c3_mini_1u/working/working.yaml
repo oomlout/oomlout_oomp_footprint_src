@@ -17,9 +17,18 @@
   oomp:
     footprint_name: esp32_c3_mini_1u
     library_name: espressif
+    md5: d225e7381daaecc1c392d3376355309f
+    md5_10: d225e7381d
+    md5_5: d225e
+    md5_6: d225e7
+    oomp_key: oomp_tinkerforge_espressif_esp32_c3_mini_1u
+    oomp_key_extra: oomp_footprint_tinkerforge_espressif_esp32_c3_mini_1u
+    oomp_key_full: oomp_footprint_tinkerforge_espressif_esp32_c3_mini_1u_d225e7
+    oomp_key_simple: tinkerforge_espressif_esp32_c3_mini_1u
     original_filename: kicad-libraries/footprints/Espressif.pretty/ESP32-C3-MINI-1U.kicad_mod
     owner_name: tinkerforge
   oomp_key: oomp_tinkerforge_espressif_esp32_c3_mini_1u
+  oomp_key_full: oomp_footprint_tinkerforge_espressif_esp32_c3_mini_1u
   oomp_key_simple: tinkerforge_espressif_esp32_c3_mini_1u
   owner: Tinkerforge
   repo:

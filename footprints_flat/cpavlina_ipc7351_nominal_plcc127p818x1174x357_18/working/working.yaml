@@ -18,9 +18,18 @@
   oomp:
     footprint_name: plcc127p818x1174x357_18
     library_name: ipc7351_nominal
+    md5: 34caf1cc751721847c02c5c9801121a8
+    md5_10: 34caf1cc75
+    md5_5: 34caf
+    md5_6: 34caf1
+    oomp_key: oomp_cpavlina_ipc7351_nominal_plcc127p818x1174x357_18
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_nominal_plcc127p818x1174x357_18
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_plcc127p818x1174x357_18_34caf1
+    oomp_key_simple: cpavlina_ipc7351_nominal_plcc127p818x1174x357_18
     original_filename: kicad-pcblib/IPC7351-Nominal.pretty/PLCC127P818X1174X357-18.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_nominal_plcc127p818x1174x357_18
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_plcc127p818x1174x357_18
   oomp_key_simple: cpavlina_ipc7351_nominal_plcc127p818x1174x357_18
   owner: cpavlina
   repo:

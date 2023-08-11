@@ -17,9 +17,18 @@
   oomp:
     footprint_name: led_rgb_8mm_com_k_minimal
     library_name: freetronics_footprints
+    md5: ec55bf3c18c72d04054e87a38460017a
+    md5_10: ec55bf3c18
+    md5_5: ec55b
+    md5_6: ec55bf
+    oomp_key: oomp_joanthespark_freetronics_footprints_led_rgb_8mm_com_k_minimal
+    oomp_key_extra: oomp_footprint_joanthespark_freetronics_footprints_led_rgb_8mm_com_k_minimal
+    oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_led_rgb_8mm_com_k_minimal_ec55bf
+    oomp_key_simple: joanthespark_freetronics_footprints_led_rgb_8mm_com_k_minimal
     original_filename: KiCAD/mods/freetronics_footprints.pretty/LED-RGB-8MM-COM-K-MINIMAL.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_freetronics_footprints_led_rgb_8mm_com_k_minimal
+  oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_led_rgb_8mm_com_k_minimal
   oomp_key_simple: joanthespark_freetronics_footprints_led_rgb_8mm_com_k_minimal
   owner: JoanTheSpark
   repo:

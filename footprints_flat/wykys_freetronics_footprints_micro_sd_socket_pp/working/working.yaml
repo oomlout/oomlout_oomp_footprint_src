@@ -17,9 +17,18 @@
   oomp:
     footprint_name: micro_sd_socket_pp
     library_name: freetronics_footprints
+    md5: 0d8a56e730e0d18c8dc8a0bdf5348b90
+    md5_10: 0d8a56e730
+    md5_5: 0d8a5
+    md5_6: 0d8a56
+    oomp_key: oomp_wykys_freetronics_footprints_micro_sd_socket_pp
+    oomp_key_extra: oomp_footprint_wykys_freetronics_footprints_micro_sd_socket_pp
+    oomp_key_full: oomp_footprint_wykys_freetronics_footprints_micro_sd_socket_pp_0d8a56
+    oomp_key_simple: wykys_freetronics_footprints_micro_sd_socket_pp
     original_filename: kicad/mods/freetronics_footprints.pretty/MICRO-SD-SOCKET-PP.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_freetronics_footprints_micro_sd_socket_pp
+  oomp_key_full: oomp_footprint_wykys_freetronics_footprints_micro_sd_socket_pp
   oomp_key_simple: wykys_freetronics_footprints_micro_sd_socket_pp
   owner: wykys
   repo:

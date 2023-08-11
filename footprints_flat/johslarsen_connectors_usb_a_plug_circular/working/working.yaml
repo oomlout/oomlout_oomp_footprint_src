@@ -17,9 +17,18 @@
   oomp:
     footprint_name: usb_a_plug_circular
     library_name: connectors
+    md5: a843f4c995826dd0f1ea835576d240b6
+    md5_10: a843f4c995
+    md5_5: a843f
+    md5_6: a843f4
+    oomp_key: oomp_johslarsen_connectors_usb_a_plug_circular
+    oomp_key_extra: oomp_footprint_johslarsen_connectors_usb_a_plug_circular
+    oomp_key_full: oomp_footprint_johslarsen_connectors_usb_a_plug_circular_a843f4
+    oomp_key_simple: johslarsen_connectors_usb_a_plug_circular
     original_filename: Connectors.pretty/USB_A_plug_circular.kicad_mod
     owner_name: johslarsen
   oomp_key: oomp_johslarsen_connectors_usb_a_plug_circular
+  oomp_key_full: oomp_footprint_johslarsen_connectors_usb_a_plug_circular
   oomp_key_simple: johslarsen_connectors_usb_a_plug_circular
   owner: johslarsen
   repo:

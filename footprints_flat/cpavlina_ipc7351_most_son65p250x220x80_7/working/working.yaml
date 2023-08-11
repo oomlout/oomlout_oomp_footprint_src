@@ -18,9 +18,18 @@
   oomp:
     footprint_name: son65p250x220x80_7
     library_name: ipc7351_most
+    md5: fafe2351c01e4f96b828b477f82fb365
+    md5_10: fafe2351c0
+    md5_5: fafe2
+    md5_6: fafe23
+    oomp_key: oomp_cpavlina_ipc7351_most_son65p250x220x80_7
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_most_son65p250x220x80_7
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_most_son65p250x220x80_7_fafe23
+    oomp_key_simple: cpavlina_ipc7351_most_son65p250x220x80_7
     original_filename: kicad-pcblib/IPC7351-Most.pretty/SON65P250X220X80-7.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_most_son65p250x220x80_7
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_most_son65p250x220x80_7
   oomp_key_simple: cpavlina_ipc7351_most_son65p250x220x80_7
   owner: cpavlina
   repo:

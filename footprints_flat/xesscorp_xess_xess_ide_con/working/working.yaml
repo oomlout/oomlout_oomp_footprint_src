@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_ide_con
     library_name: xess
+    md5: 6eda92e99fced6093ec06b20acf70253
+    md5_10: 6eda92e99f
+    md5_5: 6eda9
+    md5_6: 6eda92
+    oomp_key: oomp_xesscorp_xess_xess_ide_con
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_ide_con
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_ide_con_6eda92
+    oomp_key_simple: xesscorp_xess_xess_ide_con
     original_filename: xess.pretty/xess-IDE_CON.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_ide_con
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_ide_con
   oomp_key_simple: xesscorp_xess_xess_ide_con
   owner: xesscorp
   repo:

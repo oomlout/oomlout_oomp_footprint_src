@@ -18,9 +18,18 @@
   oomp:
     footprint_name: l_radial_d29_8mm_p29_30mm_murata_1400series
     library_name: inductor_tht
+    md5: d5f553aa81b9493c33b76a30899a4d6b
+    md5_10: d5f553aa81
+    md5_5: d5f55
+    md5_6: d5f553
+    oomp_key: oomp_kicad_inductor_tht_l_radial_d29_8mm_p29_30mm_murata_1400series
+    oomp_key_extra: oomp_footprint_kicad_inductor_tht_l_radial_d29_8mm_p29_30mm_murata_1400series
+    oomp_key_full: oomp_footprint_kicad_inductor_tht_l_radial_d29_8mm_p29_30mm_murata_1400series_d5f553
+    oomp_key_simple: kicad_inductor_tht_l_radial_d29_8mm_p29_30mm_murata_1400series
     original_filename: libraries/kicad-footprints/Inductor_THT.pretty/L_Radial_D29.8mm_P29.30mm_Murata_1400series.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_inductor_tht_l_radial_d29_8mm_p29_30mm_murata_1400series
+  oomp_key_full: oomp_footprint_kicad_inductor_tht_l_radial_d29_8mm_p29_30mm_murata_1400series
   oomp_key_simple: kicad_inductor_tht_l_radial_d29_8mm_p29_30mm_murata_1400series
   owner: kicad
   repo:

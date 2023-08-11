@@ -16,10 +16,19 @@
   name: agg-kicad
   oomp:
     footprint_name: tc_k_pm
-    library_name: unchecked
+    library_name: agg
+    md5: 3d92f53bf6d637b8b9019e09e1e4e24b
+    md5_10: 3d92f53bf6
+    md5_5: 3d92f
+    md5_6: 3d92f5
+    oomp_key: oomp_adamgreig_agg_tc_k_pm
+    oomp_key_extra: oomp_footprint_adamgreig_agg_tc_k_pm
+    oomp_key_full: oomp_footprint_adamgreig_agg_tc_k_pm_3d92f5
+    oomp_key_simple: adamgreig_agg_tc_k_pm
     original_filename: agg-kicad/agg.pretty/unchecked.pretty/TC_K_PM.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_tc_k_pm
+  oomp_key_full: oomp_footprint_adamgreig_agg_tc_k_pm
   oomp_key_simple: adamgreig_agg_tc_k_pm
   owner: adamgreig
   repo:

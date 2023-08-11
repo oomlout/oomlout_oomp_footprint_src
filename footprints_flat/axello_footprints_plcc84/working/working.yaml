@@ -17,9 +17,18 @@
   oomp:
     footprint_name: plcc84
     library_name: footprints
+    md5: 78d5531d265aa43a16dd67caa2cd89de
+    md5_10: 78d5531d26
+    md5_5: 78d55
+    md5_6: 78d553
+    oomp_key: oomp_axello_footprints_plcc84
+    oomp_key_extra: oomp_footprint_axello_footprints_plcc84
+    oomp_key_full: oomp_footprint_axello_footprints_plcc84_78d553
+    oomp_key_simple: axello_footprints_plcc84
     original_filename: kicad/demos/video/libs/footprints.pretty/PLCC84.kicad_mod
     owner_name: axello
   oomp_key: oomp_axello_footprints_plcc84
+  oomp_key_full: oomp_footprint_axello_footprints_plcc84
   oomp_key_simple: axello_footprints_plcc84
   owner: axello
   repo:

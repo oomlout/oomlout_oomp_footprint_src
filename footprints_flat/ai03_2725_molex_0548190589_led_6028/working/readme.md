@@ -19,8 +19,9 @@ Please consult that link for additional, details, files, and license information
 | github_path | http://github.com/ai03-2725/Molex-0548190589.pretty/blob/master/LED-6028.kicad_mod |  
 | links | {'github_src': 'http://gitlab.com/ai03-2725/Molex-0548190589.pretty/blob/master/USON-TPDxE05U06.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/ai03_2725_molex_0548190589_led_6028/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/ai03_2725_molex_0548190589_led_6028/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/ai03_2725_molex_0548190589_led_6028/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/ai03_2725_molex_0548190589_led_6028/working'} |  
 | name | Molex-0548190589.pretty |  
-| oomp | {'footprint_name': 'led_6028', 'library_name': 'molex_0548190589', 'original_filename': 'Molex-0548190589.pretty/LED-6028.kicad_mod', 'owner_name': 'ai03_2725'} |  
+| oomp | {'footprint_name': 'led_6028', 'library_name': 'molex_0548190589', 'md5': 'c576c0b4dd4f7c56ebae53fc0bf1056b', 'md5_10': 'c576c0b4dd', 'md5_5': 'c576c', 'md5_6': 'c576c0', 'oomp_key': 'oomp_ai03_2725_molex_0548190589_led_6028', 'oomp_key_extra': 'oomp_footprint_ai03_2725_molex_0548190589_led_6028', 'oomp_key_full': 'oomp_footprint_ai03_2725_molex_0548190589_led_6028_c576c0', 'oomp_key_simple': 'ai03_2725_molex_0548190589_led_6028', 'original_filename': 'Molex-0548190589.pretty/LED-6028.kicad_mod', 'owner_name': 'ai03_2725'} |  
 | oomp_key | oomp_ai03_2725_molex_0548190589_led_6028 |  
+| oomp_key_full | oomp_footprint_ai03_2725_molex_0548190589_led_6028 |  
 | oomp_key_simple | ai03_2725_molex_0548190589_led_6028 |  
 | owner | ai03-2725 |  
 | repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  

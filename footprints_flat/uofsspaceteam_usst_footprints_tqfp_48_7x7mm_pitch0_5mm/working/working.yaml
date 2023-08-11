@@ -17,9 +17,18 @@
   oomp:
     footprint_name: tqfp_48_7x7mm_pitch0_5mm
     library_name: usst_footprints
+    md5: 93af419e1e0cf899b77c8b084bc4839f
+    md5_10: 93af419e1e
+    md5_5: 93af4
+    md5_6: 93af41
+    oomp_key: oomp_uofsspaceteam_usst_footprints_tqfp_48_7x7mm_pitch0_5mm
+    oomp_key_extra: oomp_footprint_uofsspaceteam_usst_footprints_tqfp_48_7x7mm_pitch0_5mm
+    oomp_key_full: oomp_footprint_uofsspaceteam_usst_footprints_tqfp_48_7x7mm_pitch0_5mm_93af41
+    oomp_key_simple: uofsspaceteam_usst_footprints_tqfp_48_7x7mm_pitch0_5mm
     original_filename: USST-footprints.pretty/TQFP-48_7x7mm_Pitch0.5mm.kicad_mod
     owner_name: uofsspaceteam
   oomp_key: oomp_uofsspaceteam_usst_footprints_tqfp_48_7x7mm_pitch0_5mm
+  oomp_key_full: oomp_footprint_uofsspaceteam_usst_footprints_tqfp_48_7x7mm_pitch0_5mm
   oomp_key_simple: uofsspaceteam_usst_footprints_tqfp_48_7x7mm_pitch0_5mm
   owner: UofSSpaceTeam
   repo:

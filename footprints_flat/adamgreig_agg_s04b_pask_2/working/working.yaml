@@ -16,10 +16,19 @@
   name: agg-kicad
   oomp:
     footprint_name: s04b_pask_2
-    library_name: unchecked
+    library_name: agg
+    md5: 6b55d70338cd514728c5d535b54fd3d8
+    md5_10: 6b55d70338
+    md5_5: 6b55d
+    md5_6: 6b55d7
+    oomp_key: oomp_adamgreig_agg_s04b_pask_2
+    oomp_key_extra: oomp_footprint_adamgreig_agg_s04b_pask_2
+    oomp_key_full: oomp_footprint_adamgreig_agg_s04b_pask_2_6b55d7
+    oomp_key_simple: adamgreig_agg_s04b_pask_2
     original_filename: agg-kicad/agg.pretty/unchecked.pretty/S04B-PASK-2.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_s04b_pask_2
+  oomp_key_full: oomp_footprint_adamgreig_agg_s04b_pask_2
   oomp_key_simple: adamgreig_agg_s04b_pask_2
   owner: adamgreig
   repo:

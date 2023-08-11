@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ind_cdrh125
     library_name: freetronics_footprints
+    md5: 1cd4e2edc721c77545cb836bf4112349
+    md5_10: 1cd4e2edc7
+    md5_5: 1cd4e
+    md5_6: 1cd4e2
+    oomp_key: oomp_axello_freetronics_footprints_ind_cdrh125
+    oomp_key_extra: oomp_footprint_axello_freetronics_footprints_ind_cdrh125
+    oomp_key_full: oomp_footprint_axello_freetronics_footprints_ind_cdrh125_1cd4e2
+    oomp_key_simple: axello_freetronics_footprints_ind_cdrh125
     original_filename: kicad/mods/freetronics_footprints.pretty/IND_CDRH125.kicad_mod
     owner_name: axello
   oomp_key: oomp_axello_freetronics_footprints_ind_cdrh125
+  oomp_key_full: oomp_footprint_axello_freetronics_footprints_ind_cdrh125
   oomp_key_simple: axello_freetronics_footprints_ind_cdrh125
   owner: axello
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: honeywell_cslw
     library_name: sensor_current
+    md5: f5abee3bbb7a5a0949a8bdbdddeddc5b
+    md5_10: f5abee3bbb
+    md5_5: f5abe
+    md5_6: f5abee
+    oomp_key: oomp_kicad_sensor_current_honeywell_cslw
+    oomp_key_extra: oomp_footprint_kicad_sensor_current_honeywell_cslw
+    oomp_key_full: oomp_footprint_kicad_sensor_current_honeywell_cslw_f5abee
+    oomp_key_simple: kicad_sensor_current_honeywell_cslw
     original_filename: libraries/kicad-footprints/Sensor_Current.pretty/Honeywell_CSLW.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_sensor_current_honeywell_cslw
+  oomp_key_full: oomp_footprint_kicad_sensor_current_honeywell_cslw
   oomp_key_simple: kicad_sensor_current_honeywell_cslw
   owner: kicad
   repo:

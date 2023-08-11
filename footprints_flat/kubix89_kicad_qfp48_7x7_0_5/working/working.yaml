@@ -17,9 +17,18 @@
   oomp:
     footprint_name: qfp48_7x7_0_5
     library_name: kicad
+    md5: 37930440f3ebe26ee87ae3dbc493c2f0
+    md5_10: 37930440f3
+    md5_5: '37930'
+    md5_6: '379304'
+    oomp_key: oomp_kubix89_kicad_qfp48_7x7_0_5
+    oomp_key_extra: oomp_footprint_kubix89_kicad_qfp48_7x7_0_5
+    oomp_key_full: oomp_footprint_kubix89_kicad_qfp48_7x7_0_5_379304
+    oomp_key_simple: kubix89_kicad_qfp48_7x7_0_5
     original_filename: kiCAD.pretty/QFP48_7X7_0.5.kicad_mod
     owner_name: kubix89
   oomp_key: oomp_kubix89_kicad_qfp48_7x7_0_5
+  oomp_key_full: oomp_footprint_kubix89_kicad_qfp48_7x7_0_5
   oomp_key_simple: kubix89_kicad_qfp48_7x7_0_5
   owner: kubiX89
   repo:

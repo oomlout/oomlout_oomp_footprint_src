@@ -17,9 +17,18 @@
   oomp:
     footprint_name: usb_b
     library_name: fujimoto
+    md5: e967c3ebf5198396d594d10298f70868
+    md5_10: e967c3ebf5
+    md5_5: e967c
+    md5_6: e967c3
+    oomp_key: oomp_kujimoto_fujimoto_usb_b
+    oomp_key_extra: oomp_footprint_kujimoto_fujimoto_usb_b
+    oomp_key_full: oomp_footprint_kujimoto_fujimoto_usb_b_e967c3
+    oomp_key_simple: kujimoto_fujimoto_usb_b
     original_filename: fujimoto.pretty/USB_B.kicad_mod
     owner_name: kujimoto
   oomp_key: oomp_kujimoto_fujimoto_usb_b
+  oomp_key_full: oomp_footprint_kujimoto_fujimoto_usb_b
   oomp_key_simple: kujimoto_fujimoto_usb_b
   owner: Kujimoto
   repo:

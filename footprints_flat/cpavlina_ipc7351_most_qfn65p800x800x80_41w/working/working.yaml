@@ -18,9 +18,18 @@
   oomp:
     footprint_name: qfn65p800x800x80_41w
     library_name: ipc7351_most
+    md5: f406e55f53e883828c64dd2ac751df17
+    md5_10: f406e55f53
+    md5_5: f406e
+    md5_6: f406e5
+    oomp_key: oomp_cpavlina_ipc7351_most_qfn65p800x800x80_41w
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_most_qfn65p800x800x80_41w
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_most_qfn65p800x800x80_41w_f406e5
+    oomp_key_simple: cpavlina_ipc7351_most_qfn65p800x800x80_41w
     original_filename: kicad-pcblib/IPC7351-Most.pretty/QFN65P800X800X80-41W.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_most_qfn65p800x800x80_41w
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_most_qfn65p800x800x80_41w
   oomp_key_simple: cpavlina_ipc7351_most_qfn65p800x800x80_41w
   owner: cpavlina
   repo:

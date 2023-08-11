@@ -17,9 +17,18 @@
   oomp:
     footprint_name: batteryconnector
     library_name: usst_footprints
+    md5: e0fabfd311d4f9ac46deb510677f4f81
+    md5_10: e0fabfd311
+    md5_5: e0fab
+    md5_6: e0fabf
+    oomp_key: oomp_uofsspaceteam_usst_footprints_batteryconnector
+    oomp_key_extra: oomp_footprint_uofsspaceteam_usst_footprints_batteryconnector
+    oomp_key_full: oomp_footprint_uofsspaceteam_usst_footprints_batteryconnector_e0fabf
+    oomp_key_simple: uofsspaceteam_usst_footprints_batteryconnector
     original_filename: USST-footprints.pretty/BatteryConnector.kicad_mod
     owner_name: uofsspaceteam
   oomp_key: oomp_uofsspaceteam_usst_footprints_batteryconnector
+  oomp_key_full: oomp_footprint_uofsspaceteam_usst_footprints_batteryconnector
   oomp_key_simple: uofsspaceteam_usst_footprints_batteryconnector
   owner: UofSSpaceTeam
   repo:

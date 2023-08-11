@@ -314,7 +314,7 @@ def make_base_owner_footprint_library(**kwargs):
         oomp_deets['original_filename'] = footprint["file"]
         oomp_deets['oomp_key'] = f'oomp_{folder_flat}'
         oomp_deets['oomp_key_extra'] = f'oomp_footprint_{folder_flat}'
-        oomp_deets['oomp_key_full'] = f'oomp_footprint_{folder_flat}_md5_6'
+        oomp_deets['oomp_key_full'] = f'oomp_footprint_{folder_flat}_{md5_6}'
         oomp_deets['oomp_key_simple'] = f'{folder_flat}'
 
 
@@ -351,15 +351,16 @@ def make_footprints_readme():
                         with open(f'{root}/working.yaml', 'r') as yaml_file:
                             yaml_dict = yaml.load(yaml_file, Loader=yaml.FullLoader)
                         #create a readme file by calling make_readme(yaml_dict)
-                        readme = make_readme(yaml_dict=yaml_dict)
-                        #save readme as readme.md
-                        with open(f'{root}/readme.md', 'w') as readme_file:
-                            try:
-                                readme_file.write(readme)
-                            except Exception as e:
-                                print(f'error creating readme for {root} most likely no working.yaml file/n')
-                                print(e)
-                            pass
+                        if yaml_dict is not None:
+                            readme = make_readme(yaml_dict=yaml_dict)
+                            #save readme as readme.md
+                            with open(f'{root}/readme.md', 'w') as readme_file:
+                                try:
+                                    readme_file.write(readme)
+                                except Exception as e:
+                                    print(f'error creating readme for {root} most likely no working.yaml file/n')
+                                    print(e)
+                                pass
                         counter += 1
                         #print a dot every 100 times through
                         if counter % 100 == 0:

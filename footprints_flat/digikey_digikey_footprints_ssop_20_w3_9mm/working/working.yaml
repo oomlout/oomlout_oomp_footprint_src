@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ssop_20_w3_9mm
     library_name: digikey_footprints
+    md5: f4af1222386e8b5f062ee8b6db0d5848
+    md5_10: f4af122238
+    md5_5: f4af1
+    md5_6: f4af12
+    oomp_key: oomp_digikey_digikey_footprints_ssop_20_w3_9mm
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_ssop_20_w3_9mm
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_ssop_20_w3_9mm_f4af12
+    oomp_key_simple: digikey_digikey_footprints_ssop_20_w3_9mm
     original_filename: digikey-kicad-library/digikey-footprints.pretty/SSOP-20_W3.9mm.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_ssop_20_w3_9mm
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_ssop_20_w3_9mm
   oomp_key_simple: digikey_digikey_footprints_ssop_20_w3_9mm
   owner: digikey
   repo:

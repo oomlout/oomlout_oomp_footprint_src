@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_pj_002a_smt
     library_name: xess
+    md5: ca5c7d4ec78d77ac2eec115499762840
+    md5_10: ca5c7d4ec7
+    md5_5: ca5c7
+    md5_6: ca5c7d
+    oomp_key: oomp_xesscorp_xess_xess_pj_002a_smt
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_pj_002a_smt
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_pj_002a_smt_ca5c7d
+    oomp_key_simple: xesscorp_xess_xess_pj_002a_smt
     original_filename: xess.pretty/xess-PJ-002A-SMT.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_pj_002a_smt
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_pj_002a_smt
   oomp_key_simple: xesscorp_xess_xess_pj_002a_smt
   owner: xesscorp
   repo:

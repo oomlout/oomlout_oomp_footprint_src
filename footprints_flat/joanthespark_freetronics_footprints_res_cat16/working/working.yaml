@@ -17,9 +17,18 @@
   oomp:
     footprint_name: res_cat16
     library_name: freetronics_footprints
+    md5: 40cdf53888c777bf0e0963ece579d62b
+    md5_10: 40cdf53888
+    md5_5: 40cdf
+    md5_6: 40cdf5
+    oomp_key: oomp_joanthespark_freetronics_footprints_res_cat16
+    oomp_key_extra: oomp_footprint_joanthespark_freetronics_footprints_res_cat16
+    oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_res_cat16_40cdf5
+    oomp_key_simple: joanthespark_freetronics_footprints_res_cat16
     original_filename: KiCAD/mods/freetronics_footprints.pretty/RES_CAT16.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_freetronics_footprints_res_cat16
+  oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_res_cat16
   oomp_key_simple: joanthespark_freetronics_footprints_res_cat16
   owner: JoanTheSpark
   repo:

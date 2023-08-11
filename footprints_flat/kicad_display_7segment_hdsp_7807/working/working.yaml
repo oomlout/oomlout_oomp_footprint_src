@@ -17,9 +17,18 @@
   oomp:
     footprint_name: hdsp_7807
     library_name: display_7segment
+    md5: e492ba756bda8f2d3614b9369f1117b3
+    md5_10: e492ba756b
+    md5_5: e492b
+    md5_6: e492ba
+    oomp_key: oomp_kicad_display_7segment_hdsp_7807
+    oomp_key_extra: oomp_footprint_kicad_display_7segment_hdsp_7807
+    oomp_key_full: oomp_footprint_kicad_display_7segment_hdsp_7807_e492ba
+    oomp_key_simple: kicad_display_7segment_hdsp_7807
     original_filename: libraries/kicad-footprints/Display_7Segment.pretty/HDSP-7807.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_display_7segment_hdsp_7807
+  oomp_key_full: oomp_footprint_kicad_display_7segment_hdsp_7807
   oomp_key_simple: kicad_display_7segment_hdsp_7807
   owner: kicad
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: nexperia_sot_363
     library_name: kicadfootprint
+    md5: 5af1ae1e2f072997179c78053e755a9a
+    md5_10: 5af1ae1e2f
+    md5_5: 5af1a
+    md5_6: 5af1ae
+    oomp_key: oomp_vivitainc_kicadfootprint_nexperia_sot_363
+    oomp_key_extra: oomp_footprint_vivitainc_kicadfootprint_nexperia_sot_363
+    oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_nexperia_sot_363_5af1ae
+    oomp_key_simple: vivitainc_kicadfootprint_nexperia_sot_363
     original_filename: KiCADfootprint.pretty/Nexperia_SOT-363.kicad_mod
     owner_name: vivitainc
   oomp_key: oomp_vivitainc_kicadfootprint_nexperia_sot_363
+  oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_nexperia_sot_363
   oomp_key_simple: vivitainc_kicadfootprint_nexperia_sot_363
   owner: vivitainc
   repo:

@@ -18,9 +18,18 @@
   oomp:
     footprint_name: phoenixcontact_mc_1,5_10_g_3_81_1x10_p3_81mm_horizontal
     library_name: connector_phoenix_mc
+    md5: 1c64db458c0d87cac6df164ff8327b56
+    md5_10: 1c64db458c
+    md5_5: 1c64d
+    md5_6: 1c64db
+    oomp_key: oomp_kicad_connector_phoenix_mc_phoenixcontact_mc_1,5_10_g_3_81_1x10_p3_81mm_horizontal
+    oomp_key_extra: oomp_footprint_kicad_connector_phoenix_mc_phoenixcontact_mc_1,5_10_g_3_81_1x10_p3_81mm_horizontal
+    oomp_key_full: oomp_footprint_kicad_connector_phoenix_mc_phoenixcontact_mc_1,5_10_g_3_81_1x10_p3_81mm_horizontal_1c64db
+    oomp_key_simple: kicad_connector_phoenix_mc_phoenixcontact_mc_1,5_10_g_3_81_1x10_p3_81mm_horizontal
     original_filename: libraries/kicad-footprints/Connector_Phoenix_MC.pretty/PhoenixContact_MC_1,5_10-G-3.81_1x10_P3.81mm_Horizontal.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_phoenix_mc_phoenixcontact_mc_1,5_10_g_3_81_1x10_p3_81mm_horizontal
+  oomp_key_full: oomp_footprint_kicad_connector_phoenix_mc_phoenixcontact_mc_1,5_10_g_3_81_1x10_p3_81mm_horizontal
   oomp_key_simple: kicad_connector_phoenix_mc_phoenixcontact_mc_1,5_10_g_3_81_1x10_p3_81mm_horizontal
   owner: kicad
   repo:

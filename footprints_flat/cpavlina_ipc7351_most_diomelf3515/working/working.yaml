@@ -17,9 +17,18 @@
   oomp:
     footprint_name: diomelf3515
     library_name: ipc7351_most
+    md5: 3a3cddc252aa0262166e1ff31b074060
+    md5_10: 3a3cddc252
+    md5_5: 3a3cd
+    md5_6: 3a3cdd
+    oomp_key: oomp_cpavlina_ipc7351_most_diomelf3515
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_most_diomelf3515
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_most_diomelf3515_3a3cdd
+    oomp_key_simple: cpavlina_ipc7351_most_diomelf3515
     original_filename: kicad-pcblib/IPC7351-Most.pretty/DIOMELF3515.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_most_diomelf3515
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_most_diomelf3515
   oomp_key_simple: cpavlina_ipc7351_most_diomelf3515
   owner: cpavlina
   repo:

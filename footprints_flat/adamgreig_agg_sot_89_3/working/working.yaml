@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sot_89_3
     library_name: agg
+    md5: aaa95dbddccec15d2adf32c6a461d2cd
+    md5_10: aaa95dbddc
+    md5_5: aaa95
+    md5_6: aaa95d
+    oomp_key: oomp_adamgreig_agg_sot_89_3
+    oomp_key_extra: oomp_footprint_adamgreig_agg_sot_89_3
+    oomp_key_full: oomp_footprint_adamgreig_agg_sot_89_3_aaa95d
+    oomp_key_simple: adamgreig_agg_sot_89_3
     original_filename: agg-kicad/agg.pretty/SOT-89-3.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_sot_89_3
+  oomp_key_full: oomp_footprint_adamgreig_agg_sot_89_3
   oomp_key_simple: adamgreig_agg_sot_89_3
   owner: adamgreig
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: mx200vr
     library_name: acheron_mx
+    md5: a49bc54d1afa47a2f8f05e0ddf5de61e
+    md5_10: a49bc54d1a
+    md5_5: a49bc
+    md5_6: a49bc5
+    oomp_key: oomp_acheronproject_acheron_mx_mx200vr
+    oomp_key_extra: oomp_footprint_acheronproject_acheron_mx_mx200vr
+    oomp_key_full: oomp_footprint_acheronproject_acheron_mx_mx200vr_a49bc5
+    oomp_key_simple: acheronproject_acheron_mx_mx200vr
     original_filename: acheron_MX.pretty/MX200VR.kicad_mod
     owner_name: acheronproject
   oomp_key: oomp_acheronproject_acheron_mx_mx200vr
+  oomp_key_full: oomp_footprint_acheronproject_acheron_mx_mx200vr
   oomp_key_simple: acheronproject_acheron_mx_mx200vr
   owner: AcheronProject
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: samtec_fmc_asp_134602_01_10x40_p1_27mm_vertical
     library_name: connector_samtec
+    md5: db7978f9e76abb2464fd3dd3680edbd1
+    md5_10: db7978f9e7
+    md5_5: db797
+    md5_6: db7978
+    oomp_key: oomp_kicad_connector_samtec_samtec_fmc_asp_134602_01_10x40_p1_27mm_vertical
+    oomp_key_extra: oomp_footprint_kicad_connector_samtec_samtec_fmc_asp_134602_01_10x40_p1_27mm_vertical
+    oomp_key_full: oomp_footprint_kicad_connector_samtec_samtec_fmc_asp_134602_01_10x40_p1_27mm_vertical_db7978
+    oomp_key_simple: kicad_connector_samtec_samtec_fmc_asp_134602_01_10x40_p1_27mm_vertical
     original_filename: libraries/kicad-footprints/Connector_Samtec.pretty/Samtec_FMC_ASP-134602-01_10x40_P1.27mm_Vertical.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_samtec_samtec_fmc_asp_134602_01_10x40_p1_27mm_vertical
+  oomp_key_full: oomp_footprint_kicad_connector_samtec_samtec_fmc_asp_134602_01_10x40_p1_27mm_vertical
   oomp_key_simple: kicad_connector_samtec_samtec_fmc_asp_134602_01_10x40_p1_27mm_vertical
   owner: kicad
   repo:

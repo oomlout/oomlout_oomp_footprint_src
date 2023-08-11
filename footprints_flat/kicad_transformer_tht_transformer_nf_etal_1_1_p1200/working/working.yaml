@@ -17,9 +17,18 @@
   oomp:
     footprint_name: transformer_nf_etal_1_1_p1200
     library_name: transformer_tht
+    md5: cbdce3b01944f7177b88fea72913a472
+    md5_10: cbdce3b019
+    md5_5: cbdce
+    md5_6: cbdce3
+    oomp_key: oomp_kicad_transformer_tht_transformer_nf_etal_1_1_p1200
+    oomp_key_extra: oomp_footprint_kicad_transformer_tht_transformer_nf_etal_1_1_p1200
+    oomp_key_full: oomp_footprint_kicad_transformer_tht_transformer_nf_etal_1_1_p1200_cbdce3
+    oomp_key_simple: kicad_transformer_tht_transformer_nf_etal_1_1_p1200
     original_filename: libraries/kicad-footprints/Transformer_THT.pretty/Transformer_NF_ETAL_1-1_P1200.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_transformer_tht_transformer_nf_etal_1_1_p1200
+  oomp_key_full: oomp_footprint_kicad_transformer_tht_transformer_nf_etal_1_1_p1200
   oomp_key_simple: kicad_transformer_tht_transformer_nf_etal_1_1_p1200
   owner: kicad
   repo:

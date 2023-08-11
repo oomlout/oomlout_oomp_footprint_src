@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_lqfp128
     library_name: xess
+    md5: 38f1b2a59e471406bc9bd495f73a64c0
+    md5_10: 38f1b2a59e
+    md5_5: 38f1b
+    md5_6: 38f1b2
+    oomp_key: oomp_xesscorp_xess_xess_lqfp128
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_lqfp128
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_lqfp128_38f1b2
+    oomp_key_simple: xesscorp_xess_xess_lqfp128
     original_filename: xess.pretty/xess-LQFP128.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_lqfp128
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_lqfp128
   oomp_key_simple: xesscorp_xess_xess_lqfp128
   owner: xesscorp
   repo:

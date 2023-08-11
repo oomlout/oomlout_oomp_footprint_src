@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_pericom_qsop_16
     library_name: xess
+    md5: 7bd5e9554112f0dd6c63ccb81c8d6f1d
+    md5_10: 7bd5e95541
+    md5_5: 7bd5e
+    md5_6: 7bd5e9
+    oomp_key: oomp_xesscorp_xess_xess_pericom_qsop_16
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_pericom_qsop_16
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_pericom_qsop_16_7bd5e9
+    oomp_key_simple: xesscorp_xess_xess_pericom_qsop_16
     original_filename: xess.pretty/xess-PERICOM-QSOP-16.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_pericom_qsop_16
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_pericom_qsop_16
   oomp_key_simple: xesscorp_xess_xess_pericom_qsop_16
   owner: xesscorp
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xtal1160x480x320
     library_name: ipc7351_least
+    md5: e77fcd06ddf853bae1cefac97642d207
+    md5_10: e77fcd06dd
+    md5_5: e77fc
+    md5_6: e77fcd
+    oomp_key: oomp_cpavlina_ipc7351_least_xtal1160x480x320
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_least_xtal1160x480x320
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_least_xtal1160x480x320_e77fcd
+    oomp_key_simple: cpavlina_ipc7351_least_xtal1160x480x320
     original_filename: kicad-pcblib/IPC7351-Least.pretty/XTAL1160X480X320.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_least_xtal1160x480x320
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_least_xtal1160x480x320
   oomp_key_simple: cpavlina_ipc7351_least_xtal1160x480x320
   owner: cpavlina
   repo:

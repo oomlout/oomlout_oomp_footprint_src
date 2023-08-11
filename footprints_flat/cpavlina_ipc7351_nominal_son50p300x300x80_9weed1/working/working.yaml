@@ -18,9 +18,18 @@
   oomp:
     footprint_name: son50p300x300x80_9weed1
     library_name: ipc7351_nominal
+    md5: ecda52cec8f30deb9f88c4be7304a021
+    md5_10: ecda52cec8
+    md5_5: ecda5
+    md5_6: ecda52
+    oomp_key: oomp_cpavlina_ipc7351_nominal_son50p300x300x80_9weed1
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_nominal_son50p300x300x80_9weed1
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_son50p300x300x80_9weed1_ecda52
+    oomp_key_simple: cpavlina_ipc7351_nominal_son50p300x300x80_9weed1
     original_filename: kicad-pcblib/IPC7351-Nominal.pretty/SON50P300X300X80-9WEED1.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_nominal_son50p300x300x80_9weed1
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_son50p300x300x80_9weed1
   oomp_key_simple: cpavlina_ipc7351_nominal_son50p300x300x80_9weed1
   owner: cpavlina
   repo:

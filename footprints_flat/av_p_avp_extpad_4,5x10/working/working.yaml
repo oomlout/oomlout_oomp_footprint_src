@@ -17,9 +17,18 @@
   oomp:
     footprint_name: extpad_4,5x10
     library_name: avp
+    md5: d5aa8ed736b51a8ac08c3994e9919cfa
+    md5_10: d5aa8ed736
+    md5_5: d5aa8
+    md5_6: d5aa8e
+    oomp_key: oomp_av_p_avp_extpad_4,5x10
+    oomp_key_extra: oomp_footprint_av_p_avp_extpad_4,5x10
+    oomp_key_full: oomp_footprint_av_p_avp_extpad_4,5x10_d5aa8e
+    oomp_key_simple: av_p_avp_extpad_4,5x10
     original_filename: Avp.pretty/ExtPad_4,5x10.kicad_mod
     owner_name: av_p
   oomp_key: oomp_av_p_avp_extpad_4,5x10
+  oomp_key_full: oomp_footprint_av_p_avp_extpad_4,5x10
   oomp_key_simple: av_p_avp_extpad_4,5x10
   owner: av-p
   repo:

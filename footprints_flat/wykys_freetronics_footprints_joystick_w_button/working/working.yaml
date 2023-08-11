@@ -17,9 +17,18 @@
   oomp:
     footprint_name: joystick_w_button
     library_name: freetronics_footprints
+    md5: eafbf16918d2bf4533986d01a8351843
+    md5_10: eafbf16918
+    md5_5: eafbf
+    md5_6: eafbf1
+    oomp_key: oomp_wykys_freetronics_footprints_joystick_w_button
+    oomp_key_extra: oomp_footprint_wykys_freetronics_footprints_joystick_w_button
+    oomp_key_full: oomp_footprint_wykys_freetronics_footprints_joystick_w_button_eafbf1
+    oomp_key_simple: wykys_freetronics_footprints_joystick_w_button
     original_filename: kicad/mods/freetronics_footprints.pretty/JOYSTICK_W_BUTTON.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_freetronics_footprints_joystick_w_button
+  oomp_key_full: oomp_footprint_wykys_freetronics_footprints_joystick_w_button
   oomp_key_simple: wykys_freetronics_footprints_joystick_w_button
   owner: wykys
   repo:

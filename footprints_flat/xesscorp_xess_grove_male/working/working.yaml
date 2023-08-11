@@ -17,9 +17,18 @@
   oomp:
     footprint_name: grove_male
     library_name: xess
+    md5: 2ab3acccfb4a4cecc12d2f1266d7d9e9
+    md5_10: 2ab3acccfb
+    md5_5: 2ab3a
+    md5_6: 2ab3ac
+    oomp_key: oomp_xesscorp_xess_grove_male
+    oomp_key_extra: oomp_footprint_xesscorp_xess_grove_male
+    oomp_key_full: oomp_footprint_xesscorp_xess_grove_male_2ab3ac
+    oomp_key_simple: xesscorp_xess_grove_male
     original_filename: xess.pretty/GROVE_MALE.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_grove_male
+  oomp_key_full: oomp_footprint_xesscorp_xess_grove_male
   oomp_key_simple: xesscorp_xess_grove_male
   owner: xesscorp
   repo:

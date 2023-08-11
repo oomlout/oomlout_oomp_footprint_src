@@ -17,9 +17,18 @@
   oomp:
     footprint_name: pinhead_1_27_3
     library_name: avp
+    md5: d1a82c52998e67a5837436652f7a7665
+    md5_10: d1a82c5299
+    md5_5: d1a82
+    md5_6: d1a82c
+    oomp_key: oomp_av_p_avp_pinhead_1_27_3
+    oomp_key_extra: oomp_footprint_av_p_avp_pinhead_1_27_3
+    oomp_key_full: oomp_footprint_av_p_avp_pinhead_1_27_3_d1a82c
+    oomp_key_simple: av_p_avp_pinhead_1_27_3
     original_filename: Avp.pretty/PINHEAD_1.27_3.kicad_mod
     owner_name: av_p
   oomp_key: oomp_av_p_avp_pinhead_1_27_3
+  oomp_key_full: oomp_footprint_av_p_avp_pinhead_1_27_3
   oomp_key_simple: av_p_avp_pinhead_1_27_3
   owner: av-p
   repo:

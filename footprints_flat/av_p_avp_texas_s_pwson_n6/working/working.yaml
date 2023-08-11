@@ -17,9 +17,18 @@
   oomp:
     footprint_name: texas_s_pwson_n6
     library_name: avp
+    md5: 9c131fab752319e3143d118dbd826f6e
+    md5_10: 9c131fab75
+    md5_5: 9c131
+    md5_6: 9c131f
+    oomp_key: oomp_av_p_avp_texas_s_pwson_n6
+    oomp_key_extra: oomp_footprint_av_p_avp_texas_s_pwson_n6
+    oomp_key_full: oomp_footprint_av_p_avp_texas_s_pwson_n6_9c131f
+    oomp_key_simple: av_p_avp_texas_s_pwson_n6
     original_filename: Avp.pretty/Texas_S-PWSON-N6.kicad_mod
     owner_name: av_p
   oomp_key: oomp_av_p_avp_texas_s_pwson_n6
+  oomp_key_full: oomp_footprint_av_p_avp_texas_s_pwson_n6
   oomp_key_simple: av_p_avp_texas_s_pwson_n6
   owner: av-p
   repo:

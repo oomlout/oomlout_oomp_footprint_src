@@ -17,9 +17,18 @@
   oomp:
     footprint_name: rm10_tht_h_12pin_(5622)
     library_name: transformers_wurthelektronik
+    md5: 88c3ee9c0d7ecdae3f19965f06294944
+    md5_10: 88c3ee9c0d
+    md5_5: 88c3e
+    md5_6: 88c3ee
+    oomp_key: oomp_toka_eisos_transformers_wurthelektronik_rm10_tht_h_12pin_(5622)
+    oomp_key_extra: oomp_footprint_toka_eisos_transformers_wurthelektronik_rm10_tht_h_12pin_(5622)
+    oomp_key_full: oomp_footprint_toka_eisos_transformers_wurthelektronik_rm10_tht_h_12pin_(5622)_88c3ee
+    oomp_key_simple: toka_eisos_transformers_wurthelektronik_rm10_tht_h_12pin_(5622)
     original_filename: Transformers_WurthElektronik.pretty/RM10_THT_H_12PIN_(5622).kicad_mod
     owner_name: toka_eisos
   oomp_key: oomp_toka_eisos_transformers_wurthelektronik_rm10_tht_h_12pin_(5622)
+  oomp_key_full: oomp_footprint_toka_eisos_transformers_wurthelektronik_rm10_tht_h_12pin_(5622)
   oomp_key_simple: toka_eisos_transformers_wurthelektronik_rm10_tht_h_12pin_(5622)
   owner: toka-eisos
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: texas_wqfn_mr_100_3x3_dapstencil
     library_name: avp
+    md5: b9ab928ca680babaa014fc549d052e6d
+    md5_10: b9ab928ca6
+    md5_5: b9ab9
+    md5_6: b9ab92
+    oomp_key: oomp_av_p_avp_texas_wqfn_mr_100_3x3_dapstencil
+    oomp_key_extra: oomp_footprint_av_p_avp_texas_wqfn_mr_100_3x3_dapstencil
+    oomp_key_full: oomp_footprint_av_p_avp_texas_wqfn_mr_100_3x3_dapstencil_b9ab92
+    oomp_key_simple: av_p_avp_texas_wqfn_mr_100_3x3_dapstencil
     original_filename: Avp.pretty/Texas_WQFN-MR-100_3x3-DapStencil.kicad_mod
     owner_name: av_p
   oomp_key: oomp_av_p_avp_texas_wqfn_mr_100_3x3_dapstencil
+  oomp_key_full: oomp_footprint_av_p_avp_texas_wqfn_mr_100_3x3_dapstencil
   oomp_key_simple: av_p_avp_texas_wqfn_mr_100_3x3_dapstencil
   owner: av-p
   repo:

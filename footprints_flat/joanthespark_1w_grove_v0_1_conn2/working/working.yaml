@@ -17,9 +17,18 @@
   oomp:
     footprint_name: conn2
     library_name: 1w_grove_v0_1
+    md5: 81219eeb30dd507662aeed8b9ca3090b
+    md5_10: 81219eeb30
+    md5_5: '81219'
+    md5_6: 81219e
+    oomp_key: oomp_joanthespark_1w_grove_v0_1_conn2
+    oomp_key_extra: oomp_footprint_joanthespark_1w_grove_v0_1_conn2
+    oomp_key_full: oomp_footprint_joanthespark_1w_grove_v0_1_conn2_81219e
+    oomp_key_simple: joanthespark_1w_grove_v0_1_conn2
     original_filename: KiCAD/6.0/projects/1w-grove-v0.1/1w-grove-v0.1.pretty/conn2.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_1w_grove_v0_1_conn2
+  oomp_key_full: oomp_footprint_joanthespark_1w_grove_v0_1_conn2
   oomp_key_simple: joanthespark_1w_grove_v0_1_conn2
   owner: JoanTheSpark
   repo:

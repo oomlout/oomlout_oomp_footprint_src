@@ -18,9 +18,18 @@
   oomp:
     footprint_name: r0402_array_convex_4
     library_name: rhais_rcl
+    md5: 79e8d627a2a8e595b635d83f562e6462
+    md5_10: 79e8d627a2
+    md5_5: 79e8d
+    md5_6: 79e8d6
+    oomp_key: oomp_dx_mon_rhais_rcl_r0402_array_convex_4
+    oomp_key_extra: oomp_footprint_dx_mon_rhais_rcl_r0402_array_convex_4
+    oomp_key_full: oomp_footprint_dx_mon_rhais_rcl_r0402_array_convex_4_79e8d6
+    oomp_key_simple: dx_mon_rhais_rcl_r0402_array_convex_4
     original_filename: rhais_rcl.pretty/R0402_Array_Convex_4.kicad_mod
     owner_name: dx_mon
   oomp_key: oomp_dx_mon_rhais_rcl_r0402_array_convex_4
+  oomp_key_full: oomp_footprint_dx_mon_rhais_rcl_r0402_array_convex_4
   oomp_key_simple: dx_mon_rhais_rcl_r0402_array_convex_4
   owner: DX-MON
   repo:

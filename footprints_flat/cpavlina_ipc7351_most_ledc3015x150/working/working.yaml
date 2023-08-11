@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ledc3015x150
     library_name: ipc7351_most
+    md5: 3b626fb5bcf6b0227aeb3247e813780f
+    md5_10: 3b626fb5bc
+    md5_5: 3b626
+    md5_6: 3b626f
+    oomp_key: oomp_cpavlina_ipc7351_most_ledc3015x150
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_most_ledc3015x150
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_most_ledc3015x150_3b626f
+    oomp_key_simple: cpavlina_ipc7351_most_ledc3015x150
     original_filename: kicad-pcblib/IPC7351-Most.pretty/LEDC3015X150.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_most_ledc3015x150
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_most_ledc3015x150
   oomp_key_simple: cpavlina_ipc7351_most_ledc3015x150
   owner: cpavlina
   repo:

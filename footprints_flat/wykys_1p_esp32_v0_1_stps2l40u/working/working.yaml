@@ -17,9 +17,18 @@
   oomp:
     footprint_name: stps2l40u
     library_name: 1p_esp32_v0_1
+    md5: fc3d624dbd8398a0c6b3d27ba5a8cbdd
+    md5_10: fc3d624dbd
+    md5_5: fc3d6
+    md5_6: fc3d62
+    oomp_key: oomp_wykys_1p_esp32_v0_1_stps2l40u
+    oomp_key_extra: oomp_footprint_wykys_1p_esp32_v0_1_stps2l40u
+    oomp_key_full: oomp_footprint_wykys_1p_esp32_v0_1_stps2l40u_fc3d62
+    oomp_key_simple: wykys_1p_esp32_v0_1_stps2l40u
     original_filename: kicad/6.0/projects/1w-grove-v0.1/1p-esp32-v0.1.pretty/STPS2L40U.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_1p_esp32_v0_1_stps2l40u
+  oomp_key_full: oomp_footprint_wykys_1p_esp32_v0_1_stps2l40u
   oomp_key_simple: wykys_1p_esp32_v0_1_stps2l40u
   owner: wykys
   repo:

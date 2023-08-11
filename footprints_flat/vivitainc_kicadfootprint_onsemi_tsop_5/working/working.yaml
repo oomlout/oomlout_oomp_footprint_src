@@ -17,9 +17,18 @@
   oomp:
     footprint_name: onsemi_tsop_5
     library_name: kicadfootprint
+    md5: 3dfe41094920a010f12d3a52531e0dd4
+    md5_10: 3dfe410949
+    md5_5: 3dfe4
+    md5_6: 3dfe41
+    oomp_key: oomp_vivitainc_kicadfootprint_onsemi_tsop_5
+    oomp_key_extra: oomp_footprint_vivitainc_kicadfootprint_onsemi_tsop_5
+    oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_onsemi_tsop_5_3dfe41
+    oomp_key_simple: vivitainc_kicadfootprint_onsemi_tsop_5
     original_filename: KiCADfootprint.pretty/ONSemi_TSOP-5.kicad_mod
     owner_name: vivitainc
   oomp_key: oomp_vivitainc_kicadfootprint_onsemi_tsop_5
+  oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_onsemi_tsop_5
   oomp_key_simple: vivitainc_kicadfootprint_onsemi_tsop_5
   owner: vivitainc
   repo:

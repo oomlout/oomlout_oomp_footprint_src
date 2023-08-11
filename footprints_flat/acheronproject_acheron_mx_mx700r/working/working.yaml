@@ -17,9 +17,18 @@
   oomp:
     footprint_name: mx700r
     library_name: acheron_mx
+    md5: 063b7180a4df32b541c95c7eadde2969
+    md5_10: 063b7180a4
+    md5_5: 063b7
+    md5_6: 063b71
+    oomp_key: oomp_acheronproject_acheron_mx_mx700r
+    oomp_key_extra: oomp_footprint_acheronproject_acheron_mx_mx700r
+    oomp_key_full: oomp_footprint_acheronproject_acheron_mx_mx700r_063b71
+    oomp_key_simple: acheronproject_acheron_mx_mx700r
     original_filename: acheron_MX.pretty/MX700R.kicad_mod
     owner_name: acheronproject
   oomp_key: oomp_acheronproject_acheron_mx_mx700r
+  oomp_key_full: oomp_footprint_acheronproject_acheron_mx_mx700r
   oomp_key_simple: acheronproject_acheron_mx_mx700r
   owner: AcheronProject
   repo:

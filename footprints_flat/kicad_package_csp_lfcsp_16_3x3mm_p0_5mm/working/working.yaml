@@ -18,9 +18,18 @@
   oomp:
     footprint_name: lfcsp_16_3x3mm_p0_5mm
     library_name: package_csp
+    md5: 9cc8def6a18cdc55d41b2515b7db26ab
+    md5_10: 9cc8def6a1
+    md5_5: 9cc8d
+    md5_6: 9cc8de
+    oomp_key: oomp_kicad_package_csp_lfcsp_16_3x3mm_p0_5mm
+    oomp_key_extra: oomp_footprint_kicad_package_csp_lfcsp_16_3x3mm_p0_5mm
+    oomp_key_full: oomp_footprint_kicad_package_csp_lfcsp_16_3x3mm_p0_5mm_9cc8de
+    oomp_key_simple: kicad_package_csp_lfcsp_16_3x3mm_p0_5mm
     original_filename: libraries/kicad-footprints/Package_CSP.pretty/LFCSP-16_3x3mm_P0.5mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_csp_lfcsp_16_3x3mm_p0_5mm
+  oomp_key_full: oomp_footprint_kicad_package_csp_lfcsp_16_3x3mm_p0_5mm
   oomp_key_simple: kicad_package_csp_lfcsp_16_3x3mm_p0_5mm
   owner: kicad
   repo:

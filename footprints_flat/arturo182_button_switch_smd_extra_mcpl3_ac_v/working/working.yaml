@@ -16,9 +16,18 @@
   oomp:
     footprint_name: mcpl3_ac_v
     library_name: button_switch_smd_extra
+    md5: 3b2496e02d5b4920d4c1becde443e3e0
+    md5_10: 3b2496e02d
+    md5_5: 3b249
+    md5_6: 3b2496
+    oomp_key: oomp_arturo182_button_switch_smd_extra_mcpl3_ac_v
+    oomp_key_extra: oomp_footprint_arturo182_button_switch_smd_extra_mcpl3_ac_v
+    oomp_key_full: oomp_footprint_arturo182_button_switch_smd_extra_mcpl3_ac_v_3b2496
+    oomp_key_simple: arturo182_button_switch_smd_extra_mcpl3_ac_v
     original_filename: kicad-modules/Button_Switch_SMD_Extra.pretty/MCPL3-AC-V.kicad_mod
     owner_name: arturo182
   oomp_key: oomp_arturo182_button_switch_smd_extra_mcpl3_ac_v
+  oomp_key_full: oomp_footprint_arturo182_button_switch_smd_extra_mcpl3_ac_v
   oomp_key_simple: arturo182_button_switch_smd_extra_mcpl3_ac_v
   owner: arturo182
   repo:

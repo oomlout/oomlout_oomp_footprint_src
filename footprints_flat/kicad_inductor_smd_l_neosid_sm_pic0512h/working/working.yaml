@@ -18,9 +18,18 @@
   oomp:
     footprint_name: l_neosid_sm_pic0512h
     library_name: inductor_smd
+    md5: 42de1c6f3a817c3a15e35908ee120515
+    md5_10: 42de1c6f3a
+    md5_5: 42de1
+    md5_6: 42de1c
+    oomp_key: oomp_kicad_inductor_smd_l_neosid_sm_pic0512h
+    oomp_key_extra: oomp_footprint_kicad_inductor_smd_l_neosid_sm_pic0512h
+    oomp_key_full: oomp_footprint_kicad_inductor_smd_l_neosid_sm_pic0512h_42de1c
+    oomp_key_simple: kicad_inductor_smd_l_neosid_sm_pic0512h
     original_filename: libraries/kicad-footprints/Inductor_SMD.pretty/L_Neosid_SM-PIC0512H.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_inductor_smd_l_neosid_sm_pic0512h
+  oomp_key_full: oomp_footprint_kicad_inductor_smd_l_neosid_sm_pic0512h
   oomp_key_simple: kicad_inductor_smd_l_neosid_sm_pic0512h
   owner: kicad
   repo:

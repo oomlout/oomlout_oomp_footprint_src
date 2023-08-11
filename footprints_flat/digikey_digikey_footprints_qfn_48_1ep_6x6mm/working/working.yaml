@@ -17,9 +17,18 @@
   oomp:
     footprint_name: qfn_48_1ep_6x6mm
     library_name: digikey_footprints
+    md5: 6eb8101e0b89f7c885cf9ce9d4702797
+    md5_10: 6eb8101e0b
+    md5_5: 6eb81
+    md5_6: 6eb810
+    oomp_key: oomp_digikey_digikey_footprints_qfn_48_1ep_6x6mm
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_qfn_48_1ep_6x6mm
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_qfn_48_1ep_6x6mm_6eb810
+    oomp_key_simple: digikey_digikey_footprints_qfn_48_1ep_6x6mm
     original_filename: digikey-kicad-library/digikey-footprints.pretty/QFN-48-1EP_6x6mm.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_qfn_48_1ep_6x6mm
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_qfn_48_1ep_6x6mm
   oomp_key_simple: digikey_digikey_footprints_qfn_48_1ep_6x6mm
   owner: digikey
   repo:

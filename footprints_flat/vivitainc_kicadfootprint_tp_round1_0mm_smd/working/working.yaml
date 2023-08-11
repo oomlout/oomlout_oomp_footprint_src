@@ -17,9 +17,18 @@
   oomp:
     footprint_name: tp_round1_0mm_smd
     library_name: kicadfootprint
+    md5: da1461fb5a38467ac379857380d9545e
+    md5_10: da1461fb5a
+    md5_5: da146
+    md5_6: da1461
+    oomp_key: oomp_vivitainc_kicadfootprint_tp_round1_0mm_smd
+    oomp_key_extra: oomp_footprint_vivitainc_kicadfootprint_tp_round1_0mm_smd
+    oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_tp_round1_0mm_smd_da1461
+    oomp_key_simple: vivitainc_kicadfootprint_tp_round1_0mm_smd
     original_filename: KiCADfootprint.pretty/TP_Round1.0mm-SMD.kicad_mod
     owner_name: vivitainc
   oomp_key: oomp_vivitainc_kicadfootprint_tp_round1_0mm_smd
+  oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_tp_round1_0mm_smd
   oomp_key_simple: vivitainc_kicadfootprint_tp_round1_0mm_smd
   owner: vivitainc
   repo:

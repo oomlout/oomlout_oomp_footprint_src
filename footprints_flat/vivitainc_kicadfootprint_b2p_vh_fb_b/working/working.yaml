@@ -17,9 +17,18 @@
   oomp:
     footprint_name: b2p_vh_fb_b
     library_name: kicadfootprint
+    md5: 5bc0446a5572c2492bce32cefb88fa2a
+    md5_10: 5bc0446a55
+    md5_5: 5bc04
+    md5_6: 5bc044
+    oomp_key: oomp_vivitainc_kicadfootprint_b2p_vh_fb_b
+    oomp_key_extra: oomp_footprint_vivitainc_kicadfootprint_b2p_vh_fb_b
+    oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_b2p_vh_fb_b_5bc044
+    oomp_key_simple: vivitainc_kicadfootprint_b2p_vh_fb_b
     original_filename: KiCADfootprint.pretty/B2P-VH-FB-B.kicad_mod
     owner_name: vivitainc
   oomp_key: oomp_vivitainc_kicadfootprint_b2p_vh_fb_b
+  oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_b2p_vh_fb_b
   oomp_key_simple: vivitainc_kicadfootprint_b2p_vh_fb_b
   owner: vivitainc
   repo:

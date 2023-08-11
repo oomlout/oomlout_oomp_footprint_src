@@ -17,9 +17,18 @@
   oomp:
     footprint_name: crystal_epson_fc145
     library_name: freetronics_footprints
+    md5: 97a7b67656ea9755320fadb48e1a25ca
+    md5_10: 97a7b67656
+    md5_5: 97a7b
+    md5_6: 97a7b6
+    oomp_key: oomp_wykys_freetronics_footprints_crystal_epson_fc145
+    oomp_key_extra: oomp_footprint_wykys_freetronics_footprints_crystal_epson_fc145
+    oomp_key_full: oomp_footprint_wykys_freetronics_footprints_crystal_epson_fc145_97a7b6
+    oomp_key_simple: wykys_freetronics_footprints_crystal_epson_fc145
     original_filename: kicad/mods/freetronics_footprints.pretty/CRYSTAL_EPSON_FC145.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_freetronics_footprints_crystal_epson_fc145
+  oomp_key_full: oomp_footprint_wykys_freetronics_footprints_crystal_epson_fc145
   oomp_key_simple: wykys_freetronics_footprints_crystal_epson_fc145
   owner: wykys
   repo:

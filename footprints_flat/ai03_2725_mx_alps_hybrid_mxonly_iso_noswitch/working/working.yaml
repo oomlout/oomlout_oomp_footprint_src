@@ -16,10 +16,19 @@
   name: MX_Alps_Hybrid.pretty
   oomp:
     footprint_name: mxonly_iso_noswitch
-    library_name: mx_only
+    library_name: mx_alps_hybrid
+    md5: a57130a38edce8101cc63082d830df07
+    md5_10: a57130a38e
+    md5_5: a5713
+    md5_6: a57130
+    oomp_key: oomp_ai03_2725_mx_alps_hybrid_mxonly_iso_noswitch
+    oomp_key_extra: oomp_footprint_ai03_2725_mx_alps_hybrid_mxonly_iso_noswitch
+    oomp_key_full: oomp_footprint_ai03_2725_mx_alps_hybrid_mxonly_iso_noswitch_a57130
+    oomp_key_simple: ai03_2725_mx_alps_hybrid_mxonly_iso_noswitch
     original_filename: MX_Alps_Hybrid.pretty/MX_Only.pretty/MXOnly-ISO-NoSwitch.kicad_mod
     owner_name: ai03_2725
   oomp_key: oomp_ai03_2725_mx_alps_hybrid_mxonly_iso_noswitch
+  oomp_key_full: oomp_footprint_ai03_2725_mx_alps_hybrid_mxonly_iso_noswitch
   oomp_key_simple: ai03_2725_mx_alps_hybrid_mxonly_iso_noswitch
   owner: ai03-2725
   repo:

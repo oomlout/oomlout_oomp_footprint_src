@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ledc3015x150
     library_name: ipc7351_nominal
+    md5: a941704c807f7ecee9a055f6e0068cc4
+    md5_10: a941704c80
+    md5_5: a9417
+    md5_6: a94170
+    oomp_key: oomp_cpavlina_ipc7351_nominal_ledc3015x150
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_nominal_ledc3015x150
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_ledc3015x150_a94170
+    oomp_key_simple: cpavlina_ipc7351_nominal_ledc3015x150
     original_filename: kicad-pcblib/IPC7351-Nominal.pretty/LEDC3015X150.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_nominal_ledc3015x150
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_ledc3015x150
   oomp_key_simple: cpavlina_ipc7351_nominal_ledc3015x150
   owner: cpavlina
   repo:

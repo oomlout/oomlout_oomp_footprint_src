@@ -19,8 +19,9 @@ Please consult that link for additional, details, files, and license information
 | github_path | http://github.com/aniline/akn_misc.pretty/blob/master/RJ11_PTH_6P4C_STAG.kicad_mod |  
 | links | {'github_src': 'http://gitlab.com/aniline/akn_misc.pretty/blob/master/WOM_BRIDGE.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/aniline_akn_misc_rj11_pth_6p4c_stag/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/aniline_akn_misc_rj11_pth_6p4c_stag/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/aniline_akn_misc_rj11_pth_6p4c_stag/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/aniline_akn_misc_rj11_pth_6p4c_stag/working'} |  
 | name | akn_misc.pretty |  
-| oomp | {'footprint_name': 'rj11_pth_6p4c_stag', 'library_name': 'akn_misc', 'original_filename': 'akn_misc.pretty/RJ11_PTH_6P4C_STAG.kicad_mod', 'owner_name': 'aniline'} |  
+| oomp | {'footprint_name': 'rj11_pth_6p4c_stag', 'library_name': 'akn_misc', 'md5': '7ec5f67012fbf93f17c3398bc2a7ce5b', 'md5_10': '7ec5f67012', 'md5_5': '7ec5f', 'md5_6': '7ec5f6', 'oomp_key': 'oomp_aniline_akn_misc_rj11_pth_6p4c_stag', 'oomp_key_extra': 'oomp_footprint_aniline_akn_misc_rj11_pth_6p4c_stag', 'oomp_key_full': 'oomp_footprint_aniline_akn_misc_rj11_pth_6p4c_stag_7ec5f6', 'oomp_key_simple': 'aniline_akn_misc_rj11_pth_6p4c_stag', 'original_filename': 'akn_misc.pretty/RJ11_PTH_6P4C_STAG.kicad_mod', 'owner_name': 'aniline'} |  
 | oomp_key | oomp_aniline_akn_misc_rj11_pth_6p4c_stag |  
+| oomp_key_full | oomp_footprint_aniline_akn_misc_rj11_pth_6p4c_stag |  
 | oomp_key_simple | aniline_akn_misc_rj11_pth_6p4c_stag |  
 | owner | aniline |  
 | repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  

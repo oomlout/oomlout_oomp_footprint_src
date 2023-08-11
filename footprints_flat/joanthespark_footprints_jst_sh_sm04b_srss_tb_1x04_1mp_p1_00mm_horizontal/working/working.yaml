@@ -18,9 +18,18 @@
   oomp:
     footprint_name: jst_sh_sm04b_srss_tb_1x04_1mp_p1_00mm_horizontal
     library_name: footprints
+    md5: a00f902d85e0411750550a7edd6905df
+    md5_10: a00f902d85
+    md5_5: a00f9
+    md5_6: a00f90
+    oomp_key: oomp_joanthespark_footprints_jst_sh_sm04b_srss_tb_1x04_1mp_p1_00mm_horizontal
+    oomp_key_extra: oomp_footprint_joanthespark_footprints_jst_sh_sm04b_srss_tb_1x04_1mp_p1_00mm_horizontal
+    oomp_key_full: oomp_footprint_joanthespark_footprints_jst_sh_sm04b_srss_tb_1x04_1mp_p1_00mm_horizontal_a00f90
+    oomp_key_simple: joanthespark_footprints_jst_sh_sm04b_srss_tb_1x04_1mp_p1_00mm_horizontal
     original_filename: KiCAD/demos/stickhub/footprints.pretty/JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_footprints_jst_sh_sm04b_srss_tb_1x04_1mp_p1_00mm_horizontal
+  oomp_key_full: oomp_footprint_joanthespark_footprints_jst_sh_sm04b_srss_tb_1x04_1mp_p1_00mm_horizontal
   oomp_key_simple: joanthespark_footprints_jst_sh_sm04b_srss_tb_1x04_1mp_p1_00mm_horizontal
   owner: JoanTheSpark
   repo:

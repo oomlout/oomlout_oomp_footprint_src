@@ -17,9 +17,18 @@
   oomp:
     footprint_name: capc4632x203
     library_name: ipc7351_most
+    md5: e094d232e396b9408581a3cd45fd95c9
+    md5_10: e094d232e3
+    md5_5: e094d
+    md5_6: e094d2
+    oomp_key: oomp_cpavlina_ipc7351_most_capc4632x203
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_most_capc4632x203
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_most_capc4632x203_e094d2
+    oomp_key_simple: cpavlina_ipc7351_most_capc4632x203
     original_filename: kicad-pcblib/IPC7351-Most.pretty/CAPC4632X203.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_most_capc4632x203
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_most_capc4632x203
   oomp_key_simple: cpavlina_ipc7351_most_capc4632x203
   owner: cpavlina
   repo:

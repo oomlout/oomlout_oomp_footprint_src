@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sbc18_11surkcgkwa
     library_name: display_7segment
+    md5: 768bab93916d2c841e0f0205addb0a7d
+    md5_10: 768bab9391
+    md5_5: 768ba
+    md5_6: 768bab
+    oomp_key: oomp_kicad_display_7segment_sbc18_11surkcgkwa
+    oomp_key_extra: oomp_footprint_kicad_display_7segment_sbc18_11surkcgkwa
+    oomp_key_full: oomp_footprint_kicad_display_7segment_sbc18_11surkcgkwa_768bab
+    oomp_key_simple: kicad_display_7segment_sbc18_11surkcgkwa
     original_filename: libraries/kicad-footprints/Display_7Segment.pretty/SBC18-11SURKCGKWA.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_display_7segment_sbc18_11surkcgkwa
+  oomp_key_full: oomp_footprint_kicad_display_7segment_sbc18_11surkcgkwa
   oomp_key_simple: kicad_display_7segment_sbc18_11surkcgkwa
   owner: kicad
   repo:

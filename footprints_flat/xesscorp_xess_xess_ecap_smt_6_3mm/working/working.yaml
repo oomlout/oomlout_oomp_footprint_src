@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_ecap_smt_6_3mm
     library_name: xess
+    md5: e29b064ae3032b72f2afec1a0747d886
+    md5_10: e29b064ae3
+    md5_5: e29b0
+    md5_6: e29b06
+    oomp_key: oomp_xesscorp_xess_xess_ecap_smt_6_3mm
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_ecap_smt_6_3mm
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_ecap_smt_6_3mm_e29b06
+    oomp_key_simple: xesscorp_xess_xess_ecap_smt_6_3mm
     original_filename: xess.pretty/xess-ECAP-SMT-6.3MM.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_ecap_smt_6_3mm
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_ecap_smt_6_3mm
   oomp_key_simple: xesscorp_xess_xess_ecap_smt_6_3mm
   owner: xesscorp
   repo:

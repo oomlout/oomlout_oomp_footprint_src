@@ -17,9 +17,18 @@
   oomp:
     footprint_name: esp32_s2_mini_1_handsoldering
     library_name: espressif
+    md5: 32106d568240e1c3070b068d8ca1b2ad
+    md5_10: 32106d5682
+    md5_5: '32106'
+    md5_6: 32106d
+    oomp_key: oomp_tinkerforge_espressif_esp32_s2_mini_1_handsoldering
+    oomp_key_extra: oomp_footprint_tinkerforge_espressif_esp32_s2_mini_1_handsoldering
+    oomp_key_full: oomp_footprint_tinkerforge_espressif_esp32_s2_mini_1_handsoldering_32106d
+    oomp_key_simple: tinkerforge_espressif_esp32_s2_mini_1_handsoldering
     original_filename: kicad-libraries/footprints/Espressif.pretty/ESP32-S2-MINI-1_HandSoldering.kicad_mod
     owner_name: tinkerforge
   oomp_key: oomp_tinkerforge_espressif_esp32_s2_mini_1_handsoldering
+  oomp_key_full: oomp_footprint_tinkerforge_espressif_esp32_s2_mini_1_handsoldering
   oomp_key_simple: tinkerforge_espressif_esp32_s2_mini_1_handsoldering
   owner: Tinkerforge
   repo:

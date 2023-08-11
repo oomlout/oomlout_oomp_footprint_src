@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sc70
     library_name: kicadfootprint
+    md5: 06dc4474902002e6f3337d30ec8db36e
+    md5_10: 06dc447490
+    md5_5: 06dc4
+    md5_6: 06dc44
+    oomp_key: oomp_vivitainc_kicadfootprint_sc70
+    oomp_key_extra: oomp_footprint_vivitainc_kicadfootprint_sc70
+    oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_sc70_06dc44
+    oomp_key_simple: vivitainc_kicadfootprint_sc70
     original_filename: KiCADfootprint.pretty/SC70.kicad_mod
     owner_name: vivitainc
   oomp_key: oomp_vivitainc_kicadfootprint_sc70
+  oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_sc70
   oomp_key_simple: vivitainc_kicadfootprint_sc70
   owner: vivitainc
   repo:

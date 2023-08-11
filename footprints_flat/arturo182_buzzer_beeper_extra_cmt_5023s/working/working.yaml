@@ -19,9 +19,18 @@
   oomp:
     footprint_name: cmt_5023s
     library_name: buzzer_beeper_extra
+    md5: dba6c8b8497e8958125830e1168e533e
+    md5_10: dba6c8b849
+    md5_5: dba6c
+    md5_6: dba6c8
+    oomp_key: oomp_arturo182_buzzer_beeper_extra_cmt_5023s
+    oomp_key_extra: oomp_footprint_arturo182_buzzer_beeper_extra_cmt_5023s
+    oomp_key_full: oomp_footprint_arturo182_buzzer_beeper_extra_cmt_5023s_dba6c8
+    oomp_key_simple: arturo182_buzzer_beeper_extra_cmt_5023s
     original_filename: kicad-modules/Buzzer_Beeper_Extra.pretty/CMT-5023S.kicad_mod
     owner_name: arturo182
   oomp_key: oomp_arturo182_buzzer_beeper_extra_cmt_5023s
+  oomp_key_full: oomp_footprint_arturo182_buzzer_beeper_extra_cmt_5023s
   oomp_key_simple: arturo182_buzzer_beeper_extra_cmt_5023s
   owner: arturo182
   repo:

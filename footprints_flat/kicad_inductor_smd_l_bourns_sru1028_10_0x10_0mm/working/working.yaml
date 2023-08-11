@@ -17,9 +17,18 @@
   oomp:
     footprint_name: l_bourns_sru1028_10_0x10_0mm
     library_name: inductor_smd
+    md5: 1562d5fcefcaeb9c8059c86e4660afc7
+    md5_10: 1562d5fcef
+    md5_5: 1562d
+    md5_6: 1562d5
+    oomp_key: oomp_kicad_inductor_smd_l_bourns_sru1028_10_0x10_0mm
+    oomp_key_extra: oomp_footprint_kicad_inductor_smd_l_bourns_sru1028_10_0x10_0mm
+    oomp_key_full: oomp_footprint_kicad_inductor_smd_l_bourns_sru1028_10_0x10_0mm_1562d5
+    oomp_key_simple: kicad_inductor_smd_l_bourns_sru1028_10_0x10_0mm
     original_filename: libraries/kicad-footprints/Inductor_SMD.pretty/L_Bourns-SRU1028_10.0x10.0mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_inductor_smd_l_bourns_sru1028_10_0x10_0mm
+  oomp_key_full: oomp_footprint_kicad_inductor_smd_l_bourns_sru1028_10_0x10_0mm
   oomp_key_simple: kicad_inductor_smd_l_bourns_sru1028_10_0x10_0mm
   owner: kicad
   repo:

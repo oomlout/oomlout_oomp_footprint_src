@@ -17,9 +17,18 @@
   oomp:
     footprint_name: fsupcms
     library_name: kit_dev_coldfire
+    md5: 25113a7c3b6439a2bdfdca04c51e3e27
+    md5_10: 25113a7c3b
+    md5_5: '25113'
+    md5_6: 25113a
+    oomp_key: oomp_joanthespark_kit_dev_coldfire_fsupcms
+    oomp_key_extra: oomp_footprint_joanthespark_kit_dev_coldfire_fsupcms
+    oomp_key_full: oomp_footprint_joanthespark_kit_dev_coldfire_fsupcms_25113a
+    oomp_key_simple: joanthespark_kit_dev_coldfire_fsupcms
     original_filename: KiCAD/demos/kit-dev-coldfire-xilinx_5213/kit-dev-coldfire.pretty/FSUPCMS.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_kit_dev_coldfire_fsupcms
+  oomp_key_full: oomp_footprint_joanthespark_kit_dev_coldfire_fsupcms
   oomp_key_simple: joanthespark_kit_dev_coldfire_fsupcms
   owner: JoanTheSpark
   repo:

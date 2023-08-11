@@ -17,9 +17,18 @@
   oomp:
     footprint_name: dip_5_300
     library_name: w_switch
+    md5: f61c65c2ad93e6689094a240a42500c4
+    md5_10: f61c65c2ad
+    md5_5: f61c6
+    md5_6: f61c65
+    oomp_key: oomp_asofttech_w_switch_dip_5_300
+    oomp_key_extra: oomp_footprint_asofttech_w_switch_dip_5_300
+    oomp_key_full: oomp_footprint_asofttech_w_switch_dip_5_300_f61c65
+    oomp_key_simple: asofttech_w_switch_dip_5_300
     original_filename: CAD.KiCad.Libs/modules/w_switch.pretty/dip_5-300.kicad_mod
     owner_name: asofttech
   oomp_key: oomp_asofttech_w_switch_dip_5_300
+  oomp_key_full: oomp_footprint_asofttech_w_switch_dip_5_300
   oomp_key_simple: asofttech_w_switch_dip_5_300
   owner: ASoftTech
   repo:

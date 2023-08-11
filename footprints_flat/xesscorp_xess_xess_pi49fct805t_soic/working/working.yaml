@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_pi49fct805t_soic
     library_name: xess
+    md5: c487027a5d95a3e8ca050e0ff9b4de83
+    md5_10: c487027a5d
+    md5_5: c4870
+    md5_6: c48702
+    oomp_key: oomp_xesscorp_xess_xess_pi49fct805t_soic
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_pi49fct805t_soic
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_pi49fct805t_soic_c48702
+    oomp_key_simple: xesscorp_xess_xess_pi49fct805t_soic
     original_filename: xess.pretty/xess-PI49FCT805T-SOIC.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_pi49fct805t_soic
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_pi49fct805t_soic
   oomp_key_simple: xesscorp_xess_xess_pi49fct805t_soic
   owner: xesscorp
   repo:

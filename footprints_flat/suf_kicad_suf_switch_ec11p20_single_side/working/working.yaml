@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ec11p20_single_side
     library_name: suf_switch
+    md5: 61161db7e9711cc1085e18b76495e71d
+    md5_10: 61161db7e9
+    md5_5: '61161'
+    md5_6: 61161d
+    oomp_key: oomp_suf_kicad_suf_switch_ec11p20_single_side
+    oomp_key_extra: oomp_footprint_suf_kicad_suf_switch_ec11p20_single_side
+    oomp_key_full: oomp_footprint_suf_kicad_suf_switch_ec11p20_single_side_61161d
+    oomp_key_simple: suf_kicad_suf_switch_ec11p20_single_side
     original_filename: suf_switch.pretty/EC11P20_single_side.kicad_mod
     owner_name: suf_kicad
   oomp_key: oomp_suf_kicad_suf_switch_ec11p20_single_side
+  oomp_key_full: oomp_footprint_suf_kicad_suf_switch_ec11p20_single_side
   oomp_key_simple: suf_kicad_suf_switch_ec11p20_single_side
   owner: suf-KiCAD
   repo:

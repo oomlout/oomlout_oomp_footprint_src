@@ -17,9 +17,18 @@
   oomp:
     footprint_name: m3hole
     library_name: kicadkozuelib
+    md5: d62122550450b11f825cae2a2ea266e5
+    md5_10: d621225504
+    md5_5: d6212
+    md5_6: d62122
+    oomp_key: oomp_kozuenakano_kicadkozuelib_m3hole
+    oomp_key_extra: oomp_footprint_kozuenakano_kicadkozuelib_m3hole
+    oomp_key_full: oomp_footprint_kozuenakano_kicadkozuelib_m3hole_d62122
+    oomp_key_simple: kozuenakano_kicadkozuelib_m3hole
     original_filename: KiCADKozueLib.pretty/M3Hole.kicad_mod
     owner_name: kozuenakano
   oomp_key: oomp_kozuenakano_kicadkozuelib_m3hole
+  oomp_key_full: oomp_footprint_kozuenakano_kicadkozuelib_m3hole
   oomp_key_simple: kozuenakano_kicadkozuelib_m3hole
   owner: KozueNakano
   repo:

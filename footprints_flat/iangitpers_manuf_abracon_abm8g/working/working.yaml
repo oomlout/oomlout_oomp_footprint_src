@@ -19,9 +19,18 @@
   oomp:
     footprint_name: abracon_abm8g
     library_name: manuf
+    md5: bf32fede197edaed1b3e31517e259d1f
+    md5_10: bf32fede19
+    md5_5: bf32f
+    md5_6: bf32fe
+    oomp_key: oomp_iangitpers_manuf_abracon_abm8g
+    oomp_key_extra: oomp_footprint_iangitpers_manuf_abracon_abm8g
+    oomp_key_full: oomp_footprint_iangitpers_manuf_abracon_abm8g_bf32fe
+    oomp_key_simple: iangitpers_manuf_abracon_abm8g
     original_filename: 4a/manuf.pretty/ABRACON-ABM8G.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_manuf_abracon_abm8g
+  oomp_key_full: oomp_footprint_iangitpers_manuf_abracon_abm8g
   oomp_key_simple: iangitpers_manuf_abracon_abm8g
   owner: Iangitpers
   repo:

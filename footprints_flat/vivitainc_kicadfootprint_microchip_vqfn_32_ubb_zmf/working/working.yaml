@@ -17,9 +17,18 @@
   oomp:
     footprint_name: microchip_vqfn_32_ubb_zmf
     library_name: kicadfootprint
+    md5: 3fdad312f4c9d492dd455afd0dcfe88e
+    md5_10: 3fdad312f4
+    md5_5: 3fdad
+    md5_6: 3fdad3
+    oomp_key: oomp_vivitainc_kicadfootprint_microchip_vqfn_32_ubb_zmf
+    oomp_key_extra: oomp_footprint_vivitainc_kicadfootprint_microchip_vqfn_32_ubb_zmf
+    oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_microchip_vqfn_32_ubb_zmf_3fdad3
+    oomp_key_simple: vivitainc_kicadfootprint_microchip_vqfn_32_ubb_zmf
     original_filename: KiCADfootprint.pretty/Microchip_VQFN-32-UBB-ZMF.kicad_mod
     owner_name: vivitainc
   oomp_key: oomp_vivitainc_kicadfootprint_microchip_vqfn_32_ubb_zmf
+  oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_microchip_vqfn_32_ubb_zmf
   oomp_key_simple: vivitainc_kicadfootprint_microchip_vqfn_32_ubb_zmf
   owner: vivitainc
   repo:

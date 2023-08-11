@@ -17,9 +17,18 @@
   oomp:
     footprint_name: c_trimmer_murata_tzc3
     library_name: capacitor_smd
+    md5: 09ede9267e4fb1240d387f15b10d1d45
+    md5_10: 09ede9267e
+    md5_5: 09ede
+    md5_6: 09ede9
+    oomp_key: oomp_kicad_capacitor_smd_c_trimmer_murata_tzc3
+    oomp_key_extra: oomp_footprint_kicad_capacitor_smd_c_trimmer_murata_tzc3
+    oomp_key_full: oomp_footprint_kicad_capacitor_smd_c_trimmer_murata_tzc3_09ede9
+    oomp_key_simple: kicad_capacitor_smd_c_trimmer_murata_tzc3
     original_filename: libraries/kicad-footprints/Capacitor_SMD.pretty/C_Trimmer_Murata_TZC3.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_capacitor_smd_c_trimmer_murata_tzc3
+  oomp_key_full: oomp_footprint_kicad_capacitor_smd_c_trimmer_murata_tzc3
   oomp_key_simple: kicad_capacitor_smd_c_trimmer_murata_tzc3
   owner: kicad
   repo:

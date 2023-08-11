@@ -17,9 +17,18 @@
   oomp:
     footprint_name: switch_nav_12_4x12_4mm_smd_js5208
     library_name: digikey_footprints
+    md5: ea4755a8b91ee96377f53648a788d625
+    md5_10: ea4755a8b9
+    md5_5: ea475
+    md5_6: ea4755
+    oomp_key: oomp_digikey_digikey_footprints_switch_nav_12_4x12_4mm_smd_js5208
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_switch_nav_12_4x12_4mm_smd_js5208
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_switch_nav_12_4x12_4mm_smd_js5208_ea4755
+    oomp_key_simple: digikey_digikey_footprints_switch_nav_12_4x12_4mm_smd_js5208
     original_filename: digikey-kicad-library/digikey-footprints.pretty/Switch_Nav_12.4x12.4mm_SMD_JS5208.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_switch_nav_12_4x12_4mm_smd_js5208
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_switch_nav_12_4x12_4mm_smd_js5208
   oomp_key_simple: digikey_digikey_footprints_switch_nav_12_4x12_4mm_smd_js5208
   owner: digikey
   repo:

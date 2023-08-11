@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sw_cherry_mx_pcb
     library_name: kicadfootprint
+    md5: 7cbe9f6cc2d0842170a248b304491c2e
+    md5_10: 7cbe9f6cc2
+    md5_5: 7cbe9
+    md5_6: 7cbe9f
+    oomp_key: oomp_vivitainc_kicadfootprint_sw_cherry_mx_pcb
+    oomp_key_extra: oomp_footprint_vivitainc_kicadfootprint_sw_cherry_mx_pcb
+    oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_sw_cherry_mx_pcb_7cbe9f
+    oomp_key_simple: vivitainc_kicadfootprint_sw_cherry_mx_pcb
     original_filename: KiCADfootprint.pretty/SW_Cherry_MX_PCB.kicad_mod
     owner_name: vivitainc
   oomp_key: oomp_vivitainc_kicadfootprint_sw_cherry_mx_pcb
+  oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_sw_cherry_mx_pcb
   oomp_key_simple: vivitainc_kicadfootprint_sw_cherry_mx_pcb
   owner: vivitainc
   repo:

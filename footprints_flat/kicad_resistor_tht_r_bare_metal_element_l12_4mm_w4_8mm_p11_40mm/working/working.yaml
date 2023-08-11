@@ -18,9 +18,18 @@
   oomp:
     footprint_name: r_bare_metal_element_l12_4mm_w4_8mm_p11_40mm
     library_name: resistor_tht
+    md5: 959818db556e7ef2c0ce8230bfa1533e
+    md5_10: 959818db55
+    md5_5: '95981'
+    md5_6: '959818'
+    oomp_key: oomp_kicad_resistor_tht_r_bare_metal_element_l12_4mm_w4_8mm_p11_40mm
+    oomp_key_extra: oomp_footprint_kicad_resistor_tht_r_bare_metal_element_l12_4mm_w4_8mm_p11_40mm
+    oomp_key_full: oomp_footprint_kicad_resistor_tht_r_bare_metal_element_l12_4mm_w4_8mm_p11_40mm_959818
+    oomp_key_simple: kicad_resistor_tht_r_bare_metal_element_l12_4mm_w4_8mm_p11_40mm
     original_filename: libraries/kicad-footprints/Resistor_THT.pretty/R_Bare_Metal_Element_L12.4mm_W4.8mm_P11.40mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_resistor_tht_r_bare_metal_element_l12_4mm_w4_8mm_p11_40mm
+  oomp_key_full: oomp_footprint_kicad_resistor_tht_r_bare_metal_element_l12_4mm_w4_8mm_p11_40mm
   oomp_key_simple: kicad_resistor_tht_r_bare_metal_element_l12_4mm_w4_8mm_p11_40mm
   owner: kicad
   repo:

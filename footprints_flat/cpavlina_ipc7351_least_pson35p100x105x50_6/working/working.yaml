@@ -18,9 +18,18 @@
   oomp:
     footprint_name: pson35p100x105x50_6
     library_name: ipc7351_least
+    md5: 7d7d30e8ddbf96d05302059e19c3301a
+    md5_10: 7d7d30e8dd
+    md5_5: 7d7d3
+    md5_6: 7d7d30
+    oomp_key: oomp_cpavlina_ipc7351_least_pson35p100x105x50_6
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_least_pson35p100x105x50_6
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_least_pson35p100x105x50_6_7d7d30
+    oomp_key_simple: cpavlina_ipc7351_least_pson35p100x105x50_6
     original_filename: kicad-pcblib/IPC7351-Least.pretty/PSON35P100X105X50-6.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_least_pson35p100x105x50_6
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_least_pson35p100x105x50_6
   oomp_key_simple: cpavlina_ipc7351_least_pson35p100x105x50_6
   owner: cpavlina
   repo:

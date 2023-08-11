@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ind_sdr2207
     library_name: freetronics_footprints
+    md5: 50a02778936f8b14f4d7b0f60b88e3fc
+    md5_10: 50a0277893
+    md5_5: 50a02
+    md5_6: 50a027
+    oomp_key: oomp_wykys_freetronics_footprints_ind_sdr2207
+    oomp_key_extra: oomp_footprint_wykys_freetronics_footprints_ind_sdr2207
+    oomp_key_full: oomp_footprint_wykys_freetronics_footprints_ind_sdr2207_50a027
+    oomp_key_simple: wykys_freetronics_footprints_ind_sdr2207
     original_filename: kicad/mods/freetronics_footprints.pretty/IND_SDR2207.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_freetronics_footprints_ind_sdr2207
+  oomp_key_full: oomp_footprint_wykys_freetronics_footprints_ind_sdr2207
   oomp_key_simple: wykys_freetronics_footprints_ind_sdr2207
   owner: wykys
   repo:

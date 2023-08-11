@@ -17,9 +17,18 @@
   oomp:
     footprint_name: esp32_devkit_v1_doit_jwm_lesssilk
     library_name: jwm_kicad_footprints_misc
+    md5: bbadca1af4f785cc193085a387377113
+    md5_10: bbadca1af4
+    md5_5: bbadc
+    md5_6: bbadca
+    oomp_key: oomp_joem_jwm_kicad_footprints_misc_esp32_devkit_v1_doit_jwm_lesssilk
+    oomp_key_extra: oomp_footprint_joem_jwm_kicad_footprints_misc_esp32_devkit_v1_doit_jwm_lesssilk
+    oomp_key_full: oomp_footprint_joem_jwm_kicad_footprints_misc_esp32_devkit_v1_doit_jwm_lesssilk_bbadca
+    oomp_key_simple: joem_jwm_kicad_footprints_misc_esp32_devkit_v1_doit_jwm_lesssilk
     original_filename: jwm_kicad_footprints_misc.pretty/ESP32_Devkit_V1_DOIT_JWM_LessSilk.kicad_mod
     owner_name: joem
   oomp_key: oomp_joem_jwm_kicad_footprints_misc_esp32_devkit_v1_doit_jwm_lesssilk
+  oomp_key_full: oomp_footprint_joem_jwm_kicad_footprints_misc_esp32_devkit_v1_doit_jwm_lesssilk
   oomp_key_simple: joem_jwm_kicad_footprints_misc_esp32_devkit_v1_doit_jwm_lesssilk
   owner: joem
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: usb_micro_b_technik_twp_4002d_h3
     library_name: connector_usb
+    md5: 7a164ee1650c2bc54aef00c74b847062
+    md5_10: 7a164ee165
+    md5_5: 7a164
+    md5_6: 7a164e
+    oomp_key: oomp_kicad_connector_usb_usb_micro_b_technik_twp_4002d_h3
+    oomp_key_extra: oomp_footprint_kicad_connector_usb_usb_micro_b_technik_twp_4002d_h3
+    oomp_key_full: oomp_footprint_kicad_connector_usb_usb_micro_b_technik_twp_4002d_h3_7a164e
+    oomp_key_simple: kicad_connector_usb_usb_micro_b_technik_twp_4002d_h3
     original_filename: libraries/kicad-footprints/Connector_USB.pretty/USB_Micro-B_Technik_TWP-4002D-H3.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_usb_usb_micro_b_technik_twp_4002d_h3
+  oomp_key_full: oomp_footprint_kicad_connector_usb_usb_micro_b_technik_twp_4002d_h3
   oomp_key_simple: kicad_connector_usb_usb_micro_b_technik_twp_4002d_h3
   owner: kicad
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: spi_header
     library_name: esp_rs232
+    md5: 3817d72735bc8d6b746cc09cd5d09c4c
+    md5_10: 3817d72735
+    md5_5: 3817d
+    md5_6: 3817d7
+    oomp_key: oomp_wykys_esp_rs232_spi_header
+    oomp_key_extra: oomp_footprint_wykys_esp_rs232_spi_header
+    oomp_key_full: oomp_footprint_wykys_esp_rs232_spi_header_3817d7
+    oomp_key_simple: wykys_esp_rs232_spi_header
     original_filename: kicad/mods/ESP-RS232.pretty/SPI_Header.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_esp_rs232_spi_header
+  oomp_key_full: oomp_footprint_wykys_esp_rs232_spi_header
   oomp_key_simple: wykys_esp_rs232_spi_header
   owner: wykys
   repo:

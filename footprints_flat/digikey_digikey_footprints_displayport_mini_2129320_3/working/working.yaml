@@ -17,9 +17,18 @@
   oomp:
     footprint_name: displayport_mini_2129320_3
     library_name: digikey_footprints
+    md5: 51926af2eecf279550993e2120d7a8d4
+    md5_10: 51926af2ee
+    md5_5: '51926'
+    md5_6: 51926a
+    oomp_key: oomp_digikey_digikey_footprints_displayport_mini_2129320_3
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_displayport_mini_2129320_3
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_displayport_mini_2129320_3_51926a
+    oomp_key_simple: digikey_digikey_footprints_displayport_mini_2129320_3
     original_filename: digikey-kicad-library/digikey-footprints.pretty/DisplayPort_Mini_2129320-3.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_displayport_mini_2129320_3
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_displayport_mini_2129320_3
   oomp_key_simple: digikey_digikey_footprints_displayport_mini_2129320_3
   owner: digikey
   repo:

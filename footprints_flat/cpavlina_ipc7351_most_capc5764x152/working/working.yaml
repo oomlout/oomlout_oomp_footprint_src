@@ -17,9 +17,18 @@
   oomp:
     footprint_name: capc5764x152
     library_name: ipc7351_most
+    md5: 693928084e73494271e7b79ce18efa0b
+    md5_10: 693928084e
+    md5_5: '69392'
+    md5_6: '693928'
+    oomp_key: oomp_cpavlina_ipc7351_most_capc5764x152
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_most_capc5764x152
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_most_capc5764x152_693928
+    oomp_key_simple: cpavlina_ipc7351_most_capc5764x152
     original_filename: kicad-pcblib/IPC7351-Most.pretty/CAPC5764X152.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_most_capc5764x152
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_most_capc5764x152
   oomp_key_simple: cpavlina_ipc7351_most_capc5764x152
   owner: cpavlina
   repo:

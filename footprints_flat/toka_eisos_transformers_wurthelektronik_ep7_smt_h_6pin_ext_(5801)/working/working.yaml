@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ep7_smt_h_6pin_ext_(5801)
     library_name: transformers_wurthelektronik
+    md5: 0506c24a3a50d51214a4a65be2b68c1e
+    md5_10: 0506c24a3a
+    md5_5: 0506c
+    md5_6: 0506c2
+    oomp_key: oomp_toka_eisos_transformers_wurthelektronik_ep7_smt_h_6pin_ext_(5801)
+    oomp_key_extra: oomp_footprint_toka_eisos_transformers_wurthelektronik_ep7_smt_h_6pin_ext_(5801)
+    oomp_key_full: oomp_footprint_toka_eisos_transformers_wurthelektronik_ep7_smt_h_6pin_ext_(5801)_0506c2
+    oomp_key_simple: toka_eisos_transformers_wurthelektronik_ep7_smt_h_6pin_ext_(5801)
     original_filename: Transformers_WurthElektronik.pretty/EP7_SMT_H_6PIN_EXT_(5801).kicad_mod
     owner_name: toka_eisos
   oomp_key: oomp_toka_eisos_transformers_wurthelektronik_ep7_smt_h_6pin_ext_(5801)
+  oomp_key_full: oomp_footprint_toka_eisos_transformers_wurthelektronik_ep7_smt_h_6pin_ext_(5801)
   oomp_key_simple: toka_eisos_transformers_wurthelektronik_ep7_smt_h_6pin_ext_(5801)
   owner: toka-eisos
   repo:

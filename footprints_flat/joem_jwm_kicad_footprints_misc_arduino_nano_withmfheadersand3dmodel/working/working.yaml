@@ -17,9 +17,18 @@
   oomp:
     footprint_name: arduino_nano_withmfheadersand3dmodel
     library_name: jwm_kicad_footprints_misc
+    md5: eceb44f3f3627d6300d0e600897d4f73
+    md5_10: eceb44f3f3
+    md5_5: eceb4
+    md5_6: eceb44
+    oomp_key: oomp_joem_jwm_kicad_footprints_misc_arduino_nano_withmfheadersand3dmodel
+    oomp_key_extra: oomp_footprint_joem_jwm_kicad_footprints_misc_arduino_nano_withmfheadersand3dmodel
+    oomp_key_full: oomp_footprint_joem_jwm_kicad_footprints_misc_arduino_nano_withmfheadersand3dmodel_eceb44
+    oomp_key_simple: joem_jwm_kicad_footprints_misc_arduino_nano_withmfheadersand3dmodel
     original_filename: jwm_kicad_footprints_misc.pretty/Arduino_Nano_WithMFHeadersAnd3DModel.kicad_mod
     owner_name: joem
   oomp_key: oomp_joem_jwm_kicad_footprints_misc_arduino_nano_withmfheadersand3dmodel
+  oomp_key_full: oomp_footprint_joem_jwm_kicad_footprints_misc_arduino_nano_withmfheadersand3dmodel
   oomp_key_simple: joem_jwm_kicad_footprints_misc_arduino_nano_withmfheadersand3dmodel
   owner: joem
   repo:

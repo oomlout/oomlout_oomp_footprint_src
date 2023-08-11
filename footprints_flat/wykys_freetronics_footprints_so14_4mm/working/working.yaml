@@ -17,9 +17,18 @@
   oomp:
     footprint_name: so14_4mm
     library_name: freetronics_footprints
+    md5: c22373523f7ad66e6f2a50f009eb1c9b
+    md5_10: c22373523f
+    md5_5: c2237
+    md5_6: c22373
+    oomp_key: oomp_wykys_freetronics_footprints_so14_4mm
+    oomp_key_extra: oomp_footprint_wykys_freetronics_footprints_so14_4mm
+    oomp_key_full: oomp_footprint_wykys_freetronics_footprints_so14_4mm_c22373
+    oomp_key_simple: wykys_freetronics_footprints_so14_4mm
     original_filename: kicad/mods/freetronics_footprints.pretty/SO14_4mm.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_freetronics_footprints_so14_4mm
+  oomp_key_full: oomp_footprint_wykys_freetronics_footprints_so14_4mm
   oomp_key_simple: wykys_freetronics_footprints_so14_4mm
   owner: wykys
   repo:

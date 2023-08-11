@@ -17,9 +17,18 @@
   oomp:
     footprint_name: to_252_3
     library_name: digikey_footprints
+    md5: 7745e011e7c404f4d92fbb372ec56a2e
+    md5_10: 7745e011e7
+    md5_5: 7745e
+    md5_6: 7745e0
+    oomp_key: oomp_digikey_digikey_footprints_to_252_3
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_to_252_3
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_to_252_3_7745e0
+    oomp_key_simple: digikey_digikey_footprints_to_252_3
     original_filename: digikey-kicad-library/digikey-footprints.pretty/TO-252-3.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_to_252_3
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_to_252_3
   oomp_key_simple: digikey_digikey_footprints_to_252_3
   owner: digikey
   repo:

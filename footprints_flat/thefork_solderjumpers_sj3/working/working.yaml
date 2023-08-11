@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sj3
     library_name: solderjumpers
+    md5: e282418b265112bd31879a5313978c0c
+    md5_10: e282418b26
+    md5_5: e2824
+    md5_6: e28241
+    oomp_key: oomp_thefork_solderjumpers_sj3
+    oomp_key_extra: oomp_footprint_thefork_solderjumpers_sj3
+    oomp_key_full: oomp_footprint_thefork_solderjumpers_sj3_e28241
+    oomp_key_simple: thefork_solderjumpers_sj3
     original_filename: Solderjumpers.pretty/SJ3.kicad_mod
     owner_name: thefork
   oomp_key: oomp_thefork_solderjumpers_sj3
+  oomp_key_full: oomp_footprint_thefork_solderjumpers_sj3
   oomp_key_simple: thefork_solderjumpers_sj3
   owner: theFork
   repo:

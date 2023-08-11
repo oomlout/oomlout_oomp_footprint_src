@@ -17,9 +17,18 @@
   oomp:
     footprint_name: indc6350x200
     library_name: ipc7351_most
+    md5: f809af1c78e365c5ab9f8e8f55039cbd
+    md5_10: f809af1c78
+    md5_5: f809a
+    md5_6: f809af
+    oomp_key: oomp_cpavlina_ipc7351_most_indc6350x200
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_most_indc6350x200
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_most_indc6350x200_f809af
+    oomp_key_simple: cpavlina_ipc7351_most_indc6350x200
     original_filename: kicad-pcblib/IPC7351-Most.pretty/INDC6350X200.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_most_indc6350x200
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_most_indc6350x200
   oomp_key_simple: cpavlina_ipc7351_most_indc6350x200
   owner: cpavlina
   repo:

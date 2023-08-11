@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sw_nkk_g1xjp
     library_name: button_switch_tht
+    md5: e1449bf0cf460acc180a8a67e988ec08
+    md5_10: e1449bf0cf
+    md5_5: e1449
+    md5_6: e1449b
+    oomp_key: oomp_kicad_button_switch_tht_sw_nkk_g1xjp
+    oomp_key_extra: oomp_footprint_kicad_button_switch_tht_sw_nkk_g1xjp
+    oomp_key_full: oomp_footprint_kicad_button_switch_tht_sw_nkk_g1xjp_e1449b
+    oomp_key_simple: kicad_button_switch_tht_sw_nkk_g1xjp
     original_filename: libraries/kicad-footprints/Button_Switch_THT.pretty/SW_NKK_G1xJP.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_button_switch_tht_sw_nkk_g1xjp
+  oomp_key_full: oomp_footprint_kicad_button_switch_tht_sw_nkk_g1xjp
   oomp_key_simple: kicad_button_switch_tht_sw_nkk_g1xjp
   owner: kicad
   repo:

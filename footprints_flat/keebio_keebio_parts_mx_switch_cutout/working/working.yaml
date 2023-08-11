@@ -17,9 +17,18 @@
   oomp:
     footprint_name: mx_switch_cutout
     library_name: keebio_parts
+    md5: 161f0aeb5402a519045240b10c9e445a
+    md5_10: 161f0aeb54
+    md5_5: 161f0
+    md5_6: 161f0a
+    oomp_key: oomp_keebio_keebio_parts_mx_switch_cutout
+    oomp_key_extra: oomp_footprint_keebio_keebio_parts_mx_switch_cutout
+    oomp_key_full: oomp_footprint_keebio_keebio_parts_mx_switch_cutout_161f0a
+    oomp_key_simple: keebio_keebio_parts_mx_switch_cutout
     original_filename: Keebio-Parts.pretty/MX_Switch_Cutout.kicad_mod
     owner_name: keebio
   oomp_key: oomp_keebio_keebio_parts_mx_switch_cutout
+  oomp_key_full: oomp_footprint_keebio_keebio_parts_mx_switch_cutout
   oomp_key_simple: keebio_keebio_parts_mx_switch_cutout
   owner: keebio
   repo:

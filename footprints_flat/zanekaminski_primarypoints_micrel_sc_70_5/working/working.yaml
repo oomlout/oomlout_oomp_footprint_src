@@ -17,9 +17,18 @@
   oomp:
     footprint_name: micrel_sc_70_5
     library_name: primarypoints
+    md5: db673b6b036adad5248b09c4e36e0178
+    md5_10: db673b6b03
+    md5_5: db673
+    md5_6: db673b
+    oomp_key: oomp_zanekaminski_primarypoints_micrel_sc_70_5
+    oomp_key_extra: oomp_footprint_zanekaminski_primarypoints_micrel_sc_70_5
+    oomp_key_full: oomp_footprint_zanekaminski_primarypoints_micrel_sc_70_5_db673b
+    oomp_key_simple: zanekaminski_primarypoints_micrel_sc_70_5
     original_filename: primarypoints.pretty/Micrel_SC-70-5.kicad_mod
     owner_name: zanekaminski
   oomp_key: oomp_zanekaminski_primarypoints_micrel_sc_70_5
+  oomp_key_full: oomp_footprint_zanekaminski_primarypoints_micrel_sc_70_5
   oomp_key_simple: zanekaminski_primarypoints_micrel_sc_70_5
   owner: ZaneKaminski
   repo:

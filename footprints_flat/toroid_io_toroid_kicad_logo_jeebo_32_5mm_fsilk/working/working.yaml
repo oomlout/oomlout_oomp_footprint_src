@@ -17,9 +17,18 @@
   oomp:
     footprint_name: logo_jeebo_32_5mm_fsilk
     library_name: toroid_kicad
+    md5: 7abc8d3f742a4e421e77ad8434e1b342
+    md5_10: 7abc8d3f74
+    md5_5: 7abc8
+    md5_6: 7abc8d
+    oomp_key: oomp_toroid_io_toroid_kicad_logo_jeebo_32_5mm_fsilk
+    oomp_key_extra: oomp_footprint_toroid_io_toroid_kicad_logo_jeebo_32_5mm_fsilk
+    oomp_key_full: oomp_footprint_toroid_io_toroid_kicad_logo_jeebo_32_5mm_fsilk_7abc8d
+    oomp_key_simple: toroid_io_toroid_kicad_logo_jeebo_32_5mm_fsilk
     original_filename: toroid-kicad.pretty/Logo_Jeebo_32_5mm_FSilk.kicad_mod
     owner_name: toroid_io
   oomp_key: oomp_toroid_io_toroid_kicad_logo_jeebo_32_5mm_fsilk
+  oomp_key_full: oomp_footprint_toroid_io_toroid_kicad_logo_jeebo_32_5mm_fsilk
   oomp_key_simple: toroid_io_toroid_kicad_logo_jeebo_32_5mm_fsilk
   owner: Toroid-io
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: lm2596
     library_name: kicadparts
+    md5: dd574a3ddf19eda1e094b80a0e0ff31b
+    md5_10: dd574a3ddf
+    md5_5: dd574
+    md5_6: dd574a
+    oomp_key: oomp_svarmo_kicadparts_lm2596
+    oomp_key_extra: oomp_footprint_svarmo_kicadparts_lm2596
+    oomp_key_full: oomp_footprint_svarmo_kicadparts_lm2596_dd574a
+    oomp_key_simple: svarmo_kicadparts_lm2596
     original_filename: kicadParts.pretty/LM2596.kicad_mod
     owner_name: svarmo
   oomp_key: oomp_svarmo_kicadparts_lm2596
+  oomp_key_full: oomp_footprint_svarmo_kicadparts_lm2596
   oomp_key_simple: svarmo_kicadparts_lm2596
   owner: svarmo
   repo:

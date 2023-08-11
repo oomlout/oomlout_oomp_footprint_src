@@ -17,9 +17,18 @@
   oomp:
     footprint_name: hd10_003
     library_name: xess
+    md5: 14845e0afdca88056ba0d544b8d183d5
+    md5_10: 14845e0afd
+    md5_5: '14845'
+    md5_6: 14845e
+    oomp_key: oomp_xesscorp_xess_hd10_003
+    oomp_key_extra: oomp_footprint_xesscorp_xess_hd10_003
+    oomp_key_full: oomp_footprint_xesscorp_xess_hd10_003_14845e
+    oomp_key_simple: xesscorp_xess_hd10_003
     original_filename: xess.pretty/HD10-003.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_hd10_003
+  oomp_key_full: oomp_footprint_xesscorp_xess_hd10_003
   oomp_key_simple: xesscorp_xess_hd10_003
   owner: xesscorp
   repo:

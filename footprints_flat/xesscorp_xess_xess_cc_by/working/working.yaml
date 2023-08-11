@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_cc_by
     library_name: xess
+    md5: b288ae143b28661d6b5fe90c769ad0da
+    md5_10: b288ae143b
+    md5_5: b288a
+    md5_6: b288ae
+    oomp_key: oomp_xesscorp_xess_xess_cc_by
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_cc_by
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_cc_by_b288ae
+    oomp_key_simple: xesscorp_xess_xess_cc_by
     original_filename: xess.pretty/xess-CC_BY.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_cc_by
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_cc_by
   oomp_key_simple: xesscorp_xess_xess_cc_by
   owner: xesscorp
   repo:

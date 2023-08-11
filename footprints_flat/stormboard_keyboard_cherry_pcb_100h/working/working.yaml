@@ -17,9 +17,18 @@
   oomp:
     footprint_name: cherry_pcb_100h
     library_name: keyboard
+    md5: 84f8537de0a048bce01d457b5c5b1e70
+    md5_10: 84f8537de0
+    md5_5: 84f85
+    md5_6: 84f853
+    oomp_key: oomp_stormboard_keyboard_cherry_pcb_100h
+    oomp_key_extra: oomp_footprint_stormboard_keyboard_cherry_pcb_100h
+    oomp_key_full: oomp_footprint_stormboard_keyboard_cherry_pcb_100h_84f853
+    oomp_key_simple: stormboard_keyboard_cherry_pcb_100h
     original_filename: Keyboard.pretty/CHERRY_PCB_100H.kicad_mod
     owner_name: stormboard
   oomp_key: oomp_stormboard_keyboard_cherry_pcb_100h
+  oomp_key_full: oomp_footprint_stormboard_keyboard_cherry_pcb_100h
   oomp_key_simple: stormboard_keyboard_cherry_pcb_100h
   owner: stormboard
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sot_323
     library_name: 1wire_v0_4
+    md5: 0fe29b16c482069b28d53d8bded49584
+    md5_10: 0fe29b16c4
+    md5_5: 0fe29
+    md5_6: 0fe29b
+    oomp_key: oomp_joanthespark_1wire_v0_4_sot_323
+    oomp_key_extra: oomp_footprint_joanthespark_1wire_v0_4_sot_323
+    oomp_key_full: oomp_footprint_joanthespark_1wire_v0_4_sot_323_0fe29b
+    oomp_key_simple: joanthespark_1wire_v0_4_sot_323
     original_filename: KiCAD/6.0/projects/1w-grove-v0.1/1wire-v0.4.pretty/SOT-323.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_1wire_v0_4_sot_323
+  oomp_key_full: oomp_footprint_joanthespark_1wire_v0_4_sot_323
   oomp_key_simple: joanthespark_1wire_v0_4_sot_323
   owner: JoanTheSpark
   repo:

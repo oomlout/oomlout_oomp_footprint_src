@@ -17,9 +17,18 @@
   oomp:
     footprint_name: 2x20
     library_name: freetronics_footprints
+    md5: ec91848fb64884e702e6f08f77f8822d
+    md5_10: ec91848fb6
+    md5_5: ec918
+    md5_6: ec9184
+    oomp_key: oomp_joanthespark_freetronics_footprints_2x20
+    oomp_key_extra: oomp_footprint_joanthespark_freetronics_footprints_2x20
+    oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_2x20_ec9184
+    oomp_key_simple: joanthespark_freetronics_footprints_2x20
     original_filename: KiCAD/mods/freetronics_footprints.pretty/2X20.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_freetronics_footprints_2x20
+  oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_2x20
   oomp_key_simple: joanthespark_freetronics_footprints_2x20
   owner: JoanTheSpark
   repo:

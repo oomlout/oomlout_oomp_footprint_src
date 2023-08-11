@@ -17,9 +17,18 @@
   oomp:
     footprint_name: mxo175
     library_name: acheron_mxo
+    md5: fa5ed213316cfbcfc777038c08d32684
+    md5_10: fa5ed21331
+    md5_5: fa5ed
+    md5_6: fa5ed2
+    oomp_key: oomp_acheronproject_acheron_mxo_mxo175
+    oomp_key_extra: oomp_footprint_acheronproject_acheron_mxo_mxo175
+    oomp_key_full: oomp_footprint_acheronproject_acheron_mxo_mxo175_fa5ed2
+    oomp_key_simple: acheronproject_acheron_mxo_mxo175
     original_filename: acheron_MXO.pretty/MXO175.kicad_mod
     owner_name: acheronproject
   oomp_key: oomp_acheronproject_acheron_mxo_mxo175
+  oomp_key_full: oomp_footprint_acheronproject_acheron_mxo_mxo175
   oomp_key_simple: acheronproject_acheron_mxo_mxo175
   owner: AcheronProject
   repo:

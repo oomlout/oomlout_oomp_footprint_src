@@ -19,9 +19,18 @@
   oomp:
     footprint_name: stampspring_1x01_p1_00mm_vertical
     library_name: connector_extra
+    md5: 04abdc18043310a4799a84ff3abe9559
+    md5_10: 04abdc1804
+    md5_5: 04abd
+    md5_6: 04abdc
+    oomp_key: oomp_arturo182_connector_extra_stampspring_1x01_p1_00mm_vertical
+    oomp_key_extra: oomp_footprint_arturo182_connector_extra_stampspring_1x01_p1_00mm_vertical
+    oomp_key_full: oomp_footprint_arturo182_connector_extra_stampspring_1x01_p1_00mm_vertical_04abdc
+    oomp_key_simple: arturo182_connector_extra_stampspring_1x01_p1_00mm_vertical
     original_filename: kicad-modules/Connector_Extra.pretty/StampSpring_1x01_P1.00mm_Vertical.kicad_mod
     owner_name: arturo182
   oomp_key: oomp_arturo182_connector_extra_stampspring_1x01_p1_00mm_vertical
+  oomp_key_full: oomp_footprint_arturo182_connector_extra_stampspring_1x01_p1_00mm_vertical
   oomp_key_simple: arturo182_connector_extra_stampspring_1x01_p1_00mm_vertical
   owner: arturo182
   repo:

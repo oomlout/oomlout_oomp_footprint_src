@@ -18,9 +18,18 @@
   oomp:
     footprint_name: molex_54548_1071_1x10_1mp_p0_5mm_horizontal
     library_name: connector_ffc_fpc
+    md5: f5b70970640874031e4ae9b99bf0ccb3
+    md5_10: f5b7097064
+    md5_5: f5b70
+    md5_6: f5b709
+    oomp_key: oomp_kicad_connector_ffc_fpc_molex_54548_1071_1x10_1mp_p0_5mm_horizontal
+    oomp_key_extra: oomp_footprint_kicad_connector_ffc_fpc_molex_54548_1071_1x10_1mp_p0_5mm_horizontal
+    oomp_key_full: oomp_footprint_kicad_connector_ffc_fpc_molex_54548_1071_1x10_1mp_p0_5mm_horizontal_f5b709
+    oomp_key_simple: kicad_connector_ffc_fpc_molex_54548_1071_1x10_1mp_p0_5mm_horizontal
     original_filename: libraries/kicad-footprints/Connector_FFC-FPC.pretty/Molex_54548-1071_1x10-1MP_P0.5mm_Horizontal.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_ffc_fpc_molex_54548_1071_1x10_1mp_p0_5mm_horizontal
+  oomp_key_full: oomp_footprint_kicad_connector_ffc_fpc_molex_54548_1071_1x10_1mp_p0_5mm_horizontal
   oomp_key_simple: kicad_connector_ffc_fpc_molex_54548_1071_1x10_1mp_p0_5mm_horizontal
   owner: kicad
   repo:

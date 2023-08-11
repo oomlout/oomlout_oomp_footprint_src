@@ -17,9 +17,18 @@
   oomp:
     footprint_name: abm3_smd_crystal
     library_name: usst_footprints
+    md5: b7b5ae446ac48f1756b128d33f30aae4
+    md5_10: b7b5ae446a
+    md5_5: b7b5a
+    md5_6: b7b5ae
+    oomp_key: oomp_uofsspaceteam_usst_footprints_abm3_smd_crystal
+    oomp_key_extra: oomp_footprint_uofsspaceteam_usst_footprints_abm3_smd_crystal
+    oomp_key_full: oomp_footprint_uofsspaceteam_usst_footprints_abm3_smd_crystal_b7b5ae
+    oomp_key_simple: uofsspaceteam_usst_footprints_abm3_smd_crystal
     original_filename: USST-footprints.pretty/ABM3_SMD_crystal.kicad_mod
     owner_name: uofsspaceteam
   oomp_key: oomp_uofsspaceteam_usst_footprints_abm3_smd_crystal
+  oomp_key_full: oomp_footprint_uofsspaceteam_usst_footprints_abm3_smd_crystal
   oomp_key_simple: uofsspaceteam_usst_footprints_abm3_smd_crystal
   owner: UofSSpaceTeam
   repo:

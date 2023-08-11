@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sw_kailh_choc_mini_5_50u
     library_name: switch_keyboard_kailh
+    md5: 0e8af21a8aa6d2f6a5c138bcd6b5ed86
+    md5_10: 0e8af21a8a
+    md5_5: 0e8af
+    md5_6: 0e8af2
+    oomp_key: oomp_joanthespark_switch_keyboard_kailh_sw_kailh_choc_mini_5_50u
+    oomp_key_extra: oomp_footprint_joanthespark_switch_keyboard_kailh_sw_kailh_choc_mini_5_50u
+    oomp_key_full: oomp_footprint_joanthespark_switch_keyboard_kailh_sw_kailh_choc_mini_5_50u_0e8af2
+    oomp_key_simple: joanthespark_switch_keyboard_kailh_sw_kailh_choc_mini_5_50u
     original_filename: KiCAD/6.0/3rdparty/footprints/com_github_perigoso_keyswitch-kicad-library/Switch_Keyboard_Kailh.pretty/SW_Kailh_Choc_Mini_5.50u.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_switch_keyboard_kailh_sw_kailh_choc_mini_5_50u
+  oomp_key_full: oomp_footprint_joanthespark_switch_keyboard_kailh_sw_kailh_choc_mini_5_50u
   oomp_key_simple: joanthespark_switch_keyboard_kailh_sw_kailh_choc_mini_5_50u
   owner: JoanTheSpark
   repo:

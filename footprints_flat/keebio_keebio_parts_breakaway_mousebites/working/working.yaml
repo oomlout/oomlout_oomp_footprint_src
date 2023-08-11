@@ -17,9 +17,18 @@
   oomp:
     footprint_name: breakaway_mousebites
     library_name: keebio_parts
+    md5: dc04a6f3944fc2cbaf78619e6ad617c8
+    md5_10: dc04a6f394
+    md5_5: dc04a
+    md5_6: dc04a6
+    oomp_key: oomp_keebio_keebio_parts_breakaway_mousebites
+    oomp_key_extra: oomp_footprint_keebio_keebio_parts_breakaway_mousebites
+    oomp_key_full: oomp_footprint_keebio_keebio_parts_breakaway_mousebites_dc04a6
+    oomp_key_simple: keebio_keebio_parts_breakaway_mousebites
     original_filename: Keebio-Parts.pretty/breakaway-mousebites.kicad_mod
     owner_name: keebio
   oomp_key: oomp_keebio_keebio_parts_breakaway_mousebites
+  oomp_key_full: oomp_footprint_keebio_keebio_parts_breakaway_mousebites
   oomp_key_simple: keebio_keebio_parts_breakaway_mousebites
   owner: keebio
   repo:

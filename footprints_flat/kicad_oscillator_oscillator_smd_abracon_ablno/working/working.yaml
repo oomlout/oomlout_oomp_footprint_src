@@ -17,9 +17,18 @@
   oomp:
     footprint_name: oscillator_smd_abracon_ablno
     library_name: oscillator
+    md5: a22f68515cdf9b5f40434cbc9e0c5337
+    md5_10: a22f68515c
+    md5_5: a22f6
+    md5_6: a22f68
+    oomp_key: oomp_kicad_oscillator_oscillator_smd_abracon_ablno
+    oomp_key_extra: oomp_footprint_kicad_oscillator_oscillator_smd_abracon_ablno
+    oomp_key_full: oomp_footprint_kicad_oscillator_oscillator_smd_abracon_ablno_a22f68
+    oomp_key_simple: kicad_oscillator_oscillator_smd_abracon_ablno
     original_filename: libraries/kicad-footprints/Oscillator.pretty/Oscillator_SMD_Abracon_ABLNO.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_oscillator_oscillator_smd_abracon_ablno
+  oomp_key_full: oomp_footprint_kicad_oscillator_oscillator_smd_abracon_ablno
   oomp_key_simple: kicad_oscillator_oscillator_smd_abracon_ablno
   owner: kicad
   repo:

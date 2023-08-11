@@ -16,10 +16,19 @@
   name: kicad
   oomp:
     footprint_name: rj10_v2
-    library_name: 1w_grove_v0_1
+    library_name: rj10_v2_kicad_mod
+    md5: 793005ddf67b9cd833839bf62e3d1277
+    md5_10: 793005ddf6
+    md5_5: '79300'
+    md5_6: '793005'
+    oomp_key: oomp_wykys_rj10_v2_rj10_v2
+    oomp_key_extra: oomp_footprint_wykys_rj10_v2_rj10_v2
+    oomp_key_full: oomp_footprint_wykys_rj10_v2_rj10_v2_793005
+    oomp_key_simple: wykys_rj10_v2_rj10_v2
     original_filename: kicad/6.0/projects/1w-grove-v0.1/rj10-v2.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_rj10_v2_rj10_v2
+  oomp_key_full: oomp_footprint_wykys_rj10_v2_rj10_v2
   oomp_key_simple: wykys_rj10_v2_rj10_v2
   owner: wykys
   repo:

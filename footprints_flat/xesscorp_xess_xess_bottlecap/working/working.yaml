@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_bottlecap
     library_name: xess
+    md5: 77a4608736f70bdc02be9deafee90871
+    md5_10: 77a4608736
+    md5_5: 77a46
+    md5_6: 77a460
+    oomp_key: oomp_xesscorp_xess_xess_bottlecap
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_bottlecap
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_bottlecap_77a460
+    oomp_key_simple: xesscorp_xess_xess_bottlecap
     original_filename: xess.pretty/xess-BOTTLECAP.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_bottlecap
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_bottlecap
   oomp_key_simple: xesscorp_xess_xess_bottlecap
   owner: xesscorp
   repo:

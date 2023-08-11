@@ -17,9 +17,18 @@
   oomp:
     footprint_name: da04_11sykwa
     library_name: display_7segment
+    md5: 0efc5fe7278747c645fab4ba33cbe89b
+    md5_10: 0efc5fe727
+    md5_5: 0efc5
+    md5_6: 0efc5f
+    oomp_key: oomp_kicad_display_7segment_da04_11sykwa
+    oomp_key_extra: oomp_footprint_kicad_display_7segment_da04_11sykwa
+    oomp_key_full: oomp_footprint_kicad_display_7segment_da04_11sykwa_0efc5f
+    oomp_key_simple: kicad_display_7segment_da04_11sykwa
     original_filename: libraries/kicad-footprints/Display_7Segment.pretty/DA04-11SYKWA.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_display_7segment_da04_11sykwa
+  oomp_key_full: oomp_footprint_kicad_display_7segment_da04_11sykwa
   oomp_key_simple: kicad_display_7segment_da04_11sykwa
   owner: kicad
   repo:

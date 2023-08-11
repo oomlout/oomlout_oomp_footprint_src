@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ep13_smt_h_12pin_(5511)
     library_name: transformers_wurthelektronik
+    md5: 5f699f1219b80ba14200b3a39bafba2c
+    md5_10: 5f699f1219
+    md5_5: 5f699
+    md5_6: 5f699f
+    oomp_key: oomp_wurthelectronics_transformers_wurthelektronik_ep13_smt_h_12pin_(5511)
+    oomp_key_extra: oomp_footprint_wurthelectronics_transformers_wurthelektronik_ep13_smt_h_12pin_(5511)
+    oomp_key_full: oomp_footprint_wurthelectronics_transformers_wurthelektronik_ep13_smt_h_12pin_(5511)_5f699f
+    oomp_key_simple: wurthelectronics_transformers_wurthelektronik_ep13_smt_h_12pin_(5511)
     original_filename: Transformers_WurthElektronik.pretty/EP13_SMT_H_12PIN_(5511).kicad_mod
     owner_name: wurthelectronics
   oomp_key: oomp_wurthelectronics_transformers_wurthelektronik_ep13_smt_h_12pin_(5511)
+  oomp_key_full: oomp_footprint_wurthelectronics_transformers_wurthelektronik_ep13_smt_h_12pin_(5511)
   oomp_key_simple: wurthelectronics_transformers_wurthelektronik_ep13_smt_h_12pin_(5511)
   owner: WurthElectronics
   repo:

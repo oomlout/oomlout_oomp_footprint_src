@@ -17,9 +17,18 @@
   oomp:
     footprint_name: usb_c_receptacle_amphenol_12401548e4_2a
     library_name: connector_usb
+    md5: ea6a6c682897512c52c50e7141e3a4e8
+    md5_10: ea6a6c6828
+    md5_5: ea6a6
+    md5_6: ea6a6c
+    oomp_key: oomp_kicad_connector_usb_usb_c_receptacle_amphenol_12401548e4_2a
+    oomp_key_extra: oomp_footprint_kicad_connector_usb_usb_c_receptacle_amphenol_12401548e4_2a
+    oomp_key_full: oomp_footprint_kicad_connector_usb_usb_c_receptacle_amphenol_12401548e4_2a_ea6a6c
+    oomp_key_simple: kicad_connector_usb_usb_c_receptacle_amphenol_12401548e4_2a
     original_filename: libraries/kicad-footprints/Connector_USB.pretty/USB_C_Receptacle_Amphenol_12401548E4-2A.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_usb_usb_c_receptacle_amphenol_12401548e4_2a
+  oomp_key_full: oomp_footprint_kicad_connector_usb_usb_c_receptacle_amphenol_12401548e4_2a
   oomp_key_simple: kicad_connector_usb_usb_c_receptacle_amphenol_12401548e4_2a
   owner: kicad
   repo:

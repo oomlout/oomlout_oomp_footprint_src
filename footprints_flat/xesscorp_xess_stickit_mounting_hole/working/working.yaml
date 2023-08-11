@@ -17,9 +17,18 @@
   oomp:
     footprint_name: stickit_mounting_hole
     library_name: xess
+    md5: 8aacdc3d045117ea0a98caf32efa30fb
+    md5_10: 8aacdc3d04
+    md5_5: 8aacd
+    md5_6: 8aacdc
+    oomp_key: oomp_xesscorp_xess_stickit_mounting_hole
+    oomp_key_extra: oomp_footprint_xesscorp_xess_stickit_mounting_hole
+    oomp_key_full: oomp_footprint_xesscorp_xess_stickit_mounting_hole_8aacdc
+    oomp_key_simple: xesscorp_xess_stickit_mounting_hole
     original_filename: xess.pretty/StickIt_Mounting_Hole.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_stickit_mounting_hole
+  oomp_key_full: oomp_footprint_xesscorp_xess_stickit_mounting_hole
   oomp_key_simple: xesscorp_xess_stickit_mounting_hole
   owner: xesscorp
   repo:

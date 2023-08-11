@@ -17,9 +17,18 @@
   oomp:
     footprint_name: max_m8q
     library_name: agg
+    md5: d7f17b957d0e98a66310e260776d0bbb
+    md5_10: d7f17b957d
+    md5_5: d7f17
+    md5_6: d7f17b
+    oomp_key: oomp_adamgreig_agg_max_m8q
+    oomp_key_extra: oomp_footprint_adamgreig_agg_max_m8q
+    oomp_key_full: oomp_footprint_adamgreig_agg_max_m8q_d7f17b
+    oomp_key_simple: adamgreig_agg_max_m8q
     original_filename: agg-kicad/agg.pretty/MAX-M8Q.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_max_m8q
+  oomp_key_full: oomp_footprint_adamgreig_agg_max_m8q
   oomp_key_simple: adamgreig_agg_max_m8q
   owner: adamgreig
   repo:

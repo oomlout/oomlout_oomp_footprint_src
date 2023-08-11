@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sw_pushbutton_smd
     library_name: freetronics_footprints
+    md5: dfda2b4933475381b32450a7adcf9b55
+    md5_10: dfda2b4933
+    md5_5: dfda2
+    md5_6: dfda2b
+    oomp_key: oomp_wykys_freetronics_footprints_sw_pushbutton_smd
+    oomp_key_extra: oomp_footprint_wykys_freetronics_footprints_sw_pushbutton_smd
+    oomp_key_full: oomp_footprint_wykys_freetronics_footprints_sw_pushbutton_smd_dfda2b
+    oomp_key_simple: wykys_freetronics_footprints_sw_pushbutton_smd
     original_filename: kicad/mods/freetronics_footprints.pretty/SW_PUSHBUTTON_SMD.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_freetronics_footprints_sw_pushbutton_smd
+  oomp_key_full: oomp_footprint_wykys_freetronics_footprints_sw_pushbutton_smd
   oomp_key_simple: wykys_freetronics_footprints_sw_pushbutton_smd
   owner: wykys
   repo:

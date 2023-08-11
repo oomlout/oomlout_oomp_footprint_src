@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sod128
     library_name: apex
+    md5: 221c5a7aefe0f6f278173ce5dc22bcee
+    md5_10: 221c5a7aef
+    md5_5: 221c5
+    md5_6: 221c5a
+    oomp_key: oomp_apexelectrix_apex_sod128
+    oomp_key_extra: oomp_footprint_apexelectrix_apex_sod128
+    oomp_key_full: oomp_footprint_apexelectrix_apex_sod128_221c5a
+    oomp_key_simple: apexelectrix_apex_sod128
     original_filename: Apex.pretty/SOD128.kicad_mod
     owner_name: apexelectrix
   oomp_key: oomp_apexelectrix_apex_sod128
+  oomp_key_full: oomp_footprint_apexelectrix_apex_sod128
   oomp_key_simple: apexelectrix_apex_sod128
   owner: apexelectrix
   repo:

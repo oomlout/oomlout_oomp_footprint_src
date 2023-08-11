@@ -18,9 +18,18 @@
   oomp:
     footprint_name: signalcommunications_we_kihc_0402
     library_name: signalcommunications
+    md5: e17b8611d68a89fb353ef0e2aefdedc3
+    md5_10: e17b8611d6
+    md5_5: e17b8
+    md5_6: e17b86
+    oomp_key: oomp_electroniccats_signalcommunications_signalcommunications_we_kihc_0402
+    oomp_key_extra: oomp_footprint_electroniccats_signalcommunications_signalcommunications_we_kihc_0402
+    oomp_key_full: oomp_footprint_electroniccats_signalcommunications_signalcommunications_we_kihc_0402_e17b86
+    oomp_key_simple: electroniccats_signalcommunications_signalcommunications_we_kihc_0402
     original_filename: ComponentLibrariesKicadWurthElektronik/SIGNAL-COMMUNICATIONS-rev18a/SignalCommunications.pretty/SignalCommunications-WE-KIHC_0402.kicad_mod
     owner_name: electroniccats
   oomp_key: oomp_electroniccats_signalcommunications_signalcommunications_we_kihc_0402
+  oomp_key_full: oomp_footprint_electroniccats_signalcommunications_signalcommunications_we_kihc_0402
   oomp_key_simple: electroniccats_signalcommunications_signalcommunications_we_kihc_0402
   owner: ElectronicCats
   repo:

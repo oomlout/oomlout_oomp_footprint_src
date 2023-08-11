@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sw_cherry_mx_plate_isoenter
     library_name: switch_keyboard_cherry_mx
+    md5: b643917956a0a40653b4958c103d780f
+    md5_10: b643917956
+    md5_5: b6439
+    md5_6: b64391
+    oomp_key: oomp_axello_switch_keyboard_cherry_mx_sw_cherry_mx_plate_isoenter
+    oomp_key_extra: oomp_footprint_axello_switch_keyboard_cherry_mx_sw_cherry_mx_plate_isoenter
+    oomp_key_full: oomp_footprint_axello_switch_keyboard_cherry_mx_sw_cherry_mx_plate_isoenter_b64391
+    oomp_key_simple: axello_switch_keyboard_cherry_mx_sw_cherry_mx_plate_isoenter
     original_filename: kicad/6.0/3rdparty/footprints/com_github_perigoso_keyswitch-kicad-library/Switch_Keyboard_Cherry_MX.pretty/SW_Cherry_MX_Plate_ISOEnter.kicad_mod
     owner_name: axello
   oomp_key: oomp_axello_switch_keyboard_cherry_mx_sw_cherry_mx_plate_isoenter
+  oomp_key_full: oomp_footprint_axello_switch_keyboard_cherry_mx_sw_cherry_mx_plate_isoenter
   oomp_key_simple: axello_switch_keyboard_cherry_mx_sw_cherry_mx_plate_isoenter
   owner: axello
   repo:

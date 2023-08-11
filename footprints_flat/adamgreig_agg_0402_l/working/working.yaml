@@ -17,9 +17,18 @@
   oomp:
     footprint_name: 0402_l
     library_name: agg
+    md5: 64809fcc323f9454a4561e61f3f13276
+    md5_10: 64809fcc32
+    md5_5: '64809'
+    md5_6: 64809f
+    oomp_key: oomp_adamgreig_agg_0402_l
+    oomp_key_extra: oomp_footprint_adamgreig_agg_0402_l
+    oomp_key_full: oomp_footprint_adamgreig_agg_0402_l_64809f
+    oomp_key_simple: adamgreig_agg_0402_l
     original_filename: agg-kicad/agg.pretty/0402-L.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_0402_l
+  oomp_key_full: oomp_footprint_adamgreig_agg_0402_l
   oomp_key_simple: adamgreig_agg_0402_l
   owner: adamgreig
   repo:

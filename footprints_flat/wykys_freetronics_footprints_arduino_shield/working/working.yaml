@@ -17,9 +17,18 @@
   oomp:
     footprint_name: arduino_shield
     library_name: freetronics_footprints
+    md5: 4a8e57a8d67a2dc72416de1c60dc708f
+    md5_10: 4a8e57a8d6
+    md5_5: 4a8e5
+    md5_6: 4a8e57
+    oomp_key: oomp_wykys_freetronics_footprints_arduino_shield
+    oomp_key_extra: oomp_footprint_wykys_freetronics_footprints_arduino_shield
+    oomp_key_full: oomp_footprint_wykys_freetronics_footprints_arduino_shield_4a8e57
+    oomp_key_simple: wykys_freetronics_footprints_arduino_shield
     original_filename: kicad/mods/freetronics_footprints.pretty/ARDUINO_SHIELD.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_freetronics_footprints_arduino_shield
+  oomp_key_full: oomp_footprint_wykys_freetronics_footprints_arduino_shield
   oomp_key_simple: wykys_freetronics_footprints_arduino_shield
   owner: wykys
   repo:

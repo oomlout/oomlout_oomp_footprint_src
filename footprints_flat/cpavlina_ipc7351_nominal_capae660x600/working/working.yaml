@@ -17,9 +17,18 @@
   oomp:
     footprint_name: capae660x600
     library_name: ipc7351_nominal
+    md5: 265287f41230c4df2f9a82e1535e4506
+    md5_10: 265287f412
+    md5_5: '26528'
+    md5_6: '265287'
+    oomp_key: oomp_cpavlina_ipc7351_nominal_capae660x600
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_nominal_capae660x600
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_capae660x600_265287
+    oomp_key_simple: cpavlina_ipc7351_nominal_capae660x600
     original_filename: kicad-pcblib/IPC7351-Nominal.pretty/CAPAE660X600.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_nominal_capae660x600
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_capae660x600
   oomp_key_simple: cpavlina_ipc7351_nominal_capae660x600
   owner: cpavlina
   repo:

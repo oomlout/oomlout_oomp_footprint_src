@@ -17,9 +17,18 @@
   oomp:
     footprint_name: soic254p1016x460_6
     library_name: smd_semi
+    md5: a232d49315d766b03c96b9ce07c64dc3
+    md5_10: a232d49315
+    md5_5: a232d
+    md5_6: a232d4
+    oomp_key: oomp_cpavlina_smd_semi_soic254p1016x460_6
+    oomp_key_extra: oomp_footprint_cpavlina_smd_semi_soic254p1016x460_6
+    oomp_key_full: oomp_footprint_cpavlina_smd_semi_soic254p1016x460_6_a232d4
+    oomp_key_simple: cpavlina_smd_semi_soic254p1016x460_6
     original_filename: kicad-pcblib/smd-semi.pretty/SOIC254P1016X460-6.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_smd_semi_soic254p1016x460_6
+  oomp_key_full: oomp_footprint_cpavlina_smd_semi_soic254p1016x460_6
   oomp_key_simple: cpavlina_smd_semi_soic254p1016x460_6
   owner: cpavlina
   repo:

@@ -18,9 +18,18 @@
   oomp:
     footprint_name: allegro_qsop_24_3_9x8_7mm_p0_635mm
     library_name: sensor_current
+    md5: b842b6e1dbd849d41641548640370778
+    md5_10: b842b6e1db
+    md5_5: b842b
+    md5_6: b842b6
+    oomp_key: oomp_kicad_sensor_current_allegro_qsop_24_3_9x8_7mm_p0_635mm
+    oomp_key_extra: oomp_footprint_kicad_sensor_current_allegro_qsop_24_3_9x8_7mm_p0_635mm
+    oomp_key_full: oomp_footprint_kicad_sensor_current_allegro_qsop_24_3_9x8_7mm_p0_635mm_b842b6
+    oomp_key_simple: kicad_sensor_current_allegro_qsop_24_3_9x8_7mm_p0_635mm
     original_filename: libraries/kicad-footprints/Sensor_Current.pretty/Allegro_QSOP-24_3.9x8.7mm_P0.635mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_sensor_current_allegro_qsop_24_3_9x8_7mm_p0_635mm
+  oomp_key_full: oomp_footprint_kicad_sensor_current_allegro_qsop_24_3_9x8_7mm_p0_635mm
   oomp_key_simple: kicad_sensor_current_allegro_qsop_24_3_9x8_7mm_p0_635mm
   owner: kicad
   repo:

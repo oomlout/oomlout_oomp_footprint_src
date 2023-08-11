@@ -17,9 +17,18 @@
   oomp:
     footprint_name: diode_hybrid_3pad
     library_name: keebio_parts
+    md5: a98d3e1732604e1f702ad98c23f7d65f
+    md5_10: a98d3e1732
+    md5_5: a98d3
+    md5_6: a98d3e
+    oomp_key: oomp_keebio_keebio_parts_diode_hybrid_3pad
+    oomp_key_extra: oomp_footprint_keebio_keebio_parts_diode_hybrid_3pad
+    oomp_key_full: oomp_footprint_keebio_keebio_parts_diode_hybrid_3pad_a98d3e
+    oomp_key_simple: keebio_keebio_parts_diode_hybrid_3pad
     original_filename: Keebio-Parts.pretty/Diode-hybrid-3pad.kicad_mod
     owner_name: keebio
   oomp_key: oomp_keebio_keebio_parts_diode_hybrid_3pad
+  oomp_key_full: oomp_footprint_keebio_keebio_parts_diode_hybrid_3pad
   oomp_key_simple: keebio_keebio_parts_diode_hybrid_3pad
   owner: keebio
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: dpak
     library_name: freetronics_footprints
+    md5: a0fb811823af651d68ed4ed1422e826d
+    md5_10: a0fb811823
+    md5_5: a0fb8
+    md5_6: a0fb81
+    oomp_key: oomp_wykys_freetronics_footprints_dpak
+    oomp_key_extra: oomp_footprint_wykys_freetronics_footprints_dpak
+    oomp_key_full: oomp_footprint_wykys_freetronics_footprints_dpak_a0fb81
+    oomp_key_simple: wykys_freetronics_footprints_dpak
     original_filename: kicad/mods/freetronics_footprints.pretty/DPAK.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_freetronics_footprints_dpak
+  oomp_key_full: oomp_footprint_wykys_freetronics_footprints_dpak
   oomp_key_simple: wykys_freetronics_footprints_dpak
   owner: wykys
   repo:

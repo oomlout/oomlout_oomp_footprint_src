@@ -18,9 +18,18 @@
   oomp:
     footprint_name: rescav127p310x640x65_10
     library_name: ipc7351_nominal
+    md5: 804f59b600577df09aa32da23560eca7
+    md5_10: 804f59b600
+    md5_5: 804f5
+    md5_6: 804f59
+    oomp_key: oomp_cpavlina_ipc7351_nominal_rescav127p310x640x65_10
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_nominal_rescav127p310x640x65_10
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_rescav127p310x640x65_10_804f59
+    oomp_key_simple: cpavlina_ipc7351_nominal_rescav127p310x640x65_10
     original_filename: kicad-pcblib/IPC7351-Nominal.pretty/RESCAV127P310X640X65-10.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_nominal_rescav127p310x640x65_10
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_rescav127p310x640x65_10
   oomp_key_simple: cpavlina_ipc7351_nominal_rescav127p310x640x65_10
   owner: cpavlina
   repo:

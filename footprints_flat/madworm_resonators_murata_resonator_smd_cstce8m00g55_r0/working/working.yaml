@@ -17,9 +17,18 @@
   oomp:
     footprint_name: murata_resonator_smd_cstce8m00g55_r0
     library_name: resonators
+    md5: 0b83ca53b68e9edc5ae1df1504b9acf9
+    md5_10: 0b83ca53b6
+    md5_5: 0b83c
+    md5_6: 0b83ca
+    oomp_key: oomp_madworm_resonators_murata_resonator_smd_cstce8m00g55_r0
+    oomp_key_extra: oomp_footprint_madworm_resonators_murata_resonator_smd_cstce8m00g55_r0
+    oomp_key_full: oomp_footprint_madworm_resonators_murata_resonator_smd_cstce8m00g55_r0_0b83ca
+    oomp_key_simple: madworm_resonators_murata_resonator_smd_cstce8m00g55_r0
     original_filename: Resonators.pretty/murata-resonator_SMD_CSTCE8M00G55-R0.kicad_mod
     owner_name: madworm
   oomp_key: oomp_madworm_resonators_murata_resonator_smd_cstce8m00g55_r0
+  oomp_key_full: oomp_footprint_madworm_resonators_murata_resonator_smd_cstce8m00g55_r0
   oomp_key_simple: madworm_resonators_murata_resonator_smd_cstce8m00g55_r0
   owner: madworm
   repo:

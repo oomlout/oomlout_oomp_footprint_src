@@ -18,9 +18,18 @@
   oomp:
     footprint_name: smdip_42_w15_24mm
     library_name: package_dip
+    md5: 3562cf0b7450e3469e496e7cdbcc6fcb
+    md5_10: 3562cf0b74
+    md5_5: 3562c
+    md5_6: 3562cf
+    oomp_key: oomp_kicad_package_dip_smdip_42_w15_24mm
+    oomp_key_extra: oomp_footprint_kicad_package_dip_smdip_42_w15_24mm
+    oomp_key_full: oomp_footprint_kicad_package_dip_smdip_42_w15_24mm_3562cf
+    oomp_key_simple: kicad_package_dip_smdip_42_w15_24mm
     original_filename: libraries/kicad-footprints/Package_DIP.pretty/SMDIP-42_W15.24mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_dip_smdip_42_w15_24mm
+  oomp_key_full: oomp_footprint_kicad_package_dip_smdip_42_w15_24mm
   oomp_key_simple: kicad_package_dip_smdip_42_w15_24mm
   owner: kicad
   repo:

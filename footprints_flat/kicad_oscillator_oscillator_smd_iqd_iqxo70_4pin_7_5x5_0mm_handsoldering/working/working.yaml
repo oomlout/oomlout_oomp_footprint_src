@@ -18,9 +18,18 @@
   oomp:
     footprint_name: oscillator_smd_iqd_iqxo70_4pin_7_5x5_0mm_handsoldering
     library_name: oscillator
+    md5: 0f365c366af20588553d62615cb2fe93
+    md5_10: 0f365c366a
+    md5_5: 0f365
+    md5_6: 0f365c
+    oomp_key: oomp_kicad_oscillator_oscillator_smd_iqd_iqxo70_4pin_7_5x5_0mm_handsoldering
+    oomp_key_extra: oomp_footprint_kicad_oscillator_oscillator_smd_iqd_iqxo70_4pin_7_5x5_0mm_handsoldering
+    oomp_key_full: oomp_footprint_kicad_oscillator_oscillator_smd_iqd_iqxo70_4pin_7_5x5_0mm_handsoldering_0f365c
+    oomp_key_simple: kicad_oscillator_oscillator_smd_iqd_iqxo70_4pin_7_5x5_0mm_handsoldering
     original_filename: libraries/kicad-footprints/Oscillator.pretty/Oscillator_SMD_IQD_IQXO70-4Pin_7.5x5.0mm_HandSoldering.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_oscillator_oscillator_smd_iqd_iqxo70_4pin_7_5x5_0mm_handsoldering
+  oomp_key_full: oomp_footprint_kicad_oscillator_oscillator_smd_iqd_iqxo70_4pin_7_5x5_0mm_handsoldering
   oomp_key_simple: kicad_oscillator_oscillator_smd_iqd_iqxo70_4pin_7_5x5_0mm_handsoldering
   owner: kicad
   repo:

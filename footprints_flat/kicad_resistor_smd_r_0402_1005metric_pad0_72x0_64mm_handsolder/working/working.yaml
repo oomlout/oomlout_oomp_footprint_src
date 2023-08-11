@@ -20,9 +20,18 @@
   oomp:
     footprint_name: r_0402_1005metric_pad0_72x0_64mm_handsolder
     library_name: resistor_smd
+    md5: 40457ea37e5bbeccdced423445d6d146
+    md5_10: 40457ea37e
+    md5_5: '40457'
+    md5_6: 40457e
+    oomp_key: oomp_kicad_resistor_smd_r_0402_1005metric_pad0_72x0_64mm_handsolder
+    oomp_key_extra: oomp_footprint_kicad_resistor_smd_r_0402_1005metric_pad0_72x0_64mm_handsolder
+    oomp_key_full: oomp_footprint_kicad_resistor_smd_r_0402_1005metric_pad0_72x0_64mm_handsolder_40457e
+    oomp_key_simple: kicad_resistor_smd_r_0402_1005metric_pad0_72x0_64mm_handsolder
     original_filename: libraries/kicad-footprints/Resistor_SMD.pretty/R_0402_1005Metric_Pad0.72x0.64mm_HandSolder.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_resistor_smd_r_0402_1005metric_pad0_72x0_64mm_handsolder
+  oomp_key_full: oomp_footprint_kicad_resistor_smd_r_0402_1005metric_pad0_72x0_64mm_handsolder
   oomp_key_simple: kicad_resistor_smd_r_0402_1005metric_pad0_72x0_64mm_handsolder
   owner: kicad
   repo:

@@ -18,9 +18,18 @@
   oomp:
     footprint_name: rp2040_qfn_56
     library_name: keebio_parts
+    md5: 94c9f98f1232a1d59f0fded072fa3211
+    md5_10: 94c9f98f12
+    md5_5: 94c9f
+    md5_6: 94c9f9
+    oomp_key: oomp_keebio_keebio_parts_rp2040_qfn_56
+    oomp_key_extra: oomp_footprint_keebio_keebio_parts_rp2040_qfn_56
+    oomp_key_full: oomp_footprint_keebio_keebio_parts_rp2040_qfn_56_94c9f9
+    oomp_key_simple: keebio_keebio_parts_rp2040_qfn_56
     original_filename: Keebio-Parts.pretty/RP2040-QFN-56.kicad_mod
     owner_name: keebio
   oomp_key: oomp_keebio_keebio_parts_rp2040_qfn_56
+  oomp_key_full: oomp_footprint_keebio_keebio_parts_rp2040_qfn_56
   oomp_key_simple: keebio_keebio_parts_rp2040_qfn_56
   owner: keebio
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: relay_jsm1_12v_5
     library_name: digikey_footprints
+    md5: 6e04cb124d8204a73e0898192360238e
+    md5_10: 6e04cb124d
+    md5_5: 6e04c
+    md5_6: 6e04cb
+    oomp_key: oomp_digikey_digikey_footprints_relay_jsm1_12v_5
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_relay_jsm1_12v_5
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_relay_jsm1_12v_5_6e04cb
+    oomp_key_simple: digikey_digikey_footprints_relay_jsm1_12v_5
     original_filename: digikey-kicad-library/digikey-footprints.pretty/Relay_JSM1-12V-5.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_relay_jsm1_12v_5
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_relay_jsm1_12v_5
   oomp_key_simple: digikey_digikey_footprints_relay_jsm1_12v_5
   owner: digikey
   repo:

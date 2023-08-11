@@ -17,9 +17,18 @@
   oomp:
     footprint_name: rjmg16x
     library_name: agg
+    md5: 82cbc75db068ae463f112dd2c17279ce
+    md5_10: 82cbc75db0
+    md5_5: 82cbc
+    md5_6: 82cbc7
+    oomp_key: oomp_adamgreig_agg_rjmg16x
+    oomp_key_extra: oomp_footprint_adamgreig_agg_rjmg16x
+    oomp_key_full: oomp_footprint_adamgreig_agg_rjmg16x_82cbc7
+    oomp_key_simple: adamgreig_agg_rjmg16x
     original_filename: agg-kicad/agg.pretty/RJMG16X.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_rjmg16x
+  oomp_key_full: oomp_footprint_adamgreig_agg_rjmg16x
   oomp_key_simple: adamgreig_agg_rjmg16x
   owner: adamgreig
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: soj65p600x150_20
     library_name: ipc7351_nominal
+    md5: be14a7488dc7a83dfd47e69afc0a61ef
+    md5_10: be14a7488d
+    md5_5: be14a
+    md5_6: be14a7
+    oomp_key: oomp_cpavlina_ipc7351_nominal_soj65p600x150_20
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_nominal_soj65p600x150_20
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_soj65p600x150_20_be14a7
+    oomp_key_simple: cpavlina_ipc7351_nominal_soj65p600x150_20
     original_filename: kicad-pcblib/IPC7351-Nominal.pretty/SOJ65P600X150-20.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_nominal_soj65p600x150_20
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_soj65p600x150_20
   oomp_key_simple: cpavlina_ipc7351_nominal_soj65p600x150_20
   owner: cpavlina
   repo:

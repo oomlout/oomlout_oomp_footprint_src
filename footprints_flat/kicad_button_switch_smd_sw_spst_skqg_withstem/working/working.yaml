@@ -18,9 +18,18 @@
   oomp:
     footprint_name: sw_spst_skqg_withstem
     library_name: button_switch_smd
+    md5: 10301e78525da728b2d5545516b1f11e
+    md5_10: 10301e7852
+    md5_5: '10301'
+    md5_6: 10301e
+    oomp_key: oomp_kicad_button_switch_smd_sw_spst_skqg_withstem
+    oomp_key_extra: oomp_footprint_kicad_button_switch_smd_sw_spst_skqg_withstem
+    oomp_key_full: oomp_footprint_kicad_button_switch_smd_sw_spst_skqg_withstem_10301e
+    oomp_key_simple: kicad_button_switch_smd_sw_spst_skqg_withstem
     original_filename: libraries/kicad-footprints/Button_Switch_SMD.pretty/SW_SPST_SKQG_WithStem.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_button_switch_smd_sw_spst_skqg_withstem
+  oomp_key_full: oomp_footprint_kicad_button_switch_smd_sw_spst_skqg_withstem
   oomp_key_simple: kicad_button_switch_smd_sw_spst_skqg_withstem
   owner: kicad
   repo:

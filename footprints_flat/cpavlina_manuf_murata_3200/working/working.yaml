@@ -17,9 +17,18 @@
   oomp:
     footprint_name: murata_3200
     library_name: manuf
+    md5: 8a535c44b8953a732f12257cf01f4ec0
+    md5_10: 8a535c44b8
+    md5_5: 8a535
+    md5_6: 8a535c
+    oomp_key: oomp_cpavlina_manuf_murata_3200
+    oomp_key_extra: oomp_footprint_cpavlina_manuf_murata_3200
+    oomp_key_full: oomp_footprint_cpavlina_manuf_murata_3200_8a535c
+    oomp_key_simple: cpavlina_manuf_murata_3200
     original_filename: kicad-pcblib/manuf.pretty/MURATA-3200.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_manuf_murata_3200
+  oomp_key_full: oomp_footprint_cpavlina_manuf_murata_3200
   oomp_key_simple: cpavlina_manuf_murata_3200
   owner: cpavlina
   repo:

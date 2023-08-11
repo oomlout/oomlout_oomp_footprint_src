@@ -17,9 +17,18 @@
   oomp:
     footprint_name: resistor_compact
     library_name: keebio_parts
+    md5: 07af95994dc68bd17226c88eef53f27d
+    md5_10: 07af95994d
+    md5_5: 07af9
+    md5_6: 07af95
+    oomp_key: oomp_keebio_keebio_parts_resistor_compact
+    oomp_key_extra: oomp_footprint_keebio_keebio_parts_resistor_compact
+    oomp_key_full: oomp_footprint_keebio_keebio_parts_resistor_compact_07af95
+    oomp_key_simple: keebio_keebio_parts_resistor_compact
     original_filename: Keebio-Parts.pretty/Resistor-Compact.kicad_mod
     owner_name: keebio
   oomp_key: oomp_keebio_keebio_parts_resistor_compact
+  oomp_key_full: oomp_footprint_keebio_keebio_parts_resistor_compact
   oomp_key_simple: keebio_keebio_parts_resistor_compact
   owner: keebio
   repo:

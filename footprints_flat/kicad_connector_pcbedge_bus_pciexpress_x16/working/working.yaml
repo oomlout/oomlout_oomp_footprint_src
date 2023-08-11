@@ -17,9 +17,18 @@
   oomp:
     footprint_name: bus_pciexpress_x16
     library_name: connector_pcbedge
+    md5: cb4b44dce11863f14c6dbdb1aeb87944
+    md5_10: cb4b44dce1
+    md5_5: cb4b4
+    md5_6: cb4b44
+    oomp_key: oomp_kicad_connector_pcbedge_bus_pciexpress_x16
+    oomp_key_extra: oomp_footprint_kicad_connector_pcbedge_bus_pciexpress_x16
+    oomp_key_full: oomp_footprint_kicad_connector_pcbedge_bus_pciexpress_x16_cb4b44
+    oomp_key_simple: kicad_connector_pcbedge_bus_pciexpress_x16
     original_filename: libraries/kicad-footprints/Connector_PCBEdge.pretty/BUS_PCIexpress_x16.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_pcbedge_bus_pciexpress_x16
+  oomp_key_full: oomp_footprint_kicad_connector_pcbedge_bus_pciexpress_x16
   oomp_key_simple: kicad_connector_pcbedge_bus_pciexpress_x16
   owner: kicad
   repo:

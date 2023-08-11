@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ft_module_sound
     library_name: freetronics_footprints
+    md5: d88fa81f51ef809b62754aed7dfaa84a
+    md5_10: d88fa81f51
+    md5_5: d88fa
+    md5_6: d88fa8
+    oomp_key: oomp_joanthespark_freetronics_footprints_ft_module_sound
+    oomp_key_extra: oomp_footprint_joanthespark_freetronics_footprints_ft_module_sound
+    oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_ft_module_sound_d88fa8
+    oomp_key_simple: joanthespark_freetronics_footprints_ft_module_sound
     original_filename: KiCAD/mods/freetronics_footprints.pretty/FT_MODULE_SOUND.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_freetronics_footprints_ft_module_sound
+  oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_ft_module_sound
   oomp_key_simple: joanthespark_freetronics_footprints_ft_module_sound
   owner: JoanTheSpark
   repo:

@@ -19,9 +19,18 @@
   oomp:
     footprint_name: molex_micro_fit_3_0_43045_1215_2x06_p3_00mm_vertical
     library_name: connector_molex
+    md5: ecb44061e73e674410488f3bb3f42a94
+    md5_10: ecb44061e7
+    md5_5: ecb44
+    md5_6: ecb440
+    oomp_key: oomp_kicad_connector_molex_molex_micro_fit_3_0_43045_1215_2x06_p3_00mm_vertical
+    oomp_key_extra: oomp_footprint_kicad_connector_molex_molex_micro_fit_3_0_43045_1215_2x06_p3_00mm_vertical
+    oomp_key_full: oomp_footprint_kicad_connector_molex_molex_micro_fit_3_0_43045_1215_2x06_p3_00mm_vertical_ecb440
+    oomp_key_simple: kicad_connector_molex_molex_micro_fit_3_0_43045_1215_2x06_p3_00mm_vertical
     original_filename: libraries/kicad-footprints/Connector_Molex.pretty/Molex_Micro-Fit_3.0_43045-1215_2x06_P3.00mm_Vertical.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_molex_molex_micro_fit_3_0_43045_1215_2x06_p3_00mm_vertical
+  oomp_key_full: oomp_footprint_kicad_connector_molex_molex_micro_fit_3_0_43045_1215_2x06_p3_00mm_vertical
   oomp_key_simple: kicad_connector_molex_molex_micro_fit_3_0_43045_1215_2x06_p3_00mm_vertical
   owner: kicad
   repo:

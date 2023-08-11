@@ -18,9 +18,18 @@
   oomp:
     footprint_name: batteryholder_multicomp_bc_2001_1x2032
     library_name: battery
+    md5: 4d76066e1694d3268993eeec8e57b23b
+    md5_10: 4d76066e16
+    md5_5: 4d760
+    md5_6: 4d7606
+    oomp_key: oomp_kicad_battery_batteryholder_multicomp_bc_2001_1x2032
+    oomp_key_extra: oomp_footprint_kicad_battery_batteryholder_multicomp_bc_2001_1x2032
+    oomp_key_full: oomp_footprint_kicad_battery_batteryholder_multicomp_bc_2001_1x2032_4d7606
+    oomp_key_simple: kicad_battery_batteryholder_multicomp_bc_2001_1x2032
     original_filename: libraries/kicad-footprints/Battery.pretty/BatteryHolder_Multicomp_BC-2001_1x2032.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_battery_batteryholder_multicomp_bc_2001_1x2032
+  oomp_key_full: oomp_footprint_kicad_battery_batteryholder_multicomp_bc_2001_1x2032
   oomp_key_simple: kicad_battery_batteryholder_multicomp_bc_2001_1x2032
   owner: kicad
   repo:

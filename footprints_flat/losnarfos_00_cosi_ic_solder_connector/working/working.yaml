@@ -19,9 +19,18 @@
   oomp:
     footprint_name: solder_connector
     library_name: 00_cosi_ic
+    md5: 0e150177b0dfed34d51af9440bb50cb2
+    md5_10: 0e150177b0
+    md5_5: 0e150
+    md5_6: 0e1501
+    oomp_key: oomp_losnarfos_00_cosi_ic_solder_connector
+    oomp_key_extra: oomp_footprint_losnarfos_00_cosi_ic_solder_connector
+    oomp_key_full: oomp_footprint_losnarfos_00_cosi_ic_solder_connector_0e1501
+    oomp_key_simple: losnarfos_00_cosi_ic_solder_connector
     original_filename: Kicad_Libraries/cosi_footprints/00_cosi_IC.pretty/solder connector.kicad_mod
     owner_name: losnarfos
   oomp_key: oomp_losnarfos_00_cosi_ic_solder_connector
+  oomp_key_full: oomp_footprint_losnarfos_00_cosi_ic_solder_connector
   oomp_key_simple: losnarfos_00_cosi_ic_solder_connector
   owner: LosNarfos
   repo:

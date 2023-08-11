@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ind_cr75
     library_name: freetronics_footprints
+    md5: 5a5dcd1aed94af0b05dfdf9d9c259ceb
+    md5_10: 5a5dcd1aed
+    md5_5: 5a5dc
+    md5_6: 5a5dcd
+    oomp_key: oomp_axello_freetronics_footprints_ind_cr75
+    oomp_key_extra: oomp_footprint_axello_freetronics_footprints_ind_cr75
+    oomp_key_full: oomp_footprint_axello_freetronics_footprints_ind_cr75_5a5dcd
+    oomp_key_simple: axello_freetronics_footprints_ind_cr75
     original_filename: kicad/mods/freetronics_footprints.pretty/IND_CR75.kicad_mod
     owner_name: axello
   oomp_key: oomp_axello_freetronics_footprints_ind_cr75
+  oomp_key_full: oomp_footprint_axello_freetronics_footprints_ind_cr75
   oomp_key_simple: axello_freetronics_footprints_ind_cr75
   owner: axello
   repo:

@@ -18,9 +18,18 @@
   oomp:
     footprint_name: jst_gh_bm04b_ghs_tbt_1x04_1mp_p1_25mm_vertical
     library_name: connector_jst
+    md5: 7acd2d0c474502a9cdc11eac2627717d
+    md5_10: 7acd2d0c47
+    md5_5: 7acd2
+    md5_6: 7acd2d
+    oomp_key: oomp_kicad_connector_jst_jst_gh_bm04b_ghs_tbt_1x04_1mp_p1_25mm_vertical
+    oomp_key_extra: oomp_footprint_kicad_connector_jst_jst_gh_bm04b_ghs_tbt_1x04_1mp_p1_25mm_vertical
+    oomp_key_full: oomp_footprint_kicad_connector_jst_jst_gh_bm04b_ghs_tbt_1x04_1mp_p1_25mm_vertical_7acd2d
+    oomp_key_simple: kicad_connector_jst_jst_gh_bm04b_ghs_tbt_1x04_1mp_p1_25mm_vertical
     original_filename: libraries/kicad-footprints/Connector_JST.pretty/JST_GH_BM04B-GHS-TBT_1x04-1MP_P1.25mm_Vertical.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_jst_jst_gh_bm04b_ghs_tbt_1x04_1mp_p1_25mm_vertical
+  oomp_key_full: oomp_footprint_kicad_connector_jst_jst_gh_bm04b_ghs_tbt_1x04_1mp_p1_25mm_vertical
   oomp_key_simple: kicad_connector_jst_jst_gh_bm04b_ghs_tbt_1x04_1mp_p1_25mm_vertical
   owner: kicad
   repo:

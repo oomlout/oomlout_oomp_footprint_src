@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sd_hirose_dm1aa_sf_pej82
     library_name: connector_card
+    md5: d990c0073b96dc73b24de028b0ef8834
+    md5_10: d990c0073b
+    md5_5: d990c
+    md5_6: d990c0
+    oomp_key: oomp_kicad_connector_card_sd_hirose_dm1aa_sf_pej82
+    oomp_key_extra: oomp_footprint_kicad_connector_card_sd_hirose_dm1aa_sf_pej82
+    oomp_key_full: oomp_footprint_kicad_connector_card_sd_hirose_dm1aa_sf_pej82_d990c0
+    oomp_key_simple: kicad_connector_card_sd_hirose_dm1aa_sf_pej82
     original_filename: libraries/kicad-footprints/Connector_Card.pretty/SD_Hirose_DM1AA_SF_PEJ82.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_card_sd_hirose_dm1aa_sf_pej82
+  oomp_key_full: oomp_footprint_kicad_connector_card_sd_hirose_dm1aa_sf_pej82
   oomp_key_simple: kicad_connector_card_sd_hirose_dm1aa_sf_pej82
   owner: kicad
   repo:

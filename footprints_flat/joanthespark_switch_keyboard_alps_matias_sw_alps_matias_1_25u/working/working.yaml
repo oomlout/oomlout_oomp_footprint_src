@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sw_alps_matias_1_25u
     library_name: switch_keyboard_alps_matias
+    md5: 4a56e0b88a79b8036b1dc47d7ea38145
+    md5_10: 4a56e0b88a
+    md5_5: 4a56e
+    md5_6: 4a56e0
+    oomp_key: oomp_joanthespark_switch_keyboard_alps_matias_sw_alps_matias_1_25u
+    oomp_key_extra: oomp_footprint_joanthespark_switch_keyboard_alps_matias_sw_alps_matias_1_25u
+    oomp_key_full: oomp_footprint_joanthespark_switch_keyboard_alps_matias_sw_alps_matias_1_25u_4a56e0
+    oomp_key_simple: joanthespark_switch_keyboard_alps_matias_sw_alps_matias_1_25u
     original_filename: KiCAD/6.0/3rdparty/footprints/com_github_perigoso_keyswitch-kicad-library/Switch_Keyboard_Alps_Matias.pretty/SW_Alps_Matias_1.25u.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_switch_keyboard_alps_matias_sw_alps_matias_1_25u
+  oomp_key_full: oomp_footprint_joanthespark_switch_keyboard_alps_matias_sw_alps_matias_1_25u
   oomp_key_simple: joanthespark_switch_keyboard_alps_matias_sw_alps_matias_1_25u
   owner: JoanTheSpark
   repo:

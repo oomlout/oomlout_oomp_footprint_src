@@ -17,9 +17,18 @@
   oomp:
     footprint_name: nidec_copal_sh_7040b
     library_name: button_switch_smd
+    md5: 5add383a7f52b87bc10f024fcbd4385e
+    md5_10: 5add383a7f
+    md5_5: 5add3
+    md5_6: 5add38
+    oomp_key: oomp_kicad_button_switch_smd_nidec_copal_sh_7040b
+    oomp_key_extra: oomp_footprint_kicad_button_switch_smd_nidec_copal_sh_7040b
+    oomp_key_full: oomp_footprint_kicad_button_switch_smd_nidec_copal_sh_7040b_5add38
+    oomp_key_simple: kicad_button_switch_smd_nidec_copal_sh_7040b
     original_filename: libraries/kicad-footprints/Button_Switch_SMD.pretty/Nidec_Copal_SH-7040B.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_button_switch_smd_nidec_copal_sh_7040b
+  oomp_key_full: oomp_footprint_kicad_button_switch_smd_nidec_copal_sh_7040b
   oomp_key_simple: kicad_button_switch_smd_nidec_copal_sh_7040b
   owner: kicad
   repo:

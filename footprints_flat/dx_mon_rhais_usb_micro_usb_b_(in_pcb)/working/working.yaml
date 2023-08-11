@@ -17,9 +17,18 @@
   oomp:
     footprint_name: micro_usb_b_(in_pcb)
     library_name: rhais_usb
+    md5: cf146cada334175d335439df664be7f7
+    md5_10: cf146cada3
+    md5_5: cf146
+    md5_6: cf146c
+    oomp_key: oomp_dx_mon_rhais_usb_micro_usb_b_(in_pcb)
+    oomp_key_extra: oomp_footprint_dx_mon_rhais_usb_micro_usb_b_(in_pcb)
+    oomp_key_full: oomp_footprint_dx_mon_rhais_usb_micro_usb_b_(in_pcb)_cf146c
+    oomp_key_simple: dx_mon_rhais_usb_micro_usb_b_(in_pcb)
     original_filename: rhais_usb.pretty/MICRO-USB-B-(IN_PCB).kicad_mod
     owner_name: dx_mon
   oomp_key: oomp_dx_mon_rhais_usb_micro_usb_b_(in_pcb)
+  oomp_key_full: oomp_footprint_dx_mon_rhais_usb_micro_usb_b_(in_pcb)
   oomp_key_simple: dx_mon_rhais_usb_micro_usb_b_(in_pcb)
   owner: DX-MON
   repo:

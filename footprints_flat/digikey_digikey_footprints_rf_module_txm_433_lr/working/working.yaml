@@ -17,9 +17,18 @@
   oomp:
     footprint_name: rf_module_txm_433_lr
     library_name: digikey_footprints
+    md5: 7d4c5cc59366156d572a01eed321f791
+    md5_10: 7d4c5cc593
+    md5_5: 7d4c5
+    md5_6: 7d4c5c
+    oomp_key: oomp_digikey_digikey_footprints_rf_module_txm_433_lr
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_rf_module_txm_433_lr
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_rf_module_txm_433_lr_7d4c5c
+    oomp_key_simple: digikey_digikey_footprints_rf_module_txm_433_lr
     original_filename: digikey-kicad-library/digikey-footprints.pretty/RF_Module_TXM-433-LR.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_rf_module_txm_433_lr
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_rf_module_txm_433_lr
   oomp_key_simple: digikey_digikey_footprints_rf_module_txm_433_lr
   owner: digikey
   repo:

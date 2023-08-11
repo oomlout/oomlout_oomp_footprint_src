@@ -18,9 +18,18 @@
   oomp:
     footprint_name: hvsof5
     library_name: package_to_sot_smd
+    md5: ee91a77789b13c5f61c94bcf06732e4e
+    md5_10: ee91a77789
+    md5_5: ee91a
+    md5_6: ee91a7
+    oomp_key: oomp_kicad_package_to_sot_smd_hvsof5
+    oomp_key_extra: oomp_footprint_kicad_package_to_sot_smd_hvsof5
+    oomp_key_full: oomp_footprint_kicad_package_to_sot_smd_hvsof5_ee91a7
+    oomp_key_simple: kicad_package_to_sot_smd_hvsof5
     original_filename: libraries/kicad-footprints/Package_TO_SOT_SMD.pretty/HVSOF5.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_to_sot_smd_hvsof5
+  oomp_key_full: oomp_footprint_kicad_package_to_sot_smd_hvsof5
   oomp_key_simple: kicad_package_to_sot_smd_hvsof5
   owner: kicad
   repo:

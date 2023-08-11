@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sfm_110_02_l_dh
     library_name: agg
+    md5: bbd56a654d0b2af4051e12503e7b1471
+    md5_10: bbd56a654d
+    md5_5: bbd56
+    md5_6: bbd56a
+    oomp_key: oomp_adamgreig_agg_sfm_110_02_l_dh
+    oomp_key_extra: oomp_footprint_adamgreig_agg_sfm_110_02_l_dh
+    oomp_key_full: oomp_footprint_adamgreig_agg_sfm_110_02_l_dh_bbd56a
+    oomp_key_simple: adamgreig_agg_sfm_110_02_l_dh
     original_filename: agg-kicad/agg.pretty/SFM-110-02-L-DH.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_sfm_110_02_l_dh
+  oomp_key_full: oomp_footprint_adamgreig_agg_sfm_110_02_l_dh
   oomp_key_simple: adamgreig_agg_sfm_110_02_l_dh
   owner: adamgreig
   repo:

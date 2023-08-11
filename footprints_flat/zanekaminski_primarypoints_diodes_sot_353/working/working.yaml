@@ -17,9 +17,18 @@
   oomp:
     footprint_name: diodes_sot_353
     library_name: primarypoints
+    md5: 64751cbff71290994e243e4db3e6a5ba
+    md5_10: 64751cbff7
+    md5_5: '64751'
+    md5_6: 64751c
+    oomp_key: oomp_zanekaminski_primarypoints_diodes_sot_353
+    oomp_key_extra: oomp_footprint_zanekaminski_primarypoints_diodes_sot_353
+    oomp_key_full: oomp_footprint_zanekaminski_primarypoints_diodes_sot_353_64751c
+    oomp_key_simple: zanekaminski_primarypoints_diodes_sot_353
     original_filename: primarypoints.pretty/Diodes_SOT-353.kicad_mod
     owner_name: zanekaminski
   oomp_key: oomp_zanekaminski_primarypoints_diodes_sot_353
+  oomp_key_full: oomp_footprint_zanekaminski_primarypoints_diodes_sot_353
   oomp_key_simple: zanekaminski_primarypoints_diodes_sot_353
   owner: ZaneKaminski
   repo:

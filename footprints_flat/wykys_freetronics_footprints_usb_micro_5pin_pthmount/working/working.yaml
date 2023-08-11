@@ -17,9 +17,18 @@
   oomp:
     footprint_name: usb_micro_5pin_pthmount
     library_name: freetronics_footprints
+    md5: 623ae135eb96c971c1adee4b535c0210
+    md5_10: 623ae135eb
+    md5_5: 623ae
+    md5_6: 623ae1
+    oomp_key: oomp_wykys_freetronics_footprints_usb_micro_5pin_pthmount
+    oomp_key_extra: oomp_footprint_wykys_freetronics_footprints_usb_micro_5pin_pthmount
+    oomp_key_full: oomp_footprint_wykys_freetronics_footprints_usb_micro_5pin_pthmount_623ae1
+    oomp_key_simple: wykys_freetronics_footprints_usb_micro_5pin_pthmount
     original_filename: kicad/mods/freetronics_footprints.pretty/USB-MICRO-5pin_PTHMOUNT.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_freetronics_footprints_usb_micro_5pin_pthmount
+  oomp_key_full: oomp_footprint_wykys_freetronics_footprints_usb_micro_5pin_pthmount
   oomp_key_simple: wykys_freetronics_footprints_usb_micro_5pin_pthmount
   owner: wykys
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: cp_elec_6_3x11_board_edge_mirrored
     library_name: footprints
+    md5: d9a3add7268ca931dcd66319c448da91
+    md5_10: d9a3add726
+    md5_5: d9a3a
+    md5_6: d9a3ad
+    oomp_key: oomp_joanthespark_footprints_cp_elec_6_3x11_board_edge_mirrored
+    oomp_key_extra: oomp_footprint_joanthespark_footprints_cp_elec_6_3x11_board_edge_mirrored
+    oomp_key_full: oomp_footprint_joanthespark_footprints_cp_elec_6_3x11_board_edge_mirrored_d9a3ad
+    oomp_key_simple: joanthespark_footprints_cp_elec_6_3x11_board_edge_mirrored
     original_filename: KiCAD/demos/stickhub/footprints.pretty/CP_Elec_6.3x11_Board_Edge_Mirrored.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_footprints_cp_elec_6_3x11_board_edge_mirrored
+  oomp_key_full: oomp_footprint_joanthespark_footprints_cp_elec_6_3x11_board_edge_mirrored
   oomp_key_simple: joanthespark_footprints_cp_elec_6_3x11_board_edge_mirrored
   owner: JoanTheSpark
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: usb_a_stacked_ae11131_nd
     library_name: usst_footprints
+    md5: 29e1d7728f31706612ebde59e09a61fa
+    md5_10: 29e1d7728f
+    md5_5: 29e1d
+    md5_6: 29e1d7
+    oomp_key: oomp_uofsspaceteam_usst_footprints_usb_a_stacked_ae11131_nd
+    oomp_key_extra: oomp_footprint_uofsspaceteam_usst_footprints_usb_a_stacked_ae11131_nd
+    oomp_key_full: oomp_footprint_uofsspaceteam_usst_footprints_usb_a_stacked_ae11131_nd_29e1d7
+    oomp_key_simple: uofsspaceteam_usst_footprints_usb_a_stacked_ae11131_nd
     original_filename: USST-footprints.pretty/USB_A_Stacked_AE11131-ND.kicad_mod
     owner_name: uofsspaceteam
   oomp_key: oomp_uofsspaceteam_usst_footprints_usb_a_stacked_ae11131_nd
+  oomp_key_full: oomp_footprint_uofsspaceteam_usst_footprints_usb_a_stacked_ae11131_nd
   oomp_key_simple: uofsspaceteam_usst_footprints_usb_a_stacked_ae11131_nd
   owner: UofSSpaceTeam
   repo:

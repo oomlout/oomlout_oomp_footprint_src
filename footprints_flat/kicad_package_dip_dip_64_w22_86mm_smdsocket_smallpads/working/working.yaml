@@ -18,9 +18,18 @@
   oomp:
     footprint_name: dip_64_w22_86mm_smdsocket_smallpads
     library_name: package_dip
+    md5: dc484ac1d60ae4bcbac5ef8380741421
+    md5_10: dc484ac1d6
+    md5_5: dc484
+    md5_6: dc484a
+    oomp_key: oomp_kicad_package_dip_dip_64_w22_86mm_smdsocket_smallpads
+    oomp_key_extra: oomp_footprint_kicad_package_dip_dip_64_w22_86mm_smdsocket_smallpads
+    oomp_key_full: oomp_footprint_kicad_package_dip_dip_64_w22_86mm_smdsocket_smallpads_dc484a
+    oomp_key_simple: kicad_package_dip_dip_64_w22_86mm_smdsocket_smallpads
     original_filename: libraries/kicad-footprints/Package_DIP.pretty/DIP-64_W22.86mm_SMDSocket_SmallPads.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_dip_dip_64_w22_86mm_smdsocket_smallpads
+  oomp_key_full: oomp_footprint_kicad_package_dip_dip_64_w22_86mm_smdsocket_smallpads
   oomp_key_simple: kicad_package_dip_dip_64_w22_86mm_smdsocket_smallpads
   owner: kicad
   repo:

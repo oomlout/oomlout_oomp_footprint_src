@@ -17,9 +17,18 @@
   oomp:
     footprint_name: te_4_1734839_4_1x44_1mp_p0_5mm_horizontal
     library_name: connector_ffc_fpc
+    md5: 1811a0d1a4527d89c1499ce2f7f8663c
+    md5_10: 1811a0d1a4
+    md5_5: 1811a
+    md5_6: 1811a0
+    oomp_key: oomp_kicad_connector_ffc_fpc_te_4_1734839_4_1x44_1mp_p0_5mm_horizontal
+    oomp_key_extra: oomp_footprint_kicad_connector_ffc_fpc_te_4_1734839_4_1x44_1mp_p0_5mm_horizontal
+    oomp_key_full: oomp_footprint_kicad_connector_ffc_fpc_te_4_1734839_4_1x44_1mp_p0_5mm_horizontal_1811a0
+    oomp_key_simple: kicad_connector_ffc_fpc_te_4_1734839_4_1x44_1mp_p0_5mm_horizontal
     original_filename: libraries/kicad-footprints/Connector_FFC-FPC.pretty/TE_4-1734839-4_1x44-1MP_P0.5mm_Horizontal.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_ffc_fpc_te_4_1734839_4_1x44_1mp_p0_5mm_horizontal
+  oomp_key_full: oomp_footprint_kicad_connector_ffc_fpc_te_4_1734839_4_1x44_1mp_p0_5mm_horizontal
   oomp_key_simple: kicad_connector_ffc_fpc_te_4_1734839_4_1x44_1mp_p0_5mm_horizontal
   owner: kicad
   repo:

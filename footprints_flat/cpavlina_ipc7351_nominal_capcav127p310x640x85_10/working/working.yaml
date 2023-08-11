@@ -18,9 +18,18 @@
   oomp:
     footprint_name: capcav127p310x640x85_10
     library_name: ipc7351_nominal
+    md5: 8f52774eb94c5e44d493cc9c0845335b
+    md5_10: 8f52774eb9
+    md5_5: 8f527
+    md5_6: 8f5277
+    oomp_key: oomp_cpavlina_ipc7351_nominal_capcav127p310x640x85_10
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_nominal_capcav127p310x640x85_10
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_capcav127p310x640x85_10_8f5277
+    oomp_key_simple: cpavlina_ipc7351_nominal_capcav127p310x640x85_10
     original_filename: kicad-pcblib/IPC7351-Nominal.pretty/CAPCAV127P310X640X85-10.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_nominal_capcav127p310x640x85_10
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_capcav127p310x640x85_10
   oomp_key_simple: cpavlina_ipc7351_nominal_capcav127p310x640x85_10
   owner: cpavlina
   repo:

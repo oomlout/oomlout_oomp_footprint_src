@@ -17,9 +17,18 @@
   oomp:
     footprint_name: mpd_bu2032sm_hd_g
     library_name: manuf
+    md5: e93291d4e61db94b9c99a051d91a96c3
+    md5_10: e93291d4e6
+    md5_5: e9329
+    md5_6: e93291
+    oomp_key: oomp_cpavlina_manuf_mpd_bu2032sm_hd_g
+    oomp_key_extra: oomp_footprint_cpavlina_manuf_mpd_bu2032sm_hd_g
+    oomp_key_full: oomp_footprint_cpavlina_manuf_mpd_bu2032sm_hd_g_e93291
+    oomp_key_simple: cpavlina_manuf_mpd_bu2032sm_hd_g
     original_filename: kicad-pcblib/manuf.pretty/MPD-BU2032SM-HD-G.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_manuf_mpd_bu2032sm_hd_g
+  oomp_key_full: oomp_footprint_cpavlina_manuf_mpd_bu2032sm_hd_g
   oomp_key_simple: cpavlina_manuf_mpd_bu2032sm_hd_g
   owner: cpavlina
   repo:

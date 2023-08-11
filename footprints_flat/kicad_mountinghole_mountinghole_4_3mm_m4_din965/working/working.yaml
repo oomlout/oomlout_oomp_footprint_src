@@ -17,9 +17,18 @@
   oomp:
     footprint_name: mountinghole_4_3mm_m4_din965
     library_name: mountinghole
+    md5: 5f09b6fb4a776a7f7b218fac28a9e72a
+    md5_10: 5f09b6fb4a
+    md5_5: 5f09b
+    md5_6: 5f09b6
+    oomp_key: oomp_kicad_mountinghole_mountinghole_4_3mm_m4_din965
+    oomp_key_extra: oomp_footprint_kicad_mountinghole_mountinghole_4_3mm_m4_din965
+    oomp_key_full: oomp_footprint_kicad_mountinghole_mountinghole_4_3mm_m4_din965_5f09b6
+    oomp_key_simple: kicad_mountinghole_mountinghole_4_3mm_m4_din965
     original_filename: libraries/kicad-footprints/MountingHole.pretty/MountingHole_4.3mm_M4_DIN965.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_mountinghole_mountinghole_4_3mm_m4_din965
+  oomp_key_full: oomp_footprint_kicad_mountinghole_mountinghole_4_3mm_m4_din965
   oomp_key_simple: kicad_mountinghole_mountinghole_4_3mm_m4_din965
   owner: kicad
   repo:

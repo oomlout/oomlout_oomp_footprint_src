@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_f09vb
     library_name: xess
+    md5: 3173f16506d3e160256f11e2cb8515fe
+    md5_10: 3173f16506
+    md5_5: 3173f
+    md5_6: 3173f1
+    oomp_key: oomp_xesscorp_xess_xess_f09vb
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_f09vb
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_f09vb_3173f1
+    oomp_key_simple: xesscorp_xess_xess_f09vb
     original_filename: xess.pretty/xess-F09VB.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_f09vb
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_f09vb
   oomp_key_simple: xesscorp_xess_xess_f09vb
   owner: xesscorp
   repo:

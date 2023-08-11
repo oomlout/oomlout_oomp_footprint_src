@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sw_spst_b3sl_1022p
     library_name: button_switch_smd
+    md5: 9fc1b0d4af209e26583b7834d606f377
+    md5_10: 9fc1b0d4af
+    md5_5: 9fc1b
+    md5_6: 9fc1b0
+    oomp_key: oomp_kicad_button_switch_smd_sw_spst_b3sl_1022p
+    oomp_key_extra: oomp_footprint_kicad_button_switch_smd_sw_spst_b3sl_1022p
+    oomp_key_full: oomp_footprint_kicad_button_switch_smd_sw_spst_b3sl_1022p_9fc1b0
+    oomp_key_simple: kicad_button_switch_smd_sw_spst_b3sl_1022p
     original_filename: libraries/kicad-footprints/Button_Switch_SMD.pretty/SW_SPST_B3SL-1022P.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_button_switch_smd_sw_spst_b3sl_1022p
+  oomp_key_full: oomp_footprint_kicad_button_switch_smd_sw_spst_b3sl_1022p
   oomp_key_simple: kicad_button_switch_smd_sw_spst_b3sl_1022p
   owner: kicad
   repo:

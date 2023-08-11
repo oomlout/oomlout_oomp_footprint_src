@@ -17,9 +17,18 @@
   oomp:
     footprint_name: lfpak33
     library_name: package_to_sot_smd
+    md5: db046b016b29b1892e24f4c481181fcd
+    md5_10: db046b016b
+    md5_5: db046
+    md5_6: db046b
+    oomp_key: oomp_kicad_package_to_sot_smd_lfpak33
+    oomp_key_extra: oomp_footprint_kicad_package_to_sot_smd_lfpak33
+    oomp_key_full: oomp_footprint_kicad_package_to_sot_smd_lfpak33_db046b
+    oomp_key_simple: kicad_package_to_sot_smd_lfpak33
     original_filename: libraries/kicad-footprints/Package_TO_SOT_SMD.pretty/LFPAK33.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_to_sot_smd_lfpak33
+  oomp_key_full: oomp_footprint_kicad_package_to_sot_smd_lfpak33
   oomp_key_simple: kicad_package_to_sot_smd_lfpak33
   owner: kicad
   repo:

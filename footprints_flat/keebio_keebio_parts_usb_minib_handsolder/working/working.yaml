@@ -17,9 +17,18 @@
   oomp:
     footprint_name: usb_minib_handsolder
     library_name: keebio_parts
+    md5: 6704cdf0afcc44f6960ed661956cd030
+    md5_10: 6704cdf0af
+    md5_5: 6704c
+    md5_6: 6704cd
+    oomp_key: oomp_keebio_keebio_parts_usb_minib_handsolder
+    oomp_key_extra: oomp_footprint_keebio_keebio_parts_usb_minib_handsolder
+    oomp_key_full: oomp_footprint_keebio_keebio_parts_usb_minib_handsolder_6704cd
+    oomp_key_simple: keebio_keebio_parts_usb_minib_handsolder
     original_filename: Keebio-Parts.pretty/USB_miniB_HandSolder.kicad_mod
     owner_name: keebio
   oomp_key: oomp_keebio_keebio_parts_usb_minib_handsolder
+  oomp_key_full: oomp_footprint_keebio_keebio_parts_usb_minib_handsolder
   oomp_key_simple: keebio_keebio_parts_usb_minib_handsolder
   owner: keebio
   repo:

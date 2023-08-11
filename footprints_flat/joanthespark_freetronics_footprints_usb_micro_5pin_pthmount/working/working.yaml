@@ -17,9 +17,18 @@
   oomp:
     footprint_name: usb_micro_5pin_pthmount
     library_name: freetronics_footprints
+    md5: fab27e700d6cbbfcce2b56108c5635ef
+    md5_10: fab27e700d
+    md5_5: fab27
+    md5_6: fab27e
+    oomp_key: oomp_joanthespark_freetronics_footprints_usb_micro_5pin_pthmount
+    oomp_key_extra: oomp_footprint_joanthespark_freetronics_footprints_usb_micro_5pin_pthmount
+    oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_usb_micro_5pin_pthmount_fab27e
+    oomp_key_simple: joanthespark_freetronics_footprints_usb_micro_5pin_pthmount
     original_filename: KiCAD/mods/freetronics_footprints.pretty/USB-MICRO-5pin_PTHMOUNT.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_freetronics_footprints_usb_micro_5pin_pthmount
+  oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_usb_micro_5pin_pthmount
   oomp_key_simple: joanthespark_freetronics_footprints_usb_micro_5pin_pthmount
   owner: JoanTheSpark
   repo:

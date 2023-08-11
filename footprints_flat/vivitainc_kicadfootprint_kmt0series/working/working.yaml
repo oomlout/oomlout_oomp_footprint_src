@@ -17,9 +17,18 @@
   oomp:
     footprint_name: kmt0series
     library_name: kicadfootprint
+    md5: 5e51221c6a71afad4837395652d4feec
+    md5_10: 5e51221c6a
+    md5_5: 5e512
+    md5_6: 5e5122
+    oomp_key: oomp_vivitainc_kicadfootprint_kmt0series
+    oomp_key_extra: oomp_footprint_vivitainc_kicadfootprint_kmt0series
+    oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_kmt0series_5e5122
+    oomp_key_simple: vivitainc_kicadfootprint_kmt0series
     original_filename: KiCADfootprint.pretty/KMT0Series.kicad_mod
     owner_name: vivitainc
   oomp_key: oomp_vivitainc_kicadfootprint_kmt0series
+  oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_kmt0series
   oomp_key_simple: vivitainc_kicadfootprint_kmt0series
   owner: vivitainc
   repo:

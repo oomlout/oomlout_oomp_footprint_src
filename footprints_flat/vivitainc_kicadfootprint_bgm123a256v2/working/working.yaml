@@ -17,9 +17,18 @@
   oomp:
     footprint_name: bgm123a256v2
     library_name: kicadfootprint
+    md5: 305873bfcd90e7d523f1ca50632896b3
+    md5_10: 305873bfcd
+    md5_5: '30587'
+    md5_6: '305873'
+    oomp_key: oomp_vivitainc_kicadfootprint_bgm123a256v2
+    oomp_key_extra: oomp_footprint_vivitainc_kicadfootprint_bgm123a256v2
+    oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_bgm123a256v2_305873
+    oomp_key_simple: vivitainc_kicadfootprint_bgm123a256v2
     original_filename: KiCADfootprint.pretty/BGM123A256V2.kicad_mod
     owner_name: vivitainc
   oomp_key: oomp_vivitainc_kicadfootprint_bgm123a256v2
+  oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_bgm123a256v2
   oomp_key_simple: vivitainc_kicadfootprint_bgm123a256v2
   owner: vivitainc
   repo:

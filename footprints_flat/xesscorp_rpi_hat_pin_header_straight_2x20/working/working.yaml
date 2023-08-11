@@ -17,9 +17,18 @@
   oomp:
     footprint_name: pin_header_straight_2x20
     library_name: rpi_hat
+    md5: 1e34adec9923b0419b9374c27768b45c
+    md5_10: 1e34adec99
+    md5_5: 1e34a
+    md5_6: 1e34ad
+    oomp_key: oomp_xesscorp_rpi_hat_pin_header_straight_2x20
+    oomp_key_extra: oomp_footprint_xesscorp_rpi_hat_pin_header_straight_2x20
+    oomp_key_full: oomp_footprint_xesscorp_rpi_hat_pin_header_straight_2x20_1e34ad
+    oomp_key_simple: xesscorp_rpi_hat_pin_header_straight_2x20
     original_filename: RPi_Hat.pretty/Pin_Header_Straight_2x20.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_rpi_hat_pin_header_straight_2x20
+  oomp_key_full: oomp_footprint_xesscorp_rpi_hat_pin_header_straight_2x20
   oomp_key_simple: xesscorp_rpi_hat_pin_header_straight_2x20
   owner: xesscorp
   repo:

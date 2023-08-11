@@ -17,9 +17,18 @@
   oomp:
     footprint_name: hdsp_a401
     library_name: display_7segment
+    md5: 43434ebdbbdaef3e043250c9f811ccd6
+    md5_10: 43434ebdbb
+    md5_5: '43434'
+    md5_6: 43434e
+    oomp_key: oomp_kicad_display_7segment_hdsp_a401
+    oomp_key_extra: oomp_footprint_kicad_display_7segment_hdsp_a401
+    oomp_key_full: oomp_footprint_kicad_display_7segment_hdsp_a401_43434e
+    oomp_key_simple: kicad_display_7segment_hdsp_a401
     original_filename: libraries/kicad-footprints/Display_7Segment.pretty/HDSP-A401.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_display_7segment_hdsp_a401
+  oomp_key_full: oomp_footprint_kicad_display_7segment_hdsp_a401
   oomp_key_simple: kicad_display_7segment_hdsp_a401
   owner: kicad
   repo:

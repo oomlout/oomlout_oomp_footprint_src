@@ -18,9 +18,18 @@
   oomp:
     footprint_name: qfn_32_1ep_5x5mm_pitch0_5mm
     library_name: primarypoints
+    md5: 3f7c20cd6f152ab74316e63d9935d547
+    md5_10: 3f7c20cd6f
+    md5_5: 3f7c2
+    md5_6: 3f7c20
+    oomp_key: oomp_zanekaminski_primarypoints_qfn_32_1ep_5x5mm_pitch0_5mm
+    oomp_key_extra: oomp_footprint_zanekaminski_primarypoints_qfn_32_1ep_5x5mm_pitch0_5mm
+    oomp_key_full: oomp_footprint_zanekaminski_primarypoints_qfn_32_1ep_5x5mm_pitch0_5mm_3f7c20
+    oomp_key_simple: zanekaminski_primarypoints_qfn_32_1ep_5x5mm_pitch0_5mm
     original_filename: primarypoints.pretty/QFN-32-1EP_5x5mm_Pitch0.5mm.kicad_mod
     owner_name: zanekaminski
   oomp_key: oomp_zanekaminski_primarypoints_qfn_32_1ep_5x5mm_pitch0_5mm
+  oomp_key_full: oomp_footprint_zanekaminski_primarypoints_qfn_32_1ep_5x5mm_pitch0_5mm
   oomp_key_simple: zanekaminski_primarypoints_qfn_32_1ep_5x5mm_pitch0_5mm
   owner: ZaneKaminski
   repo:

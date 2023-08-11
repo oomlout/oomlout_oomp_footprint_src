@@ -17,9 +17,18 @@
   oomp:
     footprint_name: dfn_8_ep_ti
     library_name: agg
+    md5: 1f178cad35060467eff69b10590ce67e
+    md5_10: 1f178cad35
+    md5_5: 1f178
+    md5_6: 1f178c
+    oomp_key: oomp_adamgreig_agg_dfn_8_ep_ti
+    oomp_key_extra: oomp_footprint_adamgreig_agg_dfn_8_ep_ti
+    oomp_key_full: oomp_footprint_adamgreig_agg_dfn_8_ep_ti_1f178c
+    oomp_key_simple: adamgreig_agg_dfn_8_ep_ti
     original_filename: agg-kicad/agg.pretty/DFN-8-EP-TI.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_dfn_8_ep_ti
+  oomp_key_full: oomp_footprint_adamgreig_agg_dfn_8_ep_ti
   oomp_key_simple: adamgreig_agg_dfn_8_ep_ti
   owner: adamgreig
   repo:

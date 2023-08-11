@@ -17,9 +17,18 @@
   oomp:
     footprint_name: arduino_uno_r3_withmountingholes
     library_name: module
+    md5: e3204e41ef9f63c0b1c35aa8599d0468
+    md5_10: e3204e41ef
+    md5_5: e3204
+    md5_6: e3204e
+    oomp_key: oomp_kicad_module_arduino_uno_r3_withmountingholes
+    oomp_key_extra: oomp_footprint_kicad_module_arduino_uno_r3_withmountingholes
+    oomp_key_full: oomp_footprint_kicad_module_arduino_uno_r3_withmountingholes_e3204e
+    oomp_key_simple: kicad_module_arduino_uno_r3_withmountingholes
     original_filename: libraries/kicad-footprints/Module.pretty/Arduino_UNO_R3_WithMountingHoles.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_module_arduino_uno_r3_withmountingholes
+  oomp_key_full: oomp_footprint_kicad_module_arduino_uno_r3_withmountingholes
   oomp_key_simple: kicad_module_arduino_uno_r3_withmountingholes
   owner: kicad
   repo:

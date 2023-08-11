@@ -17,9 +17,18 @@
   oomp:
     footprint_name: cherry_plate_275h
     library_name: keyboard
+    md5: 91a1f6bd6c7193535b850d2fed65818d
+    md5_10: 91a1f6bd6c
+    md5_5: 91a1f
+    md5_6: 91a1f6
+    oomp_key: oomp_stormbard_keyboard_cherry_plate_275h
+    oomp_key_extra: oomp_footprint_stormbard_keyboard_cherry_plate_275h
+    oomp_key_full: oomp_footprint_stormbard_keyboard_cherry_plate_275h_91a1f6
+    oomp_key_simple: stormbard_keyboard_cherry_plate_275h
     original_filename: Keyboard.pretty/CHERRY_PLATE_275H.kicad_mod
     owner_name: stormbard
   oomp_key: oomp_stormbard_keyboard_cherry_plate_275h
+  oomp_key_full: oomp_footprint_stormbard_keyboard_cherry_plate_275h
   oomp_key_simple: stormbard_keyboard_cherry_plate_275h
   owner: stormbard
   repo:

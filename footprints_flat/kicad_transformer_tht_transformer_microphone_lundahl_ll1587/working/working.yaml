@@ -17,9 +17,18 @@
   oomp:
     footprint_name: transformer_microphone_lundahl_ll1587
     library_name: transformer_tht
+    md5: f53f21ddf25c210cabd23c6f27e156a5
+    md5_10: f53f21ddf2
+    md5_5: f53f2
+    md5_6: f53f21
+    oomp_key: oomp_kicad_transformer_tht_transformer_microphone_lundahl_ll1587
+    oomp_key_extra: oomp_footprint_kicad_transformer_tht_transformer_microphone_lundahl_ll1587
+    oomp_key_full: oomp_footprint_kicad_transformer_tht_transformer_microphone_lundahl_ll1587_f53f21
+    oomp_key_simple: kicad_transformer_tht_transformer_microphone_lundahl_ll1587
     original_filename: libraries/kicad-footprints/Transformer_THT.pretty/Transformer_Microphone_Lundahl_LL1587.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_transformer_tht_transformer_microphone_lundahl_ll1587
+  oomp_key_full: oomp_footprint_kicad_transformer_tht_transformer_microphone_lundahl_ll1587
   oomp_key_simple: kicad_transformer_tht_transformer_microphone_lundahl_ll1587
   owner: kicad
   repo:

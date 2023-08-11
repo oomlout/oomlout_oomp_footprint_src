@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sw_hybrid_cherry_mx_alps_isoenter
     library_name: switch_keyboard_hybrid
+    md5: a10ab891ea6d82ba3aa373949b2afc10
+    md5_10: a10ab891ea
+    md5_5: a10ab
+    md5_6: a10ab8
+    oomp_key: oomp_wykys_switch_keyboard_hybrid_sw_hybrid_cherry_mx_alps_isoenter
+    oomp_key_extra: oomp_footprint_wykys_switch_keyboard_hybrid_sw_hybrid_cherry_mx_alps_isoenter
+    oomp_key_full: oomp_footprint_wykys_switch_keyboard_hybrid_sw_hybrid_cherry_mx_alps_isoenter_a10ab8
+    oomp_key_simple: wykys_switch_keyboard_hybrid_sw_hybrid_cherry_mx_alps_isoenter
     original_filename: kicad/6.0/3rdparty/footprints/com_github_perigoso_keyswitch-kicad-library/Switch_Keyboard_Hybrid.pretty/SW_Hybrid_Cherry_MX_Alps_ISOEnter.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_switch_keyboard_hybrid_sw_hybrid_cherry_mx_alps_isoenter
+  oomp_key_full: oomp_footprint_wykys_switch_keyboard_hybrid_sw_hybrid_cherry_mx_alps_isoenter
   oomp_key_simple: wykys_switch_keyboard_hybrid_sw_hybrid_cherry_mx_alps_isoenter
   owner: wykys
   repo:

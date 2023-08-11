@@ -17,9 +17,18 @@
   oomp:
     footprint_name: msop_12_1ep_w3mm
     library_name: digikey_footprints
+    md5: f7b6003e660f177f1739342638fa2333
+    md5_10: f7b6003e66
+    md5_5: f7b60
+    md5_6: f7b600
+    oomp_key: oomp_digikey_digikey_footprints_msop_12_1ep_w3mm
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_msop_12_1ep_w3mm
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_msop_12_1ep_w3mm_f7b600
+    oomp_key_simple: digikey_digikey_footprints_msop_12_1ep_w3mm
     original_filename: digikey-kicad-library/digikey-footprints.pretty/MSOP-12-1EP_W3mm.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_msop_12_1ep_w3mm
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_msop_12_1ep_w3mm
   oomp_key_simple: digikey_digikey_footprints_msop_12_1ep_w3mm
   owner: digikey
   repo:

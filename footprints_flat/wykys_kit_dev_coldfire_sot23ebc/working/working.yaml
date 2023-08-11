@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sot23ebc
     library_name: kit_dev_coldfire
+    md5: 0d2ff7ad034e75b02116ab0a7138ebad
+    md5_10: 0d2ff7ad03
+    md5_5: 0d2ff
+    md5_6: 0d2ff7
+    oomp_key: oomp_wykys_kit_dev_coldfire_sot23ebc
+    oomp_key_extra: oomp_footprint_wykys_kit_dev_coldfire_sot23ebc
+    oomp_key_full: oomp_footprint_wykys_kit_dev_coldfire_sot23ebc_0d2ff7
+    oomp_key_simple: wykys_kit_dev_coldfire_sot23ebc
     original_filename: kicad/demos/kit-dev-coldfire-xilinx_5213/kit-dev-coldfire.pretty/SOT23EBC.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_kit_dev_coldfire_sot23ebc
+  oomp_key_full: oomp_footprint_wykys_kit_dev_coldfire_sot23ebc
   oomp_key_simple: wykys_kit_dev_coldfire_sot23ebc
   owner: wykys
   repo:

@@ -19,9 +19,18 @@
   oomp:
     footprint_name: molex_slimstack_502430_2210_2x11_p0_40mm_vertical
     library_name: connector_molex
+    md5: fc7bbaf348fc8951abc2fe85fdb4535f
+    md5_10: fc7bbaf348
+    md5_5: fc7bb
+    md5_6: fc7bba
+    oomp_key: oomp_kicad_connector_molex_molex_slimstack_502430_2210_2x11_p0_40mm_vertical
+    oomp_key_extra: oomp_footprint_kicad_connector_molex_molex_slimstack_502430_2210_2x11_p0_40mm_vertical
+    oomp_key_full: oomp_footprint_kicad_connector_molex_molex_slimstack_502430_2210_2x11_p0_40mm_vertical_fc7bba
+    oomp_key_simple: kicad_connector_molex_molex_slimstack_502430_2210_2x11_p0_40mm_vertical
     original_filename: libraries/kicad-footprints/Connector_Molex.pretty/Molex_SlimStack_502430-2210_2x11_P0.40mm_Vertical.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_molex_molex_slimstack_502430_2210_2x11_p0_40mm_vertical
+  oomp_key_full: oomp_footprint_kicad_connector_molex_molex_slimstack_502430_2210_2x11_p0_40mm_vertical
   oomp_key_simple: kicad_connector_molex_molex_slimstack_502430_2210_2x11_p0_40mm_vertical
   owner: kicad
   repo:

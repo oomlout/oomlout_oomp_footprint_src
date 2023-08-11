@@ -19,9 +19,18 @@
   oomp:
     footprint_name: oshw_logo2_14_6x12mm_silkscreen
     library_name: symbol
+    md5: 29f3c0af0100e1d7996a75cfe49ed3b3
+    md5_10: 29f3c0af01
+    md5_5: 29f3c
+    md5_6: 29f3c0
+    oomp_key: oomp_iangitpers_symbol_oshw_logo2_14_6x12mm_silkscreen
+    oomp_key_extra: oomp_footprint_iangitpers_symbol_oshw_logo2_14_6x12mm_silkscreen
+    oomp_key_full: oomp_footprint_iangitpers_symbol_oshw_logo2_14_6x12mm_silkscreen_29f3c0
+    oomp_key_simple: iangitpers_symbol_oshw_logo2_14_6x12mm_silkscreen
     original_filename: 4a/Symbol.pretty/OSHW-Logo2_14.6x12mm_SilkScreen.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_symbol_oshw_logo2_14_6x12mm_silkscreen
+  oomp_key_full: oomp_footprint_iangitpers_symbol_oshw_logo2_14_6x12mm_silkscreen
   oomp_key_simple: iangitpers_symbol_oshw_logo2_14_6x12mm_silkscreen
   owner: Iangitpers
   repo:

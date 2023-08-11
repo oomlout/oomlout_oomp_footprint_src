@@ -16,10 +16,19 @@
   name: MX_Alps_Hybrid.pretty
   oomp:
     footprint_name: mxonly_1_5u_vertical
-    library_name: mx_only
+    library_name: mx_alps_hybrid
+    md5: b5488a0cca8a05e1c9f0f6982814e52d
+    md5_10: b5488a0cca
+    md5_5: b5488
+    md5_6: b5488a
+    oomp_key: oomp_ai03_2725_mx_alps_hybrid_mxonly_1_5u_vertical
+    oomp_key_extra: oomp_footprint_ai03_2725_mx_alps_hybrid_mxonly_1_5u_vertical
+    oomp_key_full: oomp_footprint_ai03_2725_mx_alps_hybrid_mxonly_1_5u_vertical_b5488a
+    oomp_key_simple: ai03_2725_mx_alps_hybrid_mxonly_1_5u_vertical
     original_filename: MX_Alps_Hybrid.pretty/MX_Only.pretty/MXOnly-1.5U-Vertical.kicad_mod
     owner_name: ai03_2725
   oomp_key: oomp_ai03_2725_mx_alps_hybrid_mxonly_1_5u_vertical
+  oomp_key_full: oomp_footprint_ai03_2725_mx_alps_hybrid_mxonly_1_5u_vertical
   oomp_key_simple: ai03_2725_mx_alps_hybrid_mxonly_1_5u_vertical
   owner: ai03-2725
   repo:

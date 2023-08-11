@@ -18,9 +18,18 @@
   oomp:
     footprint_name: l_toroid_horizontal_d41_9mm_p37_60mm_vishay_tj7
     library_name: inductor_tht
+    md5: e73992a3d1751674c4531a6c1354cd8b
+    md5_10: e73992a3d1
+    md5_5: e7399
+    md5_6: e73992
+    oomp_key: oomp_kicad_inductor_tht_l_toroid_horizontal_d41_9mm_p37_60mm_vishay_tj7
+    oomp_key_extra: oomp_footprint_kicad_inductor_tht_l_toroid_horizontal_d41_9mm_p37_60mm_vishay_tj7
+    oomp_key_full: oomp_footprint_kicad_inductor_tht_l_toroid_horizontal_d41_9mm_p37_60mm_vishay_tj7_e73992
+    oomp_key_simple: kicad_inductor_tht_l_toroid_horizontal_d41_9mm_p37_60mm_vishay_tj7
     original_filename: libraries/kicad-footprints/Inductor_THT.pretty/L_Toroid_Horizontal_D41.9mm_P37.60mm_Vishay_TJ7.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_inductor_tht_l_toroid_horizontal_d41_9mm_p37_60mm_vishay_tj7
+  oomp_key_full: oomp_footprint_kicad_inductor_tht_l_toroid_horizontal_d41_9mm_p37_60mm_vishay_tj7
   oomp_key_simple: kicad_inductor_tht_l_toroid_horizontal_d41_9mm_p37_60mm_vishay_tj7
   owner: kicad
   repo:

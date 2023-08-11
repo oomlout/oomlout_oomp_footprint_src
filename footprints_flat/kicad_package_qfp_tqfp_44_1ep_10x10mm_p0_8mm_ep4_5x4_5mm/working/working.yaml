@@ -18,9 +18,18 @@
   oomp:
     footprint_name: tqfp_44_1ep_10x10mm_p0_8mm_ep4_5x4_5mm
     library_name: package_qfp
+    md5: 11d3a92ef0957629842951f8348b767f
+    md5_10: 11d3a92ef0
+    md5_5: 11d3a
+    md5_6: 11d3a9
+    oomp_key: oomp_kicad_package_qfp_tqfp_44_1ep_10x10mm_p0_8mm_ep4_5x4_5mm
+    oomp_key_extra: oomp_footprint_kicad_package_qfp_tqfp_44_1ep_10x10mm_p0_8mm_ep4_5x4_5mm
+    oomp_key_full: oomp_footprint_kicad_package_qfp_tqfp_44_1ep_10x10mm_p0_8mm_ep4_5x4_5mm_11d3a9
+    oomp_key_simple: kicad_package_qfp_tqfp_44_1ep_10x10mm_p0_8mm_ep4_5x4_5mm
     original_filename: libraries/kicad-footprints/Package_QFP.pretty/TQFP-44-1EP_10x10mm_P0.8mm_EP4.5x4.5mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_qfp_tqfp_44_1ep_10x10mm_p0_8mm_ep4_5x4_5mm
+  oomp_key_full: oomp_footprint_kicad_package_qfp_tqfp_44_1ep_10x10mm_p0_8mm_ep4_5x4_5mm
   oomp_key_simple: kicad_package_qfp_tqfp_44_1ep_10x10mm_p0_8mm_ep4_5x4_5mm
   owner: kicad
   repo:

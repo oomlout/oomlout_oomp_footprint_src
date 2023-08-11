@@ -17,9 +17,18 @@
   oomp:
     footprint_name: transformer_nf_etal_p3000
     library_name: transformer_smd
+    md5: 019394613103453539bcbe84fc370415
+    md5_10: 0193946131
+    md5_5: 01939
+    md5_6: 019394
+    oomp_key: oomp_kicad_transformer_smd_transformer_nf_etal_p3000
+    oomp_key_extra: oomp_footprint_kicad_transformer_smd_transformer_nf_etal_p3000
+    oomp_key_full: oomp_footprint_kicad_transformer_smd_transformer_nf_etal_p3000_019394
+    oomp_key_simple: kicad_transformer_smd_transformer_nf_etal_p3000
     original_filename: libraries/kicad-footprints/Transformer_SMD.pretty/Transformer_NF_ETAL_P3000.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_transformer_smd_transformer_nf_etal_p3000
+  oomp_key_full: oomp_footprint_kicad_transformer_smd_transformer_nf_etal_p3000
   oomp_key_simple: kicad_transformer_smd_transformer_nf_etal_p3000
   owner: kicad
   repo:

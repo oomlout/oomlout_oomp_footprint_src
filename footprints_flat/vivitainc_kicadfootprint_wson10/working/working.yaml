@@ -17,9 +17,18 @@
   oomp:
     footprint_name: wson10
     library_name: kicadfootprint
+    md5: d215e51a0da6aa1bd63b7caa99cc3c6f
+    md5_10: d215e51a0d
+    md5_5: d215e
+    md5_6: d215e5
+    oomp_key: oomp_vivitainc_kicadfootprint_wson10
+    oomp_key_extra: oomp_footprint_vivitainc_kicadfootprint_wson10
+    oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_wson10_d215e5
+    oomp_key_simple: vivitainc_kicadfootprint_wson10
     original_filename: KiCADfootprint.pretty/WSON10.kicad_mod
     owner_name: vivitainc
   oomp_key: oomp_vivitainc_kicadfootprint_wson10
+  oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_wson10
   oomp_key_simple: vivitainc_kicadfootprint_wson10
   owner: vivitainc
   repo:

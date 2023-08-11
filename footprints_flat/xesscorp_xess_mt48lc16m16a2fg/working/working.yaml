@@ -17,9 +17,18 @@
   oomp:
     footprint_name: mt48lc16m16a2fg
     library_name: xess
+    md5: 2a66d9a8691b6a4b92a60a316a48002f
+    md5_10: 2a66d9a869
+    md5_5: 2a66d
+    md5_6: 2a66d9
+    oomp_key: oomp_xesscorp_xess_mt48lc16m16a2fg
+    oomp_key_extra: oomp_footprint_xesscorp_xess_mt48lc16m16a2fg
+    oomp_key_full: oomp_footprint_xesscorp_xess_mt48lc16m16a2fg_2a66d9
+    oomp_key_simple: xesscorp_xess_mt48lc16m16a2fg
     original_filename: xess.pretty/MT48LC16M16A2FG.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_mt48lc16m16a2fg
+  oomp_key_full: oomp_footprint_xesscorp_xess_mt48lc16m16a2fg
   oomp_key_simple: xesscorp_xess_mt48lc16m16a2fg
   owner: xesscorp
   repo:

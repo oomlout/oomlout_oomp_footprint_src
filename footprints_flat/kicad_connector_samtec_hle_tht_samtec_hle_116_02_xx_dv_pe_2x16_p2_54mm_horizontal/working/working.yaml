@@ -20,9 +20,18 @@
   oomp:
     footprint_name: samtec_hle_116_02_xx_dv_pe_2x16_p2_54mm_horizontal
     library_name: connector_samtec_hle_tht
+    md5: afdf3bcdeb309b2614a4ff1b0c189fb4
+    md5_10: afdf3bcdeb
+    md5_5: afdf3
+    md5_6: afdf3b
+    oomp_key: oomp_kicad_connector_samtec_hle_tht_samtec_hle_116_02_xx_dv_pe_2x16_p2_54mm_horizontal
+    oomp_key_extra: oomp_footprint_kicad_connector_samtec_hle_tht_samtec_hle_116_02_xx_dv_pe_2x16_p2_54mm_horizontal
+    oomp_key_full: oomp_footprint_kicad_connector_samtec_hle_tht_samtec_hle_116_02_xx_dv_pe_2x16_p2_54mm_horizontal_afdf3b
+    oomp_key_simple: kicad_connector_samtec_hle_tht_samtec_hle_116_02_xx_dv_pe_2x16_p2_54mm_horizontal
     original_filename: libraries/kicad-footprints/Connector_Samtec_HLE_THT.pretty/Samtec_HLE-116-02-xx-DV-PE_2x16_P2.54mm_Horizontal.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_samtec_hle_tht_samtec_hle_116_02_xx_dv_pe_2x16_p2_54mm_horizontal
+  oomp_key_full: oomp_footprint_kicad_connector_samtec_hle_tht_samtec_hle_116_02_xx_dv_pe_2x16_p2_54mm_horizontal
   oomp_key_simple: kicad_connector_samtec_hle_tht_samtec_hle_116_02_xx_dv_pe_2x16_p2_54mm_horizontal
   owner: kicad
   repo:

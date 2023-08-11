@@ -17,9 +17,18 @@
   oomp:
     footprint_name: c_axial_l32mm_d20mm_p37_5mm_horizontal
     library_name: suf_capacitor
+    md5: a603db08d6037dbfdc1deddedbc350b6
+    md5_10: a603db08d6
+    md5_5: a603d
+    md5_6: a603db
+    oomp_key: oomp_suf_kicad_suf_capacitor_c_axial_l32mm_d20mm_p37_5mm_horizontal
+    oomp_key_extra: oomp_footprint_suf_kicad_suf_capacitor_c_axial_l32mm_d20mm_p37_5mm_horizontal
+    oomp_key_full: oomp_footprint_suf_kicad_suf_capacitor_c_axial_l32mm_d20mm_p37_5mm_horizontal_a603db
+    oomp_key_simple: suf_kicad_suf_capacitor_c_axial_l32mm_d20mm_p37_5mm_horizontal
     original_filename: suf_capacitor.pretty/C_Axial_L32mm_D20mm_P37.5mm_Horizontal.kicad_mod
     owner_name: suf_kicad
   oomp_key: oomp_suf_kicad_suf_capacitor_c_axial_l32mm_d20mm_p37_5mm_horizontal
+  oomp_key_full: oomp_footprint_suf_kicad_suf_capacitor_c_axial_l32mm_d20mm_p37_5mm_horizontal
   oomp_key_simple: suf_kicad_suf_capacitor_c_axial_l32mm_d20mm_p37_5mm_horizontal
   owner: suf-KiCAD
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: barreljack
     library_name: agg
+    md5: b41344c5970229947c157cde77ab08bb
+    md5_10: b41344c597
+    md5_5: b4134
+    md5_6: b41344
+    oomp_key: oomp_adamgreig_agg_barreljack
+    oomp_key_extra: oomp_footprint_adamgreig_agg_barreljack
+    oomp_key_full: oomp_footprint_adamgreig_agg_barreljack_b41344
+    oomp_key_simple: adamgreig_agg_barreljack
     original_filename: agg-kicad/agg.pretty/BARRELJACK.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_barreljack
+  oomp_key_full: oomp_footprint_adamgreig_agg_barreljack
   oomp_key_simple: adamgreig_agg_barreljack
   owner: adamgreig
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: arduino_due_shield
     library_name: freetronics_footprints
+    md5: a75d9c1315497eeb3d36226d3d22d32c
+    md5_10: a75d9c1315
+    md5_5: a75d9
+    md5_6: a75d9c
+    oomp_key: oomp_axello_freetronics_footprints_arduino_due_shield
+    oomp_key_extra: oomp_footprint_axello_freetronics_footprints_arduino_due_shield
+    oomp_key_full: oomp_footprint_axello_freetronics_footprints_arduino_due_shield_a75d9c
+    oomp_key_simple: axello_freetronics_footprints_arduino_due_shield
     original_filename: kicad/mods/freetronics_footprints.pretty/ARDUINO_DUE_SHIELD.kicad_mod
     owner_name: axello
   oomp_key: oomp_axello_freetronics_footprints_arduino_due_shield
+  oomp_key_full: oomp_footprint_axello_freetronics_footprints_arduino_due_shield
   oomp_key_simple: axello_freetronics_footprints_arduino_due_shield
   owner: axello
   repo:

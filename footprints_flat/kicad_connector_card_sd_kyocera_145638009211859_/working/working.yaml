@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sd_kyocera_145638009211859_
     library_name: connector_card
+    md5: aa46058d6a3b9b9cebc292d884aad1e3
+    md5_10: aa46058d6a
+    md5_5: aa460
+    md5_6: aa4605
+    oomp_key: oomp_kicad_connector_card_sd_kyocera_145638009211859_
+    oomp_key_extra: oomp_footprint_kicad_connector_card_sd_kyocera_145638009211859_
+    oomp_key_full: oomp_footprint_kicad_connector_card_sd_kyocera_145638009211859__aa4605
+    oomp_key_simple: kicad_connector_card_sd_kyocera_145638009211859_
     original_filename: libraries/kicad-footprints/Connector_Card.pretty/SD_Kyocera_145638009211859+.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_card_sd_kyocera_145638009211859_
+  oomp_key_full: oomp_footprint_kicad_connector_card_sd_kyocera_145638009211859_
   oomp_key_simple: kicad_connector_card_sd_kyocera_145638009211859_
   owner: kicad
   repo:

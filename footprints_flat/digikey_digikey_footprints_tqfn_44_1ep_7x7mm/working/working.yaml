@@ -17,9 +17,18 @@
   oomp:
     footprint_name: tqfn_44_1ep_7x7mm
     library_name: digikey_footprints
+    md5: eb14e8628edc2a32242994302e064963
+    md5_10: eb14e8628e
+    md5_5: eb14e
+    md5_6: eb14e8
+    oomp_key: oomp_digikey_digikey_footprints_tqfn_44_1ep_7x7mm
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_tqfn_44_1ep_7x7mm
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_tqfn_44_1ep_7x7mm_eb14e8
+    oomp_key_simple: digikey_digikey_footprints_tqfn_44_1ep_7x7mm
     original_filename: digikey-kicad-library/digikey-footprints.pretty/TQFN-44-1EP_7x7mm.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_tqfn_44_1ep_7x7mm
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_tqfn_44_1ep_7x7mm
   oomp_key_simple: digikey_digikey_footprints_tqfn_44_1ep_7x7mm
   owner: digikey
   repo:

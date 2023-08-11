@@ -19,9 +19,18 @@
   oomp:
     footprint_name: mountinghole_6mm_pad
     library_name: mountinghole
+    md5: d450da12f88a667ec9a75d3dd1601813
+    md5_10: d450da12f8
+    md5_5: d450d
+    md5_6: d450da
+    oomp_key: oomp_iangitpers_mountinghole_mountinghole_6mm_pad
+    oomp_key_extra: oomp_footprint_iangitpers_mountinghole_mountinghole_6mm_pad
+    oomp_key_full: oomp_footprint_iangitpers_mountinghole_mountinghole_6mm_pad_d450da
+    oomp_key_simple: iangitpers_mountinghole_mountinghole_6mm_pad
     original_filename: 4a/MountingHole.pretty/MountingHole_6mm_Pad.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_mountinghole_mountinghole_6mm_pad
+  oomp_key_full: oomp_footprint_iangitpers_mountinghole_mountinghole_6mm_pad
   oomp_key_simple: iangitpers_mountinghole_mountinghole_6mm_pad
   owner: Iangitpers
   repo:

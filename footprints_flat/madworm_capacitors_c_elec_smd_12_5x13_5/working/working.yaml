@@ -17,9 +17,18 @@
   oomp:
     footprint_name: c_elec_smd_12_5x13_5
     library_name: capacitors
+    md5: 0f96fb80ecd18a98ab891f148ff376b1
+    md5_10: 0f96fb80ec
+    md5_5: 0f96f
+    md5_6: 0f96fb
+    oomp_key: oomp_madworm_capacitors_c_elec_smd_12_5x13_5
+    oomp_key_extra: oomp_footprint_madworm_capacitors_c_elec_smd_12_5x13_5
+    oomp_key_full: oomp_footprint_madworm_capacitors_c_elec_smd_12_5x13_5_0f96fb
+    oomp_key_simple: madworm_capacitors_c_elec_smd_12_5x13_5
     original_filename: Capacitors.pretty/c_elec_SMD_12.5x13.5.kicad_mod
     owner_name: madworm
   oomp_key: oomp_madworm_capacitors_c_elec_smd_12_5x13_5
+  oomp_key_full: oomp_footprint_madworm_capacitors_c_elec_smd_12_5x13_5
   oomp_key_simple: madworm_capacitors_c_elec_smd_12_5x13_5
   owner: madworm
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ethernet_jack_rjlse4208101t
     library_name: digikey_footprints
+    md5: a59c1b9b06d31a6a6eea3f57f3303b01
+    md5_10: a59c1b9b06
+    md5_5: a59c1
+    md5_6: a59c1b
+    oomp_key: oomp_digikey_digikey_footprints_ethernet_jack_rjlse4208101t
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_ethernet_jack_rjlse4208101t
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_ethernet_jack_rjlse4208101t_a59c1b
+    oomp_key_simple: digikey_digikey_footprints_ethernet_jack_rjlse4208101t
     original_filename: digikey-kicad-library/digikey-footprints.pretty/Ethernet_Jack_RJLSE4208101T.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_ethernet_jack_rjlse4208101t
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_ethernet_jack_rjlse4208101t
   oomp_key_simple: digikey_digikey_footprints_ethernet_jack_rjlse4208101t
   owner: digikey
   repo:

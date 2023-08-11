@@ -18,9 +18,18 @@
   oomp:
     footprint_name: dsub_37_male_horizontal_p2_77x2_54mm_edgepinoffset9_40mm
     library_name: connector_dsub
+    md5: 300ba69f0267d1ea5c44d7d583827d91
+    md5_10: 300ba69f02
+    md5_5: 300ba
+    md5_6: 300ba6
+    oomp_key: oomp_kicad_connector_dsub_dsub_37_male_horizontal_p2_77x2_54mm_edgepinoffset9_40mm
+    oomp_key_extra: oomp_footprint_kicad_connector_dsub_dsub_37_male_horizontal_p2_77x2_54mm_edgepinoffset9_40mm
+    oomp_key_full: oomp_footprint_kicad_connector_dsub_dsub_37_male_horizontal_p2_77x2_54mm_edgepinoffset9_40mm_300ba6
+    oomp_key_simple: kicad_connector_dsub_dsub_37_male_horizontal_p2_77x2_54mm_edgepinoffset9_40mm
     original_filename: libraries/kicad-footprints/Connector_Dsub.pretty/DSUB-37_Male_Horizontal_P2.77x2.54mm_EdgePinOffset9.40mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_dsub_dsub_37_male_horizontal_p2_77x2_54mm_edgepinoffset9_40mm
+  oomp_key_full: oomp_footprint_kicad_connector_dsub_dsub_37_male_horizontal_p2_77x2_54mm_edgepinoffset9_40mm
   oomp_key_simple: kicad_connector_dsub_dsub_37_male_horizontal_p2_77x2_54mm_edgepinoffset9_40mm
   owner: kicad
   repo:

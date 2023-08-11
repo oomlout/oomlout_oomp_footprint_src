@@ -17,9 +17,18 @@
   oomp:
     footprint_name: koaspeer_mos_3w
     library_name: manuf
+    md5: 782198a03d22b5e38eaa81d419cc8d5a
+    md5_10: 782198a03d
+    md5_5: '78219'
+    md5_6: '782198'
+    oomp_key: oomp_cpavlina_manuf_koaspeer_mos_3w
+    oomp_key_extra: oomp_footprint_cpavlina_manuf_koaspeer_mos_3w
+    oomp_key_full: oomp_footprint_cpavlina_manuf_koaspeer_mos_3w_782198
+    oomp_key_simple: cpavlina_manuf_koaspeer_mos_3w
     original_filename: kicad-pcblib/manuf.pretty/KOASPEER-MOS-3W.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_manuf_koaspeer_mos_3w
+  oomp_key_full: oomp_footprint_cpavlina_manuf_koaspeer_mos_3w
   oomp_key_simple: cpavlina_manuf_koaspeer_mos_3w
   owner: cpavlina
   repo:

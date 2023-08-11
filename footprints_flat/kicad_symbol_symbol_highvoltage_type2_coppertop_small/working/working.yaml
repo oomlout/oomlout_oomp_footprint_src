@@ -17,9 +17,18 @@
   oomp:
     footprint_name: symbol_highvoltage_type2_coppertop_small
     library_name: symbol
+    md5: b35b5fa633755cdbea5c3dd3c00c7758
+    md5_10: b35b5fa633
+    md5_5: b35b5
+    md5_6: b35b5f
+    oomp_key: oomp_kicad_symbol_symbol_highvoltage_type2_coppertop_small
+    oomp_key_extra: oomp_footprint_kicad_symbol_symbol_highvoltage_type2_coppertop_small
+    oomp_key_full: oomp_footprint_kicad_symbol_symbol_highvoltage_type2_coppertop_small_b35b5f
+    oomp_key_simple: kicad_symbol_symbol_highvoltage_type2_coppertop_small
     original_filename: libraries/kicad-footprints/Symbol.pretty/Symbol_Highvoltage_Type2_CopperTop_Small.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_symbol_symbol_highvoltage_type2_coppertop_small
+  oomp_key_full: oomp_footprint_kicad_symbol_symbol_highvoltage_type2_coppertop_small
   oomp_key_simple: kicad_symbol_symbol_highvoltage_type2_coppertop_small
   owner: kicad
   repo:

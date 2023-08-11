@@ -18,9 +18,18 @@
   oomp:
     footprint_name: c_axial_l12_0mm_d10_5mm_p20_00mm_horizontal
     library_name: capacitor_tht
+    md5: ec9fa635a54c859734fbe1e03364c49d
+    md5_10: ec9fa635a5
+    md5_5: ec9fa
+    md5_6: ec9fa6
+    oomp_key: oomp_kicad_capacitor_tht_c_axial_l12_0mm_d10_5mm_p20_00mm_horizontal
+    oomp_key_extra: oomp_footprint_kicad_capacitor_tht_c_axial_l12_0mm_d10_5mm_p20_00mm_horizontal
+    oomp_key_full: oomp_footprint_kicad_capacitor_tht_c_axial_l12_0mm_d10_5mm_p20_00mm_horizontal_ec9fa6
+    oomp_key_simple: kicad_capacitor_tht_c_axial_l12_0mm_d10_5mm_p20_00mm_horizontal
     original_filename: libraries/kicad-footprints/Capacitor_THT.pretty/C_Axial_L12.0mm_D10.5mm_P20.00mm_Horizontal.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_capacitor_tht_c_axial_l12_0mm_d10_5mm_p20_00mm_horizontal
+  oomp_key_full: oomp_footprint_kicad_capacitor_tht_c_axial_l12_0mm_d10_5mm_p20_00mm_horizontal
   oomp_key_simple: kicad_capacitor_tht_c_axial_l12_0mm_d10_5mm_p20_00mm_horizontal
   owner: kicad
   repo:

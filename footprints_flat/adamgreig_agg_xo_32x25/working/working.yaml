@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xo_32x25
     library_name: agg
+    md5: eeee27bcdb3bb4be22c01e17882b2e5c
+    md5_10: eeee27bcdb
+    md5_5: eeee2
+    md5_6: eeee27
+    oomp_key: oomp_adamgreig_agg_xo_32x25
+    oomp_key_extra: oomp_footprint_adamgreig_agg_xo_32x25
+    oomp_key_full: oomp_footprint_adamgreig_agg_xo_32x25_eeee27
+    oomp_key_simple: adamgreig_agg_xo_32x25
     original_filename: agg-kicad/agg.pretty/XO-32x25.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_xo_32x25
+  oomp_key_full: oomp_footprint_adamgreig_agg_xo_32x25
   oomp_key_simple: adamgreig_agg_xo_32x25
   owner: adamgreig
   repo:

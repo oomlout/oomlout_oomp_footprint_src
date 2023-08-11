@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sim72
     library_name: footprints
+    md5: db4b2edb7d6614a4f5070f980099a809
+    md5_10: db4b2edb7d
+    md5_5: db4b2
+    md5_6: db4b2e
+    oomp_key: oomp_wykys_footprints_sim72
+    oomp_key_extra: oomp_footprint_wykys_footprints_sim72
+    oomp_key_full: oomp_footprint_wykys_footprints_sim72_db4b2e
+    oomp_key_simple: wykys_footprints_sim72
     original_filename: kicad/demos/video/libs/footprints.pretty/sim72.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_footprints_sim72
+  oomp_key_full: oomp_footprint_wykys_footprints_sim72
   oomp_key_simple: wykys_footprints_sim72
   owner: wykys
   repo:

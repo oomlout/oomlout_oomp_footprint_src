@@ -18,9 +18,18 @@
   oomp:
     footprint_name: signalcommunications_we_vd_20mm_2_8
     library_name: signalcommunications
+    md5: 779f403758d961619a20529f661d5045
+    md5_10: 779f403758
+    md5_5: 779f4
+    md5_6: 779f40
+    oomp_key: oomp_electroniccats_signalcommunications_signalcommunications_we_vd_20mm_2_8
+    oomp_key_extra: oomp_footprint_electroniccats_signalcommunications_signalcommunications_we_vd_20mm_2_8
+    oomp_key_full: oomp_footprint_electroniccats_signalcommunications_signalcommunications_we_vd_20mm_2_8_779f40
+    oomp_key_simple: electroniccats_signalcommunications_signalcommunications_we_vd_20mm_2_8
     original_filename: ComponentLibrariesKicadWurthElektronik/SIGNAL-COMMUNICATIONS-rev18a/SignalCommunications.pretty/SignalCommunications-WE-VD_20MM-2.8.kicad_mod
     owner_name: electroniccats
   oomp_key: oomp_electroniccats_signalcommunications_signalcommunications_we_vd_20mm_2_8
+  oomp_key_full: oomp_footprint_electroniccats_signalcommunications_signalcommunications_we_vd_20mm_2_8
   oomp_key_simple: electroniccats_signalcommunications_signalcommunications_we_vd_20mm_2_8
   owner: ElectronicCats
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: fuse_bourns_mf_sm_7_98x5_44mm
     library_name: fuse
+    md5: 12b14561ad25083a954fe965c59511b3
+    md5_10: 12b14561ad
+    md5_5: 12b14
+    md5_6: 12b145
+    oomp_key: oomp_kicad_fuse_fuse_bourns_mf_sm_7_98x5_44mm
+    oomp_key_extra: oomp_footprint_kicad_fuse_fuse_bourns_mf_sm_7_98x5_44mm
+    oomp_key_full: oomp_footprint_kicad_fuse_fuse_bourns_mf_sm_7_98x5_44mm_12b145
+    oomp_key_simple: kicad_fuse_fuse_bourns_mf_sm_7_98x5_44mm
     original_filename: libraries/kicad-footprints/Fuse.pretty/Fuse_Bourns_MF-SM_7.98x5.44mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_fuse_fuse_bourns_mf_sm_7_98x5_44mm
+  oomp_key_full: oomp_footprint_kicad_fuse_fuse_bourns_mf_sm_7_98x5_44mm
   oomp_key_simple: kicad_fuse_fuse_bourns_mf_sm_7_98x5_44mm
   owner: kicad
   repo:

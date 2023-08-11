@@ -19,9 +19,18 @@
   oomp:
     footprint_name: mountinghole_2_7mm_m2_5
     library_name: mountinghole
+    md5: 4eaf38979b6e4c46747e7c4053185bf1
+    md5_10: 4eaf38979b
+    md5_5: 4eaf3
+    md5_6: 4eaf38
+    oomp_key: oomp_iangitpers_mountinghole_mountinghole_2_7mm_m2_5
+    oomp_key_extra: oomp_footprint_iangitpers_mountinghole_mountinghole_2_7mm_m2_5
+    oomp_key_full: oomp_footprint_iangitpers_mountinghole_mountinghole_2_7mm_m2_5_4eaf38
+    oomp_key_simple: iangitpers_mountinghole_mountinghole_2_7mm_m2_5
     original_filename: 4a/MountingHole.pretty/MountingHole_2.7mm_M2.5.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_mountinghole_mountinghole_2_7mm_m2_5
+  oomp_key_full: oomp_footprint_iangitpers_mountinghole_mountinghole_2_7mm_m2_5
   oomp_key_simple: iangitpers_mountinghole_mountinghole_2_7mm_m2_5
   owner: Iangitpers
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sw_cherry_mx_pcb_6_00u_offset
     library_name: switch_keyboard_cherry_mx
+    md5: 2e8069ce1a89439e8819ab19e8e0ebd4
+    md5_10: 2e8069ce1a
+    md5_5: 2e806
+    md5_6: 2e8069
+    oomp_key: oomp_joanthespark_switch_keyboard_cherry_mx_sw_cherry_mx_pcb_6_00u_offset
+    oomp_key_extra: oomp_footprint_joanthespark_switch_keyboard_cherry_mx_sw_cherry_mx_pcb_6_00u_offset
+    oomp_key_full: oomp_footprint_joanthespark_switch_keyboard_cherry_mx_sw_cherry_mx_pcb_6_00u_offset_2e8069
+    oomp_key_simple: joanthespark_switch_keyboard_cherry_mx_sw_cherry_mx_pcb_6_00u_offset
     original_filename: KiCAD/6.0/3rdparty/footprints/com_github_perigoso_keyswitch-kicad-library/Switch_Keyboard_Cherry_MX.pretty/SW_Cherry_MX_PCB_6.00u_Offset.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_switch_keyboard_cherry_mx_sw_cherry_mx_pcb_6_00u_offset
+  oomp_key_full: oomp_footprint_joanthespark_switch_keyboard_cherry_mx_sw_cherry_mx_pcb_6_00u_offset
   oomp_key_simple: joanthespark_switch_keyboard_cherry_mx_sw_cherry_mx_pcb_6_00u_offset
   owner: JoanTheSpark
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: transformer_chk_ei48_8va_1xsec
     library_name: transformer_tht
+    md5: 59028761dd214646e9f63eea454b8f99
+    md5_10: 59028761dd
+    md5_5: '59028'
+    md5_6: '590287'
+    oomp_key: oomp_kicad_transformer_tht_transformer_chk_ei48_8va_1xsec
+    oomp_key_extra: oomp_footprint_kicad_transformer_tht_transformer_chk_ei48_8va_1xsec
+    oomp_key_full: oomp_footprint_kicad_transformer_tht_transformer_chk_ei48_8va_1xsec_590287
+    oomp_key_simple: kicad_transformer_tht_transformer_chk_ei48_8va_1xsec
     original_filename: libraries/kicad-footprints/Transformer_THT.pretty/Transformer_CHK_EI48-8VA_1xSec.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_transformer_tht_transformer_chk_ei48_8va_1xsec
+  oomp_key_full: oomp_footprint_kicad_transformer_tht_transformer_chk_ei48_8va_1xsec
   oomp_key_simple: kicad_transformer_tht_transformer_chk_ei48_8va_1xsec
   owner: kicad
   repo:

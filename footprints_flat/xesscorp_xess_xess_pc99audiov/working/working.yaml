@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_pc99audiov
     library_name: xess
+    md5: 73ee011ba2b6bb46ecfe58885a7a3c07
+    md5_10: 73ee011ba2
+    md5_5: 73ee0
+    md5_6: 73ee01
+    oomp_key: oomp_xesscorp_xess_xess_pc99audiov
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_pc99audiov
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_pc99audiov_73ee01
+    oomp_key_simple: xesscorp_xess_xess_pc99audiov
     original_filename: xess.pretty/xess-PC99AUDIOV.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_pc99audiov
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_pc99audiov
   oomp_key_simple: xesscorp_xess_xess_pc99audiov
   owner: xesscorp
   repo:

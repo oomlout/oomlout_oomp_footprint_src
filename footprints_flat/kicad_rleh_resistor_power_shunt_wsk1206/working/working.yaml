@@ -17,9 +17,18 @@
   oomp:
     footprint_name: wsk1206
     library_name: resistor_power_shunt
+    md5: 6d125d6aff23db385bcd660d029c50e5
+    md5_10: 6d125d6aff
+    md5_5: 6d125
+    md5_6: 6d125d
+    oomp_key: oomp_kicad_rleh_resistor_power_shunt_wsk1206
+    oomp_key_extra: oomp_footprint_kicad_rleh_resistor_power_shunt_wsk1206
+    oomp_key_full: oomp_footprint_kicad_rleh_resistor_power_shunt_wsk1206_6d125d
+    oomp_key_simple: kicad_rleh_resistor_power_shunt_wsk1206
     original_filename: resistor-power-shunt.pretty/WSK1206.kicad_mod
     owner_name: kicad_rleh
   oomp_key: oomp_kicad_rleh_resistor_power_shunt_wsk1206
+  oomp_key_full: oomp_footprint_kicad_rleh_resistor_power_shunt_wsk1206
   oomp_key_simple: kicad_rleh_resistor_power_shunt_wsk1206
   owner: kicad-rleh
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: esp32_wrover_e
     library_name: espressif
+    md5: 7e1e55deb2260bad0aee01822c31b56a
+    md5_10: 7e1e55deb2
+    md5_5: 7e1e5
+    md5_6: 7e1e55
+    oomp_key: oomp_tinkerforge_espressif_esp32_wrover_e
+    oomp_key_extra: oomp_footprint_tinkerforge_espressif_esp32_wrover_e
+    oomp_key_full: oomp_footprint_tinkerforge_espressif_esp32_wrover_e_7e1e55
+    oomp_key_simple: tinkerforge_espressif_esp32_wrover_e
     original_filename: kicad-libraries/footprints/Espressif.pretty/ESP32-WROVER-E.kicad_mod
     owner_name: tinkerforge
   oomp_key: oomp_tinkerforge_espressif_esp32_wrover_e
+  oomp_key_full: oomp_footprint_tinkerforge_espressif_esp32_wrover_e
   oomp_key_simple: tinkerforge_espressif_esp32_wrover_e
   owner: Tinkerforge
   repo:

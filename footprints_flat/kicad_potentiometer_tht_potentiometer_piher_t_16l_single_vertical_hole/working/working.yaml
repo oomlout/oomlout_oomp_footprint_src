@@ -17,9 +17,18 @@
   oomp:
     footprint_name: potentiometer_piher_t_16l_single_vertical_hole
     library_name: potentiometer_tht
+    md5: 3dcf7aaa76e7522b8cc3a2dfb26cb8fb
+    md5_10: 3dcf7aaa76
+    md5_5: 3dcf7
+    md5_6: 3dcf7a
+    oomp_key: oomp_kicad_potentiometer_tht_potentiometer_piher_t_16l_single_vertical_hole
+    oomp_key_extra: oomp_footprint_kicad_potentiometer_tht_potentiometer_piher_t_16l_single_vertical_hole
+    oomp_key_full: oomp_footprint_kicad_potentiometer_tht_potentiometer_piher_t_16l_single_vertical_hole_3dcf7a
+    oomp_key_simple: kicad_potentiometer_tht_potentiometer_piher_t_16l_single_vertical_hole
     original_filename: libraries/kicad-footprints/Potentiometer_THT.pretty/Potentiometer_Piher_T-16L_Single_Vertical_Hole.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_potentiometer_tht_potentiometer_piher_t_16l_single_vertical_hole
+  oomp_key_full: oomp_footprint_kicad_potentiometer_tht_potentiometer_piher_t_16l_single_vertical_hole
   oomp_key_simple: kicad_potentiometer_tht_potentiometer_piher_t_16l_single_vertical_hole
   owner: kicad
   repo:

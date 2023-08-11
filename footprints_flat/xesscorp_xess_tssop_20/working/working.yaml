@@ -17,9 +17,18 @@
   oomp:
     footprint_name: tssop_20
     library_name: xess
+    md5: 2205dca6eb4e9e87248bef7be325a30e
+    md5_10: 2205dca6eb
+    md5_5: 2205d
+    md5_6: 2205dc
+    oomp_key: oomp_xesscorp_xess_tssop_20
+    oomp_key_extra: oomp_footprint_xesscorp_xess_tssop_20
+    oomp_key_full: oomp_footprint_xesscorp_xess_tssop_20_2205dc
+    oomp_key_simple: xesscorp_xess_tssop_20
     original_filename: xess.pretty/TSSOP-20.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_tssop_20
+  oomp_key_full: oomp_footprint_xesscorp_xess_tssop_20
   oomp_key_simple: xesscorp_xess_tssop_20
   owner: xesscorp
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: rj45_8
     library_name: freetronics_footprints
+    md5: 0a70ea40ed9957d7c57f289c4da0c79e
+    md5_10: 0a70ea40ed
+    md5_5: 0a70e
+    md5_6: 0a70ea
+    oomp_key: oomp_axello_freetronics_footprints_rj45_8
+    oomp_key_extra: oomp_footprint_axello_freetronics_footprints_rj45_8
+    oomp_key_full: oomp_footprint_axello_freetronics_footprints_rj45_8_0a70ea
+    oomp_key_simple: axello_freetronics_footprints_rj45_8
     original_filename: kicad/mods/freetronics_footprints.pretty/RJ45-8.kicad_mod
     owner_name: axello
   oomp_key: oomp_axello_freetronics_footprints_rj45_8
+  oomp_key_full: oomp_footprint_axello_freetronics_footprints_rj45_8
   oomp_key_simple: axello_freetronics_footprints_rj45_8
   owner: axello
   repo:

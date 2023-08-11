@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_1x08_noscreen
     library_name: xess
+    md5: 3ae950c5264dc05768dd9ba38045e15b
+    md5_10: 3ae950c526
+    md5_5: 3ae95
+    md5_6: 3ae950
+    oomp_key: oomp_xesscorp_xess_xess_1x08_noscreen
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_1x08_noscreen
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_1x08_noscreen_3ae950
+    oomp_key_simple: xesscorp_xess_xess_1x08_noscreen
     original_filename: xess.pretty/xess-1X08_NOSCREEN.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_1x08_noscreen
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_1x08_noscreen
   oomp_key_simple: xesscorp_xess_xess_1x08_noscreen
   owner: xesscorp
   repo:

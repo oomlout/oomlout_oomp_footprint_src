@@ -17,9 +17,18 @@
   oomp:
     footprint_name: plcc_32_tht_socket
     library_name: package_lcc
+    md5: d31a7374a02105ff18702e6cedcb4034
+    md5_10: d31a7374a0
+    md5_5: d31a7
+    md5_6: d31a73
+    oomp_key: oomp_kicad_package_lcc_plcc_32_tht_socket
+    oomp_key_extra: oomp_footprint_kicad_package_lcc_plcc_32_tht_socket
+    oomp_key_full: oomp_footprint_kicad_package_lcc_plcc_32_tht_socket_d31a73
+    oomp_key_simple: kicad_package_lcc_plcc_32_tht_socket
     original_filename: libraries/kicad-footprints/Package_LCC.pretty/PLCC-32_THT-Socket.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_lcc_plcc_32_tht_socket
+  oomp_key_full: oomp_footprint_kicad_package_lcc_plcc_32_tht_socket
   oomp_key_simple: kicad_package_lcc_plcc_32_tht_socket
   owner: kicad
   repo:

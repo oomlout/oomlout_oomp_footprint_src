@@ -17,9 +17,18 @@
   oomp:
     footprint_name: linx_rxm_gps
     library_name: rf_gps
+    md5: 19690a634f647337b7a181cfc7561487
+    md5_10: 19690a634f
+    md5_5: '19690'
+    md5_6: 19690a
+    oomp_key: oomp_kicad_rf_gps_linx_rxm_gps
+    oomp_key_extra: oomp_footprint_kicad_rf_gps_linx_rxm_gps
+    oomp_key_full: oomp_footprint_kicad_rf_gps_linx_rxm_gps_19690a
+    oomp_key_simple: kicad_rf_gps_linx_rxm_gps
     original_filename: libraries/kicad-footprints/RF_GPS.pretty/Linx_RXM-GPS.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_rf_gps_linx_rxm_gps
+  oomp_key_full: oomp_footprint_kicad_rf_gps_linx_rxm_gps
   oomp_key_simple: kicad_rf_gps_linx_rxm_gps
   owner: kicad
   repo:

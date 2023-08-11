@@ -17,9 +17,18 @@
   oomp:
     footprint_name: batterycn
     library_name: kicadfootprint
+    md5: 207e4831f5ad9d356e2da82fe768d295
+    md5_10: 207e4831f5
+    md5_5: 207e4
+    md5_6: 207e48
+    oomp_key: oomp_vivitainc_kicadfootprint_batterycn
+    oomp_key_extra: oomp_footprint_vivitainc_kicadfootprint_batterycn
+    oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_batterycn_207e48
+    oomp_key_simple: vivitainc_kicadfootprint_batterycn
     original_filename: KiCADfootprint.pretty/BatteryCN.kicad_mod
     owner_name: vivitainc
   oomp_key: oomp_vivitainc_kicadfootprint_batterycn
+  oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_batterycn
   oomp_key_simple: vivitainc_kicadfootprint_batterycn
   owner: vivitainc
   repo:

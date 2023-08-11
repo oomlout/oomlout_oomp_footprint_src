@@ -18,9 +18,18 @@
   oomp:
     footprint_name: plcc127p1746x1746x483_44
     library_name: ipc7351_most
+    md5: 4719719a09cd3c79553d5fc4de2d1b60
+    md5_10: 4719719a09
+    md5_5: '47197'
+    md5_6: '471971'
+    oomp_key: oomp_cpavlina_ipc7351_most_plcc127p1746x1746x483_44
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_most_plcc127p1746x1746x483_44
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_most_plcc127p1746x1746x483_44_471971
+    oomp_key_simple: cpavlina_ipc7351_most_plcc127p1746x1746x483_44
     original_filename: kicad-pcblib/IPC7351-Most.pretty/PLCC127P1746X1746X483-44.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_most_plcc127p1746x1746x483_44
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_most_plcc127p1746x1746x483_44
   oomp_key_simple: cpavlina_ipc7351_most_plcc127p1746x1746x483_44
   owner: cpavlina
   repo:

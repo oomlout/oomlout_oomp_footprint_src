@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_ecap_smt_5mm
     library_name: xess
+    md5: f28d20d5a44de7c4511185c283b38ed7
+    md5_10: f28d20d5a4
+    md5_5: f28d2
+    md5_6: f28d20
+    oomp_key: oomp_xesscorp_xess_xess_ecap_smt_5mm
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_ecap_smt_5mm
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_ecap_smt_5mm_f28d20
+    oomp_key_simple: xesscorp_xess_xess_ecap_smt_5mm
     original_filename: xess.pretty/xess-ECAP-SMT-5MM.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_ecap_smt_5mm
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_ecap_smt_5mm
   oomp_key_simple: xesscorp_xess_xess_ecap_smt_5mm
   owner: xesscorp
   repo:

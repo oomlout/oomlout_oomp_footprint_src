@@ -18,9 +18,18 @@
   oomp:
     footprint_name: potentiometer_bourns_3314r_gm5_vertical
     library_name: potentiometer_smd
+    md5: 9d6532390afe22e5f10906133ecd3558
+    md5_10: 9d6532390a
+    md5_5: 9d653
+    md5_6: 9d6532
+    oomp_key: oomp_kicad_potentiometer_smd_potentiometer_bourns_3314r_gm5_vertical
+    oomp_key_extra: oomp_footprint_kicad_potentiometer_smd_potentiometer_bourns_3314r_gm5_vertical
+    oomp_key_full: oomp_footprint_kicad_potentiometer_smd_potentiometer_bourns_3314r_gm5_vertical_9d6532
+    oomp_key_simple: kicad_potentiometer_smd_potentiometer_bourns_3314r_gm5_vertical
     original_filename: libraries/kicad-footprints/Potentiometer_SMD.pretty/Potentiometer_Bourns_3314R-GM5_Vertical.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_potentiometer_smd_potentiometer_bourns_3314r_gm5_vertical
+  oomp_key_full: oomp_footprint_kicad_potentiometer_smd_potentiometer_bourns_3314r_gm5_vertical
   oomp_key_simple: kicad_potentiometer_smd_potentiometer_bourns_3314r_gm5_vertical
   owner: kicad
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sw_e_switch_eg1271_spdt
     library_name: button_switch_tht
+    md5: 147bd8bcc69c301c9440abe2419cfd39
+    md5_10: 147bd8bcc6
+    md5_5: 147bd
+    md5_6: 147bd8
+    oomp_key: oomp_kicad_button_switch_tht_sw_e_switch_eg1271_spdt
+    oomp_key_extra: oomp_footprint_kicad_button_switch_tht_sw_e_switch_eg1271_spdt
+    oomp_key_full: oomp_footprint_kicad_button_switch_tht_sw_e_switch_eg1271_spdt_147bd8
+    oomp_key_simple: kicad_button_switch_tht_sw_e_switch_eg1271_spdt
     original_filename: libraries/kicad-footprints/Button_Switch_THT.pretty/SW_E-Switch_EG1271_SPDT.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_button_switch_tht_sw_e_switch_eg1271_spdt
+  oomp_key_full: oomp_footprint_kicad_button_switch_tht_sw_e_switch_eg1271_spdt
   oomp_key_simple: kicad_button_switch_tht_sw_e_switch_eg1271_spdt
   owner: kicad
   repo:

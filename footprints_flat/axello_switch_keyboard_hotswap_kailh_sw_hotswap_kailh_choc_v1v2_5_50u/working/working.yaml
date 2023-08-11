@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sw_hotswap_kailh_choc_v1v2_5_50u
     library_name: switch_keyboard_hotswap_kailh
+    md5: 58b9f7b39c55bdb35bba6f4ded18f620
+    md5_10: 58b9f7b39c
+    md5_5: 58b9f
+    md5_6: 58b9f7
+    oomp_key: oomp_axello_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_choc_v1v2_5_50u
+    oomp_key_extra: oomp_footprint_axello_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_choc_v1v2_5_50u
+    oomp_key_full: oomp_footprint_axello_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_choc_v1v2_5_50u_58b9f7
+    oomp_key_simple: axello_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_choc_v1v2_5_50u
     original_filename: kicad/6.0/3rdparty/footprints/com_github_perigoso_keyswitch-kicad-library/Switch_Keyboard_Hotswap_Kailh.pretty/SW_Hotswap_Kailh_Choc_V1V2_5.50u.kicad_mod
     owner_name: axello
   oomp_key: oomp_axello_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_choc_v1v2_5_50u
+  oomp_key_full: oomp_footprint_axello_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_choc_v1v2_5_50u
   oomp_key_simple: axello_switch_keyboard_hotswap_kailh_sw_hotswap_kailh_choc_v1v2_5_50u
   owner: axello
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sim72
     library_name: footprints
+    md5: a6deaf8e8e2127c9fba2ff72c6f45fe6
+    md5_10: a6deaf8e8e
+    md5_5: a6dea
+    md5_6: a6deaf
+    oomp_key: oomp_joanthespark_footprints_sim72
+    oomp_key_extra: oomp_footprint_joanthespark_footprints_sim72
+    oomp_key_full: oomp_footprint_joanthespark_footprints_sim72_a6deaf
+    oomp_key_simple: joanthespark_footprints_sim72
     original_filename: KiCAD/demos/video/libs/footprints.pretty/sim72.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_footprints_sim72
+  oomp_key_full: oomp_footprint_joanthespark_footprints_sim72
   oomp_key_simple: joanthespark_footprints_sim72
   owner: JoanTheSpark
   repo:

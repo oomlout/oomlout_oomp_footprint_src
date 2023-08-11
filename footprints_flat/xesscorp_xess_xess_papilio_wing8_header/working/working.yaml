@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_papilio_wing8_header
     library_name: xess
+    md5: d91db9cf2db4ff2e4e25548c74846634
+    md5_10: d91db9cf2d
+    md5_5: d91db
+    md5_6: d91db9
+    oomp_key: oomp_xesscorp_xess_xess_papilio_wing8_header
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_papilio_wing8_header
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_papilio_wing8_header_d91db9
+    oomp_key_simple: xesscorp_xess_xess_papilio_wing8_header
     original_filename: xess.pretty/xess-PAPILIO_WING8_HEADER.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_papilio_wing8_header
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_papilio_wing8_header
   oomp_key_simple: xesscorp_xess_xess_papilio_wing8_header
   owner: xesscorp
   repo:

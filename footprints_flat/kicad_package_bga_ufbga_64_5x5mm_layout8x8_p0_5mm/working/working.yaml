@@ -18,9 +18,18 @@
   oomp:
     footprint_name: ufbga_64_5x5mm_layout8x8_p0_5mm
     library_name: package_bga
+    md5: b749a80366bf3a046cd5e3d1361085ef
+    md5_10: b749a80366
+    md5_5: b749a
+    md5_6: b749a8
+    oomp_key: oomp_kicad_package_bga_ufbga_64_5x5mm_layout8x8_p0_5mm
+    oomp_key_extra: oomp_footprint_kicad_package_bga_ufbga_64_5x5mm_layout8x8_p0_5mm
+    oomp_key_full: oomp_footprint_kicad_package_bga_ufbga_64_5x5mm_layout8x8_p0_5mm_b749a8
+    oomp_key_simple: kicad_package_bga_ufbga_64_5x5mm_layout8x8_p0_5mm
     original_filename: libraries/kicad-footprints/Package_BGA.pretty/UFBGA-64_5x5mm_Layout8x8_P0.5mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_bga_ufbga_64_5x5mm_layout8x8_p0_5mm
+  oomp_key_full: oomp_footprint_kicad_package_bga_ufbga_64_5x5mm_layout8x8_p0_5mm
   oomp_key_simple: kicad_package_bga_ufbga_64_5x5mm_layout8x8_p0_5mm
   owner: kicad
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: cf_card_3m_n7e50_a516xx_30
     library_name: connector_card
+    md5: 388270c90d1f4d929422aa7850009f3a
+    md5_10: 388270c90d
+    md5_5: '38827'
+    md5_6: '388270'
+    oomp_key: oomp_kicad_connector_card_cf_card_3m_n7e50_a516xx_30
+    oomp_key_extra: oomp_footprint_kicad_connector_card_cf_card_3m_n7e50_a516xx_30
+    oomp_key_full: oomp_footprint_kicad_connector_card_cf_card_3m_n7e50_a516xx_30_388270
+    oomp_key_simple: kicad_connector_card_cf_card_3m_n7e50_a516xx_30
     original_filename: libraries/kicad-footprints/Connector_Card.pretty/CF-Card_3M_N7E50-A516xx-30.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_card_cf_card_3m_n7e50_a516xx_30
+  oomp_key_full: oomp_footprint_kicad_connector_card_cf_card_3m_n7e50_a516xx_30
   oomp_key_simple: kicad_connector_card_cf_card_3m_n7e50_a516xx_30
   owner: kicad
   repo:

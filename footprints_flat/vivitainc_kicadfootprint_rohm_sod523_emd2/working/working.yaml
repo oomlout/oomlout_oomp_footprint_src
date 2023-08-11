@@ -17,9 +17,18 @@
   oomp:
     footprint_name: rohm_sod523_emd2
     library_name: kicadfootprint
+    md5: bf3ab8d6fd80bc02f4c8ca76b4667a12
+    md5_10: bf3ab8d6fd
+    md5_5: bf3ab
+    md5_6: bf3ab8
+    oomp_key: oomp_vivitainc_kicadfootprint_rohm_sod523_emd2
+    oomp_key_extra: oomp_footprint_vivitainc_kicadfootprint_rohm_sod523_emd2
+    oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_rohm_sod523_emd2_bf3ab8
+    oomp_key_simple: vivitainc_kicadfootprint_rohm_sod523_emd2
     original_filename: KiCADfootprint.pretty/ROHM_SOD523_EMD2.kicad_mod
     owner_name: vivitainc
   oomp_key: oomp_vivitainc_kicadfootprint_rohm_sod523_emd2
+  oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_rohm_sod523_emd2
   oomp_key_simple: vivitainc_kicadfootprint_rohm_sod523_emd2
   owner: vivitainc
   repo:

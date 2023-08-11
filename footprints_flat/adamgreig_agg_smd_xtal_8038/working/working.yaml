@@ -16,10 +16,19 @@
   name: agg-kicad
   oomp:
     footprint_name: smd_xtal_8038
-    library_name: unchecked
+    library_name: agg
+    md5: 1e8e19a677a8e3f47c32fb2c094ab779
+    md5_10: 1e8e19a677
+    md5_5: 1e8e1
+    md5_6: 1e8e19
+    oomp_key: oomp_adamgreig_agg_smd_xtal_8038
+    oomp_key_extra: oomp_footprint_adamgreig_agg_smd_xtal_8038
+    oomp_key_full: oomp_footprint_adamgreig_agg_smd_xtal_8038_1e8e19
+    oomp_key_simple: adamgreig_agg_smd_xtal_8038
     original_filename: agg-kicad/agg.pretty/unchecked.pretty/SMD_XTAL_8038.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_smd_xtal_8038
+  oomp_key_full: oomp_footprint_adamgreig_agg_smd_xtal_8038
   oomp_key_simple: adamgreig_agg_smd_xtal_8038
   owner: adamgreig
   repo:

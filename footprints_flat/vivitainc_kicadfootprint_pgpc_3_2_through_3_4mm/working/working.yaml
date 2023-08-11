@@ -17,9 +17,18 @@
   oomp:
     footprint_name: pgpc_3_2_through_3_4mm
     library_name: kicadfootprint
+    md5: 72d1c0bf5451137acc3775f7c6fa7586
+    md5_10: 72d1c0bf54
+    md5_5: 72d1c
+    md5_6: 72d1c0
+    oomp_key: oomp_vivitainc_kicadfootprint_pgpc_3_2_through_3_4mm
+    oomp_key_extra: oomp_footprint_vivitainc_kicadfootprint_pgpc_3_2_through_3_4mm
+    oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_pgpc_3_2_through_3_4mm_72d1c0
+    oomp_key_simple: vivitainc_kicadfootprint_pgpc_3_2_through_3_4mm
     original_filename: KiCADfootprint.pretty/PGPC-3.2_Through_3.4mm.kicad_mod
     owner_name: vivitainc
   oomp_key: oomp_vivitainc_kicadfootprint_pgpc_3_2_through_3_4mm
+  oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_pgpc_3_2_through_3_4mm
   oomp_key_simple: vivitainc_kicadfootprint_pgpc_3_2_through_3_4mm
   owner: vivitainc
   repo:

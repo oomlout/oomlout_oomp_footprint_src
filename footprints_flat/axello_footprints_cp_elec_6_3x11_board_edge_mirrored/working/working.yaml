@@ -17,9 +17,18 @@
   oomp:
     footprint_name: cp_elec_6_3x11_board_edge_mirrored
     library_name: footprints
+    md5: d4c6152774467bbe2973366b2f9e2ecc
+    md5_10: d4c6152774
+    md5_5: d4c61
+    md5_6: d4c615
+    oomp_key: oomp_axello_footprints_cp_elec_6_3x11_board_edge_mirrored
+    oomp_key_extra: oomp_footprint_axello_footprints_cp_elec_6_3x11_board_edge_mirrored
+    oomp_key_full: oomp_footprint_axello_footprints_cp_elec_6_3x11_board_edge_mirrored_d4c615
+    oomp_key_simple: axello_footprints_cp_elec_6_3x11_board_edge_mirrored
     original_filename: kicad/demos/stickhub/footprints.pretty/CP_Elec_6.3x11_Board_Edge_Mirrored.kicad_mod
     owner_name: axello
   oomp_key: oomp_axello_footprints_cp_elec_6_3x11_board_edge_mirrored
+  oomp_key_full: oomp_footprint_axello_footprints_cp_elec_6_3x11_board_edge_mirrored
   oomp_key_simple: axello_footprints_cp_elec_6_3x11_board_edge_mirrored
   owner: axello
   repo:

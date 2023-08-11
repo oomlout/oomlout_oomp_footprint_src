@@ -17,9 +17,18 @@
   oomp:
     footprint_name: transformer_breve_tez_22x24
     library_name: transformer_tht
+    md5: a01e609c3474f62f9703843bf4b653b4
+    md5_10: a01e609c34
+    md5_5: a01e6
+    md5_6: a01e60
+    oomp_key: oomp_kicad_transformer_tht_transformer_breve_tez_22x24
+    oomp_key_extra: oomp_footprint_kicad_transformer_tht_transformer_breve_tez_22x24
+    oomp_key_full: oomp_footprint_kicad_transformer_tht_transformer_breve_tez_22x24_a01e60
+    oomp_key_simple: kicad_transformer_tht_transformer_breve_tez_22x24
     original_filename: libraries/kicad-footprints/Transformer_THT.pretty/Transformer_Breve_TEZ-22x24.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_transformer_tht_transformer_breve_tez_22x24
+  oomp_key_full: oomp_footprint_kicad_transformer_tht_transformer_breve_tez_22x24
   oomp_key_simple: kicad_transformer_tht_transformer_breve_tez_22x24
   owner: kicad
   repo:

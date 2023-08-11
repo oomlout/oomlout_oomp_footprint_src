@@ -17,9 +17,18 @@
   oomp:
     footprint_name: bga80p1400x1400_289
     library_name: smd_semi
+    md5: f05efe9bf8e368ebc431c30d833c8c9e
+    md5_10: f05efe9bf8
+    md5_5: f05ef
+    md5_6: f05efe
+    oomp_key: oomp_cpavlina_smd_semi_bga80p1400x1400_289
+    oomp_key_extra: oomp_footprint_cpavlina_smd_semi_bga80p1400x1400_289
+    oomp_key_full: oomp_footprint_cpavlina_smd_semi_bga80p1400x1400_289_f05efe
+    oomp_key_simple: cpavlina_smd_semi_bga80p1400x1400_289
     original_filename: kicad-pcblib/smd-semi.pretty/BGA80P1400X1400-289.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_smd_semi_bga80p1400x1400_289
+  oomp_key_full: oomp_footprint_cpavlina_smd_semi_bga80p1400x1400_289
   oomp_key_simple: cpavlina_smd_semi_bga80p1400x1400_289
   owner: cpavlina
   repo:

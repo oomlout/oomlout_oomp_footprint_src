@@ -17,9 +17,18 @@
   oomp:
     footprint_name: qfn32_0_5mm_ep
     library_name: freetronics_footprints
+    md5: 9c94817ea9c7a95e96cbeec2d8530c0b
+    md5_10: 9c94817ea9
+    md5_5: 9c948
+    md5_6: 9c9481
+    oomp_key: oomp_joanthespark_freetronics_footprints_qfn32_0_5mm_ep
+    oomp_key_extra: oomp_footprint_joanthespark_freetronics_footprints_qfn32_0_5mm_ep
+    oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_qfn32_0_5mm_ep_9c9481
+    oomp_key_simple: joanthespark_freetronics_footprints_qfn32_0_5mm_ep
     original_filename: KiCAD/mods/freetronics_footprints.pretty/QFN32_0.5mm_EP.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_freetronics_footprints_qfn32_0_5mm_ep
+  oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_qfn32_0_5mm_ep
   oomp_key_simple: joanthespark_freetronics_footprints_qfn32_0_5mm_ep
   owner: JoanTheSpark
   repo:

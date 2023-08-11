@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ep13_smt_h_12pin_(4483)
     library_name: transformers_wurthelektronik
+    md5: eba51a1aebedc7b49106324990d65205
+    md5_10: eba51a1aeb
+    md5_5: eba51
+    md5_6: eba51a
+    oomp_key: oomp_wurthelectronics_transformers_wurthelektronik_ep13_smt_h_12pin_(4483)
+    oomp_key_extra: oomp_footprint_wurthelectronics_transformers_wurthelektronik_ep13_smt_h_12pin_(4483)
+    oomp_key_full: oomp_footprint_wurthelectronics_transformers_wurthelektronik_ep13_smt_h_12pin_(4483)_eba51a
+    oomp_key_simple: wurthelectronics_transformers_wurthelektronik_ep13_smt_h_12pin_(4483)
     original_filename: Transformers_WurthElektronik.pretty/EP13_SMT_H_12PIN_(4483).kicad_mod
     owner_name: wurthelectronics
   oomp_key: oomp_wurthelectronics_transformers_wurthelektronik_ep13_smt_h_12pin_(4483)
+  oomp_key_full: oomp_footprint_wurthelectronics_transformers_wurthelektronik_ep13_smt_h_12pin_(4483)
   oomp_key_simple: wurthelectronics_transformers_wurthelektronik_ep13_smt_h_12pin_(4483)
   owner: WurthElectronics
   repo:

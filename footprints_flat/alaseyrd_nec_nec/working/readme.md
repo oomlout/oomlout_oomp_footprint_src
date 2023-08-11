@@ -19,8 +19,9 @@ Please consult that link for additional, details, files, and license information
 | github_path | http://github.com/AlasEyrd/nec.pretty/blob/master/nec.kicad_mod |  
 | links | {'github_src': 'http://gitlab.com/AlasEyrd/nec.pretty/blob/master/nec.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/alaseyrd_nec_nec/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/alaseyrd_nec_nec/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/alaseyrd_nec_nec/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/alaseyrd_nec_nec/working'} |  
 | name | nec.pretty |  
-| oomp | {'footprint_name': 'nec', 'library_name': 'nec', 'original_filename': 'nec.pretty/nec.kicad_mod', 'owner_name': 'alaseyrd'} |  
+| oomp | {'footprint_name': 'nec', 'library_name': 'nec', 'md5': '26daa0d95ed8e38fcfe3c654070dff0b', 'md5_10': '26daa0d95e', 'md5_5': '26daa', 'md5_6': '26daa0', 'oomp_key': 'oomp_alaseyrd_nec_nec', 'oomp_key_extra': 'oomp_footprint_alaseyrd_nec_nec', 'oomp_key_full': 'oomp_footprint_alaseyrd_nec_nec_26daa0', 'oomp_key_simple': 'alaseyrd_nec_nec', 'original_filename': 'nec.pretty/nec.kicad_mod', 'owner_name': 'alaseyrd'} |  
 | oomp_key | oomp_alaseyrd_nec_nec |  
+| oomp_key_full | oomp_footprint_alaseyrd_nec_nec |  
 | oomp_key_simple | alaseyrd_nec_nec |  
 | owner | AlasEyrd |  
 | repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  

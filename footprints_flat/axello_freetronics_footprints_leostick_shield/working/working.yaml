@@ -17,9 +17,18 @@
   oomp:
     footprint_name: leostick_shield
     library_name: freetronics_footprints
+    md5: 4627de8a40b5bc221baba46d03a767c8
+    md5_10: 4627de8a40
+    md5_5: 4627d
+    md5_6: 4627de
+    oomp_key: oomp_axello_freetronics_footprints_leostick_shield
+    oomp_key_extra: oomp_footprint_axello_freetronics_footprints_leostick_shield
+    oomp_key_full: oomp_footprint_axello_freetronics_footprints_leostick_shield_4627de
+    oomp_key_simple: axello_freetronics_footprints_leostick_shield
     original_filename: kicad/mods/freetronics_footprints.pretty/LEOSTICK_SHIELD.kicad_mod
     owner_name: axello
   oomp_key: oomp_axello_freetronics_footprints_leostick_shield
+  oomp_key_full: oomp_footprint_axello_freetronics_footprints_leostick_shield
   oomp_key_simple: axello_freetronics_footprints_leostick_shield
   owner: axello
   repo:

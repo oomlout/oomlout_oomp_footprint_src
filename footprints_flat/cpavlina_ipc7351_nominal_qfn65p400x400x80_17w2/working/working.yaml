@@ -18,9 +18,18 @@
   oomp:
     footprint_name: qfn65p400x400x80_17w2
     library_name: ipc7351_nominal
+    md5: 78afd1299279715c5205d771983ae485
+    md5_10: 78afd12992
+    md5_5: 78afd
+    md5_6: 78afd1
+    oomp_key: oomp_cpavlina_ipc7351_nominal_qfn65p400x400x80_17w2
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_nominal_qfn65p400x400x80_17w2
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_qfn65p400x400x80_17w2_78afd1
+    oomp_key_simple: cpavlina_ipc7351_nominal_qfn65p400x400x80_17w2
     original_filename: kicad-pcblib/IPC7351-Nominal.pretty/QFN65P400X400X80-17W2.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_nominal_qfn65p400x400x80_17w2
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_qfn65p400x400x80_17w2
   oomp_key_simple: cpavlina_ipc7351_nominal_qfn65p400x400x80_17w2
   owner: cpavlina
   repo:

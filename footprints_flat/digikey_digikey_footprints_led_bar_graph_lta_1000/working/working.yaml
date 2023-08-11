@@ -17,9 +17,18 @@
   oomp:
     footprint_name: led_bar_graph_lta_1000
     library_name: digikey_footprints
+    md5: cc37d99661e19968015af0cc5db6ee66
+    md5_10: cc37d99661
+    md5_5: cc37d
+    md5_6: cc37d9
+    oomp_key: oomp_digikey_digikey_footprints_led_bar_graph_lta_1000
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_led_bar_graph_lta_1000
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_led_bar_graph_lta_1000_cc37d9
+    oomp_key_simple: digikey_digikey_footprints_led_bar_graph_lta_1000
     original_filename: digikey-kicad-library/digikey-footprints.pretty/LED_Bar_Graph_LTA-1000.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_led_bar_graph_lta_1000
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_led_bar_graph_lta_1000
   oomp_key_simple: digikey_digikey_footprints_led_bar_graph_lta_1000
   owner: digikey
   repo:

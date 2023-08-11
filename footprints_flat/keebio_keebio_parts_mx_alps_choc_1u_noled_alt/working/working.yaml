@@ -17,9 +17,18 @@
   oomp:
     footprint_name: mx_alps_choc_1u_noled_alt
     library_name: keebio_parts
+    md5: 4be543e12cce745b1c004c52ed079056
+    md5_10: 4be543e12c
+    md5_5: 4be54
+    md5_6: 4be543
+    oomp_key: oomp_keebio_keebio_parts_mx_alps_choc_1u_noled_alt
+    oomp_key_extra: oomp_footprint_keebio_keebio_parts_mx_alps_choc_1u_noled_alt
+    oomp_key_full: oomp_footprint_keebio_keebio_parts_mx_alps_choc_1u_noled_alt_4be543
+    oomp_key_simple: keebio_keebio_parts_mx_alps_choc_1u_noled_alt
     original_filename: Keebio-Parts.pretty/MX-Alps-Choc-1U-NoLED-Alt.kicad_mod
     owner_name: keebio
   oomp_key: oomp_keebio_keebio_parts_mx_alps_choc_1u_noled_alt
+  oomp_key_full: oomp_footprint_keebio_keebio_parts_mx_alps_choc_1u_noled_alt
   oomp_key_simple: keebio_keebio_parts_mx_alps_choc_1u_noled_alt
   owner: keebio
   repo:

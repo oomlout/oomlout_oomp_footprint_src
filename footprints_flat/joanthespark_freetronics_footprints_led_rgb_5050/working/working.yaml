@@ -17,9 +17,18 @@
   oomp:
     footprint_name: led_rgb_5050
     library_name: freetronics_footprints
+    md5: b42a465951d9fa7afff3b352a5a5dfc6
+    md5_10: b42a465951
+    md5_5: b42a4
+    md5_6: b42a46
+    oomp_key: oomp_joanthespark_freetronics_footprints_led_rgb_5050
+    oomp_key_extra: oomp_footprint_joanthespark_freetronics_footprints_led_rgb_5050
+    oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_led_rgb_5050_b42a46
+    oomp_key_simple: joanthespark_freetronics_footprints_led_rgb_5050
     original_filename: KiCAD/mods/freetronics_footprints.pretty/LED-RGB-5050.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_freetronics_footprints_led_rgb_5050
+  oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_led_rgb_5050
   oomp_key_simple: joanthespark_freetronics_footprints_led_rgb_5050
   owner: JoanTheSpark
   repo:

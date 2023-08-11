@@ -17,9 +17,18 @@
   oomp:
     footprint_name: _hmc5883l
     library_name: _sensors
+    md5: 1ecc4969e8f35eb7c849aa0454bec28c
+    md5_10: 1ecc4969e8
+    md5_5: 1ecc4
+    md5_6: 1ecc49
+    oomp_key: oomp_mcous_sensors_hmc5883l
+    oomp_key_extra: oomp_footprint_mcous_sensors_hmc5883l
+    oomp_key_full: oomp_footprint_mcous_sensors_hmc5883l_1ecc49
+    oomp_key_simple: mcous_sensors_hmc5883l
     original_filename: kicad-lib/footprints/_sensors.pretty/_HMC5883L.kicad_mod
     owner_name: mcous
   oomp_key: oomp_mcous_sensors_hmc5883l
+  oomp_key_full: oomp_footprint_mcous_sensors_hmc5883l
   oomp_key_simple: mcous_sensors_hmc5883l
   owner: mcous
   repo:

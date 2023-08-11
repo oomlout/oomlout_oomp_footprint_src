@@ -17,9 +17,18 @@
   oomp:
     footprint_name: soic_8_ep
     library_name: agg
+    md5: 89cd75d44f7eaf5e90348be81928041d
+    md5_10: 89cd75d44f
+    md5_5: 89cd7
+    md5_6: 89cd75
+    oomp_key: oomp_adamgreig_agg_soic_8_ep
+    oomp_key_extra: oomp_footprint_adamgreig_agg_soic_8_ep
+    oomp_key_full: oomp_footprint_adamgreig_agg_soic_8_ep_89cd75
+    oomp_key_simple: adamgreig_agg_soic_8_ep
     original_filename: agg-kicad/agg.pretty/SOIC-8-EP.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_soic_8_ep
+  oomp_key_full: oomp_footprint_adamgreig_agg_soic_8_ep
   oomp_key_simple: adamgreig_agg_soic_8_ep
   owner: adamgreig
   repo:

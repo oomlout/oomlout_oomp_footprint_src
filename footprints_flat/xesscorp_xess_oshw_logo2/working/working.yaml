@@ -17,9 +17,18 @@
   oomp:
     footprint_name: oshw_logo2
     library_name: xess
+    md5: 848a9bc0be0ddbb6f9f498484e92c52c
+    md5_10: 848a9bc0be
+    md5_5: 848a9
+    md5_6: 848a9b
+    oomp_key: oomp_xesscorp_xess_oshw_logo2
+    oomp_key_extra: oomp_footprint_xesscorp_xess_oshw_logo2
+    oomp_key_full: oomp_footprint_xesscorp_xess_oshw_logo2_848a9b
+    oomp_key_simple: xesscorp_xess_oshw_logo2
     original_filename: xess.pretty/oshw-logo2.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_oshw_logo2
+  oomp_key_full: oomp_footprint_xesscorp_xess_oshw_logo2
   oomp_key_simple: xesscorp_xess_oshw_logo2
   owner: xesscorp
   repo:

@@ -19,9 +19,18 @@
   oomp:
     footprint_name: sk6812_side_a
     library_name: dp_led
+    md5: 5de36b1c0580afefe47990607dc11e38
+    md5_10: 5de36b1c05
+    md5_5: 5de36
+    md5_6: 5de36b
+    oomp_key: oomp_iangitpers_dp_led_sk6812_side_a
+    oomp_key_extra: oomp_footprint_iangitpers_dp_led_sk6812_side_a
+    oomp_key_full: oomp_footprint_iangitpers_dp_led_sk6812_side_a_5de36b
+    oomp_key_simple: iangitpers_dp_led_sk6812_side_a
     original_filename: 4a/dp-LED/dp-LED.pretty/SK6812-side-a.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_dp_led_sk6812_side_a
+  oomp_key_full: oomp_footprint_iangitpers_dp_led_sk6812_side_a
   oomp_key_simple: iangitpers_dp_led_sk6812_side_a
   owner: Iangitpers
   repo:

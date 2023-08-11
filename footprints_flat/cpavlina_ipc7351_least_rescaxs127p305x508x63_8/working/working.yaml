@@ -18,9 +18,18 @@
   oomp:
     footprint_name: rescaxs127p305x508x63_8
     library_name: ipc7351_least
+    md5: fb70668a131d4572839e4fbe6b200651
+    md5_10: fb70668a13
+    md5_5: fb706
+    md5_6: fb7066
+    oomp_key: oomp_cpavlina_ipc7351_least_rescaxs127p305x508x63_8
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_least_rescaxs127p305x508x63_8
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_least_rescaxs127p305x508x63_8_fb7066
+    oomp_key_simple: cpavlina_ipc7351_least_rescaxs127p305x508x63_8
     original_filename: kicad-pcblib/IPC7351-Least.pretty/RESCAXS127P305X508X63-8.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_least_rescaxs127p305x508x63_8
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_least_rescaxs127p305x508x63_8
   oomp_key_simple: cpavlina_ipc7351_least_rescaxs127p305x508x63_8
   owner: cpavlina
   repo:

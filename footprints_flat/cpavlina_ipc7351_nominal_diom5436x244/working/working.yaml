@@ -17,9 +17,18 @@
   oomp:
     footprint_name: diom5436x244
     library_name: ipc7351_nominal
+    md5: ec2c38db1dc3fa008dc97871e42fe07e
+    md5_10: ec2c38db1d
+    md5_5: ec2c3
+    md5_6: ec2c38
+    oomp_key: oomp_cpavlina_ipc7351_nominal_diom5436x244
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_nominal_diom5436x244
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_diom5436x244_ec2c38
+    oomp_key_simple: cpavlina_ipc7351_nominal_diom5436x244
     original_filename: kicad-pcblib/IPC7351-Nominal.pretty/DIOM5436X244.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_nominal_diom5436x244
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_diom5436x244
   oomp_key_simple: cpavlina_ipc7351_nominal_diom5436x244
   owner: cpavlina
   repo:

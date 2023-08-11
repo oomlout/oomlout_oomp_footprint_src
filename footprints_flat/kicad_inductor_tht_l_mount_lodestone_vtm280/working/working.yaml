@@ -18,9 +18,18 @@
   oomp:
     footprint_name: l_mount_lodestone_vtm280
     library_name: inductor_tht
+    md5: 7b2c71dcf098ef64a1f0ba420a915a54
+    md5_10: 7b2c71dcf0
+    md5_5: 7b2c7
+    md5_6: 7b2c71
+    oomp_key: oomp_kicad_inductor_tht_l_mount_lodestone_vtm280
+    oomp_key_extra: oomp_footprint_kicad_inductor_tht_l_mount_lodestone_vtm280
+    oomp_key_full: oomp_footprint_kicad_inductor_tht_l_mount_lodestone_vtm280_7b2c71
+    oomp_key_simple: kicad_inductor_tht_l_mount_lodestone_vtm280
     original_filename: libraries/kicad-footprints/Inductor_THT.pretty/L_Mount_Lodestone_VTM280.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_inductor_tht_l_mount_lodestone_vtm280
+  oomp_key_full: oomp_footprint_kicad_inductor_tht_l_mount_lodestone_vtm280
   oomp_key_simple: kicad_inductor_tht_l_mount_lodestone_vtm280
   owner: kicad
   repo:

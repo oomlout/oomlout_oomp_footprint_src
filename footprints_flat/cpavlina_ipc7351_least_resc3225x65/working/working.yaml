@@ -17,9 +17,18 @@
   oomp:
     footprint_name: resc3225x65
     library_name: ipc7351_least
+    md5: 58d83e6d6e22ac6356935183c1403371
+    md5_10: 58d83e6d6e
+    md5_5: 58d83
+    md5_6: 58d83e
+    oomp_key: oomp_cpavlina_ipc7351_least_resc3225x65
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_least_resc3225x65
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_least_resc3225x65_58d83e
+    oomp_key_simple: cpavlina_ipc7351_least_resc3225x65
     original_filename: kicad-pcblib/IPC7351-Least.pretty/RESC3225X65.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_least_resc3225x65
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_least_resc3225x65
   oomp_key_simple: cpavlina_ipc7351_least_resc3225x65
   owner: cpavlina
   repo:

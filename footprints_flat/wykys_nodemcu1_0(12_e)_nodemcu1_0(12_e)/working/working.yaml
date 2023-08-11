@@ -16,10 +16,19 @@
   name: kicad
   oomp:
     footprint_name: nodemcu1_0(12_e)
-    library_name: mods
+    library_name: nodemcu1_0(12_e)_kicad_mod
+    md5: 2c17cde9ed7bcae269ca616382bec955
+    md5_10: 2c17cde9ed
+    md5_5: 2c17c
+    md5_6: 2c17cd
+    oomp_key: oomp_wykys_nodemcu1_0(12_e)_nodemcu1_0(12_e)
+    oomp_key_extra: oomp_footprint_wykys_nodemcu1_0(12_e)_nodemcu1_0(12_e)
+    oomp_key_full: oomp_footprint_wykys_nodemcu1_0(12_e)_nodemcu1_0(12_e)_2c17cd
+    oomp_key_simple: wykys_nodemcu1_0(12_e)_nodemcu1_0(12_e)
     original_filename: kicad/mods/NodeMCU1.0(12-E).kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_nodemcu1_0(12_e)_nodemcu1_0(12_e)
+  oomp_key_full: oomp_footprint_wykys_nodemcu1_0(12_e)_nodemcu1_0(12_e)
   oomp_key_simple: wykys_nodemcu1_0(12_e)_nodemcu1_0(12_e)
   owner: wykys
   repo:

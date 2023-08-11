@@ -17,9 +17,18 @@
   oomp:
     footprint_name: esp_12
     library_name: agg
+    md5: 85c597b4065b03d14787c5ad2b58f116
+    md5_10: 85c597b406
+    md5_5: 85c59
+    md5_6: 85c597
+    oomp_key: oomp_adamgreig_agg_esp_12
+    oomp_key_extra: oomp_footprint_adamgreig_agg_esp_12
+    oomp_key_full: oomp_footprint_adamgreig_agg_esp_12_85c597
+    oomp_key_simple: adamgreig_agg_esp_12
     original_filename: agg-kicad/agg.pretty/ESP-12.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_esp_12
+  oomp_key_full: oomp_footprint_adamgreig_agg_esp_12
   oomp_key_simple: adamgreig_agg_esp_12
   owner: adamgreig
   repo:

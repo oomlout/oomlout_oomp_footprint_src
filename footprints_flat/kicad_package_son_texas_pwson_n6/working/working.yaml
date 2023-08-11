@@ -17,9 +17,18 @@
   oomp:
     footprint_name: texas_pwson_n6
     library_name: package_son
+    md5: 13d39e8516d09031becc673f840fab85
+    md5_10: 13d39e8516
+    md5_5: 13d39
+    md5_6: 13d39e
+    oomp_key: oomp_kicad_package_son_texas_pwson_n6
+    oomp_key_extra: oomp_footprint_kicad_package_son_texas_pwson_n6
+    oomp_key_full: oomp_footprint_kicad_package_son_texas_pwson_n6_13d39e
+    oomp_key_simple: kicad_package_son_texas_pwson_n6
     original_filename: libraries/kicad-footprints/Package_SON.pretty/Texas_PWSON-N6.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_son_texas_pwson_n6
+  oomp_key_full: oomp_footprint_kicad_package_son_texas_pwson_n6
   oomp_key_simple: kicad_package_son_texas_pwson_n6
   owner: kicad
   repo:

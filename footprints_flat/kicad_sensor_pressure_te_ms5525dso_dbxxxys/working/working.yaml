@@ -17,9 +17,18 @@
   oomp:
     footprint_name: te_ms5525dso_dbxxxys
     library_name: sensor_pressure
+    md5: cffe9a4b4abfa328fffb1b9fb05f1e38
+    md5_10: cffe9a4b4a
+    md5_5: cffe9
+    md5_6: cffe9a
+    oomp_key: oomp_kicad_sensor_pressure_te_ms5525dso_dbxxxys
+    oomp_key_extra: oomp_footprint_kicad_sensor_pressure_te_ms5525dso_dbxxxys
+    oomp_key_full: oomp_footprint_kicad_sensor_pressure_te_ms5525dso_dbxxxys_cffe9a
+    oomp_key_simple: kicad_sensor_pressure_te_ms5525dso_dbxxxys
     original_filename: libraries/kicad-footprints/Sensor_Pressure.pretty/TE_MS5525DSO-DBxxxyS.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_sensor_pressure_te_ms5525dso_dbxxxys
+  oomp_key_full: oomp_footprint_kicad_sensor_pressure_te_ms5525dso_dbxxxys
   oomp_key_simple: kicad_sensor_pressure_te_ms5525dso_dbxxxys
   owner: kicad
   repo:

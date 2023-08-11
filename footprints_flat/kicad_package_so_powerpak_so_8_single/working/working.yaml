@@ -18,9 +18,18 @@
   oomp:
     footprint_name: powerpak_so_8_single
     library_name: package_so
+    md5: 33bc0f3732809fbc0d3fea9c260c0acd
+    md5_10: 33bc0f3732
+    md5_5: 33bc0
+    md5_6: 33bc0f
+    oomp_key: oomp_kicad_package_so_powerpak_so_8_single
+    oomp_key_extra: oomp_footprint_kicad_package_so_powerpak_so_8_single
+    oomp_key_full: oomp_footprint_kicad_package_so_powerpak_so_8_single_33bc0f
+    oomp_key_simple: kicad_package_so_powerpak_so_8_single
     original_filename: libraries/kicad-footprints/Package_SO.pretty/PowerPAK_SO-8_Single.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_so_powerpak_so_8_single
+  oomp_key_full: oomp_footprint_kicad_package_so_powerpak_so_8_single
   oomp_key_simple: kicad_package_so_powerpak_so_8_single
   owner: kicad
   repo:

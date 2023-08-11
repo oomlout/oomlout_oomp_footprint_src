@@ -18,9 +18,18 @@
   oomp:
     footprint_name: stm32g441kbu6
     library_name: leptunkicadlib
+    md5: ba25743fd2f2d1656cad06ef72c96164
+    md5_10: ba25743fd2
+    md5_5: ba257
+    md5_6: ba2574
+    oomp_key: oomp_leptun_leptunkicadlib_stm32g441kbu6
+    oomp_key_extra: oomp_footprint_leptun_leptunkicadlib_stm32g441kbu6
+    oomp_key_full: oomp_footprint_leptun_leptunkicadlib_stm32g441kbu6_ba2574
+    oomp_key_simple: leptun_leptunkicadlib_stm32g441kbu6
     original_filename: leptunKicadLib.pretty/STM32G441KBU6.kicad_mod
     owner_name: leptun
   oomp_key: oomp_leptun_leptunkicadlib_stm32g441kbu6
+  oomp_key_full: oomp_footprint_leptun_leptunkicadlib_stm32g441kbu6
   oomp_key_simple: leptun_leptunkicadlib_stm32g441kbu6
   owner: leptun
   repo:

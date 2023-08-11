@@ -17,9 +17,18 @@
   oomp:
     footprint_name: tronixlabs_l298n
     library_name: mhs_robotics
+    md5: 2ec0b00c37ab129bc622449194c219c3
+    md5_10: 2ec0b00c37
+    md5_5: 2ec0b
+    md5_6: 2ec0b0
+    oomp_key: oomp_angustrau_mhs_robotics_tronixlabs_l298n
+    oomp_key_extra: oomp_footprint_angustrau_mhs_robotics_tronixlabs_l298n
+    oomp_key_full: oomp_footprint_angustrau_mhs_robotics_tronixlabs_l298n_2ec0b0
+    oomp_key_simple: angustrau_mhs_robotics_tronixlabs_l298n
     original_filename: MHS_Robotics.pretty/Tronixlabs_L298N.kicad_mod
     owner_name: angustrau
   oomp_key: oomp_angustrau_mhs_robotics_tronixlabs_l298n
+  oomp_key_full: oomp_footprint_angustrau_mhs_robotics_tronixlabs_l298n
   oomp_key_simple: angustrau_mhs_robotics_tronixlabs_l298n
   owner: angustrau
   repo:

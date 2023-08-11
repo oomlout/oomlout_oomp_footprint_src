@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sot563
     library_name: kicadfootprint
+    md5: 62858845b01f5b86f62b2118eaabf4e2
+    md5_10: 62858845b0
+    md5_5: '62858'
+    md5_6: '628588'
+    oomp_key: oomp_vivitainc_kicadfootprint_sot563
+    oomp_key_extra: oomp_footprint_vivitainc_kicadfootprint_sot563
+    oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_sot563_628588
+    oomp_key_simple: vivitainc_kicadfootprint_sot563
     original_filename: KiCADfootprint.pretty/SOT563.kicad_mod
     owner_name: vivitainc
   oomp_key: oomp_vivitainc_kicadfootprint_sot563
+  oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_sot563
   oomp_key_simple: vivitainc_kicadfootprint_sot563
   owner: vivitainc
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_n7e50_x516xx_20
     library_name: xess
+    md5: e2a6343ceb8a3dde816082d1970636ec
+    md5_10: e2a6343ceb
+    md5_5: e2a63
+    md5_6: e2a634
+    oomp_key: oomp_xesscorp_xess_xess_n7e50_x516xx_20
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_n7e50_x516xx_20
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_n7e50_x516xx_20_e2a634
+    oomp_key_simple: xesscorp_xess_xess_n7e50_x516xx_20
     original_filename: xess.pretty/xess-N7E50-X516XX-20.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_n7e50_x516xx_20
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_n7e50_x516xx_20
   oomp_key_simple: xesscorp_xess_xess_n7e50_x516xx_20
   owner: xesscorp
   repo:

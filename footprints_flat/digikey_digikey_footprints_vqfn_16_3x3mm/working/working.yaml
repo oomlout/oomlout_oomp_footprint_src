@@ -17,9 +17,18 @@
   oomp:
     footprint_name: vqfn_16_3x3mm
     library_name: digikey_footprints
+    md5: 51d729171102cd2dc07ed516129fe533
+    md5_10: 51d7291711
+    md5_5: 51d72
+    md5_6: 51d729
+    oomp_key: oomp_digikey_digikey_footprints_vqfn_16_3x3mm
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_vqfn_16_3x3mm
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_vqfn_16_3x3mm_51d729
+    oomp_key_simple: digikey_digikey_footprints_vqfn_16_3x3mm
     original_filename: digikey-kicad-library/digikey-footprints.pretty/VQFN-16_3x3mm.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_vqfn_16_3x3mm
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_vqfn_16_3x3mm
   oomp_key_simple: digikey_digikey_footprints_vqfn_16_3x3mm
   owner: digikey
   repo:

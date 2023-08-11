@@ -17,9 +17,18 @@
   oomp:
     footprint_name: altimeter_ms580314ba
     library_name: digikey_footprints
+    md5: aee4313c162c7ce23a92210260a63e78
+    md5_10: aee4313c16
+    md5_5: aee43
+    md5_6: aee431
+    oomp_key: oomp_digikey_digikey_footprints_altimeter_ms580314ba
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_altimeter_ms580314ba
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_altimeter_ms580314ba_aee431
+    oomp_key_simple: digikey_digikey_footprints_altimeter_ms580314ba
     original_filename: digikey-kicad-library/digikey-footprints.pretty/Altimeter_MS580314BA.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_altimeter_ms580314ba
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_altimeter_ms580314ba
   oomp_key_simple: digikey_digikey_footprints_altimeter_ms580314ba
   owner: digikey
   repo:

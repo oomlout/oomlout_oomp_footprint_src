@@ -19,9 +19,18 @@
   oomp:
     footprint_name: nxp_udfn_10
     library_name: manuf
+    md5: 53501b18a275e1dfc2fd76723867db42
+    md5_10: 53501b18a2
+    md5_5: '53501'
+    md5_6: 53501b
+    oomp_key: oomp_iangitpers_manuf_nxp_udfn_10
+    oomp_key_extra: oomp_footprint_iangitpers_manuf_nxp_udfn_10
+    oomp_key_full: oomp_footprint_iangitpers_manuf_nxp_udfn_10_53501b
+    oomp_key_simple: iangitpers_manuf_nxp_udfn_10
     original_filename: 4a/manuf.pretty/NXP-UDFN-10.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_manuf_nxp_udfn_10
+  oomp_key_full: oomp_footprint_iangitpers_manuf_nxp_udfn_10
   oomp_key_simple: iangitpers_manuf_nxp_udfn_10
   owner: Iangitpers
   repo:

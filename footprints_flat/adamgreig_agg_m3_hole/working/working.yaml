@@ -17,9 +17,18 @@
   oomp:
     footprint_name: m3_hole
     library_name: agg
+    md5: 0e1c01c85270b31c58c011d77bede2b8
+    md5_10: 0e1c01c852
+    md5_5: 0e1c0
+    md5_6: 0e1c01
+    oomp_key: oomp_adamgreig_agg_m3_hole
+    oomp_key_extra: oomp_footprint_adamgreig_agg_m3_hole
+    oomp_key_full: oomp_footprint_adamgreig_agg_m3_hole_0e1c01
+    oomp_key_simple: adamgreig_agg_m3_hole
     original_filename: agg-kicad/agg.pretty/M3_HOLE.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_m3_hole
+  oomp_key_full: oomp_footprint_adamgreig_agg_m3_hole
   oomp_key_simple: adamgreig_agg_m3_hole
   owner: adamgreig
   repo:

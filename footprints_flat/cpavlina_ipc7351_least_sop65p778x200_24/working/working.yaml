@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sop65p778x200_24
     library_name: ipc7351_least
+    md5: b2b6357e5fd8bd321a60f6651dace594
+    md5_10: b2b6357e5f
+    md5_5: b2b63
+    md5_6: b2b635
+    oomp_key: oomp_cpavlina_ipc7351_least_sop65p778x200_24
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_least_sop65p778x200_24
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_least_sop65p778x200_24_b2b635
+    oomp_key_simple: cpavlina_ipc7351_least_sop65p778x200_24
     original_filename: kicad-pcblib/IPC7351-Least.pretty/SOP65P778X200-24.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_least_sop65p778x200_24
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_least_sop65p778x200_24
   oomp_key_simple: cpavlina_ipc7351_least_sop65p778x200_24
   owner: cpavlina
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: arduino_due_shield
     library_name: freetronics_footprints
+    md5: f5cab1caa020862e46403107b0ecd4b7
+    md5_10: f5cab1caa0
+    md5_5: f5cab
+    md5_6: f5cab1
+    oomp_key: oomp_wykys_freetronics_footprints_arduino_due_shield
+    oomp_key_extra: oomp_footprint_wykys_freetronics_footprints_arduino_due_shield
+    oomp_key_full: oomp_footprint_wykys_freetronics_footprints_arduino_due_shield_f5cab1
+    oomp_key_simple: wykys_freetronics_footprints_arduino_due_shield
     original_filename: kicad/mods/freetronics_footprints.pretty/ARDUINO_DUE_SHIELD.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_freetronics_footprints_arduino_due_shield
+  oomp_key_full: oomp_footprint_wykys_freetronics_footprints_arduino_due_shield
   oomp_key_simple: wykys_freetronics_footprints_arduino_due_shield
   owner: wykys
   repo:

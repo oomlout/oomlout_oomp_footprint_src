@@ -18,9 +18,18 @@
   oomp:
     footprint_name: harwin_gecko_g125_mvx0605l0x_2x03_p1_25mm_vertical
     library_name: connector_harwin
+    md5: a07369a83b01159a42700f9740d5afd4
+    md5_10: a07369a83b
+    md5_5: a0736
+    md5_6: a07369
+    oomp_key: oomp_kicad_connector_harwin_harwin_gecko_g125_mvx0605l0x_2x03_p1_25mm_vertical
+    oomp_key_extra: oomp_footprint_kicad_connector_harwin_harwin_gecko_g125_mvx0605l0x_2x03_p1_25mm_vertical
+    oomp_key_full: oomp_footprint_kicad_connector_harwin_harwin_gecko_g125_mvx0605l0x_2x03_p1_25mm_vertical_a07369
+    oomp_key_simple: kicad_connector_harwin_harwin_gecko_g125_mvx0605l0x_2x03_p1_25mm_vertical
     original_filename: libraries/kicad-footprints/Connector_Harwin.pretty/Harwin_Gecko-G125-MVX0605L0X_2x03_P1.25mm_Vertical.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_harwin_harwin_gecko_g125_mvx0605l0x_2x03_p1_25mm_vertical
+  oomp_key_full: oomp_footprint_kicad_connector_harwin_harwin_gecko_g125_mvx0605l0x_2x03_p1_25mm_vertical
   oomp_key_simple: kicad_connector_harwin_harwin_gecko_g125_mvx0605l0x_2x03_p1_25mm_vertical
   owner: kicad
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: toshiba_sot363
     library_name: kicadfootprint
+    md5: fdb27dd0a65f3c93d9a2fd7337035132
+    md5_10: fdb27dd0a6
+    md5_5: fdb27
+    md5_6: fdb27d
+    oomp_key: oomp_vivitainc_kicadfootprint_toshiba_sot363
+    oomp_key_extra: oomp_footprint_vivitainc_kicadfootprint_toshiba_sot363
+    oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_toshiba_sot363_fdb27d
+    oomp_key_simple: vivitainc_kicadfootprint_toshiba_sot363
     original_filename: KiCADfootprint.pretty/TOSHIBA_SOT363.kicad_mod
     owner_name: vivitainc
   oomp_key: oomp_vivitainc_kicadfootprint_toshiba_sot363
+  oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_toshiba_sot363
   oomp_key_simple: vivitainc_kicadfootprint_toshiba_sot363
   owner: vivitainc
   repo:

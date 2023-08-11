@@ -19,9 +19,18 @@
   oomp:
     footprint_name: oshw_logo2_14_6x12mm_copper
     library_name: symbol
+    md5: 719772e2c1d5c98af6b6be45e6fafa5e
+    md5_10: 719772e2c1
+    md5_5: '71977'
+    md5_6: '719772'
+    oomp_key: oomp_iangitpers_symbol_oshw_logo2_14_6x12mm_copper
+    oomp_key_extra: oomp_footprint_iangitpers_symbol_oshw_logo2_14_6x12mm_copper
+    oomp_key_full: oomp_footprint_iangitpers_symbol_oshw_logo2_14_6x12mm_copper_719772
+    oomp_key_simple: iangitpers_symbol_oshw_logo2_14_6x12mm_copper
     original_filename: 4a/Symbol.pretty/OSHW-Logo2_14.6x12mm_Copper.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_symbol_oshw_logo2_14_6x12mm_copper
+  oomp_key_full: oomp_footprint_iangitpers_symbol_oshw_logo2_14_6x12mm_copper
   oomp_key_simple: iangitpers_symbol_oshw_logo2_14_6x12mm_copper
   owner: Iangitpers
   repo:

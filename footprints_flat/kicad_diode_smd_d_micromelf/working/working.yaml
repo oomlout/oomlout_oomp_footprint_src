@@ -17,9 +17,18 @@
   oomp:
     footprint_name: d_micromelf
     library_name: diode_smd
+    md5: bb34e770151bc2e629d27a6dcb92c9e6
+    md5_10: bb34e77015
+    md5_5: bb34e
+    md5_6: bb34e7
+    oomp_key: oomp_kicad_diode_smd_d_micromelf
+    oomp_key_extra: oomp_footprint_kicad_diode_smd_d_micromelf
+    oomp_key_full: oomp_footprint_kicad_diode_smd_d_micromelf_bb34e7
+    oomp_key_simple: kicad_diode_smd_d_micromelf
     original_filename: libraries/kicad-footprints/Diode_SMD.pretty/D_MicroMELF.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_diode_smd_d_micromelf
+  oomp_key_full: oomp_footprint_kicad_diode_smd_d_micromelf
   oomp_key_simple: kicad_diode_smd_d_micromelf
   owner: kicad
   repo:

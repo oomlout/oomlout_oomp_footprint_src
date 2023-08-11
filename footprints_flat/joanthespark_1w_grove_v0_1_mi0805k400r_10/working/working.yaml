@@ -17,9 +17,18 @@
   oomp:
     footprint_name: mi0805k400r_10
     library_name: 1w_grove_v0_1
+    md5: 9cf28963147c18c0b8b745dce22c0c8c
+    md5_10: 9cf2896314
+    md5_5: 9cf28
+    md5_6: 9cf289
+    oomp_key: oomp_joanthespark_1w_grove_v0_1_mi0805k400r_10
+    oomp_key_extra: oomp_footprint_joanthespark_1w_grove_v0_1_mi0805k400r_10
+    oomp_key_full: oomp_footprint_joanthespark_1w_grove_v0_1_mi0805k400r_10_9cf289
+    oomp_key_simple: joanthespark_1w_grove_v0_1_mi0805k400r_10
     original_filename: KiCAD/6.0/projects/1w-grove-v0.1/1w-grove-v0.1.pretty/mi0805k400r-10.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_1w_grove_v0_1_mi0805k400r_10
+  oomp_key_full: oomp_footprint_joanthespark_1w_grove_v0_1_mi0805k400r_10
   oomp_key_simple: joanthespark_1w_grove_v0_1_mi0805k400r_10
   owner: JoanTheSpark
   repo:

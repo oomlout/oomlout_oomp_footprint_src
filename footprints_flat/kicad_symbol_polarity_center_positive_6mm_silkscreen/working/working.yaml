@@ -17,9 +17,18 @@
   oomp:
     footprint_name: polarity_center_positive_6mm_silkscreen
     library_name: symbol
+    md5: f2d46406532d3e367a227109721bd25e
+    md5_10: f2d4640653
+    md5_5: f2d46
+    md5_6: f2d464
+    oomp_key: oomp_kicad_symbol_polarity_center_positive_6mm_silkscreen
+    oomp_key_extra: oomp_footprint_kicad_symbol_polarity_center_positive_6mm_silkscreen
+    oomp_key_full: oomp_footprint_kicad_symbol_polarity_center_positive_6mm_silkscreen_f2d464
+    oomp_key_simple: kicad_symbol_polarity_center_positive_6mm_silkscreen
     original_filename: libraries/kicad-footprints/Symbol.pretty/Polarity_Center_Positive_6mm_SilkScreen.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_symbol_polarity_center_positive_6mm_silkscreen
+  oomp_key_full: oomp_footprint_kicad_symbol_polarity_center_positive_6mm_silkscreen
   oomp_key_simple: kicad_symbol_polarity_center_positive_6mm_silkscreen
   owner: kicad
   repo:

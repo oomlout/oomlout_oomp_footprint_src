@@ -17,9 +17,18 @@
   oomp:
     footprint_name: rj45_8
     library_name: freetronics_footprints
+    md5: b7664cbb3b13b0e8ed8f904d5170e7fa
+    md5_10: b7664cbb3b
+    md5_5: b7664
+    md5_6: b7664c
+    oomp_key: oomp_wykys_freetronics_footprints_rj45_8
+    oomp_key_extra: oomp_footprint_wykys_freetronics_footprints_rj45_8
+    oomp_key_full: oomp_footprint_wykys_freetronics_footprints_rj45_8_b7664c
+    oomp_key_simple: wykys_freetronics_footprints_rj45_8
     original_filename: kicad/mods/freetronics_footprints.pretty/RJ45-8.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_freetronics_footprints_rj45_8
+  oomp_key_full: oomp_footprint_wykys_freetronics_footprints_rj45_8
   oomp_key_simple: wykys_freetronics_footprints_rj45_8
   owner: wykys
   repo:

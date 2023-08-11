@@ -17,9 +17,18 @@
   oomp:
     footprint_name: symbol_cc_noncommercial_coppertop_small
     library_name: symbol
+    md5: 6128b09a9122b71a99e8adde8948d379
+    md5_10: 6128b09a91
+    md5_5: 6128b
+    md5_6: 6128b0
+    oomp_key: oomp_kicad_symbol_symbol_cc_noncommercial_coppertop_small
+    oomp_key_extra: oomp_footprint_kicad_symbol_symbol_cc_noncommercial_coppertop_small
+    oomp_key_full: oomp_footprint_kicad_symbol_symbol_cc_noncommercial_coppertop_small_6128b0
+    oomp_key_simple: kicad_symbol_symbol_cc_noncommercial_coppertop_small
     original_filename: libraries/kicad-footprints/Symbol.pretty/Symbol_CC-Noncommercial_CopperTop_Small.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_symbol_symbol_cc_noncommercial_coppertop_small
+  oomp_key_full: oomp_footprint_kicad_symbol_symbol_cc_noncommercial_coppertop_small
   oomp_key_simple: kicad_symbol_symbol_cc_noncommercial_coppertop_small
   owner: kicad
   repo:

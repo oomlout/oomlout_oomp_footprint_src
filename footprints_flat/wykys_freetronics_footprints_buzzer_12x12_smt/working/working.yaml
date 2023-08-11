@@ -17,9 +17,18 @@
   oomp:
     footprint_name: buzzer_12x12_smt
     library_name: freetronics_footprints
+    md5: e24486ed41048669a30ef7a94f623b59
+    md5_10: e24486ed41
+    md5_5: e2448
+    md5_6: e24486
+    oomp_key: oomp_wykys_freetronics_footprints_buzzer_12x12_smt
+    oomp_key_extra: oomp_footprint_wykys_freetronics_footprints_buzzer_12x12_smt
+    oomp_key_full: oomp_footprint_wykys_freetronics_footprints_buzzer_12x12_smt_e24486
+    oomp_key_simple: wykys_freetronics_footprints_buzzer_12x12_smt
     original_filename: kicad/mods/freetronics_footprints.pretty/BUZZER-12X12-SMT.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_freetronics_footprints_buzzer_12x12_smt
+  oomp_key_full: oomp_footprint_wykys_freetronics_footprints_buzzer_12x12_smt
   oomp_key_simple: wykys_freetronics_footprints_buzzer_12x12_smt
   owner: wykys
   repo:

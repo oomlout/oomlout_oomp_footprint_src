@@ -17,9 +17,18 @@
   oomp:
     footprint_name: oshw_symbol_6_7x6mm_copper
     library_name: symbol
+    md5: 21d5e4eef5dd839841ae5f7d0327b241
+    md5_10: 21d5e4eef5
+    md5_5: 21d5e
+    md5_6: 21d5e4
+    oomp_key: oomp_kicad_symbol_oshw_symbol_6_7x6mm_copper
+    oomp_key_extra: oomp_footprint_kicad_symbol_oshw_symbol_6_7x6mm_copper
+    oomp_key_full: oomp_footprint_kicad_symbol_oshw_symbol_6_7x6mm_copper_21d5e4
+    oomp_key_simple: kicad_symbol_oshw_symbol_6_7x6mm_copper
     original_filename: libraries/kicad-footprints/Symbol.pretty/OSHW-Symbol_6.7x6mm_Copper.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_symbol_oshw_symbol_6_7x6mm_copper
+  oomp_key_full: oomp_footprint_kicad_symbol_oshw_symbol_6_7x6mm_copper
   oomp_key_simple: kicad_symbol_oshw_symbol_6_7x6mm_copper
   owner: kicad
   repo:

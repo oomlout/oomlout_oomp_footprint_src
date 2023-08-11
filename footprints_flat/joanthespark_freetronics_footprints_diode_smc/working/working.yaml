@@ -17,9 +17,18 @@
   oomp:
     footprint_name: diode_smc
     library_name: freetronics_footprints
+    md5: a3195e0e839ad47bb8f0c9d25aa8143a
+    md5_10: a3195e0e83
+    md5_5: a3195
+    md5_6: a3195e
+    oomp_key: oomp_joanthespark_freetronics_footprints_diode_smc
+    oomp_key_extra: oomp_footprint_joanthespark_freetronics_footprints_diode_smc
+    oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_diode_smc_a3195e
+    oomp_key_simple: joanthespark_freetronics_footprints_diode_smc
     original_filename: KiCAD/mods/freetronics_footprints.pretty/DIODE_SMC.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_freetronics_footprints_diode_smc
+  oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_diode_smc
   oomp_key_simple: joanthespark_freetronics_footprints_diode_smc
   owner: JoanTheSpark
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_j00_0045
     library_name: xess
+    md5: 7f70af425b716c21278ee6bcc8c5c916
+    md5_10: 7f70af425b
+    md5_5: 7f70a
+    md5_6: 7f70af
+    oomp_key: oomp_xesscorp_xess_xess_j00_0045
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_j00_0045
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_j00_0045_7f70af
+    oomp_key_simple: xesscorp_xess_xess_j00_0045
     original_filename: xess.pretty/xess-J00-0045.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_j00_0045
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_j00_0045
   oomp_key_simple: xesscorp_xess_xess_j00_0045
   owner: xesscorp
   repo:

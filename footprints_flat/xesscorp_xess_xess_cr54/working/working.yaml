@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_cr54
     library_name: xess
+    md5: 572445be0b5c5f1f867554bd3686a3e0
+    md5_10: 572445be0b
+    md5_5: '57244'
+    md5_6: '572445'
+    oomp_key: oomp_xesscorp_xess_xess_cr54
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_cr54
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_cr54_572445
+    oomp_key_simple: xesscorp_xess_xess_cr54
     original_filename: xess.pretty/xess-CR54.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_cr54
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_cr54
   oomp_key_simple: xesscorp_xess_xess_cr54
   owner: xesscorp
   repo:

@@ -19,9 +19,18 @@
   oomp:
     footprint_name: gt_tc026x_hxxx_lx
     library_name: dp_switch
+    md5: 91fc4a142d693129cf2fe90415eea4e7
+    md5_10: 91fc4a142d
+    md5_5: 91fc4
+    md5_6: 91fc4a
+    oomp_key: oomp_iangitpers_dp_switch_gt_tc026x_hxxx_lx
+    oomp_key_extra: oomp_footprint_iangitpers_dp_switch_gt_tc026x_hxxx_lx
+    oomp_key_full: oomp_footprint_iangitpers_dp_switch_gt_tc026x_hxxx_lx_91fc4a
+    oomp_key_simple: iangitpers_dp_switch_gt_tc026x_hxxx_lx
     original_filename: 4a/dp-switch/dp-switch.pretty/GT-TC026X-HXXX-LX.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_dp_switch_gt_tc026x_hxxx_lx
+  oomp_key_full: oomp_footprint_iangitpers_dp_switch_gt_tc026x_hxxx_lx
   oomp_key_simple: iangitpers_dp_switch_gt_tc026x_hxxx_lx
   owner: Iangitpers
   repo:

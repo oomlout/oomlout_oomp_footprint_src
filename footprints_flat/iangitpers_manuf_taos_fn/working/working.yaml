@@ -19,9 +19,18 @@
   oomp:
     footprint_name: taos_fn
     library_name: manuf
+    md5: 2a72b97c296917b013a2d7ce6e5a726b
+    md5_10: 2a72b97c29
+    md5_5: 2a72b
+    md5_6: 2a72b9
+    oomp_key: oomp_iangitpers_manuf_taos_fn
+    oomp_key_extra: oomp_footprint_iangitpers_manuf_taos_fn
+    oomp_key_full: oomp_footprint_iangitpers_manuf_taos_fn_2a72b9
+    oomp_key_simple: iangitpers_manuf_taos_fn
     original_filename: 4a/manuf.pretty/TAOS-FN.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_manuf_taos_fn
+  oomp_key_full: oomp_footprint_iangitpers_manuf_taos_fn
   oomp_key_simple: iangitpers_manuf_taos_fn
   owner: Iangitpers
   repo:

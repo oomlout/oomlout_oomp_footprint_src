@@ -18,9 +18,18 @@
   oomp:
     footprint_name: c_axial_l3_8mm_d2_6mm_p7_50mm_horizontal
     library_name: capacitor_tht
+    md5: 9fdff64f14dcd8d0ce5fc902d04466b5
+    md5_10: 9fdff64f14
+    md5_5: 9fdff
+    md5_6: 9fdff6
+    oomp_key: oomp_kicad_capacitor_tht_c_axial_l3_8mm_d2_6mm_p7_50mm_horizontal
+    oomp_key_extra: oomp_footprint_kicad_capacitor_tht_c_axial_l3_8mm_d2_6mm_p7_50mm_horizontal
+    oomp_key_full: oomp_footprint_kicad_capacitor_tht_c_axial_l3_8mm_d2_6mm_p7_50mm_horizontal_9fdff6
+    oomp_key_simple: kicad_capacitor_tht_c_axial_l3_8mm_d2_6mm_p7_50mm_horizontal
     original_filename: libraries/kicad-footprints/Capacitor_THT.pretty/C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_capacitor_tht_c_axial_l3_8mm_d2_6mm_p7_50mm_horizontal
+  oomp_key_full: oomp_footprint_kicad_capacitor_tht_c_axial_l3_8mm_d2_6mm_p7_50mm_horizontal
   oomp_key_simple: kicad_capacitor_tht_c_axial_l3_8mm_d2_6mm_p7_50mm_horizontal
   owner: kicad
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: pts525_sm15_smtr2_lfs
     library_name: xess
+    md5: 3f4a53ffe79cbbed5b5827f6bd95bc4e
+    md5_10: 3f4a53ffe7
+    md5_5: 3f4a5
+    md5_6: 3f4a53
+    oomp_key: oomp_xesscorp_xess_pts525_sm15_smtr2_lfs
+    oomp_key_extra: oomp_footprint_xesscorp_xess_pts525_sm15_smtr2_lfs
+    oomp_key_full: oomp_footprint_xesscorp_xess_pts525_sm15_smtr2_lfs_3f4a53
+    oomp_key_simple: xesscorp_xess_pts525_sm15_smtr2_lfs
     original_filename: xess.pretty/PTS525_SM15_SMTR2_LFS.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_pts525_sm15_smtr2_lfs
+  oomp_key_full: oomp_footprint_xesscorp_xess_pts525_sm15_smtr2_lfs
   oomp_key_simple: xesscorp_xess_pts525_sm15_smtr2_lfs
   owner: xesscorp
   repo:

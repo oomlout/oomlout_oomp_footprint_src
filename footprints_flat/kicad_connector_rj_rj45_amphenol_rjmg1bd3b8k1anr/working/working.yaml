@@ -18,9 +18,18 @@
   oomp:
     footprint_name: rj45_amphenol_rjmg1bd3b8k1anr
     library_name: connector_rj
+    md5: a759ca47ae2aa000f6e2de003bfeddcf
+    md5_10: a759ca47ae
+    md5_5: a759c
+    md5_6: a759ca
+    oomp_key: oomp_kicad_connector_rj_rj45_amphenol_rjmg1bd3b8k1anr
+    oomp_key_extra: oomp_footprint_kicad_connector_rj_rj45_amphenol_rjmg1bd3b8k1anr
+    oomp_key_full: oomp_footprint_kicad_connector_rj_rj45_amphenol_rjmg1bd3b8k1anr_a759ca
+    oomp_key_simple: kicad_connector_rj_rj45_amphenol_rjmg1bd3b8k1anr
     original_filename: libraries/kicad-footprints/Connector_RJ.pretty/RJ45_Amphenol_RJMG1BD3B8K1ANR.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_rj_rj45_amphenol_rjmg1bd3b8k1anr
+  oomp_key_full: oomp_footprint_kicad_connector_rj_rj45_amphenol_rjmg1bd3b8k1anr
   oomp_key_simple: kicad_connector_rj_rj45_amphenol_rjmg1bd3b8k1anr
   owner: kicad
   repo:

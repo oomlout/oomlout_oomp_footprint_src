@@ -19,9 +19,18 @@
   oomp:
     footprint_name: cp_eia_6032_28_kemet_c
     library_name: capacitor_tantalum_smd
+    md5: 3b824752cc4943e1d2f87ab6975a2640
+    md5_10: 3b824752cc
+    md5_5: 3b824
+    md5_6: 3b8247
+    oomp_key: oomp_kicad_capacitor_tantalum_smd_cp_eia_6032_28_kemet_c
+    oomp_key_extra: oomp_footprint_kicad_capacitor_tantalum_smd_cp_eia_6032_28_kemet_c
+    oomp_key_full: oomp_footprint_kicad_capacitor_tantalum_smd_cp_eia_6032_28_kemet_c_3b8247
+    oomp_key_simple: kicad_capacitor_tantalum_smd_cp_eia_6032_28_kemet_c
     original_filename: libraries/kicad-footprints/Capacitor_Tantalum_SMD.pretty/CP_EIA-6032-28_Kemet-C.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_capacitor_tantalum_smd_cp_eia_6032_28_kemet_c
+  oomp_key_full: oomp_footprint_kicad_capacitor_tantalum_smd_cp_eia_6032_28_kemet_c
   oomp_key_simple: kicad_capacitor_tantalum_smd_cp_eia_6032_28_kemet_c
   owner: kicad
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: b3fs_2pin
     library_name: mf_conn
+    md5: 739db598abb05864115cc341b53bf1ca
+    md5_10: 739db598ab
+    md5_5: 739db
+    md5_6: 739db5
+    oomp_key: oomp_marf41_mf_conn_b3fs_2pin
+    oomp_key_extra: oomp_footprint_marf41_mf_conn_b3fs_2pin
+    oomp_key_full: oomp_footprint_marf41_mf_conn_b3fs_2pin_739db5
+    oomp_key_simple: marf41_mf_conn_b3fs_2pin
     original_filename: MF-conn.pretty/B3FS-2pin.kicad_mod
     owner_name: marf41
   oomp_key: oomp_marf41_mf_conn_b3fs_2pin
+  oomp_key_full: oomp_footprint_marf41_mf_conn_b3fs_2pin
   oomp_key_simple: marf41_mf_conn_b3fs_2pin
   owner: marf41
   repo:

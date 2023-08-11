@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ssop08_5mm
     library_name: freetronics_footprints
+    md5: faee4ecc4cac6762ddcfbe5665ed31fa
+    md5_10: faee4ecc4c
+    md5_5: faee4
+    md5_6: faee4e
+    oomp_key: oomp_joanthespark_freetronics_footprints_ssop08_5mm
+    oomp_key_extra: oomp_footprint_joanthespark_freetronics_footprints_ssop08_5mm
+    oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_ssop08_5mm_faee4e
+    oomp_key_simple: joanthespark_freetronics_footprints_ssop08_5mm
     original_filename: KiCAD/mods/freetronics_footprints.pretty/SSOP08_5mm.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_freetronics_footprints_ssop08_5mm
+  oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_ssop08_5mm
   oomp_key_simple: joanthespark_freetronics_footprints_ssop08_5mm
   owner: JoanTheSpark
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sot_143b
     library_name: keebio_parts
+    md5: e7c9e12e6dac2d21c2948b2e506eb879
+    md5_10: e7c9e12e6d
+    md5_5: e7c9e
+    md5_6: e7c9e1
+    oomp_key: oomp_keebio_keebio_parts_sot_143b
+    oomp_key_extra: oomp_footprint_keebio_keebio_parts_sot_143b
+    oomp_key_full: oomp_footprint_keebio_keebio_parts_sot_143b_e7c9e1
+    oomp_key_simple: keebio_keebio_parts_sot_143b
     original_filename: Keebio-Parts.pretty/SOT-143B.kicad_mod
     owner_name: keebio
   oomp_key: oomp_keebio_keebio_parts_sot_143b
+  oomp_key_full: oomp_footprint_keebio_keebio_parts_sot_143b
   oomp_key_simple: keebio_keebio_parts_sot_143b
   owner: keebio
   repo:

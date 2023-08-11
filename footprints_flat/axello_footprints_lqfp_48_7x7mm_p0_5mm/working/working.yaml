@@ -18,9 +18,18 @@
   oomp:
     footprint_name: lqfp_48_7x7mm_p0_5mm
     library_name: footprints
+    md5: a74e03defe221e2d49451fe5087a300c
+    md5_10: a74e03defe
+    md5_5: a74e0
+    md5_6: a74e03
+    oomp_key: oomp_axello_footprints_lqfp_48_7x7mm_p0_5mm
+    oomp_key_extra: oomp_footprint_axello_footprints_lqfp_48_7x7mm_p0_5mm
+    oomp_key_full: oomp_footprint_axello_footprints_lqfp_48_7x7mm_p0_5mm_a74e03
+    oomp_key_simple: axello_footprints_lqfp_48_7x7mm_p0_5mm
     original_filename: kicad/demos/stickhub/footprints.pretty/LQFP-48_7x7mm_P0.5mm.kicad_mod
     owner_name: axello
   oomp_key: oomp_axello_footprints_lqfp_48_7x7mm_p0_5mm
+  oomp_key_full: oomp_footprint_axello_footprints_lqfp_48_7x7mm_p0_5mm
   oomp_key_simple: axello_footprints_lqfp_48_7x7mm_p0_5mm
   owner: axello
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: d3_smd_v2_silk
     library_name: tahutech
+    md5: ba56f3bbf456a39d22dd6bc5726966ca
+    md5_10: ba56f3bbf4
+    md5_5: ba56f
+    md5_6: ba56f3
+    oomp_key: oomp_tahutech_tahutech_d3_smd_v2_silk
+    oomp_key_extra: oomp_footprint_tahutech_tahutech_d3_smd_v2_silk
+    oomp_key_full: oomp_footprint_tahutech_tahutech_d3_smd_v2_silk_ba56f3
+    oomp_key_simple: tahutech_tahutech_d3_smd_v2_silk
     original_filename: tahutech.pretty/D3_SMD_v2_silk.kicad_mod
     owner_name: tahutech
   oomp_key: oomp_tahutech_tahutech_d3_smd_v2_silk
+  oomp_key_full: oomp_footprint_tahutech_tahutech_d3_smd_v2_silk
   oomp_key_simple: tahutech_tahutech_d3_smd_v2_silk
   owner: TahuTech
   repo:

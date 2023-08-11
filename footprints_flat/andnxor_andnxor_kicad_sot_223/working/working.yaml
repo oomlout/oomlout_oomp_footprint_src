@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sot_223
     library_name: andnxor_kicad
+    md5: 1c2fb500b3c117e054fc1debfa503b49
+    md5_10: 1c2fb500b3
+    md5_5: 1c2fb
+    md5_6: 1c2fb5
+    oomp_key: oomp_andnxor_andnxor_kicad_sot_223
+    oomp_key_extra: oomp_footprint_andnxor_andnxor_kicad_sot_223
+    oomp_key_full: oomp_footprint_andnxor_andnxor_kicad_sot_223_1c2fb5
+    oomp_key_simple: andnxor_andnxor_kicad_sot_223
     original_filename: ANDnXOR-Kicad.pretty/SOT-223.kicad_mod
     owner_name: andnxor
   oomp_key: oomp_andnxor_andnxor_kicad_sot_223
+  oomp_key_full: oomp_footprint_andnxor_andnxor_kicad_sot_223
   oomp_key_simple: andnxor_andnxor_kicad_sot_223
   owner: ANDnXOR
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xmit
     library_name: rf
+    md5: 5792e33443c372b44f10338222283370
+    md5_10: 5792e33443
+    md5_5: 5792e
+    md5_6: 5792e3
+    oomp_key: oomp_joanthespark_rf_xmit
+    oomp_key_extra: oomp_footprint_joanthespark_rf_xmit
+    oomp_key_full: oomp_footprint_joanthespark_rf_xmit_5792e3
+    oomp_key_simple: joanthespark_rf_xmit
     original_filename: KiCAD/mods/RF.pretty/XMIT.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_rf_xmit
+  oomp_key_full: oomp_footprint_joanthespark_rf_xmit
   oomp_key_simple: joanthespark_rf_xmit
   owner: JoanTheSpark
   repo:

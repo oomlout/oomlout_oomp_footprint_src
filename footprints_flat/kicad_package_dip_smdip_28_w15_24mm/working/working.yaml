@@ -18,9 +18,18 @@
   oomp:
     footprint_name: smdip_28_w15_24mm
     library_name: package_dip
+    md5: 794c8d722df9dd0b9f192ca2da2a267f
+    md5_10: 794c8d722d
+    md5_5: 794c8
+    md5_6: 794c8d
+    oomp_key: oomp_kicad_package_dip_smdip_28_w15_24mm
+    oomp_key_extra: oomp_footprint_kicad_package_dip_smdip_28_w15_24mm
+    oomp_key_full: oomp_footprint_kicad_package_dip_smdip_28_w15_24mm_794c8d
+    oomp_key_simple: kicad_package_dip_smdip_28_w15_24mm
     original_filename: libraries/kicad-footprints/Package_DIP.pretty/SMDIP-28_W15.24mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_dip_smdip_28_w15_24mm
+  oomp_key_full: oomp_footprint_kicad_package_dip_smdip_28_w15_24mm
   oomp_key_simple: kicad_package_dip_smdip_28_w15_24mm
   owner: kicad
   repo:

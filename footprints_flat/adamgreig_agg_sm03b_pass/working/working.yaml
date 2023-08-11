@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sm03b_pass
     library_name: agg
+    md5: 9f4bd233d16f08c407a29039fbd56417
+    md5_10: 9f4bd233d1
+    md5_5: 9f4bd
+    md5_6: 9f4bd2
+    oomp_key: oomp_adamgreig_agg_sm03b_pass
+    oomp_key_extra: oomp_footprint_adamgreig_agg_sm03b_pass
+    oomp_key_full: oomp_footprint_adamgreig_agg_sm03b_pass_9f4bd2
+    oomp_key_simple: adamgreig_agg_sm03b_pass
     original_filename: agg-kicad/agg.pretty/SM03B-PASS.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_sm03b_pass
+  oomp_key_full: oomp_footprint_adamgreig_agg_sm03b_pass
   oomp_key_simple: adamgreig_agg_sm03b_pass
   owner: adamgreig
   repo:

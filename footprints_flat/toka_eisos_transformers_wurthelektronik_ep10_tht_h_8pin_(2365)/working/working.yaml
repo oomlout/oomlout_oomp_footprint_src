@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ep10_tht_h_8pin_(2365)
     library_name: transformers_wurthelektronik
+    md5: 3c3dd2994b36e56fb54f69a10f4e402c
+    md5_10: 3c3dd2994b
+    md5_5: 3c3dd
+    md5_6: 3c3dd2
+    oomp_key: oomp_toka_eisos_transformers_wurthelektronik_ep10_tht_h_8pin_(2365)
+    oomp_key_extra: oomp_footprint_toka_eisos_transformers_wurthelektronik_ep10_tht_h_8pin_(2365)
+    oomp_key_full: oomp_footprint_toka_eisos_transformers_wurthelektronik_ep10_tht_h_8pin_(2365)_3c3dd2
+    oomp_key_simple: toka_eisos_transformers_wurthelektronik_ep10_tht_h_8pin_(2365)
     original_filename: Transformers_WurthElektronik.pretty/EP10_THT_H_8PIN_(2365).kicad_mod
     owner_name: toka_eisos
   oomp_key: oomp_toka_eisos_transformers_wurthelektronik_ep10_tht_h_8pin_(2365)
+  oomp_key_full: oomp_footprint_toka_eisos_transformers_wurthelektronik_ep10_tht_h_8pin_(2365)
   oomp_key_simple: toka_eisos_transformers_wurthelektronik_ep10_tht_h_8pin_(2365)
   owner: toka-eisos
   repo:

@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: hdmi_a_female_2000_1_2_41_00_bk
-    library_name: source_footprints
+    library_name: hdmi_a_female_2000_1_2_41_00_bk_kicad_mod
+    md5: 19c7f509cd1d89883c76344a39357918
+    md5_10: 19c7f509cd
+    md5_5: 19c7f
+    md5_6: 19c7f5
+    oomp_key: oomp_digikey_hdmi_a_female_2000_1_2_41_00_bk_hdmi_a_female_2000_1_2_41_00_bk
+    oomp_key_extra: oomp_footprint_digikey_hdmi_a_female_2000_1_2_41_00_bk_hdmi_a_female_2000_1_2_41_00_bk
+    oomp_key_full: oomp_footprint_digikey_hdmi_a_female_2000_1_2_41_00_bk_hdmi_a_female_2000_1_2_41_00_bk_19c7f5
+    oomp_key_simple: digikey_hdmi_a_female_2000_1_2_41_00_bk_hdmi_a_female_2000_1_2_41_00_bk
     original_filename: digikey-kicad-library/src/Source_Footprints/HDMI_A_Female_2000-1-2-41-00-BK.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_hdmi_a_female_2000_1_2_41_00_bk_hdmi_a_female_2000_1_2_41_00_bk
+  oomp_key_full: oomp_footprint_digikey_hdmi_a_female_2000_1_2_41_00_bk_hdmi_a_female_2000_1_2_41_00_bk
   oomp_key_simple: digikey_hdmi_a_female_2000_1_2_41_00_bk_hdmi_a_female_2000_1_2_41_00_bk
   owner: digikey
   repo:

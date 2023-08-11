@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: dip_10_w10_16mm
-    library_name: source_footprints
+    library_name: dip_10_w10_16mm_kicad_mod
+    md5: c751b2de3c83024da915dd9fd7fd401b
+    md5_10: c751b2de3c
+    md5_5: c751b
+    md5_6: c751b2
+    oomp_key: oomp_digikey_dip_10_w10_16mm_dip_10_w10_16mm
+    oomp_key_extra: oomp_footprint_digikey_dip_10_w10_16mm_dip_10_w10_16mm
+    oomp_key_full: oomp_footprint_digikey_dip_10_w10_16mm_dip_10_w10_16mm_c751b2
+    oomp_key_simple: digikey_dip_10_w10_16mm_dip_10_w10_16mm
     original_filename: digikey-kicad-library/src/Source_Footprints/DIP-10_W10.16mm.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_dip_10_w10_16mm_dip_10_w10_16mm
+  oomp_key_full: oomp_footprint_digikey_dip_10_w10_16mm_dip_10_w10_16mm
   oomp_key_simple: digikey_dip_10_w10_16mm_dip_10_w10_16mm
   owner: digikey
   repo:

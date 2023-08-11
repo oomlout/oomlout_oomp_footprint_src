@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sop65p490x110_8
     library_name: ipc7351_most
+    md5: 821b4b9bab1f1fb31c233d65af39ed57
+    md5_10: 821b4b9bab
+    md5_5: 821b4
+    md5_6: 821b4b
+    oomp_key: oomp_cpavlina_ipc7351_most_sop65p490x110_8
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_most_sop65p490x110_8
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_most_sop65p490x110_8_821b4b
+    oomp_key_simple: cpavlina_ipc7351_most_sop65p490x110_8
     original_filename: kicad-pcblib/IPC7351-Most.pretty/SOP65P490X110-8.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_most_sop65p490x110_8
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_most_sop65p490x110_8
   oomp_key_simple: cpavlina_ipc7351_most_sop65p490x110_8
   owner: cpavlina
   repo:

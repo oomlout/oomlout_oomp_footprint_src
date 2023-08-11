@@ -17,9 +17,18 @@
   oomp:
     footprint_name: crystal_32khz_smd
     library_name: freetronics_footprints
+    md5: 76d34b774414fa66198ba0a038a67a5b
+    md5_10: 76d34b7744
+    md5_5: 76d34
+    md5_6: 76d34b
+    oomp_key: oomp_joanthespark_freetronics_footprints_crystal_32khz_smd
+    oomp_key_extra: oomp_footprint_joanthespark_freetronics_footprints_crystal_32khz_smd
+    oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_crystal_32khz_smd_76d34b
+    oomp_key_simple: joanthespark_freetronics_footprints_crystal_32khz_smd
     original_filename: KiCAD/mods/freetronics_footprints.pretty/CRYSTAL-32KHZ-SMD.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_freetronics_footprints_crystal_32khz_smd
+  oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_crystal_32khz_smd
   oomp_key_simple: joanthespark_freetronics_footprints_crystal_32khz_smd
   owner: JoanTheSpark
   repo:

@@ -18,9 +18,18 @@
   oomp:
     footprint_name: dip_18_w7_62mm
     library_name: package_dip
+    md5: 5be278dfe81e361ee701888ade4a17e2
+    md5_10: 5be278dfe8
+    md5_5: 5be27
+    md5_6: 5be278
+    oomp_key: oomp_kicad_package_dip_dip_18_w7_62mm
+    oomp_key_extra: oomp_footprint_kicad_package_dip_dip_18_w7_62mm
+    oomp_key_full: oomp_footprint_kicad_package_dip_dip_18_w7_62mm_5be278
+    oomp_key_simple: kicad_package_dip_dip_18_w7_62mm
     original_filename: libraries/kicad-footprints/Package_DIP.pretty/DIP-18_W7.62mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_dip_dip_18_w7_62mm
+  oomp_key_full: oomp_footprint_kicad_package_dip_dip_18_w7_62mm
   oomp_key_simple: kicad_package_dip_dip_18_w7_62mm
   owner: kicad
   repo:

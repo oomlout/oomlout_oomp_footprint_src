@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sierra_xa11x0
     library_name: rf_gps
+    md5: e7a9bf22351b9a971e5d143fc0a5993c
+    md5_10: e7a9bf2235
+    md5_5: e7a9b
+    md5_6: e7a9bf
+    oomp_key: oomp_kicad_rf_gps_sierra_xa11x0
+    oomp_key_extra: oomp_footprint_kicad_rf_gps_sierra_xa11x0
+    oomp_key_full: oomp_footprint_kicad_rf_gps_sierra_xa11x0_e7a9bf
+    oomp_key_simple: kicad_rf_gps_sierra_xa11x0
     original_filename: libraries/kicad-footprints/RF_GPS.pretty/Sierra_XA11X0.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_rf_gps_sierra_xa11x0
+  oomp_key_full: oomp_footprint_kicad_rf_gps_sierra_xa11x0
   oomp_key_simple: kicad_rf_gps_sierra_xa11x0
   owner: kicad
   repo:

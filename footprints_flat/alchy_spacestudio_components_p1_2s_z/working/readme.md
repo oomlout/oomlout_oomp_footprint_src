@@ -19,8 +19,9 @@ Please consult that link for additional, details, files, and license information
 | github_path | http://github.com/alchy/spacestudio_components.pretty/blob/master/P1-2S-Z.kicad_mod |  
 | links | {'github_src': 'http://gitlab.com/alchy/spacestudio_components.pretty/blob/master/trimmer_alps-rk09k1130ah1.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/alchy_spacestudio_components_p1_2s_z/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/alchy_spacestudio_components_p1_2s_z/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/alchy_spacestudio_components_p1_2s_z/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/alchy_spacestudio_components_p1_2s_z/working'} |  
 | name | spacestudio_components.pretty |  
-| oomp | {'footprint_name': 'p1_2s_z', 'library_name': 'spacestudio_components', 'original_filename': 'spacestudio_components.pretty/P1-2S-Z.kicad_mod', 'owner_name': 'alchy'} |  
+| oomp | {'footprint_name': 'p1_2s_z', 'library_name': 'spacestudio_components', 'md5': 'c12ccb1125102b6cd760b8a2853426ef', 'md5_10': 'c12ccb1125', 'md5_5': 'c12cc', 'md5_6': 'c12ccb', 'oomp_key': 'oomp_alchy_spacestudio_components_p1_2s_z', 'oomp_key_extra': 'oomp_footprint_alchy_spacestudio_components_p1_2s_z', 'oomp_key_full': 'oomp_footprint_alchy_spacestudio_components_p1_2s_z_c12ccb', 'oomp_key_simple': 'alchy_spacestudio_components_p1_2s_z', 'original_filename': 'spacestudio_components.pretty/P1-2S-Z.kicad_mod', 'owner_name': 'alchy'} |  
 | oomp_key | oomp_alchy_spacestudio_components_p1_2s_z |  
+| oomp_key_full | oomp_footprint_alchy_spacestudio_components_p1_2s_z |  
 | oomp_key_simple | alchy_spacestudio_components_p1_2s_z |  
 | owner | alchy |  
 | repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  

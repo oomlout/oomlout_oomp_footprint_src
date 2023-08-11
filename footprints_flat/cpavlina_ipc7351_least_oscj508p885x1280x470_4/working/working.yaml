@@ -17,9 +17,18 @@
   oomp:
     footprint_name: oscj508p885x1280x470_4
     library_name: ipc7351_least
+    md5: 2ad66cbfd9015d891c15a058b87799b0
+    md5_10: 2ad66cbfd9
+    md5_5: 2ad66
+    md5_6: 2ad66c
+    oomp_key: oomp_cpavlina_ipc7351_least_oscj508p885x1280x470_4
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_least_oscj508p885x1280x470_4
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_least_oscj508p885x1280x470_4_2ad66c
+    oomp_key_simple: cpavlina_ipc7351_least_oscj508p885x1280x470_4
     original_filename: kicad-pcblib/IPC7351-Least.pretty/OSCJ508P885X1280X470-4.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_least_oscj508p885x1280x470_4
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_least_oscj508p885x1280x470_4
   oomp_key_simple: cpavlina_ipc7351_least_oscj508p885x1280x470_4
   owner: cpavlina
   repo:

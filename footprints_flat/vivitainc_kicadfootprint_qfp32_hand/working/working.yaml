@@ -17,9 +17,18 @@
   oomp:
     footprint_name: qfp32_hand
     library_name: kicadfootprint
+    md5: 2505c06451874bd5dc9848c0c1bb6c0a
+    md5_10: 2505c06451
+    md5_5: 2505c
+    md5_6: 2505c0
+    oomp_key: oomp_vivitainc_kicadfootprint_qfp32_hand
+    oomp_key_extra: oomp_footprint_vivitainc_kicadfootprint_qfp32_hand
+    oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_qfp32_hand_2505c0
+    oomp_key_simple: vivitainc_kicadfootprint_qfp32_hand
     original_filename: KiCADfootprint.pretty/QFP32_hand.kicad_mod
     owner_name: vivitainc
   oomp_key: oomp_vivitainc_kicadfootprint_qfp32_hand
+  oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_qfp32_hand
   oomp_key_simple: vivitainc_kicadfootprint_qfp32_hand
   owner: vivitainc
   repo:

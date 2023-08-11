@@ -17,9 +17,18 @@
   oomp:
     footprint_name: bluetooth_module_rn4677_vrm100
     library_name: digikey_footprints
+    md5: 6c6e373d87a10e913c16e22c84de429f
+    md5_10: 6c6e373d87
+    md5_5: 6c6e3
+    md5_6: 6c6e37
+    oomp_key: oomp_digikey_digikey_footprints_bluetooth_module_rn4677_vrm100
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_bluetooth_module_rn4677_vrm100
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_bluetooth_module_rn4677_vrm100_6c6e37
+    oomp_key_simple: digikey_digikey_footprints_bluetooth_module_rn4677_vrm100
     original_filename: digikey-kicad-library/digikey-footprints.pretty/Bluetooth_Module_RN4677-VRM100.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_bluetooth_module_rn4677_vrm100
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_bluetooth_module_rn4677_vrm100
   oomp_key_simple: digikey_digikey_footprints_bluetooth_module_rn4677_vrm100
   owner: digikey
   repo:

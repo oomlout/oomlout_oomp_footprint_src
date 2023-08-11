@@ -17,9 +17,18 @@
   oomp:
     footprint_name: do_214ab_smc
     library_name: apex
+    md5: b080ceae9bb3cde51fdedc9d54ba5a7d
+    md5_10: b080ceae9b
+    md5_5: b080c
+    md5_6: b080ce
+    oomp_key: oomp_apexelectrix_apex_do_214ab_smc
+    oomp_key_extra: oomp_footprint_apexelectrix_apex_do_214ab_smc
+    oomp_key_full: oomp_footprint_apexelectrix_apex_do_214ab_smc_b080ce
+    oomp_key_simple: apexelectrix_apex_do_214ab_smc
     original_filename: Apex.pretty/DO-214AB_SMC.kicad_mod
     owner_name: apexelectrix
   oomp_key: oomp_apexelectrix_apex_do_214ab_smc
+  oomp_key_full: oomp_footprint_apexelectrix_apex_do_214ab_smc
   oomp_key_simple: apexelectrix_apex_do_214ab_smc
   owner: apexelectrix
   repo:

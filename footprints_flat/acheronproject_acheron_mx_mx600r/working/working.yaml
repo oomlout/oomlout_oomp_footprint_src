@@ -17,9 +17,18 @@
   oomp:
     footprint_name: mx600r
     library_name: acheron_mx
+    md5: 73833eef1ae1aa2fd1bb9f8a1d2ad167
+    md5_10: 73833eef1a
+    md5_5: '73833'
+    md5_6: 73833e
+    oomp_key: oomp_acheronproject_acheron_mx_mx600r
+    oomp_key_extra: oomp_footprint_acheronproject_acheron_mx_mx600r
+    oomp_key_full: oomp_footprint_acheronproject_acheron_mx_mx600r_73833e
+    oomp_key_simple: acheronproject_acheron_mx_mx600r
     original_filename: acheron_MX.pretty/MX600R.kicad_mod
     owner_name: acheronproject
   oomp_key: oomp_acheronproject_acheron_mx_mx600r
+  oomp_key_full: oomp_footprint_acheronproject_acheron_mx_mx600r
   oomp_key_simple: acheronproject_acheron_mx_mx600r
   owner: AcheronProject
   repo:

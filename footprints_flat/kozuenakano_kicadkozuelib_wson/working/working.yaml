@@ -17,9 +17,18 @@
   oomp:
     footprint_name: wson
     library_name: kicadkozuelib
+    md5: c78d2a764aaeb4d6b52db1f57fd022db
+    md5_10: c78d2a764a
+    md5_5: c78d2
+    md5_6: c78d2a
+    oomp_key: oomp_kozuenakano_kicadkozuelib_wson
+    oomp_key_extra: oomp_footprint_kozuenakano_kicadkozuelib_wson
+    oomp_key_full: oomp_footprint_kozuenakano_kicadkozuelib_wson_c78d2a
+    oomp_key_simple: kozuenakano_kicadkozuelib_wson
     original_filename: KiCADKozueLib.pretty/WSON.kicad_mod
     owner_name: kozuenakano
   oomp_key: oomp_kozuenakano_kicadkozuelib_wson
+  oomp_key_full: oomp_footprint_kozuenakano_kicadkozuelib_wson
   oomp_key_simple: kozuenakano_kicadkozuelib_wson
   owner: KozueNakano
   repo:

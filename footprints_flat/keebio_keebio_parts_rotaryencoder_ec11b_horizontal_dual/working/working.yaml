@@ -17,9 +17,18 @@
   oomp:
     footprint_name: rotaryencoder_ec11b_horizontal_dual
     library_name: keebio_parts
+    md5: f9b37d2440a708c8fc266b3370e7f178
+    md5_10: f9b37d2440
+    md5_5: f9b37
+    md5_6: f9b37d
+    oomp_key: oomp_keebio_keebio_parts_rotaryencoder_ec11b_horizontal_dual
+    oomp_key_extra: oomp_footprint_keebio_keebio_parts_rotaryencoder_ec11b_horizontal_dual
+    oomp_key_full: oomp_footprint_keebio_keebio_parts_rotaryencoder_ec11b_horizontal_dual_f9b37d
+    oomp_key_simple: keebio_keebio_parts_rotaryencoder_ec11b_horizontal_dual
     original_filename: Keebio-Parts.pretty/RotaryEncoder_EC11B-Horizontal-Dual.kicad_mod
     owner_name: keebio
   oomp_key: oomp_keebio_keebio_parts_rotaryencoder_ec11b_horizontal_dual
+  oomp_key_full: oomp_footprint_keebio_keebio_parts_rotaryencoder_ec11b_horizontal_dual
   oomp_key_simple: keebio_keebio_parts_rotaryencoder_ec11b_horizontal_dual
   owner: keebio
   repo:

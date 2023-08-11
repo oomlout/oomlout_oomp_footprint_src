@@ -17,9 +17,18 @@
   oomp:
     footprint_name: breakout_8x2_w12_7mm
     library_name: xess
+    md5: b1a22a9a04b84eeda70814eecae661e7
+    md5_10: b1a22a9a04
+    md5_5: b1a22
+    md5_6: b1a22a
+    oomp_key: oomp_xesscorp_xess_breakout_8x2_w12_7mm
+    oomp_key_extra: oomp_footprint_xesscorp_xess_breakout_8x2_w12_7mm
+    oomp_key_full: oomp_footprint_xesscorp_xess_breakout_8x2_w12_7mm_b1a22a
+    oomp_key_simple: xesscorp_xess_breakout_8x2_w12_7mm
     original_filename: xess.pretty/Breakout-8x2-W12.7mm.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_breakout_8x2_w12_7mm
+  oomp_key_full: oomp_footprint_xesscorp_xess_breakout_8x2_w12_7mm
   oomp_key_simple: xesscorp_xess_breakout_8x2_w12_7mm
   owner: xesscorp
   repo:

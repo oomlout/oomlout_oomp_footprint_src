@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ba3aapc
     library_name: kicadfootprint
+    md5: 43b3a1048cbc01b7b3bf30c67cd6c38a
+    md5_10: 43b3a1048c
+    md5_5: 43b3a
+    md5_6: 43b3a1
+    oomp_key: oomp_vivitainc_kicadfootprint_ba3aapc
+    oomp_key_extra: oomp_footprint_vivitainc_kicadfootprint_ba3aapc
+    oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_ba3aapc_43b3a1
+    oomp_key_simple: vivitainc_kicadfootprint_ba3aapc
     original_filename: KiCADfootprint.pretty/BA3AAPC.kicad_mod
     owner_name: vivitainc
   oomp_key: oomp_vivitainc_kicadfootprint_ba3aapc
+  oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_ba3aapc
   oomp_key_simple: vivitainc_kicadfootprint_ba3aapc
   owner: vivitainc
   repo:

@@ -19,9 +19,18 @@
   oomp:
     footprint_name: mountinghole_2_2mm_m2_pad_topbottom
     library_name: mountinghole
+    md5: 1e6f290c325334397bb43482079ef9ea
+    md5_10: 1e6f290c32
+    md5_5: 1e6f2
+    md5_6: 1e6f29
+    oomp_key: oomp_iangitpers_mountinghole_mountinghole_2_2mm_m2_pad_topbottom
+    oomp_key_extra: oomp_footprint_iangitpers_mountinghole_mountinghole_2_2mm_m2_pad_topbottom
+    oomp_key_full: oomp_footprint_iangitpers_mountinghole_mountinghole_2_2mm_m2_pad_topbottom_1e6f29
+    oomp_key_simple: iangitpers_mountinghole_mountinghole_2_2mm_m2_pad_topbottom
     original_filename: 4a/MountingHole.pretty/MountingHole_2.2mm_M2_Pad_TopBottom.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_mountinghole_mountinghole_2_2mm_m2_pad_topbottom
+  oomp_key_full: oomp_footprint_iangitpers_mountinghole_mountinghole_2_2mm_m2_pad_topbottom
   oomp_key_simple: iangitpers_mountinghole_mountinghole_2_2mm_m2_pad_topbottom
   owner: Iangitpers
   repo:

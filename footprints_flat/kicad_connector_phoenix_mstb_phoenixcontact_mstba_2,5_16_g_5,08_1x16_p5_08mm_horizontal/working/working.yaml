@@ -18,9 +18,18 @@
   oomp:
     footprint_name: phoenixcontact_mstba_2,5_16_g_5,08_1x16_p5_08mm_horizontal
     library_name: connector_phoenix_mstb
+    md5: e0d1c849c66c02e7688fd218db842c10
+    md5_10: e0d1c849c6
+    md5_5: e0d1c
+    md5_6: e0d1c8
+    oomp_key: oomp_kicad_connector_phoenix_mstb_phoenixcontact_mstba_2,5_16_g_5,08_1x16_p5_08mm_horizontal
+    oomp_key_extra: oomp_footprint_kicad_connector_phoenix_mstb_phoenixcontact_mstba_2,5_16_g_5,08_1x16_p5_08mm_horizontal
+    oomp_key_full: oomp_footprint_kicad_connector_phoenix_mstb_phoenixcontact_mstba_2,5_16_g_5,08_1x16_p5_08mm_horizontal_e0d1c8
+    oomp_key_simple: kicad_connector_phoenix_mstb_phoenixcontact_mstba_2,5_16_g_5,08_1x16_p5_08mm_horizontal
     original_filename: libraries/kicad-footprints/Connector_Phoenix_MSTB.pretty/PhoenixContact_MSTBA_2,5_16-G-5,08_1x16_P5.08mm_Horizontal.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_phoenix_mstb_phoenixcontact_mstba_2,5_16_g_5,08_1x16_p5_08mm_horizontal
+  oomp_key_full: oomp_footprint_kicad_connector_phoenix_mstb_phoenixcontact_mstba_2,5_16_g_5,08_1x16_p5_08mm_horizontal
   oomp_key_simple: kicad_connector_phoenix_mstb_phoenixcontact_mstba_2,5_16_g_5,08_1x16_p5_08mm_horizontal
   owner: kicad
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: soic16n
     library_name: kicad
+    md5: e80143ee16147112823957c3f287725a
+    md5_10: e80143ee16
+    md5_5: e8014
+    md5_6: e80143
+    oomp_key: oomp_kubix89_kicad_soic16n
+    oomp_key_extra: oomp_footprint_kubix89_kicad_soic16n
+    oomp_key_full: oomp_footprint_kubix89_kicad_soic16n_e80143
+    oomp_key_simple: kubix89_kicad_soic16n
     original_filename: kiCAD.pretty/SOIC16N.kicad_mod
     owner_name: kubix89
   oomp_key: oomp_kubix89_kicad_soic16n
+  oomp_key_full: oomp_footprint_kubix89_kicad_soic16n
   oomp_key_simple: kubix89_kicad_soic16n
   owner: kubiX89
   repo:

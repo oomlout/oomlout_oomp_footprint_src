@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_hdf15h
     library_name: xess
+    md5: 5e3458abe9258b182a70f9f7c6bf6dab
+    md5_10: 5e3458abe9
+    md5_5: 5e345
+    md5_6: 5e3458
+    oomp_key: oomp_xesscorp_xess_xess_hdf15h
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_hdf15h
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_hdf15h_5e3458
+    oomp_key_simple: xesscorp_xess_xess_hdf15h
     original_filename: xess.pretty/xess-HDF15H.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_hdf15h
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_hdf15h
   oomp_key_simple: xesscorp_xess_xess_hdf15h
   owner: xesscorp
   repo:

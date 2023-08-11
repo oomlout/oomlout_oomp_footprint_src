@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ws2812b_4020
     library_name: keebio_parts
+    md5: 2558d9dcc96b7989a34ab3df8c75590b
+    md5_10: 2558d9dcc9
+    md5_5: 2558d
+    md5_6: 2558d9
+    oomp_key: oomp_keebio_keebio_parts_ws2812b_4020
+    oomp_key_extra: oomp_footprint_keebio_keebio_parts_ws2812b_4020
+    oomp_key_full: oomp_footprint_keebio_keebio_parts_ws2812b_4020_2558d9
+    oomp_key_simple: keebio_keebio_parts_ws2812b_4020
     original_filename: Keebio-Parts.pretty/WS2812B-4020.kicad_mod
     owner_name: keebio
   oomp_key: oomp_keebio_keebio_parts_ws2812b_4020
+  oomp_key_full: oomp_footprint_keebio_keebio_parts_ws2812b_4020
   oomp_key_simple: keebio_keebio_parts_ws2812b_4020
   owner: keebio
   repo:

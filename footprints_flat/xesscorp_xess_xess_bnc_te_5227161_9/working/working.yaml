@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_bnc_te_5227161_9
     library_name: xess
+    md5: 73790fe3b942bba1f0601612e9d11ae6
+    md5_10: 73790fe3b9
+    md5_5: '73790'
+    md5_6: 73790f
+    oomp_key: oomp_xesscorp_xess_xess_bnc_te_5227161_9
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_bnc_te_5227161_9
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_bnc_te_5227161_9_73790f
+    oomp_key_simple: xesscorp_xess_xess_bnc_te_5227161_9
     original_filename: xess.pretty/xess-BNC-TE-5227161-9.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_bnc_te_5227161_9
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_bnc_te_5227161_9
   oomp_key_simple: xesscorp_xess_xess_bnc_te_5227161_9
   owner: xesscorp
   repo:

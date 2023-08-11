@@ -18,9 +18,18 @@
   oomp:
     footprint_name: molex_pico_clasp_202396_0507_1x05_1mp_p1_00mm_horizontal
     library_name: connector_molex
+    md5: e97e0f60a2ee4ec0aded2d6ffc0fce0a
+    md5_10: e97e0f60a2
+    md5_5: e97e0
+    md5_6: e97e0f
+    oomp_key: oomp_kicad_connector_molex_molex_pico_clasp_202396_0507_1x05_1mp_p1_00mm_horizontal
+    oomp_key_extra: oomp_footprint_kicad_connector_molex_molex_pico_clasp_202396_0507_1x05_1mp_p1_00mm_horizontal
+    oomp_key_full: oomp_footprint_kicad_connector_molex_molex_pico_clasp_202396_0507_1x05_1mp_p1_00mm_horizontal_e97e0f
+    oomp_key_simple: kicad_connector_molex_molex_pico_clasp_202396_0507_1x05_1mp_p1_00mm_horizontal
     original_filename: libraries/kicad-footprints/Connector_Molex.pretty/Molex_Pico-Clasp_202396-0507_1x05-1MP_P1.00mm_Horizontal.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_molex_molex_pico_clasp_202396_0507_1x05_1mp_p1_00mm_horizontal
+  oomp_key_full: oomp_footprint_kicad_connector_molex_molex_pico_clasp_202396_0507_1x05_1mp_p1_00mm_horizontal
   oomp_key_simple: kicad_connector_molex_molex_pico_clasp_202396_0507_1x05_1mp_p1_00mm_horizontal
   owner: kicad
   repo:

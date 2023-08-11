@@ -17,9 +17,18 @@
   oomp:
     footprint_name: adafruit_feather_32u4_fona
     library_name: module
+    md5: f79aae6b2c7a1ed6ce6d1a0e970ecf1e
+    md5_10: f79aae6b2c
+    md5_5: f79aa
+    md5_6: f79aae
+    oomp_key: oomp_kicad_module_adafruit_feather_32u4_fona
+    oomp_key_extra: oomp_footprint_kicad_module_adafruit_feather_32u4_fona
+    oomp_key_full: oomp_footprint_kicad_module_adafruit_feather_32u4_fona_f79aae
+    oomp_key_simple: kicad_module_adafruit_feather_32u4_fona
     original_filename: libraries/kicad-footprints/Module.pretty/Adafruit_Feather_32u4_FONA.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_module_adafruit_feather_32u4_fona
+  oomp_key_full: oomp_footprint_kicad_module_adafruit_feather_32u4_fona
   oomp_key_simple: kicad_module_adafruit_feather_32u4_fona
   owner: kicad
   repo:

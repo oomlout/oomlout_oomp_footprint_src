@@ -17,9 +17,18 @@
   oomp:
     footprint_name: mountinghole_3mm_pad_via
     library_name: mountinghole
+    md5: 540873ab10ef2d662f85b7aa9e2c1132
+    md5_10: 540873ab10
+    md5_5: '54087'
+    md5_6: '540873'
+    oomp_key: oomp_kicad_mountinghole_mountinghole_3mm_pad_via
+    oomp_key_extra: oomp_footprint_kicad_mountinghole_mountinghole_3mm_pad_via
+    oomp_key_full: oomp_footprint_kicad_mountinghole_mountinghole_3mm_pad_via_540873
+    oomp_key_simple: kicad_mountinghole_mountinghole_3mm_pad_via
     original_filename: libraries/kicad-footprints/MountingHole.pretty/MountingHole_3mm_Pad_Via.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_mountinghole_mountinghole_3mm_pad_via
+  oomp_key_full: oomp_footprint_kicad_mountinghole_mountinghole_3mm_pad_via
   oomp_key_simple: kicad_mountinghole_mountinghole_3mm_pad_via
   owner: kicad
   repo:

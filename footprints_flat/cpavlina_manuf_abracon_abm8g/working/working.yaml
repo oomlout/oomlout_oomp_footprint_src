@@ -17,9 +17,18 @@
   oomp:
     footprint_name: abracon_abm8g
     library_name: manuf
+    md5: 3b5d1267b390e4243c7003f53be7b2a0
+    md5_10: 3b5d1267b3
+    md5_5: 3b5d1
+    md5_6: 3b5d12
+    oomp_key: oomp_cpavlina_manuf_abracon_abm8g
+    oomp_key_extra: oomp_footprint_cpavlina_manuf_abracon_abm8g
+    oomp_key_full: oomp_footprint_cpavlina_manuf_abracon_abm8g_3b5d12
+    oomp_key_simple: cpavlina_manuf_abracon_abm8g
     original_filename: kicad-pcblib/manuf.pretty/ABRACON-ABM8G.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_manuf_abracon_abm8g
+  oomp_key_full: oomp_footprint_cpavlina_manuf_abracon_abm8g
   oomp_key_simple: cpavlina_manuf_abracon_abm8g
   owner: cpavlina
   repo:

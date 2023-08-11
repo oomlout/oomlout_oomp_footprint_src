@@ -17,9 +17,18 @@
   oomp:
     footprint_name: usb_micro_b_female_vert_1051330001
     library_name: digikey_footprints
+    md5: 2c80ad6e7ab01dcdacfb5ffaff0feef6
+    md5_10: 2c80ad6e7a
+    md5_5: 2c80a
+    md5_6: 2c80ad
+    oomp_key: oomp_digikey_digikey_footprints_usb_micro_b_female_vert_1051330001
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_usb_micro_b_female_vert_1051330001
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_usb_micro_b_female_vert_1051330001_2c80ad
+    oomp_key_simple: digikey_digikey_footprints_usb_micro_b_female_vert_1051330001
     original_filename: digikey-kicad-library/digikey-footprints.pretty/USB_Micro_B_Female_Vert_1051330001.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_usb_micro_b_female_vert_1051330001
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_usb_micro_b_female_vert_1051330001
   oomp_key_simple: digikey_digikey_footprints_usb_micro_b_female_vert_1051330001
   owner: digikey
   repo:

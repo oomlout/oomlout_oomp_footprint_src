@@ -17,9 +17,18 @@
   oomp:
     footprint_name: to_220_fet_gds_vertical
     library_name: fujimoto
+    md5: 8cd69c51003f9be3dec7e5155777a57e
+    md5_10: 8cd69c5100
+    md5_5: 8cd69
+    md5_6: 8cd69c
+    oomp_key: oomp_kujimoto_fujimoto_to_220_fet_gds_vertical
+    oomp_key_extra: oomp_footprint_kujimoto_fujimoto_to_220_fet_gds_vertical
+    oomp_key_full: oomp_footprint_kujimoto_fujimoto_to_220_fet_gds_vertical_8cd69c
+    oomp_key_simple: kujimoto_fujimoto_to_220_fet_gds_vertical
     original_filename: fujimoto.pretty/TO-220_FET-GDS_Vertical.kicad_mod
     owner_name: kujimoto
   oomp_key: oomp_kujimoto_fujimoto_to_220_fet_gds_vertical
+  oomp_key_full: oomp_footprint_kujimoto_fujimoto_to_220_fet_gds_vertical
   oomp_key_simple: kujimoto_fujimoto_to_220_fet_gds_vertical
   owner: Kujimoto
   repo:

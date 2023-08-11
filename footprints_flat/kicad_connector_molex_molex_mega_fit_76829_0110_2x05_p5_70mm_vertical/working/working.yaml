@@ -19,9 +19,18 @@
   oomp:
     footprint_name: molex_mega_fit_76829_0110_2x05_p5_70mm_vertical
     library_name: connector_molex
+    md5: cee01b603a015ce10e7ef2e504b3661f
+    md5_10: cee01b603a
+    md5_5: cee01
+    md5_6: cee01b
+    oomp_key: oomp_kicad_connector_molex_molex_mega_fit_76829_0110_2x05_p5_70mm_vertical
+    oomp_key_extra: oomp_footprint_kicad_connector_molex_molex_mega_fit_76829_0110_2x05_p5_70mm_vertical
+    oomp_key_full: oomp_footprint_kicad_connector_molex_molex_mega_fit_76829_0110_2x05_p5_70mm_vertical_cee01b
+    oomp_key_simple: kicad_connector_molex_molex_mega_fit_76829_0110_2x05_p5_70mm_vertical
     original_filename: libraries/kicad-footprints/Connector_Molex.pretty/Molex_Mega-Fit_76829-0110_2x05_P5.70mm_Vertical.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_molex_molex_mega_fit_76829_0110_2x05_p5_70mm_vertical
+  oomp_key_full: oomp_footprint_kicad_connector_molex_molex_mega_fit_76829_0110_2x05_p5_70mm_vertical
   oomp_key_simple: kicad_connector_molex_molex_mega_fit_76829_0110_2x05_p5_70mm_vertical
   owner: kicad
   repo:

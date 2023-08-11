@@ -17,9 +17,18 @@
   oomp:
     footprint_name: logo_freetronics_8mm
     library_name: freetronics_footprints
+    md5: 3a9b4bc4ee6ac8b26cff8d96bd3d9e3b
+    md5_10: 3a9b4bc4ee
+    md5_5: 3a9b4
+    md5_6: 3a9b4b
+    oomp_key: oomp_joanthespark_freetronics_footprints_logo_freetronics_8mm
+    oomp_key_extra: oomp_footprint_joanthespark_freetronics_footprints_logo_freetronics_8mm
+    oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_logo_freetronics_8mm_3a9b4b
+    oomp_key_simple: joanthespark_freetronics_footprints_logo_freetronics_8mm
     original_filename: KiCAD/mods/freetronics_footprints.pretty/LOGO_FREETRONICS_8MM.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_freetronics_footprints_logo_freetronics_8mm
+  oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_logo_freetronics_8mm
   oomp_key_simple: joanthespark_freetronics_footprints_logo_freetronics_8mm
   owner: JoanTheSpark
   repo:

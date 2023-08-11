@@ -17,9 +17,18 @@
   oomp:
     footprint_name: slabs_wb_soic_16
     library_name: kicadfootprint
+    md5: c48a7d58e367a1ec28226dc65d07206c
+    md5_10: c48a7d58e3
+    md5_5: c48a7
+    md5_6: c48a7d
+    oomp_key: oomp_vivitainc_kicadfootprint_slabs_wb_soic_16
+    oomp_key_extra: oomp_footprint_vivitainc_kicadfootprint_slabs_wb_soic_16
+    oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_slabs_wb_soic_16_c48a7d
+    oomp_key_simple: vivitainc_kicadfootprint_slabs_wb_soic_16
     original_filename: KiCADfootprint.pretty/Slabs_WB-SOIC-16.kicad_mod
     owner_name: vivitainc
   oomp_key: oomp_vivitainc_kicadfootprint_slabs_wb_soic_16
+  oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_slabs_wb_soic_16
   oomp_key_simple: vivitainc_kicadfootprint_slabs_wb_soic_16
   owner: vivitainc
   repo:

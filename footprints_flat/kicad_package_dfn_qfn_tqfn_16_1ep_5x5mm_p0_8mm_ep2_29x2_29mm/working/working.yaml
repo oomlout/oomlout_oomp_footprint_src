@@ -18,9 +18,18 @@
   oomp:
     footprint_name: tqfn_16_1ep_5x5mm_p0_8mm_ep2_29x2_29mm
     library_name: package_dfn_qfn
+    md5: 60a8930140875077c725437621f5e753
+    md5_10: 60a8930140
+    md5_5: 60a89
+    md5_6: 60a893
+    oomp_key: oomp_kicad_package_dfn_qfn_tqfn_16_1ep_5x5mm_p0_8mm_ep2_29x2_29mm
+    oomp_key_extra: oomp_footprint_kicad_package_dfn_qfn_tqfn_16_1ep_5x5mm_p0_8mm_ep2_29x2_29mm
+    oomp_key_full: oomp_footprint_kicad_package_dfn_qfn_tqfn_16_1ep_5x5mm_p0_8mm_ep2_29x2_29mm_60a893
+    oomp_key_simple: kicad_package_dfn_qfn_tqfn_16_1ep_5x5mm_p0_8mm_ep2_29x2_29mm
     original_filename: libraries/kicad-footprints/Package_DFN_QFN.pretty/TQFN-16-1EP_5x5mm_P0.8mm_EP2.29x2.29mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_dfn_qfn_tqfn_16_1ep_5x5mm_p0_8mm_ep2_29x2_29mm
+  oomp_key_full: oomp_footprint_kicad_package_dfn_qfn_tqfn_16_1ep_5x5mm_p0_8mm_ep2_29x2_29mm
   oomp_key_simple: kicad_package_dfn_qfn_tqfn_16_1ep_5x5mm_p0_8mm_ep2_29x2_29mm
   owner: kicad
   repo:

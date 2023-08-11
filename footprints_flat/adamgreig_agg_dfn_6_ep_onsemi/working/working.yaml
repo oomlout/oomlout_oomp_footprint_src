@@ -17,9 +17,18 @@
   oomp:
     footprint_name: dfn_6_ep_onsemi
     library_name: agg
+    md5: 6d3f88856a16ecf8ef14ded2786803f6
+    md5_10: 6d3f88856a
+    md5_5: 6d3f8
+    md5_6: 6d3f88
+    oomp_key: oomp_adamgreig_agg_dfn_6_ep_onsemi
+    oomp_key_extra: oomp_footprint_adamgreig_agg_dfn_6_ep_onsemi
+    oomp_key_full: oomp_footprint_adamgreig_agg_dfn_6_ep_onsemi_6d3f88
+    oomp_key_simple: adamgreig_agg_dfn_6_ep_onsemi
     original_filename: agg-kicad/agg.pretty/DFN-6-EP-ONSEMI.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_dfn_6_ep_onsemi
+  oomp_key_full: oomp_footprint_adamgreig_agg_dfn_6_ep_onsemi
   oomp_key_simple: adamgreig_agg_dfn_6_ep_onsemi
   owner: adamgreig
   repo:

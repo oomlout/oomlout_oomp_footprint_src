@@ -17,9 +17,18 @@
   oomp:
     footprint_name: eswitch_tl1105
     library_name: manuf
+    md5: 3ef5176bef95163f070941a36abeff7c
+    md5_10: 3ef5176bef
+    md5_5: 3ef51
+    md5_6: 3ef517
+    oomp_key: oomp_cpavlina_manuf_eswitch_tl1105
+    oomp_key_extra: oomp_footprint_cpavlina_manuf_eswitch_tl1105
+    oomp_key_full: oomp_footprint_cpavlina_manuf_eswitch_tl1105_3ef517
+    oomp_key_simple: cpavlina_manuf_eswitch_tl1105
     original_filename: kicad-pcblib/manuf.pretty/ESWITCH-TL1105.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_manuf_eswitch_tl1105
+  oomp_key_full: oomp_footprint_cpavlina_manuf_eswitch_tl1105
   oomp_key_simple: cpavlina_manuf_eswitch_tl1105
   owner: cpavlina
   repo:

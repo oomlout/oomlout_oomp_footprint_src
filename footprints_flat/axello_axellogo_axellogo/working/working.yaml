@@ -16,10 +16,19 @@
   name: kicad
   oomp:
     footprint_name: axellogo
-    library_name: mods
+    library_name: axellogo_kicad_mod
+    md5: 9cee6a8905ffd947ca54dac00b50a71f
+    md5_10: 9cee6a8905
+    md5_5: 9cee6
+    md5_6: 9cee6a
+    oomp_key: oomp_axello_axellogo_axellogo
+    oomp_key_extra: oomp_footprint_axello_axellogo_axellogo
+    oomp_key_full: oomp_footprint_axello_axellogo_axellogo_9cee6a
+    oomp_key_simple: axello_axellogo_axellogo
     original_filename: kicad/mods/axellogo.kicad_mod
     owner_name: axello
   oomp_key: oomp_axello_axellogo_axellogo
+  oomp_key_full: oomp_footprint_axello_axellogo_axellogo
   oomp_key_simple: axello_axellogo_axellogo
   owner: axello
   repo:

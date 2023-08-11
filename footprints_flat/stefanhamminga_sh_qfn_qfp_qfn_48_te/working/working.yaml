@@ -17,9 +17,18 @@
   oomp:
     footprint_name: qfn_48_te
     library_name: sh_qfn_qfp
+    md5: bb4867172e80fffaf6708149bb68ab8d
+    md5_10: bb4867172e
+    md5_5: bb486
+    md5_6: bb4867
+    oomp_key: oomp_stefanhamminga_sh_qfn_qfp_qfn_48_te
+    oomp_key_extra: oomp_footprint_stefanhamminga_sh_qfn_qfp_qfn_48_te
+    oomp_key_full: oomp_footprint_stefanhamminga_sh_qfn_qfp_qfn_48_te_bb4867
+    oomp_key_simple: stefanhamminga_sh_qfn_qfp_qfn_48_te
     original_filename: SH_QFN_QFP.pretty/QFN-48-TE.kicad_mod
     owner_name: stefanhamminga
   oomp_key: oomp_stefanhamminga_sh_qfn_qfp_qfn_48_te
+  oomp_key_full: oomp_footprint_stefanhamminga_sh_qfn_qfp_qfn_48_te
   oomp_key_simple: stefanhamminga_sh_qfn_qfp_qfn_48_te
   owner: StefanHamminga
   repo:

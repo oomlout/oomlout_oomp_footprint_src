@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sw_cherry_mx_plate_1_25u
     library_name: switch_keyboard_cherry_mx
+    md5: ba14202e0f5cf76190c2c115e16ae42d
+    md5_10: ba14202e0f
+    md5_5: ba142
+    md5_6: ba1420
+    oomp_key: oomp_axello_switch_keyboard_cherry_mx_sw_cherry_mx_plate_1_25u
+    oomp_key_extra: oomp_footprint_axello_switch_keyboard_cherry_mx_sw_cherry_mx_plate_1_25u
+    oomp_key_full: oomp_footprint_axello_switch_keyboard_cherry_mx_sw_cherry_mx_plate_1_25u_ba1420
+    oomp_key_simple: axello_switch_keyboard_cherry_mx_sw_cherry_mx_plate_1_25u
     original_filename: kicad/6.0/3rdparty/footprints/com_github_perigoso_keyswitch-kicad-library/Switch_Keyboard_Cherry_MX.pretty/SW_Cherry_MX_Plate_1.25u.kicad_mod
     owner_name: axello
   oomp_key: oomp_axello_switch_keyboard_cherry_mx_sw_cherry_mx_plate_1_25u
+  oomp_key_full: oomp_footprint_axello_switch_keyboard_cherry_mx_sw_cherry_mx_plate_1_25u
   oomp_key_simple: axello_switch_keyboard_cherry_mx_sw_cherry_mx_plate_1_25u
   owner: axello
   repo:

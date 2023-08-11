@@ -14,9 +14,18 @@
   oomp:
     footprint_name: tic234a
     library_name: avp
+    md5: 5daf9559dd400a1a8e33307ca3da510e
+    md5_10: 5daf9559dd
+    md5_5: 5daf9
+    md5_6: 5daf95
+    oomp_key: oomp_av_p_avp_tic234a
+    oomp_key_extra: oomp_footprint_av_p_avp_tic234a
+    oomp_key_full: oomp_footprint_av_p_avp_tic234a_5daf95
+    oomp_key_simple: av_p_avp_tic234a
     original_filename: Avp.pretty/TIC234A.kicad_mod
     owner_name: av_p
   oomp_key: oomp_av_p_avp_tic234a
+  oomp_key_full: oomp_footprint_av_p_avp_tic234a
   oomp_key_simple: av_p_avp_tic234a
   owner: av-p
   repo:

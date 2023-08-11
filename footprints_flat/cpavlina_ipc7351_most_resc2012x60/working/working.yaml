@@ -17,9 +17,18 @@
   oomp:
     footprint_name: resc2012x60
     library_name: ipc7351_most
+    md5: a6237a1d2f7a901e22656619bc81a77e
+    md5_10: a6237a1d2f
+    md5_5: a6237
+    md5_6: a6237a
+    oomp_key: oomp_cpavlina_ipc7351_most_resc2012x60
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_most_resc2012x60
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_most_resc2012x60_a6237a
+    oomp_key_simple: cpavlina_ipc7351_most_resc2012x60
     original_filename: kicad-pcblib/IPC7351-Most.pretty/RESC2012X60.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_most_resc2012x60
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_most_resc2012x60
   oomp_key_simple: cpavlina_ipc7351_most_resc2012x60
   owner: cpavlina
   repo:

@@ -16,10 +16,19 @@
   name: agg-kicad
   oomp:
     footprint_name: er_oledm024_2
-    library_name: unchecked
+    library_name: agg
+    md5: efcba461bafa6b7476c701d07c02c4c8
+    md5_10: efcba461ba
+    md5_5: efcba
+    md5_6: efcba4
+    oomp_key: oomp_adamgreig_agg_er_oledm024_2
+    oomp_key_extra: oomp_footprint_adamgreig_agg_er_oledm024_2
+    oomp_key_full: oomp_footprint_adamgreig_agg_er_oledm024_2_efcba4
+    oomp_key_simple: adamgreig_agg_er_oledm024_2
     original_filename: agg-kicad/agg.pretty/unchecked.pretty/ER-OLEDM024-2.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_er_oledm024_2
+  oomp_key_full: oomp_footprint_adamgreig_agg_er_oledm024_2
   oomp_key_simple: adamgreig_agg_er_oledm024_2
   owner: adamgreig
   repo:

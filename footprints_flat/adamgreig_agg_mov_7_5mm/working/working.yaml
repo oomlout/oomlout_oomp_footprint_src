@@ -17,9 +17,18 @@
   oomp:
     footprint_name: mov_7_5mm
     library_name: agg
+    md5: a5411ea69a3601c052d466b571e16eaf
+    md5_10: a5411ea69a
+    md5_5: a5411
+    md5_6: a5411e
+    oomp_key: oomp_adamgreig_agg_mov_7_5mm
+    oomp_key_extra: oomp_footprint_adamgreig_agg_mov_7_5mm
+    oomp_key_full: oomp_footprint_adamgreig_agg_mov_7_5mm_a5411e
+    oomp_key_simple: adamgreig_agg_mov_7_5mm
     original_filename: agg-kicad/agg.pretty/MOV_7.5mm.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_mov_7_5mm
+  oomp_key_full: oomp_footprint_adamgreig_agg_mov_7_5mm
   oomp_key_simple: adamgreig_agg_mov_7_5mm
   owner: adamgreig
   repo:

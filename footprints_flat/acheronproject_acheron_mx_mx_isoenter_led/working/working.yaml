@@ -17,9 +17,18 @@
   oomp:
     footprint_name: mx_isoenter_led
     library_name: acheron_mx
+    md5: e9af1e9fdc3c52288b8d7b627121df17
+    md5_10: e9af1e9fdc
+    md5_5: e9af1
+    md5_6: e9af1e
+    oomp_key: oomp_acheronproject_acheron_mx_mx_isoenter_led
+    oomp_key_extra: oomp_footprint_acheronproject_acheron_mx_mx_isoenter_led
+    oomp_key_full: oomp_footprint_acheronproject_acheron_mx_mx_isoenter_led_e9af1e
+    oomp_key_simple: acheronproject_acheron_mx_mx_isoenter_led
     original_filename: acheron_MX.pretty/MX_ISOEnter_LED.kicad_mod
     owner_name: acheronproject
   oomp_key: oomp_acheronproject_acheron_mx_mx_isoenter_led
+  oomp_key_full: oomp_footprint_acheronproject_acheron_mx_mx_isoenter_led
   oomp_key_simple: acheronproject_acheron_mx_mx_isoenter_led
   owner: AcheronProject
   repo:

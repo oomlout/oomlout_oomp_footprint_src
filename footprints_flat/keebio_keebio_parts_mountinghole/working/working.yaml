@@ -17,9 +17,18 @@
   oomp:
     footprint_name: mountinghole
     library_name: keebio_parts
+    md5: e807092c68b59b9d82b3f76be4f3b34a
+    md5_10: e807092c68
+    md5_5: e8070
+    md5_6: e80709
+    oomp_key: oomp_keebio_keebio_parts_mountinghole
+    oomp_key_extra: oomp_footprint_keebio_keebio_parts_mountinghole
+    oomp_key_full: oomp_footprint_keebio_keebio_parts_mountinghole_e80709
+    oomp_key_simple: keebio_keebio_parts_mountinghole
     original_filename: Keebio-Parts.pretty/MountingHole.kicad_mod
     owner_name: keebio
   oomp_key: oomp_keebio_keebio_parts_mountinghole
+  oomp_key_full: oomp_footprint_keebio_keebio_parts_mountinghole
   oomp_key_simple: keebio_keebio_parts_mountinghole
   owner: keebio
   repo:

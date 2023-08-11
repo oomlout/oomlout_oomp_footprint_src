@@ -17,9 +17,18 @@
   oomp:
     footprint_name: r_1206
     library_name: apex_smd_resistors
+    md5: 8ddbcc66c01b50e20935681fd9f84289
+    md5_10: 8ddbcc66c0
+    md5_5: 8ddbc
+    md5_6: 8ddbcc
+    oomp_key: oomp_apexelectrix_apex_smd_resistors_r_1206
+    oomp_key_extra: oomp_footprint_apexelectrix_apex_smd_resistors_r_1206
+    oomp_key_full: oomp_footprint_apexelectrix_apex_smd_resistors_r_1206_8ddbcc
+    oomp_key_simple: apexelectrix_apex_smd_resistors_r_1206
     original_filename: apex-smd-resistors.pretty/R_1206.kicad_mod
     owner_name: apexelectrix
   oomp_key: oomp_apexelectrix_apex_smd_resistors_r_1206
+  oomp_key_full: oomp_footprint_apexelectrix_apex_smd_resistors_r_1206
   oomp_key_simple: apexelectrix_apex_smd_resistors_r_1206
   owner: apexelectrix
   repo:

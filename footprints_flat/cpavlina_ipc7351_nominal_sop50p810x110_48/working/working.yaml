@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sop50p810x110_48
     library_name: ipc7351_nominal
+    md5: 02eec40fe8c18d830f2a99066c3095cb
+    md5_10: 02eec40fe8
+    md5_5: 02eec
+    md5_6: 02eec4
+    oomp_key: oomp_cpavlina_ipc7351_nominal_sop50p810x110_48
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_nominal_sop50p810x110_48
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_sop50p810x110_48_02eec4
+    oomp_key_simple: cpavlina_ipc7351_nominal_sop50p810x110_48
     original_filename: kicad-pcblib/IPC7351-Nominal.pretty/SOP50P810X110-48.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_nominal_sop50p810x110_48
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_sop50p810x110_48
   oomp_key_simple: cpavlina_ipc7351_nominal_sop50p810x110_48
   owner: cpavlina
   repo:

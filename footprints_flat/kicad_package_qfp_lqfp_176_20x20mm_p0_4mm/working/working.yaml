@@ -18,9 +18,18 @@
   oomp:
     footprint_name: lqfp_176_20x20mm_p0_4mm
     library_name: package_qfp
+    md5: 0e7d7390eaa6cda66f2fdbfded4e63e9
+    md5_10: 0e7d7390ea
+    md5_5: 0e7d7
+    md5_6: 0e7d73
+    oomp_key: oomp_kicad_package_qfp_lqfp_176_20x20mm_p0_4mm
+    oomp_key_extra: oomp_footprint_kicad_package_qfp_lqfp_176_20x20mm_p0_4mm
+    oomp_key_full: oomp_footprint_kicad_package_qfp_lqfp_176_20x20mm_p0_4mm_0e7d73
+    oomp_key_simple: kicad_package_qfp_lqfp_176_20x20mm_p0_4mm
     original_filename: libraries/kicad-footprints/Package_QFP.pretty/LQFP-176_20x20mm_P0.4mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_qfp_lqfp_176_20x20mm_p0_4mm
+  oomp_key_full: oomp_footprint_kicad_package_qfp_lqfp_176_20x20mm_p0_4mm
   oomp_key_simple: kicad_package_qfp_lqfp_176_20x20mm_p0_4mm
   owner: kicad
   repo:

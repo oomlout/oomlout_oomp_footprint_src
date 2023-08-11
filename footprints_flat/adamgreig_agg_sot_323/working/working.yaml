@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sot_323
     library_name: agg
+    md5: 9b1a7020e14de12c853a8ecc6a3245d1
+    md5_10: 9b1a7020e1
+    md5_5: 9b1a7
+    md5_6: 9b1a70
+    oomp_key: oomp_adamgreig_agg_sot_323
+    oomp_key_extra: oomp_footprint_adamgreig_agg_sot_323
+    oomp_key_full: oomp_footprint_adamgreig_agg_sot_323_9b1a70
+    oomp_key_simple: adamgreig_agg_sot_323
     original_filename: agg-kicad/agg.pretty/SOT-323.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_sot_323
+  oomp_key_full: oomp_footprint_adamgreig_agg_sot_323
   oomp_key_simple: adamgreig_agg_sot_323
   owner: adamgreig
   repo:

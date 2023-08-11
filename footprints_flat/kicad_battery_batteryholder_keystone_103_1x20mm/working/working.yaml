@@ -17,9 +17,18 @@
   oomp:
     footprint_name: batteryholder_keystone_103_1x20mm
     library_name: battery
+    md5: d1ca55d99ce0939459e8398fb406151d
+    md5_10: d1ca55d99c
+    md5_5: d1ca5
+    md5_6: d1ca55
+    oomp_key: oomp_kicad_battery_batteryholder_keystone_103_1x20mm
+    oomp_key_extra: oomp_footprint_kicad_battery_batteryholder_keystone_103_1x20mm
+    oomp_key_full: oomp_footprint_kicad_battery_batteryholder_keystone_103_1x20mm_d1ca55
+    oomp_key_simple: kicad_battery_batteryholder_keystone_103_1x20mm
     original_filename: libraries/kicad-footprints/Battery.pretty/BatteryHolder_Keystone_103_1x20mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_battery_batteryholder_keystone_103_1x20mm
+  oomp_key_full: oomp_footprint_kicad_battery_batteryholder_keystone_103_1x20mm
   oomp_key_simple: kicad_battery_batteryholder_keystone_103_1x20mm
   owner: kicad
   repo:

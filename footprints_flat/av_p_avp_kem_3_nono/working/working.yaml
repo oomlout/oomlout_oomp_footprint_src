@@ -17,9 +17,18 @@
   oomp:
     footprint_name: kem_3_nono
     library_name: avp
+    md5: 0523edb5d6613cdacce1836742541dd1
+    md5_10: 0523edb5d6
+    md5_5: 0523e
+    md5_6: 0523ed
+    oomp_key: oomp_av_p_avp_kem_3_nono
+    oomp_key_extra: oomp_footprint_av_p_avp_kem_3_nono
+    oomp_key_full: oomp_footprint_av_p_avp_kem_3_nono_0523ed
+    oomp_key_simple: av_p_avp_kem_3_nono
     original_filename: Avp.pretty/KEM-3-noNO.kicad_mod
     owner_name: av_p
   oomp_key: oomp_av_p_avp_kem_3_nono
+  oomp_key_full: oomp_footprint_av_p_avp_kem_3_nono
   oomp_key_simple: av_p_avp_kem_3_nono
   owner: av-p
   repo:

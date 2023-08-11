@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ledc3216x130
     library_name: ipc7351_least
+    md5: aa8938bfdf4cad51bb07a876bd3c64c8
+    md5_10: aa8938bfdf
+    md5_5: aa893
+    md5_6: aa8938
+    oomp_key: oomp_cpavlina_ipc7351_least_ledc3216x130
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_least_ledc3216x130
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_least_ledc3216x130_aa8938
+    oomp_key_simple: cpavlina_ipc7351_least_ledc3216x130
     original_filename: kicad-pcblib/IPC7351-Least.pretty/LEDC3216X130.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_least_ledc3216x130
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_least_ledc3216x130
   oomp_key_simple: cpavlina_ipc7351_least_ledc3216x130
   owner: cpavlina
   repo:

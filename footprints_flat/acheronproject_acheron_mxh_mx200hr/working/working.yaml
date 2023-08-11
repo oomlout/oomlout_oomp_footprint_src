@@ -17,9 +17,18 @@
   oomp:
     footprint_name: mx200hr
     library_name: acheron_mxh
+    md5: 7b769ed25df972007d8f8a998084629b
+    md5_10: 7b769ed25d
+    md5_5: 7b769
+    md5_6: 7b769e
+    oomp_key: oomp_acheronproject_acheron_mxh_mx200hr
+    oomp_key_extra: oomp_footprint_acheronproject_acheron_mxh_mx200hr
+    oomp_key_full: oomp_footprint_acheronproject_acheron_mxh_mx200hr_7b769e
+    oomp_key_simple: acheronproject_acheron_mxh_mx200hr
     original_filename: acheron_MXH.pretty/MX200HR.kicad_mod
     owner_name: acheronproject
   oomp_key: oomp_acheronproject_acheron_mxh_mx200hr
+  oomp_key_full: oomp_footprint_acheronproject_acheron_mxh_mx200hr
   oomp_key_simple: acheronproject_acheron_mxh_mx200hr
   owner: AcheronProject
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sot_23_3
     library_name: 1wire_v0_4
+    md5: 70c0090c7410e5668b666efa09a86abd
+    md5_10: 70c0090c74
+    md5_5: 70c00
+    md5_6: 70c009
+    oomp_key: oomp_axello_1wire_v0_4_sot_23_3
+    oomp_key_extra: oomp_footprint_axello_1wire_v0_4_sot_23_3
+    oomp_key_full: oomp_footprint_axello_1wire_v0_4_sot_23_3_70c009
+    oomp_key_simple: axello_1wire_v0_4_sot_23_3
     original_filename: kicad/6.0/projects/1w-grove-v0.1/1wire-v0.4.pretty/SOT-23-3.kicad_mod
     owner_name: axello
   oomp_key: oomp_axello_1wire_v0_4_sot_23_3
+  oomp_key_full: oomp_footprint_axello_1wire_v0_4_sot_23_3
   oomp_key_simple: axello_1wire_v0_4_sot_23_3
   owner: axello
   repo:

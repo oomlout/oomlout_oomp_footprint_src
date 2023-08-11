@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xula_io_hdr
     library_name: xess
+    md5: 1e76856e4b848a7bfa1a7e6b39b55c6c
+    md5_10: 1e76856e4b
+    md5_5: 1e768
+    md5_6: 1e7685
+    oomp_key: oomp_xesscorp_xess_xula_io_hdr
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xula_io_hdr
+    oomp_key_full: oomp_footprint_xesscorp_xess_xula_io_hdr_1e7685
+    oomp_key_simple: xesscorp_xess_xula_io_hdr
     original_filename: xess.pretty/XuLA_IO_Hdr.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xula_io_hdr
+  oomp_key_full: oomp_footprint_xesscorp_xess_xula_io_hdr
   oomp_key_simple: xesscorp_xess_xula_io_hdr
   owner: xesscorp
   repo:

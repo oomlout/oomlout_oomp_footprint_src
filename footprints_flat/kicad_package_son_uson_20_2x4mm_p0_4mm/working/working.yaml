@@ -17,9 +17,18 @@
   oomp:
     footprint_name: uson_20_2x4mm_p0_4mm
     library_name: package_son
+    md5: 571b31183be982147f1e67de40b18e21
+    md5_10: 571b31183b
+    md5_5: 571b3
+    md5_6: 571b31
+    oomp_key: oomp_kicad_package_son_uson_20_2x4mm_p0_4mm
+    oomp_key_extra: oomp_footprint_kicad_package_son_uson_20_2x4mm_p0_4mm
+    oomp_key_full: oomp_footprint_kicad_package_son_uson_20_2x4mm_p0_4mm_571b31
+    oomp_key_simple: kicad_package_son_uson_20_2x4mm_p0_4mm
     original_filename: libraries/kicad-footprints/Package_SON.pretty/USON-20_2x4mm_P0.4mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_son_uson_20_2x4mm_p0_4mm
+  oomp_key_full: oomp_footprint_kicad_package_son_uson_20_2x4mm_p0_4mm
   oomp_key_simple: kicad_package_son_uson_20_2x4mm_p0_4mm
   owner: kicad
   repo:

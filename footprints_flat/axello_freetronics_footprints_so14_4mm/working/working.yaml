@@ -17,9 +17,18 @@
   oomp:
     footprint_name: so14_4mm
     library_name: freetronics_footprints
+    md5: e9505c12405522a1e56df43e9451bcec
+    md5_10: e9505c1240
+    md5_5: e9505
+    md5_6: e9505c
+    oomp_key: oomp_axello_freetronics_footprints_so14_4mm
+    oomp_key_extra: oomp_footprint_axello_freetronics_footprints_so14_4mm
+    oomp_key_full: oomp_footprint_axello_freetronics_footprints_so14_4mm_e9505c
+    oomp_key_simple: axello_freetronics_footprints_so14_4mm
     original_filename: kicad/mods/freetronics_footprints.pretty/SO14_4mm.kicad_mod
     owner_name: axello
   oomp_key: oomp_axello_freetronics_footprints_so14_4mm
+  oomp_key_full: oomp_footprint_axello_freetronics_footprints_so14_4mm
   oomp_key_simple: axello_freetronics_footprints_so14_4mm
   owner: axello
   repo:

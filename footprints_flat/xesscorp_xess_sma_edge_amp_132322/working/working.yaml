@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sma_edge_amp_132322
     library_name: xess
+    md5: 46d6e6fadb5e115e9f3428307d1737e9
+    md5_10: 46d6e6fadb
+    md5_5: 46d6e
+    md5_6: 46d6e6
+    oomp_key: oomp_xesscorp_xess_sma_edge_amp_132322
+    oomp_key_extra: oomp_footprint_xesscorp_xess_sma_edge_amp_132322
+    oomp_key_full: oomp_footprint_xesscorp_xess_sma_edge_amp_132322_46d6e6
+    oomp_key_simple: xesscorp_xess_sma_edge_amp_132322
     original_filename: xess.pretty/SMA_EDGE_AMP_132322.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_sma_edge_amp_132322
+  oomp_key_full: oomp_footprint_xesscorp_xess_sma_edge_amp_132322
   oomp_key_simple: xesscorp_xess_sma_edge_amp_132322
   owner: xesscorp
   repo:

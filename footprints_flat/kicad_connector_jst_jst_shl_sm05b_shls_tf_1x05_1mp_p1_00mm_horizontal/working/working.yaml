@@ -18,9 +18,18 @@
   oomp:
     footprint_name: jst_shl_sm05b_shls_tf_1x05_1mp_p1_00mm_horizontal
     library_name: connector_jst
+    md5: e7cdb6726abbaca8ef924e9e9c02f6ad
+    md5_10: e7cdb6726a
+    md5_5: e7cdb
+    md5_6: e7cdb6
+    oomp_key: oomp_kicad_connector_jst_jst_shl_sm05b_shls_tf_1x05_1mp_p1_00mm_horizontal
+    oomp_key_extra: oomp_footprint_kicad_connector_jst_jst_shl_sm05b_shls_tf_1x05_1mp_p1_00mm_horizontal
+    oomp_key_full: oomp_footprint_kicad_connector_jst_jst_shl_sm05b_shls_tf_1x05_1mp_p1_00mm_horizontal_e7cdb6
+    oomp_key_simple: kicad_connector_jst_jst_shl_sm05b_shls_tf_1x05_1mp_p1_00mm_horizontal
     original_filename: libraries/kicad-footprints/Connector_JST.pretty/JST_SHL_SM05B-SHLS-TF_1x05-1MP_P1.00mm_Horizontal.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_jst_jst_shl_sm05b_shls_tf_1x05_1mp_p1_00mm_horizontal
+  oomp_key_full: oomp_footprint_kicad_connector_jst_jst_shl_sm05b_shls_tf_1x05_1mp_p1_00mm_horizontal
   oomp_key_simple: kicad_connector_jst_jst_shl_sm05b_shls_tf_1x05_1mp_p1_00mm_horizontal
   owner: kicad
   repo:

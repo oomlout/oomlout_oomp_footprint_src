@@ -17,9 +17,18 @@
   oomp:
     footprint_name: symbol_esd_logo_coppertop
     library_name: symbol
+    md5: 087fd12a6fb61d30d0d63cb5e83fb589
+    md5_10: 087fd12a6f
+    md5_5: 087fd
+    md5_6: 087fd1
+    oomp_key: oomp_kicad_symbol_symbol_esd_logo_coppertop
+    oomp_key_extra: oomp_footprint_kicad_symbol_symbol_esd_logo_coppertop
+    oomp_key_full: oomp_footprint_kicad_symbol_symbol_esd_logo_coppertop_087fd1
+    oomp_key_simple: kicad_symbol_symbol_esd_logo_coppertop
     original_filename: libraries/kicad-footprints/Symbol.pretty/Symbol_ESD-Logo_CopperTop.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_symbol_symbol_esd_logo_coppertop
+  oomp_key_full: oomp_footprint_kicad_symbol_symbol_esd_logo_coppertop
   oomp_key_simple: kicad_symbol_symbol_esd_logo_coppertop
   owner: kicad
   repo:

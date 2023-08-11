@@ -18,9 +18,18 @@
   oomp:
     footprint_name: uqfn_16_1ep_4x4mm_p0_65mm_ep2_7x2_7mm
     library_name: package_dfn_qfn
+    md5: 61adebc45a884cf25ea8b38331ad0353
+    md5_10: 61adebc45a
+    md5_5: 61ade
+    md5_6: 61adeb
+    oomp_key: oomp_kicad_package_dfn_qfn_uqfn_16_1ep_4x4mm_p0_65mm_ep2_7x2_7mm
+    oomp_key_extra: oomp_footprint_kicad_package_dfn_qfn_uqfn_16_1ep_4x4mm_p0_65mm_ep2_7x2_7mm
+    oomp_key_full: oomp_footprint_kicad_package_dfn_qfn_uqfn_16_1ep_4x4mm_p0_65mm_ep2_7x2_7mm_61adeb
+    oomp_key_simple: kicad_package_dfn_qfn_uqfn_16_1ep_4x4mm_p0_65mm_ep2_7x2_7mm
     original_filename: libraries/kicad-footprints/Package_DFN_QFN.pretty/UQFN-16-1EP_4x4mm_P0.65mm_EP2.7x2.7mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_dfn_qfn_uqfn_16_1ep_4x4mm_p0_65mm_ep2_7x2_7mm
+  oomp_key_full: oomp_footprint_kicad_package_dfn_qfn_uqfn_16_1ep_4x4mm_p0_65mm_ep2_7x2_7mm
   oomp_key_simple: kicad_package_dfn_qfn_uqfn_16_1ep_4x4mm_p0_65mm_ep2_7x2_7mm
   owner: kicad
   repo:

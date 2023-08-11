@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sm200
     library_name: lab6_lib
+    md5: 1be17dbfb5de2bf60df0a9beb374cbf7
+    md5_10: 1be17dbfb5
+    md5_5: 1be17
+    md5_6: 1be17d
+    oomp_key: oomp_lab6_ifma_lab6_lib_sm200
+    oomp_key_extra: oomp_footprint_lab6_ifma_lab6_lib_sm200
+    oomp_key_full: oomp_footprint_lab6_ifma_lab6_lib_sm200_1be17d
+    oomp_key_simple: lab6_ifma_lab6_lib_sm200
     original_filename: LAB6-LIB.pretty/SM200.kicad_mod
     owner_name: lab6_ifma
   oomp_key: oomp_lab6_ifma_lab6_lib_sm200
+  oomp_key_full: oomp_footprint_lab6_ifma_lab6_lib_sm200
   oomp_key_simple: lab6_ifma_lab6_lib_sm200
   owner: lab6-ifma
   repo:

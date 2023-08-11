@@ -18,9 +18,18 @@
   oomp:
     footprint_name: cp_radial_d13_0mm_p5_00mm
     library_name: capacitor_tht
+    md5: d385ab3042c4c73e186501086c19e31b
+    md5_10: d385ab3042
+    md5_5: d385a
+    md5_6: d385ab
+    oomp_key: oomp_kicad_capacitor_tht_cp_radial_d13_0mm_p5_00mm
+    oomp_key_extra: oomp_footprint_kicad_capacitor_tht_cp_radial_d13_0mm_p5_00mm
+    oomp_key_full: oomp_footprint_kicad_capacitor_tht_cp_radial_d13_0mm_p5_00mm_d385ab
+    oomp_key_simple: kicad_capacitor_tht_cp_radial_d13_0mm_p5_00mm
     original_filename: libraries/kicad-footprints/Capacitor_THT.pretty/CP_Radial_D13.0mm_P5.00mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_capacitor_tht_cp_radial_d13_0mm_p5_00mm
+  oomp_key_full: oomp_footprint_kicad_capacitor_tht_cp_radial_d13_0mm_p5_00mm
   oomp_key_simple: kicad_capacitor_tht_cp_radial_d13_0mm_p5_00mm
   owner: kicad
   repo:

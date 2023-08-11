@@ -17,9 +17,18 @@
   oomp:
     footprint_name: mountinghole_2_7mm_pad_via
     library_name: mountinghole
+    md5: 471fdbb822af79ccb2e475588634aaad
+    md5_10: 471fdbb822
+    md5_5: 471fd
+    md5_6: 471fdb
+    oomp_key: oomp_kicad_mountinghole_mountinghole_2_7mm_pad_via
+    oomp_key_extra: oomp_footprint_kicad_mountinghole_mountinghole_2_7mm_pad_via
+    oomp_key_full: oomp_footprint_kicad_mountinghole_mountinghole_2_7mm_pad_via_471fdb
+    oomp_key_simple: kicad_mountinghole_mountinghole_2_7mm_pad_via
     original_filename: libraries/kicad-footprints/MountingHole.pretty/MountingHole_2.7mm_Pad_Via.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_mountinghole_mountinghole_2_7mm_pad_via
+  oomp_key_full: oomp_footprint_kicad_mountinghole_mountinghole_2_7mm_pad_via
   oomp_key_simple: kicad_mountinghole_mountinghole_2_7mm_pad_via
   owner: kicad
   repo:

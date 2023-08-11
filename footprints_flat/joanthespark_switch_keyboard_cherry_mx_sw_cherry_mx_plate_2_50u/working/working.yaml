@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sw_cherry_mx_plate_2_50u
     library_name: switch_keyboard_cherry_mx
+    md5: 2159e86c3e77c20bc03b571527a93075
+    md5_10: 2159e86c3e
+    md5_5: 2159e
+    md5_6: 2159e8
+    oomp_key: oomp_joanthespark_switch_keyboard_cherry_mx_sw_cherry_mx_plate_2_50u
+    oomp_key_extra: oomp_footprint_joanthespark_switch_keyboard_cherry_mx_sw_cherry_mx_plate_2_50u
+    oomp_key_full: oomp_footprint_joanthespark_switch_keyboard_cherry_mx_sw_cherry_mx_plate_2_50u_2159e8
+    oomp_key_simple: joanthespark_switch_keyboard_cherry_mx_sw_cherry_mx_plate_2_50u
     original_filename: KiCAD/6.0/3rdparty/footprints/com_github_perigoso_keyswitch-kicad-library/Switch_Keyboard_Cherry_MX.pretty/SW_Cherry_MX_Plate_2.50u.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_switch_keyboard_cherry_mx_sw_cherry_mx_plate_2_50u
+  oomp_key_full: oomp_footprint_joanthespark_switch_keyboard_cherry_mx_sw_cherry_mx_plate_2_50u
   oomp_key_simple: joanthespark_switch_keyboard_cherry_mx_sw_cherry_mx_plate_2_50u
   owner: JoanTheSpark
   repo:

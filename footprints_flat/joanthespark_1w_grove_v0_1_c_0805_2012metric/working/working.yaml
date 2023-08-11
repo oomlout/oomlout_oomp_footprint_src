@@ -19,9 +19,18 @@
   oomp:
     footprint_name: c_0805_2012metric
     library_name: 1w_grove_v0_1
+    md5: 26a82b271602027f56d450c1aacc8999
+    md5_10: 26a82b2716
+    md5_5: 26a82
+    md5_6: 26a82b
+    oomp_key: oomp_joanthespark_1w_grove_v0_1_c_0805_2012metric
+    oomp_key_extra: oomp_footprint_joanthespark_1w_grove_v0_1_c_0805_2012metric
+    oomp_key_full: oomp_footprint_joanthespark_1w_grove_v0_1_c_0805_2012metric_26a82b
+    oomp_key_simple: joanthespark_1w_grove_v0_1_c_0805_2012metric
     original_filename: KiCAD/6.0/projects/1w-grove-v0.1/1w-grove-v0.1.pretty/C_0805_2012Metric.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_1w_grove_v0_1_c_0805_2012metric
+  oomp_key_full: oomp_footprint_joanthespark_1w_grove_v0_1_c_0805_2012metric
   oomp_key_simple: joanthespark_1w_grove_v0_1_c_0805_2012metric
   owner: JoanTheSpark
   repo:

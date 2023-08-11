@@ -17,9 +17,18 @@
   oomp:
     footprint_name: to_220_2
     library_name: pth_semi
+    md5: d87b799f801d64e4b43e179fd3732868
+    md5_10: d87b799f80
+    md5_5: d87b7
+    md5_6: d87b79
+    oomp_key: oomp_cpavlina_pth_semi_to_220_2
+    oomp_key_extra: oomp_footprint_cpavlina_pth_semi_to_220_2
+    oomp_key_full: oomp_footprint_cpavlina_pth_semi_to_220_2_d87b79
+    oomp_key_simple: cpavlina_pth_semi_to_220_2
     original_filename: kicad-pcblib/pth-semi.pretty/TO-220-2.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_pth_semi_to_220_2
+  oomp_key_full: oomp_footprint_cpavlina_pth_semi_to_220_2
   oomp_key_simple: cpavlina_pth_semi_to_220_2
   owner: cpavlina
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sw_kailh_nb_1_00u
     library_name: switch_keyboard_kailh
+    md5: 3cf90049bd9f68e50bdee0ff7158d710
+    md5_10: 3cf90049bd
+    md5_5: 3cf90
+    md5_6: 3cf900
+    oomp_key: oomp_axello_switch_keyboard_kailh_sw_kailh_nb_1_00u
+    oomp_key_extra: oomp_footprint_axello_switch_keyboard_kailh_sw_kailh_nb_1_00u
+    oomp_key_full: oomp_footprint_axello_switch_keyboard_kailh_sw_kailh_nb_1_00u_3cf900
+    oomp_key_simple: axello_switch_keyboard_kailh_sw_kailh_nb_1_00u
     original_filename: kicad/6.0/3rdparty/footprints/com_github_perigoso_keyswitch-kicad-library/Switch_Keyboard_Kailh.pretty/SW_Kailh_NB_1.00u.kicad_mod
     owner_name: axello
   oomp_key: oomp_axello_switch_keyboard_kailh_sw_kailh_nb_1_00u
+  oomp_key_full: oomp_footprint_axello_switch_keyboard_kailh_sw_kailh_nb_1_00u
   oomp_key_simple: axello_switch_keyboard_kailh_sw_kailh_nb_1_00u
   owner: axello
   repo:

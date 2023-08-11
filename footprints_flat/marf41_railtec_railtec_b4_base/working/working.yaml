@@ -17,9 +17,18 @@
   oomp:
     footprint_name: railtec_b4_base
     library_name: railtec
+    md5: a84a70775bed86bb91de8cfb2ee37519
+    md5_10: a84a70775b
+    md5_5: a84a7
+    md5_6: a84a70
+    oomp_key: oomp_marf41_railtec_railtec_b4_base
+    oomp_key_extra: oomp_footprint_marf41_railtec_railtec_b4_base
+    oomp_key_full: oomp_footprint_marf41_railtec_railtec_b4_base_a84a70
+    oomp_key_simple: marf41_railtec_railtec_b4_base
     original_filename: railtec.pretty/RAILTEC-B4-BASE.kicad_mod
     owner_name: marf41
   oomp_key: oomp_marf41_railtec_railtec_b4_base
+  oomp_key_full: oomp_footprint_marf41_railtec_railtec_b4_base
   oomp_key_simple: marf41_railtec_railtec_b4_base
   owner: marf41
   repo:

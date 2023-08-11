@@ -18,9 +18,18 @@
   oomp:
     footprint_name: mf_connectors_microusb_right
     library_name: mf_connectors
+    md5: 516d5fab8e86927b8565a1a957ae76a1
+    md5_10: 516d5fab8e
+    md5_5: 516d5
+    md5_6: 516d5f
+    oomp_key: oomp_macrofab_mf_connectors_mf_connectors_microusb_right
+    oomp_key_extra: oomp_footprint_macrofab_mf_connectors_mf_connectors_microusb_right
+    oomp_key_full: oomp_footprint_macrofab_mf_connectors_mf_connectors_microusb_right_516d5f
+    oomp_key_simple: macrofab_mf_connectors_mf_connectors_microusb_right
     original_filename: EDALibraries/KiCad/Footprints/MF_Connectors.pretty/MF_Connectors-MICROUSB-RIGHT.kicad_mod
     owner_name: macrofab
   oomp_key: oomp_macrofab_mf_connectors_mf_connectors_microusb_right
+  oomp_key_full: oomp_footprint_macrofab_mf_connectors_mf_connectors_microusb_right
   oomp_key_simple: macrofab_mf_connectors_mf_connectors_microusb_right
   owner: MacroFab
   repo:

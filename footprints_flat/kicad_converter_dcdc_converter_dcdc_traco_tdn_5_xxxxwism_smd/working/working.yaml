@@ -17,9 +17,18 @@
   oomp:
     footprint_name: converter_dcdc_traco_tdn_5_xxxxwism_smd
     library_name: converter_dcdc
+    md5: 9259e67c1af939214a9e728ad425b277
+    md5_10: 9259e67c1a
+    md5_5: 9259e
+    md5_6: 9259e6
+    oomp_key: oomp_kicad_converter_dcdc_converter_dcdc_traco_tdn_5_xxxxwism_smd
+    oomp_key_extra: oomp_footprint_kicad_converter_dcdc_converter_dcdc_traco_tdn_5_xxxxwism_smd
+    oomp_key_full: oomp_footprint_kicad_converter_dcdc_converter_dcdc_traco_tdn_5_xxxxwism_smd_9259e6
+    oomp_key_simple: kicad_converter_dcdc_converter_dcdc_traco_tdn_5_xxxxwism_smd
     original_filename: libraries/kicad-footprints/Converter_DCDC.pretty/Converter_DCDC_TRACO_TDN_5-xxxxWISM_SMD.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_converter_dcdc_converter_dcdc_traco_tdn_5_xxxxwism_smd
+  oomp_key_full: oomp_footprint_kicad_converter_dcdc_converter_dcdc_traco_tdn_5_xxxxwism_smd
   oomp_key_simple: kicad_converter_dcdc_converter_dcdc_traco_tdn_5_xxxxwism_smd
   owner: kicad
   repo:

@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: do_41
-    library_name: source_footprints
+    library_name: do_41_kicad_mod
+    md5: 3d23001f8d23c6a6d4c3c96db5785f24
+    md5_10: 3d23001f8d
+    md5_5: 3d230
+    md5_6: 3d2300
+    oomp_key: oomp_digikey_do_41_do_41
+    oomp_key_extra: oomp_footprint_digikey_do_41_do_41
+    oomp_key_full: oomp_footprint_digikey_do_41_do_41_3d2300
+    oomp_key_simple: digikey_do_41_do_41
     original_filename: digikey-kicad-library/src/Source_Footprints/DO-41.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_do_41_do_41
+  oomp_key_full: oomp_footprint_digikey_do_41_do_41
   oomp_key_simple: digikey_do_41_do_41
   owner: digikey
   repo:

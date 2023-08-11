@@ -18,9 +18,18 @@
   oomp:
     footprint_name: molex_sabre_46007_1102_1x02_p7_49mm_horizontal
     library_name: connector_molex
+    md5: 1b5959a0a0ef51aba0be25daf20a3d77
+    md5_10: 1b5959a0a0
+    md5_5: 1b595
+    md5_6: 1b5959
+    oomp_key: oomp_kicad_connector_molex_molex_sabre_46007_1102_1x02_p7_49mm_horizontal
+    oomp_key_extra: oomp_footprint_kicad_connector_molex_molex_sabre_46007_1102_1x02_p7_49mm_horizontal
+    oomp_key_full: oomp_footprint_kicad_connector_molex_molex_sabre_46007_1102_1x02_p7_49mm_horizontal_1b5959
+    oomp_key_simple: kicad_connector_molex_molex_sabre_46007_1102_1x02_p7_49mm_horizontal
     original_filename: libraries/kicad-footprints/Connector_Molex.pretty/Molex_Sabre_46007-1102_1x02_P7.49mm_Horizontal.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_molex_molex_sabre_46007_1102_1x02_p7_49mm_horizontal
+  oomp_key_full: oomp_footprint_kicad_connector_molex_molex_sabre_46007_1102_1x02_p7_49mm_horizontal
   oomp_key_simple: kicad_connector_molex_molex_sabre_46007_1102_1x02_p7_49mm_horizontal
   owner: kicad
   repo:

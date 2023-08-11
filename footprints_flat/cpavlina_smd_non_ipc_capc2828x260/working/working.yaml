@@ -17,9 +17,18 @@
   oomp:
     footprint_name: capc2828x260
     library_name: smd_non_ipc
+    md5: dc625ceb3c3b031b5eb10ea4c578d1e6
+    md5_10: dc625ceb3c
+    md5_5: dc625
+    md5_6: dc625c
+    oomp_key: oomp_cpavlina_smd_non_ipc_capc2828x260
+    oomp_key_extra: oomp_footprint_cpavlina_smd_non_ipc_capc2828x260
+    oomp_key_full: oomp_footprint_cpavlina_smd_non_ipc_capc2828x260_dc625c
+    oomp_key_simple: cpavlina_smd_non_ipc_capc2828x260
     original_filename: kicad-pcblib/smd-non-ipc.pretty/CAPC2828X260.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_smd_non_ipc_capc2828x260
+  oomp_key_full: oomp_footprint_cpavlina_smd_non_ipc_capc2828x260
   oomp_key_simple: cpavlina_smd_non_ipc_capc2828x260
   owner: cpavlina
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: plcc_44_tht_socket
     library_name: package_lcc
+    md5: 34c04807c8a2e0fbe0ac8e775577df7e
+    md5_10: 34c04807c8
+    md5_5: 34c04
+    md5_6: 34c048
+    oomp_key: oomp_kicad_package_lcc_plcc_44_tht_socket
+    oomp_key_extra: oomp_footprint_kicad_package_lcc_plcc_44_tht_socket
+    oomp_key_full: oomp_footprint_kicad_package_lcc_plcc_44_tht_socket_34c048
+    oomp_key_simple: kicad_package_lcc_plcc_44_tht_socket
     original_filename: libraries/kicad-footprints/Package_LCC.pretty/PLCC-44_THT-Socket.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_lcc_plcc_44_tht_socket
+  oomp_key_full: oomp_footprint_kicad_package_lcc_plcc_44_tht_socket
   oomp_key_simple: kicad_package_lcc_plcc_44_tht_socket
   owner: kicad
   repo:

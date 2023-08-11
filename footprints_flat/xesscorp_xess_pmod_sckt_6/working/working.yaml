@@ -17,9 +17,18 @@
   oomp:
     footprint_name: pmod_sckt_6
     library_name: xess
+    md5: 604d8cd4b2ca75e3e38afa4a54cc3dc2
+    md5_10: 604d8cd4b2
+    md5_5: 604d8
+    md5_6: 604d8c
+    oomp_key: oomp_xesscorp_xess_pmod_sckt_6
+    oomp_key_extra: oomp_footprint_xesscorp_xess_pmod_sckt_6
+    oomp_key_full: oomp_footprint_xesscorp_xess_pmod_sckt_6_604d8c
+    oomp_key_simple: xesscorp_xess_pmod_sckt_6
     original_filename: xess.pretty/PMOD_SCKT-6.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_pmod_sckt_6
+  oomp_key_full: oomp_footprint_xesscorp_xess_pmod_sckt_6
   oomp_key_simple: xesscorp_xess_pmod_sckt_6
   owner: xesscorp
   repo:

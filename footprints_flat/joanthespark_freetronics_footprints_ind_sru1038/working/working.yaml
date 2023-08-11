@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ind_sru1038
     library_name: freetronics_footprints
+    md5: 5a421cafdcb689debb394548516424c1
+    md5_10: 5a421cafdc
+    md5_5: 5a421
+    md5_6: 5a421c
+    oomp_key: oomp_joanthespark_freetronics_footprints_ind_sru1038
+    oomp_key_extra: oomp_footprint_joanthespark_freetronics_footprints_ind_sru1038
+    oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_ind_sru1038_5a421c
+    oomp_key_simple: joanthespark_freetronics_footprints_ind_sru1038
     original_filename: KiCAD/mods/freetronics_footprints.pretty/IND_SRU1038.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_freetronics_footprints_ind_sru1038
+  oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_ind_sru1038
   oomp_key_simple: joanthespark_freetronics_footprints_ind_sru1038
   owner: JoanTheSpark
   repo:

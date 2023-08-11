@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_7segledcc
     library_name: xess
+    md5: f6ac17f35d1309fd037834d21f2eed19
+    md5_10: f6ac17f35d
+    md5_5: f6ac1
+    md5_6: f6ac17
+    oomp_key: oomp_xesscorp_xess_xess_7segledcc
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_7segledcc
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_7segledcc_f6ac17
+    oomp_key_simple: xesscorp_xess_xess_7segledcc
     original_filename: xess.pretty/xess-7SEGLEDCC.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_7segledcc
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_7segledcc
   oomp_key_simple: xesscorp_xess_xess_7segledcc
   owner: xesscorp
   repo:

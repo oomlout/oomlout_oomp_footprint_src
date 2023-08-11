@@ -17,9 +17,18 @@
   oomp:
     footprint_name: nodemcu_0_1_axel
     library_name: nodemcu
+    md5: aaa8c103f487ed2270ee64fecfd95fc2
+    md5_10: aaa8c103f4
+    md5_5: aaa8c
+    md5_6: aaa8c1
+    oomp_key: oomp_wykys_nodemcu_nodemcu_0_1_axel
+    oomp_key_extra: oomp_footprint_wykys_nodemcu_nodemcu_0_1_axel
+    oomp_key_full: oomp_footprint_wykys_nodemcu_nodemcu_0_1_axel_aaa8c1
+    oomp_key_simple: wykys_nodemcu_nodemcu_0_1_axel
     original_filename: kicad/6.0/projects/NodeMCU-Metriful2/NodeMCU.pretty/NodeMCU_0.1_Axel.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_nodemcu_nodemcu_0_1_axel
+  oomp_key_full: oomp_footprint_wykys_nodemcu_nodemcu_0_1_axel
   oomp_key_simple: wykys_nodemcu_nodemcu_0_1_axel
   owner: wykys
   repo:

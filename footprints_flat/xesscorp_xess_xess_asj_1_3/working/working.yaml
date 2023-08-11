@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_asj_1_3
     library_name: xess
+    md5: a9fc8103f38daeb2685a704626750c28
+    md5_10: a9fc8103f3
+    md5_5: a9fc8
+    md5_6: a9fc81
+    oomp_key: oomp_xesscorp_xess_xess_asj_1_3
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_asj_1_3
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_asj_1_3_a9fc81
+    oomp_key_simple: xesscorp_xess_xess_asj_1_3
     original_filename: xess.pretty/xess-ASJ-1-3.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_asj_1_3
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_asj_1_3
   oomp_key_simple: xesscorp_xess_xess_asj_1_3
   owner: xesscorp
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sot_963
     library_name: package_to_sot_smd
+    md5: e5142c09cc16282a43eb5de2ccb7f059
+    md5_10: e5142c09cc
+    md5_5: e5142
+    md5_6: e5142c
+    oomp_key: oomp_kicad_package_to_sot_smd_sot_963
+    oomp_key_extra: oomp_footprint_kicad_package_to_sot_smd_sot_963
+    oomp_key_full: oomp_footprint_kicad_package_to_sot_smd_sot_963_e5142c
+    oomp_key_simple: kicad_package_to_sot_smd_sot_963
     original_filename: libraries/kicad-footprints/Package_TO_SOT_SMD.pretty/SOT-963.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_to_sot_smd_sot_963
+  oomp_key_full: oomp_footprint_kicad_package_to_sot_smd_sot_963
   oomp_key_simple: kicad_package_to_sot_smd_sot_963
   owner: kicad
   repo:

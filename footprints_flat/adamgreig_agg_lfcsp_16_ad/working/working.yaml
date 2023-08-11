@@ -17,9 +17,18 @@
   oomp:
     footprint_name: lfcsp_16_ad
     library_name: agg
+    md5: 2a52200e7accf26fe435bef8e56b6743
+    md5_10: 2a52200e7a
+    md5_5: 2a522
+    md5_6: 2a5220
+    oomp_key: oomp_adamgreig_agg_lfcsp_16_ad
+    oomp_key_extra: oomp_footprint_adamgreig_agg_lfcsp_16_ad
+    oomp_key_full: oomp_footprint_adamgreig_agg_lfcsp_16_ad_2a5220
+    oomp_key_simple: adamgreig_agg_lfcsp_16_ad
     original_filename: agg-kicad/agg.pretty/LFCSP-16-AD.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_lfcsp_16_ad
+  oomp_key_full: oomp_footprint_adamgreig_agg_lfcsp_16_ad
   oomp_key_simple: adamgreig_agg_lfcsp_16_ad
   owner: adamgreig
   repo:

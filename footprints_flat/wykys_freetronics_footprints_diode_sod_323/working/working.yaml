@@ -17,9 +17,18 @@
   oomp:
     footprint_name: diode_sod_323
     library_name: freetronics_footprints
+    md5: 0420bfbe2cc89ee9a63afcad33c8e4fa
+    md5_10: 0420bfbe2c
+    md5_5: 0420b
+    md5_6: 0420bf
+    oomp_key: oomp_wykys_freetronics_footprints_diode_sod_323
+    oomp_key_extra: oomp_footprint_wykys_freetronics_footprints_diode_sod_323
+    oomp_key_full: oomp_footprint_wykys_freetronics_footprints_diode_sod_323_0420bf
+    oomp_key_simple: wykys_freetronics_footprints_diode_sod_323
     original_filename: kicad/mods/freetronics_footprints.pretty/DIODE_SOD-323.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_freetronics_footprints_diode_sod_323
+  oomp_key_full: oomp_footprint_wykys_freetronics_footprints_diode_sod_323
   oomp_key_simple: wykys_freetronics_footprints_diode_sod_323
   owner: wykys
   repo:

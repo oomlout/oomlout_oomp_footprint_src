@@ -17,9 +17,18 @@
   oomp:
     footprint_name: 3_5mm_3_terminal
     library_name: apex_screw_terminals
+    md5: 365db8b47f12f3395772a6d527db2c7a
+    md5_10: 365db8b47f
+    md5_5: 365db
+    md5_6: 365db8
+    oomp_key: oomp_apexelectrix_apex_screw_terminals_3_5mm_3_terminal
+    oomp_key_extra: oomp_footprint_apexelectrix_apex_screw_terminals_3_5mm_3_terminal
+    oomp_key_full: oomp_footprint_apexelectrix_apex_screw_terminals_3_5mm_3_terminal_365db8
+    oomp_key_simple: apexelectrix_apex_screw_terminals_3_5mm_3_terminal
     original_filename: apex-screw-terminals.pretty/3.5mm-3-terminal.kicad_mod
     owner_name: apexelectrix
   oomp_key: oomp_apexelectrix_apex_screw_terminals_3_5mm_3_terminal
+  oomp_key_full: oomp_footprint_apexelectrix_apex_screw_terminals_3_5mm_3_terminal
   oomp_key_simple: apexelectrix_apex_screw_terminals_3_5mm_3_terminal
   owner: apexelectrix
   repo:

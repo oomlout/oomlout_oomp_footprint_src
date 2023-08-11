@@ -16,10 +16,19 @@
   name: agg-kicad
   oomp:
     footprint_name: abt_402_rc
-    library_name: unchecked
+    library_name: agg
+    md5: d76487d088d810cafaf807040055ff99
+    md5_10: d76487d088
+    md5_5: d7648
+    md5_6: d76487
+    oomp_key: oomp_adamgreig_agg_abt_402_rc
+    oomp_key_extra: oomp_footprint_adamgreig_agg_abt_402_rc
+    oomp_key_full: oomp_footprint_adamgreig_agg_abt_402_rc_d76487
+    oomp_key_simple: adamgreig_agg_abt_402_rc
     original_filename: agg-kicad/agg.pretty/unchecked.pretty/ABT-402-RC.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_abt_402_rc
+  oomp_key_full: oomp_footprint_adamgreig_agg_abt_402_rc
   oomp_key_simple: adamgreig_agg_abt_402_rc
   owner: adamgreig
   repo:

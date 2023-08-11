@@ -17,9 +17,18 @@
   oomp:
     footprint_name: mq
     library_name: crystal_oscillators
+    md5: e7c54980a53f72473112f4857f0d220c
+    md5_10: e7c54980a5
+    md5_5: e7c54
+    md5_6: e7c549
+    oomp_key: oomp_twam_crystal_oscillators_mq
+    oomp_key_extra: oomp_footprint_twam_crystal_oscillators_mq
+    oomp_key_full: oomp_footprint_twam_crystal_oscillators_mq_e7c549
+    oomp_key_simple: twam_crystal_oscillators_mq
     original_filename: Crystal_Oscillators.pretty/MQ.kicad_mod
     owner_name: twam
   oomp_key: oomp_twam_crystal_oscillators_mq
+  oomp_key_full: oomp_footprint_twam_crystal_oscillators_mq
   oomp_key_simple: twam_crystal_oscillators_mq
   owner: twam
   repo:

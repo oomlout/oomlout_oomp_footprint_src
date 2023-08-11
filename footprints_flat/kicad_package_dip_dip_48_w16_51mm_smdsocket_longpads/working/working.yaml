@@ -18,9 +18,18 @@
   oomp:
     footprint_name: dip_48_w16_51mm_smdsocket_longpads
     library_name: package_dip
+    md5: 24f15dde4d63201a2c692c407c6ae8ca
+    md5_10: 24f15dde4d
+    md5_5: 24f15
+    md5_6: 24f15d
+    oomp_key: oomp_kicad_package_dip_dip_48_w16_51mm_smdsocket_longpads
+    oomp_key_extra: oomp_footprint_kicad_package_dip_dip_48_w16_51mm_smdsocket_longpads
+    oomp_key_full: oomp_footprint_kicad_package_dip_dip_48_w16_51mm_smdsocket_longpads_24f15d
+    oomp_key_simple: kicad_package_dip_dip_48_w16_51mm_smdsocket_longpads
     original_filename: libraries/kicad-footprints/Package_DIP.pretty/DIP-48_W16.51mm_SMDSocket_LongPads.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_dip_dip_48_w16_51mm_smdsocket_longpads
+  oomp_key_full: oomp_footprint_kicad_package_dip_dip_48_w16_51mm_smdsocket_longpads
   oomp_key_simple: kicad_package_dip_dip_48_w16_51mm_smdsocket_longpads
   owner: kicad
   repo:

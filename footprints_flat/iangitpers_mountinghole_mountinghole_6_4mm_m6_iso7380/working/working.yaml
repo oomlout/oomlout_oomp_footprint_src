@@ -19,9 +19,18 @@
   oomp:
     footprint_name: mountinghole_6_4mm_m6_iso7380
     library_name: mountinghole
+    md5: 8426906abbcff65e7a3cd3b40b96dfed
+    md5_10: 8426906abb
+    md5_5: '84269'
+    md5_6: '842690'
+    oomp_key: oomp_iangitpers_mountinghole_mountinghole_6_4mm_m6_iso7380
+    oomp_key_extra: oomp_footprint_iangitpers_mountinghole_mountinghole_6_4mm_m6_iso7380
+    oomp_key_full: oomp_footprint_iangitpers_mountinghole_mountinghole_6_4mm_m6_iso7380_842690
+    oomp_key_simple: iangitpers_mountinghole_mountinghole_6_4mm_m6_iso7380
     original_filename: 4a/MountingHole.pretty/MountingHole_6.4mm_M6_ISO7380.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_mountinghole_mountinghole_6_4mm_m6_iso7380
+  oomp_key_full: oomp_footprint_iangitpers_mountinghole_mountinghole_6_4mm_m6_iso7380
   oomp_key_simple: iangitpers_mountinghole_mountinghole_6_4mm_m6_iso7380
   owner: Iangitpers
   repo:

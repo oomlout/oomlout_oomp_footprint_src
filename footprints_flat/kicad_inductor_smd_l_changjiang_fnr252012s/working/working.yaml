@@ -17,9 +17,18 @@
   oomp:
     footprint_name: l_changjiang_fnr252012s
     library_name: inductor_smd
+    md5: fe1c3184344571cacfe33ad8b58a71d1
+    md5_10: fe1c318434
+    md5_5: fe1c3
+    md5_6: fe1c31
+    oomp_key: oomp_kicad_inductor_smd_l_changjiang_fnr252012s
+    oomp_key_extra: oomp_footprint_kicad_inductor_smd_l_changjiang_fnr252012s
+    oomp_key_full: oomp_footprint_kicad_inductor_smd_l_changjiang_fnr252012s_fe1c31
+    oomp_key_simple: kicad_inductor_smd_l_changjiang_fnr252012s
     original_filename: libraries/kicad-footprints/Inductor_SMD.pretty/L_Changjiang_FNR252012S.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_inductor_smd_l_changjiang_fnr252012s
+  oomp_key_full: oomp_footprint_kicad_inductor_smd_l_changjiang_fnr252012s
   oomp_key_simple: kicad_inductor_smd_l_changjiang_fnr252012s
   owner: kicad
   repo:

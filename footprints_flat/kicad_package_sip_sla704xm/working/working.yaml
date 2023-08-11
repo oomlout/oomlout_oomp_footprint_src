@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sla704xm
     library_name: package_sip
+    md5: 09593dd1b91df5177dab11b9b7f66803
+    md5_10: 09593dd1b9
+    md5_5: 09593
+    md5_6: 09593d
+    oomp_key: oomp_kicad_package_sip_sla704xm
+    oomp_key_extra: oomp_footprint_kicad_package_sip_sla704xm
+    oomp_key_full: oomp_footprint_kicad_package_sip_sla704xm_09593d
+    oomp_key_simple: kicad_package_sip_sla704xm
     original_filename: libraries/kicad-footprints/Package_SIP.pretty/SLA704XM.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_sip_sla704xm
+  oomp_key_full: oomp_footprint_kicad_package_sip_sla704xm
   oomp_key_simple: kicad_package_sip_sla704xm
   owner: kicad
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: kicad_logo2_12mm_silkscreen
     library_name: symbol
+    md5: 09d08569809a247d6b3d2266406983be
+    md5_10: 09d0856980
+    md5_5: 09d08
+    md5_6: 09d085
+    oomp_key: oomp_kicad_symbol_kicad_logo2_12mm_silkscreen
+    oomp_key_extra: oomp_footprint_kicad_symbol_kicad_logo2_12mm_silkscreen
+    oomp_key_full: oomp_footprint_kicad_symbol_kicad_logo2_12mm_silkscreen_09d085
+    oomp_key_simple: kicad_symbol_kicad_logo2_12mm_silkscreen
     original_filename: libraries/kicad-footprints/Symbol.pretty/KiCad-Logo2_12mm_SilkScreen.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_symbol_kicad_logo2_12mm_silkscreen
+  oomp_key_full: oomp_footprint_kicad_symbol_kicad_logo2_12mm_silkscreen
   oomp_key_simple: kicad_symbol_kicad_logo2_12mm_silkscreen
   owner: kicad
   repo:

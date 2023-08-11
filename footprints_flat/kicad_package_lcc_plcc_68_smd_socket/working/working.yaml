@@ -17,9 +17,18 @@
   oomp:
     footprint_name: plcc_68_smd_socket
     library_name: package_lcc
+    md5: 895b9d328f7a7c856e2d4cf3bc11c10a
+    md5_10: 895b9d328f
+    md5_5: 895b9
+    md5_6: 895b9d
+    oomp_key: oomp_kicad_package_lcc_plcc_68_smd_socket
+    oomp_key_extra: oomp_footprint_kicad_package_lcc_plcc_68_smd_socket
+    oomp_key_full: oomp_footprint_kicad_package_lcc_plcc_68_smd_socket_895b9d
+    oomp_key_simple: kicad_package_lcc_plcc_68_smd_socket
     original_filename: libraries/kicad-footprints/Package_LCC.pretty/PLCC-68_SMD-Socket.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_lcc_plcc_68_smd_socket
+  oomp_key_full: oomp_footprint_kicad_package_lcc_plcc_68_smd_socket
   oomp_key_simple: kicad_package_lcc_plcc_68_smd_socket
   owner: kicad
   repo:

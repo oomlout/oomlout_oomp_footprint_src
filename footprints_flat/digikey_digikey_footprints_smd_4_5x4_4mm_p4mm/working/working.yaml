@@ -17,9 +17,18 @@
   oomp:
     footprint_name: smd_4_5x4_4mm_p4mm
     library_name: digikey_footprints
+    md5: 5564797e16a28f5c95fd92c0f89d9002
+    md5_10: 5564797e16
+    md5_5: '55647'
+    md5_6: '556479'
+    oomp_key: oomp_digikey_digikey_footprints_smd_4_5x4_4mm_p4mm
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_smd_4_5x4_4mm_p4mm
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_smd_4_5x4_4mm_p4mm_556479
+    oomp_key_simple: digikey_digikey_footprints_smd_4_5x4_4mm_p4mm
     original_filename: digikey-kicad-library/digikey-footprints.pretty/SMD-4_5x4.4mm_P4mm.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_smd_4_5x4_4mm_p4mm
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_smd_4_5x4_4mm_p4mm
   oomp_key_simple: digikey_digikey_footprints_smd_4_5x4_4mm_p4mm
   owner: digikey
   repo:

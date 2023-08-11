@@ -17,9 +17,18 @@
   oomp:
     footprint_name: soic250p670x300_4
     library_name: ipc7351_nominal
+    md5: b969fcea2019957c0913885ee238ab52
+    md5_10: b969fcea20
+    md5_5: b969f
+    md5_6: b969fc
+    oomp_key: oomp_cpavlina_ipc7351_nominal_soic250p670x300_4
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_nominal_soic250p670x300_4
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_soic250p670x300_4_b969fc
+    oomp_key_simple: cpavlina_ipc7351_nominal_soic250p670x300_4
     original_filename: kicad-pcblib/IPC7351-Nominal.pretty/SOIC250P670X300-4.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_nominal_soic250p670x300_4
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_soic250p670x300_4
   oomp_key_simple: cpavlina_ipc7351_nominal_soic250p670x300_4
   owner: cpavlina
   repo:

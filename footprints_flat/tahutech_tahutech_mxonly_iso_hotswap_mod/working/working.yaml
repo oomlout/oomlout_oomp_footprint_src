@@ -17,9 +17,18 @@
   oomp:
     footprint_name: mxonly_iso_hotswap_mod
     library_name: tahutech
+    md5: 05d6dfe8079902acf6e477fb6f7dd57d
+    md5_10: 05d6dfe807
+    md5_5: 05d6d
+    md5_6: 05d6df
+    oomp_key: oomp_tahutech_tahutech_mxonly_iso_hotswap_mod
+    oomp_key_extra: oomp_footprint_tahutech_tahutech_mxonly_iso_hotswap_mod
+    oomp_key_full: oomp_footprint_tahutech_tahutech_mxonly_iso_hotswap_mod_05d6df
+    oomp_key_simple: tahutech_tahutech_mxonly_iso_hotswap_mod
     original_filename: tahutech.pretty/MXOnly-ISO-Hotswap-Mod.kicad_mod
     owner_name: tahutech
   oomp_key: oomp_tahutech_tahutech_mxonly_iso_hotswap_mod
+  oomp_key_full: oomp_footprint_tahutech_tahutech_mxonly_iso_hotswap_mod
   oomp_key_simple: tahutech_tahutech_mxonly_iso_hotswap_mod
   owner: TahuTech
   repo:

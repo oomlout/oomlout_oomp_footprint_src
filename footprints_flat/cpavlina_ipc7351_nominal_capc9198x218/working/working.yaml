@@ -17,9 +17,18 @@
   oomp:
     footprint_name: capc9198x218
     library_name: ipc7351_nominal
+    md5: 782a7c04fda28728197c764c80c6b9cb
+    md5_10: 782a7c04fd
+    md5_5: 782a7
+    md5_6: 782a7c
+    oomp_key: oomp_cpavlina_ipc7351_nominal_capc9198x218
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_nominal_capc9198x218
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_capc9198x218_782a7c
+    oomp_key_simple: cpavlina_ipc7351_nominal_capc9198x218
     original_filename: kicad-pcblib/IPC7351-Nominal.pretty/CAPC9198X218.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_nominal_capc9198x218
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_capc9198x218
   oomp_key_simple: cpavlina_ipc7351_nominal_capc9198x218
   owner: cpavlina
   repo:

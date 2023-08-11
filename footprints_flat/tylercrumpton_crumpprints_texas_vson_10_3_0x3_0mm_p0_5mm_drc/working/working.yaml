@@ -17,9 +17,18 @@
   oomp:
     footprint_name: texas_vson_10_3_0x3_0mm_p0_5mm_drc
     library_name: crumpprints
+    md5: 5354f6cfdcea16c60d9a5f4b2e630181
+    md5_10: 5354f6cfdc
+    md5_5: 5354f
+    md5_6: 5354f6
+    oomp_key: oomp_tylercrumpton_crumpprints_texas_vson_10_3_0x3_0mm_p0_5mm_drc
+    oomp_key_extra: oomp_footprint_tylercrumpton_crumpprints_texas_vson_10_3_0x3_0mm_p0_5mm_drc
+    oomp_key_full: oomp_footprint_tylercrumpton_crumpprints_texas_vson_10_3_0x3_0mm_p0_5mm_drc_5354f6
+    oomp_key_simple: tylercrumpton_crumpprints_texas_vson_10_3_0x3_0mm_p0_5mm_drc
     original_filename: CrumpPrints.pretty/Texas_VSON-10_3.0x3.0mm_P0.5mm_DRC.kicad_mod
     owner_name: tylercrumpton
   oomp_key: oomp_tylercrumpton_crumpprints_texas_vson_10_3_0x3_0mm_p0_5mm_drc
+  oomp_key_full: oomp_footprint_tylercrumpton_crumpprints_texas_vson_10_3_0x3_0mm_p0_5mm_drc
   oomp_key_simple: tylercrumpton_crumpprints_texas_vson_10_3_0x3_0mm_p0_5mm_drc
   owner: tylercrumpton
   repo:

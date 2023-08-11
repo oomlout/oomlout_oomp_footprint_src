@@ -17,9 +17,18 @@
   oomp:
     footprint_name: pot_through_hole
     library_name: spacestudio_components
+    md5: 7f308812b586f11fdb31c179cbc0a0a0
+    md5_10: 7f308812b5
+    md5_5: 7f308
+    md5_6: 7f3088
+    oomp_key: oomp_alchy_spacestudio_components_pot_through_hole
+    oomp_key_extra: oomp_footprint_alchy_spacestudio_components_pot_through_hole
+    oomp_key_full: oomp_footprint_alchy_spacestudio_components_pot_through_hole_7f3088
+    oomp_key_simple: alchy_spacestudio_components_pot_through_hole
     original_filename: spacestudio_components.pretty/pot_through_hole.kicad_mod
     owner_name: alchy
   oomp_key: oomp_alchy_spacestudio_components_pot_through_hole
+  oomp_key_full: oomp_footprint_alchy_spacestudio_components_pot_through_hole
   oomp_key_simple: alchy_spacestudio_components_pot_through_hole
   owner: alchy
   repo:

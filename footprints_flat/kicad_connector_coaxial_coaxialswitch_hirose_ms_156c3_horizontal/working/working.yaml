@@ -17,9 +17,18 @@
   oomp:
     footprint_name: coaxialswitch_hirose_ms_156c3_horizontal
     library_name: connector_coaxial
+    md5: 75208713ba14b5a142c9f8490cd0f0f3
+    md5_10: 75208713ba
+    md5_5: '75208'
+    md5_6: '752087'
+    oomp_key: oomp_kicad_connector_coaxial_coaxialswitch_hirose_ms_156c3_horizontal
+    oomp_key_extra: oomp_footprint_kicad_connector_coaxial_coaxialswitch_hirose_ms_156c3_horizontal
+    oomp_key_full: oomp_footprint_kicad_connector_coaxial_coaxialswitch_hirose_ms_156c3_horizontal_752087
+    oomp_key_simple: kicad_connector_coaxial_coaxialswitch_hirose_ms_156c3_horizontal
     original_filename: libraries/kicad-footprints/Connector_Coaxial.pretty/CoaxialSwitch_Hirose_MS-156C3_Horizontal.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_coaxial_coaxialswitch_hirose_ms_156c3_horizontal
+  oomp_key_full: oomp_footprint_kicad_connector_coaxial_coaxialswitch_hirose_ms_156c3_horizontal
   oomp_key_simple: kicad_connector_coaxial_coaxialswitch_hirose_ms_156c3_horizontal
   owner: kicad
   repo:

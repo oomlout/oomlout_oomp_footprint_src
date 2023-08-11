@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sm200
     library_name: crumpprints
+    md5: d91dcc843e74c365bbca028617b4eb9f
+    md5_10: d91dcc843e
+    md5_5: d91dc
+    md5_6: d91dcc
+    oomp_key: oomp_tylercrumpton_crumpprints_sm200
+    oomp_key_extra: oomp_footprint_tylercrumpton_crumpprints_sm200
+    oomp_key_full: oomp_footprint_tylercrumpton_crumpprints_sm200_d91dcc
+    oomp_key_simple: tylercrumpton_crumpprints_sm200
     original_filename: CrumpPrints.pretty/SM200.kicad_mod
     owner_name: tylercrumpton
   oomp_key: oomp_tylercrumpton_crumpprints_sm200
+  oomp_key_full: oomp_footprint_tylercrumpton_crumpprints_sm200
   oomp_key_simple: tylercrumpton_crumpprints_sm200
   owner: tylercrumpton
   repo:

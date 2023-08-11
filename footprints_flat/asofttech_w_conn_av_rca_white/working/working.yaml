@@ -17,9 +17,18 @@
   oomp:
     footprint_name: rca_white
     library_name: w_conn_av
+    md5: c28959ee27c9d9588c325a9fd8a106ba
+    md5_10: c28959ee27
+    md5_5: c2895
+    md5_6: c28959
+    oomp_key: oomp_asofttech_w_conn_av_rca_white
+    oomp_key_extra: oomp_footprint_asofttech_w_conn_av_rca_white
+    oomp_key_full: oomp_footprint_asofttech_w_conn_av_rca_white_c28959
+    oomp_key_simple: asofttech_w_conn_av_rca_white
     original_filename: CAD.KiCad.Libs/modules/w_conn_av.pretty/rca_white.kicad_mod
     owner_name: asofttech
   oomp_key: oomp_asofttech_w_conn_av_rca_white
+  oomp_key_full: oomp_footprint_asofttech_w_conn_av_rca_white
   oomp_key_simple: asofttech_w_conn_av_rca_white
   owner: ASoftTech
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: led_0402
     library_name: smd_semi
+    md5: 322e85f80640620f07a8d0b26a930da0
+    md5_10: 322e85f806
+    md5_5: 322e8
+    md5_6: 322e85
+    oomp_key: oomp_cpavlina_smd_semi_led_0402
+    oomp_key_extra: oomp_footprint_cpavlina_smd_semi_led_0402
+    oomp_key_full: oomp_footprint_cpavlina_smd_semi_led_0402_322e85
+    oomp_key_simple: cpavlina_smd_semi_led_0402
     original_filename: kicad-pcblib/smd-semi.pretty/LED-0402.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_smd_semi_led_0402
+  oomp_key_full: oomp_footprint_cpavlina_smd_semi_led_0402
   oomp_key_simple: cpavlina_smd_semi_led_0402
   owner: cpavlina
   repo:

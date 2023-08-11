@@ -18,9 +18,18 @@
   oomp:
     footprint_name: dip_28_w15_24mm_longpads
     library_name: package_dip
+    md5: a69eae51c631092fa2fe194abdd6e1ce
+    md5_10: a69eae51c6
+    md5_5: a69ea
+    md5_6: a69eae
+    oomp_key: oomp_kicad_package_dip_dip_28_w15_24mm_longpads
+    oomp_key_extra: oomp_footprint_kicad_package_dip_dip_28_w15_24mm_longpads
+    oomp_key_full: oomp_footprint_kicad_package_dip_dip_28_w15_24mm_longpads_a69eae
+    oomp_key_simple: kicad_package_dip_dip_28_w15_24mm_longpads
     original_filename: libraries/kicad-footprints/Package_DIP.pretty/DIP-28_W15.24mm_LongPads.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_dip_dip_28_w15_24mm_longpads
+  oomp_key_full: oomp_footprint_kicad_package_dip_dip_28_w15_24mm_longpads
   oomp_key_simple: kicad_package_dip_dip_28_w15_24mm_longpads
   owner: kicad
   repo:

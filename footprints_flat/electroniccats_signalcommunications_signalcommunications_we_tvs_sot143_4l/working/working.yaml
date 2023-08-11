@@ -18,9 +18,18 @@
   oomp:
     footprint_name: signalcommunications_we_tvs_sot143_4l
     library_name: signalcommunications
+    md5: 127057e69df3f838a939efca4bf4a35b
+    md5_10: 127057e69d
+    md5_5: '12705'
+    md5_6: '127057'
+    oomp_key: oomp_electroniccats_signalcommunications_signalcommunications_we_tvs_sot143_4l
+    oomp_key_extra: oomp_footprint_electroniccats_signalcommunications_signalcommunications_we_tvs_sot143_4l
+    oomp_key_full: oomp_footprint_electroniccats_signalcommunications_signalcommunications_we_tvs_sot143_4l_127057
+    oomp_key_simple: electroniccats_signalcommunications_signalcommunications_we_tvs_sot143_4l
     original_filename: ComponentLibrariesKicadWurthElektronik/SIGNAL-COMMUNICATIONS-rev18a/SignalCommunications.pretty/SignalCommunications-WE-TVS_SOT143-4L.kicad_mod
     owner_name: electroniccats
   oomp_key: oomp_electroniccats_signalcommunications_signalcommunications_we_tvs_sot143_4l
+  oomp_key_full: oomp_footprint_electroniccats_signalcommunications_signalcommunications_we_tvs_sot143_4l
   oomp_key_simple: electroniccats_signalcommunications_signalcommunications_we_tvs_sot143_4l
   owner: ElectronicCats
   repo:

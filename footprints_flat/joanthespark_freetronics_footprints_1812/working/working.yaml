@@ -17,9 +17,18 @@
   oomp:
     footprint_name: '1812'
     library_name: freetronics_footprints
+    md5: e524d9890899de40c52e05a6f3591cbf
+    md5_10: e524d98908
+    md5_5: e524d
+    md5_6: e524d9
+    oomp_key: oomp_joanthespark_freetronics_footprints_1812
+    oomp_key_extra: oomp_footprint_joanthespark_freetronics_footprints_1812
+    oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_1812_e524d9
+    oomp_key_simple: joanthespark_freetronics_footprints_1812
     original_filename: KiCAD/mods/freetronics_footprints.pretty/1812.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_freetronics_footprints_1812
+  oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_1812
   oomp_key_simple: joanthespark_freetronics_footprints_1812
   owner: JoanTheSpark
   repo:

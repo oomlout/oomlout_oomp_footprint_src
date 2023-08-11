@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sw_spdt_reed_msdm_dt
     library_name: button_switch_smd
+    md5: 1cdb506d4b13aafd7329419af5d0fde6
+    md5_10: 1cdb506d4b
+    md5_5: 1cdb5
+    md5_6: 1cdb50
+    oomp_key: oomp_kicad_button_switch_smd_sw_spdt_reed_msdm_dt
+    oomp_key_extra: oomp_footprint_kicad_button_switch_smd_sw_spdt_reed_msdm_dt
+    oomp_key_full: oomp_footprint_kicad_button_switch_smd_sw_spdt_reed_msdm_dt_1cdb50
+    oomp_key_simple: kicad_button_switch_smd_sw_spdt_reed_msdm_dt
     original_filename: libraries/kicad-footprints/Button_Switch_SMD.pretty/SW_SPDT_REED_MSDM-DT.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_button_switch_smd_sw_spdt_reed_msdm_dt
+  oomp_key_full: oomp_footprint_kicad_button_switch_smd_sw_spdt_reed_msdm_dt
   oomp_key_simple: kicad_button_switch_smd_sw_spdt_reed_msdm_dt
   owner: kicad
   repo:

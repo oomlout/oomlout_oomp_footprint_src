@@ -17,9 +17,18 @@
   oomp:
     footprint_name: jack_3_5_sj1_3515_smt
     library_name: w_conn_av
+    md5: e8e0533ca8340ab8fbf43519b1c55e45
+    md5_10: e8e0533ca8
+    md5_5: e8e05
+    md5_6: e8e053
+    oomp_key: oomp_asofttech_w_conn_av_jack_3_5_sj1_3515_smt
+    oomp_key_extra: oomp_footprint_asofttech_w_conn_av_jack_3_5_sj1_3515_smt
+    oomp_key_full: oomp_footprint_asofttech_w_conn_av_jack_3_5_sj1_3515_smt_e8e053
+    oomp_key_simple: asofttech_w_conn_av_jack_3_5_sj1_3515_smt
     original_filename: CAD.KiCad.Libs/modules/w_conn_av.pretty/jack_3.5_sj1-3515-smt.kicad_mod
     owner_name: asofttech
   oomp_key: oomp_asofttech_w_conn_av_jack_3_5_sj1_3515_smt
+  oomp_key_full: oomp_footprint_asofttech_w_conn_av_jack_3_5_sj1_3515_smt
   oomp_key_simple: asofttech_w_conn_av_jack_3_5_sj1_3515_smt
   owner: ASoftTech
   repo:

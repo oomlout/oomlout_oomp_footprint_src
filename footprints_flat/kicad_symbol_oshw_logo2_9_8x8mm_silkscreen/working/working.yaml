@@ -17,9 +17,18 @@
   oomp:
     footprint_name: oshw_logo2_9_8x8mm_silkscreen
     library_name: symbol
+    md5: 3bb90e43bf543e4cd502e881014dd1e8
+    md5_10: 3bb90e43bf
+    md5_5: 3bb90
+    md5_6: 3bb90e
+    oomp_key: oomp_kicad_symbol_oshw_logo2_9_8x8mm_silkscreen
+    oomp_key_extra: oomp_footprint_kicad_symbol_oshw_logo2_9_8x8mm_silkscreen
+    oomp_key_full: oomp_footprint_kicad_symbol_oshw_logo2_9_8x8mm_silkscreen_3bb90e
+    oomp_key_simple: kicad_symbol_oshw_logo2_9_8x8mm_silkscreen
     original_filename: libraries/kicad-footprints/Symbol.pretty/OSHW-Logo2_9.8x8mm_SilkScreen.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_symbol_oshw_logo2_9_8x8mm_silkscreen
+  oomp_key_full: oomp_footprint_kicad_symbol_oshw_logo2_9_8x8mm_silkscreen
   oomp_key_simple: kicad_symbol_oshw_logo2_9_8x8mm_silkscreen
   owner: kicad
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: capc2012x70
     library_name: ipc7351_nominal
+    md5: fc600ec6b01d66ed11b290c582f3ec6b
+    md5_10: fc600ec6b0
+    md5_5: fc600
+    md5_6: fc600e
+    oomp_key: oomp_cpavlina_ipc7351_nominal_capc2012x70
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_nominal_capc2012x70
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_capc2012x70_fc600e
+    oomp_key_simple: cpavlina_ipc7351_nominal_capc2012x70
     original_filename: kicad-pcblib/IPC7351-Nominal.pretty/CAPC2012X70.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_nominal_capc2012x70
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_capc2012x70
   oomp_key_simple: cpavlina_ipc7351_nominal_capc2012x70
   owner: cpavlina
   repo:

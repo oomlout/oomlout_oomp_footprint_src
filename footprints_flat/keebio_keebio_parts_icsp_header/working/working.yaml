@@ -17,9 +17,18 @@
   oomp:
     footprint_name: icsp_header
     library_name: keebio_parts
+    md5: 46205b6466acf23817aa4cf5c00d770c
+    md5_10: 46205b6466
+    md5_5: '46205'
+    md5_6: 46205b
+    oomp_key: oomp_keebio_keebio_parts_icsp_header
+    oomp_key_extra: oomp_footprint_keebio_keebio_parts_icsp_header
+    oomp_key_full: oomp_footprint_keebio_keebio_parts_icsp_header_46205b
+    oomp_key_simple: keebio_keebio_parts_icsp_header
     original_filename: Keebio-Parts.pretty/ICSP-Header.kicad_mod
     owner_name: keebio
   oomp_key: oomp_keebio_keebio_parts_icsp_header
+  oomp_key_full: oomp_footprint_keebio_keebio_parts_icsp_header
   oomp_key_simple: keebio_keebio_parts_icsp_header
   owner: keebio
   repo:

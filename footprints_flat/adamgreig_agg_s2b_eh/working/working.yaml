@@ -17,9 +17,18 @@
   oomp:
     footprint_name: s2b_eh
     library_name: agg
+    md5: e494bdc436fd1941adf5e502e2442dae
+    md5_10: e494bdc436
+    md5_5: e494b
+    md5_6: e494bd
+    oomp_key: oomp_adamgreig_agg_s2b_eh
+    oomp_key_extra: oomp_footprint_adamgreig_agg_s2b_eh
+    oomp_key_full: oomp_footprint_adamgreig_agg_s2b_eh_e494bd
+    oomp_key_simple: adamgreig_agg_s2b_eh
     original_filename: agg-kicad/agg.pretty/S2B-EH.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_s2b_eh
+  oomp_key_full: oomp_footprint_adamgreig_agg_s2b_eh
   oomp_key_simple: adamgreig_agg_s2b_eh
   owner: adamgreig
   repo:

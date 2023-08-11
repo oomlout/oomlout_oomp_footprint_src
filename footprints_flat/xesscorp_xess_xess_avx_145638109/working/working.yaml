@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_avx_145638109
     library_name: xess
+    md5: 189755b9a784f07bef9e8b0ecc882795
+    md5_10: 189755b9a7
+    md5_5: '18975'
+    md5_6: '189755'
+    oomp_key: oomp_xesscorp_xess_xess_avx_145638109
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_avx_145638109
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_avx_145638109_189755
+    oomp_key_simple: xesscorp_xess_xess_avx_145638109
     original_filename: xess.pretty/xess-AVX-145638109.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_avx_145638109
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_avx_145638109
   oomp_key_simple: xesscorp_xess_xess_avx_145638109
   owner: xesscorp
   repo:

@@ -18,9 +18,18 @@
   oomp:
     footprint_name: signalcommunications_we_cba_0402(w=2_2)
     library_name: signalcommunications
+    md5: 809e2426e546761b26c986e863c7768b
+    md5_10: 809e2426e5
+    md5_5: 809e2
+    md5_6: 809e24
+    oomp_key: oomp_electroniccats_signalcommunications_signalcommunications_we_cba_0402(w=2_2)
+    oomp_key_extra: oomp_footprint_electroniccats_signalcommunications_signalcommunications_we_cba_0402(w=2_2)
+    oomp_key_full: oomp_footprint_electroniccats_signalcommunications_signalcommunications_we_cba_0402(w=2_2)_809e24
+    oomp_key_simple: electroniccats_signalcommunications_signalcommunications_we_cba_0402(w=2_2)
     original_filename: ComponentLibrariesKicadWurthElektronik/SIGNAL-COMMUNICATIONS-rev18a/SignalCommunications.pretty/SignalCommunications-WE-CBA_0402(W=2.2).kicad_mod
     owner_name: electroniccats
   oomp_key: oomp_electroniccats_signalcommunications_signalcommunications_we_cba_0402(w=2_2)
+  oomp_key_full: oomp_footprint_electroniccats_signalcommunications_signalcommunications_we_cba_0402(w=2_2)
   oomp_key_simple: electroniccats_signalcommunications_signalcommunications_we_cba_0402(w=2_2)
   owner: ElectronicCats
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: esp_12e
     library_name: kicadparts
+    md5: 69416bf09f3be2b108913d9bc0b68e6b
+    md5_10: 69416bf09f
+    md5_5: '69416'
+    md5_6: 69416b
+    oomp_key: oomp_svarmo_kicadparts_esp_12e
+    oomp_key_extra: oomp_footprint_svarmo_kicadparts_esp_12e
+    oomp_key_full: oomp_footprint_svarmo_kicadparts_esp_12e_69416b
+    oomp_key_simple: svarmo_kicadparts_esp_12e
     original_filename: kicadParts.pretty/ESP-12E.kicad_mod
     owner_name: svarmo
   oomp_key: oomp_svarmo_kicadparts_esp_12e
+  oomp_key_full: oomp_footprint_svarmo_kicadparts_esp_12e
   oomp_key_simple: svarmo_kicadparts_esp_12e
   owner: svarmo
   repo:

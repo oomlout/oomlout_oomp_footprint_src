@@ -17,9 +17,18 @@
   oomp:
     footprint_name: potentiometer_runtron_rm_065_vertical
     library_name: potentiometer_tht
+    md5: 7795e420361ba897ec71c37ecbe36a35
+    md5_10: 7795e42036
+    md5_5: 7795e
+    md5_6: 7795e4
+    oomp_key: oomp_kicad_potentiometer_tht_potentiometer_runtron_rm_065_vertical
+    oomp_key_extra: oomp_footprint_kicad_potentiometer_tht_potentiometer_runtron_rm_065_vertical
+    oomp_key_full: oomp_footprint_kicad_potentiometer_tht_potentiometer_runtron_rm_065_vertical_7795e4
+    oomp_key_simple: kicad_potentiometer_tht_potentiometer_runtron_rm_065_vertical
     original_filename: libraries/kicad-footprints/Potentiometer_THT.pretty/Potentiometer_Runtron_RM-065_Vertical.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_potentiometer_tht_potentiometer_runtron_rm_065_vertical
+  oomp_key_full: oomp_footprint_kicad_potentiometer_tht_potentiometer_runtron_rm_065_vertical
   oomp_key_simple: kicad_potentiometer_tht_potentiometer_runtron_rm_065_vertical
   owner: kicad
   repo:

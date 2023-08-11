@@ -17,9 +17,18 @@
   oomp:
     footprint_name: s9032_02
     library_name: akizuki_sensor
+    md5: fc35d3b620bc6443ae9b1d90aabed0a5
+    md5_10: fc35d3b620
+    md5_5: fc35d
+    md5_6: fc35d3
+    oomp_key: oomp_jp3cyc_akizuki_sensor_s9032_02
+    oomp_key_extra: oomp_footprint_jp3cyc_akizuki_sensor_s9032_02
+    oomp_key_full: oomp_footprint_jp3cyc_akizuki_sensor_s9032_02_fc35d3
+    oomp_key_simple: jp3cyc_akizuki_sensor_s9032_02
     original_filename: KiCadLibrary/akizuki_sensor.pretty/S9032-02.kicad_mod
     owner_name: jp3cyc
   oomp_key: oomp_jp3cyc_akizuki_sensor_s9032_02
+  oomp_key_full: oomp_footprint_jp3cyc_akizuki_sensor_s9032_02
   oomp_key_simple: jp3cyc_akizuki_sensor_s9032_02
   owner: jp3cyc
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: testpoint_60mil
     library_name: primarypoints
+    md5: dc8d5355a2fa0f088deccf8b36a49f61
+    md5_10: dc8d5355a2
+    md5_5: dc8d5
+    md5_6: dc8d53
+    oomp_key: oomp_zanekaminski_primarypoints_testpoint_60mil
+    oomp_key_extra: oomp_footprint_zanekaminski_primarypoints_testpoint_60mil
+    oomp_key_full: oomp_footprint_zanekaminski_primarypoints_testpoint_60mil_dc8d53
+    oomp_key_simple: zanekaminski_primarypoints_testpoint_60mil
     original_filename: primarypoints.pretty/TestPoint_60mil.kicad_mod
     owner_name: zanekaminski
   oomp_key: oomp_zanekaminski_primarypoints_testpoint_60mil
+  oomp_key_full: oomp_footprint_zanekaminski_primarypoints_testpoint_60mil
   oomp_key_simple: zanekaminski_primarypoints_testpoint_60mil
   owner: ZaneKaminski
   repo:

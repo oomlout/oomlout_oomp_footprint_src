@@ -17,9 +17,18 @@
   oomp:
     footprint_name: oscillator_ocxo_morion_mv317
     library_name: oscillator
+    md5: d6ead96cd419504dfef34a6775e0bf0e
+    md5_10: d6ead96cd4
+    md5_5: d6ead
+    md5_6: d6ead9
+    oomp_key: oomp_kicad_oscillator_oscillator_ocxo_morion_mv317
+    oomp_key_extra: oomp_footprint_kicad_oscillator_oscillator_ocxo_morion_mv317
+    oomp_key_full: oomp_footprint_kicad_oscillator_oscillator_ocxo_morion_mv317_d6ead9
+    oomp_key_simple: kicad_oscillator_oscillator_ocxo_morion_mv317
     original_filename: libraries/kicad-footprints/Oscillator.pretty/Oscillator_OCXO_Morion_MV317.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_oscillator_oscillator_ocxo_morion_mv317
+  oomp_key_full: oomp_footprint_kicad_oscillator_oscillator_ocxo_morion_mv317
   oomp_key_simple: kicad_oscillator_oscillator_ocxo_morion_mv317
   owner: kicad
   repo:

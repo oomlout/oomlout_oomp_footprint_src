@@ -17,9 +17,18 @@
   oomp:
     footprint_name: l_taiyo_yuden_md_3030
     library_name: inductor_smd
+    md5: 570734188bc30d30b64c33920c8a633f
+    md5_10: 570734188b
+    md5_5: '57073'
+    md5_6: '570734'
+    oomp_key: oomp_kicad_inductor_smd_l_taiyo_yuden_md_3030
+    oomp_key_extra: oomp_footprint_kicad_inductor_smd_l_taiyo_yuden_md_3030
+    oomp_key_full: oomp_footprint_kicad_inductor_smd_l_taiyo_yuden_md_3030_570734
+    oomp_key_simple: kicad_inductor_smd_l_taiyo_yuden_md_3030
     original_filename: libraries/kicad-footprints/Inductor_SMD.pretty/L_Taiyo-Yuden_MD-3030.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_inductor_smd_l_taiyo_yuden_md_3030
+  oomp_key_full: oomp_footprint_kicad_inductor_smd_l_taiyo_yuden_md_3030
   oomp_key_simple: kicad_inductor_smd_l_taiyo_yuden_md_3030
   owner: kicad
   repo:

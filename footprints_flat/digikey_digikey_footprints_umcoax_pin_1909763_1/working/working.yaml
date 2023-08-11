@@ -17,9 +17,18 @@
   oomp:
     footprint_name: umcoax_pin_1909763_1
     library_name: digikey_footprints
+    md5: 5a2920b861917b6766ce226231e4205a
+    md5_10: 5a2920b861
+    md5_5: 5a292
+    md5_6: 5a2920
+    oomp_key: oomp_digikey_digikey_footprints_umcoax_pin_1909763_1
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_umcoax_pin_1909763_1
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_umcoax_pin_1909763_1_5a2920
+    oomp_key_simple: digikey_digikey_footprints_umcoax_pin_1909763_1
     original_filename: digikey-kicad-library/digikey-footprints.pretty/UMCoax_Pin_1909763-1.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_umcoax_pin_1909763_1
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_umcoax_pin_1909763_1
   oomp_key_simple: digikey_digikey_footprints_umcoax_pin_1909763_1
   owner: digikey
   repo:

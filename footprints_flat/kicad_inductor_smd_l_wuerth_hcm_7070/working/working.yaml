@@ -17,9 +17,18 @@
   oomp:
     footprint_name: l_wuerth_hcm_7070
     library_name: inductor_smd
+    md5: 7579f8012983600e6f4d93e9cf34e11b
+    md5_10: 7579f80129
+    md5_5: 7579f
+    md5_6: 7579f8
+    oomp_key: oomp_kicad_inductor_smd_l_wuerth_hcm_7070
+    oomp_key_extra: oomp_footprint_kicad_inductor_smd_l_wuerth_hcm_7070
+    oomp_key_full: oomp_footprint_kicad_inductor_smd_l_wuerth_hcm_7070_7579f8
+    oomp_key_simple: kicad_inductor_smd_l_wuerth_hcm_7070
     original_filename: libraries/kicad-footprints/Inductor_SMD.pretty/L_Wuerth_HCM-7070.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_inductor_smd_l_wuerth_hcm_7070
+  oomp_key_full: oomp_footprint_kicad_inductor_smd_l_wuerth_hcm_7070
   oomp_key_simple: kicad_inductor_smd_l_wuerth_hcm_7070
   owner: kicad
   repo:

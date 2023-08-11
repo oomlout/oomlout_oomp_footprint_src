@@ -17,9 +17,18 @@
   oomp:
     footprint_name: transformer_macom_sm_22
     library_name: transformer_smd
+    md5: 92c8a6a2866e2680d08731f1baff616e
+    md5_10: 92c8a6a286
+    md5_5: 92c8a
+    md5_6: 92c8a6
+    oomp_key: oomp_kicad_transformer_smd_transformer_macom_sm_22
+    oomp_key_extra: oomp_footprint_kicad_transformer_smd_transformer_macom_sm_22
+    oomp_key_full: oomp_footprint_kicad_transformer_smd_transformer_macom_sm_22_92c8a6
+    oomp_key_simple: kicad_transformer_smd_transformer_macom_sm_22
     original_filename: libraries/kicad-footprints/Transformer_SMD.pretty/Transformer_MACOM_SM-22.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_transformer_smd_transformer_macom_sm_22
+  oomp_key_full: oomp_footprint_kicad_transformer_smd_transformer_macom_sm_22
   oomp_key_simple: kicad_transformer_smd_transformer_macom_sm_22
   owner: kicad
   repo:

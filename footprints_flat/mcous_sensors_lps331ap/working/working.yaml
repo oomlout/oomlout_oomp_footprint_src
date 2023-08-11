@@ -17,9 +17,18 @@
   oomp:
     footprint_name: _lps331ap
     library_name: _sensors
+    md5: 37c62165d389f77f101c968f04a305cb
+    md5_10: 37c62165d3
+    md5_5: 37c62
+    md5_6: 37c621
+    oomp_key: oomp_mcous_sensors_lps331ap
+    oomp_key_extra: oomp_footprint_mcous_sensors_lps331ap
+    oomp_key_full: oomp_footprint_mcous_sensors_lps331ap_37c621
+    oomp_key_simple: mcous_sensors_lps331ap
     original_filename: kicad-lib/footprints/_sensors.pretty/_LPS331AP.kicad_mod
     owner_name: mcous
   oomp_key: oomp_mcous_sensors_lps331ap
+  oomp_key_full: oomp_footprint_mcous_sensors_lps331ap
   oomp_key_simple: mcous_sensors_lps331ap
   owner: mcous
   repo:

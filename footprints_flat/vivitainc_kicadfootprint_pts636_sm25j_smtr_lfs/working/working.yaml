@@ -17,9 +17,18 @@
   oomp:
     footprint_name: pts636_sm25j_smtr_lfs
     library_name: kicadfootprint
+    md5: ea7bf2f5efcd55b36bd2cb2acb0f8621
+    md5_10: ea7bf2f5ef
+    md5_5: ea7bf
+    md5_6: ea7bf2
+    oomp_key: oomp_vivitainc_kicadfootprint_pts636_sm25j_smtr_lfs
+    oomp_key_extra: oomp_footprint_vivitainc_kicadfootprint_pts636_sm25j_smtr_lfs
+    oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_pts636_sm25j_smtr_lfs_ea7bf2
+    oomp_key_simple: vivitainc_kicadfootprint_pts636_sm25j_smtr_lfs
     original_filename: KiCADfootprint.pretty/PTS636_SM25J_SMTR_LFS.kicad_mod
     owner_name: vivitainc
   oomp_key: oomp_vivitainc_kicadfootprint_pts636_sm25j_smtr_lfs
+  oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_pts636_sm25j_smtr_lfs
   oomp_key_simple: vivitainc_kicadfootprint_pts636_sm25j_smtr_lfs
   owner: vivitainc
   repo:

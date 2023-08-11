@@ -17,9 +17,18 @@
   oomp:
     footprint_name: pad_1_smd
     library_name: al_kicad_lib
+    md5: 45fd13507914f2398d76b71ea3344e80
+    md5_10: 45fd135079
+    md5_5: 45fd1
+    md5_6: 45fd13
+    oomp_key: oomp_alozewski_al_kicad_lib_pad_1_smd
+    oomp_key_extra: oomp_footprint_alozewski_al_kicad_lib_pad_1_smd
+    oomp_key_full: oomp_footprint_alozewski_al_kicad_lib_pad_1_smd_45fd13
+    oomp_key_simple: alozewski_al_kicad_lib_pad_1_smd
     original_filename: al-kicad-lib.pretty/Pad_1_SMD.kicad_mod
     owner_name: alozewski
   oomp_key: oomp_alozewski_al_kicad_lib_pad_1_smd
+  oomp_key_full: oomp_footprint_alozewski_al_kicad_lib_pad_1_smd
   oomp_key_simple: alozewski_al_kicad_lib_pad_1_smd
   owner: alozewski
   repo:

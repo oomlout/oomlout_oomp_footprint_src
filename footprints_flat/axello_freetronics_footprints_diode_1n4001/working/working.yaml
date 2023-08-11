@@ -17,9 +17,18 @@
   oomp:
     footprint_name: diode_1n4001
     library_name: freetronics_footprints
+    md5: adcc96b550eae18ef02230ae5334d9d4
+    md5_10: adcc96b550
+    md5_5: adcc9
+    md5_6: adcc96
+    oomp_key: oomp_axello_freetronics_footprints_diode_1n4001
+    oomp_key_extra: oomp_footprint_axello_freetronics_footprints_diode_1n4001
+    oomp_key_full: oomp_footprint_axello_freetronics_footprints_diode_1n4001_adcc96
+    oomp_key_simple: axello_freetronics_footprints_diode_1n4001
     original_filename: kicad/mods/freetronics_footprints.pretty/DIODE-1N4001.kicad_mod
     owner_name: axello
   oomp_key: oomp_axello_freetronics_footprints_diode_1n4001
+  oomp_key_full: oomp_footprint_axello_freetronics_footprints_diode_1n4001
   oomp_key_simple: axello_freetronics_footprints_diode_1n4001
   owner: axello
   repo:

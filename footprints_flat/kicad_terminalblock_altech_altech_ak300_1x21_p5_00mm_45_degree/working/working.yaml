@@ -18,9 +18,18 @@
   oomp:
     footprint_name: altech_ak300_1x21_p5_00mm_45_degree
     library_name: terminalblock_altech
+    md5: bdae1edba081cc90e4ebd9efa7f54037
+    md5_10: bdae1edba0
+    md5_5: bdae1
+    md5_6: bdae1e
+    oomp_key: oomp_kicad_terminalblock_altech_altech_ak300_1x21_p5_00mm_45_degree
+    oomp_key_extra: oomp_footprint_kicad_terminalblock_altech_altech_ak300_1x21_p5_00mm_45_degree
+    oomp_key_full: oomp_footprint_kicad_terminalblock_altech_altech_ak300_1x21_p5_00mm_45_degree_bdae1e
+    oomp_key_simple: kicad_terminalblock_altech_altech_ak300_1x21_p5_00mm_45_degree
     original_filename: libraries/kicad-footprints/TerminalBlock_Altech.pretty/Altech_AK300_1x21_P5.00mm_45-Degree.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_terminalblock_altech_altech_ak300_1x21_p5_00mm_45_degree
+  oomp_key_full: oomp_footprint_kicad_terminalblock_altech_altech_ak300_1x21_p5_00mm_45_degree
   oomp_key_simple: kicad_terminalblock_altech_altech_ak300_1x21_p5_00mm_45_degree
   owner: kicad
   repo:

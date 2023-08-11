@@ -18,9 +18,18 @@
   oomp:
     footprint_name: l_toroid_horizontal_d28_0mm_p25_10mm_bourns_2200
     library_name: inductor_tht
+    md5: 200b089b9dec2c89d8a2827db2b77186
+    md5_10: 200b089b9d
+    md5_5: 200b0
+    md5_6: 200b08
+    oomp_key: oomp_kicad_inductor_tht_l_toroid_horizontal_d28_0mm_p25_10mm_bourns_2200
+    oomp_key_extra: oomp_footprint_kicad_inductor_tht_l_toroid_horizontal_d28_0mm_p25_10mm_bourns_2200
+    oomp_key_full: oomp_footprint_kicad_inductor_tht_l_toroid_horizontal_d28_0mm_p25_10mm_bourns_2200_200b08
+    oomp_key_simple: kicad_inductor_tht_l_toroid_horizontal_d28_0mm_p25_10mm_bourns_2200
     original_filename: libraries/kicad-footprints/Inductor_THT.pretty/L_Toroid_Horizontal_D28.0mm_P25.10mm_Bourns_2200.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_inductor_tht_l_toroid_horizontal_d28_0mm_p25_10mm_bourns_2200
+  oomp_key_full: oomp_footprint_kicad_inductor_tht_l_toroid_horizontal_d28_0mm_p25_10mm_bourns_2200
   oomp_key_simple: kicad_inductor_tht_l_toroid_horizontal_d28_0mm_p25_10mm_bourns_2200
   owner: kicad
   repo:

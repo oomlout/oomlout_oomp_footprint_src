@@ -18,9 +18,18 @@
   oomp:
     footprint_name: rescaxe80p150x320x45_8
     library_name: ipc7351_most
+    md5: 3fa715b7e9d88bddc8d7c7a438fc902d
+    md5_10: 3fa715b7e9
+    md5_5: 3fa71
+    md5_6: 3fa715
+    oomp_key: oomp_cpavlina_ipc7351_most_rescaxe80p150x320x45_8
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_most_rescaxe80p150x320x45_8
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_most_rescaxe80p150x320x45_8_3fa715
+    oomp_key_simple: cpavlina_ipc7351_most_rescaxe80p150x320x45_8
     original_filename: kicad-pcblib/IPC7351-Most.pretty/RESCAXE80P150X320X45-8.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_most_rescaxe80p150x320x45_8
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_most_rescaxe80p150x320x45_8
   oomp_key_simple: cpavlina_ipc7351_most_rescaxe80p150x320x45_8
   owner: cpavlina
   repo:

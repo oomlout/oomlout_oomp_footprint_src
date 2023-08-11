@@ -19,8 +19,9 @@ Please consult that link for additional, details, files, and license information
 | github_path | http://github.com/ariejan/ariejan.pretty/blob/master/SMD-TACTILE-SWITCH.kicad_mod |  
 | links | {'github_src': 'http://gitlab.com/ariejan/ariejan.pretty/blob/master/TRIMMER-TC33X-2.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/ariejan_ariejan_smd_tactile_switch/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/ariejan_ariejan_smd_tactile_switch/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/ariejan_ariejan_smd_tactile_switch/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/ariejan_ariejan_smd_tactile_switch/working'} |  
 | name | ariejan.pretty |  
-| oomp | {'footprint_name': 'smd_tactile_switch', 'library_name': 'ariejan', 'original_filename': 'ariejan.pretty/SMD-TACTILE-SWITCH.kicad_mod', 'owner_name': 'ariejan'} |  
+| oomp | {'footprint_name': 'smd_tactile_switch', 'library_name': 'ariejan', 'md5': '1de2bad2927e52df7a64946b7eb3a34a', 'md5_10': '1de2bad292', 'md5_5': '1de2b', 'md5_6': '1de2ba', 'oomp_key': 'oomp_ariejan_ariejan_smd_tactile_switch', 'oomp_key_extra': 'oomp_footprint_ariejan_ariejan_smd_tactile_switch', 'oomp_key_full': 'oomp_footprint_ariejan_ariejan_smd_tactile_switch_1de2ba', 'oomp_key_simple': 'ariejan_ariejan_smd_tactile_switch', 'original_filename': 'ariejan.pretty/SMD-TACTILE-SWITCH.kicad_mod', 'owner_name': 'ariejan'} |  
 | oomp_key | oomp_ariejan_ariejan_smd_tactile_switch |  
+| oomp_key_full | oomp_footprint_ariejan_ariejan_smd_tactile_switch |  
 | oomp_key_simple | ariejan_ariejan_smd_tactile_switch |  
 | owner | ariejan |  
 | repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  

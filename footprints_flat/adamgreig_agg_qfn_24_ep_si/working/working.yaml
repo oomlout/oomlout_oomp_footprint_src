@@ -17,9 +17,18 @@
   oomp:
     footprint_name: qfn_24_ep_si
     library_name: agg
+    md5: 12a008a612e14400fc0a5826ff4aec2e
+    md5_10: 12a008a612
+    md5_5: 12a00
+    md5_6: 12a008
+    oomp_key: oomp_adamgreig_agg_qfn_24_ep_si
+    oomp_key_extra: oomp_footprint_adamgreig_agg_qfn_24_ep_si
+    oomp_key_full: oomp_footprint_adamgreig_agg_qfn_24_ep_si_12a008
+    oomp_key_simple: adamgreig_agg_qfn_24_ep_si
     original_filename: agg-kicad/agg.pretty/QFN-24-EP-SI.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_qfn_24_ep_si
+  oomp_key_full: oomp_footprint_adamgreig_agg_qfn_24_ep_si
   oomp_key_simple: adamgreig_agg_qfn_24_ep_si
   owner: adamgreig
   repo:

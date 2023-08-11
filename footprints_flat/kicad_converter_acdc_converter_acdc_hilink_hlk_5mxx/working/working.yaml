@@ -17,9 +17,18 @@
   oomp:
     footprint_name: converter_acdc_hilink_hlk_5mxx
     library_name: converter_acdc
+    md5: e22bd0f4f7936a602d548e4e407c26d9
+    md5_10: e22bd0f4f7
+    md5_5: e22bd
+    md5_6: e22bd0
+    oomp_key: oomp_kicad_converter_acdc_converter_acdc_hilink_hlk_5mxx
+    oomp_key_extra: oomp_footprint_kicad_converter_acdc_converter_acdc_hilink_hlk_5mxx
+    oomp_key_full: oomp_footprint_kicad_converter_acdc_converter_acdc_hilink_hlk_5mxx_e22bd0
+    oomp_key_simple: kicad_converter_acdc_converter_acdc_hilink_hlk_5mxx
     original_filename: libraries/kicad-footprints/Converter_ACDC.pretty/Converter_ACDC_HiLink_HLK-5Mxx.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_converter_acdc_converter_acdc_hilink_hlk_5mxx
+  oomp_key_full: oomp_footprint_kicad_converter_acdc_converter_acdc_hilink_hlk_5mxx
   oomp_key_simple: kicad_converter_acdc_converter_acdc_hilink_hlk_5mxx
   owner: kicad
   repo:

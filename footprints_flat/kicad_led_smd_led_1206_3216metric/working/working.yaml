@@ -19,9 +19,18 @@
   oomp:
     footprint_name: led_1206_3216metric
     library_name: led_smd
+    md5: 171fb7c33d4b49a22ff5b6eea2b80dcb
+    md5_10: 171fb7c33d
+    md5_5: 171fb
+    md5_6: 171fb7
+    oomp_key: oomp_kicad_led_smd_led_1206_3216metric
+    oomp_key_extra: oomp_footprint_kicad_led_smd_led_1206_3216metric
+    oomp_key_full: oomp_footprint_kicad_led_smd_led_1206_3216metric_171fb7
+    oomp_key_simple: kicad_led_smd_led_1206_3216metric
     original_filename: libraries/kicad-footprints/LED_SMD.pretty/LED_1206_3216Metric.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_led_smd_led_1206_3216metric
+  oomp_key_full: oomp_footprint_kicad_led_smd_led_1206_3216metric
   oomp_key_simple: kicad_led_smd_led_1206_3216metric
   owner: kicad
   repo:

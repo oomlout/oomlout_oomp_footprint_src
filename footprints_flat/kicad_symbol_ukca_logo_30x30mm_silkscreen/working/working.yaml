@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ukca_logo_30x30mm_silkscreen
     library_name: symbol
+    md5: 5b2c0c8bb6798d3d255c4e84eb53ddd5
+    md5_10: 5b2c0c8bb6
+    md5_5: 5b2c0
+    md5_6: 5b2c0c
+    oomp_key: oomp_kicad_symbol_ukca_logo_30x30mm_silkscreen
+    oomp_key_extra: oomp_footprint_kicad_symbol_ukca_logo_30x30mm_silkscreen
+    oomp_key_full: oomp_footprint_kicad_symbol_ukca_logo_30x30mm_silkscreen_5b2c0c
+    oomp_key_simple: kicad_symbol_ukca_logo_30x30mm_silkscreen
     original_filename: libraries/kicad-footprints/Symbol.pretty/UKCA-Logo_30x30mm_SilkScreen.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_symbol_ukca_logo_30x30mm_silkscreen
+  oomp_key_full: oomp_footprint_kicad_symbol_ukca_logo_30x30mm_silkscreen
   oomp_key_simple: kicad_symbol_ukca_logo_30x30mm_silkscreen
   owner: kicad
   repo:

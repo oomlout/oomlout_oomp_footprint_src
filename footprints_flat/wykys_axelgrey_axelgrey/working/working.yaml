@@ -16,10 +16,19 @@
   name: kicad
   oomp:
     footprint_name: axelgrey
-    library_name: mods
+    library_name: axelgrey_kicad_mod
+    md5: d772559ef32be888a699271623a468d3
+    md5_10: d772559ef3
+    md5_5: d7725
+    md5_6: d77255
+    oomp_key: oomp_wykys_axelgrey_axelgrey
+    oomp_key_extra: oomp_footprint_wykys_axelgrey_axelgrey
+    oomp_key_full: oomp_footprint_wykys_axelgrey_axelgrey_d77255
+    oomp_key_simple: wykys_axelgrey_axelgrey
     original_filename: kicad/mods/axelgrey.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_axelgrey_axelgrey
+  oomp_key_full: oomp_footprint_wykys_axelgrey_axelgrey
   oomp_key_simple: wykys_axelgrey_axelgrey
   owner: wykys
   repo:

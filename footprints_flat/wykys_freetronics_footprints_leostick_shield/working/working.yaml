@@ -17,9 +17,18 @@
   oomp:
     footprint_name: leostick_shield
     library_name: freetronics_footprints
+    md5: 75241b101c9845af3055e5095260660c
+    md5_10: 75241b101c
+    md5_5: '75241'
+    md5_6: 75241b
+    oomp_key: oomp_wykys_freetronics_footprints_leostick_shield
+    oomp_key_extra: oomp_footprint_wykys_freetronics_footprints_leostick_shield
+    oomp_key_full: oomp_footprint_wykys_freetronics_footprints_leostick_shield_75241b
+    oomp_key_simple: wykys_freetronics_footprints_leostick_shield
     original_filename: kicad/mods/freetronics_footprints.pretty/LEOSTICK_SHIELD.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_freetronics_footprints_leostick_shield
+  oomp_key_full: oomp_footprint_wykys_freetronics_footprints_leostick_shield
   oomp_key_simple: wykys_freetronics_footprints_leostick_shield
   owner: wykys
   repo:

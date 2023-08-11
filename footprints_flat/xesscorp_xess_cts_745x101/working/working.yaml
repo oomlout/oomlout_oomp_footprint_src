@@ -17,9 +17,18 @@
   oomp:
     footprint_name: cts_745x101
     library_name: xess
+    md5: 109a02e15e0f565a5079e1553b9fc038
+    md5_10: 109a02e15e
+    md5_5: 109a0
+    md5_6: 109a02
+    oomp_key: oomp_xesscorp_xess_cts_745x101
+    oomp_key_extra: oomp_footprint_xesscorp_xess_cts_745x101
+    oomp_key_full: oomp_footprint_xesscorp_xess_cts_745x101_109a02
+    oomp_key_simple: xesscorp_xess_cts_745x101
     original_filename: xess.pretty/CTS_745X101.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_cts_745x101
+  oomp_key_full: oomp_footprint_xesscorp_xess_cts_745x101
   oomp_key_simple: xesscorp_xess_cts_745x101
   owner: xesscorp
   repo:

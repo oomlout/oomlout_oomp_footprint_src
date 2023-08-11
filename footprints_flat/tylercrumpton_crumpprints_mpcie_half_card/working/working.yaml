@@ -17,9 +17,18 @@
   oomp:
     footprint_name: mpcie_half_card
     library_name: crumpprints
+    md5: f24ef327a566b65998ac3157ebc38607
+    md5_10: f24ef327a5
+    md5_5: f24ef
+    md5_6: f24ef3
+    oomp_key: oomp_tylercrumpton_crumpprints_mpcie_half_card
+    oomp_key_extra: oomp_footprint_tylercrumpton_crumpprints_mpcie_half_card
+    oomp_key_full: oomp_footprint_tylercrumpton_crumpprints_mpcie_half_card_f24ef3
+    oomp_key_simple: tylercrumpton_crumpprints_mpcie_half_card
     original_filename: CrumpPrints.pretty/MPCIe_half_card.kicad_mod
     owner_name: tylercrumpton
   oomp_key: oomp_tylercrumpton_crumpprints_mpcie_half_card
+  oomp_key_full: oomp_footprint_tylercrumpton_crumpprints_mpcie_half_card
   oomp_key_simple: tylercrumpton_crumpprints_mpcie_half_card
   owner: tylercrumpton
   repo:

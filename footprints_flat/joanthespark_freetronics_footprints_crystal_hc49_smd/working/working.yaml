@@ -17,9 +17,18 @@
   oomp:
     footprint_name: crystal_hc49_smd
     library_name: freetronics_footprints
+    md5: 82881c2cb1c273908787d6047f466010
+    md5_10: 82881c2cb1
+    md5_5: '82881'
+    md5_6: 82881c
+    oomp_key: oomp_joanthespark_freetronics_footprints_crystal_hc49_smd
+    oomp_key_extra: oomp_footprint_joanthespark_freetronics_footprints_crystal_hc49_smd
+    oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_crystal_hc49_smd_82881c
+    oomp_key_simple: joanthespark_freetronics_footprints_crystal_hc49_smd
     original_filename: KiCAD/mods/freetronics_footprints.pretty/CRYSTAL_HC49_SMD.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_freetronics_footprints_crystal_hc49_smd
+  oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_crystal_hc49_smd
   oomp_key_simple: joanthespark_freetronics_footprints_crystal_hc49_smd
   owner: JoanTheSpark
   repo:

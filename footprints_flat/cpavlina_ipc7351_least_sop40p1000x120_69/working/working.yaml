@@ -18,9 +18,18 @@
   oomp:
     footprint_name: sop40p1000x120_69
     library_name: ipc7351_least
+    md5: f73ef77087d81d222c57bffd117e6754
+    md5_10: f73ef77087
+    md5_5: f73ef
+    md5_6: f73ef7
+    oomp_key: oomp_cpavlina_ipc7351_least_sop40p1000x120_69
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_least_sop40p1000x120_69
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_least_sop40p1000x120_69_f73ef7
+    oomp_key_simple: cpavlina_ipc7351_least_sop40p1000x120_69
     original_filename: kicad-pcblib/IPC7351-Least.pretty/SOP40P1000X120-69.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_least_sop40p1000x120_69
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_least_sop40p1000x120_69
   oomp_key_simple: cpavlina_ipc7351_least_sop40p1000x120_69
   owner: cpavlina
   repo:

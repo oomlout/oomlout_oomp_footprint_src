@@ -17,9 +17,18 @@
   oomp:
     footprint_name: lshm_105_xx_x_xx_dv_a_n_x_tr
     library_name: connectors_samtec
+    md5: fd99df2bd0af9fbd2f31e9b3aa8f503e
+    md5_10: fd99df2bd0
+    md5_5: fd99d
+    md5_6: fd99df
+    oomp_key: oomp_twam_connectors_samtec_lshm_105_xx_x_xx_dv_a_n_x_tr
+    oomp_key_extra: oomp_footprint_twam_connectors_samtec_lshm_105_xx_x_xx_dv_a_n_x_tr
+    oomp_key_full: oomp_footprint_twam_connectors_samtec_lshm_105_xx_x_xx_dv_a_n_x_tr_fd99df
+    oomp_key_simple: twam_connectors_samtec_lshm_105_xx_x_xx_dv_a_n_x_tr
     original_filename: Connectors_Samtec.pretty/LSHM-105-XX.X-XX-DV-A-N-X-TR.kicad_mod
     owner_name: twam
   oomp_key: oomp_twam_connectors_samtec_lshm_105_xx_x_xx_dv_a_n_x_tr
+  oomp_key_full: oomp_footprint_twam_connectors_samtec_lshm_105_xx_x_xx_dv_a_n_x_tr
   oomp_key_simple: twam_connectors_samtec_lshm_105_xx_x_xx_dv_a_n_x_tr
   owner: twam
   repo:

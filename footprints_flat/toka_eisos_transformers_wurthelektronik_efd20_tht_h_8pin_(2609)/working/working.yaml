@@ -17,9 +17,18 @@
   oomp:
     footprint_name: efd20_tht_h_8pin_(2609)
     library_name: transformers_wurthelektronik
+    md5: 3444110cd95d55b93c497140b5ca520a
+    md5_10: 3444110cd9
+    md5_5: '34441'
+    md5_6: '344411'
+    oomp_key: oomp_toka_eisos_transformers_wurthelektronik_efd20_tht_h_8pin_(2609)
+    oomp_key_extra: oomp_footprint_toka_eisos_transformers_wurthelektronik_efd20_tht_h_8pin_(2609)
+    oomp_key_full: oomp_footprint_toka_eisos_transformers_wurthelektronik_efd20_tht_h_8pin_(2609)_344411
+    oomp_key_simple: toka_eisos_transformers_wurthelektronik_efd20_tht_h_8pin_(2609)
     original_filename: Transformers_WurthElektronik.pretty/EFD20_THT_H_8PIN_(2609).kicad_mod
     owner_name: toka_eisos
   oomp_key: oomp_toka_eisos_transformers_wurthelektronik_efd20_tht_h_8pin_(2609)
+  oomp_key_full: oomp_footprint_toka_eisos_transformers_wurthelektronik_efd20_tht_h_8pin_(2609)
   oomp_key_simple: toka_eisos_transformers_wurthelektronik_efd20_tht_h_8pin_(2609)
   owner: toka-eisos
   repo:

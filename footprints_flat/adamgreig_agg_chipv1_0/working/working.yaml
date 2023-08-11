@@ -17,9 +17,18 @@
   oomp:
     footprint_name: chipv1_0
     library_name: agg
+    md5: f03e21bbd80ce6f064177ecdb32e14d0
+    md5_10: f03e21bbd8
+    md5_5: f03e2
+    md5_6: f03e21
+    oomp_key: oomp_adamgreig_agg_chipv1_0
+    oomp_key_extra: oomp_footprint_adamgreig_agg_chipv1_0
+    oomp_key_full: oomp_footprint_adamgreig_agg_chipv1_0_f03e21
+    oomp_key_simple: adamgreig_agg_chipv1_0
     original_filename: agg-kicad/agg.pretty/CHIPv1_0.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_chipv1_0
+  oomp_key_full: oomp_footprint_adamgreig_agg_chipv1_0
   oomp_key_simple: adamgreig_agg_chipv1_0
   owner: adamgreig
   repo:

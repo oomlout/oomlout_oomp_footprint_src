@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sw_cherry_mx_pcb_isoenter_90deg
     library_name: switch_keyboard_cherry_mx
+    md5: 228371f6ca210030aab4665824d57a5f
+    md5_10: 228371f6ca
+    md5_5: '22837'
+    md5_6: '228371'
+    oomp_key: oomp_axello_switch_keyboard_cherry_mx_sw_cherry_mx_pcb_isoenter_90deg
+    oomp_key_extra: oomp_footprint_axello_switch_keyboard_cherry_mx_sw_cherry_mx_pcb_isoenter_90deg
+    oomp_key_full: oomp_footprint_axello_switch_keyboard_cherry_mx_sw_cherry_mx_pcb_isoenter_90deg_228371
+    oomp_key_simple: axello_switch_keyboard_cherry_mx_sw_cherry_mx_pcb_isoenter_90deg
     original_filename: kicad/6.0/3rdparty/footprints/com_github_perigoso_keyswitch-kicad-library/Switch_Keyboard_Cherry_MX.pretty/SW_Cherry_MX_PCB_ISOEnter_90deg.kicad_mod
     owner_name: axello
   oomp_key: oomp_axello_switch_keyboard_cherry_mx_sw_cherry_mx_pcb_isoenter_90deg
+  oomp_key_full: oomp_footprint_axello_switch_keyboard_cherry_mx_sw_cherry_mx_pcb_isoenter_90deg
   oomp_key_simple: axello_switch_keyboard_cherry_mx_sw_cherry_mx_pcb_isoenter_90deg
   owner: axello
   repo:

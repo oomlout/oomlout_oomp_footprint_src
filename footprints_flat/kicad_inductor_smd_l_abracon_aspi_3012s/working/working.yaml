@@ -17,9 +17,18 @@
   oomp:
     footprint_name: l_abracon_aspi_3012s
     library_name: inductor_smd
+    md5: fced52dd95f06986451f53ef015b51c0
+    md5_10: fced52dd95
+    md5_5: fced5
+    md5_6: fced52
+    oomp_key: oomp_kicad_inductor_smd_l_abracon_aspi_3012s
+    oomp_key_extra: oomp_footprint_kicad_inductor_smd_l_abracon_aspi_3012s
+    oomp_key_full: oomp_footprint_kicad_inductor_smd_l_abracon_aspi_3012s_fced52
+    oomp_key_simple: kicad_inductor_smd_l_abracon_aspi_3012s
     original_filename: libraries/kicad-footprints/Inductor_SMD.pretty/L_Abracon_ASPI-3012S.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_inductor_smd_l_abracon_aspi_3012s
+  oomp_key_full: oomp_footprint_kicad_inductor_smd_l_abracon_aspi_3012s
   oomp_key_simple: kicad_inductor_smd_l_abracon_aspi_3012s
   owner: kicad
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: murata_1200lrs
     library_name: manuf
+    md5: 3d5e2b9a3d1cfedd1e9566e7a50dddbe
+    md5_10: 3d5e2b9a3d
+    md5_5: 3d5e2
+    md5_6: 3d5e2b
+    oomp_key: oomp_cpavlina_manuf_murata_1200lrs
+    oomp_key_extra: oomp_footprint_cpavlina_manuf_murata_1200lrs
+    oomp_key_full: oomp_footprint_cpavlina_manuf_murata_1200lrs_3d5e2b
+    oomp_key_simple: cpavlina_manuf_murata_1200lrs
     original_filename: kicad-pcblib/manuf.pretty/MURATA-1200LRS.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_manuf_murata_1200lrs
+  oomp_key_full: oomp_footprint_cpavlina_manuf_murata_1200lrs
   oomp_key_simple: cpavlina_manuf_murata_1200lrs
   owner: cpavlina
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: nettie_4_smd_pad2_0mm
     library_name: nettie
+    md5: 672af19677e538a9708d2be0bbdd0cbf
+    md5_10: 672af19677
+    md5_5: 672af
+    md5_6: 672af1
+    oomp_key: oomp_kicad_nettie_nettie_4_smd_pad2_0mm
+    oomp_key_extra: oomp_footprint_kicad_nettie_nettie_4_smd_pad2_0mm
+    oomp_key_full: oomp_footprint_kicad_nettie_nettie_4_smd_pad2_0mm_672af1
+    oomp_key_simple: kicad_nettie_nettie_4_smd_pad2_0mm
     original_filename: libraries/kicad-footprints/NetTie.pretty/NetTie-4_SMD_Pad2.0mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_nettie_nettie_4_smd_pad2_0mm
+  oomp_key_full: oomp_footprint_kicad_nettie_nettie_4_smd_pad2_0mm
   oomp_key_simple: kicad_nettie_nettie_4_smd_pad2_0mm
   owner: kicad
   repo:

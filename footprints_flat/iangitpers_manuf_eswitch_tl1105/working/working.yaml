@@ -19,9 +19,18 @@
   oomp:
     footprint_name: eswitch_tl1105
     library_name: manuf
+    md5: 7895a8eced96e68bd9435b18419676f8
+    md5_10: 7895a8eced
+    md5_5: 7895a
+    md5_6: 7895a8
+    oomp_key: oomp_iangitpers_manuf_eswitch_tl1105
+    oomp_key_extra: oomp_footprint_iangitpers_manuf_eswitch_tl1105
+    oomp_key_full: oomp_footprint_iangitpers_manuf_eswitch_tl1105_7895a8
+    oomp_key_simple: iangitpers_manuf_eswitch_tl1105
     original_filename: 4a/manuf.pretty/ESWITCH-TL1105.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_manuf_eswitch_tl1105
+  oomp_key_full: oomp_footprint_iangitpers_manuf_eswitch_tl1105
   oomp_key_simple: iangitpers_manuf_eswitch_tl1105
   owner: Iangitpers
   repo:

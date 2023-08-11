@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sc_59
     library_name: package_to_sot_smd
+    md5: 92d046cd7722616cd5fe70314dfa8475
+    md5_10: 92d046cd77
+    md5_5: 92d04
+    md5_6: 92d046
+    oomp_key: oomp_kicad_package_to_sot_smd_sc_59
+    oomp_key_extra: oomp_footprint_kicad_package_to_sot_smd_sc_59
+    oomp_key_full: oomp_footprint_kicad_package_to_sot_smd_sc_59_92d046
+    oomp_key_simple: kicad_package_to_sot_smd_sc_59
     original_filename: libraries/kicad-footprints/Package_TO_SOT_SMD.pretty/SC-59.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_to_sot_smd_sc_59
+  oomp_key_full: oomp_footprint_kicad_package_to_sot_smd_sc_59
   oomp_key_simple: kicad_package_to_sot_smd_sc_59
   owner: kicad
   repo:

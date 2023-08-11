@@ -17,9 +17,18 @@
   oomp:
     footprint_name: vfbga_100_7_0x7_0mm_layout10x10_p0_65mm
     library_name: package_bga
+    md5: 2646a1bb4eaf4c6deff4ce64ed7705bd
+    md5_10: 2646a1bb4e
+    md5_5: 2646a
+    md5_6: 2646a1
+    oomp_key: oomp_kicad_package_bga_vfbga_100_7_0x7_0mm_layout10x10_p0_65mm
+    oomp_key_extra: oomp_footprint_kicad_package_bga_vfbga_100_7_0x7_0mm_layout10x10_p0_65mm
+    oomp_key_full: oomp_footprint_kicad_package_bga_vfbga_100_7_0x7_0mm_layout10x10_p0_65mm_2646a1
+    oomp_key_simple: kicad_package_bga_vfbga_100_7_0x7_0mm_layout10x10_p0_65mm
     original_filename: libraries/kicad-footprints/Package_BGA.pretty/VFBGA-100_7.0x7.0mm_Layout10x10_P0.65mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_bga_vfbga_100_7_0x7_0mm_layout10x10_p0_65mm
+  oomp_key_full: oomp_footprint_kicad_package_bga_vfbga_100_7_0x7_0mm_layout10x10_p0_65mm
   oomp_key_simple: kicad_package_bga_vfbga_100_7_0x7_0mm_layout10x10_p0_65mm
   owner: kicad
   repo:

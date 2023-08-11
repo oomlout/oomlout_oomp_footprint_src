@@ -17,9 +17,18 @@
   oomp:
     footprint_name: halfsidehole
     library_name: acheron_mountingholes
+    md5: fd9ec7fcd16653c00a59d9f9376d1e73
+    md5_10: fd9ec7fcd1
+    md5_5: fd9ec
+    md5_6: fd9ec7
+    oomp_key: oomp_acheronproject_acheron_mountingholes_halfsidehole
+    oomp_key_extra: oomp_footprint_acheronproject_acheron_mountingholes_halfsidehole
+    oomp_key_full: oomp_footprint_acheronproject_acheron_mountingholes_halfsidehole_fd9ec7
+    oomp_key_simple: acheronproject_acheron_mountingholes_halfsidehole
     original_filename: acheron_MountingHoles.pretty/halfSideHole.kicad_mod
     owner_name: acheronproject
   oomp_key: oomp_acheronproject_acheron_mountingholes_halfsidehole
+  oomp_key_full: oomp_footprint_acheronproject_acheron_mountingholes_halfsidehole
   oomp_key_simple: acheronproject_acheron_mountingholes_halfsidehole
   owner: AcheronProject
   repo:

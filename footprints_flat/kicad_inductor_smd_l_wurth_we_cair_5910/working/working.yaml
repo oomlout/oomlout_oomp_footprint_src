@@ -17,9 +17,18 @@
   oomp:
     footprint_name: l_wurth_we_cair_5910
     library_name: inductor_smd
+    md5: 26665032c0fdef1d26d53b8f356fad8c
+    md5_10: 26665032c0
+    md5_5: '26665'
+    md5_6: '266650'
+    oomp_key: oomp_kicad_inductor_smd_l_wurth_we_cair_5910
+    oomp_key_extra: oomp_footprint_kicad_inductor_smd_l_wurth_we_cair_5910
+    oomp_key_full: oomp_footprint_kicad_inductor_smd_l_wurth_we_cair_5910_266650
+    oomp_key_simple: kicad_inductor_smd_l_wurth_we_cair_5910
     original_filename: libraries/kicad-footprints/Inductor_SMD.pretty/L_Wurth_WE-CAIR-5910.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_inductor_smd_l_wurth_we_cair_5910
+  oomp_key_full: oomp_footprint_kicad_inductor_smd_l_wurth_we_cair_5910
   oomp_key_simple: kicad_inductor_smd_l_wurth_we_cair_5910
   owner: kicad
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: mask
     library_name: keebee
+    md5: 7eca11546f38969deec61e3b5059cd63
+    md5_10: 7eca11546f
+    md5_5: 7eca1
+    md5_6: 7eca11
+    oomp_key: oomp_jmding8_keebee_mask
+    oomp_key_extra: oomp_footprint_jmding8_keebee_mask
+    oomp_key_full: oomp_footprint_jmding8_keebee_mask_7eca11
+    oomp_key_simple: jmding8_keebee_mask
     original_filename: keebee.pretty/mask.kicad_mod
     owner_name: jmding8
   oomp_key: oomp_jmding8_keebee_mask
+  oomp_key_full: oomp_footprint_jmding8_keebee_mask
   oomp_key_simple: jmding8_keebee_mask
   owner: jmding8
   repo:

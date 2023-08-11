@@ -17,9 +17,18 @@
   oomp:
     footprint_name: bluetooth_module_ble112_a_v1
     library_name: digikey_footprints
+    md5: 47570fb7658fd30145d14268de02accd
+    md5_10: 47570fb765
+    md5_5: '47570'
+    md5_6: 47570f
+    oomp_key: oomp_digikey_digikey_footprints_bluetooth_module_ble112_a_v1
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_bluetooth_module_ble112_a_v1
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_bluetooth_module_ble112_a_v1_47570f
+    oomp_key_simple: digikey_digikey_footprints_bluetooth_module_ble112_a_v1
     original_filename: digikey-kicad-library/digikey-footprints.pretty/Bluetooth_Module_BLE112-A-V1.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_bluetooth_module_ble112_a_v1
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_bluetooth_module_ble112_a_v1
   oomp_key_simple: digikey_digikey_footprints_bluetooth_module_ble112_a_v1
   owner: digikey
   repo:

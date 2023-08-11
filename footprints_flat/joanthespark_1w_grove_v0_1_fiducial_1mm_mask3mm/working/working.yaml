@@ -17,9 +17,18 @@
   oomp:
     footprint_name: fiducial_1mm_mask3mm
     library_name: 1w_grove_v0_1
+    md5: 331f7ef9c583bb827997e23c7d937216
+    md5_10: 331f7ef9c5
+    md5_5: 331f7
+    md5_6: 331f7e
+    oomp_key: oomp_joanthespark_1w_grove_v0_1_fiducial_1mm_mask3mm
+    oomp_key_extra: oomp_footprint_joanthespark_1w_grove_v0_1_fiducial_1mm_mask3mm
+    oomp_key_full: oomp_footprint_joanthespark_1w_grove_v0_1_fiducial_1mm_mask3mm_331f7e
+    oomp_key_simple: joanthespark_1w_grove_v0_1_fiducial_1mm_mask3mm
     original_filename: KiCAD/6.0/projects/1w-grove-v0.1/1w-grove-v0.1.pretty/Fiducial_1mm_Mask3mm.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_1w_grove_v0_1_fiducial_1mm_mask3mm
+  oomp_key_full: oomp_footprint_joanthespark_1w_grove_v0_1_fiducial_1mm_mask3mm
   oomp_key_simple: joanthespark_1w_grove_v0_1_fiducial_1mm_mask3mm
   owner: JoanTheSpark
   repo:

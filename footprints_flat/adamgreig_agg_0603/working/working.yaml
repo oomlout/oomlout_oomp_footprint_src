@@ -17,9 +17,18 @@
   oomp:
     footprint_name: '0603'
     library_name: agg
+    md5: 54e810ba07d2e9c8ff7c4ab76e1ca3ff
+    md5_10: 54e810ba07
+    md5_5: 54e81
+    md5_6: 54e810
+    oomp_key: oomp_adamgreig_agg_0603
+    oomp_key_extra: oomp_footprint_adamgreig_agg_0603
+    oomp_key_full: oomp_footprint_adamgreig_agg_0603_54e810
+    oomp_key_simple: adamgreig_agg_0603
     original_filename: agg-kicad/agg.pretty/0603.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_0603
+  oomp_key_full: oomp_footprint_adamgreig_agg_0603
   oomp_key_simple: adamgreig_agg_0603
   owner: adamgreig
   repo:

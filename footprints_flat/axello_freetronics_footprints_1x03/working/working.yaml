@@ -17,9 +17,18 @@
   oomp:
     footprint_name: 1x03
     library_name: freetronics_footprints
+    md5: 6cceb53359040891d1d9e2d047868342
+    md5_10: 6cceb53359
+    md5_5: 6cceb
+    md5_6: 6cceb5
+    oomp_key: oomp_axello_freetronics_footprints_1x03
+    oomp_key_extra: oomp_footprint_axello_freetronics_footprints_1x03
+    oomp_key_full: oomp_footprint_axello_freetronics_footprints_1x03_6cceb5
+    oomp_key_simple: axello_freetronics_footprints_1x03
     original_filename: kicad/mods/freetronics_footprints.pretty/1X03.kicad_mod
     owner_name: axello
   oomp_key: oomp_axello_freetronics_footprints_1x03
+  oomp_key_full: oomp_footprint_axello_freetronics_footprints_1x03
   oomp_key_simple: axello_freetronics_footprints_1x03
   owner: axello
   repo:

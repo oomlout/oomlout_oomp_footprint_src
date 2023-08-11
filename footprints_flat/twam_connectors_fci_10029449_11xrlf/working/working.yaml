@@ -17,9 +17,18 @@
   oomp:
     footprint_name: 10029449_11xrlf
     library_name: connectors_fci
+    md5: 98ff03d5ecf653545b1c38b2898828b4
+    md5_10: 98ff03d5ec
+    md5_5: 98ff0
+    md5_6: 98ff03
+    oomp_key: oomp_twam_connectors_fci_10029449_11xrlf
+    oomp_key_extra: oomp_footprint_twam_connectors_fci_10029449_11xrlf
+    oomp_key_full: oomp_footprint_twam_connectors_fci_10029449_11xrlf_98ff03
+    oomp_key_simple: twam_connectors_fci_10029449_11xrlf
     original_filename: Connectors_FCI.pretty/10029449-11xRLF.kicad_mod
     owner_name: twam
   oomp_key: oomp_twam_connectors_fci_10029449_11xrlf
+  oomp_key_full: oomp_footprint_twam_connectors_fci_10029449_11xrlf
   oomp_key_simple: twam_connectors_fci_10029449_11xrlf
   owner: twam
   repo:

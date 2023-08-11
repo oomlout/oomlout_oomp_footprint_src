@@ -18,9 +18,18 @@
   oomp:
     footprint_name: rescav127p320x254x70_4
     library_name: ipc7351_most
+    md5: 94509e7e597eff2b3566b2d7d4c3528c
+    md5_10: 94509e7e59
+    md5_5: '94509'
+    md5_6: 94509e
+    oomp_key: oomp_cpavlina_ipc7351_most_rescav127p320x254x70_4
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_most_rescav127p320x254x70_4
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_most_rescav127p320x254x70_4_94509e
+    oomp_key_simple: cpavlina_ipc7351_most_rescav127p320x254x70_4
     original_filename: kicad-pcblib/IPC7351-Most.pretty/RESCAV127P320X254X70-4.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_most_rescav127p320x254x70_4
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_most_rescav127p320x254x70_4
   oomp_key_simple: cpavlina_ipc7351_most_rescav127p320x254x70_4
   owner: cpavlina
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_adg633yru
     library_name: xess
+    md5: 407b9610bbd7023ff03e39f378facc00
+    md5_10: 407b9610bb
+    md5_5: 407b9
+    md5_6: 407b96
+    oomp_key: oomp_xesscorp_xess_xess_adg633yru
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_adg633yru
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_adg633yru_407b96
+    oomp_key_simple: xesscorp_xess_xess_adg633yru
     original_filename: xess.pretty/xess-ADG633YRU.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_adg633yru
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_adg633yru
   oomp_key_simple: xesscorp_xess_xess_adg633yru
   owner: xesscorp
   repo:

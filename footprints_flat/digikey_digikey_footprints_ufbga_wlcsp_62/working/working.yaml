@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ufbga_wlcsp_62
     library_name: digikey_footprints
+    md5: bc5c252a5a87dfc37ca3a168cf1398a2
+    md5_10: bc5c252a5a
+    md5_5: bc5c2
+    md5_6: bc5c25
+    oomp_key: oomp_digikey_digikey_footprints_ufbga_wlcsp_62
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_ufbga_wlcsp_62
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_ufbga_wlcsp_62_bc5c25
+    oomp_key_simple: digikey_digikey_footprints_ufbga_wlcsp_62
     original_filename: digikey-kicad-library/digikey-footprints.pretty/UFBGA_WLCSP-62.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_ufbga_wlcsp_62
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_ufbga_wlcsp_62
   oomp_key_simple: digikey_digikey_footprints_ufbga_wlcsp_62
   owner: digikey
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: lps3015_footprint
     library_name: kicadprints
+    md5: d606aa92d09653ce4e247ead9e998008
+    md5_10: d606aa92d0
+    md5_5: d606a
+    md5_6: d606aa
+    oomp_key: oomp_d3philip_kicadprints_lps3015_footprint
+    oomp_key_extra: oomp_footprint_d3philip_kicadprints_lps3015_footprint
+    oomp_key_full: oomp_footprint_d3philip_kicadprints_lps3015_footprint_d606aa
+    oomp_key_simple: d3philip_kicadprints_lps3015_footprint
     original_filename: kicadprints.pretty/LPS3015_footprint.kicad_mod
     owner_name: d3philip
   oomp_key: oomp_d3philip_kicadprints_lps3015_footprint
+  oomp_key_full: oomp_footprint_d3philip_kicadprints_lps3015_footprint
   oomp_key_simple: d3philip_kicadprints_lps3015_footprint
   owner: d3philip
   repo:

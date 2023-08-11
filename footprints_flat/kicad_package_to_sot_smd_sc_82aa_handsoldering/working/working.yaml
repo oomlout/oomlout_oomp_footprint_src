@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sc_82aa_handsoldering
     library_name: package_to_sot_smd
+    md5: 92122f7ac44229ef753ed5c7a9d0549a
+    md5_10: 92122f7ac4
+    md5_5: '92122'
+    md5_6: 92122f
+    oomp_key: oomp_kicad_package_to_sot_smd_sc_82aa_handsoldering
+    oomp_key_extra: oomp_footprint_kicad_package_to_sot_smd_sc_82aa_handsoldering
+    oomp_key_full: oomp_footprint_kicad_package_to_sot_smd_sc_82aa_handsoldering_92122f
+    oomp_key_simple: kicad_package_to_sot_smd_sc_82aa_handsoldering
     original_filename: libraries/kicad-footprints/Package_TO_SOT_SMD.pretty/SC-82AA_Handsoldering.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_to_sot_smd_sc_82aa_handsoldering
+  oomp_key_full: oomp_footprint_kicad_package_to_sot_smd_sc_82aa_handsoldering
   oomp_key_simple: kicad_package_to_sot_smd_sc_82aa_handsoldering
   owner: kicad
   repo:

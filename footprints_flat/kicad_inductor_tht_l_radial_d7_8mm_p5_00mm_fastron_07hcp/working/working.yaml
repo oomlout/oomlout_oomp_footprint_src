@@ -18,9 +18,18 @@
   oomp:
     footprint_name: l_radial_d7_8mm_p5_00mm_fastron_07hcp
     library_name: inductor_tht
+    md5: b714d04511aa428eca6f1a270cbf17d3
+    md5_10: b714d04511
+    md5_5: b714d
+    md5_6: b714d0
+    oomp_key: oomp_kicad_inductor_tht_l_radial_d7_8mm_p5_00mm_fastron_07hcp
+    oomp_key_extra: oomp_footprint_kicad_inductor_tht_l_radial_d7_8mm_p5_00mm_fastron_07hcp
+    oomp_key_full: oomp_footprint_kicad_inductor_tht_l_radial_d7_8mm_p5_00mm_fastron_07hcp_b714d0
+    oomp_key_simple: kicad_inductor_tht_l_radial_d7_8mm_p5_00mm_fastron_07hcp
     original_filename: libraries/kicad-footprints/Inductor_THT.pretty/L_Radial_D7.8mm_P5.00mm_Fastron_07HCP.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_inductor_tht_l_radial_d7_8mm_p5_00mm_fastron_07hcp
+  oomp_key_full: oomp_footprint_kicad_inductor_tht_l_radial_d7_8mm_p5_00mm_fastron_07hcp
   oomp_key_simple: kicad_inductor_tht_l_radial_d7_8mm_p5_00mm_fastron_07hcp
   owner: kicad
   repo:

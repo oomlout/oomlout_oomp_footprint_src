@@ -17,9 +17,18 @@
   oomp:
     footprint_name: vsop28
     library_name: xess
+    md5: d137c8aa24b72b70d766c39968307b0f
+    md5_10: d137c8aa24
+    md5_5: d137c
+    md5_6: d137c8
+    oomp_key: oomp_xesscorp_xess_vsop28
+    oomp_key_extra: oomp_footprint_xesscorp_xess_vsop28
+    oomp_key_full: oomp_footprint_xesscorp_xess_vsop28_d137c8
+    oomp_key_simple: xesscorp_xess_vsop28
     original_filename: xess.pretty/VSOP28.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_vsop28
+  oomp_key_full: oomp_footprint_xesscorp_xess_vsop28
   oomp_key_simple: xesscorp_xess_vsop28
   owner: xesscorp
   repo:

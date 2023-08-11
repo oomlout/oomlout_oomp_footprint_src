@@ -18,9 +18,18 @@
   oomp:
     footprint_name: analog_bga_209_9_5x16mm_layout11x19_p0_8mm_ball0_5mm_pad0_4mm
     library_name: package_bga
+    md5: c77271cec0866fd07f8e54080051c996
+    md5_10: c77271cec0
+    md5_5: c7727
+    md5_6: c77271
+    oomp_key: oomp_kicad_package_bga_analog_bga_209_9_5x16mm_layout11x19_p0_8mm_ball0_5mm_pad0_4mm
+    oomp_key_extra: oomp_footprint_kicad_package_bga_analog_bga_209_9_5x16mm_layout11x19_p0_8mm_ball0_5mm_pad0_4mm
+    oomp_key_full: oomp_footprint_kicad_package_bga_analog_bga_209_9_5x16mm_layout11x19_p0_8mm_ball0_5mm_pad0_4mm_c77271
+    oomp_key_simple: kicad_package_bga_analog_bga_209_9_5x16mm_layout11x19_p0_8mm_ball0_5mm_pad0_4mm
     original_filename: libraries/kicad-footprints/Package_BGA.pretty/Analog_BGA-209_9.5x16mm_Layout11x19_P0.8mm_Ball0.5mm_Pad0.4mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_bga_analog_bga_209_9_5x16mm_layout11x19_p0_8mm_ball0_5mm_pad0_4mm
+  oomp_key_full: oomp_footprint_kicad_package_bga_analog_bga_209_9_5x16mm_layout11x19_p0_8mm_ball0_5mm_pad0_4mm
   oomp_key_simple: kicad_package_bga_analog_bga_209_9_5x16mm_layout11x19_p0_8mm_ball0_5mm_pad0_4mm
   owner: kicad
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: 1206_diode
     library_name: freetronics_footprints
+    md5: 821879017173e644a1abd2a06925419d
+    md5_10: '8218790171'
+    md5_5: '82187'
+    md5_6: '821879'
+    oomp_key: oomp_wykys_freetronics_footprints_1206_diode
+    oomp_key_extra: oomp_footprint_wykys_freetronics_footprints_1206_diode
+    oomp_key_full: oomp_footprint_wykys_freetronics_footprints_1206_diode_821879
+    oomp_key_simple: wykys_freetronics_footprints_1206_diode
     original_filename: kicad/mods/freetronics_footprints.pretty/1206_DIODE.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_freetronics_footprints_1206_diode
+  oomp_key_full: oomp_footprint_wykys_freetronics_footprints_1206_diode
   oomp_key_simple: wykys_freetronics_footprints_1206_diode
   owner: wykys
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: b3u_1000p_b
     library_name: rhais_button_smd
+    md5: 7fb9c2c8f655a8269ac91eca87dd5e58
+    md5_10: 7fb9c2c8f6
+    md5_5: 7fb9c
+    md5_6: 7fb9c2
+    oomp_key: oomp_dx_mon_rhais_button_smd_b3u_1000p_b
+    oomp_key_extra: oomp_footprint_dx_mon_rhais_button_smd_b3u_1000p_b
+    oomp_key_full: oomp_footprint_dx_mon_rhais_button_smd_b3u_1000p_b_7fb9c2
+    oomp_key_simple: dx_mon_rhais_button_smd_b3u_1000p_b
     original_filename: rhais_button-smd.pretty/B3U-1000P-B.kicad_mod
     owner_name: dx_mon
   oomp_key: oomp_dx_mon_rhais_button_smd_b3u_1000p_b
+  oomp_key_full: oomp_footprint_dx_mon_rhais_button_smd_b3u_1000p_b
   oomp_key_simple: dx_mon_rhais_button_smd_b3u_1000p_b
   owner: DX-MON
   repo:

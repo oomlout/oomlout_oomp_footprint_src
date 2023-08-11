@@ -17,9 +17,18 @@
   oomp:
     footprint_name: usd_112i_txao_r
     library_name: xess
+    md5: 92714d1e8d3abff8d834cd98b2f08acf
+    md5_10: 92714d1e8d
+    md5_5: '92714'
+    md5_6: 92714d
+    oomp_key: oomp_xesscorp_xess_usd_112i_txao_r
+    oomp_key_extra: oomp_footprint_xesscorp_xess_usd_112i_txao_r
+    oomp_key_full: oomp_footprint_xesscorp_xess_usd_112i_txao_r_92714d
+    oomp_key_simple: xesscorp_xess_usd_112i_txao_r
     original_filename: xess.pretty/uSD_112I-TXAO-R.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_usd_112i_txao_r
+  oomp_key_full: oomp_footprint_xesscorp_xess_usd_112i_txao_r
   oomp_key_simple: xesscorp_xess_usd_112i_txao_r
   owner: xesscorp
   repo:

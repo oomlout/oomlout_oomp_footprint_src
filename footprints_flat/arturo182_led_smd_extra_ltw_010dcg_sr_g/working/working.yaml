@@ -19,9 +19,18 @@
   oomp:
     footprint_name: ltw_010dcg_sr_g
     library_name: led_smd_extra
+    md5: e03cf2aa63628a5a67b0fd544ee090f1
+    md5_10: e03cf2aa63
+    md5_5: e03cf
+    md5_6: e03cf2
+    oomp_key: oomp_arturo182_led_smd_extra_ltw_010dcg_sr_g
+    oomp_key_extra: oomp_footprint_arturo182_led_smd_extra_ltw_010dcg_sr_g
+    oomp_key_full: oomp_footprint_arturo182_led_smd_extra_ltw_010dcg_sr_g_e03cf2
+    oomp_key_simple: arturo182_led_smd_extra_ltw_010dcg_sr_g
     original_filename: kicad-modules/LED_SMD_Extra.pretty/LTW-010DCG-SR-G.kicad_mod
     owner_name: arturo182
   oomp_key: oomp_arturo182_led_smd_extra_ltw_010dcg_sr_g
+  oomp_key_full: oomp_footprint_arturo182_led_smd_extra_ltw_010dcg_sr_g
   oomp_key_simple: arturo182_led_smd_extra_ltw_010dcg_sr_g
   owner: arturo182
   repo:

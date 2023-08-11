@@ -17,9 +17,18 @@
   oomp:
     footprint_name: beaglebone
     library_name: _beaglebone
+    md5: 3d0567a74bc4388db88a7a2836e92102
+    md5_10: 3d0567a74b
+    md5_5: 3d056
+    md5_6: 3d0567
+    oomp_key: oomp_mcous_beaglebone_beaglebone
+    oomp_key_extra: oomp_footprint_mcous_beaglebone_beaglebone
+    oomp_key_full: oomp_footprint_mcous_beaglebone_beaglebone_3d0567
+    oomp_key_simple: mcous_beaglebone_beaglebone
     original_filename: kicad-lib/footprints/_beaglebone.pretty/BEAGLEBONE.kicad_mod
     owner_name: mcous
   oomp_key: oomp_mcous_beaglebone_beaglebone
+  oomp_key_full: oomp_footprint_mcous_beaglebone_beaglebone
   oomp_key_simple: mcous_beaglebone_beaglebone
   owner: mcous
   repo:

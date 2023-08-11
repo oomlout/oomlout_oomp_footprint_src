@@ -17,9 +17,18 @@
   oomp:
     footprint_name: pinheader_2x5_p1_27_smd
     library_name: digikey_footprints
+    md5: 3b91f3dafb1abdf3e9a1b1ec94134a44
+    md5_10: 3b91f3dafb
+    md5_5: 3b91f
+    md5_6: 3b91f3
+    oomp_key: oomp_digikey_digikey_footprints_pinheader_2x5_p1_27_smd
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_pinheader_2x5_p1_27_smd
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_pinheader_2x5_p1_27_smd_3b91f3
+    oomp_key_simple: digikey_digikey_footprints_pinheader_2x5_p1_27_smd
     original_filename: digikey-kicad-library/digikey-footprints.pretty/PinHeader_2x5_P1.27_SMD.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_pinheader_2x5_p1_27_smd
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_pinheader_2x5_p1_27_smd
   oomp_key_simple: digikey_digikey_footprints_pinheader_2x5_p1_27_smd
   owner: digikey
   repo:

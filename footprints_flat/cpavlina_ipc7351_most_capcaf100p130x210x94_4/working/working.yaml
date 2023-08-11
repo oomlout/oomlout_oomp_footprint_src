@@ -18,9 +18,18 @@
   oomp:
     footprint_name: capcaf100p130x210x94_4
     library_name: ipc7351_most
+    md5: 030cf793986785ec08986f1478f4e34c
+    md5_10: 030cf79398
+    md5_5: 030cf
+    md5_6: 030cf7
+    oomp_key: oomp_cpavlina_ipc7351_most_capcaf100p130x210x94_4
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_most_capcaf100p130x210x94_4
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_most_capcaf100p130x210x94_4_030cf7
+    oomp_key_simple: cpavlina_ipc7351_most_capcaf100p130x210x94_4
     original_filename: kicad-pcblib/IPC7351-Most.pretty/CAPCAF100P130X210X94-4.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_most_capcaf100p130x210x94_4
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_most_capcaf100p130x210x94_4
   oomp_key_simple: cpavlina_ipc7351_most_capcaf100p130x210x94_4
   owner: cpavlina
   repo:

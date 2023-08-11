@@ -18,9 +18,18 @@
   oomp:
     footprint_name: c_rect_l19_0mm_w5_0mm_p15_00mm_mks4
     library_name: capacitor_tht
+    md5: 6c53d358a215d9686551e7b385eb89a0
+    md5_10: 6c53d358a2
+    md5_5: 6c53d
+    md5_6: 6c53d3
+    oomp_key: oomp_kicad_capacitor_tht_c_rect_l19_0mm_w5_0mm_p15_00mm_mks4
+    oomp_key_extra: oomp_footprint_kicad_capacitor_tht_c_rect_l19_0mm_w5_0mm_p15_00mm_mks4
+    oomp_key_full: oomp_footprint_kicad_capacitor_tht_c_rect_l19_0mm_w5_0mm_p15_00mm_mks4_6c53d3
+    oomp_key_simple: kicad_capacitor_tht_c_rect_l19_0mm_w5_0mm_p15_00mm_mks4
     original_filename: libraries/kicad-footprints/Capacitor_THT.pretty/C_Rect_L19.0mm_W5.0mm_P15.00mm_MKS4.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_capacitor_tht_c_rect_l19_0mm_w5_0mm_p15_00mm_mks4
+  oomp_key_full: oomp_footprint_kicad_capacitor_tht_c_rect_l19_0mm_w5_0mm_p15_00mm_mks4
   oomp_key_simple: kicad_capacitor_tht_c_rect_l19_0mm_w5_0mm_p15_00mm_mks4
   owner: kicad
   repo:

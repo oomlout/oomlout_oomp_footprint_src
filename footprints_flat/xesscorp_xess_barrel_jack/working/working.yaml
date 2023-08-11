@@ -17,9 +17,18 @@
   oomp:
     footprint_name: barrel_jack
     library_name: xess
+    md5: f9e4f590802ce3c1c41bd90fc73229c7
+    md5_10: f9e4f59080
+    md5_5: f9e4f
+    md5_6: f9e4f5
+    oomp_key: oomp_xesscorp_xess_barrel_jack
+    oomp_key_extra: oomp_footprint_xesscorp_xess_barrel_jack
+    oomp_key_full: oomp_footprint_xesscorp_xess_barrel_jack_f9e4f5
+    oomp_key_simple: xesscorp_xess_barrel_jack
     original_filename: xess.pretty/BARREL_JACK.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_barrel_jack
+  oomp_key_full: oomp_footprint_xesscorp_xess_barrel_jack
   oomp_key_simple: xesscorp_xess_barrel_jack
   owner: xesscorp
   repo:

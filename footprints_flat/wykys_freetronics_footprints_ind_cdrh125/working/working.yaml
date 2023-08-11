@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ind_cdrh125
     library_name: freetronics_footprints
+    md5: d052f3e3a485ad93ebd026337a5d46d7
+    md5_10: d052f3e3a4
+    md5_5: d052f
+    md5_6: d052f3
+    oomp_key: oomp_wykys_freetronics_footprints_ind_cdrh125
+    oomp_key_extra: oomp_footprint_wykys_freetronics_footprints_ind_cdrh125
+    oomp_key_full: oomp_footprint_wykys_freetronics_footprints_ind_cdrh125_d052f3
+    oomp_key_simple: wykys_freetronics_footprints_ind_cdrh125
     original_filename: kicad/mods/freetronics_footprints.pretty/IND_CDRH125.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_freetronics_footprints_ind_cdrh125
+  oomp_key_full: oomp_footprint_wykys_freetronics_footprints_ind_cdrh125
   oomp_key_simple: wykys_freetronics_footprints_ind_cdrh125
   owner: wykys
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_msop8
     library_name: xess
+    md5: f617e4b61588c49ec603c7f907fd9bc5
+    md5_10: f617e4b615
+    md5_5: f617e
+    md5_6: f617e4
+    oomp_key: oomp_xesscorp_xess_xess_msop8
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_msop8
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_msop8_f617e4
+    oomp_key_simple: xesscorp_xess_xess_msop8
     original_filename: xess.pretty/xess-MSOP8.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_msop8
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_msop8
   oomp_key_simple: xesscorp_xess_xess_msop8
   owner: xesscorp
   repo:

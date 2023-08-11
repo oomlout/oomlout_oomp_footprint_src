@@ -18,9 +18,18 @@
   oomp:
     footprint_name: testpoint_bridge_pitch2_54mm_drill0_7mm
     library_name: testpoint
+    md5: 924165cfcfa91e8ea3872d782fdd0172
+    md5_10: 924165cfcf
+    md5_5: '92416'
+    md5_6: '924165'
+    oomp_key: oomp_kicad_testpoint_testpoint_bridge_pitch2_54mm_drill0_7mm
+    oomp_key_extra: oomp_footprint_kicad_testpoint_testpoint_bridge_pitch2_54mm_drill0_7mm
+    oomp_key_full: oomp_footprint_kicad_testpoint_testpoint_bridge_pitch2_54mm_drill0_7mm_924165
+    oomp_key_simple: kicad_testpoint_testpoint_bridge_pitch2_54mm_drill0_7mm
     original_filename: libraries/kicad-footprints/TestPoint.pretty/TestPoint_Bridge_Pitch2.54mm_Drill0.7mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_testpoint_testpoint_bridge_pitch2_54mm_drill0_7mm
+  oomp_key_full: oomp_footprint_kicad_testpoint_testpoint_bridge_pitch2_54mm_drill0_7mm
   oomp_key_simple: kicad_testpoint_testpoint_bridge_pitch2_54mm_drill0_7mm
   owner: kicad
   repo:

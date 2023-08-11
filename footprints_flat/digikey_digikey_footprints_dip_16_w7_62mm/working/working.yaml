@@ -17,9 +17,18 @@
   oomp:
     footprint_name: dip_16_w7_62mm
     library_name: digikey_footprints
+    md5: 3c8167c97fcba106fd76966c10e6e987
+    md5_10: 3c8167c97f
+    md5_5: 3c816
+    md5_6: 3c8167
+    oomp_key: oomp_digikey_digikey_footprints_dip_16_w7_62mm
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_dip_16_w7_62mm
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_dip_16_w7_62mm_3c8167
+    oomp_key_simple: digikey_digikey_footprints_dip_16_w7_62mm
     original_filename: digikey-kicad-library/digikey-footprints.pretty/DIP-16_W7.62mm.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_dip_16_w7_62mm
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_dip_16_w7_62mm
   oomp_key_simple: digikey_digikey_footprints_dip_16_w7_62mm
   owner: digikey
   repo:

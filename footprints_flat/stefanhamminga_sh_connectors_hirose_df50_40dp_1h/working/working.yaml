@@ -17,9 +17,18 @@
   oomp:
     footprint_name: hirose_df50_40dp_1h
     library_name: sh_connectors
+    md5: 1482e28a9970e0f12430479fa86e6e12
+    md5_10: 1482e28a99
+    md5_5: 1482e
+    md5_6: 1482e2
+    oomp_key: oomp_stefanhamminga_sh_connectors_hirose_df50_40dp_1h
+    oomp_key_extra: oomp_footprint_stefanhamminga_sh_connectors_hirose_df50_40dp_1h
+    oomp_key_full: oomp_footprint_stefanhamminga_sh_connectors_hirose_df50_40dp_1h_1482e2
+    oomp_key_simple: stefanhamminga_sh_connectors_hirose_df50_40dp_1h
     original_filename: SH_Connectors.pretty/Hirose_DF50-40DP-1H.kicad_mod
     owner_name: stefanhamminga
   oomp_key: oomp_stefanhamminga_sh_connectors_hirose_df50_40dp_1h
+  oomp_key_full: oomp_footprint_stefanhamminga_sh_connectors_hirose_df50_40dp_1h
   oomp_key_simple: stefanhamminga_sh_connectors_hirose_df50_40dp_1h
   owner: StefanHamminga
   repo:

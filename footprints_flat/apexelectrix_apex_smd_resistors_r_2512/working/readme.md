@@ -19,8 +19,9 @@ Please consult that link for additional, details, files, and license information
 | github_path | http://github.com/apexelectrix/apex-smd-resistors.pretty/blob/master/R_2512.kicad_mod |  
 | links | {'github_src': 'http://gitlab.com/apexelectrix/apex-smd-resistors.pretty/blob/master/R_Cat16-8.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/apexelectrix_apex_smd_resistors_r_2512/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/apexelectrix_apex_smd_resistors_r_2512/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/apexelectrix_apex_smd_resistors_r_2512/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/apexelectrix_apex_smd_resistors_r_2512/working'} |  
 | name | apex-smd-resistors.pretty |  
-| oomp | {'footprint_name': 'r_2512', 'library_name': 'apex_smd_resistors', 'original_filename': 'apex-smd-resistors.pretty/R_2512.kicad_mod', 'owner_name': 'apexelectrix'} |  
+| oomp | {'footprint_name': 'r_2512', 'library_name': 'apex_smd_resistors', 'md5': '5be0d41ea99eca1d09a57d4418a85353', 'md5_10': '5be0d41ea9', 'md5_5': '5be0d', 'md5_6': '5be0d4', 'oomp_key': 'oomp_apexelectrix_apex_smd_resistors_r_2512', 'oomp_key_extra': 'oomp_footprint_apexelectrix_apex_smd_resistors_r_2512', 'oomp_key_full': 'oomp_footprint_apexelectrix_apex_smd_resistors_r_2512_5be0d4', 'oomp_key_simple': 'apexelectrix_apex_smd_resistors_r_2512', 'original_filename': 'apex-smd-resistors.pretty/R_2512.kicad_mod', 'owner_name': 'apexelectrix'} |  
 | oomp_key | oomp_apexelectrix_apex_smd_resistors_r_2512 |  
+| oomp_key_full | oomp_footprint_apexelectrix_apex_smd_resistors_r_2512 |  
 | oomp_key_simple | apexelectrix_apex_smd_resistors_r_2512 |  
 | owner | apexelectrix |  
 | repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  

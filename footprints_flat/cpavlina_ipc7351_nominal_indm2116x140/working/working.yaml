@@ -17,9 +17,18 @@
   oomp:
     footprint_name: indm2116x140
     library_name: ipc7351_nominal
+    md5: f7a7f84995b93e1eb76cfdc3bed80653
+    md5_10: f7a7f84995
+    md5_5: f7a7f
+    md5_6: f7a7f8
+    oomp_key: oomp_cpavlina_ipc7351_nominal_indm2116x140
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_nominal_indm2116x140
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_indm2116x140_f7a7f8
+    oomp_key_simple: cpavlina_ipc7351_nominal_indm2116x140
     original_filename: kicad-pcblib/IPC7351-Nominal.pretty/INDM2116X140.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_nominal_indm2116x140
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_indm2116x140
   oomp_key_simple: cpavlina_ipc7351_nominal_indm2116x140
   owner: cpavlina
   repo:

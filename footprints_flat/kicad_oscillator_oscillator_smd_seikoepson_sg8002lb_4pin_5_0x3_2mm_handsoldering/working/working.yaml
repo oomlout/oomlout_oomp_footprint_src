@@ -18,9 +18,18 @@
   oomp:
     footprint_name: oscillator_smd_seikoepson_sg8002lb_4pin_5_0x3_2mm_handsoldering
     library_name: oscillator
+    md5: 7b0f103368456c3dbd4e19ee6c7877b9
+    md5_10: 7b0f103368
+    md5_5: 7b0f1
+    md5_6: 7b0f10
+    oomp_key: oomp_kicad_oscillator_oscillator_smd_seikoepson_sg8002lb_4pin_5_0x3_2mm_handsoldering
+    oomp_key_extra: oomp_footprint_kicad_oscillator_oscillator_smd_seikoepson_sg8002lb_4pin_5_0x3_2mm_handsoldering
+    oomp_key_full: oomp_footprint_kicad_oscillator_oscillator_smd_seikoepson_sg8002lb_4pin_5_0x3_2mm_handsoldering_7b0f10
+    oomp_key_simple: kicad_oscillator_oscillator_smd_seikoepson_sg8002lb_4pin_5_0x3_2mm_handsoldering
     original_filename: libraries/kicad-footprints/Oscillator.pretty/Oscillator_SMD_SeikoEpson_SG8002LB-4Pin_5.0x3.2mm_HandSoldering.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_oscillator_oscillator_smd_seikoepson_sg8002lb_4pin_5_0x3_2mm_handsoldering
+  oomp_key_full: oomp_footprint_kicad_oscillator_oscillator_smd_seikoepson_sg8002lb_4pin_5_0x3_2mm_handsoldering
   oomp_key_simple: kicad_oscillator_oscillator_smd_seikoepson_sg8002lb_4pin_5_0x3_2mm_handsoldering
   owner: kicad
   repo:

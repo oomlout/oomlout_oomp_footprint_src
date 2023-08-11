@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_pj_202
     library_name: xess
+    md5: 60ca8b4b7bf8621061586a690a12bb34
+    md5_10: 60ca8b4b7b
+    md5_5: 60ca8
+    md5_6: 60ca8b
+    oomp_key: oomp_xesscorp_xess_xess_pj_202
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_pj_202
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_pj_202_60ca8b
+    oomp_key_simple: xesscorp_xess_xess_pj_202
     original_filename: xess.pretty/xess-PJ-202.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_pj_202
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_pj_202
   oomp_key_simple: xesscorp_xess_xess_pj_202
   owner: xesscorp
   repo:

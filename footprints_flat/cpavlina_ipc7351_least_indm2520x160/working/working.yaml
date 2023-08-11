@@ -17,9 +17,18 @@
   oomp:
     footprint_name: indm2520x160
     library_name: ipc7351_least
+    md5: 77bc22a40dae582444cddef232105373
+    md5_10: 77bc22a40d
+    md5_5: 77bc2
+    md5_6: 77bc22
+    oomp_key: oomp_cpavlina_ipc7351_least_indm2520x160
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_least_indm2520x160
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_least_indm2520x160_77bc22
+    oomp_key_simple: cpavlina_ipc7351_least_indm2520x160
     original_filename: kicad-pcblib/IPC7351-Least.pretty/INDM2520X160.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_least_indm2520x160
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_least_indm2520x160
   oomp_key_simple: cpavlina_ipc7351_least_indm2520x160
   owner: cpavlina
   repo:

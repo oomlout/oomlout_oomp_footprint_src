@@ -17,9 +17,18 @@
   oomp:
     footprint_name: mpd_bk_912
     library_name: manuf
+    md5: 90eb89a90f15e9722935e7f304e08a59
+    md5_10: 90eb89a90f
+    md5_5: 90eb8
+    md5_6: 90eb89
+    oomp_key: oomp_cpavlina_manuf_mpd_bk_912
+    oomp_key_extra: oomp_footprint_cpavlina_manuf_mpd_bk_912
+    oomp_key_full: oomp_footprint_cpavlina_manuf_mpd_bk_912_90eb89
+    oomp_key_simple: cpavlina_manuf_mpd_bk_912
     original_filename: kicad-pcblib/manuf.pretty/MPD-BK-912.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_manuf_mpd_bk_912
+  oomp_key_full: oomp_footprint_cpavlina_manuf_mpd_bk_912
   oomp_key_simple: cpavlina_manuf_mpd_bk_912
   owner: cpavlina
   repo:

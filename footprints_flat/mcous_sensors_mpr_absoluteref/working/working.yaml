@@ -17,9 +17,18 @@
   oomp:
     footprint_name: mpr_absoluteref
     library_name: _sensors
+    md5: 05839ff9426ec1d51c94d241eecfd874
+    md5_10: 05839ff942
+    md5_5: 05839
+    md5_6: 05839f
+    oomp_key: oomp_mcous_sensors_mpr_absoluteref
+    oomp_key_extra: oomp_footprint_mcous_sensors_mpr_absoluteref
+    oomp_key_full: oomp_footprint_mcous_sensors_mpr_absoluteref_05839f
+    oomp_key_simple: mcous_sensors_mpr_absoluteref
     original_filename: kicad-lib/footprints/_sensors.pretty/MPR-AbsoluteRef.kicad_mod
     owner_name: mcous
   oomp_key: oomp_mcous_sensors_mpr_absoluteref
+  oomp_key_full: oomp_footprint_mcous_sensors_mpr_absoluteref
   oomp_key_simple: mcous_sensors_mpr_absoluteref
   owner: mcous
   repo:

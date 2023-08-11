@@ -17,9 +17,18 @@
   oomp:
     footprint_name: tc200
     library_name: crumpprints
+    md5: fbd0e02816e412fb2e2ec77ca52ccf1b
+    md5_10: fbd0e02816
+    md5_5: fbd0e
+    md5_6: fbd0e0
+    oomp_key: oomp_tylercrumpton_crumpprints_tc200
+    oomp_key_extra: oomp_footprint_tylercrumpton_crumpprints_tc200
+    oomp_key_full: oomp_footprint_tylercrumpton_crumpprints_tc200_fbd0e0
+    oomp_key_simple: tylercrumpton_crumpprints_tc200
     original_filename: CrumpPrints.pretty/TC200.kicad_mod
     owner_name: tylercrumpton
   oomp_key: oomp_tylercrumpton_crumpprints_tc200
+  oomp_key_full: oomp_footprint_tylercrumpton_crumpprints_tc200
   oomp_key_simple: tylercrumpton_crumpprints_tc200
   owner: tylercrumpton
   repo:

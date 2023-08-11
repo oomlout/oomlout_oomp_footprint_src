@@ -17,9 +17,18 @@
   oomp:
     footprint_name: capae660x460
     library_name: ipc7351_most
+    md5: 2b093a34b7799dd006d1998dc4632a42
+    md5_10: 2b093a34b7
+    md5_5: 2b093
+    md5_6: 2b093a
+    oomp_key: oomp_cpavlina_ipc7351_most_capae660x460
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_most_capae660x460
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_most_capae660x460_2b093a
+    oomp_key_simple: cpavlina_ipc7351_most_capae660x460
     original_filename: kicad-pcblib/IPC7351-Most.pretty/CAPAE660X460.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_most_capae660x460
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_most_capae660x460
   oomp_key_simple: cpavlina_ipc7351_most_capae660x460
   owner: cpavlina
   repo:

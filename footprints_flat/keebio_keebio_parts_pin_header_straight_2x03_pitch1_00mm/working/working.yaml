@@ -17,9 +17,18 @@
   oomp:
     footprint_name: pin_header_straight_2x03_pitch1_00mm
     library_name: keebio_parts
+    md5: 839064f66eef82ee43ab53a9bb954a52
+    md5_10: 839064f66e
+    md5_5: '83906'
+    md5_6: '839064'
+    oomp_key: oomp_keebio_keebio_parts_pin_header_straight_2x03_pitch1_00mm
+    oomp_key_extra: oomp_footprint_keebio_keebio_parts_pin_header_straight_2x03_pitch1_00mm
+    oomp_key_full: oomp_footprint_keebio_keebio_parts_pin_header_straight_2x03_pitch1_00mm_839064
+    oomp_key_simple: keebio_keebio_parts_pin_header_straight_2x03_pitch1_00mm
     original_filename: Keebio-Parts.pretty/Pin_Header_Straight_2x03_Pitch1.00mm.kicad_mod
     owner_name: keebio
   oomp_key: oomp_keebio_keebio_parts_pin_header_straight_2x03_pitch1_00mm
+  oomp_key_full: oomp_footprint_keebio_keebio_parts_pin_header_straight_2x03_pitch1_00mm
   oomp_key_simple: keebio_keebio_parts_pin_header_straight_2x03_pitch1_00mm
   owner: keebio
   repo:

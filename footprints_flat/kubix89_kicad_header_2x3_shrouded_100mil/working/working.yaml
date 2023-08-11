@@ -17,9 +17,18 @@
   oomp:
     footprint_name: header_2x3_shrouded_100mil
     library_name: kicad
+    md5: f79f88688d9346d6cc661cc75f717018
+    md5_10: f79f88688d
+    md5_5: f79f8
+    md5_6: f79f88
+    oomp_key: oomp_kubix89_kicad_header_2x3_shrouded_100mil
+    oomp_key_extra: oomp_footprint_kubix89_kicad_header_2x3_shrouded_100mil
+    oomp_key_full: oomp_footprint_kubix89_kicad_header_2x3_shrouded_100mil_f79f88
+    oomp_key_simple: kubix89_kicad_header_2x3_shrouded_100mil
     original_filename: kiCAD.pretty/Header_2x3_Shrouded_100mil.kicad_mod
     owner_name: kubix89
   oomp_key: oomp_kubix89_kicad_header_2x3_shrouded_100mil
+  oomp_key_full: oomp_footprint_kubix89_kicad_header_2x3_shrouded_100mil
   oomp_key_simple: kubix89_kicad_header_2x3_shrouded_100mil
   owner: kubiX89
   repo:

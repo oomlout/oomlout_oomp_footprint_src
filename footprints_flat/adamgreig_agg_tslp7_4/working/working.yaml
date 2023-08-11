@@ -17,9 +17,18 @@
   oomp:
     footprint_name: tslp7_4
     library_name: agg
+    md5: aa5523d245a9d75a9b3681f05e3e0563
+    md5_10: aa5523d245
+    md5_5: aa552
+    md5_6: aa5523
+    oomp_key: oomp_adamgreig_agg_tslp7_4
+    oomp_key_extra: oomp_footprint_adamgreig_agg_tslp7_4
+    oomp_key_full: oomp_footprint_adamgreig_agg_tslp7_4_aa5523
+    oomp_key_simple: adamgreig_agg_tslp7_4
     original_filename: agg-kicad/agg.pretty/TSLP7-4.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_tslp7_4
+  oomp_key_full: oomp_footprint_adamgreig_agg_tslp7_4
   oomp_key_simple: adamgreig_agg_tslp7_4
   owner: adamgreig
   repo:

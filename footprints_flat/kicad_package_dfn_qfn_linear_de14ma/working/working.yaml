@@ -17,9 +17,18 @@
   oomp:
     footprint_name: linear_de14ma
     library_name: package_dfn_qfn
+    md5: b0774479ca16fccfb165d55e442fcb41
+    md5_10: b0774479ca
+    md5_5: b0774
+    md5_6: b07744
+    oomp_key: oomp_kicad_package_dfn_qfn_linear_de14ma
+    oomp_key_extra: oomp_footprint_kicad_package_dfn_qfn_linear_de14ma
+    oomp_key_full: oomp_footprint_kicad_package_dfn_qfn_linear_de14ma_b07744
+    oomp_key_simple: kicad_package_dfn_qfn_linear_de14ma
     original_filename: libraries/kicad-footprints/Package_DFN_QFN.pretty/Linear_DE14MA.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_dfn_qfn_linear_de14ma
+  oomp_key_full: oomp_footprint_kicad_package_dfn_qfn_linear_de14ma
   oomp_key_simple: kicad_package_dfn_qfn_linear_de14ma
   owner: kicad
   repo:

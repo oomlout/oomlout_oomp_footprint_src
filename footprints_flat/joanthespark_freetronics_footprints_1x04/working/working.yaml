@@ -17,9 +17,18 @@
   oomp:
     footprint_name: 1x04
     library_name: freetronics_footprints
+    md5: a33285bc78ae302a064e4ceca5130f5c
+    md5_10: a33285bc78
+    md5_5: a3328
+    md5_6: a33285
+    oomp_key: oomp_joanthespark_freetronics_footprints_1x04
+    oomp_key_extra: oomp_footprint_joanthespark_freetronics_footprints_1x04
+    oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_1x04_a33285
+    oomp_key_simple: joanthespark_freetronics_footprints_1x04
     original_filename: KiCAD/mods/freetronics_footprints.pretty/1X04.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_freetronics_footprints_1x04
+  oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_1x04
   oomp_key_simple: joanthespark_freetronics_footprints_1x04
   owner: JoanTheSpark
   repo:

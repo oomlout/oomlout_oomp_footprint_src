@@ -17,9 +17,18 @@
   oomp:
     footprint_name: r_0805_handsoldering
     library_name: apex_smd_resistors
+    md5: 184885c10af6a33f653c2e64a98c01c0
+    md5_10: 184885c10a
+    md5_5: '18488'
+    md5_6: '184885'
+    oomp_key: oomp_apexelectrix_apex_smd_resistors_r_0805_handsoldering
+    oomp_key_extra: oomp_footprint_apexelectrix_apex_smd_resistors_r_0805_handsoldering
+    oomp_key_full: oomp_footprint_apexelectrix_apex_smd_resistors_r_0805_handsoldering_184885
+    oomp_key_simple: apexelectrix_apex_smd_resistors_r_0805_handsoldering
     original_filename: apex-smd-resistors.pretty/R_0805_HandSoldering.kicad_mod
     owner_name: apexelectrix
   oomp_key: oomp_apexelectrix_apex_smd_resistors_r_0805_handsoldering
+  oomp_key_full: oomp_footprint_apexelectrix_apex_smd_resistors_r_0805_handsoldering
   oomp_key_simple: apexelectrix_apex_smd_resistors_r_0805_handsoldering
   owner: apexelectrix
   repo:

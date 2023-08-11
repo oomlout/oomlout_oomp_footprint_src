@@ -17,9 +17,18 @@
   oomp:
     footprint_name: murata_dg6050c
     library_name: manuf
+    md5: dc8070df3ebbffb0569eb50818cabb7f
+    md5_10: dc8070df3e
+    md5_5: dc807
+    md5_6: dc8070
+    oomp_key: oomp_cpavlina_manuf_murata_dg6050c
+    oomp_key_extra: oomp_footprint_cpavlina_manuf_murata_dg6050c
+    oomp_key_full: oomp_footprint_cpavlina_manuf_murata_dg6050c_dc8070
+    oomp_key_simple: cpavlina_manuf_murata_dg6050c
     original_filename: kicad-pcblib/manuf.pretty/MURATA-DG6050C.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_manuf_murata_dg6050c
+  oomp_key_full: oomp_footprint_cpavlina_manuf_murata_dg6050c
   oomp_key_simple: cpavlina_manuf_murata_dg6050c
   owner: cpavlina
   repo:

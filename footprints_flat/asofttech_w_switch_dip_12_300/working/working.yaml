@@ -17,9 +17,18 @@
   oomp:
     footprint_name: dip_12_300
     library_name: w_switch
+    md5: 4fb073b6b335d77a8189a899adb7eb43
+    md5_10: 4fb073b6b3
+    md5_5: 4fb07
+    md5_6: 4fb073
+    oomp_key: oomp_asofttech_w_switch_dip_12_300
+    oomp_key_extra: oomp_footprint_asofttech_w_switch_dip_12_300
+    oomp_key_full: oomp_footprint_asofttech_w_switch_dip_12_300_4fb073
+    oomp_key_simple: asofttech_w_switch_dip_12_300
     original_filename: CAD.KiCad.Libs/modules/w_switch.pretty/dip_12-300.kicad_mod
     owner_name: asofttech
   oomp_key: oomp_asofttech_w_switch_dip_12_300
+  oomp_key_full: oomp_footprint_asofttech_w_switch_dip_12_300
   oomp_key_simple: asofttech_w_switch_dip_12_300
   owner: ASoftTech
   repo:

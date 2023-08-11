@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sc70
     library_name: _std
+    md5: 1604518efe264887944d0146904acf75
+    md5_10: 1604518efe
+    md5_5: '16045'
+    md5_6: '160451'
+    oomp_key: oomp_mcous_std_sc70
+    oomp_key_extra: oomp_footprint_mcous_std_sc70
+    oomp_key_full: oomp_footprint_mcous_std_sc70_160451
+    oomp_key_simple: mcous_std_sc70
     original_filename: kicad-lib/footprints/_std.pretty/SC70.kicad_mod
     owner_name: mcous
   oomp_key: oomp_mcous_std_sc70
+  oomp_key_full: oomp_footprint_mcous_std_sc70
   oomp_key_simple: mcous_std_sc70
   owner: mcous
   repo:

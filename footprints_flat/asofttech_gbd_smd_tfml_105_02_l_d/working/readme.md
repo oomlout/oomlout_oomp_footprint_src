@@ -19,8 +19,9 @@ Please consult that link for additional, details, files, and license information
 | github_path | http://github.com/ASoftTech/CAD.KiCad.Libs/blob/master/modules/GBD-SMD.pretty/TFML-105-02-L-D.kicad_mod |  
 | links | {'github_src': 'http://gitlab.com/ASoftTech/CAD.KiCad.Libs/blob/master/modules/w_switch.pretty/switch_mmp122-r.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/asofttech_gbd_smd_tfml_105_02_l_d/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/asofttech_gbd_smd_tfml_105_02_l_d/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/asofttech_gbd_smd_tfml_105_02_l_d/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/asofttech_gbd_smd_tfml_105_02_l_d/working'} |  
 | name | CAD.KiCad.Libs |  
-| oomp | {'footprint_name': 'tfml_105_02_l_d', 'library_name': 'gbd_smd', 'original_filename': 'CAD.KiCad.Libs/modules/GBD-SMD.pretty/TFML-105-02-L-D.kicad_mod', 'owner_name': 'asofttech'} |  
+| oomp | {'footprint_name': 'tfml_105_02_l_d', 'library_name': 'gbd_smd', 'md5': '99c43761013f9c29961c5489a31d67f6', 'md5_10': '99c4376101', 'md5_5': '99c43', 'md5_6': '99c437', 'oomp_key': 'oomp_asofttech_gbd_smd_tfml_105_02_l_d', 'oomp_key_extra': 'oomp_footprint_asofttech_gbd_smd_tfml_105_02_l_d', 'oomp_key_full': 'oomp_footprint_asofttech_gbd_smd_tfml_105_02_l_d_99c437', 'oomp_key_simple': 'asofttech_gbd_smd_tfml_105_02_l_d', 'original_filename': 'CAD.KiCad.Libs/modules/GBD-SMD.pretty/TFML-105-02-L-D.kicad_mod', 'owner_name': 'asofttech'} |  
 | oomp_key | oomp_asofttech_gbd_smd_tfml_105_02_l_d |  
+| oomp_key_full | oomp_footprint_asofttech_gbd_smd_tfml_105_02_l_d |  
 | oomp_key_simple | asofttech_gbd_smd_tfml_105_02_l_d |  
 | owner | ASoftTech |  
 | repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  

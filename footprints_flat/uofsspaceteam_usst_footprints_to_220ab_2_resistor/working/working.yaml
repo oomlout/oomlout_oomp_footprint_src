@@ -17,9 +17,18 @@
   oomp:
     footprint_name: to_220ab_2_resistor
     library_name: usst_footprints
+    md5: 0a18f3f6d372e80bd0be66da4c674f21
+    md5_10: 0a18f3f6d3
+    md5_5: 0a18f
+    md5_6: 0a18f3
+    oomp_key: oomp_uofsspaceteam_usst_footprints_to_220ab_2_resistor
+    oomp_key_extra: oomp_footprint_uofsspaceteam_usst_footprints_to_220ab_2_resistor
+    oomp_key_full: oomp_footprint_uofsspaceteam_usst_footprints_to_220ab_2_resistor_0a18f3
+    oomp_key_simple: uofsspaceteam_usst_footprints_to_220ab_2_resistor
     original_filename: USST-footprints.pretty/TO-220AB-2-Resistor.kicad_mod
     owner_name: uofsspaceteam
   oomp_key: oomp_uofsspaceteam_usst_footprints_to_220ab_2_resistor
+  oomp_key_full: oomp_footprint_uofsspaceteam_usst_footprints_to_220ab_2_resistor
   oomp_key_simple: uofsspaceteam_usst_footprints_to_220ab_2_resistor
   owner: UofSSpaceTeam
   repo:

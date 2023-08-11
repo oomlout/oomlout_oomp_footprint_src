@@ -17,9 +17,18 @@
   oomp:
     footprint_name: conn_10018783_10202tlf_pciex8_fci
     library_name: conn_fci
+    md5: a52def2a4885a9f67389a58e2db94c82
+    md5_10: a52def2a48
+    md5_5: a52de
+    md5_6: a52def
+    oomp_key: oomp_cpavlina_conn_fci_conn_10018783_10202tlf_pciex8_fci
+    oomp_key_extra: oomp_footprint_cpavlina_conn_fci_conn_10018783_10202tlf_pciex8_fci
+    oomp_key_full: oomp_footprint_cpavlina_conn_fci_conn_10018783_10202tlf_pciex8_fci_a52def
+    oomp_key_simple: cpavlina_conn_fci_conn_10018783_10202tlf_pciex8_fci
     original_filename: kicad-pcblib/conn-fci.pretty/CONN-10018783-10202TLF-PCIEx8-FCI.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_conn_fci_conn_10018783_10202tlf_pciex8_fci
+  oomp_key_full: oomp_footprint_cpavlina_conn_fci_conn_10018783_10202tlf_pciex8_fci
   oomp_key_simple: cpavlina_conn_fci_conn_10018783_10202tlf_pciex8_fci
   owner: cpavlina
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: din41612_c3_3x10_female_vertical_tht
     library_name: connector_din
+    md5: e78fd02ee6e3be2a86e1959cd240746b
+    md5_10: e78fd02ee6
+    md5_5: e78fd
+    md5_6: e78fd0
+    oomp_key: oomp_kicad_connector_din_din41612_c3_3x10_female_vertical_tht
+    oomp_key_extra: oomp_footprint_kicad_connector_din_din41612_c3_3x10_female_vertical_tht
+    oomp_key_full: oomp_footprint_kicad_connector_din_din41612_c3_3x10_female_vertical_tht_e78fd0
+    oomp_key_simple: kicad_connector_din_din41612_c3_3x10_female_vertical_tht
     original_filename: libraries/kicad-footprints/Connector_DIN.pretty/DIN41612_C3_3x10_Female_Vertical_THT.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_din_din41612_c3_3x10_female_vertical_tht
+  oomp_key_full: oomp_footprint_kicad_connector_din_din41612_c3_3x10_female_vertical_tht
   oomp_key_simple: kicad_connector_din_din41612_c3_3x10_female_vertical_tht
   owner: kicad
   repo:

@@ -18,9 +18,18 @@
   oomp:
     footprint_name: harwin_ltek_male_2x06_p2_00mm_vertical_strainrelief
     library_name: connector_harwin
+    md5: ee0a8ff848aab25d8f6d2c5c12b62b3c
+    md5_10: ee0a8ff848
+    md5_5: ee0a8
+    md5_6: ee0a8f
+    oomp_key: oomp_kicad_connector_harwin_harwin_ltek_male_2x06_p2_00mm_vertical_strainrelief
+    oomp_key_extra: oomp_footprint_kicad_connector_harwin_harwin_ltek_male_2x06_p2_00mm_vertical_strainrelief
+    oomp_key_full: oomp_footprint_kicad_connector_harwin_harwin_ltek_male_2x06_p2_00mm_vertical_strainrelief_ee0a8f
+    oomp_key_simple: kicad_connector_harwin_harwin_ltek_male_2x06_p2_00mm_vertical_strainrelief
     original_filename: libraries/kicad-footprints/Connector_Harwin.pretty/Harwin_LTek-Male_2x06_P2.00mm_Vertical_StrainRelief.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_harwin_harwin_ltek_male_2x06_p2_00mm_vertical_strainrelief
+  oomp_key_full: oomp_footprint_kicad_connector_harwin_harwin_ltek_male_2x06_p2_00mm_vertical_strainrelief
   oomp_key_simple: kicad_connector_harwin_harwin_ltek_male_2x06_p2_00mm_vertical_strainrelief
   owner: kicad
   repo:

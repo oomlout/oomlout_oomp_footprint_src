@@ -17,9 +17,18 @@
   oomp:
     footprint_name: wrcom_usb_a_vert
     library_name: usst_footprints
+    md5: 41fa500ea708607355f959290bf77d3b
+    md5_10: 41fa500ea7
+    md5_5: 41fa5
+    md5_6: 41fa50
+    oomp_key: oomp_uofsspaceteam_usst_footprints_wrcom_usb_a_vert
+    oomp_key_extra: oomp_footprint_uofsspaceteam_usst_footprints_wrcom_usb_a_vert
+    oomp_key_full: oomp_footprint_uofsspaceteam_usst_footprints_wrcom_usb_a_vert_41fa50
+    oomp_key_simple: uofsspaceteam_usst_footprints_wrcom_usb_a_vert
     original_filename: USST-footprints.pretty/WRCOM_USB_A_VERT.kicad_mod
     owner_name: uofsspaceteam
   oomp_key: oomp_uofsspaceteam_usst_footprints_wrcom_usb_a_vert
+  oomp_key_full: oomp_footprint_uofsspaceteam_usst_footprints_wrcom_usb_a_vert
   oomp_key_simple: uofsspaceteam_usst_footprints_wrcom_usb_a_vert
   owner: UofSSpaceTeam
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xtal_20x16
     library_name: agg
+    md5: 3db4daa2bf60eca81ab6137229e861d3
+    md5_10: 3db4daa2bf
+    md5_5: 3db4d
+    md5_6: 3db4da
+    oomp_key: oomp_adamgreig_agg_xtal_20x16
+    oomp_key_extra: oomp_footprint_adamgreig_agg_xtal_20x16
+    oomp_key_full: oomp_footprint_adamgreig_agg_xtal_20x16_3db4da
+    oomp_key_simple: adamgreig_agg_xtal_20x16
     original_filename: agg-kicad/agg.pretty/XTAL-20x16.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_xtal_20x16
+  oomp_key_full: oomp_footprint_adamgreig_agg_xtal_20x16
   oomp_key_simple: adamgreig_agg_xtal_20x16
   owner: adamgreig
   repo:

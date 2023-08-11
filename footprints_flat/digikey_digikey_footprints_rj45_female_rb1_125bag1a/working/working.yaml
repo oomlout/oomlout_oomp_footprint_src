@@ -17,9 +17,18 @@
   oomp:
     footprint_name: rj45_female_rb1_125bag1a
     library_name: digikey_footprints
+    md5: f8fd8e07aa8be99ed89e5f5a159046f9
+    md5_10: f8fd8e07aa
+    md5_5: f8fd8
+    md5_6: f8fd8e
+    oomp_key: oomp_digikey_digikey_footprints_rj45_female_rb1_125bag1a
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_rj45_female_rb1_125bag1a
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_rj45_female_rb1_125bag1a_f8fd8e
+    oomp_key_simple: digikey_digikey_footprints_rj45_female_rb1_125bag1a
     original_filename: digikey-kicad-library/digikey-footprints.pretty/RJ45_Female_RB1-125BAG1A.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_rj45_female_rb1_125bag1a
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_rj45_female_rb1_125bag1a
   oomp_key_simple: digikey_digikey_footprints_rj45_female_rb1_125bag1a
   owner: digikey
   repo:

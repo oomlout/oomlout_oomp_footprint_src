@@ -17,9 +17,18 @@
   oomp:
     footprint_name: converter_acdc_meanwell_irm_02_xx_smd
     library_name: converter_acdc
+    md5: a3c4f50ee20952dbe404d6736813e619
+    md5_10: a3c4f50ee2
+    md5_5: a3c4f
+    md5_6: a3c4f5
+    oomp_key: oomp_kicad_converter_acdc_converter_acdc_meanwell_irm_02_xx_smd
+    oomp_key_extra: oomp_footprint_kicad_converter_acdc_converter_acdc_meanwell_irm_02_xx_smd
+    oomp_key_full: oomp_footprint_kicad_converter_acdc_converter_acdc_meanwell_irm_02_xx_smd_a3c4f5
+    oomp_key_simple: kicad_converter_acdc_converter_acdc_meanwell_irm_02_xx_smd
     original_filename: libraries/kicad-footprints/Converter_ACDC.pretty/Converter_ACDC_MeanWell_IRM-02-xx_SMD.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_converter_acdc_converter_acdc_meanwell_irm_02_xx_smd
+  oomp_key_full: oomp_footprint_kicad_converter_acdc_converter_acdc_meanwell_irm_02_xx_smd
   oomp_key_simple: kicad_converter_acdc_converter_acdc_meanwell_irm_02_xx_smd
   owner: kicad
   repo:

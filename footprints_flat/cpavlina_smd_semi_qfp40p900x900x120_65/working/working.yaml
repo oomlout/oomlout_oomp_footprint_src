@@ -17,9 +17,18 @@
   oomp:
     footprint_name: qfp40p900x900x120_65
     library_name: smd_semi
+    md5: f06ad5a3c6631e939827fda0b9fe9dd5
+    md5_10: f06ad5a3c6
+    md5_5: f06ad
+    md5_6: f06ad5
+    oomp_key: oomp_cpavlina_smd_semi_qfp40p900x900x120_65
+    oomp_key_extra: oomp_footprint_cpavlina_smd_semi_qfp40p900x900x120_65
+    oomp_key_full: oomp_footprint_cpavlina_smd_semi_qfp40p900x900x120_65_f06ad5
+    oomp_key_simple: cpavlina_smd_semi_qfp40p900x900x120_65
     original_filename: kicad-pcblib/smd-semi.pretty/QFP40P900X900X120-65.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_smd_semi_qfp40p900x900x120_65
+  oomp_key_full: oomp_footprint_cpavlina_smd_semi_qfp40p900x900x120_65
   oomp_key_simple: cpavlina_smd_semi_qfp40p900x900x120_65
   owner: cpavlina
   repo:

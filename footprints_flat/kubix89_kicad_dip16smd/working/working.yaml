@@ -17,9 +17,18 @@
   oomp:
     footprint_name: dip16smd
     library_name: kicad
+    md5: 88b21caeb20c08a0de71708f8eb4ddf7
+    md5_10: 88b21caeb2
+    md5_5: 88b21
+    md5_6: 88b21c
+    oomp_key: oomp_kubix89_kicad_dip16smd
+    oomp_key_extra: oomp_footprint_kubix89_kicad_dip16smd
+    oomp_key_full: oomp_footprint_kubix89_kicad_dip16smd_88b21c
+    oomp_key_simple: kubix89_kicad_dip16smd
     original_filename: kiCAD.pretty/DIP16SMD.kicad_mod
     owner_name: kubix89
   oomp_key: oomp_kubix89_kicad_dip16smd
+  oomp_key_full: oomp_footprint_kubix89_kicad_dip16smd
   oomp_key_simple: kubix89_kicad_dip16smd
   owner: kubiX89
   repo:

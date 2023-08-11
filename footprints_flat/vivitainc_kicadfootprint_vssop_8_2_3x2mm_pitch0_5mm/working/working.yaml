@@ -17,9 +17,18 @@
   oomp:
     footprint_name: vssop_8_2_3x2mm_pitch0_5mm
     library_name: kicadfootprint
+    md5: 5b1eee052cd11a61c07c7a7a86d5cacb
+    md5_10: 5b1eee052c
+    md5_5: 5b1ee
+    md5_6: 5b1eee
+    oomp_key: oomp_vivitainc_kicadfootprint_vssop_8_2_3x2mm_pitch0_5mm
+    oomp_key_extra: oomp_footprint_vivitainc_kicadfootprint_vssop_8_2_3x2mm_pitch0_5mm
+    oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_vssop_8_2_3x2mm_pitch0_5mm_5b1eee
+    oomp_key_simple: vivitainc_kicadfootprint_vssop_8_2_3x2mm_pitch0_5mm
     original_filename: KiCADfootprint.pretty/VSSOP-8_2.3x2mm_Pitch0.5mm.kicad_mod
     owner_name: vivitainc
   oomp_key: oomp_vivitainc_kicadfootprint_vssop_8_2_3x2mm_pitch0_5mm
+  oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_vssop_8_2_3x2mm_pitch0_5mm
   oomp_key_simple: vivitainc_kicadfootprint_vssop_8_2_3x2mm_pitch0_5mm
   owner: vivitainc
   repo:

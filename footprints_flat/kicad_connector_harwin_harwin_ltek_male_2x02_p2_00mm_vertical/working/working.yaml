@@ -17,9 +17,18 @@
   oomp:
     footprint_name: harwin_ltek_male_2x02_p2_00mm_vertical
     library_name: connector_harwin
+    md5: abb4d95b3f2105ef1c1fba51fd35c002
+    md5_10: abb4d95b3f
+    md5_5: abb4d
+    md5_6: abb4d9
+    oomp_key: oomp_kicad_connector_harwin_harwin_ltek_male_2x02_p2_00mm_vertical
+    oomp_key_extra: oomp_footprint_kicad_connector_harwin_harwin_ltek_male_2x02_p2_00mm_vertical
+    oomp_key_full: oomp_footprint_kicad_connector_harwin_harwin_ltek_male_2x02_p2_00mm_vertical_abb4d9
+    oomp_key_simple: kicad_connector_harwin_harwin_ltek_male_2x02_p2_00mm_vertical
     original_filename: libraries/kicad-footprints/Connector_Harwin.pretty/Harwin_LTek-Male_2x02_P2.00mm_Vertical.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_harwin_harwin_ltek_male_2x02_p2_00mm_vertical
+  oomp_key_full: oomp_footprint_kicad_connector_harwin_harwin_ltek_male_2x02_p2_00mm_vertical
   oomp_key_simple: kicad_connector_harwin_harwin_ltek_male_2x02_p2_00mm_vertical
   owner: kicad
   repo:

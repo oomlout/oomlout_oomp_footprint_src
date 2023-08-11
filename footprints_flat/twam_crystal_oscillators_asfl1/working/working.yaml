@@ -17,9 +17,18 @@
   oomp:
     footprint_name: asfl1
     library_name: crystal_oscillators
+    md5: 06341c65033e5c61328a26c75c186533
+    md5_10: 06341c6503
+    md5_5: '06341'
+    md5_6: 06341c
+    oomp_key: oomp_twam_crystal_oscillators_asfl1
+    oomp_key_extra: oomp_footprint_twam_crystal_oscillators_asfl1
+    oomp_key_full: oomp_footprint_twam_crystal_oscillators_asfl1_06341c
+    oomp_key_simple: twam_crystal_oscillators_asfl1
     original_filename: Crystal_Oscillators.pretty/ASFL1.kicad_mod
     owner_name: twam
   oomp_key: oomp_twam_crystal_oscillators_asfl1
+  oomp_key_full: oomp_footprint_twam_crystal_oscillators_asfl1
   oomp_key_simple: twam_crystal_oscillators_asfl1
   owner: twam
   repo:

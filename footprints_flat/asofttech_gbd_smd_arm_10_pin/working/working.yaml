@@ -17,9 +17,18 @@
   oomp:
     footprint_name: arm_10_pin
     library_name: gbd_smd
+    md5: 61da984f201a06ae1cced8f9097246d5
+    md5_10: 61da984f20
+    md5_5: 61da9
+    md5_6: 61da98
+    oomp_key: oomp_asofttech_gbd_smd_arm_10_pin
+    oomp_key_extra: oomp_footprint_asofttech_gbd_smd_arm_10_pin
+    oomp_key_full: oomp_footprint_asofttech_gbd_smd_arm_10_pin_61da98
+    oomp_key_simple: asofttech_gbd_smd_arm_10_pin
     original_filename: CAD.KiCad.Libs/modules/GBD-SMD.pretty/ARM_10_PIN.kicad_mod
     owner_name: asofttech
   oomp_key: oomp_asofttech_gbd_smd_arm_10_pin
+  oomp_key_full: oomp_footprint_asofttech_gbd_smd_arm_10_pin
   oomp_key_simple: asofttech_gbd_smd_arm_10_pin
   owner: ASoftTech
   repo:

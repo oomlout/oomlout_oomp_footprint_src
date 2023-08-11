@@ -18,9 +18,18 @@
   oomp:
     footprint_name: samtec_hsec8_110_01_x_dv_a_2x10_p0_8mm_socket_alignmentpins
     library_name: connector_samtec_hsec8
+    md5: d88df969b400ba189fd1133e15ff2446
+    md5_10: d88df969b4
+    md5_5: d88df
+    md5_6: d88df9
+    oomp_key: oomp_kicad_connector_samtec_hsec8_samtec_hsec8_110_01_x_dv_a_2x10_p0_8mm_socket_alignmentpins
+    oomp_key_extra: oomp_footprint_kicad_connector_samtec_hsec8_samtec_hsec8_110_01_x_dv_a_2x10_p0_8mm_socket_alignmentpins
+    oomp_key_full: oomp_footprint_kicad_connector_samtec_hsec8_samtec_hsec8_110_01_x_dv_a_2x10_p0_8mm_socket_alignmentpins_d88df9
+    oomp_key_simple: kicad_connector_samtec_hsec8_samtec_hsec8_110_01_x_dv_a_2x10_p0_8mm_socket_alignmentpins
     original_filename: libraries/kicad-footprints/Connector_Samtec_HSEC8.pretty/Samtec_HSEC8-110-01-X-DV-A_2x10_P0.8mm_Socket_AlignmentPins.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_samtec_hsec8_samtec_hsec8_110_01_x_dv_a_2x10_p0_8mm_socket_alignmentpins
+  oomp_key_full: oomp_footprint_kicad_connector_samtec_hsec8_samtec_hsec8_110_01_x_dv_a_2x10_p0_8mm_socket_alignmentpins
   oomp_key_simple: kicad_connector_samtec_hsec8_samtec_hsec8_110_01_x_dv_a_2x10_p0_8mm_socket_alignmentpins
   owner: kicad
   repo:

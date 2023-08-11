@@ -17,9 +17,18 @@
   oomp:
     footprint_name: db714
     library_name: avp
+    md5: bb863105e0f4106fef68e10b7068c854
+    md5_10: bb863105e0
+    md5_5: bb863
+    md5_6: bb8631
+    oomp_key: oomp_av_p_avp_db714
+    oomp_key_extra: oomp_footprint_av_p_avp_db714
+    oomp_key_full: oomp_footprint_av_p_avp_db714_bb8631
+    oomp_key_simple: av_p_avp_db714
     original_filename: Avp.pretty/DB714.kicad_mod
     owner_name: av_p
   oomp_key: oomp_av_p_avp_db714
+  oomp_key_full: oomp_footprint_av_p_avp_db714
   oomp_key_simple: av_p_avp_db714
   owner: av-p
   repo:

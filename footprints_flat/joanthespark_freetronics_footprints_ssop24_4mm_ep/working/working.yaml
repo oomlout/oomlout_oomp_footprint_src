@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ssop24_4mm_ep
     library_name: freetronics_footprints
+    md5: cfea7b262f4fa89efcbb1c63cc99e6a9
+    md5_10: cfea7b262f
+    md5_5: cfea7
+    md5_6: cfea7b
+    oomp_key: oomp_joanthespark_freetronics_footprints_ssop24_4mm_ep
+    oomp_key_extra: oomp_footprint_joanthespark_freetronics_footprints_ssop24_4mm_ep
+    oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_ssop24_4mm_ep_cfea7b
+    oomp_key_simple: joanthespark_freetronics_footprints_ssop24_4mm_ep
     original_filename: KiCAD/mods/freetronics_footprints.pretty/SSOP24_4mm_EP.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_freetronics_footprints_ssop24_4mm_ep
+  oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_ssop24_4mm_ep
   oomp_key_simple: joanthespark_freetronics_footprints_ssop24_4mm_ep
   owner: JoanTheSpark
   repo:

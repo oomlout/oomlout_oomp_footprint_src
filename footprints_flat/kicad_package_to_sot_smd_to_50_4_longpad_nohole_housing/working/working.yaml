@@ -17,9 +17,18 @@
   oomp:
     footprint_name: to_50_4_longpad_nohole_housing
     library_name: package_to_sot_smd
+    md5: ef090d3a6dab0cf659892c809b8810be
+    md5_10: ef090d3a6d
+    md5_5: ef090
+    md5_6: ef090d
+    oomp_key: oomp_kicad_package_to_sot_smd_to_50_4_longpad_nohole_housing
+    oomp_key_extra: oomp_footprint_kicad_package_to_sot_smd_to_50_4_longpad_nohole_housing
+    oomp_key_full: oomp_footprint_kicad_package_to_sot_smd_to_50_4_longpad_nohole_housing_ef090d
+    oomp_key_simple: kicad_package_to_sot_smd_to_50_4_longpad_nohole_housing
     original_filename: libraries/kicad-footprints/Package_TO_SOT_SMD.pretty/TO-50-4_LongPad-NoHole_Housing.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_to_sot_smd_to_50_4_longpad_nohole_housing
+  oomp_key_full: oomp_footprint_kicad_package_to_sot_smd_to_50_4_longpad_nohole_housing
   oomp_key_simple: kicad_package_to_sot_smd_to_50_4_longpad_nohole_housing
   owner: kicad
   repo:

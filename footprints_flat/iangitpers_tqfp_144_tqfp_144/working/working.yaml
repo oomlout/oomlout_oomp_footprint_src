@@ -18,10 +18,19 @@
   name: 4a
   oomp:
     footprint_name: tqfp_144
-    library_name: dp_microcontroller
+    library_name: tqfp_144_kicad_mod
+    md5: affcc640bfb732d83d3c8acf48fcd3a1
+    md5_10: affcc640bf
+    md5_5: affcc
+    md5_6: affcc6
+    oomp_key: oomp_iangitpers_tqfp_144_tqfp_144
+    oomp_key_extra: oomp_footprint_iangitpers_tqfp_144_tqfp_144
+    oomp_key_full: oomp_footprint_iangitpers_tqfp_144_tqfp_144_affcc6
+    oomp_key_simple: iangitpers_tqfp_144_tqfp_144
     original_filename: 4a/dp-microcontroller/TQFP-144.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_tqfp_144_tqfp_144
+  oomp_key_full: oomp_footprint_iangitpers_tqfp_144_tqfp_144
   oomp_key_simple: iangitpers_tqfp_144_tqfp_144
   owner: Iangitpers
   repo:

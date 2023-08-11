@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_s_pqfp_g48
     library_name: xess
+    md5: cb041beb76212ba4848adc493c106cb2
+    md5_10: cb041beb76
+    md5_5: cb041
+    md5_6: cb041b
+    oomp_key: oomp_xesscorp_xess_xess_s_pqfp_g48
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_s_pqfp_g48
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_s_pqfp_g48_cb041b
+    oomp_key_simple: xesscorp_xess_xess_s_pqfp_g48
     original_filename: xess.pretty/xess-S-PQFP-G48.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_s_pqfp_g48
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_s_pqfp_g48
   oomp_key_simple: xesscorp_xess_xess_s_pqfp_g48
   owner: xesscorp
   repo:

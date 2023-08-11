@@ -17,9 +17,18 @@
   oomp:
     footprint_name: 1005_c
     library_name: footprints
+    md5: f86581e84403a05c3f85bcca30a2a939
+    md5_10: f86581e844
+    md5_5: f8658
+    md5_6: f86581
+    oomp_key: oomp_joanthespark_footprints_1005_c
+    oomp_key_extra: oomp_footprint_joanthespark_footprints_1005_c
+    oomp_key_full: oomp_footprint_joanthespark_footprints_1005_c_f86581
+    oomp_key_simple: joanthespark_footprints_1005_c
     original_filename: KiCAD/demos/stickhub/footprints.pretty/1005_C.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_footprints_1005_c
+  oomp_key_full: oomp_footprint_joanthespark_footprints_1005_c
   oomp_key_simple: joanthespark_footprints_1005_c
   owner: JoanTheSpark
   repo:

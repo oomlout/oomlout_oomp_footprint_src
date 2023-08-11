@@ -17,9 +17,18 @@
   oomp:
     footprint_name: photodiode_3mm_radial
     library_name: digikey_footprints
+    md5: 81344cfa1cd9903b33a477fba31affce
+    md5_10: 81344cfa1c
+    md5_5: '81344'
+    md5_6: 81344c
+    oomp_key: oomp_digikey_digikey_footprints_photodiode_3mm_radial
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_photodiode_3mm_radial
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_photodiode_3mm_radial_81344c
+    oomp_key_simple: digikey_digikey_footprints_photodiode_3mm_radial
     original_filename: digikey-kicad-library/digikey-footprints.pretty/Photodiode_3mm_Radial.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_photodiode_3mm_radial
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_photodiode_3mm_radial
   oomp_key_simple: digikey_digikey_footprints_photodiode_3mm_radial
   owner: digikey
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: espressif_qfn48_5x5mm
     library_name: primarypoints
+    md5: 776a960da801f570dd9fe84504dcdbe3
+    md5_10: 776a960da8
+    md5_5: 776a9
+    md5_6: 776a96
+    oomp_key: oomp_zanekaminski_primarypoints_espressif_qfn48_5x5mm
+    oomp_key_extra: oomp_footprint_zanekaminski_primarypoints_espressif_qfn48_5x5mm
+    oomp_key_full: oomp_footprint_zanekaminski_primarypoints_espressif_qfn48_5x5mm_776a96
+    oomp_key_simple: zanekaminski_primarypoints_espressif_qfn48_5x5mm
     original_filename: primarypoints.pretty/Espressif_QFN48_5x5mm.kicad_mod
     owner_name: zanekaminski
   oomp_key: oomp_zanekaminski_primarypoints_espressif_qfn48_5x5mm
+  oomp_key_full: oomp_footprint_zanekaminski_primarypoints_espressif_qfn48_5x5mm
   oomp_key_simple: zanekaminski_primarypoints_espressif_qfn48_5x5mm
   owner: ZaneKaminski
   repo:

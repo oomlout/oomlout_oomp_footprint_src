@@ -17,9 +17,18 @@
   oomp:
     footprint_name: l_taiyo_yuden_nr_60xx_handsoldering
     library_name: inductor_smd
+    md5: ab914951851e932600d9f882a47151cd
+    md5_10: ab91495185
+    md5_5: ab914
+    md5_6: ab9149
+    oomp_key: oomp_kicad_inductor_smd_l_taiyo_yuden_nr_60xx_handsoldering
+    oomp_key_extra: oomp_footprint_kicad_inductor_smd_l_taiyo_yuden_nr_60xx_handsoldering
+    oomp_key_full: oomp_footprint_kicad_inductor_smd_l_taiyo_yuden_nr_60xx_handsoldering_ab9149
+    oomp_key_simple: kicad_inductor_smd_l_taiyo_yuden_nr_60xx_handsoldering
     original_filename: libraries/kicad-footprints/Inductor_SMD.pretty/L_Taiyo-Yuden_NR-60xx_HandSoldering.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_inductor_smd_l_taiyo_yuden_nr_60xx_handsoldering
+  oomp_key_full: oomp_footprint_kicad_inductor_smd_l_taiyo_yuden_nr_60xx_handsoldering
   oomp_key_simple: kicad_inductor_smd_l_taiyo_yuden_nr_60xx_handsoldering
   owner: kicad
   repo:

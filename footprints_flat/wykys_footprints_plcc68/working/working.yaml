@@ -17,9 +17,18 @@
   oomp:
     footprint_name: plcc68
     library_name: footprints
+    md5: c35b881f5a478f9f66185ae35421acb7
+    md5_10: c35b881f5a
+    md5_5: c35b8
+    md5_6: c35b88
+    oomp_key: oomp_wykys_footprints_plcc68
+    oomp_key_extra: oomp_footprint_wykys_footprints_plcc68
+    oomp_key_full: oomp_footprint_wykys_footprints_plcc68_c35b88
+    oomp_key_simple: wykys_footprints_plcc68
     original_filename: kicad/demos/video/libs/footprints.pretty/PLCC68.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_footprints_plcc68
+  oomp_key_full: oomp_footprint_wykys_footprints_plcc68
   oomp_key_simple: wykys_footprints_plcc68
   owner: wykys
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: din41612_c2_3x16_male_horizontal_tht
     library_name: connector_din
+    md5: 566ef7f4401eca10f72c4f14cde3a4c1
+    md5_10: 566ef7f440
+    md5_5: 566ef
+    md5_6: 566ef7
+    oomp_key: oomp_kicad_connector_din_din41612_c2_3x16_male_horizontal_tht
+    oomp_key_extra: oomp_footprint_kicad_connector_din_din41612_c2_3x16_male_horizontal_tht
+    oomp_key_full: oomp_footprint_kicad_connector_din_din41612_c2_3x16_male_horizontal_tht_566ef7
+    oomp_key_simple: kicad_connector_din_din41612_c2_3x16_male_horizontal_tht
     original_filename: libraries/kicad-footprints/Connector_DIN.pretty/DIN41612_C2_3x16_Male_Horizontal_THT.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_din_din41612_c2_3x16_male_horizontal_tht
+  oomp_key_full: oomp_footprint_kicad_connector_din_din41612_c2_3x16_male_horizontal_tht
   oomp_key_simple: kicad_connector_din_din41612_c2_3x16_male_horizontal_tht
   owner: kicad
   repo:

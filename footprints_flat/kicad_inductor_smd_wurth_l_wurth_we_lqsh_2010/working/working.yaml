@@ -17,9 +17,18 @@
   oomp:
     footprint_name: l_wurth_we_lqsh_2010
     library_name: inductor_smd_wurth
+    md5: 3c827d72521ae9d5f3037bfa4cb888c4
+    md5_10: 3c827d7252
+    md5_5: 3c827
+    md5_6: 3c827d
+    oomp_key: oomp_kicad_inductor_smd_wurth_l_wurth_we_lqsh_2010
+    oomp_key_extra: oomp_footprint_kicad_inductor_smd_wurth_l_wurth_we_lqsh_2010
+    oomp_key_full: oomp_footprint_kicad_inductor_smd_wurth_l_wurth_we_lqsh_2010_3c827d
+    oomp_key_simple: kicad_inductor_smd_wurth_l_wurth_we_lqsh_2010
     original_filename: libraries/kicad-footprints/Inductor_SMD_Wurth.pretty/L_Wurth_WE-LQSH-2010.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_inductor_smd_wurth_l_wurth_we_lqsh_2010
+  oomp_key_full: oomp_footprint_kicad_inductor_smd_wurth_l_wurth_we_lqsh_2010
   oomp_key_simple: kicad_inductor_smd_wurth_l_wurth_we_lqsh_2010
   owner: kicad
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: s5b_eh
     library_name: agg
+    md5: 5b4bd20279ff55ed64f8817c3a2559b2
+    md5_10: 5b4bd20279
+    md5_5: 5b4bd
+    md5_6: 5b4bd2
+    oomp_key: oomp_adamgreig_agg_s5b_eh
+    oomp_key_extra: oomp_footprint_adamgreig_agg_s5b_eh
+    oomp_key_full: oomp_footprint_adamgreig_agg_s5b_eh_5b4bd2
+    oomp_key_simple: adamgreig_agg_s5b_eh
     original_filename: agg-kicad/agg.pretty/S5B-EH.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_s5b_eh
+  oomp_key_full: oomp_footprint_adamgreig_agg_s5b_eh
   oomp_key_simple: adamgreig_agg_s5b_eh
   owner: adamgreig
   repo:

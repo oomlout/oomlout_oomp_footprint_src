@@ -17,9 +17,18 @@
   oomp:
     footprint_name: d_sod123
     library_name: keebio_parts
+    md5: 2f40c820a3008bbc338b5b2a6ac70ec3
+    md5_10: 2f40c820a3
+    md5_5: 2f40c
+    md5_6: 2f40c8
+    oomp_key: oomp_keebio_keebio_parts_d_sod123
+    oomp_key_extra: oomp_footprint_keebio_keebio_parts_d_sod123
+    oomp_key_full: oomp_footprint_keebio_keebio_parts_d_sod123_2f40c8
+    oomp_key_simple: keebio_keebio_parts_d_sod123
     original_filename: Keebio-Parts.pretty/D_SOD123.kicad_mod
     owner_name: keebio
   oomp_key: oomp_keebio_keebio_parts_d_sod123
+  oomp_key_full: oomp_footprint_keebio_keebio_parts_d_sod123
   oomp_key_simple: keebio_keebio_parts_d_sod123
   owner: keebio
   repo:

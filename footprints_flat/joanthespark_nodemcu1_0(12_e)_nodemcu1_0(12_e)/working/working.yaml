@@ -16,10 +16,19 @@
   name: KiCAD
   oomp:
     footprint_name: nodemcu1_0(12_e)
-    library_name: mods
+    library_name: nodemcu1_0(12_e)_kicad_mod
+    md5: 880d2005a520acffbf012c0471916f3f
+    md5_10: 880d2005a5
+    md5_5: 880d2
+    md5_6: 880d20
+    oomp_key: oomp_joanthespark_nodemcu1_0(12_e)_nodemcu1_0(12_e)
+    oomp_key_extra: oomp_footprint_joanthespark_nodemcu1_0(12_e)_nodemcu1_0(12_e)
+    oomp_key_full: oomp_footprint_joanthespark_nodemcu1_0(12_e)_nodemcu1_0(12_e)_880d20
+    oomp_key_simple: joanthespark_nodemcu1_0(12_e)_nodemcu1_0(12_e)
     original_filename: KiCAD/mods/NodeMCU1.0(12-E).kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_nodemcu1_0(12_e)_nodemcu1_0(12_e)
+  oomp_key_full: oomp_footprint_joanthespark_nodemcu1_0(12_e)_nodemcu1_0(12_e)
   oomp_key_simple: joanthespark_nodemcu1_0(12_e)_nodemcu1_0(12_e)
   owner: JoanTheSpark
   repo:

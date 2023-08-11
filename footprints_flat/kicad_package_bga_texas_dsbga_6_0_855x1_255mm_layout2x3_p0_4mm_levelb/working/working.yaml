@@ -19,9 +19,18 @@
   oomp:
     footprint_name: texas_dsbga_6_0_855x1_255mm_layout2x3_p0_4mm_levelb
     library_name: package_bga
+    md5: 34e2b96aa30b22c5829381e332a7809a
+    md5_10: 34e2b96aa3
+    md5_5: 34e2b
+    md5_6: 34e2b9
+    oomp_key: oomp_kicad_package_bga_texas_dsbga_6_0_855x1_255mm_layout2x3_p0_4mm_levelb
+    oomp_key_extra: oomp_footprint_kicad_package_bga_texas_dsbga_6_0_855x1_255mm_layout2x3_p0_4mm_levelb
+    oomp_key_full: oomp_footprint_kicad_package_bga_texas_dsbga_6_0_855x1_255mm_layout2x3_p0_4mm_levelb_34e2b9
+    oomp_key_simple: kicad_package_bga_texas_dsbga_6_0_855x1_255mm_layout2x3_p0_4mm_levelb
     original_filename: libraries/kicad-footprints/Package_BGA.pretty/Texas_DSBGA-6_0.855x1.255mm_Layout2x3_P0.4mm_LevelB.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_bga_texas_dsbga_6_0_855x1_255mm_layout2x3_p0_4mm_levelb
+  oomp_key_full: oomp_footprint_kicad_package_bga_texas_dsbga_6_0_855x1_255mm_layout2x3_p0_4mm_levelb
   oomp_key_simple: kicad_package_bga_texas_dsbga_6_0_855x1_255mm_layout2x3_p0_4mm_levelb
   owner: kicad
   repo:

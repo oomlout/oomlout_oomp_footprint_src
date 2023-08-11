@@ -19,8 +19,9 @@ Please consult that link for additional, details, files, and license information
 | github_path | http://github.com/ANDnXOR/ANDnXOR-Kicad.pretty/blob/master/WS2812B.kicad_mod |  
 | links | {'github_src': 'http://gitlab.com/ANDnXOR/ANDnXOR-Kicad.pretty/blob/master/WS2812B.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/andnxor_andnxor_kicad_ws2812b/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/andnxor_andnxor_kicad_ws2812b/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/andnxor_andnxor_kicad_ws2812b/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/andnxor_andnxor_kicad_ws2812b/working'} |  
 | name | ANDnXOR-Kicad.pretty |  
-| oomp | {'footprint_name': 'ws2812b', 'library_name': 'andnxor_kicad', 'original_filename': 'ANDnXOR-Kicad.pretty/WS2812B.kicad_mod', 'owner_name': 'andnxor'} |  
+| oomp | {'footprint_name': 'ws2812b', 'library_name': 'andnxor_kicad', 'md5': 'd405cb72679dc1883a9bc575a949b6d8', 'md5_10': 'd405cb7267', 'md5_5': 'd405c', 'md5_6': 'd405cb', 'oomp_key': 'oomp_andnxor_andnxor_kicad_ws2812b', 'oomp_key_extra': 'oomp_footprint_andnxor_andnxor_kicad_ws2812b', 'oomp_key_full': 'oomp_footprint_andnxor_andnxor_kicad_ws2812b_d405cb', 'oomp_key_simple': 'andnxor_andnxor_kicad_ws2812b', 'original_filename': 'ANDnXOR-Kicad.pretty/WS2812B.kicad_mod', 'owner_name': 'andnxor'} |  
 | oomp_key | oomp_andnxor_andnxor_kicad_ws2812b |  
+| oomp_key_full | oomp_footprint_andnxor_andnxor_kicad_ws2812b |  
 | oomp_key_simple | andnxor_andnxor_kicad_ws2812b |  
 | owner | ANDnXOR |  
 | repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  

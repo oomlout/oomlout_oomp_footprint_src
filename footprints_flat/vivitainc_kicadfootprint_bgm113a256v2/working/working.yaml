@@ -17,9 +17,18 @@
   oomp:
     footprint_name: bgm113a256v2
     library_name: kicadfootprint
+    md5: b078b1aebc202b8fcd7aac233eaa1a16
+    md5_10: b078b1aebc
+    md5_5: b078b
+    md5_6: b078b1
+    oomp_key: oomp_vivitainc_kicadfootprint_bgm113a256v2
+    oomp_key_extra: oomp_footprint_vivitainc_kicadfootprint_bgm113a256v2
+    oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_bgm113a256v2_b078b1
+    oomp_key_simple: vivitainc_kicadfootprint_bgm113a256v2
     original_filename: KiCADfootprint.pretty/BGM113A256V2.kicad_mod
     owner_name: vivitainc
   oomp_key: oomp_vivitainc_kicadfootprint_bgm113a256v2
+  oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_bgm113a256v2
   oomp_key_simple: vivitainc_kicadfootprint_bgm113a256v2
   owner: vivitainc
   repo:

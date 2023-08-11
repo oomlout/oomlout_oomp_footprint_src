@@ -18,9 +18,18 @@
   oomp:
     footprint_name: analog_bga_49_6_25x6_25mm_layout7x7_p0_8mm_ball0_5mm_pad0_4mm
     library_name: package_bga
+    md5: ffd13de40043092aaecf9e8e47b3ff59
+    md5_10: ffd13de400
+    md5_5: ffd13
+    md5_6: ffd13d
+    oomp_key: oomp_kicad_package_bga_analog_bga_49_6_25x6_25mm_layout7x7_p0_8mm_ball0_5mm_pad0_4mm
+    oomp_key_extra: oomp_footprint_kicad_package_bga_analog_bga_49_6_25x6_25mm_layout7x7_p0_8mm_ball0_5mm_pad0_4mm
+    oomp_key_full: oomp_footprint_kicad_package_bga_analog_bga_49_6_25x6_25mm_layout7x7_p0_8mm_ball0_5mm_pad0_4mm_ffd13d
+    oomp_key_simple: kicad_package_bga_analog_bga_49_6_25x6_25mm_layout7x7_p0_8mm_ball0_5mm_pad0_4mm
     original_filename: libraries/kicad-footprints/Package_BGA.pretty/Analog_BGA-49_6.25x6.25mm_Layout7x7_P0.8mm_Ball0.5mm_Pad0.4mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_bga_analog_bga_49_6_25x6_25mm_layout7x7_p0_8mm_ball0_5mm_pad0_4mm
+  oomp_key_full: oomp_footprint_kicad_package_bga_analog_bga_49_6_25x6_25mm_layout7x7_p0_8mm_ball0_5mm_pad0_4mm
   oomp_key_simple: kicad_package_bga_analog_bga_49_6_25x6_25mm_layout7x7_p0_8mm_ball0_5mm_pad0_4mm
   owner: kicad
   repo:

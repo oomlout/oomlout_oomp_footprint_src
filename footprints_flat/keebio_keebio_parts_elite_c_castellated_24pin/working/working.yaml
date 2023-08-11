@@ -17,9 +17,18 @@
   oomp:
     footprint_name: elite_c_castellated_24pin
     library_name: keebio_parts
+    md5: a52dcda95dadf32a0fdcc87046b1adc9
+    md5_10: a52dcda95d
+    md5_5: a52dc
+    md5_6: a52dcd
+    oomp_key: oomp_keebio_keebio_parts_elite_c_castellated_24pin
+    oomp_key_extra: oomp_footprint_keebio_keebio_parts_elite_c_castellated_24pin
+    oomp_key_full: oomp_footprint_keebio_keebio_parts_elite_c_castellated_24pin_a52dcd
+    oomp_key_simple: keebio_keebio_parts_elite_c_castellated_24pin
     original_filename: Keebio-Parts.pretty/Elite-C-castellated-24pin.kicad_mod
     owner_name: keebio
   oomp_key: oomp_keebio_keebio_parts_elite_c_castellated_24pin
+  oomp_key_full: oomp_footprint_keebio_keebio_parts_elite_c_castellated_24pin
   oomp_key_simple: keebio_keebio_parts_elite_c_castellated_24pin
   owner: keebio
   repo:

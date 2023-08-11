@@ -16,10 +16,19 @@
   name: agg-kicad
   oomp:
     footprint_name: xbee
-    library_name: unchecked
+    library_name: agg
+    md5: 984c6c3c1976075bdfd8f5cd4c7560ce
+    md5_10: 984c6c3c19
+    md5_5: 984c6
+    md5_6: 984c6c
+    oomp_key: oomp_adamgreig_agg_xbee
+    oomp_key_extra: oomp_footprint_adamgreig_agg_xbee
+    oomp_key_full: oomp_footprint_adamgreig_agg_xbee_984c6c
+    oomp_key_simple: adamgreig_agg_xbee
     original_filename: agg-kicad/agg.pretty/unchecked.pretty/XBEE.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_xbee
+  oomp_key_full: oomp_footprint_adamgreig_agg_xbee
   oomp_key_simple: adamgreig_agg_xbee
   owner: adamgreig
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: bluetooth_module_wt12_a_ai5
     library_name: digikey_footprints
+    md5: 89994c11084952c42d69988e24fa16e9
+    md5_10: 89994c1108
+    md5_5: '89994'
+    md5_6: 89994c
+    oomp_key: oomp_digikey_digikey_footprints_bluetooth_module_wt12_a_ai5
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_bluetooth_module_wt12_a_ai5
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_bluetooth_module_wt12_a_ai5_89994c
+    oomp_key_simple: digikey_digikey_footprints_bluetooth_module_wt12_a_ai5
     original_filename: digikey-kicad-library/digikey-footprints.pretty/Bluetooth_Module_WT12-A-AI5.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_bluetooth_module_wt12_a_ai5
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_bluetooth_module_wt12_a_ai5
   oomp_key_simple: digikey_digikey_footprints_bluetooth_module_wt12_a_ai5
   owner: digikey
   repo:

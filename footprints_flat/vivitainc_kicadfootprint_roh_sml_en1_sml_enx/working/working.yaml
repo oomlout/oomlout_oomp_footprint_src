@@ -17,9 +17,18 @@
   oomp:
     footprint_name: roh_sml_en1_sml_enx
     library_name: kicadfootprint
+    md5: 03be3ec5542ab55f8fabf42884aff51f
+    md5_10: 03be3ec554
+    md5_5: 03be3
+    md5_6: 03be3e
+    oomp_key: oomp_vivitainc_kicadfootprint_roh_sml_en1_sml_enx
+    oomp_key_extra: oomp_footprint_vivitainc_kicadfootprint_roh_sml_en1_sml_enx
+    oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_roh_sml_en1_sml_enx_03be3e
+    oomp_key_simple: vivitainc_kicadfootprint_roh_sml_en1_sml_enx
     original_filename: KiCADfootprint.pretty/ROH_SML-EN1_SML-ENx.kicad_mod
     owner_name: vivitainc
   oomp_key: oomp_vivitainc_kicadfootprint_roh_sml_en1_sml_enx
+  oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_roh_sml_en1_sml_enx
   oomp_key_simple: vivitainc_kicadfootprint_roh_sml_en1_sml_enx
   owner: vivitainc
   repo:

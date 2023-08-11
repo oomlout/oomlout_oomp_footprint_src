@@ -17,9 +17,18 @@
   oomp:
     footprint_name: terminalblock_pheonix_pt_5mm_6pol
     library_name: usst_footprints
+    md5: 7777816b164c3edd767a51eaea2376ad
+    md5_10: 7777816b16
+    md5_5: '77778'
+    md5_6: '777781'
+    oomp_key: oomp_uofsspaceteam_usst_footprints_terminalblock_pheonix_pt_5mm_6pol
+    oomp_key_extra: oomp_footprint_uofsspaceteam_usst_footprints_terminalblock_pheonix_pt_5mm_6pol
+    oomp_key_full: oomp_footprint_uofsspaceteam_usst_footprints_terminalblock_pheonix_pt_5mm_6pol_777781
+    oomp_key_simple: uofsspaceteam_usst_footprints_terminalblock_pheonix_pt_5mm_6pol
     original_filename: USST-footprints.pretty/TerminalBlock_Pheonix_PT-5mm_6pol.kicad_mod
     owner_name: uofsspaceteam
   oomp_key: oomp_uofsspaceteam_usst_footprints_terminalblock_pheonix_pt_5mm_6pol
+  oomp_key_full: oomp_footprint_uofsspaceteam_usst_footprints_terminalblock_pheonix_pt_5mm_6pol
   oomp_key_simple: uofsspaceteam_usst_footprints_terminalblock_pheonix_pt_5mm_6pol
   owner: UofSSpaceTeam
   repo:

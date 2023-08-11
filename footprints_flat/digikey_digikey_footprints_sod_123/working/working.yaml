@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sod_123
     library_name: digikey_footprints
+    md5: 889330417a852b5b2fa066d5c110b545
+    md5_10: 889330417a
+    md5_5: '88933'
+    md5_6: '889330'
+    oomp_key: oomp_digikey_digikey_footprints_sod_123
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_sod_123
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_sod_123_889330
+    oomp_key_simple: digikey_digikey_footprints_sod_123
     original_filename: digikey-kicad-library/digikey-footprints.pretty/SOD-123.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_sod_123
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_sod_123
   oomp_key_simple: digikey_digikey_footprints_sod_123
   owner: digikey
   repo:

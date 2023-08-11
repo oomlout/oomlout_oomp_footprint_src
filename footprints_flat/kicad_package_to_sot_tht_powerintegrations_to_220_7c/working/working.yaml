@@ -17,9 +17,18 @@
   oomp:
     footprint_name: powerintegrations_to_220_7c
     library_name: package_to_sot_tht
+    md5: b120685fa92624b4f693f421b35095e5
+    md5_10: b120685fa9
+    md5_5: b1206
+    md5_6: b12068
+    oomp_key: oomp_kicad_package_to_sot_tht_powerintegrations_to_220_7c
+    oomp_key_extra: oomp_footprint_kicad_package_to_sot_tht_powerintegrations_to_220_7c
+    oomp_key_full: oomp_footprint_kicad_package_to_sot_tht_powerintegrations_to_220_7c_b12068
+    oomp_key_simple: kicad_package_to_sot_tht_powerintegrations_to_220_7c
     original_filename: libraries/kicad-footprints/Package_TO_SOT_THT.pretty/PowerIntegrations_TO-220-7C.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_to_sot_tht_powerintegrations_to_220_7c
+  oomp_key_full: oomp_footprint_kicad_package_to_sot_tht_powerintegrations_to_220_7c
   oomp_key_simple: kicad_package_to_sot_tht_powerintegrations_to_220_7c
   owner: kicad
   repo:

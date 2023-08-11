@@ -19,9 +19,18 @@
   oomp:
     footprint_name: l_coilmx_ms0530_5752
     library_name: inductor_smd_extra
+    md5: 7d326f57d5cdb8574e7a1cd4fe1732ee
+    md5_10: 7d326f57d5
+    md5_5: 7d326
+    md5_6: 7d326f
+    oomp_key: oomp_arturo182_inductor_smd_extra_l_coilmx_ms0530_5752
+    oomp_key_extra: oomp_footprint_arturo182_inductor_smd_extra_l_coilmx_ms0530_5752
+    oomp_key_full: oomp_footprint_arturo182_inductor_smd_extra_l_coilmx_ms0530_5752_7d326f
+    oomp_key_simple: arturo182_inductor_smd_extra_l_coilmx_ms0530_5752
     original_filename: kicad-modules/Inductor_SMD_Extra.pretty/L_COILMX-MS0530-5752.kicad_mod
     owner_name: arturo182
   oomp_key: oomp_arturo182_inductor_smd_extra_l_coilmx_ms0530_5752
+  oomp_key_full: oomp_footprint_arturo182_inductor_smd_extra_l_coilmx_ms0530_5752
   oomp_key_simple: arturo182_inductor_smd_extra_l_coilmx_ms0530_5752
   owner: arturo182
   repo:

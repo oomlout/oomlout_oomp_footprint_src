@@ -18,9 +18,18 @@
   oomp:
     footprint_name: vqfn_20_1ep_3x3mm_p0_4mm_ep1_7x1_7mm
     library_name: package_dfn_qfn
+    md5: 34fefea4ec25c60bb3101be84ca7f08d
+    md5_10: 34fefea4ec
+    md5_5: 34fef
+    md5_6: 34fefe
+    oomp_key: oomp_kicad_package_dfn_qfn_vqfn_20_1ep_3x3mm_p0_4mm_ep1_7x1_7mm
+    oomp_key_extra: oomp_footprint_kicad_package_dfn_qfn_vqfn_20_1ep_3x3mm_p0_4mm_ep1_7x1_7mm
+    oomp_key_full: oomp_footprint_kicad_package_dfn_qfn_vqfn_20_1ep_3x3mm_p0_4mm_ep1_7x1_7mm_34fefe
+    oomp_key_simple: kicad_package_dfn_qfn_vqfn_20_1ep_3x3mm_p0_4mm_ep1_7x1_7mm
     original_filename: libraries/kicad-footprints/Package_DFN_QFN.pretty/VQFN-20-1EP_3x3mm_P0.4mm_EP1.7x1.7mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_dfn_qfn_vqfn_20_1ep_3x3mm_p0_4mm_ep1_7x1_7mm
+  oomp_key_full: oomp_footprint_kicad_package_dfn_qfn_vqfn_20_1ep_3x3mm_p0_4mm_ep1_7x1_7mm
   oomp_key_simple: kicad_package_dfn_qfn_vqfn_20_1ep_3x3mm_p0_4mm_ep1_7x1_7mm
   owner: kicad
   repo:

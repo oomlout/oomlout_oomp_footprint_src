@@ -19,9 +19,18 @@
   oomp:
     footprint_name: te_mate_n_lok_1_794106_x_2x10_p4_14mm_horizontal
     library_name: connector_te_connectivity
+    md5: 58dd54a689de59fa3fb5e90e7cf8dbe6
+    md5_10: 58dd54a689
+    md5_5: 58dd5
+    md5_6: 58dd54
+    oomp_key: oomp_kicad_connector_te_connectivity_te_mate_n_lok_1_794106_x_2x10_p4_14mm_horizontal
+    oomp_key_extra: oomp_footprint_kicad_connector_te_connectivity_te_mate_n_lok_1_794106_x_2x10_p4_14mm_horizontal
+    oomp_key_full: oomp_footprint_kicad_connector_te_connectivity_te_mate_n_lok_1_794106_x_2x10_p4_14mm_horizontal_58dd54
+    oomp_key_simple: kicad_connector_te_connectivity_te_mate_n_lok_1_794106_x_2x10_p4_14mm_horizontal
     original_filename: libraries/kicad-footprints/Connector_TE-Connectivity.pretty/TE_MATE-N-LOK_1-794106-x_2x10_P4.14mm_Horizontal.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_te_connectivity_te_mate_n_lok_1_794106_x_2x10_p4_14mm_horizontal
+  oomp_key_full: oomp_footprint_kicad_connector_te_connectivity_te_mate_n_lok_1_794106_x_2x10_p4_14mm_horizontal
   oomp_key_simple: kicad_connector_te_connectivity_te_mate_n_lok_1_794106_x_2x10_p4_14mm_horizontal
   owner: kicad
   repo:

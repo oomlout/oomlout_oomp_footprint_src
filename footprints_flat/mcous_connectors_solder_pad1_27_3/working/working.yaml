@@ -17,9 +17,18 @@
   oomp:
     footprint_name: _solder_pad1_27_3
     library_name: _connectors
+    md5: c4eb5016d2ebc98b6161f18c9096df96
+    md5_10: c4eb5016d2
+    md5_5: c4eb5
+    md5_6: c4eb50
+    oomp_key: oomp_mcous_connectors_solder_pad1_27_3
+    oomp_key_extra: oomp_footprint_mcous_connectors_solder_pad1_27_3
+    oomp_key_full: oomp_footprint_mcous_connectors_solder_pad1_27_3_c4eb50
+    oomp_key_simple: mcous_connectors_solder_pad1_27_3
     original_filename: kicad-lib/footprints/_connectors.pretty/_Solder_Pad1.27_3.kicad_mod
     owner_name: mcous
   oomp_key: oomp_mcous_connectors_solder_pad1_27_3
+  oomp_key_full: oomp_footprint_mcous_connectors_solder_pad1_27_3
   oomp_key_simple: mcous_connectors_solder_pad1_27_3
   owner: mcous
   repo:

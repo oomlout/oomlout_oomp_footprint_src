@@ -17,9 +17,18 @@
   oomp:
     footprint_name: so24w_7_5mm
     library_name: freetronics_footprints
+    md5: d532534d415937e524f91a6de027e267
+    md5_10: d532534d41
+    md5_5: d5325
+    md5_6: d53253
+    oomp_key: oomp_joanthespark_freetronics_footprints_so24w_7_5mm
+    oomp_key_extra: oomp_footprint_joanthespark_freetronics_footprints_so24w_7_5mm
+    oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_so24w_7_5mm_d53253
+    oomp_key_simple: joanthespark_freetronics_footprints_so24w_7_5mm
     original_filename: KiCAD/mods/freetronics_footprints.pretty/SO24W_7.5mm.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_freetronics_footprints_so24w_7_5mm
+  oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_so24w_7_5mm
   oomp_key_simple: joanthespark_freetronics_footprints_so24w_7_5mm
   owner: JoanTheSpark
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: screwterminal_3_5mm_10
     library_name: freetronics_footprints
+    md5: f1301b82d4c251cb18934ea64fe24faa
+    md5_10: f1301b82d4
+    md5_5: f1301
+    md5_6: f1301b
+    oomp_key: oomp_axello_freetronics_footprints_screwterminal_3_5mm_10
+    oomp_key_extra: oomp_footprint_axello_freetronics_footprints_screwterminal_3_5mm_10
+    oomp_key_full: oomp_footprint_axello_freetronics_footprints_screwterminal_3_5mm_10_f1301b
+    oomp_key_simple: axello_freetronics_footprints_screwterminal_3_5mm_10
     original_filename: kicad/mods/freetronics_footprints.pretty/SCREWTERMINAL-3.5MM-10.kicad_mod
     owner_name: axello
   oomp_key: oomp_axello_freetronics_footprints_screwterminal_3_5mm_10
+  oomp_key_full: oomp_footprint_axello_freetronics_footprints_screwterminal_3_5mm_10
   oomp_key_simple: axello_freetronics_footprints_screwterminal_3_5mm_10
   owner: axello
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sc_70_5
     library_name: smd_semi
+    md5: 97434c1e163cb401d092ca46aba26a81
+    md5_10: 97434c1e16
+    md5_5: '97434'
+    md5_6: 97434c
+    oomp_key: oomp_cpavlina_smd_semi_sc_70_5
+    oomp_key_extra: oomp_footprint_cpavlina_smd_semi_sc_70_5
+    oomp_key_full: oomp_footprint_cpavlina_smd_semi_sc_70_5_97434c
+    oomp_key_simple: cpavlina_smd_semi_sc_70_5
     original_filename: kicad-pcblib/smd-semi.pretty/SC-70-5.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_smd_semi_sc_70_5
+  oomp_key_full: oomp_footprint_cpavlina_smd_semi_sc_70_5
   oomp_key_simple: cpavlina_smd_semi_sc_70_5
   owner: cpavlina
   repo:

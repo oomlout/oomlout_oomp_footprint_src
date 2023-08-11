@@ -17,9 +17,18 @@
   oomp:
     footprint_name: onsemi_llga12
     library_name: kicadfootprint
+    md5: f9d3863ac965071e284c5ff102076675
+    md5_10: f9d3863ac9
+    md5_5: f9d38
+    md5_6: f9d386
+    oomp_key: oomp_vivitainc_kicadfootprint_onsemi_llga12
+    oomp_key_extra: oomp_footprint_vivitainc_kicadfootprint_onsemi_llga12
+    oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_onsemi_llga12_f9d386
+    oomp_key_simple: vivitainc_kicadfootprint_onsemi_llga12
     original_filename: KiCADfootprint.pretty/ONSemi_LLGA12.kicad_mod
     owner_name: vivitainc
   oomp_key: oomp_vivitainc_kicadfootprint_onsemi_llga12
+  oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_onsemi_llga12
   oomp_key_simple: vivitainc_kicadfootprint_onsemi_llga12
   owner: vivitainc
   repo:

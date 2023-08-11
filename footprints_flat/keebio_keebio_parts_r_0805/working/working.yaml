@@ -17,9 +17,18 @@
   oomp:
     footprint_name: r_0805
     library_name: keebio_parts
+    md5: ee947368e6959c148c6bc8f3c40a4d46
+    md5_10: ee947368e6
+    md5_5: ee947
+    md5_6: ee9473
+    oomp_key: oomp_keebio_keebio_parts_r_0805
+    oomp_key_extra: oomp_footprint_keebio_keebio_parts_r_0805
+    oomp_key_full: oomp_footprint_keebio_keebio_parts_r_0805_ee9473
+    oomp_key_simple: keebio_keebio_parts_r_0805
     original_filename: Keebio-Parts.pretty/R_0805.kicad_mod
     owner_name: keebio
   oomp_key: oomp_keebio_keebio_parts_r_0805
+  oomp_key_full: oomp_footprint_keebio_keebio_parts_r_0805
   oomp_key_simple: keebio_keebio_parts_r_0805
   owner: keebio
   repo:

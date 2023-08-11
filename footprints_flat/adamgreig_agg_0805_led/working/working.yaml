@@ -17,9 +17,18 @@
   oomp:
     footprint_name: 0805_led
     library_name: agg
+    md5: 83ac064d84c7fc540a5ddabf9313ef04
+    md5_10: 83ac064d84
+    md5_5: 83ac0
+    md5_6: 83ac06
+    oomp_key: oomp_adamgreig_agg_0805_led
+    oomp_key_extra: oomp_footprint_adamgreig_agg_0805_led
+    oomp_key_full: oomp_footprint_adamgreig_agg_0805_led_83ac06
+    oomp_key_simple: adamgreig_agg_0805_led
     original_filename: agg-kicad/agg.pretty/0805-LED.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_0805_led
+  oomp_key_full: oomp_footprint_adamgreig_agg_0805_led
   oomp_key_simple: adamgreig_agg_0805_led
   owner: adamgreig
   repo:

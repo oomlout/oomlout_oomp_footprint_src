@@ -17,9 +17,18 @@
   oomp:
     footprint_name: raspberry_pi_hat
     library_name: freetronics_footprints
+    md5: db8eb81d0caf80d9c54a894eaeb87e07
+    md5_10: db8eb81d0c
+    md5_5: db8eb
+    md5_6: db8eb8
+    oomp_key: oomp_joanthespark_freetronics_footprints_raspberry_pi_hat
+    oomp_key_extra: oomp_footprint_joanthespark_freetronics_footprints_raspberry_pi_hat
+    oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_raspberry_pi_hat_db8eb8
+    oomp_key_simple: joanthespark_freetronics_footprints_raspberry_pi_hat
     original_filename: KiCAD/mods/freetronics_footprints.pretty/RASPBERRY_PI_HAT.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_freetronics_footprints_raspberry_pi_hat
+  oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_raspberry_pi_hat
   oomp_key_simple: joanthespark_freetronics_footprints_raspberry_pi_hat
   owner: JoanTheSpark
   repo:

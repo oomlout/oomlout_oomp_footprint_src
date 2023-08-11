@@ -18,9 +18,18 @@
   oomp:
     footprint_name: jst_nv_b02p_nv_1x02_p5_00mm_vertical
     library_name: connector_jst
+    md5: 4846521063fc84b931bfd537aa0928f4
+    md5_10: '4846521063'
+    md5_5: '48465'
+    md5_6: '484652'
+    oomp_key: oomp_kicad_connector_jst_jst_nv_b02p_nv_1x02_p5_00mm_vertical
+    oomp_key_extra: oomp_footprint_kicad_connector_jst_jst_nv_b02p_nv_1x02_p5_00mm_vertical
+    oomp_key_full: oomp_footprint_kicad_connector_jst_jst_nv_b02p_nv_1x02_p5_00mm_vertical_484652
+    oomp_key_simple: kicad_connector_jst_jst_nv_b02p_nv_1x02_p5_00mm_vertical
     original_filename: libraries/kicad-footprints/Connector_JST.pretty/JST_NV_B02P-NV_1x02_P5.00mm_Vertical.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_jst_jst_nv_b02p_nv_1x02_p5_00mm_vertical
+  oomp_key_full: oomp_footprint_kicad_connector_jst_jst_nv_b02p_nv_1x02_p5_00mm_vertical
   oomp_key_simple: kicad_connector_jst_jst_nv_b02p_nv_1x02_p5_00mm_vertical
   owner: kicad
   repo:

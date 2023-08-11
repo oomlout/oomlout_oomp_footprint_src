@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ind_mh2029
     library_name: freetronics_footprints
+    md5: cecce0d965de1ca39c68fd0ec16c0977
+    md5_10: cecce0d965
+    md5_5: cecce
+    md5_6: cecce0
+    oomp_key: oomp_joanthespark_freetronics_footprints_ind_mh2029
+    oomp_key_extra: oomp_footprint_joanthespark_freetronics_footprints_ind_mh2029
+    oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_ind_mh2029_cecce0
+    oomp_key_simple: joanthespark_freetronics_footprints_ind_mh2029
     original_filename: KiCAD/mods/freetronics_footprints.pretty/IND_MH2029.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_freetronics_footprints_ind_mh2029
+  oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_ind_mh2029
   oomp_key_simple: joanthespark_freetronics_footprints_ind_mh2029
   owner: JoanTheSpark
   repo:

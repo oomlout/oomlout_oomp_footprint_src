@@ -17,9 +17,18 @@
   oomp:
     footprint_name: lattice_cabga_256
     library_name: xess
+    md5: 3127f89ec9aa44aa3bc17f64c1f87624
+    md5_10: 3127f89ec9
+    md5_5: 3127f
+    md5_6: 3127f8
+    oomp_key: oomp_xesscorp_xess_lattice_cabga_256
+    oomp_key_extra: oomp_footprint_xesscorp_xess_lattice_cabga_256
+    oomp_key_full: oomp_footprint_xesscorp_xess_lattice_cabga_256_3127f8
+    oomp_key_simple: xesscorp_xess_lattice_cabga_256
     original_filename: xess.pretty/Lattice_caBGA_256.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_lattice_cabga_256
+  oomp_key_full: oomp_footprint_xesscorp_xess_lattice_cabga_256
   oomp_key_simple: xesscorp_xess_lattice_cabga_256
   owner: xesscorp
   repo:

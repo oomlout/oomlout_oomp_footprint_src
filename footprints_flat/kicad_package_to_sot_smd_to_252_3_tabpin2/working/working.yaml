@@ -17,9 +17,18 @@
   oomp:
     footprint_name: to_252_3_tabpin2
     library_name: package_to_sot_smd
+    md5: 60c0821a78d7047b8c0090d272f292d3
+    md5_10: 60c0821a78
+    md5_5: 60c08
+    md5_6: 60c082
+    oomp_key: oomp_kicad_package_to_sot_smd_to_252_3_tabpin2
+    oomp_key_extra: oomp_footprint_kicad_package_to_sot_smd_to_252_3_tabpin2
+    oomp_key_full: oomp_footprint_kicad_package_to_sot_smd_to_252_3_tabpin2_60c082
+    oomp_key_simple: kicad_package_to_sot_smd_to_252_3_tabpin2
     original_filename: libraries/kicad-footprints/Package_TO_SOT_SMD.pretty/TO-252-3_TabPin2.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_to_sot_smd_to_252_3_tabpin2
+  oomp_key_full: oomp_footprint_kicad_package_to_sot_smd_to_252_3_tabpin2
   oomp_key_simple: kicad_package_to_sot_smd_to_252_3_tabpin2
   owner: kicad
   repo:

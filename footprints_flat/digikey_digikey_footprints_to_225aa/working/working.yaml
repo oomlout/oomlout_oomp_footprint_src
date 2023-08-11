@@ -17,9 +17,18 @@
   oomp:
     footprint_name: to_225aa
     library_name: digikey_footprints
+    md5: a8b318221b124092276c5edf453a94ac
+    md5_10: a8b318221b
+    md5_5: a8b31
+    md5_6: a8b318
+    oomp_key: oomp_digikey_digikey_footprints_to_225aa
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_to_225aa
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_to_225aa_a8b318
+    oomp_key_simple: digikey_digikey_footprints_to_225aa
     original_filename: digikey-kicad-library/digikey-footprints.pretty/TO-225AA.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_to_225aa
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_to_225aa
   oomp_key_simple: digikey_digikey_footprints_to_225aa
   owner: digikey
   repo:

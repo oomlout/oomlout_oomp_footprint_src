@@ -17,9 +17,18 @@
   oomp:
     footprint_name: vishay_wsl3637_large
     library_name: manuf
+    md5: c2f2c600c0e4129d9ab31a464fce2d8d
+    md5_10: c2f2c600c0
+    md5_5: c2f2c
+    md5_6: c2f2c6
+    oomp_key: oomp_cpavlina_manuf_vishay_wsl3637_large
+    oomp_key_extra: oomp_footprint_cpavlina_manuf_vishay_wsl3637_large
+    oomp_key_full: oomp_footprint_cpavlina_manuf_vishay_wsl3637_large_c2f2c6
+    oomp_key_simple: cpavlina_manuf_vishay_wsl3637_large
     original_filename: kicad-pcblib/manuf.pretty/VISHAY-WSL3637-LARGE.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_manuf_vishay_wsl3637_large
+  oomp_key_full: oomp_footprint_cpavlina_manuf_vishay_wsl3637_large
   oomp_key_simple: cpavlina_manuf_vishay_wsl3637_large
   owner: cpavlina
   repo:

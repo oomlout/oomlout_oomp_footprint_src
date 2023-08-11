@@ -17,9 +17,18 @@
   oomp:
     footprint_name: oshw_6mm
     library_name: mech
+    md5: a3d7f3c5ebde928a9cf2b6c626b8a405
+    md5_10: a3d7f3c5eb
+    md5_5: a3d7f
+    md5_6: a3d7f3
+    oomp_key: oomp_cpavlina_mech_oshw_6mm
+    oomp_key_extra: oomp_footprint_cpavlina_mech_oshw_6mm
+    oomp_key_full: oomp_footprint_cpavlina_mech_oshw_6mm_a3d7f3
+    oomp_key_simple: cpavlina_mech_oshw_6mm
     original_filename: kicad-pcblib/mech.pretty/OSHW-6mm.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_mech_oshw_6mm
+  oomp_key_full: oomp_footprint_cpavlina_mech_oshw_6mm
   oomp_key_simple: cpavlina_mech_oshw_6mm
   owner: cpavlina
   repo:

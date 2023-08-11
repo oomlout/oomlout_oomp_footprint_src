@@ -18,9 +18,18 @@
   oomp:
     footprint_name: powerintegrations_sdip_10c
     library_name: package_dip
+    md5: 475aa0d98b08df7e1e15f5b9e6e73cfa
+    md5_10: 475aa0d98b
+    md5_5: 475aa
+    md5_6: 475aa0
+    oomp_key: oomp_kicad_package_dip_powerintegrations_sdip_10c
+    oomp_key_extra: oomp_footprint_kicad_package_dip_powerintegrations_sdip_10c
+    oomp_key_full: oomp_footprint_kicad_package_dip_powerintegrations_sdip_10c_475aa0
+    oomp_key_simple: kicad_package_dip_powerintegrations_sdip_10c
     original_filename: libraries/kicad-footprints/Package_DIP.pretty/PowerIntegrations_SDIP-10C.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_dip_powerintegrations_sdip_10c
+  oomp_key_full: oomp_footprint_kicad_package_dip_powerintegrations_sdip_10c
   oomp_key_simple: kicad_package_dip_powerintegrations_sdip_10c
   owner: kicad
   repo:

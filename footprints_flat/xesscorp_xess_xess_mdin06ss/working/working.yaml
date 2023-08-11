@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_mdin06ss
     library_name: xess
+    md5: 733527927610840f10d1c5cd142c110f
+    md5_10: '7335279276'
+    md5_5: '73352'
+    md5_6: '733527'
+    oomp_key: oomp_xesscorp_xess_xess_mdin06ss
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_mdin06ss
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_mdin06ss_733527
+    oomp_key_simple: xesscorp_xess_xess_mdin06ss
     original_filename: xess.pretty/xess-MDIN06SS.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_mdin06ss
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_mdin06ss
   oomp_key_simple: xesscorp_xess_xess_mdin06ss
   owner: xesscorp
   repo:

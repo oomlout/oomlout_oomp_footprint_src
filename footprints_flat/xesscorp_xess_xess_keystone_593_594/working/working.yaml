@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_keystone_593_594
     library_name: xess
+    md5: ae84d5c394a778ce80496574297e5057
+    md5_10: ae84d5c394
+    md5_5: ae84d
+    md5_6: ae84d5
+    oomp_key: oomp_xesscorp_xess_xess_keystone_593_594
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_keystone_593_594
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_keystone_593_594_ae84d5
+    oomp_key_simple: xesscorp_xess_xess_keystone_593_594
     original_filename: xess.pretty/xess-KEYSTONE-593+594.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_keystone_593_594
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_keystone_593_594
   oomp_key_simple: xesscorp_xess_xess_keystone_593_594
   owner: xesscorp
   repo:

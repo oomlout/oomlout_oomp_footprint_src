@@ -17,9 +17,18 @@
   oomp:
     footprint_name: capc3225x130
     library_name: ipc7351_nominal
+    md5: 4226db3ff6b70f9c7575657225eec53e
+    md5_10: 4226db3ff6
+    md5_5: 4226d
+    md5_6: 4226db
+    oomp_key: oomp_cpavlina_ipc7351_nominal_capc3225x130
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_nominal_capc3225x130
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_capc3225x130_4226db
+    oomp_key_simple: cpavlina_ipc7351_nominal_capc3225x130
     original_filename: kicad-pcblib/IPC7351-Nominal.pretty/CAPC3225X130.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_nominal_capc3225x130
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_capc3225x130
   oomp_key_simple: cpavlina_ipc7351_nominal_capc3225x130
   owner: cpavlina
   repo:

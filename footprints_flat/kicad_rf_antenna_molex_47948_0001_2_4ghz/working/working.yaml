@@ -17,9 +17,18 @@
   oomp:
     footprint_name: molex_47948_0001_2_4ghz
     library_name: rf_antenna
+    md5: d015cc0af62201eec45a5fbe311ef5d6
+    md5_10: d015cc0af6
+    md5_5: d015c
+    md5_6: d015cc
+    oomp_key: oomp_kicad_rf_antenna_molex_47948_0001_2_4ghz
+    oomp_key_extra: oomp_footprint_kicad_rf_antenna_molex_47948_0001_2_4ghz
+    oomp_key_full: oomp_footprint_kicad_rf_antenna_molex_47948_0001_2_4ghz_d015cc
+    oomp_key_simple: kicad_rf_antenna_molex_47948_0001_2_4ghz
     original_filename: libraries/kicad-footprints/RF_Antenna.pretty/Molex_47948-0001_2.4Ghz.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_rf_antenna_molex_47948_0001_2_4ghz
+  oomp_key_full: oomp_footprint_kicad_rf_antenna_molex_47948_0001_2_4ghz
   oomp_key_simple: kicad_rf_antenna_molex_47948_0001_2_4ghz
   owner: kicad
   repo:

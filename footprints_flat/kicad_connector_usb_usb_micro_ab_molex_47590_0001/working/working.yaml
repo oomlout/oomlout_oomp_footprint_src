@@ -17,9 +17,18 @@
   oomp:
     footprint_name: usb_micro_ab_molex_47590_0001
     library_name: connector_usb
+    md5: 4a1189774ffc095957e3c6ecdc55aea4
+    md5_10: 4a1189774f
+    md5_5: 4a118
+    md5_6: 4a1189
+    oomp_key: oomp_kicad_connector_usb_usb_micro_ab_molex_47590_0001
+    oomp_key_extra: oomp_footprint_kicad_connector_usb_usb_micro_ab_molex_47590_0001
+    oomp_key_full: oomp_footprint_kicad_connector_usb_usb_micro_ab_molex_47590_0001_4a1189
+    oomp_key_simple: kicad_connector_usb_usb_micro_ab_molex_47590_0001
     original_filename: libraries/kicad-footprints/Connector_USB.pretty/USB_Micro-AB_Molex_47590-0001.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_usb_usb_micro_ab_molex_47590_0001
+  oomp_key_full: oomp_footprint_kicad_connector_usb_usb_micro_ab_molex_47590_0001
   oomp_key_simple: kicad_connector_usb_usb_micro_ab_molex_47590_0001
   owner: kicad
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: r_array_sip5
     library_name: resistor_tht
+    md5: db90b947b19ea695699eb9babd1f9b63
+    md5_10: db90b947b1
+    md5_5: db90b
+    md5_6: db90b9
+    oomp_key: oomp_kicad_resistor_tht_r_array_sip5
+    oomp_key_extra: oomp_footprint_kicad_resistor_tht_r_array_sip5
+    oomp_key_full: oomp_footprint_kicad_resistor_tht_r_array_sip5_db90b9
+    oomp_key_simple: kicad_resistor_tht_r_array_sip5
     original_filename: libraries/kicad-footprints/Resistor_THT.pretty/R_Array_SIP5.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_resistor_tht_r_array_sip5
+  oomp_key_full: oomp_footprint_kicad_resistor_tht_r_array_sip5
   oomp_key_simple: kicad_resistor_tht_r_array_sip5
   owner: kicad
   repo:

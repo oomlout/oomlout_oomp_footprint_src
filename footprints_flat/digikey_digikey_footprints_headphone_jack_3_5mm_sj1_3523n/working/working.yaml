@@ -17,9 +17,18 @@
   oomp:
     footprint_name: headphone_jack_3_5mm_sj1_3523n
     library_name: digikey_footprints
+    md5: d496e1f70a29ab181e9f97a112fcb2a8
+    md5_10: d496e1f70a
+    md5_5: d496e
+    md5_6: d496e1
+    oomp_key: oomp_digikey_digikey_footprints_headphone_jack_3_5mm_sj1_3523n
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_headphone_jack_3_5mm_sj1_3523n
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_headphone_jack_3_5mm_sj1_3523n_d496e1
+    oomp_key_simple: digikey_digikey_footprints_headphone_jack_3_5mm_sj1_3523n
     original_filename: digikey-kicad-library/digikey-footprints.pretty/Headphone_Jack_3.5mm_SJ1-3523N.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_headphone_jack_3_5mm_sj1_3523n
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_headphone_jack_3_5mm_sj1_3523n
   oomp_key_simple: digikey_digikey_footprints_headphone_jack_3_5mm_sj1_3523n
   owner: digikey
   repo:

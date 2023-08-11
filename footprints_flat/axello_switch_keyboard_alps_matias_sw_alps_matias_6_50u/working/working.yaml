@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sw_alps_matias_6_50u
     library_name: switch_keyboard_alps_matias
+    md5: ff4bb4c04f9fb09372f039e6132c4bd7
+    md5_10: ff4bb4c04f
+    md5_5: ff4bb
+    md5_6: ff4bb4
+    oomp_key: oomp_axello_switch_keyboard_alps_matias_sw_alps_matias_6_50u
+    oomp_key_extra: oomp_footprint_axello_switch_keyboard_alps_matias_sw_alps_matias_6_50u
+    oomp_key_full: oomp_footprint_axello_switch_keyboard_alps_matias_sw_alps_matias_6_50u_ff4bb4
+    oomp_key_simple: axello_switch_keyboard_alps_matias_sw_alps_matias_6_50u
     original_filename: kicad/6.0/3rdparty/footprints/com_github_perigoso_keyswitch-kicad-library/Switch_Keyboard_Alps_Matias.pretty/SW_Alps_Matias_6.50u.kicad_mod
     owner_name: axello
   oomp_key: oomp_axello_switch_keyboard_alps_matias_sw_alps_matias_6_50u
+  oomp_key_full: oomp_footprint_axello_switch_keyboard_alps_matias_sw_alps_matias_6_50u
   oomp_key_simple: axello_switch_keyboard_alps_matias_sw_alps_matias_6_50u
   owner: axello
   repo:

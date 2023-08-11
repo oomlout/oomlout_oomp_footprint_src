@@ -18,9 +18,18 @@
   oomp:
     footprint_name: rescav50p100x200x55_8
     library_name: ipc7351_nominal
+    md5: 8e383b2d7d4c2e874de3e76a770a9e9b
+    md5_10: 8e383b2d7d
+    md5_5: 8e383
+    md5_6: 8e383b
+    oomp_key: oomp_cpavlina_ipc7351_nominal_rescav50p100x200x55_8
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_nominal_rescav50p100x200x55_8
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_rescav50p100x200x55_8_8e383b
+    oomp_key_simple: cpavlina_ipc7351_nominal_rescav50p100x200x55_8
     original_filename: kicad-pcblib/IPC7351-Nominal.pretty/RESCAV50P100X200X55-8.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_nominal_rescav50p100x200x55_8
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_rescav50p100x200x55_8
   oomp_key_simple: cpavlina_ipc7351_nominal_rescav50p100x200x55_8
   owner: cpavlina
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: picolock_100p_2
     library_name: agg
+    md5: 932becf50a32a7550959475e05ad8b3d
+    md5_10: 932becf50a
+    md5_5: 932be
+    md5_6: 932bec
+    oomp_key: oomp_adamgreig_agg_picolock_100p_2
+    oomp_key_extra: oomp_footprint_adamgreig_agg_picolock_100p_2
+    oomp_key_full: oomp_footprint_adamgreig_agg_picolock_100p_2_932bec
+    oomp_key_simple: adamgreig_agg_picolock_100p_2
     original_filename: agg-kicad/agg.pretty/PICOLOCK-100P-2.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_picolock_100p_2
+  oomp_key_full: oomp_footprint_adamgreig_agg_picolock_100p_2
   oomp_key_simple: adamgreig_agg_picolock_100p_2
   owner: adamgreig
   repo:

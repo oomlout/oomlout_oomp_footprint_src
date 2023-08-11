@@ -17,9 +17,18 @@
   oomp:
     footprint_name: pinheader_6x2_p2_54mm_vertical
     library_name: digikey_footprints
+    md5: 9e3df2a6b9bafe2e3664c256a1ffc9cc
+    md5_10: 9e3df2a6b9
+    md5_5: 9e3df
+    md5_6: 9e3df2
+    oomp_key: oomp_digikey_digikey_footprints_pinheader_6x2_p2_54mm_vertical
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_pinheader_6x2_p2_54mm_vertical
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_pinheader_6x2_p2_54mm_vertical_9e3df2
+    oomp_key_simple: digikey_digikey_footprints_pinheader_6x2_p2_54mm_vertical
     original_filename: digikey-kicad-library/digikey-footprints.pretty/PinHeader_6x2_P2.54mm_Vertical.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_pinheader_6x2_p2_54mm_vertical
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_pinheader_6x2_p2_54mm_vertical
   oomp_key_simple: digikey_digikey_footprints_pinheader_6x2_p2_54mm_vertical
   owner: digikey
   repo:

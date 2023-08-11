@@ -18,9 +18,18 @@
   oomp:
     footprint_name: qfn80p600x500x80_19w
     library_name: ipc7351_most
+    md5: 9cd411224c21d1dbb7a44ce99ac2b453
+    md5_10: 9cd411224c
+    md5_5: 9cd41
+    md5_6: 9cd411
+    oomp_key: oomp_cpavlina_ipc7351_most_qfn80p600x500x80_19w
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_most_qfn80p600x500x80_19w
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_most_qfn80p600x500x80_19w_9cd411
+    oomp_key_simple: cpavlina_ipc7351_most_qfn80p600x500x80_19w
     original_filename: kicad-pcblib/IPC7351-Most.pretty/QFN80P600X500X80-19W.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_most_qfn80p600x500x80_19w
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_most_qfn80p600x500x80_19w
   oomp_key_simple: cpavlina_ipc7351_most_qfn80p600x500x80_19w
   owner: cpavlina
   repo:

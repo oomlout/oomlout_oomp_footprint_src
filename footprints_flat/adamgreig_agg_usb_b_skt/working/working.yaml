@@ -17,9 +17,18 @@
   oomp:
     footprint_name: usb_b_skt
     library_name: agg
+    md5: 1dc5276a18b8c3ca44a08f8bc7db6a64
+    md5_10: 1dc5276a18
+    md5_5: 1dc52
+    md5_6: 1dc527
+    oomp_key: oomp_adamgreig_agg_usb_b_skt
+    oomp_key_extra: oomp_footprint_adamgreig_agg_usb_b_skt
+    oomp_key_full: oomp_footprint_adamgreig_agg_usb_b_skt_1dc527
+    oomp_key_simple: adamgreig_agg_usb_b_skt
     original_filename: agg-kicad/agg.pretty/USB-B-SKT.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_usb_b_skt
+  oomp_key_full: oomp_footprint_adamgreig_agg_usb_b_skt
   oomp_key_simple: adamgreig_agg_usb_b_skt
   owner: adamgreig
   repo:

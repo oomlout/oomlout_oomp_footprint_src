@@ -17,9 +17,18 @@
   oomp:
     footprint_name: d_bridge_gbu
     library_name: pth_semi
+    md5: 2bc61911e761f76b0c1582025e05eb1c
+    md5_10: 2bc61911e7
+    md5_5: 2bc61
+    md5_6: 2bc619
+    oomp_key: oomp_cpavlina_pth_semi_d_bridge_gbu
+    oomp_key_extra: oomp_footprint_cpavlina_pth_semi_d_bridge_gbu
+    oomp_key_full: oomp_footprint_cpavlina_pth_semi_d_bridge_gbu_2bc619
+    oomp_key_simple: cpavlina_pth_semi_d_bridge_gbu
     original_filename: kicad-pcblib/pth-semi.pretty/D-BRIDGE-GBU.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_pth_semi_d_bridge_gbu
+  oomp_key_full: oomp_footprint_cpavlina_pth_semi_d_bridge_gbu
   oomp_key_simple: cpavlina_pth_semi_d_bridge_gbu
   owner: cpavlina
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: c_film_6mm
     library_name: pth_passive
+    md5: 63c74a2d1e15370a33772d11e48d2f5f
+    md5_10: 63c74a2d1e
+    md5_5: 63c74
+    md5_6: 63c74a
+    oomp_key: oomp_cpavlina_pth_passive_c_film_6mm
+    oomp_key_extra: oomp_footprint_cpavlina_pth_passive_c_film_6mm
+    oomp_key_full: oomp_footprint_cpavlina_pth_passive_c_film_6mm_63c74a
+    oomp_key_simple: cpavlina_pth_passive_c_film_6mm
     original_filename: kicad-pcblib/pth-passive.pretty/C-FILM-6mm.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_pth_passive_c_film_6mm
+  oomp_key_full: oomp_footprint_cpavlina_pth_passive_c_film_6mm
   oomp_key_simple: cpavlina_pth_passive_c_film_6mm
   owner: cpavlina
   repo:

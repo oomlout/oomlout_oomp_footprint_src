@@ -14,9 +14,18 @@
   oomp:
     footprint_name: capacitor_electrolytic_6_3mm
     library_name: kicad
+    md5: 128db944f4da5f998a6e8afb6116b87c
+    md5_10: 128db944f4
+    md5_5: 128db
+    md5_6: 128db9
+    oomp_key: oomp_kubix89_kicad_capacitor_electrolytic_6_3mm
+    oomp_key_extra: oomp_footprint_kubix89_kicad_capacitor_electrolytic_6_3mm
+    oomp_key_full: oomp_footprint_kubix89_kicad_capacitor_electrolytic_6_3mm_128db9
+    oomp_key_simple: kubix89_kicad_capacitor_electrolytic_6_3mm
     original_filename: kiCAD.pretty/CAPACITOR_ELECTROLYTIC_6.3MM.kicad_mod
     owner_name: kubix89
   oomp_key: oomp_kubix89_kicad_capacitor_electrolytic_6_3mm
+  oomp_key_full: oomp_footprint_kubix89_kicad_capacitor_electrolytic_6_3mm
   oomp_key_simple: kubix89_kicad_capacitor_electrolytic_6_3mm
   owner: kubiX89
   repo:

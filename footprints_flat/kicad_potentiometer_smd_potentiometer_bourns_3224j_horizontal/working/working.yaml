@@ -17,9 +17,18 @@
   oomp:
     footprint_name: potentiometer_bourns_3224j_horizontal
     library_name: potentiometer_smd
+    md5: 9b65689f8cb27f51a8c1d16c7d668d03
+    md5_10: 9b65689f8c
+    md5_5: 9b656
+    md5_6: 9b6568
+    oomp_key: oomp_kicad_potentiometer_smd_potentiometer_bourns_3224j_horizontal
+    oomp_key_extra: oomp_footprint_kicad_potentiometer_smd_potentiometer_bourns_3224j_horizontal
+    oomp_key_full: oomp_footprint_kicad_potentiometer_smd_potentiometer_bourns_3224j_horizontal_9b6568
+    oomp_key_simple: kicad_potentiometer_smd_potentiometer_bourns_3224j_horizontal
     original_filename: libraries/kicad-footprints/Potentiometer_SMD.pretty/Potentiometer_Bourns_3224J_Horizontal.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_potentiometer_smd_potentiometer_bourns_3224j_horizontal
+  oomp_key_full: oomp_footprint_kicad_potentiometer_smd_potentiometer_bourns_3224j_horizontal
   oomp_key_simple: kicad_potentiometer_smd_potentiometer_bourns_3224j_horizontal
   owner: kicad
   repo:

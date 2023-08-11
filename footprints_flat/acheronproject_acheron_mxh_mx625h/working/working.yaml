@@ -17,9 +17,18 @@
   oomp:
     footprint_name: mx625h
     library_name: acheron_mxh
+    md5: ed6417af956c39c9d3dd6d6b1c39716c
+    md5_10: ed6417af95
+    md5_5: ed641
+    md5_6: ed6417
+    oomp_key: oomp_acheronproject_acheron_mxh_mx625h
+    oomp_key_extra: oomp_footprint_acheronproject_acheron_mxh_mx625h
+    oomp_key_full: oomp_footprint_acheronproject_acheron_mxh_mx625h_ed6417
+    oomp_key_simple: acheronproject_acheron_mxh_mx625h
     original_filename: acheron_MXH.pretty/MX625H.kicad_mod
     owner_name: acheronproject
   oomp_key: oomp_acheronproject_acheron_mxh_mx625h
+  oomp_key_full: oomp_footprint_acheronproject_acheron_mxh_mx625h
   oomp_key_simple: acheronproject_acheron_mxh_mx625h
   owner: AcheronProject
   repo:

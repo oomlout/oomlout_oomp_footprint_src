@@ -17,9 +17,18 @@
   oomp:
     footprint_name: patchantenna25
     library_name: avp
+    md5: b1988d12faabf545230a6b263dd62984
+    md5_10: b1988d12fa
+    md5_5: b1988
+    md5_6: b1988d
+    oomp_key: oomp_av_p_avp_patchantenna25
+    oomp_key_extra: oomp_footprint_av_p_avp_patchantenna25
+    oomp_key_full: oomp_footprint_av_p_avp_patchantenna25_b1988d
+    oomp_key_simple: av_p_avp_patchantenna25
     original_filename: Avp.pretty/PatchAntenna25.kicad_mod
     owner_name: av_p
   oomp_key: oomp_av_p_avp_patchantenna25
+  oomp_key_full: oomp_footprint_av_p_avp_patchantenna25
   oomp_key_simple: av_p_avp_patchantenna25
   owner: av-p
   repo:

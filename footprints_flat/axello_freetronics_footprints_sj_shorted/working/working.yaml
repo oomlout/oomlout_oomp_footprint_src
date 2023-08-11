@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sj_shorted
     library_name: freetronics_footprints
+    md5: d131948750920ff5f349080080765156
+    md5_10: d131948750
+    md5_5: d1319
+    md5_6: d13194
+    oomp_key: oomp_axello_freetronics_footprints_sj_shorted
+    oomp_key_extra: oomp_footprint_axello_freetronics_footprints_sj_shorted
+    oomp_key_full: oomp_footprint_axello_freetronics_footprints_sj_shorted_d13194
+    oomp_key_simple: axello_freetronics_footprints_sj_shorted
     original_filename: kicad/mods/freetronics_footprints.pretty/SJ_SHORTED.kicad_mod
     owner_name: axello
   oomp_key: oomp_axello_freetronics_footprints_sj_shorted
+  oomp_key_full: oomp_footprint_axello_freetronics_footprints_sj_shorted
   oomp_key_simple: axello_freetronics_footprints_sj_shorted
   owner: axello
   repo:

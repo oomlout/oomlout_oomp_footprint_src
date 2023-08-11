@@ -18,9 +18,18 @@
   oomp:
     footprint_name: resonator_3pin_w6_0mm_h3_0mm
     library_name: crystal
+    md5: cf0415c8155f2ef5370f485e8c414e1a
+    md5_10: cf0415c815
+    md5_5: cf041
+    md5_6: cf0415
+    oomp_key: oomp_kicad_crystal_resonator_3pin_w6_0mm_h3_0mm
+    oomp_key_extra: oomp_footprint_kicad_crystal_resonator_3pin_w6_0mm_h3_0mm
+    oomp_key_full: oomp_footprint_kicad_crystal_resonator_3pin_w6_0mm_h3_0mm_cf0415
+    oomp_key_simple: kicad_crystal_resonator_3pin_w6_0mm_h3_0mm
     original_filename: libraries/kicad-footprints/Crystal.pretty/Resonator-3Pin_W6.0mm_H3.0mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_crystal_resonator_3pin_w6_0mm_h3_0mm
+  oomp_key_full: oomp_footprint_kicad_crystal_resonator_3pin_w6_0mm_h3_0mm
   oomp_key_simple: kicad_crystal_resonator_3pin_w6_0mm_h3_0mm
   owner: kicad
   repo:

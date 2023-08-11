@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ck_kmt0
     library_name: manuf
+    md5: ae8d2411a8398b0564bcb84ccbae70cc
+    md5_10: ae8d2411a8
+    md5_5: ae8d2
+    md5_6: ae8d24
+    oomp_key: oomp_cpavlina_manuf_ck_kmt0
+    oomp_key_extra: oomp_footprint_cpavlina_manuf_ck_kmt0
+    oomp_key_full: oomp_footprint_cpavlina_manuf_ck_kmt0_ae8d24
+    oomp_key_simple: cpavlina_manuf_ck_kmt0
     original_filename: kicad-pcblib/manuf.pretty/CK_KMT0.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_manuf_ck_kmt0
+  oomp_key_full: oomp_footprint_cpavlina_manuf_ck_kmt0
   oomp_key_simple: cpavlina_manuf_ck_kmt0
   owner: cpavlina
   repo:

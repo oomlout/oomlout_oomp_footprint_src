@@ -17,9 +17,18 @@
   oomp:
     footprint_name: mx_alps_choc_2u
     library_name: keebio_parts
+    md5: a2a69243055a5663c37d4eb8f3c1fd3b
+    md5_10: a2a6924305
+    md5_5: a2a69
+    md5_6: a2a692
+    oomp_key: oomp_keebio_keebio_parts_mx_alps_choc_2u
+    oomp_key_extra: oomp_footprint_keebio_keebio_parts_mx_alps_choc_2u
+    oomp_key_full: oomp_footprint_keebio_keebio_parts_mx_alps_choc_2u_a2a692
+    oomp_key_simple: keebio_keebio_parts_mx_alps_choc_2u
     original_filename: Keebio-Parts.pretty/MX-Alps-Choc-2U.kicad_mod
     owner_name: keebio
   oomp_key: oomp_keebio_keebio_parts_mx_alps_choc_2u
+  oomp_key_full: oomp_footprint_keebio_keebio_parts_mx_alps_choc_2u
   oomp_key_simple: keebio_keebio_parts_mx_alps_choc_2u
   owner: keebio
   repo:

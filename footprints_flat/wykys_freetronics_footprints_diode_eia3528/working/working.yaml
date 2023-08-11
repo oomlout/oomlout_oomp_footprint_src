@@ -17,9 +17,18 @@
   oomp:
     footprint_name: diode_eia3528
     library_name: freetronics_footprints
+    md5: d2dd755474baa7f39b6718f74aa19fe2
+    md5_10: d2dd755474
+    md5_5: d2dd7
+    md5_6: d2dd75
+    oomp_key: oomp_wykys_freetronics_footprints_diode_eia3528
+    oomp_key_extra: oomp_footprint_wykys_freetronics_footprints_diode_eia3528
+    oomp_key_full: oomp_footprint_wykys_freetronics_footprints_diode_eia3528_d2dd75
+    oomp_key_simple: wykys_freetronics_footprints_diode_eia3528
     original_filename: kicad/mods/freetronics_footprints.pretty/DIODE_EIA3528.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_freetronics_footprints_diode_eia3528
+  oomp_key_full: oomp_footprint_wykys_freetronics_footprints_diode_eia3528
   oomp_key_simple: wykys_freetronics_footprints_diode_eia3528
   owner: wykys
   repo:

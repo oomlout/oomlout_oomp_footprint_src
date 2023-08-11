@@ -17,9 +17,18 @@
   oomp:
     footprint_name: bourns_srn3015
     library_name: manuf
+    md5: 668fb0ceab8963c06760d66e433f314a
+    md5_10: 668fb0ceab
+    md5_5: 668fb
+    md5_6: 668fb0
+    oomp_key: oomp_cpavlina_manuf_bourns_srn3015
+    oomp_key_extra: oomp_footprint_cpavlina_manuf_bourns_srn3015
+    oomp_key_full: oomp_footprint_cpavlina_manuf_bourns_srn3015_668fb0
+    oomp_key_simple: cpavlina_manuf_bourns_srn3015
     original_filename: kicad-pcblib/manuf.pretty/BOURNS-SRN3015.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_manuf_bourns_srn3015
+  oomp_key_full: oomp_footprint_cpavlina_manuf_bourns_srn3015
   oomp_key_simple: cpavlina_manuf_bourns_srn3015
   owner: cpavlina
   repo:

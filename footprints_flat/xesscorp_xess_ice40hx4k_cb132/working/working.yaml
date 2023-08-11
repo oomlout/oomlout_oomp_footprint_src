@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ice40hx4k_cb132
     library_name: xess
+    md5: 5fbfe20fbd2412e815c2842c0fa6c6b7
+    md5_10: 5fbfe20fbd
+    md5_5: 5fbfe
+    md5_6: 5fbfe2
+    oomp_key: oomp_xesscorp_xess_ice40hx4k_cb132
+    oomp_key_extra: oomp_footprint_xesscorp_xess_ice40hx4k_cb132
+    oomp_key_full: oomp_footprint_xesscorp_xess_ice40hx4k_cb132_5fbfe2
+    oomp_key_simple: xesscorp_xess_ice40hx4k_cb132
     original_filename: xess.pretty/ICE40HX4K-CB132.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_ice40hx4k_cb132
+  oomp_key_full: oomp_footprint_xesscorp_xess_ice40hx4k_cb132
   oomp_key_simple: xesscorp_xess_ice40hx4k_cb132
   owner: xesscorp
   repo:

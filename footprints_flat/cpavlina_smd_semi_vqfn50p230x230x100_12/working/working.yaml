@@ -17,9 +17,18 @@
   oomp:
     footprint_name: vqfn50p230x230x100_12
     library_name: smd_semi
+    md5: ef14e7690cc2143b0b1dff127d827bf0
+    md5_10: ef14e7690c
+    md5_5: ef14e
+    md5_6: ef14e7
+    oomp_key: oomp_cpavlina_smd_semi_vqfn50p230x230x100_12
+    oomp_key_extra: oomp_footprint_cpavlina_smd_semi_vqfn50p230x230x100_12
+    oomp_key_full: oomp_footprint_cpavlina_smd_semi_vqfn50p230x230x100_12_ef14e7
+    oomp_key_simple: cpavlina_smd_semi_vqfn50p230x230x100_12
     original_filename: kicad-pcblib/smd-semi.pretty/VQFN50P230X230X100-12.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_smd_semi_vqfn50p230x230x100_12
+  oomp_key_full: oomp_footprint_cpavlina_smd_semi_vqfn50p230x230x100_12
   oomp_key_simple: cpavlina_smd_semi_vqfn50p230x230x100_12
   owner: cpavlina
   repo:

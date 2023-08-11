@@ -18,9 +18,18 @@
   oomp:
     footprint_name: l_commonmode_toroid_vertical_l19_3mm_w10_8mm_px6_35mm_py15_24mm_bourns_8100
     library_name: inductor_tht
+    md5: 6df05a357abadb1abe0ef9ee018f0fb5
+    md5_10: 6df05a357a
+    md5_5: 6df05
+    md5_6: 6df05a
+    oomp_key: oomp_kicad_inductor_tht_l_commonmode_toroid_vertical_l19_3mm_w10_8mm_px6_35mm_py15_24mm_bourns_8100
+    oomp_key_extra: oomp_footprint_kicad_inductor_tht_l_commonmode_toroid_vertical_l19_3mm_w10_8mm_px6_35mm_py15_24mm_bourns_8100
+    oomp_key_full: oomp_footprint_kicad_inductor_tht_l_commonmode_toroid_vertical_l19_3mm_w10_8mm_px6_35mm_py15_24mm_bourns_8100_6df05a
+    oomp_key_simple: kicad_inductor_tht_l_commonmode_toroid_vertical_l19_3mm_w10_8mm_px6_35mm_py15_24mm_bourns_8100
     original_filename: libraries/kicad-footprints/Inductor_THT.pretty/L_CommonMode_Toroid_Vertical_L19.3mm_W10.8mm_Px6.35mm_Py15.24mm_Bourns_8100.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_inductor_tht_l_commonmode_toroid_vertical_l19_3mm_w10_8mm_px6_35mm_py15_24mm_bourns_8100
+  oomp_key_full: oomp_footprint_kicad_inductor_tht_l_commonmode_toroid_vertical_l19_3mm_w10_8mm_px6_35mm_py15_24mm_bourns_8100
   oomp_key_simple: kicad_inductor_tht_l_commonmode_toroid_vertical_l19_3mm_w10_8mm_px6_35mm_py15_24mm_bourns_8100
   owner: kicad
   repo:

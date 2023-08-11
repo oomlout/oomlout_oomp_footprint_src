@@ -17,9 +17,18 @@
   oomp:
     footprint_name: vfqfn_64_1ep_9x9mm
     library_name: digikey_footprints
+    md5: f4b17d54fe22f8fde9b0983ce16b3163
+    md5_10: f4b17d54fe
+    md5_5: f4b17
+    md5_6: f4b17d
+    oomp_key: oomp_digikey_digikey_footprints_vfqfn_64_1ep_9x9mm
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_vfqfn_64_1ep_9x9mm
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_vfqfn_64_1ep_9x9mm_f4b17d
+    oomp_key_simple: digikey_digikey_footprints_vfqfn_64_1ep_9x9mm
     original_filename: digikey-kicad-library/digikey-footprints.pretty/VFQFN-64-1EP_9x9mm.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_vfqfn_64_1ep_9x9mm
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_vfqfn_64_1ep_9x9mm
   oomp_key_simple: digikey_digikey_footprints_vfqfn_64_1ep_9x9mm
   owner: digikey
   repo:

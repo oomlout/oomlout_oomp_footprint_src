@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ep13_smt_h_10pin_(4375)
     library_name: transformers_wurthelektronik
+    md5: 0295196735bf6dfec2910eccd8a16920
+    md5_10: 0295196735
+    md5_5: 02951
+    md5_6: 029519
+    oomp_key: oomp_toka_eisos_transformers_wurthelektronik_ep13_smt_h_10pin_(4375)
+    oomp_key_extra: oomp_footprint_toka_eisos_transformers_wurthelektronik_ep13_smt_h_10pin_(4375)
+    oomp_key_full: oomp_footprint_toka_eisos_transformers_wurthelektronik_ep13_smt_h_10pin_(4375)_029519
+    oomp_key_simple: toka_eisos_transformers_wurthelektronik_ep13_smt_h_10pin_(4375)
     original_filename: Transformers_WurthElektronik.pretty/EP13_SMT_H_10PIN_(4375).kicad_mod
     owner_name: toka_eisos
   oomp_key: oomp_toka_eisos_transformers_wurthelektronik_ep13_smt_h_10pin_(4375)
+  oomp_key_full: oomp_footprint_toka_eisos_transformers_wurthelektronik_ep13_smt_h_10pin_(4375)
   oomp_key_simple: toka_eisos_transformers_wurthelektronik_ep13_smt_h_10pin_(4375)
   owner: toka-eisos
   repo:

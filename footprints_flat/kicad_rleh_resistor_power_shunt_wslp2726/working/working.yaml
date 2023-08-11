@@ -17,9 +17,18 @@
   oomp:
     footprint_name: wslp2726
     library_name: resistor_power_shunt
+    md5: e09328924061b832ce0e3fc8da32c283
+    md5_10: e093289240
+    md5_5: e0932
+    md5_6: e09328
+    oomp_key: oomp_kicad_rleh_resistor_power_shunt_wslp2726
+    oomp_key_extra: oomp_footprint_kicad_rleh_resistor_power_shunt_wslp2726
+    oomp_key_full: oomp_footprint_kicad_rleh_resistor_power_shunt_wslp2726_e09328
+    oomp_key_simple: kicad_rleh_resistor_power_shunt_wslp2726
     original_filename: resistor-power-shunt.pretty/WSLP2726.kicad_mod
     owner_name: kicad_rleh
   oomp_key: oomp_kicad_rleh_resistor_power_shunt_wslp2726
+  oomp_key_full: oomp_footprint_kicad_rleh_resistor_power_shunt_wslp2726
   oomp_key_simple: kicad_rleh_resistor_power_shunt_wslp2726
   owner: kicad-rleh
   repo:

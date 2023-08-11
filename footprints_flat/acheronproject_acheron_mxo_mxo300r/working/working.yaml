@@ -17,9 +17,18 @@
   oomp:
     footprint_name: mxo300r
     library_name: acheron_mxo
+    md5: d82833bcb87ff83e9f956795b121f7e7
+    md5_10: d82833bcb8
+    md5_5: d8283
+    md5_6: d82833
+    oomp_key: oomp_acheronproject_acheron_mxo_mxo300r
+    oomp_key_extra: oomp_footprint_acheronproject_acheron_mxo_mxo300r
+    oomp_key_full: oomp_footprint_acheronproject_acheron_mxo_mxo300r_d82833
+    oomp_key_simple: acheronproject_acheron_mxo_mxo300r
     original_filename: acheron_MXO.pretty/MXO300R.kicad_mod
     owner_name: acheronproject
   oomp_key: oomp_acheronproject_acheron_mxo_mxo300r
+  oomp_key_full: oomp_footprint_acheronproject_acheron_mxo_mxo300r
   oomp_key_simple: acheronproject_acheron_mxo_mxo300r
   owner: AcheronProject
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_microchip_28_soic
     library_name: xess
+    md5: 1684283589ed033ea1863cce20996f42
+    md5_10: '1684283589'
+    md5_5: '16842'
+    md5_6: '168428'
+    oomp_key: oomp_xesscorp_xess_xess_microchip_28_soic
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_microchip_28_soic
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_microchip_28_soic_168428
+    oomp_key_simple: xesscorp_xess_xess_microchip_28_soic
     original_filename: xess.pretty/xess-MICROCHIP-28_SOIC.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_microchip_28_soic
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_microchip_28_soic
   oomp_key_simple: xesscorp_xess_xess_microchip_28_soic
   owner: xesscorp
   repo:

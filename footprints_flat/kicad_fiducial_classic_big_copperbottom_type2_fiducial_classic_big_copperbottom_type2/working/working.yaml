@@ -16,10 +16,19 @@
   name: libraries/kicad-footprints/
   oomp:
     footprint_name: fiducial_classic_big_copperbottom_type2
-    library_name: fiducial
+    library_name: fiducial_classic_big_copperbottom_type2_kicad_mod
+    md5: 17c0b4fbbcdf04dff3fd12ae60b68b28
+    md5_10: 17c0b4fbbc
+    md5_5: 17c0b
+    md5_6: 17c0b4
+    oomp_key: oomp_kicad_fiducial_classic_big_copperbottom_type2_fiducial_classic_big_copperbottom_type2
+    oomp_key_extra: oomp_footprint_kicad_fiducial_classic_big_copperbottom_type2_fiducial_classic_big_copperbottom_type2
+    oomp_key_full: oomp_footprint_kicad_fiducial_classic_big_copperbottom_type2_fiducial_classic_big_copperbottom_type2_17c0b4
+    oomp_key_simple: kicad_fiducial_classic_big_copperbottom_type2_fiducial_classic_big_copperbottom_type2
     original_filename: libraries/kicad-footprints/Obsolete/Fiducial/Fiducial_classic_big_CopperBottom_Type2.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_fiducial_classic_big_copperbottom_type2_fiducial_classic_big_copperbottom_type2
+  oomp_key_full: oomp_footprint_kicad_fiducial_classic_big_copperbottom_type2_fiducial_classic_big_copperbottom_type2
   oomp_key_simple: kicad_fiducial_classic_big_copperbottom_type2_fiducial_classic_big_copperbottom_type2
   owner: kicad
   repo:

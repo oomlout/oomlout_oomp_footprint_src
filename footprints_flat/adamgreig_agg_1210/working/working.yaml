@@ -17,9 +17,18 @@
   oomp:
     footprint_name: '1210'
     library_name: agg
+    md5: f849a34a4ab22c7baf0aa5c7b9fb4063
+    md5_10: f849a34a4a
+    md5_5: f849a
+    md5_6: f849a3
+    oomp_key: oomp_adamgreig_agg_1210
+    oomp_key_extra: oomp_footprint_adamgreig_agg_1210
+    oomp_key_full: oomp_footprint_adamgreig_agg_1210_f849a3
+    oomp_key_simple: adamgreig_agg_1210
     original_filename: agg-kicad/agg.pretty/1210.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_1210
+  oomp_key_full: oomp_footprint_adamgreig_agg_1210
   oomp_key_simple: adamgreig_agg_1210
   owner: adamgreig
   repo:

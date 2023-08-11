@@ -17,9 +17,18 @@
   oomp:
     footprint_name: d_sod_323
     library_name: keebio_parts
+    md5: 7dc84d9bdcfdf2df19ef9e1fff8bb3fd
+    md5_10: 7dc84d9bdc
+    md5_5: 7dc84
+    md5_6: 7dc84d
+    oomp_key: oomp_keebio_keebio_parts_d_sod_323
+    oomp_key_extra: oomp_footprint_keebio_keebio_parts_d_sod_323
+    oomp_key_full: oomp_footprint_keebio_keebio_parts_d_sod_323_7dc84d
+    oomp_key_simple: keebio_keebio_parts_d_sod_323
     original_filename: Keebio-Parts.pretty/D_SOD-323.kicad_mod
     owner_name: keebio
   oomp_key: oomp_keebio_keebio_parts_d_sod_323
+  oomp_key_full: oomp_footprint_keebio_keebio_parts_d_sod_323
   oomp_key_simple: keebio_keebio_parts_d_sod_323
   owner: keebio
   repo:

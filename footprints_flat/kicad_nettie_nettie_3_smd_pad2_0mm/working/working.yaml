@@ -17,9 +17,18 @@
   oomp:
     footprint_name: nettie_3_smd_pad2_0mm
     library_name: nettie
+    md5: df888ff4473a7efb5d484e7ce9d1a362
+    md5_10: df888ff447
+    md5_5: df888
+    md5_6: df888f
+    oomp_key: oomp_kicad_nettie_nettie_3_smd_pad2_0mm
+    oomp_key_extra: oomp_footprint_kicad_nettie_nettie_3_smd_pad2_0mm
+    oomp_key_full: oomp_footprint_kicad_nettie_nettie_3_smd_pad2_0mm_df888f
+    oomp_key_simple: kicad_nettie_nettie_3_smd_pad2_0mm
     original_filename: libraries/kicad-footprints/NetTie.pretty/NetTie-3_SMD_Pad2.0mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_nettie_nettie_3_smd_pad2_0mm
+  oomp_key_full: oomp_footprint_kicad_nettie_nettie_3_smd_pad2_0mm
   oomp_key_simple: kicad_nettie_nettie_3_smd_pad2_0mm
   owner: kicad
   repo:

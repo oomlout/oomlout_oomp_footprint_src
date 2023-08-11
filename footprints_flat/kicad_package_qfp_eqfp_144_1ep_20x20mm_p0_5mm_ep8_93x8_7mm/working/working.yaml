@@ -18,9 +18,18 @@
   oomp:
     footprint_name: eqfp_144_1ep_20x20mm_p0_5mm_ep8_93x8_7mm
     library_name: package_qfp
+    md5: 4002d7a280a7208ffd67273b869d4410
+    md5_10: 4002d7a280
+    md5_5: 4002d
+    md5_6: 4002d7
+    oomp_key: oomp_kicad_package_qfp_eqfp_144_1ep_20x20mm_p0_5mm_ep8_93x8_7mm
+    oomp_key_extra: oomp_footprint_kicad_package_qfp_eqfp_144_1ep_20x20mm_p0_5mm_ep8_93x8_7mm
+    oomp_key_full: oomp_footprint_kicad_package_qfp_eqfp_144_1ep_20x20mm_p0_5mm_ep8_93x8_7mm_4002d7
+    oomp_key_simple: kicad_package_qfp_eqfp_144_1ep_20x20mm_p0_5mm_ep8_93x8_7mm
     original_filename: libraries/kicad-footprints/Package_QFP.pretty/EQFP-144-1EP_20x20mm_P0.5mm_EP8.93x8.7mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_qfp_eqfp_144_1ep_20x20mm_p0_5mm_ep8_93x8_7mm
+  oomp_key_full: oomp_footprint_kicad_package_qfp_eqfp_144_1ep_20x20mm_p0_5mm_ep8_93x8_7mm
   oomp_key_simple: kicad_package_qfp_eqfp_144_1ep_20x20mm_p0_5mm_ep8_93x8_7mm
   owner: kicad
   repo:

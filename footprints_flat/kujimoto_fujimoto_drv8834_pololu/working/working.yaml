@@ -17,9 +17,18 @@
   oomp:
     footprint_name: drv8834_pololu
     library_name: fujimoto
+    md5: 60c73b581c090519baf0d3d7b95e1ea6
+    md5_10: 60c73b581c
+    md5_5: 60c73
+    md5_6: 60c73b
+    oomp_key: oomp_kujimoto_fujimoto_drv8834_pololu
+    oomp_key_extra: oomp_footprint_kujimoto_fujimoto_drv8834_pololu
+    oomp_key_full: oomp_footprint_kujimoto_fujimoto_drv8834_pololu_60c73b
+    oomp_key_simple: kujimoto_fujimoto_drv8834_pololu
     original_filename: fujimoto.pretty/DRV8834_pololu.kicad_mod
     owner_name: kujimoto
   oomp_key: oomp_kujimoto_fujimoto_drv8834_pololu
+  oomp_key_full: oomp_footprint_kujimoto_fujimoto_drv8834_pololu
   oomp_key_simple: kujimoto_fujimoto_drv8834_pololu
   owner: Kujimoto
   repo:

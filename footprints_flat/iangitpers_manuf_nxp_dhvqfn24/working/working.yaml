@@ -19,9 +19,18 @@
   oomp:
     footprint_name: nxp_dhvqfn24
     library_name: manuf
+    md5: 79347892b888eabc9c09e1c66a91316b
+    md5_10: 79347892b8
+    md5_5: '79347'
+    md5_6: '793478'
+    oomp_key: oomp_iangitpers_manuf_nxp_dhvqfn24
+    oomp_key_extra: oomp_footprint_iangitpers_manuf_nxp_dhvqfn24
+    oomp_key_full: oomp_footprint_iangitpers_manuf_nxp_dhvqfn24_793478
+    oomp_key_simple: iangitpers_manuf_nxp_dhvqfn24
     original_filename: 4a/manuf.pretty/NXP-DHVQFN24.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_manuf_nxp_dhvqfn24
+  oomp_key_full: oomp_footprint_iangitpers_manuf_nxp_dhvqfn24
   oomp_key_simple: iangitpers_manuf_nxp_dhvqfn24
   owner: Iangitpers
   repo:

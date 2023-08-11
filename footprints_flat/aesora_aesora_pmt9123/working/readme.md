@@ -19,8 +19,9 @@ Please consult that link for additional, details, files, and license information
 | github_path | http://github.com/aesora/aesora.pretty/blob/master/PMT9123.kicad_mod |  
 | links | {'github_src': 'http://gitlab.com/aesora/aesora.pretty/blob/master/PMT9123.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/aesora_aesora_pmt9123/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/aesora_aesora_pmt9123/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/aesora_aesora_pmt9123/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/aesora_aesora_pmt9123/working'} |  
 | name | aesora.pretty |  
-| oomp | {'footprint_name': 'pmt9123', 'library_name': 'aesora', 'original_filename': 'aesora.pretty/PMT9123.kicad_mod', 'owner_name': 'aesora'} |  
+| oomp | {'footprint_name': 'pmt9123', 'library_name': 'aesora', 'md5': '54d12f090bbd6d510bd3893ccd645829', 'md5_10': '54d12f090b', 'md5_5': '54d12', 'md5_6': '54d12f', 'oomp_key': 'oomp_aesora_aesora_pmt9123', 'oomp_key_extra': 'oomp_footprint_aesora_aesora_pmt9123', 'oomp_key_full': 'oomp_footprint_aesora_aesora_pmt9123_54d12f', 'oomp_key_simple': 'aesora_aesora_pmt9123', 'original_filename': 'aesora.pretty/PMT9123.kicad_mod', 'owner_name': 'aesora'} |  
 | oomp_key | oomp_aesora_aesora_pmt9123 |  
+| oomp_key_full | oomp_footprint_aesora_aesora_pmt9123 |  
 | oomp_key_simple | aesora_aesora_pmt9123 |  
 | owner | aesora |  
 | repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_ab9v
     library_name: xess
+    md5: aac556ef49d5aac2755db1365e6a0053
+    md5_10: aac556ef49
+    md5_5: aac55
+    md5_6: aac556
+    oomp_key: oomp_xesscorp_xess_xess_ab9v
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_ab9v
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_ab9v_aac556
+    oomp_key_simple: xesscorp_xess_xess_ab9v
     original_filename: xess.pretty/xess-AB9V.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_ab9v
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_ab9v
   oomp_key_simple: xesscorp_xess_xess_ab9v
   owner: xesscorp
   repo:

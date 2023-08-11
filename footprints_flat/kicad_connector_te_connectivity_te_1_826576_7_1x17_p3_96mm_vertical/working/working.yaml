@@ -18,9 +18,18 @@
   oomp:
     footprint_name: te_1_826576_7_1x17_p3_96mm_vertical
     library_name: connector_te_connectivity
+    md5: cf9f29d4b80de442e494a7aec831e8b9
+    md5_10: cf9f29d4b8
+    md5_5: cf9f2
+    md5_6: cf9f29
+    oomp_key: oomp_kicad_connector_te_connectivity_te_1_826576_7_1x17_p3_96mm_vertical
+    oomp_key_extra: oomp_footprint_kicad_connector_te_connectivity_te_1_826576_7_1x17_p3_96mm_vertical
+    oomp_key_full: oomp_footprint_kicad_connector_te_connectivity_te_1_826576_7_1x17_p3_96mm_vertical_cf9f29
+    oomp_key_simple: kicad_connector_te_connectivity_te_1_826576_7_1x17_p3_96mm_vertical
     original_filename: libraries/kicad-footprints/Connector_TE-Connectivity.pretty/TE_1-826576-7_1x17_P3.96mm_Vertical.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_te_connectivity_te_1_826576_7_1x17_p3_96mm_vertical
+  oomp_key_full: oomp_footprint_kicad_connector_te_connectivity_te_1_826576_7_1x17_p3_96mm_vertical
   oomp_key_simple: kicad_connector_te_connectivity_te_1_826576_7_1x17_p3_96mm_vertical
   owner: kicad
   repo:

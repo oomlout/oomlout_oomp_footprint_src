@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sot_666
     library_name: agg
+    md5: 0f80ed8a049578b1cab9556c42ef6a5d
+    md5_10: 0f80ed8a04
+    md5_5: 0f80e
+    md5_6: 0f80ed
+    oomp_key: oomp_adamgreig_agg_sot_666
+    oomp_key_extra: oomp_footprint_adamgreig_agg_sot_666
+    oomp_key_full: oomp_footprint_adamgreig_agg_sot_666_0f80ed
+    oomp_key_simple: adamgreig_agg_sot_666
     original_filename: agg-kicad/agg.pretty/SOT-666.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_sot_666
+  oomp_key_full: oomp_footprint_adamgreig_agg_sot_666
   oomp_key_simple: adamgreig_agg_sot_666
   owner: adamgreig
   repo:

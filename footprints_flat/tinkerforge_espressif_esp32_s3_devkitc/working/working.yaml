@@ -19,9 +19,18 @@
   oomp:
     footprint_name: esp32_s3_devkitc
     library_name: espressif
+    md5: 114ed0a753f97ee9106c131a16645616
+    md5_10: 114ed0a753
+    md5_5: 114ed
+    md5_6: 114ed0
+    oomp_key: oomp_tinkerforge_espressif_esp32_s3_devkitc
+    oomp_key_extra: oomp_footprint_tinkerforge_espressif_esp32_s3_devkitc
+    oomp_key_full: oomp_footprint_tinkerforge_espressif_esp32_s3_devkitc_114ed0
+    oomp_key_simple: tinkerforge_espressif_esp32_s3_devkitc
     original_filename: kicad-libraries/footprints/Espressif.pretty/ESP32-S3-DevKitC.kicad_mod
     owner_name: tinkerforge
   oomp_key: oomp_tinkerforge_espressif_esp32_s3_devkitc
+  oomp_key_full: oomp_footprint_tinkerforge_espressif_esp32_s3_devkitc
   oomp_key_simple: tinkerforge_espressif_esp32_s3_devkitc
   owner: Tinkerforge
   repo:

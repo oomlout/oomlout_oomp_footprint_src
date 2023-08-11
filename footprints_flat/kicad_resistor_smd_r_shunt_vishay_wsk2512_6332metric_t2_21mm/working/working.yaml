@@ -18,9 +18,18 @@
   oomp:
     footprint_name: r_shunt_vishay_wsk2512_6332metric_t2_21mm
     library_name: resistor_smd
+    md5: 83d84f736bf0b6d9ebf89dfb5d52ba13
+    md5_10: 83d84f736b
+    md5_5: 83d84
+    md5_6: 83d84f
+    oomp_key: oomp_kicad_resistor_smd_r_shunt_vishay_wsk2512_6332metric_t2_21mm
+    oomp_key_extra: oomp_footprint_kicad_resistor_smd_r_shunt_vishay_wsk2512_6332metric_t2_21mm
+    oomp_key_full: oomp_footprint_kicad_resistor_smd_r_shunt_vishay_wsk2512_6332metric_t2_21mm_83d84f
+    oomp_key_simple: kicad_resistor_smd_r_shunt_vishay_wsk2512_6332metric_t2_21mm
     original_filename: libraries/kicad-footprints/Resistor_SMD.pretty/R_Shunt_Vishay_WSK2512_6332Metric_T2.21mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_resistor_smd_r_shunt_vishay_wsk2512_6332metric_t2_21mm
+  oomp_key_full: oomp_footprint_kicad_resistor_smd_r_shunt_vishay_wsk2512_6332metric_t2_21mm
   oomp_key_simple: kicad_resistor_smd_r_shunt_vishay_wsk2512_6332metric_t2_21mm
   owner: kicad
   repo:

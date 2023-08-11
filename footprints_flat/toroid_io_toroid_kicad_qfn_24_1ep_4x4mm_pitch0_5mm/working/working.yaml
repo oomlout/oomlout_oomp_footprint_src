@@ -18,9 +18,18 @@
   oomp:
     footprint_name: qfn_24_1ep_4x4mm_pitch0_5mm
     library_name: toroid_kicad
+    md5: 5a5fb22254ff5ac34fabd99c6bffedc4
+    md5_10: 5a5fb22254
+    md5_5: 5a5fb
+    md5_6: 5a5fb2
+    oomp_key: oomp_toroid_io_toroid_kicad_qfn_24_1ep_4x4mm_pitch0_5mm
+    oomp_key_extra: oomp_footprint_toroid_io_toroid_kicad_qfn_24_1ep_4x4mm_pitch0_5mm
+    oomp_key_full: oomp_footprint_toroid_io_toroid_kicad_qfn_24_1ep_4x4mm_pitch0_5mm_5a5fb2
+    oomp_key_simple: toroid_io_toroid_kicad_qfn_24_1ep_4x4mm_pitch0_5mm
     original_filename: toroid-kicad.pretty/QFN-24-1EP_4x4mm_Pitch0.5mm.kicad_mod
     owner_name: toroid_io
   oomp_key: oomp_toroid_io_toroid_kicad_qfn_24_1ep_4x4mm_pitch0_5mm
+  oomp_key_full: oomp_footprint_toroid_io_toroid_kicad_qfn_24_1ep_4x4mm_pitch0_5mm
   oomp_key_simple: toroid_io_toroid_kicad_qfn_24_1ep_4x4mm_pitch0_5mm
   owner: Toroid-io
   repo:

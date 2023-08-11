@@ -17,9 +17,18 @@
   oomp:
     footprint_name: lpcc_16_hmc5883l
     library_name: agg
+    md5: 86f406109fed41c8b66cc5bda0f21999
+    md5_10: 86f406109f
+    md5_5: 86f40
+    md5_6: 86f406
+    oomp_key: oomp_adamgreig_agg_lpcc_16_hmc5883l
+    oomp_key_extra: oomp_footprint_adamgreig_agg_lpcc_16_hmc5883l
+    oomp_key_full: oomp_footprint_adamgreig_agg_lpcc_16_hmc5883l_86f406
+    oomp_key_simple: adamgreig_agg_lpcc_16_hmc5883l
     original_filename: agg-kicad/agg.pretty/LPCC-16-HMC5883L.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_lpcc_16_hmc5883l
+  oomp_key_full: oomp_footprint_adamgreig_agg_lpcc_16_hmc5883l
   oomp_key_simple: adamgreig_agg_lpcc_16_hmc5883l
   owner: adamgreig
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: qfn16
     library_name: kicadfootprint
+    md5: f223b12138b6e78c4f5df0b19fa85afb
+    md5_10: f223b12138
+    md5_5: f223b
+    md5_6: f223b1
+    oomp_key: oomp_vivitainc_kicadfootprint_qfn16
+    oomp_key_extra: oomp_footprint_vivitainc_kicadfootprint_qfn16
+    oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_qfn16_f223b1
+    oomp_key_simple: vivitainc_kicadfootprint_qfn16
     original_filename: KiCADfootprint.pretty/QFN16.kicad_mod
     owner_name: vivitainc
   oomp_key: oomp_vivitainc_kicadfootprint_qfn16
+  oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_qfn16
   oomp_key_simple: vivitainc_kicadfootprint_qfn16
   owner: vivitainc
   repo:

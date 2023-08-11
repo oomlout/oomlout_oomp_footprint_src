@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sj_2w
     library_name: freetronics_footprints
+    md5: 0530f9d1c06cee78e9d67b15718f204c
+    md5_10: 0530f9d1c0
+    md5_5: 0530f
+    md5_6: 0530f9
+    oomp_key: oomp_joanthespark_freetronics_footprints_sj_2w
+    oomp_key_extra: oomp_footprint_joanthespark_freetronics_footprints_sj_2w
+    oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_sj_2w_0530f9
+    oomp_key_simple: joanthespark_freetronics_footprints_sj_2w
     original_filename: KiCAD/mods/freetronics_footprints.pretty/SJ_2W.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_freetronics_footprints_sj_2w
+  oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_sj_2w
   oomp_key_simple: joanthespark_freetronics_footprints_sj_2w
   owner: JoanTheSpark
   repo:

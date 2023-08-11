@@ -17,9 +17,18 @@
   oomp:
     footprint_name: fuse_bourns_mf_rg800
     library_name: fuse
+    md5: 22bcadb6e418df8a2d01a1a45a3be618
+    md5_10: 22bcadb6e4
+    md5_5: 22bca
+    md5_6: 22bcad
+    oomp_key: oomp_kicad_fuse_fuse_bourns_mf_rg800
+    oomp_key_extra: oomp_footprint_kicad_fuse_fuse_bourns_mf_rg800
+    oomp_key_full: oomp_footprint_kicad_fuse_fuse_bourns_mf_rg800_22bcad
+    oomp_key_simple: kicad_fuse_fuse_bourns_mf_rg800
     original_filename: libraries/kicad-footprints/Fuse.pretty/Fuse_Bourns_MF-RG800.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_fuse_fuse_bourns_mf_rg800
+  oomp_key_full: oomp_footprint_kicad_fuse_fuse_bourns_mf_rg800
   oomp_key_simple: kicad_fuse_fuse_bourns_mf_rg800
   owner: kicad
   repo:

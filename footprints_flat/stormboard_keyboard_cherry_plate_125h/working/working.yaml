@@ -17,9 +17,18 @@
   oomp:
     footprint_name: cherry_plate_125h
     library_name: keyboard
+    md5: 69a2956ffe890dfa7a29cc41844fc88a
+    md5_10: 69a2956ffe
+    md5_5: 69a29
+    md5_6: 69a295
+    oomp_key: oomp_stormboard_keyboard_cherry_plate_125h
+    oomp_key_extra: oomp_footprint_stormboard_keyboard_cherry_plate_125h
+    oomp_key_full: oomp_footprint_stormboard_keyboard_cherry_plate_125h_69a295
+    oomp_key_simple: stormboard_keyboard_cherry_plate_125h
     original_filename: Keyboard.pretty/CHERRY_PLATE_125H.kicad_mod
     owner_name: stormboard
   oomp_key: oomp_stormboard_keyboard_cherry_plate_125h
+  oomp_key_full: oomp_footprint_stormboard_keyboard_cherry_plate_125h
   oomp_key_simple: stormboard_keyboard_cherry_plate_125h
   owner: stormboard
   repo:

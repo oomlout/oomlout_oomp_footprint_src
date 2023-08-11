@@ -17,9 +17,18 @@
   oomp:
     footprint_name: st_tfbga_257_10x10mm_layout19x19_p0_5mmp0_65mm
     library_name: package_bga
+    md5: 1937be3d08558d4f8a650ca54865fe56
+    md5_10: 1937be3d08
+    md5_5: 1937b
+    md5_6: 1937be
+    oomp_key: oomp_kicad_package_bga_st_tfbga_257_10x10mm_layout19x19_p0_5mmp0_65mm
+    oomp_key_extra: oomp_footprint_kicad_package_bga_st_tfbga_257_10x10mm_layout19x19_p0_5mmp0_65mm
+    oomp_key_full: oomp_footprint_kicad_package_bga_st_tfbga_257_10x10mm_layout19x19_p0_5mmp0_65mm_1937be
+    oomp_key_simple: kicad_package_bga_st_tfbga_257_10x10mm_layout19x19_p0_5mmp0_65mm
     original_filename: libraries/kicad-footprints/Package_BGA.pretty/ST_TFBGA-257_10x10mm_Layout19x19_P0.5mmP0.65mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_bga_st_tfbga_257_10x10mm_layout19x19_p0_5mmp0_65mm
+  oomp_key_full: oomp_footprint_kicad_package_bga_st_tfbga_257_10x10mm_layout19x19_p0_5mmp0_65mm
   oomp_key_simple: kicad_package_bga_st_tfbga_257_10x10mm_layout19x19_p0_5mmp0_65mm
   owner: kicad
   repo:

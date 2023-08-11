@@ -17,9 +17,18 @@
   oomp:
     footprint_name: switch_slide_11_6x4mm_eg1218
     library_name: digikey_footprints
+    md5: 55cfe793043efa73fcd3ebe01afbf0fe
+    md5_10: 55cfe79304
+    md5_5: 55cfe
+    md5_6: 55cfe7
+    oomp_key: oomp_digikey_digikey_footprints_switch_slide_11_6x4mm_eg1218
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_switch_slide_11_6x4mm_eg1218
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_switch_slide_11_6x4mm_eg1218_55cfe7
+    oomp_key_simple: digikey_digikey_footprints_switch_slide_11_6x4mm_eg1218
     original_filename: digikey-kicad-library/digikey-footprints.pretty/Switch_Slide_11.6x4mm_EG1218.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_switch_slide_11_6x4mm_eg1218
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_switch_slide_11_6x4mm_eg1218
   oomp_key_simple: digikey_digikey_footprints_switch_slide_11_6x4mm_eg1218
   owner: digikey
   repo:

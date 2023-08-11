@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: barrel_jack_5_5mmodx2_1mmid_pj_202a
-    library_name: source_footprints
+    library_name: barrel_jack_5_5mmodx2_1mmid_pj_202a_kicad_mod
+    md5: 4066e894c1381277dd1c24c4f6d640af
+    md5_10: 4066e894c1
+    md5_5: 4066e
+    md5_6: 4066e8
+    oomp_key: oomp_digikey_barrel_jack_5_5mmodx2_1mmid_pj_202a_barrel_jack_5_5mmodx2_1mmid_pj_202a
+    oomp_key_extra: oomp_footprint_digikey_barrel_jack_5_5mmodx2_1mmid_pj_202a_barrel_jack_5_5mmodx2_1mmid_pj_202a
+    oomp_key_full: oomp_footprint_digikey_barrel_jack_5_5mmodx2_1mmid_pj_202a_barrel_jack_5_5mmodx2_1mmid_pj_202a_4066e8
+    oomp_key_simple: digikey_barrel_jack_5_5mmodx2_1mmid_pj_202a_barrel_jack_5_5mmodx2_1mmid_pj_202a
     original_filename: digikey-kicad-library/src/Source_Footprints/Barrel_Jack_5.5mmODx2.1mmID_PJ-202A.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_barrel_jack_5_5mmodx2_1mmid_pj_202a_barrel_jack_5_5mmodx2_1mmid_pj_202a
+  oomp_key_full: oomp_footprint_digikey_barrel_jack_5_5mmodx2_1mmid_pj_202a_barrel_jack_5_5mmodx2_1mmid_pj_202a
   oomp_key_simple: digikey_barrel_jack_5_5mmodx2_1mmid_pj_202a_barrel_jack_5_5mmodx2_1mmid_pj_202a
   owner: digikey
   repo:

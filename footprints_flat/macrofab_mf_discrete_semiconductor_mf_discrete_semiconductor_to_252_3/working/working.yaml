@@ -17,9 +17,18 @@
   oomp:
     footprint_name: mf_discrete_semiconductor_to_252_3
     library_name: mf_discrete_semiconductor
+    md5: 3d4738b547bfa07ad47dac3a1e8ca613
+    md5_10: 3d4738b547
+    md5_5: 3d473
+    md5_6: 3d4738
+    oomp_key: oomp_macrofab_mf_discrete_semiconductor_mf_discrete_semiconductor_to_252_3
+    oomp_key_extra: oomp_footprint_macrofab_mf_discrete_semiconductor_mf_discrete_semiconductor_to_252_3
+    oomp_key_full: oomp_footprint_macrofab_mf_discrete_semiconductor_mf_discrete_semiconductor_to_252_3_3d4738
+    oomp_key_simple: macrofab_mf_discrete_semiconductor_mf_discrete_semiconductor_to_252_3
     original_filename: EDALibraries/KiCad/Footprints/MF_Discrete_Semiconductor.pretty/MF_Discrete_Semiconductor-TO-252-3.kicad_mod
     owner_name: macrofab
   oomp_key: oomp_macrofab_mf_discrete_semiconductor_mf_discrete_semiconductor_to_252_3
+  oomp_key_full: oomp_footprint_macrofab_mf_discrete_semiconductor_mf_discrete_semiconductor_to_252_3
   oomp_key_simple: macrofab_mf_discrete_semiconductor_mf_discrete_semiconductor_to_252_3
   owner: MacroFab
   repo:

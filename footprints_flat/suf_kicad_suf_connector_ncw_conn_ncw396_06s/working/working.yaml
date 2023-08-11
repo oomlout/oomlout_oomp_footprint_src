@@ -17,9 +17,18 @@
   oomp:
     footprint_name: conn_ncw396_06s
     library_name: suf_connector_ncw
+    md5: 5d119a21bc9de6f72b5e40a943d533c3
+    md5_10: 5d119a21bc
+    md5_5: 5d119
+    md5_6: 5d119a
+    oomp_key: oomp_suf_kicad_suf_connector_ncw_conn_ncw396_06s
+    oomp_key_extra: oomp_footprint_suf_kicad_suf_connector_ncw_conn_ncw396_06s
+    oomp_key_full: oomp_footprint_suf_kicad_suf_connector_ncw_conn_ncw396_06s_5d119a
+    oomp_key_simple: suf_kicad_suf_connector_ncw_conn_ncw396_06s
     original_filename: suf_connector_ncw.pretty/CONN_NCW396-06S.kicad_mod
     owner_name: suf_kicad
   oomp_key: oomp_suf_kicad_suf_connector_ncw_conn_ncw396_06s
+  oomp_key_full: oomp_footprint_suf_kicad_suf_connector_ncw_conn_ncw396_06s
   oomp_key_simple: suf_kicad_suf_connector_ncw_conn_ncw396_06s
   owner: suf-KiCAD
   repo:

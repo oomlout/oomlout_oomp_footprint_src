@@ -17,9 +17,18 @@
   oomp:
     footprint_name: bm78spps5xc2
     library_name: rf_module
+    md5: e16ebc8e7ef58770e3f9de6061b8c2f8
+    md5_10: e16ebc8e7e
+    md5_5: e16eb
+    md5_6: e16ebc
+    oomp_key: oomp_kicad_rf_module_bm78spps5xc2
+    oomp_key_extra: oomp_footprint_kicad_rf_module_bm78spps5xc2
+    oomp_key_full: oomp_footprint_kicad_rf_module_bm78spps5xc2_e16ebc
+    oomp_key_simple: kicad_rf_module_bm78spps5xc2
     original_filename: libraries/kicad-footprints/RF_Module.pretty/BM78SPPS5xC2.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_rf_module_bm78spps5xc2
+  oomp_key_full: oomp_footprint_kicad_rf_module_bm78spps5xc2
   oomp_key_simple: kicad_rf_module_bm78spps5xc2
   owner: kicad
   repo:

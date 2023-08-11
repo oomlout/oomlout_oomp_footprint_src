@@ -17,9 +17,18 @@
   oomp:
     footprint_name: solderjamper
     library_name: kicadkozuelib
+    md5: c8192783f58c59c3fde6565ccfc55ec6
+    md5_10: c8192783f5
+    md5_5: c8192
+    md5_6: c81927
+    oomp_key: oomp_kozuenakano_kicadkozuelib_solderjamper
+    oomp_key_extra: oomp_footprint_kozuenakano_kicadkozuelib_solderjamper
+    oomp_key_full: oomp_footprint_kozuenakano_kicadkozuelib_solderjamper_c81927
+    oomp_key_simple: kozuenakano_kicadkozuelib_solderjamper
     original_filename: KiCADKozueLib.pretty/solderJAMPER.kicad_mod
     owner_name: kozuenakano
   oomp_key: oomp_kozuenakano_kicadkozuelib_solderjamper
+  oomp_key_full: oomp_footprint_kozuenakano_kicadkozuelib_solderjamper
   oomp_key_simple: kozuenakano_kicadkozuelib_solderjamper
   owner: KozueNakano
   repo:

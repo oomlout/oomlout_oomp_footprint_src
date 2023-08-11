@@ -19,9 +19,18 @@
   oomp:
     footprint_name: molex_sabre_43160_0105_1x05_p7_49mm_vertical_thermalvias
     library_name: connector_molex
+    md5: 9ee98dd5292543809e5ea7cbcdc2e094
+    md5_10: 9ee98dd529
+    md5_5: 9ee98
+    md5_6: 9ee98d
+    oomp_key: oomp_kicad_connector_molex_molex_sabre_43160_0105_1x05_p7_49mm_vertical_thermalvias
+    oomp_key_extra: oomp_footprint_kicad_connector_molex_molex_sabre_43160_0105_1x05_p7_49mm_vertical_thermalvias
+    oomp_key_full: oomp_footprint_kicad_connector_molex_molex_sabre_43160_0105_1x05_p7_49mm_vertical_thermalvias_9ee98d
+    oomp_key_simple: kicad_connector_molex_molex_sabre_43160_0105_1x05_p7_49mm_vertical_thermalvias
     original_filename: libraries/kicad-footprints/Connector_Molex.pretty/Molex_Sabre_43160-0105_1x05_P7.49mm_Vertical_ThermalVias.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_molex_molex_sabre_43160_0105_1x05_p7_49mm_vertical_thermalvias
+  oomp_key_full: oomp_footprint_kicad_connector_molex_molex_sabre_43160_0105_1x05_p7_49mm_vertical_thermalvias
   oomp_key_simple: kicad_connector_molex_molex_sabre_43160_0105_1x05_p7_49mm_vertical_thermalvias
   owner: kicad
   repo:

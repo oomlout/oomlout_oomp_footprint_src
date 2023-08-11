@@ -18,9 +18,18 @@
   oomp:
     footprint_name: jst_xa_s11b_xask_1n_bn_1x11_p2_50mm_horizontal
     library_name: connector_jst
+    md5: efdfa963b1b1c27d8f7e5e963250f5b0
+    md5_10: efdfa963b1
+    md5_5: efdfa
+    md5_6: efdfa9
+    oomp_key: oomp_kicad_connector_jst_jst_xa_s11b_xask_1n_bn_1x11_p2_50mm_horizontal
+    oomp_key_extra: oomp_footprint_kicad_connector_jst_jst_xa_s11b_xask_1n_bn_1x11_p2_50mm_horizontal
+    oomp_key_full: oomp_footprint_kicad_connector_jst_jst_xa_s11b_xask_1n_bn_1x11_p2_50mm_horizontal_efdfa9
+    oomp_key_simple: kicad_connector_jst_jst_xa_s11b_xask_1n_bn_1x11_p2_50mm_horizontal
     original_filename: libraries/kicad-footprints/Connector_JST.pretty/JST_XA_S11B-XASK-1N-BN_1x11_P2.50mm_Horizontal.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_jst_jst_xa_s11b_xask_1n_bn_1x11_p2_50mm_horizontal
+  oomp_key_full: oomp_footprint_kicad_connector_jst_jst_xa_s11b_xask_1n_bn_1x11_p2_50mm_horizontal
   oomp_key_simple: kicad_connector_jst_jst_xa_s11b_xask_1n_bn_1x11_p2_50mm_horizontal
   owner: kicad
   repo:

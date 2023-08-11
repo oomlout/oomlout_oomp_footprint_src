@@ -17,9 +17,18 @@
   oomp:
     footprint_name: r_2512
     library_name: apex_smd_resistors
+    md5: 5be0d41ea99eca1d09a57d4418a85353
+    md5_10: 5be0d41ea9
+    md5_5: 5be0d
+    md5_6: 5be0d4
+    oomp_key: oomp_apexelectrix_apex_smd_resistors_r_2512
+    oomp_key_extra: oomp_footprint_apexelectrix_apex_smd_resistors_r_2512
+    oomp_key_full: oomp_footprint_apexelectrix_apex_smd_resistors_r_2512_5be0d4
+    oomp_key_simple: apexelectrix_apex_smd_resistors_r_2512
     original_filename: apex-smd-resistors.pretty/R_2512.kicad_mod
     owner_name: apexelectrix
   oomp_key: oomp_apexelectrix_apex_smd_resistors_r_2512
+  oomp_key_full: oomp_footprint_apexelectrix_apex_smd_resistors_r_2512
   oomp_key_simple: apexelectrix_apex_smd_resistors_r_2512
   owner: apexelectrix
   repo:

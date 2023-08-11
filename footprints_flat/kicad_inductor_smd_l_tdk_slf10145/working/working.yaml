@@ -18,9 +18,18 @@
   oomp:
     footprint_name: l_tdk_slf10145
     library_name: inductor_smd
+    md5: 4570588ea24dab6674f00e886d52870f
+    md5_10: 4570588ea2
+    md5_5: '45705'
+    md5_6: '457058'
+    oomp_key: oomp_kicad_inductor_smd_l_tdk_slf10145
+    oomp_key_extra: oomp_footprint_kicad_inductor_smd_l_tdk_slf10145
+    oomp_key_full: oomp_footprint_kicad_inductor_smd_l_tdk_slf10145_457058
+    oomp_key_simple: kicad_inductor_smd_l_tdk_slf10145
     original_filename: libraries/kicad-footprints/Inductor_SMD.pretty/L_TDK_SLF10145.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_inductor_smd_l_tdk_slf10145
+  oomp_key_full: oomp_footprint_kicad_inductor_smd_l_tdk_slf10145
   oomp_key_simple: kicad_inductor_smd_l_tdk_slf10145
   owner: kicad
   repo:

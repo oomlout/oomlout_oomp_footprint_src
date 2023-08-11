@@ -18,9 +18,18 @@
   oomp:
     footprint_name: powerintegrations_so_8
     library_name: package_so
+    md5: 324b263c6ea4dd42b03a2b3fe1100131
+    md5_10: 324b263c6e
+    md5_5: 324b2
+    md5_6: 324b26
+    oomp_key: oomp_kicad_package_so_powerintegrations_so_8
+    oomp_key_extra: oomp_footprint_kicad_package_so_powerintegrations_so_8
+    oomp_key_full: oomp_footprint_kicad_package_so_powerintegrations_so_8_324b26
+    oomp_key_simple: kicad_package_so_powerintegrations_so_8
     original_filename: libraries/kicad-footprints/Package_SO.pretty/PowerIntegrations_SO-8.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_so_powerintegrations_so_8
+  oomp_key_full: oomp_footprint_kicad_package_so_powerintegrations_so_8
   oomp_key_simple: kicad_package_so_powerintegrations_so_8
   owner: kicad
   repo:

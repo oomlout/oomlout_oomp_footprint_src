@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: dip_14_w3mm
-    library_name: source_footprints
+    library_name: dip_14_w3mm_kicad_mod
+    md5: 2870b758205ef2a728f9a578a88e8dac
+    md5_10: 2870b75820
+    md5_5: 2870b
+    md5_6: 2870b7
+    oomp_key: oomp_digikey_dip_14_w3mm_dip_14_w3mm
+    oomp_key_extra: oomp_footprint_digikey_dip_14_w3mm_dip_14_w3mm
+    oomp_key_full: oomp_footprint_digikey_dip_14_w3mm_dip_14_w3mm_2870b7
+    oomp_key_simple: digikey_dip_14_w3mm_dip_14_w3mm
     original_filename: digikey-kicad-library/src/Source_Footprints/DIP-14_W3mm.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_dip_14_w3mm_dip_14_w3mm
+  oomp_key_full: oomp_footprint_digikey_dip_14_w3mm_dip_14_w3mm
   oomp_key_simple: digikey_dip_14_w3mm_dip_14_w3mm
   owner: digikey
   repo:

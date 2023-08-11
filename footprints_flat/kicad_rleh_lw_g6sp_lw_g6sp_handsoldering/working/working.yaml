@@ -17,9 +17,18 @@
   oomp:
     footprint_name: lw_g6sp_handsoldering
     library_name: lw_g6sp
+    md5: 186037a1faf1e81c6f4b501c414144b9
+    md5_10: 186037a1fa
+    md5_5: '18603'
+    md5_6: '186037'
+    oomp_key: oomp_kicad_rleh_lw_g6sp_lw_g6sp_handsoldering
+    oomp_key_extra: oomp_footprint_kicad_rleh_lw_g6sp_lw_g6sp_handsoldering
+    oomp_key_full: oomp_footprint_kicad_rleh_lw_g6sp_lw_g6sp_handsoldering_186037
+    oomp_key_simple: kicad_rleh_lw_g6sp_lw_g6sp_handsoldering
     original_filename: LW_G6SP.pretty/LW_G6SP_Handsoldering.kicad_mod
     owner_name: kicad_rleh
   oomp_key: oomp_kicad_rleh_lw_g6sp_lw_g6sp_handsoldering
+  oomp_key_full: oomp_footprint_kicad_rleh_lw_g6sp_lw_g6sp_handsoldering
   oomp_key_simple: kicad_rleh_lw_g6sp_lw_g6sp_handsoldering
   owner: kicad-rleh
   repo:

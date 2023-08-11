@@ -17,9 +17,18 @@
   oomp:
     footprint_name: switch_apem_adtsm3_3_5x6mm
     library_name: crumpprints
+    md5: c3033cdd94f447a1397d78840c1553f4
+    md5_10: c3033cdd94
+    md5_5: c3033
+    md5_6: c3033c
+    oomp_key: oomp_tylercrumpton_crumpprints_switch_apem_adtsm3_3_5x6mm
+    oomp_key_extra: oomp_footprint_tylercrumpton_crumpprints_switch_apem_adtsm3_3_5x6mm
+    oomp_key_full: oomp_footprint_tylercrumpton_crumpprints_switch_apem_adtsm3_3_5x6mm_c3033c
+    oomp_key_simple: tylercrumpton_crumpprints_switch_apem_adtsm3_3_5x6mm
     original_filename: CrumpPrints.pretty/Switch_APEM_ADTSM3_3.5x6mm.kicad_mod
     owner_name: tylercrumpton
   oomp_key: oomp_tylercrumpton_crumpprints_switch_apem_adtsm3_3_5x6mm
+  oomp_key_full: oomp_footprint_tylercrumpton_crumpprints_switch_apem_adtsm3_3_5x6mm
   oomp_key_simple: tylercrumpton_crumpprints_switch_apem_adtsm3_3_5x6mm
   owner: tylercrumpton
   repo:

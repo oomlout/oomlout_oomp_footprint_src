@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_nhd_420h1z_fl_gbw_3v
     library_name: xess
+    md5: bc569689a4bc4734a893c5d3d4a9d9f4
+    md5_10: bc569689a4
+    md5_5: bc569
+    md5_6: bc5696
+    oomp_key: oomp_xesscorp_xess_xess_nhd_420h1z_fl_gbw_3v
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_nhd_420h1z_fl_gbw_3v
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_nhd_420h1z_fl_gbw_3v_bc5696
+    oomp_key_simple: xesscorp_xess_xess_nhd_420h1z_fl_gbw_3v
     original_filename: xess.pretty/xess-NHD-420H1Z-FL-GBW-3V.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_nhd_420h1z_fl_gbw_3v
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_nhd_420h1z_fl_gbw_3v
   oomp_key_simple: xesscorp_xess_xess_nhd_420h1z_fl_gbw_3v
   owner: xesscorp
   repo:

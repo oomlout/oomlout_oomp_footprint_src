@@ -17,9 +17,18 @@
   oomp:
     footprint_name: fuse_bourns_mf_rg650
     library_name: fuse
+    md5: e1da4020b5ba63b246ad6349fcb9534f
+    md5_10: e1da4020b5
+    md5_5: e1da4
+    md5_6: e1da40
+    oomp_key: oomp_kicad_fuse_fuse_bourns_mf_rg650
+    oomp_key_extra: oomp_footprint_kicad_fuse_fuse_bourns_mf_rg650
+    oomp_key_full: oomp_footprint_kicad_fuse_fuse_bourns_mf_rg650_e1da40
+    oomp_key_simple: kicad_fuse_fuse_bourns_mf_rg650
     original_filename: libraries/kicad-footprints/Fuse.pretty/Fuse_Bourns_MF-RG650.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_fuse_fuse_bourns_mf_rg650
+  oomp_key_full: oomp_footprint_kicad_fuse_fuse_bourns_mf_rg650
   oomp_key_simple: kicad_fuse_fuse_bourns_mf_rg650
   owner: kicad
   repo:

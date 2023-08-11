@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_sma_j%2fpcb
     library_name: xess
+    md5: 671617e9894597750c6859429cbf0b7c
+    md5_10: 671617e989
+    md5_5: '67161'
+    md5_6: '671617'
+    oomp_key: oomp_xesscorp_xess_xess_sma_j%2fpcb
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_sma_j%2fpcb
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_sma_j%2fpcb_671617
+    oomp_key_simple: xesscorp_xess_xess_sma_j%2fpcb
     original_filename: xess.pretty/xess-SMA-J%2fPCB.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_sma_j%2fpcb
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_sma_j%2fpcb
   oomp_key_simple: xesscorp_xess_xess_sma_j%2fpcb
   owner: xesscorp
   repo:

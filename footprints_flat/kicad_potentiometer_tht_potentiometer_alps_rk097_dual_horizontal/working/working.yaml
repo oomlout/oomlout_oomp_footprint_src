@@ -17,9 +17,18 @@
   oomp:
     footprint_name: potentiometer_alps_rk097_dual_horizontal
     library_name: potentiometer_tht
+    md5: 0365d3a1b6537ddbfce62936020c83b5
+    md5_10: 0365d3a1b6
+    md5_5: 0365d
+    md5_6: 0365d3
+    oomp_key: oomp_kicad_potentiometer_tht_potentiometer_alps_rk097_dual_horizontal
+    oomp_key_extra: oomp_footprint_kicad_potentiometer_tht_potentiometer_alps_rk097_dual_horizontal
+    oomp_key_full: oomp_footprint_kicad_potentiometer_tht_potentiometer_alps_rk097_dual_horizontal_0365d3
+    oomp_key_simple: kicad_potentiometer_tht_potentiometer_alps_rk097_dual_horizontal
     original_filename: libraries/kicad-footprints/Potentiometer_THT.pretty/Potentiometer_Alps_RK097_Dual_Horizontal.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_potentiometer_tht_potentiometer_alps_rk097_dual_horizontal
+  oomp_key_full: oomp_footprint_kicad_potentiometer_tht_potentiometer_alps_rk097_dual_horizontal
   oomp_key_simple: kicad_potentiometer_tht_potentiometer_alps_rk097_dual_horizontal
   owner: kicad
   repo:

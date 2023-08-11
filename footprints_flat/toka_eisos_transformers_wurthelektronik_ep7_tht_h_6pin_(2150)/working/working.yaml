@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ep7_tht_h_6pin_(2150)
     library_name: transformers_wurthelektronik
+    md5: 193db7c6e32e75b64dbdf9e1cb892be8
+    md5_10: 193db7c6e3
+    md5_5: 193db
+    md5_6: 193db7
+    oomp_key: oomp_toka_eisos_transformers_wurthelektronik_ep7_tht_h_6pin_(2150)
+    oomp_key_extra: oomp_footprint_toka_eisos_transformers_wurthelektronik_ep7_tht_h_6pin_(2150)
+    oomp_key_full: oomp_footprint_toka_eisos_transformers_wurthelektronik_ep7_tht_h_6pin_(2150)_193db7
+    oomp_key_simple: toka_eisos_transformers_wurthelektronik_ep7_tht_h_6pin_(2150)
     original_filename: Transformers_WurthElektronik.pretty/EP7_THT_H_6PIN_(2150).kicad_mod
     owner_name: toka_eisos
   oomp_key: oomp_toka_eisos_transformers_wurthelektronik_ep7_tht_h_6pin_(2150)
+  oomp_key_full: oomp_footprint_toka_eisos_transformers_wurthelektronik_ep7_tht_h_6pin_(2150)
   oomp_key_simple: toka_eisos_transformers_wurthelektronik_ep7_tht_h_6pin_(2150)
   owner: toka-eisos
   repo:

@@ -19,8 +19,9 @@ Please consult that link for additional, details, files, and license information
 | github_path | http://github.com/apexelectrix/apex-smd-diode.pretty/blob/master/SMB_DO-214AA.kicad_mod |  
 | links | {'github_src': 'http://gitlab.com/apexelectrix/apex-smd-diode.pretty/blob/master/TO-236.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/apexelectrix_apex_smd_diode_smb_do_214aa/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/apexelectrix_apex_smd_diode_smb_do_214aa/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/apexelectrix_apex_smd_diode_smb_do_214aa/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/apexelectrix_apex_smd_diode_smb_do_214aa/working'} |  
 | name | apex-smd-diode.pretty |  
-| oomp | {'footprint_name': 'smb_do_214aa', 'library_name': 'apex_smd_diode', 'original_filename': 'apex-smd-diode.pretty/SMB_DO-214AA.kicad_mod', 'owner_name': 'apexelectrix'} |  
+| oomp | {'footprint_name': 'smb_do_214aa', 'library_name': 'apex_smd_diode', 'md5': '8d8e66fb2ff4b54cc75f1aa15835bd6a', 'md5_10': '8d8e66fb2f', 'md5_5': '8d8e6', 'md5_6': '8d8e66', 'oomp_key': 'oomp_apexelectrix_apex_smd_diode_smb_do_214aa', 'oomp_key_extra': 'oomp_footprint_apexelectrix_apex_smd_diode_smb_do_214aa', 'oomp_key_full': 'oomp_footprint_apexelectrix_apex_smd_diode_smb_do_214aa_8d8e66', 'oomp_key_simple': 'apexelectrix_apex_smd_diode_smb_do_214aa', 'original_filename': 'apex-smd-diode.pretty/SMB_DO-214AA.kicad_mod', 'owner_name': 'apexelectrix'} |  
 | oomp_key | oomp_apexelectrix_apex_smd_diode_smb_do_214aa |  
+| oomp_key_full | oomp_footprint_apexelectrix_apex_smd_diode_smb_do_214aa |  
 | oomp_key_simple | apexelectrix_apex_smd_diode_smb_do_214aa |  
 | owner | apexelectrix |  
 | repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  

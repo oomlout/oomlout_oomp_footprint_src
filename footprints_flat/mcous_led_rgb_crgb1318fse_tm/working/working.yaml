@@ -17,9 +17,18 @@
   oomp:
     footprint_name: crgb1318fse_tm
     library_name: _led_rgb
+    md5: 18e502771a19358127369e8ec8a1b35b
+    md5_10: 18e502771a
+    md5_5: 18e50
+    md5_6: 18e502
+    oomp_key: oomp_mcous_led_rgb_crgb1318fse_tm
+    oomp_key_extra: oomp_footprint_mcous_led_rgb_crgb1318fse_tm
+    oomp_key_full: oomp_footprint_mcous_led_rgb_crgb1318fse_tm_18e502
+    oomp_key_simple: mcous_led_rgb_crgb1318fse_tm
     original_filename: kicad-lib/footprints/_led_rgb.pretty/CRGB1318FSE-TM.kicad_mod
     owner_name: mcous
   oomp_key: oomp_mcous_led_rgb_crgb1318fse_tm
+  oomp_key_full: oomp_footprint_mcous_led_rgb_crgb1318fse_tm
   oomp_key_simple: mcous_led_rgb_crgb1318fse_tm
   owner: mcous
   repo:

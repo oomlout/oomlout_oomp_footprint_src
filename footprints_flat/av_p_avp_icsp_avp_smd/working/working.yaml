@@ -14,9 +14,18 @@
   oomp:
     footprint_name: icsp_avp_smd
     library_name: avp
+    md5: 04f55ac360296d976aad134a7981c574
+    md5_10: 04f55ac360
+    md5_5: 04f55
+    md5_6: 04f55a
+    oomp_key: oomp_av_p_avp_icsp_avp_smd
+    oomp_key_extra: oomp_footprint_av_p_avp_icsp_avp_smd
+    oomp_key_full: oomp_footprint_av_p_avp_icsp_avp_smd_04f55a
+    oomp_key_simple: av_p_avp_icsp_avp_smd
     original_filename: Avp.pretty/ICSP_AVP_SMD.kicad_mod
     owner_name: av_p
   oomp_key: oomp_av_p_avp_icsp_avp_smd
+  oomp_key_full: oomp_footprint_av_p_avp_icsp_avp_smd
   oomp_key_simple: av_p_avp_icsp_avp_smd
   owner: av-p
   repo:

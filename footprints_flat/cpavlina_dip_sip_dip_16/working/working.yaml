@@ -17,9 +17,18 @@
   oomp:
     footprint_name: dip_16
     library_name: dip_sip
+    md5: a8d07e3967b3bb21e2e82f71e46deaf0
+    md5_10: a8d07e3967
+    md5_5: a8d07
+    md5_6: a8d07e
+    oomp_key: oomp_cpavlina_dip_sip_dip_16
+    oomp_key_extra: oomp_footprint_cpavlina_dip_sip_dip_16
+    oomp_key_full: oomp_footprint_cpavlina_dip_sip_dip_16_a8d07e
+    oomp_key_simple: cpavlina_dip_sip_dip_16
     original_filename: kicad-pcblib/dip-sip.pretty/DIP-16.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_dip_sip_dip_16
+  oomp_key_full: oomp_footprint_cpavlina_dip_sip_dip_16
   oomp_key_simple: cpavlina_dip_sip_dip_16
   owner: cpavlina
   repo:

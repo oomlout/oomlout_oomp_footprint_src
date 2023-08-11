@@ -17,9 +17,18 @@
   oomp:
     footprint_name: epfl_logo_mirrored
     library_name: _logo
+    md5: 073d8090b173ed06a5c20b0b05db7105
+    md5_10: 073d8090b1
+    md5_5: 073d8
+    md5_6: 073d80
+    oomp_key: oomp_mcous_logo_epfl_logo_mirrored
+    oomp_key_extra: oomp_footprint_mcous_logo_epfl_logo_mirrored
+    oomp_key_full: oomp_footprint_mcous_logo_epfl_logo_mirrored_073d80
+    oomp_key_simple: mcous_logo_epfl_logo_mirrored
     original_filename: kicad-lib/footprints/_logo.pretty/EPFL-LOGO-mirrored.kicad_mod
     owner_name: mcous
   oomp_key: oomp_mcous_logo_epfl_logo_mirrored
+  oomp_key_full: oomp_footprint_mcous_logo_epfl_logo_mirrored
   oomp_key_simple: mcous_logo_epfl_logo_mirrored
   owner: mcous
   repo:

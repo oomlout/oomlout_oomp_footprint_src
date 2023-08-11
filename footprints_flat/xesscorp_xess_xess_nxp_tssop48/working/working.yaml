@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_nxp_tssop48
     library_name: xess
+    md5: 877cf8d0f20bf0e26309814dc0527770
+    md5_10: 877cf8d0f2
+    md5_5: 877cf
+    md5_6: 877cf8
+    oomp_key: oomp_xesscorp_xess_xess_nxp_tssop48
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_nxp_tssop48
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_nxp_tssop48_877cf8
+    oomp_key_simple: xesscorp_xess_xess_nxp_tssop48
     original_filename: xess.pretty/xess-NXP-TSSOP48.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_nxp_tssop48
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_nxp_tssop48
   oomp_key_simple: xesscorp_xess_xess_nxp_tssop48
   owner: xesscorp
   repo:

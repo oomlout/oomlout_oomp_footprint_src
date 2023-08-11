@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sl4515n
     library_name: kicadfootprint
+    md5: ba2f47d98e27704aa53034dbc8819585
+    md5_10: ba2f47d98e
+    md5_5: ba2f4
+    md5_6: ba2f47
+    oomp_key: oomp_vivitainc_kicadfootprint_sl4515n
+    oomp_key_extra: oomp_footprint_vivitainc_kicadfootprint_sl4515n
+    oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_sl4515n_ba2f47
+    oomp_key_simple: vivitainc_kicadfootprint_sl4515n
     original_filename: KiCADfootprint.pretty/SL4515N.kicad_mod
     owner_name: vivitainc
   oomp_key: oomp_vivitainc_kicadfootprint_sl4515n
+  oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_sl4515n
   oomp_key_simple: vivitainc_kicadfootprint_sl4515n
   owner: vivitainc
   repo:

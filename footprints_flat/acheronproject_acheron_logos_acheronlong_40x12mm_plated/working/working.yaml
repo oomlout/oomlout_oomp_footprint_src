@@ -17,9 +17,18 @@
   oomp:
     footprint_name: acheronlong_40x12mm_plated
     library_name: acheron_logos
+    md5: 3d06999df5ae4840b8f7995be8d207ac
+    md5_10: 3d06999df5
+    md5_5: 3d069
+    md5_6: 3d0699
+    oomp_key: oomp_acheronproject_acheron_logos_acheronlong_40x12mm_plated
+    oomp_key_extra: oomp_footprint_acheronproject_acheron_logos_acheronlong_40x12mm_plated
+    oomp_key_full: oomp_footprint_acheronproject_acheron_logos_acheronlong_40x12mm_plated_3d0699
+    oomp_key_simple: acheronproject_acheron_logos_acheronlong_40x12mm_plated
     original_filename: acheron_Logos.pretty/acheronLong_40x12mm_Plated.kicad_mod
     owner_name: acheronproject
   oomp_key: oomp_acheronproject_acheron_logos_acheronlong_40x12mm_plated
+  oomp_key_full: oomp_footprint_acheronproject_acheron_logos_acheronlong_40x12mm_plated
   oomp_key_simple: acheronproject_acheron_logos_acheronlong_40x12mm_plated
   owner: AcheronProject
   repo:

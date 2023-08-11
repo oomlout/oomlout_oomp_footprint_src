@@ -17,9 +17,18 @@
   oomp:
     footprint_name: battery_holder_coin_2032_bs_7
     library_name: digikey_footprints
+    md5: 66b938c4bd0ad111ff0cdb64b96d59b4
+    md5_10: 66b938c4bd
+    md5_5: 66b93
+    md5_6: 66b938
+    oomp_key: oomp_digikey_digikey_footprints_battery_holder_coin_2032_bs_7
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_battery_holder_coin_2032_bs_7
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_battery_holder_coin_2032_bs_7_66b938
+    oomp_key_simple: digikey_digikey_footprints_battery_holder_coin_2032_bs_7
     original_filename: digikey-kicad-library/digikey-footprints.pretty/Battery_Holder_Coin_2032_BS-7.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_battery_holder_coin_2032_bs_7
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_battery_holder_coin_2032_bs_7
   oomp_key_simple: digikey_digikey_footprints_battery_holder_coin_2032_bs_7
   owner: digikey
   repo:

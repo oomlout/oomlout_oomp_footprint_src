@@ -17,9 +17,18 @@
   oomp:
     footprint_name: photodiode_1206
     library_name: digikey_footprints
+    md5: 432221099f48e955c295628baf3dde2d
+    md5_10: 432221099f
+    md5_5: '43222'
+    md5_6: '432221'
+    oomp_key: oomp_digikey_digikey_footprints_photodiode_1206
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_photodiode_1206
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_photodiode_1206_432221
+    oomp_key_simple: digikey_digikey_footprints_photodiode_1206
     original_filename: digikey-kicad-library/digikey-footprints.pretty/Photodiode_1206.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_photodiode_1206
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_photodiode_1206
   oomp_key_simple: digikey_digikey_footprints_photodiode_1206
   owner: digikey
   repo:

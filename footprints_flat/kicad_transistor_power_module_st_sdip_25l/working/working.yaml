@@ -17,9 +17,18 @@
   oomp:
     footprint_name: st_sdip_25l
     library_name: transistor_power_module
+    md5: 95bc4f1913cebf1e1776cf9bdae66433
+    md5_10: 95bc4f1913
+    md5_5: 95bc4
+    md5_6: 95bc4f
+    oomp_key: oomp_kicad_transistor_power_module_st_sdip_25l
+    oomp_key_extra: oomp_footprint_kicad_transistor_power_module_st_sdip_25l
+    oomp_key_full: oomp_footprint_kicad_transistor_power_module_st_sdip_25l_95bc4f
+    oomp_key_simple: kicad_transistor_power_module_st_sdip_25l
     original_filename: libraries/kicad-footprints/Transistor_Power_Module.pretty/ST_SDIP-25L.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_transistor_power_module_st_sdip_25l
+  oomp_key_full: oomp_footprint_kicad_transistor_power_module_st_sdip_25l
   oomp_key_simple: kicad_transistor_power_module_st_sdip_25l
   owner: kicad
   repo:

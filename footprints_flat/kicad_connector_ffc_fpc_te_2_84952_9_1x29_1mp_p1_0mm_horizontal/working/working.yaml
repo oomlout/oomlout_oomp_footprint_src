@@ -18,9 +18,18 @@
   oomp:
     footprint_name: te_2_84952_9_1x29_1mp_p1_0mm_horizontal
     library_name: connector_ffc_fpc
+    md5: e43e52b95fcbbf7799784cc2927b190b
+    md5_10: e43e52b95f
+    md5_5: e43e5
+    md5_6: e43e52
+    oomp_key: oomp_kicad_connector_ffc_fpc_te_2_84952_9_1x29_1mp_p1_0mm_horizontal
+    oomp_key_extra: oomp_footprint_kicad_connector_ffc_fpc_te_2_84952_9_1x29_1mp_p1_0mm_horizontal
+    oomp_key_full: oomp_footprint_kicad_connector_ffc_fpc_te_2_84952_9_1x29_1mp_p1_0mm_horizontal_e43e52
+    oomp_key_simple: kicad_connector_ffc_fpc_te_2_84952_9_1x29_1mp_p1_0mm_horizontal
     original_filename: libraries/kicad-footprints/Connector_FFC-FPC.pretty/TE_2-84952-9_1x29-1MP_P1.0mm_Horizontal.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_ffc_fpc_te_2_84952_9_1x29_1mp_p1_0mm_horizontal
+  oomp_key_full: oomp_footprint_kicad_connector_ffc_fpc_te_2_84952_9_1x29_1mp_p1_0mm_horizontal
   oomp_key_simple: kicad_connector_ffc_fpc_te_2_84952_9_1x29_1mp_p1_0mm_horizontal
   owner: kicad
   repo:

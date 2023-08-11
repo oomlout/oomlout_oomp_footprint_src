@@ -17,9 +17,18 @@
   oomp:
     footprint_name: kem_3
     library_name: avp
+    md5: e9efc04416e5eda154c77c11317d780e
+    md5_10: e9efc04416
+    md5_5: e9efc
+    md5_6: e9efc0
+    oomp_key: oomp_av_p_avp_kem_3
+    oomp_key_extra: oomp_footprint_av_p_avp_kem_3
+    oomp_key_full: oomp_footprint_av_p_avp_kem_3_e9efc0
+    oomp_key_simple: av_p_avp_kem_3
     original_filename: Avp.pretty/KEM-3.kicad_mod
     owner_name: av_p
   oomp_key: oomp_av_p_avp_kem_3
+  oomp_key_full: oomp_footprint_av_p_avp_kem_3
   oomp_key_simple: av_p_avp_kem_3
   owner: av-p
   repo:

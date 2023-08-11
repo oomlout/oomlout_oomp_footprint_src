@@ -17,9 +17,18 @@
   oomp:
     footprint_name: 2x03
     library_name: freetronics_footprints
+    md5: 01e085d9a756d7763593b119921fb19d
+    md5_10: 01e085d9a7
+    md5_5: 01e08
+    md5_6: 01e085
+    oomp_key: oomp_joanthespark_freetronics_footprints_2x03
+    oomp_key_extra: oomp_footprint_joanthespark_freetronics_footprints_2x03
+    oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_2x03_01e085
+    oomp_key_simple: joanthespark_freetronics_footprints_2x03
     original_filename: KiCAD/mods/freetronics_footprints.pretty/2X03.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_freetronics_footprints_2x03
+  oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_2x03
   oomp_key_simple: joanthespark_freetronics_footprints_2x03
   owner: JoanTheSpark
   repo:

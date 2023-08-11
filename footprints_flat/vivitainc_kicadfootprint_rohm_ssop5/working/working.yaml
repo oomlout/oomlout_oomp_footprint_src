@@ -17,9 +17,18 @@
   oomp:
     footprint_name: rohm_ssop5
     library_name: kicadfootprint
+    md5: 143927644b24dd0977540211bb74a512
+    md5_10: 143927644b
+    md5_5: '14392'
+    md5_6: '143927'
+    oomp_key: oomp_vivitainc_kicadfootprint_rohm_ssop5
+    oomp_key_extra: oomp_footprint_vivitainc_kicadfootprint_rohm_ssop5
+    oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_rohm_ssop5_143927
+    oomp_key_simple: vivitainc_kicadfootprint_rohm_ssop5
     original_filename: KiCADfootprint.pretty/ROHM_SSOP5.kicad_mod
     owner_name: vivitainc
   oomp_key: oomp_vivitainc_kicadfootprint_rohm_ssop5
+  oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_rohm_ssop5
   oomp_key_simple: vivitainc_kicadfootprint_rohm_ssop5
   owner: vivitainc
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ssop28_5_3mm
     library_name: freetronics_footprints
+    md5: 618ea020d90885f062feb3bc3cc55455
+    md5_10: 618ea020d9
+    md5_5: 618ea
+    md5_6: 618ea0
+    oomp_key: oomp_wykys_freetronics_footprints_ssop28_5_3mm
+    oomp_key_extra: oomp_footprint_wykys_freetronics_footprints_ssop28_5_3mm
+    oomp_key_full: oomp_footprint_wykys_freetronics_footprints_ssop28_5_3mm_618ea0
+    oomp_key_simple: wykys_freetronics_footprints_ssop28_5_3mm
     original_filename: kicad/mods/freetronics_footprints.pretty/SSOP28_5.3mm.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_freetronics_footprints_ssop28_5_3mm
+  oomp_key_full: oomp_footprint_wykys_freetronics_footprints_ssop28_5_3mm
   oomp_key_simple: wykys_freetronics_footprints_ssop28_5_3mm
   owner: wykys
   repo:

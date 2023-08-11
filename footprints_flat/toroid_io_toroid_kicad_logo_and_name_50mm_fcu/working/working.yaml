@@ -17,9 +17,18 @@
   oomp:
     footprint_name: logo_and_name_50mm_fcu
     library_name: toroid_kicad
+    md5: 1e02c25b61bbf2215bda9f5f0100d7c5
+    md5_10: 1e02c25b61
+    md5_5: 1e02c
+    md5_6: 1e02c2
+    oomp_key: oomp_toroid_io_toroid_kicad_logo_and_name_50mm_fcu
+    oomp_key_extra: oomp_footprint_toroid_io_toroid_kicad_logo_and_name_50mm_fcu
+    oomp_key_full: oomp_footprint_toroid_io_toroid_kicad_logo_and_name_50mm_fcu_1e02c2
+    oomp_key_simple: toroid_io_toroid_kicad_logo_and_name_50mm_fcu
     original_filename: toroid-kicad.pretty/Logo_and_Name_50mm_FCu.kicad_mod
     owner_name: toroid_io
   oomp_key: oomp_toroid_io_toroid_kicad_logo_and_name_50mm_fcu
+  oomp_key_full: oomp_footprint_toroid_io_toroid_kicad_logo_and_name_50mm_fcu
   oomp_key_simple: toroid_io_toroid_kicad_logo_and_name_50mm_fcu
   owner: Toroid-io
   repo:

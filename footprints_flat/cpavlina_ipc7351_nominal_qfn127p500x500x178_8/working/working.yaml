@@ -18,9 +18,18 @@
   oomp:
     footprint_name: qfn127p500x500x178_8
     library_name: ipc7351_nominal
+    md5: d1163138bbd9b772776cab50d2f7cc90
+    md5_10: d1163138bb
+    md5_5: d1163
+    md5_6: d11631
+    oomp_key: oomp_cpavlina_ipc7351_nominal_qfn127p500x500x178_8
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_nominal_qfn127p500x500x178_8
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_qfn127p500x500x178_8_d11631
+    oomp_key_simple: cpavlina_ipc7351_nominal_qfn127p500x500x178_8
     original_filename: kicad-pcblib/IPC7351-Nominal.pretty/QFN127P500X500X178-8.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_nominal_qfn127p500x500x178_8
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_qfn127p500x500x178_8
   oomp_key_simple: cpavlina_ipc7351_nominal_qfn127p500x500x178_8
   owner: cpavlina
   repo:

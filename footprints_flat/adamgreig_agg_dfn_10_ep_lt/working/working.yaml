@@ -17,9 +17,18 @@
   oomp:
     footprint_name: dfn_10_ep_lt
     library_name: agg
+    md5: 864a17ec39c39e61d942a856bce998d6
+    md5_10: 864a17ec39
+    md5_5: 864a1
+    md5_6: 864a17
+    oomp_key: oomp_adamgreig_agg_dfn_10_ep_lt
+    oomp_key_extra: oomp_footprint_adamgreig_agg_dfn_10_ep_lt
+    oomp_key_full: oomp_footprint_adamgreig_agg_dfn_10_ep_lt_864a17
+    oomp_key_simple: adamgreig_agg_dfn_10_ep_lt
     original_filename: agg-kicad/agg.pretty/DFN-10-EP-LT.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_dfn_10_ep_lt
+  oomp_key_full: oomp_footprint_adamgreig_agg_dfn_10_ep_lt
   oomp_key_simple: adamgreig_agg_dfn_10_ep_lt
   owner: adamgreig
   repo:

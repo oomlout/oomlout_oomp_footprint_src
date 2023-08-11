@@ -17,9 +17,18 @@
   oomp:
     footprint_name: transformer_breve_tez_44x52
     library_name: transformer_tht
+    md5: f4d805e6d35097e9a858d5830b29bf04
+    md5_10: f4d805e6d3
+    md5_5: f4d80
+    md5_6: f4d805
+    oomp_key: oomp_kicad_transformer_tht_transformer_breve_tez_44x52
+    oomp_key_extra: oomp_footprint_kicad_transformer_tht_transformer_breve_tez_44x52
+    oomp_key_full: oomp_footprint_kicad_transformer_tht_transformer_breve_tez_44x52_f4d805
+    oomp_key_simple: kicad_transformer_tht_transformer_breve_tez_44x52
     original_filename: libraries/kicad-footprints/Transformer_THT.pretty/Transformer_Breve_TEZ-44x52.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_transformer_tht_transformer_breve_tez_44x52
+  oomp_key_full: oomp_footprint_kicad_transformer_tht_transformer_breve_tez_44x52
   oomp_key_simple: kicad_transformer_tht_transformer_breve_tez_44x52
   owner: kicad
   repo:

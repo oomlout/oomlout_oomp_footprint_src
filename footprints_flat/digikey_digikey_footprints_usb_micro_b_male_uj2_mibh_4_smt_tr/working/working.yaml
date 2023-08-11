@@ -17,9 +17,18 @@
   oomp:
     footprint_name: usb_micro_b_male_uj2_mibh_4_smt_tr
     library_name: digikey_footprints
+    md5: b9485de76c9dd6aa15878554d9b79dd9
+    md5_10: b9485de76c
+    md5_5: b9485
+    md5_6: b9485d
+    oomp_key: oomp_digikey_digikey_footprints_usb_micro_b_male_uj2_mibh_4_smt_tr
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_usb_micro_b_male_uj2_mibh_4_smt_tr
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_usb_micro_b_male_uj2_mibh_4_smt_tr_b9485d
+    oomp_key_simple: digikey_digikey_footprints_usb_micro_b_male_uj2_mibh_4_smt_tr
     original_filename: digikey-kicad-library/digikey-footprints.pretty/USB_Micro_B_Male_UJ2-MIBH-4-SMT-TR.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_usb_micro_b_male_uj2_mibh_4_smt_tr
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_usb_micro_b_male_uj2_mibh_4_smt_tr
   oomp_key_simple: digikey_digikey_footprints_usb_micro_b_male_uj2_mibh_4_smt_tr
   owner: digikey
   repo:

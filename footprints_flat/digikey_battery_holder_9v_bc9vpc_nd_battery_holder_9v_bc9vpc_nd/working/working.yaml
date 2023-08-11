@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: battery_holder_9v_bc9vpc_nd
-    library_name: source_footprints
+    library_name: battery_holder_9v_bc9vpc_nd_kicad_mod
+    md5: ac027391c6208dd4d76795b1a337a5ed
+    md5_10: ac027391c6
+    md5_5: ac027
+    md5_6: ac0273
+    oomp_key: oomp_digikey_battery_holder_9v_bc9vpc_nd_battery_holder_9v_bc9vpc_nd
+    oomp_key_extra: oomp_footprint_digikey_battery_holder_9v_bc9vpc_nd_battery_holder_9v_bc9vpc_nd
+    oomp_key_full: oomp_footprint_digikey_battery_holder_9v_bc9vpc_nd_battery_holder_9v_bc9vpc_nd_ac0273
+    oomp_key_simple: digikey_battery_holder_9v_bc9vpc_nd_battery_holder_9v_bc9vpc_nd
     original_filename: digikey-kicad-library/src/Source_Footprints/Battery_Holder_9V_BC9VPC-ND.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_battery_holder_9v_bc9vpc_nd_battery_holder_9v_bc9vpc_nd
+  oomp_key_full: oomp_footprint_digikey_battery_holder_9v_bc9vpc_nd_battery_holder_9v_bc9vpc_nd
   oomp_key_simple: digikey_battery_holder_9v_bc9vpc_nd_battery_holder_9v_bc9vpc_nd
   owner: digikey
   repo:

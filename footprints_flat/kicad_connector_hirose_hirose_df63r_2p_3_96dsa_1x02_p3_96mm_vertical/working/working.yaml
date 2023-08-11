@@ -18,9 +18,18 @@
   oomp:
     footprint_name: hirose_df63r_2p_3_96dsa_1x02_p3_96mm_vertical
     library_name: connector_hirose
+    md5: 684889e7c5b95bfe89a1e57ae4757d9a
+    md5_10: 684889e7c5
+    md5_5: '68488'
+    md5_6: '684889'
+    oomp_key: oomp_kicad_connector_hirose_hirose_df63r_2p_3_96dsa_1x02_p3_96mm_vertical
+    oomp_key_extra: oomp_footprint_kicad_connector_hirose_hirose_df63r_2p_3_96dsa_1x02_p3_96mm_vertical
+    oomp_key_full: oomp_footprint_kicad_connector_hirose_hirose_df63r_2p_3_96dsa_1x02_p3_96mm_vertical_684889
+    oomp_key_simple: kicad_connector_hirose_hirose_df63r_2p_3_96dsa_1x02_p3_96mm_vertical
     original_filename: libraries/kicad-footprints/Connector_Hirose.pretty/Hirose_DF63R-2P-3.96DSA_1x02_P3.96mm_Vertical.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_hirose_hirose_df63r_2p_3_96dsa_1x02_p3_96mm_vertical
+  oomp_key_full: oomp_footprint_kicad_connector_hirose_hirose_df63r_2p_3_96dsa_1x02_p3_96mm_vertical
   oomp_key_simple: kicad_connector_hirose_hirose_df63r_2p_3_96dsa_1x02_p3_96mm_vertical
   owner: kicad
   repo:

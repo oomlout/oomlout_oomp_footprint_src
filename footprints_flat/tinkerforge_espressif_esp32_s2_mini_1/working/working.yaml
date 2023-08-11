@@ -17,9 +17,18 @@
   oomp:
     footprint_name: esp32_s2_mini_1
     library_name: espressif
+    md5: 13b8196b95c3b3bbed36feb6624efd02
+    md5_10: 13b8196b95
+    md5_5: 13b81
+    md5_6: 13b819
+    oomp_key: oomp_tinkerforge_espressif_esp32_s2_mini_1
+    oomp_key_extra: oomp_footprint_tinkerforge_espressif_esp32_s2_mini_1
+    oomp_key_full: oomp_footprint_tinkerforge_espressif_esp32_s2_mini_1_13b819
+    oomp_key_simple: tinkerforge_espressif_esp32_s2_mini_1
     original_filename: kicad-libraries/footprints/Espressif.pretty/ESP32-S2-MINI-1.kicad_mod
     owner_name: tinkerforge
   oomp_key: oomp_tinkerforge_espressif_esp32_s2_mini_1
+  oomp_key_full: oomp_footprint_tinkerforge_espressif_esp32_s2_mini_1
   oomp_key_simple: tinkerforge_espressif_esp32_s2_mini_1
   owner: Tinkerforge
   repo:

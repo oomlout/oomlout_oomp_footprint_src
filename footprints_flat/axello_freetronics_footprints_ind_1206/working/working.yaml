@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ind_1206
     library_name: freetronics_footprints
+    md5: 78e9cb378986788c54cf42417a41495a
+    md5_10: 78e9cb3789
+    md5_5: 78e9c
+    md5_6: 78e9cb
+    oomp_key: oomp_axello_freetronics_footprints_ind_1206
+    oomp_key_extra: oomp_footprint_axello_freetronics_footprints_ind_1206
+    oomp_key_full: oomp_footprint_axello_freetronics_footprints_ind_1206_78e9cb
+    oomp_key_simple: axello_freetronics_footprints_ind_1206
     original_filename: kicad/mods/freetronics_footprints.pretty/IND_1206.kicad_mod
     owner_name: axello
   oomp_key: oomp_axello_freetronics_footprints_ind_1206
+  oomp_key_full: oomp_footprint_axello_freetronics_footprints_ind_1206
   oomp_key_simple: axello_freetronics_footprints_ind_1206
   owner: axello
   repo:

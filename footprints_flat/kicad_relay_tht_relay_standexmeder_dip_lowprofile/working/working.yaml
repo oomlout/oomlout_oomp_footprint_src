@@ -17,9 +17,18 @@
   oomp:
     footprint_name: relay_standexmeder_dip_lowprofile
     library_name: relay_tht
+    md5: 0aeeed33263df9e126c4de3aee24c333
+    md5_10: 0aeeed3326
+    md5_5: 0aeee
+    md5_6: 0aeeed
+    oomp_key: oomp_kicad_relay_tht_relay_standexmeder_dip_lowprofile
+    oomp_key_extra: oomp_footprint_kicad_relay_tht_relay_standexmeder_dip_lowprofile
+    oomp_key_full: oomp_footprint_kicad_relay_tht_relay_standexmeder_dip_lowprofile_0aeeed
+    oomp_key_simple: kicad_relay_tht_relay_standexmeder_dip_lowprofile
     original_filename: libraries/kicad-footprints/Relay_THT.pretty/Relay_StandexMeder_DIP_LowProfile.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_relay_tht_relay_standexmeder_dip_lowprofile
+  oomp_key_full: oomp_footprint_kicad_relay_tht_relay_standexmeder_dip_lowprofile
   oomp_key_simple: kicad_relay_tht_relay_standexmeder_dip_lowprofile
   owner: kicad
   repo:

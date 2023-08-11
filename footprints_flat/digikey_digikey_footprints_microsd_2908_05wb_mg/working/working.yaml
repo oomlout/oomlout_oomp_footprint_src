@@ -17,9 +17,18 @@
   oomp:
     footprint_name: microsd_2908_05wb_mg
     library_name: digikey_footprints
+    md5: 0f29c983649cc9223dcf0bbd4446f1dc
+    md5_10: 0f29c98364
+    md5_5: 0f29c
+    md5_6: 0f29c9
+    oomp_key: oomp_digikey_digikey_footprints_microsd_2908_05wb_mg
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_microsd_2908_05wb_mg
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_microsd_2908_05wb_mg_0f29c9
+    oomp_key_simple: digikey_digikey_footprints_microsd_2908_05wb_mg
     original_filename: digikey-kicad-library/digikey-footprints.pretty/MicroSD_2908-05WB-MG.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_microsd_2908_05wb_mg
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_microsd_2908_05wb_mg
   oomp_key_simple: digikey_digikey_footprints_microsd_2908_05wb_mg
   owner: digikey
   repo:

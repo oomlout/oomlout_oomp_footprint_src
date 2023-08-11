@@ -19,9 +19,18 @@
   oomp:
     footprint_name: weee_logo_21x30mm_silkscreen
     library_name: symbol
+    md5: 1caa4339f8b9437840c06bc9f45e837a
+    md5_10: 1caa4339f8
+    md5_5: 1caa4
+    md5_6: 1caa43
+    oomp_key: oomp_iangitpers_symbol_weee_logo_21x30mm_silkscreen
+    oomp_key_extra: oomp_footprint_iangitpers_symbol_weee_logo_21x30mm_silkscreen
+    oomp_key_full: oomp_footprint_iangitpers_symbol_weee_logo_21x30mm_silkscreen_1caa43
+    oomp_key_simple: iangitpers_symbol_weee_logo_21x30mm_silkscreen
     original_filename: 4a/Symbol.pretty/WEEE-Logo_21x30mm_SilkScreen.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_symbol_weee_logo_21x30mm_silkscreen
+  oomp_key_full: oomp_footprint_iangitpers_symbol_weee_logo_21x30mm_silkscreen
   oomp_key_simple: iangitpers_symbol_weee_logo_21x30mm_silkscreen
   owner: Iangitpers
   repo:

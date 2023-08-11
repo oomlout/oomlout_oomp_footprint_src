@@ -16,10 +16,19 @@
   name: MX_Alps_Hybrid.pretty
   oomp:
     footprint_name: mxonly_2u_flipped_reversedverticalstabilizers
-    library_name: mx_only
+    library_name: mx_alps_hybrid
+    md5: c5b3d560fb860c637f0adff5e28c244e
+    md5_10: c5b3d560fb
+    md5_5: c5b3d
+    md5_6: c5b3d5
+    oomp_key: oomp_ai03_2725_mx_alps_hybrid_mxonly_2u_flipped_reversedverticalstabilizers
+    oomp_key_extra: oomp_footprint_ai03_2725_mx_alps_hybrid_mxonly_2u_flipped_reversedverticalstabilizers
+    oomp_key_full: oomp_footprint_ai03_2725_mx_alps_hybrid_mxonly_2u_flipped_reversedverticalstabilizers_c5b3d5
+    oomp_key_simple: ai03_2725_mx_alps_hybrid_mxonly_2u_flipped_reversedverticalstabilizers
     original_filename: MX_Alps_Hybrid.pretty/MX_Only.pretty/MXOnly-2U-FLIPPED-ReversedVerticalStabilizers.kicad_mod
     owner_name: ai03_2725
   oomp_key: oomp_ai03_2725_mx_alps_hybrid_mxonly_2u_flipped_reversedverticalstabilizers
+  oomp_key_full: oomp_footprint_ai03_2725_mx_alps_hybrid_mxonly_2u_flipped_reversedverticalstabilizers
   oomp_key_simple: ai03_2725_mx_alps_hybrid_mxonly_2u_flipped_reversedverticalstabilizers
   owner: ai03-2725
   repo:

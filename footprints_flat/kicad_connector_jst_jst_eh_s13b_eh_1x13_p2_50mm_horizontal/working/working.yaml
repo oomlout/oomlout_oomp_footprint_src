@@ -18,9 +18,18 @@
   oomp:
     footprint_name: jst_eh_s13b_eh_1x13_p2_50mm_horizontal
     library_name: connector_jst
+    md5: ee8c4c3502425ecee67e8e12a382b332
+    md5_10: ee8c4c3502
+    md5_5: ee8c4
+    md5_6: ee8c4c
+    oomp_key: oomp_kicad_connector_jst_jst_eh_s13b_eh_1x13_p2_50mm_horizontal
+    oomp_key_extra: oomp_footprint_kicad_connector_jst_jst_eh_s13b_eh_1x13_p2_50mm_horizontal
+    oomp_key_full: oomp_footprint_kicad_connector_jst_jst_eh_s13b_eh_1x13_p2_50mm_horizontal_ee8c4c
+    oomp_key_simple: kicad_connector_jst_jst_eh_s13b_eh_1x13_p2_50mm_horizontal
     original_filename: libraries/kicad-footprints/Connector_JST.pretty/JST_EH_S13B-EH_1x13_P2.50mm_Horizontal.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_jst_jst_eh_s13b_eh_1x13_p2_50mm_horizontal
+  oomp_key_full: oomp_footprint_kicad_connector_jst_jst_eh_s13b_eh_1x13_p2_50mm_horizontal
   oomp_key_simple: kicad_connector_jst_jst_eh_s13b_eh_1x13_p2_50mm_horizontal
   owner: kicad
   repo:

@@ -19,9 +19,18 @@
   oomp:
     footprint_name: murata_tzc3p
     library_name: manuf
+    md5: 8c32a17fc543109474dac5271de45d21
+    md5_10: 8c32a17fc5
+    md5_5: 8c32a
+    md5_6: 8c32a1
+    oomp_key: oomp_iangitpers_manuf_murata_tzc3p
+    oomp_key_extra: oomp_footprint_iangitpers_manuf_murata_tzc3p
+    oomp_key_full: oomp_footprint_iangitpers_manuf_murata_tzc3p_8c32a1
+    oomp_key_simple: iangitpers_manuf_murata_tzc3p
     original_filename: 4a/manuf.pretty/MURATA-TZC3P.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_manuf_murata_tzc3p
+  oomp_key_full: oomp_footprint_iangitpers_manuf_murata_tzc3p
   oomp_key_simple: iangitpers_manuf_murata_tzc3p
   owner: Iangitpers
   repo:

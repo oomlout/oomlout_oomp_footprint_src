@@ -17,9 +17,18 @@
   oomp:
     footprint_name: mountinghole_125mil
     library_name: kicad_gfa
+    md5: e2a552ca72f7674b753d6676f66eb610
+    md5_10: e2a552ca72
+    md5_5: e2a55
+    md5_6: e2a552
+    oomp_key: oomp_umons_gfa_kicad_gfa_mountinghole_125mil
+    oomp_key_extra: oomp_footprint_umons_gfa_kicad_gfa_mountinghole_125mil
+    oomp_key_full: oomp_footprint_umons_gfa_kicad_gfa_mountinghole_125mil_e2a552
+    oomp_key_simple: umons_gfa_kicad_gfa_mountinghole_125mil
     original_filename: kicad-gfa.pretty/MountingHole_125mil.kicad_mod
     owner_name: umons_gfa
   oomp_key: oomp_umons_gfa_kicad_gfa_mountinghole_125mil
+  oomp_key_full: oomp_footprint_umons_gfa_kicad_gfa_mountinghole_125mil
   oomp_key_simple: umons_gfa_kicad_gfa_mountinghole_125mil
   owner: UMONS-GFA
   repo:

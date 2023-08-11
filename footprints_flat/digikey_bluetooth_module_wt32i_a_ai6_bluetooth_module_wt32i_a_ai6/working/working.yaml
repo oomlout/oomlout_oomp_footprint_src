@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: bluetooth_module_wt32i_a_ai6
-    library_name: source_footprints
+    library_name: bluetooth_module_wt32i_a_ai6_kicad_mod
+    md5: bcc9add92d59bdba4122ae6e6bca3d61
+    md5_10: bcc9add92d
+    md5_5: bcc9a
+    md5_6: bcc9ad
+    oomp_key: oomp_digikey_bluetooth_module_wt32i_a_ai6_bluetooth_module_wt32i_a_ai6
+    oomp_key_extra: oomp_footprint_digikey_bluetooth_module_wt32i_a_ai6_bluetooth_module_wt32i_a_ai6
+    oomp_key_full: oomp_footprint_digikey_bluetooth_module_wt32i_a_ai6_bluetooth_module_wt32i_a_ai6_bcc9ad
+    oomp_key_simple: digikey_bluetooth_module_wt32i_a_ai6_bluetooth_module_wt32i_a_ai6
     original_filename: digikey-kicad-library/src/Source_Footprints/Bluetooth_Module_WT32I-A-AI6.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_bluetooth_module_wt32i_a_ai6_bluetooth_module_wt32i_a_ai6
+  oomp_key_full: oomp_footprint_digikey_bluetooth_module_wt32i_a_ai6_bluetooth_module_wt32i_a_ai6
   oomp_key_simple: digikey_bluetooth_module_wt32i_a_ai6_bluetooth_module_wt32i_a_ai6
   owner: digikey
   repo:

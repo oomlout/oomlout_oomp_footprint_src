@@ -19,9 +19,18 @@
   oomp:
     footprint_name: polarity_center_positive_40mm_silkscreen
     library_name: symbol
+    md5: ba6b383f2d0fdaef4e77db048f4d9901
+    md5_10: ba6b383f2d
+    md5_5: ba6b3
+    md5_6: ba6b38
+    oomp_key: oomp_iangitpers_symbol_polarity_center_positive_40mm_silkscreen
+    oomp_key_extra: oomp_footprint_iangitpers_symbol_polarity_center_positive_40mm_silkscreen
+    oomp_key_full: oomp_footprint_iangitpers_symbol_polarity_center_positive_40mm_silkscreen_ba6b38
+    oomp_key_simple: iangitpers_symbol_polarity_center_positive_40mm_silkscreen
     original_filename: 4a/Symbol.pretty/Polarity_Center_Positive_40mm_SilkScreen.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_symbol_polarity_center_positive_40mm_silkscreen
+  oomp_key_full: oomp_footprint_iangitpers_symbol_polarity_center_positive_40mm_silkscreen
   oomp_key_simple: iangitpers_symbol_polarity_center_positive_40mm_silkscreen
   owner: Iangitpers
   repo:

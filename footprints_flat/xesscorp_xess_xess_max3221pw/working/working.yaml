@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_max3221pw
     library_name: xess
+    md5: 904aa699c5101971049cf08459520a88
+    md5_10: 904aa699c5
+    md5_5: 904aa
+    md5_6: 904aa6
+    oomp_key: oomp_xesscorp_xess_xess_max3221pw
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_max3221pw
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_max3221pw_904aa6
+    oomp_key_simple: xesscorp_xess_xess_max3221pw
     original_filename: xess.pretty/xess-MAX3221PW.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_max3221pw
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_max3221pw
   oomp_key_simple: xesscorp_xess_xess_max3221pw
   owner: xesscorp
   repo:

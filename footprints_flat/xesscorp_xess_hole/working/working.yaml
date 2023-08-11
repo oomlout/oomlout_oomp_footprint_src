@@ -17,9 +17,18 @@
   oomp:
     footprint_name: hole
     library_name: xess
+    md5: 8bec2dcb64fea8644a7a27fd8d3168ec
+    md5_10: 8bec2dcb64
+    md5_5: 8bec2
+    md5_6: 8bec2d
+    oomp_key: oomp_xesscorp_xess_hole
+    oomp_key_extra: oomp_footprint_xesscorp_xess_hole
+    oomp_key_full: oomp_footprint_xesscorp_xess_hole_8bec2d
+    oomp_key_simple: xesscorp_xess_hole
     original_filename: xess.pretty/HOLE.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_hole
+  oomp_key_full: oomp_footprint_xesscorp_xess_hole
   oomp_key_simple: xesscorp_xess_hole
   owner: xesscorp
   repo:

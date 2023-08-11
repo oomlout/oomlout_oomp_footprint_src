@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ind_cep125
     library_name: freetronics_footprints
+    md5: ed5cde25cc26173280d3e492a738ae43
+    md5_10: ed5cde25cc
+    md5_5: ed5cd
+    md5_6: ed5cde
+    oomp_key: oomp_joanthespark_freetronics_footprints_ind_cep125
+    oomp_key_extra: oomp_footprint_joanthespark_freetronics_footprints_ind_cep125
+    oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_ind_cep125_ed5cde
+    oomp_key_simple: joanthespark_freetronics_footprints_ind_cep125
     original_filename: KiCAD/mods/freetronics_footprints.pretty/IND_CEP125.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_freetronics_footprints_ind_cep125
+  oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_ind_cep125
   oomp_key_simple: joanthespark_freetronics_footprints_ind_cep125
   owner: JoanTheSpark
   repo:

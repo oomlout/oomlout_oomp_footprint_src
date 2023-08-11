@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: 3_sip_module_tm1000q
-    library_name: source_footprints
+    library_name: 3_sip_module_tm1000q_kicad_mod
+    md5: 236a3e08af0bc86aac4cfddb1c9da791
+    md5_10: 236a3e08af
+    md5_5: 236a3
+    md5_6: 236a3e
+    oomp_key: oomp_digikey_3_sip_module_tm1000q_3_sip_module_tm1000q
+    oomp_key_extra: oomp_footprint_digikey_3_sip_module_tm1000q_3_sip_module_tm1000q
+    oomp_key_full: oomp_footprint_digikey_3_sip_module_tm1000q_3_sip_module_tm1000q_236a3e
+    oomp_key_simple: digikey_3_sip_module_tm1000q_3_sip_module_tm1000q
     original_filename: digikey-kicad-library/src/Source_Footprints/3-SIP_Module_TM1000Q.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_3_sip_module_tm1000q_3_sip_module_tm1000q
+  oomp_key_full: oomp_footprint_digikey_3_sip_module_tm1000q_3_sip_module_tm1000q
   oomp_key_simple: digikey_3_sip_module_tm1000q_3_sip_module_tm1000q
   owner: digikey
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: choke_acm31_smt
     library_name: kicad
+    md5: d99daa82a4112b0003710b2b8f45e3d6
+    md5_10: d99daa82a4
+    md5_5: d99da
+    md5_6: d99daa
+    oomp_key: oomp_kubix89_kicad_choke_acm31_smt
+    oomp_key_extra: oomp_footprint_kubix89_kicad_choke_acm31_smt
+    oomp_key_full: oomp_footprint_kubix89_kicad_choke_acm31_smt_d99daa
+    oomp_key_simple: kubix89_kicad_choke_acm31_smt
     original_filename: kiCAD.pretty/CHOKE_ACM31_SMT.kicad_mod
     owner_name: kubix89
   oomp_key: oomp_kubix89_kicad_choke_acm31_smt
+  oomp_key_full: oomp_footprint_kubix89_kicad_choke_acm31_smt
   oomp_key_simple: kubix89_kicad_choke_acm31_smt
   owner: kubiX89
   repo:

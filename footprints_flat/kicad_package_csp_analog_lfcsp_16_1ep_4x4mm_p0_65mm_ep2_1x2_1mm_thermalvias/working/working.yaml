@@ -18,9 +18,18 @@
   oomp:
     footprint_name: analog_lfcsp_16_1ep_4x4mm_p0_65mm_ep2_1x2_1mm_thermalvias
     library_name: package_csp
+    md5: 3a9ee7c1657bfb3b8c61075b106616d4
+    md5_10: 3a9ee7c165
+    md5_5: 3a9ee
+    md5_6: 3a9ee7
+    oomp_key: oomp_kicad_package_csp_analog_lfcsp_16_1ep_4x4mm_p0_65mm_ep2_1x2_1mm_thermalvias
+    oomp_key_extra: oomp_footprint_kicad_package_csp_analog_lfcsp_16_1ep_4x4mm_p0_65mm_ep2_1x2_1mm_thermalvias
+    oomp_key_full: oomp_footprint_kicad_package_csp_analog_lfcsp_16_1ep_4x4mm_p0_65mm_ep2_1x2_1mm_thermalvias_3a9ee7
+    oomp_key_simple: kicad_package_csp_analog_lfcsp_16_1ep_4x4mm_p0_65mm_ep2_1x2_1mm_thermalvias
     original_filename: libraries/kicad-footprints/Package_CSP.pretty/Analog_LFCSP-16-1EP_4x4mm_P0.65mm_EP2.1x2.1mm_ThermalVias.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_csp_analog_lfcsp_16_1ep_4x4mm_p0_65mm_ep2_1x2_1mm_thermalvias
+  oomp_key_full: oomp_footprint_kicad_package_csp_analog_lfcsp_16_1ep_4x4mm_p0_65mm_ep2_1x2_1mm_thermalvias
   oomp_key_simple: kicad_package_csp_analog_lfcsp_16_1ep_4x4mm_p0_65mm_ep2_1x2_1mm_thermalvias
   owner: kicad
   repo:

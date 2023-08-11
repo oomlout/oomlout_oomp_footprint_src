@@ -17,9 +17,18 @@
   oomp:
     footprint_name: led_d5_0mm_flattop
     library_name: led_tht
+    md5: 9a3aec84d2dad54503ca29e2795fb8d1
+    md5_10: 9a3aec84d2
+    md5_5: 9a3ae
+    md5_6: 9a3aec
+    oomp_key: oomp_kicad_led_tht_led_d5_0mm_flattop
+    oomp_key_extra: oomp_footprint_kicad_led_tht_led_d5_0mm_flattop
+    oomp_key_full: oomp_footprint_kicad_led_tht_led_d5_0mm_flattop_9a3aec
+    oomp_key_simple: kicad_led_tht_led_d5_0mm_flattop
     original_filename: libraries/kicad-footprints/LED_THT.pretty/LED_D5.0mm_FlatTop.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_led_tht_led_d5_0mm_flattop
+  oomp_key_full: oomp_footprint_kicad_led_tht_led_d5_0mm_flattop
   oomp_key_simple: kicad_led_tht_led_d5_0mm_flattop
   owner: kicad
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sw_kailh_kh_isoenter_180deg
     library_name: switch_keyboard_kailh
+    md5: dc294f65c84db4bb1a5939e57dee9373
+    md5_10: dc294f65c8
+    md5_5: dc294
+    md5_6: dc294f
+    oomp_key: oomp_wykys_switch_keyboard_kailh_sw_kailh_kh_isoenter_180deg
+    oomp_key_extra: oomp_footprint_wykys_switch_keyboard_kailh_sw_kailh_kh_isoenter_180deg
+    oomp_key_full: oomp_footprint_wykys_switch_keyboard_kailh_sw_kailh_kh_isoenter_180deg_dc294f
+    oomp_key_simple: wykys_switch_keyboard_kailh_sw_kailh_kh_isoenter_180deg
     original_filename: kicad/6.0/3rdparty/footprints/com_github_perigoso_keyswitch-kicad-library/Switch_Keyboard_Kailh.pretty/SW_Kailh_KH_ISOEnter_180deg.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_switch_keyboard_kailh_sw_kailh_kh_isoenter_180deg
+  oomp_key_full: oomp_footprint_wykys_switch_keyboard_kailh_sw_kailh_kh_isoenter_180deg
   oomp_key_simple: wykys_switch_keyboard_kailh_sw_kailh_kh_isoenter_180deg
   owner: wykys
   repo:

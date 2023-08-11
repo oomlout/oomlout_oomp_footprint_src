@@ -17,9 +17,18 @@
   oomp:
     footprint_name: headerpin_2x2_p4_2_drill1_4mm
     library_name: digikey_footprints
+    md5: 15ec0366847f189057fdc6e13428b25d
+    md5_10: 15ec036684
+    md5_5: 15ec0
+    md5_6: 15ec03
+    oomp_key: oomp_digikey_digikey_footprints_headerpin_2x2_p4_2_drill1_4mm
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_headerpin_2x2_p4_2_drill1_4mm
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_headerpin_2x2_p4_2_drill1_4mm_15ec03
+    oomp_key_simple: digikey_digikey_footprints_headerpin_2x2_p4_2_drill1_4mm
     original_filename: digikey-kicad-library/digikey-footprints.pretty/HeaderPin_2x2_P4.2_Drill1.4mm.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_headerpin_2x2_p4_2_drill1_4mm
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_headerpin_2x2_p4_2_drill1_4mm
   oomp_key_simple: digikey_digikey_footprints_headerpin_2x2_p4_2_drill1_4mm
   owner: digikey
   repo:

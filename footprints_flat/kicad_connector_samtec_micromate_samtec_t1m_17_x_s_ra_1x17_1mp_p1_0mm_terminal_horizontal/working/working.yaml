@@ -18,9 +18,18 @@
   oomp:
     footprint_name: samtec_t1m_17_x_s_ra_1x17_1mp_p1_0mm_terminal_horizontal
     library_name: connector_samtec_micromate
+    md5: b44a7bd06b455c88bcffaf778f59a0e3
+    md5_10: b44a7bd06b
+    md5_5: b44a7
+    md5_6: b44a7b
+    oomp_key: oomp_kicad_connector_samtec_micromate_samtec_t1m_17_x_s_ra_1x17_1mp_p1_0mm_terminal_horizontal
+    oomp_key_extra: oomp_footprint_kicad_connector_samtec_micromate_samtec_t1m_17_x_s_ra_1x17_1mp_p1_0mm_terminal_horizontal
+    oomp_key_full: oomp_footprint_kicad_connector_samtec_micromate_samtec_t1m_17_x_s_ra_1x17_1mp_p1_0mm_terminal_horizontal_b44a7b
+    oomp_key_simple: kicad_connector_samtec_micromate_samtec_t1m_17_x_s_ra_1x17_1mp_p1_0mm_terminal_horizontal
     original_filename: libraries/kicad-footprints/Connector_Samtec_MicroMate.pretty/Samtec_T1M-17-X-S-RA_1x17-1MP_P1.0mm_Terminal_Horizontal.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_samtec_micromate_samtec_t1m_17_x_s_ra_1x17_1mp_p1_0mm_terminal_horizontal
+  oomp_key_full: oomp_footprint_kicad_connector_samtec_micromate_samtec_t1m_17_x_s_ra_1x17_1mp_p1_0mm_terminal_horizontal
   oomp_key_simple: kicad_connector_samtec_micromate_samtec_t1m_17_x_s_ra_1x17_1mp_p1_0mm_terminal_horizontal
   owner: kicad
   repo:

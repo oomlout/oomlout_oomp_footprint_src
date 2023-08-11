@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_ecap_smt_16mm
     library_name: xess
+    md5: 3e5e7bfeab85bc8d18c6d1d5cdd06dc4
+    md5_10: 3e5e7bfeab
+    md5_5: 3e5e7
+    md5_6: 3e5e7b
+    oomp_key: oomp_xesscorp_xess_xess_ecap_smt_16mm
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_ecap_smt_16mm
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_ecap_smt_16mm_3e5e7b
+    oomp_key_simple: xesscorp_xess_xess_ecap_smt_16mm
     original_filename: xess.pretty/xess-ECAP-SMT-16MM.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_ecap_smt_16mm
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_ecap_smt_16mm
   oomp_key_simple: xesscorp_xess_xess_ecap_smt_16mm
   owner: xesscorp
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: tqfp_100_12x12mm
     library_name: digikey_footprints
+    md5: 45c335f26f65c847ee0b9bc49e8684c1
+    md5_10: 45c335f26f
+    md5_5: 45c33
+    md5_6: 45c335
+    oomp_key: oomp_digikey_digikey_footprints_tqfp_100_12x12mm
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_tqfp_100_12x12mm
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_tqfp_100_12x12mm_45c335
+    oomp_key_simple: digikey_digikey_footprints_tqfp_100_12x12mm
     original_filename: digikey-kicad-library/digikey-footprints.pretty/TQFP-100_12x12mm.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_tqfp_100_12x12mm
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_tqfp_100_12x12mm
   oomp_key_simple: digikey_digikey_footprints_tqfp_100_12x12mm
   owner: digikey
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: udfn_8_1ep_6x5mm_p1_27mm_ep3_4x4mm
     library_name: rhais_package_qfn
+    md5: 6ee63f72b7639d87537f52cc1edb0334
+    md5_10: 6ee63f72b7
+    md5_5: 6ee63
+    md5_6: 6ee63f
+    oomp_key: oomp_dx_mon_rhais_package_qfn_udfn_8_1ep_6x5mm_p1_27mm_ep3_4x4mm
+    oomp_key_extra: oomp_footprint_dx_mon_rhais_package_qfn_udfn_8_1ep_6x5mm_p1_27mm_ep3_4x4mm
+    oomp_key_full: oomp_footprint_dx_mon_rhais_package_qfn_udfn_8_1ep_6x5mm_p1_27mm_ep3_4x4mm_6ee63f
+    oomp_key_simple: dx_mon_rhais_package_qfn_udfn_8_1ep_6x5mm_p1_27mm_ep3_4x4mm
     original_filename: rhais_package-qfn.pretty/UDFN-8-1EP_6x5mm_P1.27mm_EP3.4x4mm.kicad_mod
     owner_name: dx_mon
   oomp_key: oomp_dx_mon_rhais_package_qfn_udfn_8_1ep_6x5mm_p1_27mm_ep3_4x4mm
+  oomp_key_full: oomp_footprint_dx_mon_rhais_package_qfn_udfn_8_1ep_6x5mm_p1_27mm_ep3_4x4mm
   oomp_key_simple: dx_mon_rhais_package_qfn_udfn_8_1ep_6x5mm_p1_27mm_ep3_4x4mm
   owner: DX-MON
   repo:

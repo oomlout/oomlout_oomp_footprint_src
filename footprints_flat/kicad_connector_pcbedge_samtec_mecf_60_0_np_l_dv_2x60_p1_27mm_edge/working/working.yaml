@@ -17,9 +17,18 @@
   oomp:
     footprint_name: samtec_mecf_60_0_np_l_dv_2x60_p1_27mm_edge
     library_name: connector_pcbedge
+    md5: 92d69a54b248f40bc55db4d715e7412b
+    md5_10: 92d69a54b2
+    md5_5: 92d69
+    md5_6: 92d69a
+    oomp_key: oomp_kicad_connector_pcbedge_samtec_mecf_60_0_np_l_dv_2x60_p1_27mm_edge
+    oomp_key_extra: oomp_footprint_kicad_connector_pcbedge_samtec_mecf_60_0_np_l_dv_2x60_p1_27mm_edge
+    oomp_key_full: oomp_footprint_kicad_connector_pcbedge_samtec_mecf_60_0_np_l_dv_2x60_p1_27mm_edge_92d69a
+    oomp_key_simple: kicad_connector_pcbedge_samtec_mecf_60_0_np_l_dv_2x60_p1_27mm_edge
     original_filename: libraries/kicad-footprints/Connector_PCBEdge.pretty/Samtec_MECF-60-0_-NP-L-DV_2x60_P1.27mm_Edge.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_pcbedge_samtec_mecf_60_0_np_l_dv_2x60_p1_27mm_edge
+  oomp_key_full: oomp_footprint_kicad_connector_pcbedge_samtec_mecf_60_0_np_l_dv_2x60_p1_27mm_edge
   oomp_key_simple: kicad_connector_pcbedge_samtec_mecf_60_0_np_l_dv_2x60_p1_27mm_edge
   owner: kicad
   repo:

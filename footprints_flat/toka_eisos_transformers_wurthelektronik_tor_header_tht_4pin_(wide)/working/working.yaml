@@ -17,9 +17,18 @@
   oomp:
     footprint_name: tor_header_tht_4pin_(wide)
     library_name: transformers_wurthelektronik
+    md5: b1d178b3370a41ce9d288ef9f8dfe343
+    md5_10: b1d178b337
+    md5_5: b1d17
+    md5_6: b1d178
+    oomp_key: oomp_toka_eisos_transformers_wurthelektronik_tor_header_tht_4pin_(wide)
+    oomp_key_extra: oomp_footprint_toka_eisos_transformers_wurthelektronik_tor_header_tht_4pin_(wide)
+    oomp_key_full: oomp_footprint_toka_eisos_transformers_wurthelektronik_tor_header_tht_4pin_(wide)_b1d178
+    oomp_key_simple: toka_eisos_transformers_wurthelektronik_tor_header_tht_4pin_(wide)
     original_filename: Transformers_WurthElektronik.pretty/TOR_HEADER_THT_4PIN_(WIDE).kicad_mod
     owner_name: toka_eisos
   oomp_key: oomp_toka_eisos_transformers_wurthelektronik_tor_header_tht_4pin_(wide)
+  oomp_key_full: oomp_footprint_toka_eisos_transformers_wurthelektronik_tor_header_tht_4pin_(wide)
   oomp_key_simple: toka_eisos_transformers_wurthelektronik_tor_header_tht_4pin_(wide)
   owner: toka-eisos
   repo:

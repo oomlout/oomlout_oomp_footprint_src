@@ -17,9 +17,18 @@
   oomp:
     footprint_name: fiducial_1mm_mask3mm
     library_name: 1w_grove_v0_1
+    md5: 7e20bc55a7fd6d576e36e1237add930c
+    md5_10: 7e20bc55a7
+    md5_5: 7e20b
+    md5_6: 7e20bc
+    oomp_key: oomp_wykys_1w_grove_v0_1_fiducial_1mm_mask3mm
+    oomp_key_extra: oomp_footprint_wykys_1w_grove_v0_1_fiducial_1mm_mask3mm
+    oomp_key_full: oomp_footprint_wykys_1w_grove_v0_1_fiducial_1mm_mask3mm_7e20bc
+    oomp_key_simple: wykys_1w_grove_v0_1_fiducial_1mm_mask3mm
     original_filename: kicad/6.0/projects/1w-grove-v0.1/1w-grove-v0.1.pretty/Fiducial_1mm_Mask3mm.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_1w_grove_v0_1_fiducial_1mm_mask3mm
+  oomp_key_full: oomp_footprint_wykys_1w_grove_v0_1_fiducial_1mm_mask3mm
   oomp_key_simple: wykys_1w_grove_v0_1_fiducial_1mm_mask3mm
   owner: wykys
   repo:

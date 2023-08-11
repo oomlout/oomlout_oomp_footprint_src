@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ws2812b
     library_name: agg
+    md5: 7f6f8f62485a66ea2008dd257657ee6c
+    md5_10: 7f6f8f6248
+    md5_5: 7f6f8
+    md5_6: 7f6f8f
+    oomp_key: oomp_adamgreig_agg_ws2812b
+    oomp_key_extra: oomp_footprint_adamgreig_agg_ws2812b
+    oomp_key_full: oomp_footprint_adamgreig_agg_ws2812b_7f6f8f
+    oomp_key_simple: adamgreig_agg_ws2812b
     original_filename: agg-kicad/agg.pretty/WS2812B.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_ws2812b
+  oomp_key_full: oomp_footprint_adamgreig_agg_ws2812b
   oomp_key_simple: adamgreig_agg_ws2812b
   owner: adamgreig
   repo:

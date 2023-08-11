@@ -17,9 +17,18 @@
   oomp:
     footprint_name: do_41
     library_name: digikey_footprints
+    md5: c3d0d70a08c2104a4754487cb675af70
+    md5_10: c3d0d70a08
+    md5_5: c3d0d
+    md5_6: c3d0d7
+    oomp_key: oomp_digikey_digikey_footprints_do_41
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_do_41
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_do_41_c3d0d7
+    oomp_key_simple: digikey_digikey_footprints_do_41
     original_filename: digikey-kicad-library/digikey-footprints.pretty/DO-41.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_do_41
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_do_41
   oomp_key_simple: digikey_digikey_footprints_do_41
   owner: digikey
   repo:

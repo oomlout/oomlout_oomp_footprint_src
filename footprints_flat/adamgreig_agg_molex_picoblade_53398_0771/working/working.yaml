@@ -17,9 +17,18 @@
   oomp:
     footprint_name: molex_picoblade_53398_0771
     library_name: agg
+    md5: 23f28a54354a32a8da9fa0fb64f1febb
+    md5_10: 23f28a5435
+    md5_5: 23f28
+    md5_6: 23f28a
+    oomp_key: oomp_adamgreig_agg_molex_picoblade_53398_0771
+    oomp_key_extra: oomp_footprint_adamgreig_agg_molex_picoblade_53398_0771
+    oomp_key_full: oomp_footprint_adamgreig_agg_molex_picoblade_53398_0771_23f28a
+    oomp_key_simple: adamgreig_agg_molex_picoblade_53398_0771
     original_filename: agg-kicad/agg.pretty/MOLEX-PICOBLADE-53398-0771.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_molex_picoblade_53398_0771
+  oomp_key_full: oomp_footprint_adamgreig_agg_molex_picoblade_53398_0771
   oomp_key_simple: adamgreig_agg_molex_picoblade_53398_0771
   owner: adamgreig
   repo:

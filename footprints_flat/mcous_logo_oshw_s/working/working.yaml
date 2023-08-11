@@ -17,9 +17,18 @@
   oomp:
     footprint_name: oshw_s
     library_name: _logo
+    md5: ec2fd512863168de5c6b703fd3c7319c
+    md5_10: ec2fd51286
+    md5_5: ec2fd
+    md5_6: ec2fd5
+    oomp_key: oomp_mcous_logo_oshw_s
+    oomp_key_extra: oomp_footprint_mcous_logo_oshw_s
+    oomp_key_full: oomp_footprint_mcous_logo_oshw_s_ec2fd5
+    oomp_key_simple: mcous_logo_oshw_s
     original_filename: kicad-lib/footprints/_logo.pretty/oshw_s.kicad_mod
     owner_name: mcous
   oomp_key: oomp_mcous_logo_oshw_s
+  oomp_key_full: oomp_footprint_mcous_logo_oshw_s
   oomp_key_simple: mcous_logo_oshw_s
   owner: mcous
   repo:

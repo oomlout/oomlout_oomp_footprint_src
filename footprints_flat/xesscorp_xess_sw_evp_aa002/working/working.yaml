@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sw_evp_aa002
     library_name: xess
+    md5: 476411194ee391d1b5516bc46ae39f90
+    md5_10: 476411194e
+    md5_5: '47641'
+    md5_6: '476411'
+    oomp_key: oomp_xesscorp_xess_sw_evp_aa002
+    oomp_key_extra: oomp_footprint_xesscorp_xess_sw_evp_aa002
+    oomp_key_full: oomp_footprint_xesscorp_xess_sw_evp_aa002_476411
+    oomp_key_simple: xesscorp_xess_sw_evp_aa002
     original_filename: xess.pretty/SW_EVP-AA002.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_sw_evp_aa002
+  oomp_key_full: oomp_footprint_xesscorp_xess_sw_evp_aa002
   oomp_key_simple: xesscorp_xess_sw_evp_aa002
   owner: xesscorp
   repo:

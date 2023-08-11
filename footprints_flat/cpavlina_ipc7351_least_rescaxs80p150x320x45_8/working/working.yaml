@@ -18,9 +18,18 @@
   oomp:
     footprint_name: rescaxs80p150x320x45_8
     library_name: ipc7351_least
+    md5: dd2f476941bf5dafe6aac19ed909398b
+    md5_10: dd2f476941
+    md5_5: dd2f4
+    md5_6: dd2f47
+    oomp_key: oomp_cpavlina_ipc7351_least_rescaxs80p150x320x45_8
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_least_rescaxs80p150x320x45_8
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_least_rescaxs80p150x320x45_8_dd2f47
+    oomp_key_simple: cpavlina_ipc7351_least_rescaxs80p150x320x45_8
     original_filename: kicad-pcblib/IPC7351-Least.pretty/RESCAXS80P150X320X45-8.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_least_rescaxs80p150x320x45_8
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_least_rescaxs80p150x320x45_8
   oomp_key_simple: cpavlina_ipc7351_least_rescaxs80p150x320x45_8
   owner: cpavlina
   repo:

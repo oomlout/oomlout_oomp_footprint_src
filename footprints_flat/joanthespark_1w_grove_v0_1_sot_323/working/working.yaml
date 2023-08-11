@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sot_323
     library_name: 1w_grove_v0_1
+    md5: 3fef753d9328b009d308faa56caab2ba
+    md5_10: 3fef753d93
+    md5_5: 3fef7
+    md5_6: 3fef75
+    oomp_key: oomp_joanthespark_1w_grove_v0_1_sot_323
+    oomp_key_extra: oomp_footprint_joanthespark_1w_grove_v0_1_sot_323
+    oomp_key_full: oomp_footprint_joanthespark_1w_grove_v0_1_sot_323_3fef75
+    oomp_key_simple: joanthespark_1w_grove_v0_1_sot_323
     original_filename: KiCAD/6.0/projects/1w-grove-v0.1/1w-grove-v0.1.pretty/SOT-323.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_1w_grove_v0_1_sot_323
+  oomp_key_full: oomp_footprint_joanthespark_1w_grove_v0_1_sot_323
   oomp_key_simple: joanthespark_1w_grove_v0_1_sot_323
   owner: JoanTheSpark
   repo:

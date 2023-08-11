@@ -18,9 +18,18 @@
   oomp:
     footprint_name: jst_sh_sm07b_srss_tb_1x07_1mp_p1_00mm_horizontal
     library_name: connector_jst
+    md5: eac23807622f20032afdd54a59a35a63
+    md5_10: eac2380762
+    md5_5: eac23
+    md5_6: eac238
+    oomp_key: oomp_kicad_connector_jst_jst_sh_sm07b_srss_tb_1x07_1mp_p1_00mm_horizontal
+    oomp_key_extra: oomp_footprint_kicad_connector_jst_jst_sh_sm07b_srss_tb_1x07_1mp_p1_00mm_horizontal
+    oomp_key_full: oomp_footprint_kicad_connector_jst_jst_sh_sm07b_srss_tb_1x07_1mp_p1_00mm_horizontal_eac238
+    oomp_key_simple: kicad_connector_jst_jst_sh_sm07b_srss_tb_1x07_1mp_p1_00mm_horizontal
     original_filename: libraries/kicad-footprints/Connector_JST.pretty/JST_SH_SM07B-SRSS-TB_1x07-1MP_P1.00mm_Horizontal.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_jst_jst_sh_sm07b_srss_tb_1x07_1mp_p1_00mm_horizontal
+  oomp_key_full: oomp_footprint_kicad_connector_jst_jst_sh_sm07b_srss_tb_1x07_1mp_p1_00mm_horizontal
   oomp_key_simple: kicad_connector_jst_jst_sh_sm07b_srss_tb_1x07_1mp_p1_00mm_horizontal
   owner: kicad
   repo:

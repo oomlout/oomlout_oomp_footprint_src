@@ -19,9 +19,18 @@
   oomp:
     footprint_name: l_0201_0603metric_pad0_64x0_40mm_handsolder
     library_name: inductor_smd
+    md5: 7f8dba243136434d336d7fd097d2ce0c
+    md5_10: 7f8dba2431
+    md5_5: 7f8db
+    md5_6: 7f8dba
+    oomp_key: oomp_kicad_inductor_smd_l_0201_0603metric_pad0_64x0_40mm_handsolder
+    oomp_key_extra: oomp_footprint_kicad_inductor_smd_l_0201_0603metric_pad0_64x0_40mm_handsolder
+    oomp_key_full: oomp_footprint_kicad_inductor_smd_l_0201_0603metric_pad0_64x0_40mm_handsolder_7f8dba
+    oomp_key_simple: kicad_inductor_smd_l_0201_0603metric_pad0_64x0_40mm_handsolder
     original_filename: libraries/kicad-footprints/Inductor_SMD.pretty/L_0201_0603Metric_Pad0.64x0.40mm_HandSolder.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_inductor_smd_l_0201_0603metric_pad0_64x0_40mm_handsolder
+  oomp_key_full: oomp_footprint_kicad_inductor_smd_l_0201_0603metric_pad0_64x0_40mm_handsolder
   oomp_key_simple: kicad_inductor_smd_l_0201_0603metric_pad0_64x0_40mm_handsolder
   owner: kicad
   repo:

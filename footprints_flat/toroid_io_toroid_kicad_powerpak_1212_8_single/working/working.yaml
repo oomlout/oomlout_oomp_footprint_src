@@ -17,9 +17,18 @@
   oomp:
     footprint_name: powerpak_1212_8_single
     library_name: toroid_kicad
+    md5: 6e45a0581a0e09a5d7925daf68a5884a
+    md5_10: 6e45a0581a
+    md5_5: 6e45a
+    md5_6: 6e45a0
+    oomp_key: oomp_toroid_io_toroid_kicad_powerpak_1212_8_single
+    oomp_key_extra: oomp_footprint_toroid_io_toroid_kicad_powerpak_1212_8_single
+    oomp_key_full: oomp_footprint_toroid_io_toroid_kicad_powerpak_1212_8_single_6e45a0
+    oomp_key_simple: toroid_io_toroid_kicad_powerpak_1212_8_single
     original_filename: toroid-kicad.pretty/PowerPAK_1212-8_Single.kicad_mod
     owner_name: toroid_io
   oomp_key: oomp_toroid_io_toroid_kicad_powerpak_1212_8_single
+  oomp_key_full: oomp_footprint_toroid_io_toroid_kicad_powerpak_1212_8_single
   oomp_key_simple: toroid_io_toroid_kicad_powerpak_1212_8_single
   owner: Toroid-io
   repo:

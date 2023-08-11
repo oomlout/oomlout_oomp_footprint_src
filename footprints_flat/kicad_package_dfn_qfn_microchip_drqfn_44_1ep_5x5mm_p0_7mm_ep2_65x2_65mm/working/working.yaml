@@ -17,9 +17,18 @@
   oomp:
     footprint_name: microchip_drqfn_44_1ep_5x5mm_p0_7mm_ep2_65x2_65mm
     library_name: package_dfn_qfn
+    md5: 79f4552a1320ec72d441bb4d687ab3c9
+    md5_10: 79f4552a13
+    md5_5: 79f45
+    md5_6: 79f455
+    oomp_key: oomp_kicad_package_dfn_qfn_microchip_drqfn_44_1ep_5x5mm_p0_7mm_ep2_65x2_65mm
+    oomp_key_extra: oomp_footprint_kicad_package_dfn_qfn_microchip_drqfn_44_1ep_5x5mm_p0_7mm_ep2_65x2_65mm
+    oomp_key_full: oomp_footprint_kicad_package_dfn_qfn_microchip_drqfn_44_1ep_5x5mm_p0_7mm_ep2_65x2_65mm_79f455
+    oomp_key_simple: kicad_package_dfn_qfn_microchip_drqfn_44_1ep_5x5mm_p0_7mm_ep2_65x2_65mm
     original_filename: libraries/kicad-footprints/Package_DFN_QFN.pretty/Microchip_DRQFN-44-1EP_5x5mm_P0.7mm_EP2.65x2.65mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_dfn_qfn_microchip_drqfn_44_1ep_5x5mm_p0_7mm_ep2_65x2_65mm
+  oomp_key_full: oomp_footprint_kicad_package_dfn_qfn_microchip_drqfn_44_1ep_5x5mm_p0_7mm_ep2_65x2_65mm
   oomp_key_simple: kicad_package_dfn_qfn_microchip_drqfn_44_1ep_5x5mm_p0_7mm_ep2_65x2_65mm
   owner: kicad
   repo:

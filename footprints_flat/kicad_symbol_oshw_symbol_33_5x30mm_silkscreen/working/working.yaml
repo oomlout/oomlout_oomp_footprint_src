@@ -17,9 +17,18 @@
   oomp:
     footprint_name: oshw_symbol_33_5x30mm_silkscreen
     library_name: symbol
+    md5: a4a6f6e4766bb1ed6e5ca40b355bdc8d
+    md5_10: a4a6f6e476
+    md5_5: a4a6f
+    md5_6: a4a6f6
+    oomp_key: oomp_kicad_symbol_oshw_symbol_33_5x30mm_silkscreen
+    oomp_key_extra: oomp_footprint_kicad_symbol_oshw_symbol_33_5x30mm_silkscreen
+    oomp_key_full: oomp_footprint_kicad_symbol_oshw_symbol_33_5x30mm_silkscreen_a4a6f6
+    oomp_key_simple: kicad_symbol_oshw_symbol_33_5x30mm_silkscreen
     original_filename: libraries/kicad-footprints/Symbol.pretty/OSHW-Symbol_33.5x30mm_SilkScreen.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_symbol_oshw_symbol_33_5x30mm_silkscreen
+  oomp_key_full: oomp_footprint_kicad_symbol_oshw_symbol_33_5x30mm_silkscreen
   oomp_key_simple: kicad_symbol_oshw_symbol_33_5x30mm_silkscreen
   owner: kicad
   repo:

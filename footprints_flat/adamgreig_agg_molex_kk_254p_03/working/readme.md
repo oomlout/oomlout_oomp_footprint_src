@@ -19,8 +19,9 @@ Please consult that link for additional, details, files, and license information
 | github_path | http://github.com/adamgreig/agg-kicad/blob/master/agg.pretty/MOLEX-KK-254P-03.kicad_mod |  
 | links | {'github_src': 'http://gitlab.com/adamgreig/agg-kicad/blob/master/agg.pretty/unchecked.pretty/XTAL50x32.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/adamgreig_agg_molex_kk_254p_03/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/adamgreig_agg_molex_kk_254p_03/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/adamgreig_agg_molex_kk_254p_03/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/adamgreig_agg_molex_kk_254p_03/working'} |  
 | name | agg-kicad |  
-| oomp | {'footprint_name': 'molex_kk_254p_03', 'library_name': 'agg', 'original_filename': 'agg-kicad/agg.pretty/MOLEX-KK-254P-03.kicad_mod', 'owner_name': 'adamgreig'} |  
+| oomp | {'footprint_name': 'molex_kk_254p_03', 'library_name': 'agg', 'md5': 'b07f5fbd9ef0769d3041f0ac8ca526b5', 'md5_10': 'b07f5fbd9e', 'md5_5': 'b07f5', 'md5_6': 'b07f5f', 'oomp_key': 'oomp_adamgreig_agg_molex_kk_254p_03', 'oomp_key_extra': 'oomp_footprint_adamgreig_agg_molex_kk_254p_03', 'oomp_key_full': 'oomp_footprint_adamgreig_agg_molex_kk_254p_03_b07f5f', 'oomp_key_simple': 'adamgreig_agg_molex_kk_254p_03', 'original_filename': 'agg-kicad/agg.pretty/MOLEX-KK-254P-03.kicad_mod', 'owner_name': 'adamgreig'} |  
 | oomp_key | oomp_adamgreig_agg_molex_kk_254p_03 |  
+| oomp_key_full | oomp_footprint_adamgreig_agg_molex_kk_254p_03 |  
 | oomp_key_simple | adamgreig_agg_molex_kk_254p_03 |  
 | owner | adamgreig |  
 | repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sop_4_w3_81mm
     library_name: digikey_footprints
+    md5: dc8b93c5fcf87e505b452b7fdc436c2d
+    md5_10: dc8b93c5fc
+    md5_5: dc8b9
+    md5_6: dc8b93
+    oomp_key: oomp_digikey_digikey_footprints_sop_4_w3_81mm
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_sop_4_w3_81mm
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_sop_4_w3_81mm_dc8b93
+    oomp_key_simple: digikey_digikey_footprints_sop_4_w3_81mm
     original_filename: digikey-kicad-library/digikey-footprints.pretty/SOP-4_W3.81mm.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_sop_4_w3_81mm
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_sop_4_w3_81mm
   oomp_key_simple: digikey_digikey_footprints_sop_4_w3_81mm
   owner: digikey
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: r_0603
     library_name: keebio_parts
+    md5: b586a630aa5e6cc4d410c818f28c19ae
+    md5_10: b586a630aa
+    md5_5: b586a
+    md5_6: b586a6
+    oomp_key: oomp_keebio_keebio_parts_r_0603
+    oomp_key_extra: oomp_footprint_keebio_keebio_parts_r_0603
+    oomp_key_full: oomp_footprint_keebio_keebio_parts_r_0603_b586a6
+    oomp_key_simple: keebio_keebio_parts_r_0603
     original_filename: Keebio-Parts.pretty/R_0603.kicad_mod
     owner_name: keebio
   oomp_key: oomp_keebio_keebio_parts_r_0603
+  oomp_key_full: oomp_footprint_keebio_keebio_parts_r_0603
   oomp_key_simple: keebio_keebio_parts_r_0603
   owner: keebio
   repo:

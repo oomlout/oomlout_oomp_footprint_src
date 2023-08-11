@@ -19,9 +19,18 @@
   oomp:
     footprint_name: c_0805_2012metric
     library_name: 1wire_v0_4
+    md5: b351b3f057c403b4b664a46dd80a2f90
+    md5_10: b351b3f057
+    md5_5: b351b
+    md5_6: b351b3
+    oomp_key: oomp_joanthespark_1wire_v0_4_c_0805_2012metric
+    oomp_key_extra: oomp_footprint_joanthespark_1wire_v0_4_c_0805_2012metric
+    oomp_key_full: oomp_footprint_joanthespark_1wire_v0_4_c_0805_2012metric_b351b3
+    oomp_key_simple: joanthespark_1wire_v0_4_c_0805_2012metric
     original_filename: KiCAD/6.0/projects/1w-grove-v0.1/1wire-v0.4.pretty/C_0805_2012Metric.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_1wire_v0_4_c_0805_2012metric
+  oomp_key_full: oomp_footprint_joanthespark_1wire_v0_4_c_0805_2012metric
   oomp_key_simple: joanthespark_1wire_v0_4_c_0805_2012metric
   owner: JoanTheSpark
   repo:

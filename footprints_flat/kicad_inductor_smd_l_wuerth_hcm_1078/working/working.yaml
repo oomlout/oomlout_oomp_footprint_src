@@ -17,9 +17,18 @@
   oomp:
     footprint_name: l_wuerth_hcm_1078
     library_name: inductor_smd
+    md5: bf9b4ac88be03b3811ae34203a2664d5
+    md5_10: bf9b4ac88b
+    md5_5: bf9b4
+    md5_6: bf9b4a
+    oomp_key: oomp_kicad_inductor_smd_l_wuerth_hcm_1078
+    oomp_key_extra: oomp_footprint_kicad_inductor_smd_l_wuerth_hcm_1078
+    oomp_key_full: oomp_footprint_kicad_inductor_smd_l_wuerth_hcm_1078_bf9b4a
+    oomp_key_simple: kicad_inductor_smd_l_wuerth_hcm_1078
     original_filename: libraries/kicad-footprints/Inductor_SMD.pretty/L_Wuerth_HCM-1078.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_inductor_smd_l_wuerth_hcm_1078
+  oomp_key_full: oomp_footprint_kicad_inductor_smd_l_wuerth_hcm_1078
   oomp_key_simple: kicad_inductor_smd_l_wuerth_hcm_1078
   owner: kicad
   repo:

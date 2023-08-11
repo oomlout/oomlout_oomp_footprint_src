@@ -17,9 +17,18 @@
   oomp:
     footprint_name: transformer_chk_ei30_2va_2xsec
     library_name: transformer_tht
+    md5: 80886cddc43a9e21b36dcd1468396def
+    md5_10: 80886cddc4
+    md5_5: '80886'
+    md5_6: 80886c
+    oomp_key: oomp_kicad_transformer_tht_transformer_chk_ei30_2va_2xsec
+    oomp_key_extra: oomp_footprint_kicad_transformer_tht_transformer_chk_ei30_2va_2xsec
+    oomp_key_full: oomp_footprint_kicad_transformer_tht_transformer_chk_ei30_2va_2xsec_80886c
+    oomp_key_simple: kicad_transformer_tht_transformer_chk_ei30_2va_2xsec
     original_filename: libraries/kicad-footprints/Transformer_THT.pretty/Transformer_CHK_EI30-2VA_2xSec.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_transformer_tht_transformer_chk_ei30_2va_2xsec
+  oomp_key_full: oomp_footprint_kicad_transformer_tht_transformer_chk_ei30_2va_2xsec
   oomp_key_simple: kicad_transformer_tht_transformer_chk_ei30_2va_2xsec
   owner: kicad
   repo:

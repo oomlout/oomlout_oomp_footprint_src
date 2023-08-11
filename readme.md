@@ -5,9 +5,10 @@
 
 ### oomp_key
 
-* oomp_key -- {oomp}_{owner}_{library}_{footprint_name} 
-* oomp_key_extra -- {oomp}_footprint_{owner}_{library}_{footprint_name} 
-* oomp_key_full -- {oomp}_{owner}_{library}_{footprint_name}_{md5_6}
+* oomp_key -- oomp{owner}{library}{footprint_name} 
+* oomp_key_extra -- oomp_footprint{owner}{library}{footprint_name} 
+* oomp_key_full -- oomp_footprint{owner}{library}{footprint_name}{md5_6}
+* oomp_key_simple -- {owner}{library}{footprint_name}  
 
 ## actions
 

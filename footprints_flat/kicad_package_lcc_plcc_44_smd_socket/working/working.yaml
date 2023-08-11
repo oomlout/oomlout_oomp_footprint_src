@@ -17,9 +17,18 @@
   oomp:
     footprint_name: plcc_44_smd_socket
     library_name: package_lcc
+    md5: 1ec396e5f52f321fd5193cd9883e3941
+    md5_10: 1ec396e5f5
+    md5_5: 1ec39
+    md5_6: 1ec396
+    oomp_key: oomp_kicad_package_lcc_plcc_44_smd_socket
+    oomp_key_extra: oomp_footprint_kicad_package_lcc_plcc_44_smd_socket
+    oomp_key_full: oomp_footprint_kicad_package_lcc_plcc_44_smd_socket_1ec396
+    oomp_key_simple: kicad_package_lcc_plcc_44_smd_socket
     original_filename: libraries/kicad-footprints/Package_LCC.pretty/PLCC-44_SMD-Socket.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_lcc_plcc_44_smd_socket
+  oomp_key_full: oomp_footprint_kicad_package_lcc_plcc_44_smd_socket
   oomp_key_simple: kicad_package_lcc_plcc_44_smd_socket
   owner: kicad
   repo:

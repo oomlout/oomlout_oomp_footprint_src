@@ -16,10 +16,19 @@
   oomp:
     footprint_name: '66201111122'
     library_name: heder_box
+    md5: 3684f7541c5fdf19601bd98461ef7feb
+    md5_10: 3684f7541c
+    md5_5: 3684f
+    md5_6: 3684f7
+    oomp_key: oomp_electroniccats_heder_box_66201111122
+    oomp_key_extra: oomp_footprint_electroniccats_heder_box_66201111122
+    oomp_key_full: oomp_footprint_electroniccats_heder_box_66201111122_3684f7
+    oomp_key_simple: electroniccats_heder_box_66201111122
     original_filename: ComponentLibrariesKicadWurthElektronik/WIRE-TO-BOARD(rev17b)/heder
       box.pretty/66201111122.kicad_mod
     owner_name: electroniccats
   oomp_key: oomp_electroniccats_heder_box_66201111122
+  oomp_key_full: oomp_footprint_electroniccats_heder_box_66201111122
   oomp_key_simple: electroniccats_heder_box_66201111122
   owner: ElectronicCats
   repo:

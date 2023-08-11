@@ -18,9 +18,18 @@
   oomp:
     footprint_name: fuseholder_clip_5x20mm_bel_fc_203_22_lateral_p17_80x5_00mm_d1_17mm_horizontal
     library_name: fuse
+    md5: 542b117b7965dbd7af3c67b95c869c5b
+    md5_10: 542b117b79
+    md5_5: 542b1
+    md5_6: 542b11
+    oomp_key: oomp_kicad_fuse_fuseholder_clip_5x20mm_bel_fc_203_22_lateral_p17_80x5_00mm_d1_17mm_horizontal
+    oomp_key_extra: oomp_footprint_kicad_fuse_fuseholder_clip_5x20mm_bel_fc_203_22_lateral_p17_80x5_00mm_d1_17mm_horizontal
+    oomp_key_full: oomp_footprint_kicad_fuse_fuseholder_clip_5x20mm_bel_fc_203_22_lateral_p17_80x5_00mm_d1_17mm_horizontal_542b11
+    oomp_key_simple: kicad_fuse_fuseholder_clip_5x20mm_bel_fc_203_22_lateral_p17_80x5_00mm_d1_17mm_horizontal
     original_filename: libraries/kicad-footprints/Fuse.pretty/Fuseholder_Clip-5x20mm_Bel_FC-203-22_Lateral_P17.80x5.00mm_D1.17mm_Horizontal.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_fuse_fuseholder_clip_5x20mm_bel_fc_203_22_lateral_p17_80x5_00mm_d1_17mm_horizontal
+  oomp_key_full: oomp_footprint_kicad_fuse_fuseholder_clip_5x20mm_bel_fc_203_22_lateral_p17_80x5_00mm_d1_17mm_horizontal
   oomp_key_simple: kicad_fuse_fuseholder_clip_5x20mm_bel_fc_203_22_lateral_p17_80x5_00mm_d1_17mm_horizontal
   owner: kicad
   repo:

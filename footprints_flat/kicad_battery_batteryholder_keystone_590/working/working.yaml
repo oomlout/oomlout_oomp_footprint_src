@@ -17,9 +17,18 @@
   oomp:
     footprint_name: batteryholder_keystone_590
     library_name: battery
+    md5: 5f9445d42d5a49b6e5597cdb3cd2fcce
+    md5_10: 5f9445d42d
+    md5_5: 5f944
+    md5_6: 5f9445
+    oomp_key: oomp_kicad_battery_batteryholder_keystone_590
+    oomp_key_extra: oomp_footprint_kicad_battery_batteryholder_keystone_590
+    oomp_key_full: oomp_footprint_kicad_battery_batteryholder_keystone_590_5f9445
+    oomp_key_simple: kicad_battery_batteryholder_keystone_590
     original_filename: libraries/kicad-footprints/Battery.pretty/BatteryHolder_Keystone_590.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_battery_batteryholder_keystone_590
+  oomp_key_full: oomp_footprint_kicad_battery_batteryholder_keystone_590
   oomp_key_simple: kicad_battery_batteryholder_keystone_590
   owner: kicad
   repo:

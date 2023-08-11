@@ -17,9 +17,18 @@
   oomp:
     footprint_name: mpcie_socket
     library_name: crumpprints
+    md5: 9920278242384ee7563d2059546bc17c
+    md5_10: '9920278242'
+    md5_5: '99202'
+    md5_6: '992027'
+    oomp_key: oomp_tylercrumpton_crumpprints_mpcie_socket
+    oomp_key_extra: oomp_footprint_tylercrumpton_crumpprints_mpcie_socket
+    oomp_key_full: oomp_footprint_tylercrumpton_crumpprints_mpcie_socket_992027
+    oomp_key_simple: tylercrumpton_crumpprints_mpcie_socket
     original_filename: CrumpPrints.pretty/MPCIe_socket.kicad_mod
     owner_name: tylercrumpton
   oomp_key: oomp_tylercrumpton_crumpprints_mpcie_socket
+  oomp_key_full: oomp_footprint_tylercrumpton_crumpprints_mpcie_socket
   oomp_key_simple: tylercrumpton_crumpprints_mpcie_socket
   owner: tylercrumpton
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: cp_elec_6_3x11_board_edge_mirrored
     library_name: footprints
+    md5: 6fbb12e18db830bb8a7401b242c72d8b
+    md5_10: 6fbb12e18d
+    md5_5: 6fbb1
+    md5_6: 6fbb12
+    oomp_key: oomp_wykys_footprints_cp_elec_6_3x11_board_edge_mirrored
+    oomp_key_extra: oomp_footprint_wykys_footprints_cp_elec_6_3x11_board_edge_mirrored
+    oomp_key_full: oomp_footprint_wykys_footprints_cp_elec_6_3x11_board_edge_mirrored_6fbb12
+    oomp_key_simple: wykys_footprints_cp_elec_6_3x11_board_edge_mirrored
     original_filename: kicad/demos/stickhub/footprints.pretty/CP_Elec_6.3x11_Board_Edge_Mirrored.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_footprints_cp_elec_6_3x11_board_edge_mirrored
+  oomp_key_full: oomp_footprint_wykys_footprints_cp_elec_6_3x11_board_edge_mirrored
   oomp_key_simple: wykys_footprints_cp_elec_6_3x11_board_edge_mirrored
   owner: wykys
   repo:

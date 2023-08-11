@@ -17,9 +17,18 @@
   oomp:
     footprint_name: kf301_2p
     library_name: kicadparts
+    md5: 96fa68b70add49eef4dc4b69b0e3f5e1
+    md5_10: 96fa68b70a
+    md5_5: 96fa6
+    md5_6: 96fa68
+    oomp_key: oomp_svarmo_kicadparts_kf301_2p
+    oomp_key_extra: oomp_footprint_svarmo_kicadparts_kf301_2p
+    oomp_key_full: oomp_footprint_svarmo_kicadparts_kf301_2p_96fa68
+    oomp_key_simple: svarmo_kicadparts_kf301_2p
     original_filename: kicadParts.pretty/KF301-2P.kicad_mod
     owner_name: svarmo
   oomp_key: oomp_svarmo_kicadparts_kf301_2p
+  oomp_key_full: oomp_footprint_svarmo_kicadparts_kf301_2p
   oomp_key_simple: svarmo_kicadparts_kf301_2p
   owner: svarmo
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: to_92
     library_name: pth_semi
+    md5: 725aec1563d48205099d97ad0070e983
+    md5_10: 725aec1563
+    md5_5: 725ae
+    md5_6: 725aec
+    oomp_key: oomp_cpavlina_pth_semi_to_92
+    oomp_key_extra: oomp_footprint_cpavlina_pth_semi_to_92
+    oomp_key_full: oomp_footprint_cpavlina_pth_semi_to_92_725aec
+    oomp_key_simple: cpavlina_pth_semi_to_92
     original_filename: kicad-pcblib/pth-semi.pretty/TO-92.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_pth_semi_to_92
+  oomp_key_full: oomp_footprint_cpavlina_pth_semi_to_92
   oomp_key_simple: cpavlina_pth_semi_to_92
   owner: cpavlina
   repo:

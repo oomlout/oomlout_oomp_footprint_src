@@ -17,9 +17,18 @@
   oomp:
     footprint_name: resistor
     library_name: keebio_parts
+    md5: 7035f3a4704c56a5fa88f9d18772df92
+    md5_10: 7035f3a470
+    md5_5: 7035f
+    md5_6: 7035f3
+    oomp_key: oomp_keebio_keebio_parts_resistor
+    oomp_key_extra: oomp_footprint_keebio_keebio_parts_resistor
+    oomp_key_full: oomp_footprint_keebio_keebio_parts_resistor_7035f3
+    oomp_key_simple: keebio_keebio_parts_resistor
     original_filename: Keebio-Parts.pretty/Resistor.kicad_mod
     owner_name: keebio
   oomp_key: oomp_keebio_keebio_parts_resistor
+  oomp_key_full: oomp_footprint_keebio_keebio_parts_resistor
   oomp_key_simple: keebio_keebio_parts_resistor
   owner: keebio
   repo:

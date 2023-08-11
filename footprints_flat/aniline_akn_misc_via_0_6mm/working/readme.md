@@ -19,8 +19,9 @@ Please consult that link for additional, details, files, and license information
 | github_path | http://github.com/aniline/akn_misc.pretty/blob/master/VIA_0.6mm.kicad_mod |  
 | links | {'github_src': 'http://gitlab.com/aniline/akn_misc.pretty/blob/master/WOM_BRIDGE.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/aniline_akn_misc_via_0_6mm/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/aniline_akn_misc_via_0_6mm/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/aniline_akn_misc_via_0_6mm/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/aniline_akn_misc_via_0_6mm/working'} |  
 | name | akn_misc.pretty |  
-| oomp | {'footprint_name': 'via_0_6mm', 'library_name': 'akn_misc', 'original_filename': 'akn_misc.pretty/VIA_0.6mm.kicad_mod', 'owner_name': 'aniline'} |  
+| oomp | {'footprint_name': 'via_0_6mm', 'library_name': 'akn_misc', 'md5': '1fffceb2bf44268dc513d4184723af1e', 'md5_10': '1fffceb2bf', 'md5_5': '1fffc', 'md5_6': '1fffce', 'oomp_key': 'oomp_aniline_akn_misc_via_0_6mm', 'oomp_key_extra': 'oomp_footprint_aniline_akn_misc_via_0_6mm', 'oomp_key_full': 'oomp_footprint_aniline_akn_misc_via_0_6mm_1fffce', 'oomp_key_simple': 'aniline_akn_misc_via_0_6mm', 'original_filename': 'akn_misc.pretty/VIA_0.6mm.kicad_mod', 'owner_name': 'aniline'} |  
 | oomp_key | oomp_aniline_akn_misc_via_0_6mm |  
+| oomp_key_full | oomp_footprint_aniline_akn_misc_via_0_6mm |  
 | oomp_key_simple | aniline_akn_misc_via_0_6mm |  
 | owner | aniline |  
 | repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  

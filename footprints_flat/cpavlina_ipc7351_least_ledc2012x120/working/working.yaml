@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ledc2012x120
     library_name: ipc7351_least
+    md5: 7bea587a1f703a726de6d6050f53f9d4
+    md5_10: 7bea587a1f
+    md5_5: 7bea5
+    md5_6: 7bea58
+    oomp_key: oomp_cpavlina_ipc7351_least_ledc2012x120
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_least_ledc2012x120
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_least_ledc2012x120_7bea58
+    oomp_key_simple: cpavlina_ipc7351_least_ledc2012x120
     original_filename: kicad-pcblib/IPC7351-Least.pretty/LEDC2012X120.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_least_ledc2012x120
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_least_ledc2012x120
   oomp_key_simple: cpavlina_ipc7351_least_ledc2012x120
   owner: cpavlina
   repo:

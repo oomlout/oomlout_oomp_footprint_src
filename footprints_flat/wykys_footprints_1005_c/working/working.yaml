@@ -17,9 +17,18 @@
   oomp:
     footprint_name: 1005_c
     library_name: footprints
+    md5: d567841ae26ed710ade53c41bbeb77e6
+    md5_10: d567841ae2
+    md5_5: d5678
+    md5_6: d56784
+    oomp_key: oomp_wykys_footprints_1005_c
+    oomp_key_extra: oomp_footprint_wykys_footprints_1005_c
+    oomp_key_full: oomp_footprint_wykys_footprints_1005_c_d56784
+    oomp_key_simple: wykys_footprints_1005_c
     original_filename: kicad/demos/stickhub/footprints.pretty/1005_C.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_footprints_1005_c
+  oomp_key_full: oomp_footprint_wykys_footprints_1005_c
   oomp_key_simple: wykys_footprints_1005_c
   owner: wykys
   repo:

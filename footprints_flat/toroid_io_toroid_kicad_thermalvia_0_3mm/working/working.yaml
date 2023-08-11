@@ -17,9 +17,18 @@
   oomp:
     footprint_name: thermalvia_0_3mm
     library_name: toroid_kicad
+    md5: 72da8906bf1d3c9c92e8ff2dae55cb8c
+    md5_10: 72da8906bf
+    md5_5: 72da8
+    md5_6: 72da89
+    oomp_key: oomp_toroid_io_toroid_kicad_thermalvia_0_3mm
+    oomp_key_extra: oomp_footprint_toroid_io_toroid_kicad_thermalvia_0_3mm
+    oomp_key_full: oomp_footprint_toroid_io_toroid_kicad_thermalvia_0_3mm_72da89
+    oomp_key_simple: toroid_io_toroid_kicad_thermalvia_0_3mm
     original_filename: toroid-kicad.pretty/ThermalVia_0.3mm.kicad_mod
     owner_name: toroid_io
   oomp_key: oomp_toroid_io_toroid_kicad_thermalvia_0_3mm
+  oomp_key_full: oomp_footprint_toroid_io_toroid_kicad_thermalvia_0_3mm
   oomp_key_simple: toroid_io_toroid_kicad_thermalvia_0_3mm
   owner: Toroid-io
   repo:

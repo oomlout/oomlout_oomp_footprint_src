@@ -17,9 +17,18 @@
   oomp:
     footprint_name: hamlin_he3600
     library_name: manuf
+    md5: 718b57a70a0c89162b5e96a4549adc0e
+    md5_10: 718b57a70a
+    md5_5: 718b5
+    md5_6: 718b57
+    oomp_key: oomp_cpavlina_manuf_hamlin_he3600
+    oomp_key_extra: oomp_footprint_cpavlina_manuf_hamlin_he3600
+    oomp_key_full: oomp_footprint_cpavlina_manuf_hamlin_he3600_718b57
+    oomp_key_simple: cpavlina_manuf_hamlin_he3600
     original_filename: kicad-pcblib/manuf.pretty/HAMLIN-HE3600.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_manuf_hamlin_he3600
+  oomp_key_full: oomp_footprint_cpavlina_manuf_hamlin_he3600
   oomp_key_simple: cpavlina_manuf_hamlin_he3600
   owner: cpavlina
   repo:

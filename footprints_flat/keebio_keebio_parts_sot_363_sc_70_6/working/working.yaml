@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sot_363_sc_70_6
     library_name: keebio_parts
+    md5: dc51845af1f49b312c9c1a73ae06a70d
+    md5_10: dc51845af1
+    md5_5: dc518
+    md5_6: dc5184
+    oomp_key: oomp_keebio_keebio_parts_sot_363_sc_70_6
+    oomp_key_extra: oomp_footprint_keebio_keebio_parts_sot_363_sc_70_6
+    oomp_key_full: oomp_footprint_keebio_keebio_parts_sot_363_sc_70_6_dc5184
+    oomp_key_simple: keebio_keebio_parts_sot_363_sc_70_6
     original_filename: Keebio-Parts.pretty/SOT-363_SC-70-6.kicad_mod
     owner_name: keebio
   oomp_key: oomp_keebio_keebio_parts_sot_363_sc_70_6
+  oomp_key_full: oomp_footprint_keebio_keebio_parts_sot_363_sc_70_6
   oomp_key_simple: keebio_keebio_parts_sot_363_sc_70_6
   owner: keebio
   repo:

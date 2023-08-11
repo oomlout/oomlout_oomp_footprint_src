@@ -18,9 +18,18 @@
   oomp:
     footprint_name: tsop_i_40_18_4x10mm_p0_5mm
     library_name: package_so
+    md5: 5992163187374323daa05a864f563039
+    md5_10: '5992163187'
+    md5_5: '59921'
+    md5_6: '599216'
+    oomp_key: oomp_kicad_package_so_tsop_i_40_18_4x10mm_p0_5mm
+    oomp_key_extra: oomp_footprint_kicad_package_so_tsop_i_40_18_4x10mm_p0_5mm
+    oomp_key_full: oomp_footprint_kicad_package_so_tsop_i_40_18_4x10mm_p0_5mm_599216
+    oomp_key_simple: kicad_package_so_tsop_i_40_18_4x10mm_p0_5mm
     original_filename: libraries/kicad-footprints/Package_SO.pretty/TSOP-I-40_18.4x10mm_P0.5mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_so_tsop_i_40_18_4x10mm_p0_5mm
+  oomp_key_full: oomp_footprint_kicad_package_so_tsop_i_40_18_4x10mm_p0_5mm
   oomp_key_simple: kicad_package_so_tsop_i_40_18_4x10mm_p0_5mm
   owner: kicad
   repo:

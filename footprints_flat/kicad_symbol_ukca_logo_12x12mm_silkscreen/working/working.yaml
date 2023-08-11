@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ukca_logo_12x12mm_silkscreen
     library_name: symbol
+    md5: 90f1405659b8ce5b3914c81aa0d03ad7
+    md5_10: 90f1405659
+    md5_5: 90f14
+    md5_6: 90f140
+    oomp_key: oomp_kicad_symbol_ukca_logo_12x12mm_silkscreen
+    oomp_key_extra: oomp_footprint_kicad_symbol_ukca_logo_12x12mm_silkscreen
+    oomp_key_full: oomp_footprint_kicad_symbol_ukca_logo_12x12mm_silkscreen_90f140
+    oomp_key_simple: kicad_symbol_ukca_logo_12x12mm_silkscreen
     original_filename: libraries/kicad-footprints/Symbol.pretty/UKCA-Logo_12x12mm_SilkScreen.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_symbol_ukca_logo_12x12mm_silkscreen
+  oomp_key_full: oomp_footprint_kicad_symbol_ukca_logo_12x12mm_silkscreen
   oomp_key_simple: kicad_symbol_ukca_logo_12x12mm_silkscreen
   owner: kicad
   repo:

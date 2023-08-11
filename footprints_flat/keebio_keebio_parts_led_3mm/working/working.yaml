@@ -17,9 +17,18 @@
   oomp:
     footprint_name: led_3mm
     library_name: keebio_parts
+    md5: 8b371d8cdf39352839e28f808b12692c
+    md5_10: 8b371d8cdf
+    md5_5: 8b371
+    md5_6: 8b371d
+    oomp_key: oomp_keebio_keebio_parts_led_3mm
+    oomp_key_extra: oomp_footprint_keebio_keebio_parts_led_3mm
+    oomp_key_full: oomp_footprint_keebio_keebio_parts_led_3mm_8b371d
+    oomp_key_simple: keebio_keebio_parts_led_3mm
     original_filename: Keebio-Parts.pretty/LED_3mm.kicad_mod
     owner_name: keebio
   oomp_key: oomp_keebio_keebio_parts_led_3mm
+  oomp_key_full: oomp_footprint_keebio_keebio_parts_led_3mm
   oomp_key_simple: keebio_keebio_parts_led_3mm
   owner: keebio
   repo:

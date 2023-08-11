@@ -18,9 +18,18 @@
   oomp:
     footprint_name: rj45_wuerth_7499010001a_horizontal
     library_name: connector_rj
+    md5: 5a8bd144a64ba5deda50769d984bb9cb
+    md5_10: 5a8bd144a6
+    md5_5: 5a8bd
+    md5_6: 5a8bd1
+    oomp_key: oomp_kicad_connector_rj_rj45_wuerth_7499010001a_horizontal
+    oomp_key_extra: oomp_footprint_kicad_connector_rj_rj45_wuerth_7499010001a_horizontal
+    oomp_key_full: oomp_footprint_kicad_connector_rj_rj45_wuerth_7499010001a_horizontal_5a8bd1
+    oomp_key_simple: kicad_connector_rj_rj45_wuerth_7499010001a_horizontal
     original_filename: libraries/kicad-footprints/Connector_RJ.pretty/RJ45_Wuerth_7499010001A_Horizontal.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_rj_rj45_wuerth_7499010001a_horizontal
+  oomp_key_full: oomp_footprint_kicad_connector_rj_rj45_wuerth_7499010001a_horizontal
   oomp_key_simple: kicad_connector_rj_rj45_wuerth_7499010001a_horizontal
   owner: kicad
   repo:

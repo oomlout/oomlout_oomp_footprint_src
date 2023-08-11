@@ -18,9 +18,18 @@
   oomp:
     footprint_name: qfn_32_1ep_5x5mm_pitch0_5mm_thermalvias
     library_name: primarypoints
+    md5: 236eefef692f6dbafa354f824aefc9c1
+    md5_10: 236eefef69
+    md5_5: 236ee
+    md5_6: 236eef
+    oomp_key: oomp_zanekaminski_primarypoints_qfn_32_1ep_5x5mm_pitch0_5mm_thermalvias
+    oomp_key_extra: oomp_footprint_zanekaminski_primarypoints_qfn_32_1ep_5x5mm_pitch0_5mm_thermalvias
+    oomp_key_full: oomp_footprint_zanekaminski_primarypoints_qfn_32_1ep_5x5mm_pitch0_5mm_thermalvias_236eef
+    oomp_key_simple: zanekaminski_primarypoints_qfn_32_1ep_5x5mm_pitch0_5mm_thermalvias
     original_filename: primarypoints.pretty/QFN-32-1EP_5x5mm_Pitch0.5mm_ThermalVias.kicad_mod
     owner_name: zanekaminski
   oomp_key: oomp_zanekaminski_primarypoints_qfn_32_1ep_5x5mm_pitch0_5mm_thermalvias
+  oomp_key_full: oomp_footprint_zanekaminski_primarypoints_qfn_32_1ep_5x5mm_pitch0_5mm_thermalvias
   oomp_key_simple: zanekaminski_primarypoints_qfn_32_1ep_5x5mm_pitch0_5mm_thermalvias
   owner: ZaneKaminski
   repo:

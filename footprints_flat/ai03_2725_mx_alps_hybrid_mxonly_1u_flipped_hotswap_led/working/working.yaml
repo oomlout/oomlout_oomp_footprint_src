@@ -16,10 +16,19 @@
   name: MX_Alps_Hybrid.pretty
   oomp:
     footprint_name: mxonly_1u_flipped_hotswap_led
-    library_name: mx_only
+    library_name: mx_alps_hybrid
+    md5: c8210c1650b1f8de23fbffd37d51ef45
+    md5_10: c8210c1650
+    md5_5: c8210
+    md5_6: c8210c
+    oomp_key: oomp_ai03_2725_mx_alps_hybrid_mxonly_1u_flipped_hotswap_led
+    oomp_key_extra: oomp_footprint_ai03_2725_mx_alps_hybrid_mxonly_1u_flipped_hotswap_led
+    oomp_key_full: oomp_footprint_ai03_2725_mx_alps_hybrid_mxonly_1u_flipped_hotswap_led_c8210c
+    oomp_key_simple: ai03_2725_mx_alps_hybrid_mxonly_1u_flipped_hotswap_led
     original_filename: MX_Alps_Hybrid.pretty/MX_Only.pretty/MXOnly-1U-FLIPPED-Hotswap-LED.kicad_mod
     owner_name: ai03_2725
   oomp_key: oomp_ai03_2725_mx_alps_hybrid_mxonly_1u_flipped_hotswap_led
+  oomp_key_full: oomp_footprint_ai03_2725_mx_alps_hybrid_mxonly_1u_flipped_hotswap_led
   oomp_key_simple: ai03_2725_mx_alps_hybrid_mxonly_1u_flipped_hotswap_led
   owner: ai03-2725
   repo:

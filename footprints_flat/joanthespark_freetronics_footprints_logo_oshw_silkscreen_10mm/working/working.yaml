@@ -17,9 +17,18 @@
   oomp:
     footprint_name: logo_oshw_silkscreen_10mm
     library_name: freetronics_footprints
+    md5: d524a32db09d485576011d3db7a9d920
+    md5_10: d524a32db0
+    md5_5: d524a
+    md5_6: d524a3
+    oomp_key: oomp_joanthespark_freetronics_footprints_logo_oshw_silkscreen_10mm
+    oomp_key_extra: oomp_footprint_joanthespark_freetronics_footprints_logo_oshw_silkscreen_10mm
+    oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_logo_oshw_silkscreen_10mm_d524a3
+    oomp_key_simple: joanthespark_freetronics_footprints_logo_oshw_silkscreen_10mm
     original_filename: KiCAD/mods/freetronics_footprints.pretty/LOGO_OSHW_silkscreen_10mm.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_freetronics_footprints_logo_oshw_silkscreen_10mm
+  oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_logo_oshw_silkscreen_10mm
   oomp_key_simple: joanthespark_freetronics_footprints_logo_oshw_silkscreen_10mm
   owner: JoanTheSpark
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: mx_isoenterh
     library_name: acheron_mxh
+    md5: 1bca18b381cda7e3eb2682945a703fc2
+    md5_10: 1bca18b381
+    md5_5: 1bca1
+    md5_6: 1bca18
+    oomp_key: oomp_acheronproject_acheron_mxh_mx_isoenterh
+    oomp_key_extra: oomp_footprint_acheronproject_acheron_mxh_mx_isoenterh
+    oomp_key_full: oomp_footprint_acheronproject_acheron_mxh_mx_isoenterh_1bca18
+    oomp_key_simple: acheronproject_acheron_mxh_mx_isoenterh
     original_filename: acheron_MXH.pretty/MX_ISOEnterH.kicad_mod
     owner_name: acheronproject
   oomp_key: oomp_acheronproject_acheron_mxh_mx_isoenterh
+  oomp_key_full: oomp_footprint_acheronproject_acheron_mxh_mx_isoenterh
   oomp_key_simple: acheronproject_acheron_mxh_mx_isoenterh
   owner: AcheronProject
   repo:

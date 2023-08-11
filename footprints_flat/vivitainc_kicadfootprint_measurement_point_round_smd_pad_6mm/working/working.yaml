@@ -17,9 +17,18 @@
   oomp:
     footprint_name: measurement_point_round_smd_pad_6mm
     library_name: kicadfootprint
+    md5: 54cd1c10aac4be28d41f4b249cc6ec5d
+    md5_10: 54cd1c10aa
+    md5_5: 54cd1
+    md5_6: 54cd1c
+    oomp_key: oomp_vivitainc_kicadfootprint_measurement_point_round_smd_pad_6mm
+    oomp_key_extra: oomp_footprint_vivitainc_kicadfootprint_measurement_point_round_smd_pad_6mm
+    oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_measurement_point_round_smd_pad_6mm_54cd1c
+    oomp_key_simple: vivitainc_kicadfootprint_measurement_point_round_smd_pad_6mm
     original_filename: KiCADfootprint.pretty/Measurement_Point_Round-SMD-Pad_6mm.kicad_mod
     owner_name: vivitainc
   oomp_key: oomp_vivitainc_kicadfootprint_measurement_point_round_smd_pad_6mm
+  oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_measurement_point_round_smd_pad_6mm
   oomp_key_simple: vivitainc_kicadfootprint_measurement_point_round_smd_pad_6mm
   owner: vivitainc
   repo:

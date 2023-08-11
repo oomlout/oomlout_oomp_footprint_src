@@ -17,9 +17,18 @@
   oomp:
     footprint_name: res_cat16
     library_name: freetronics_footprints
+    md5: 842c8ed749949746530c1fc36e2e7c9b
+    md5_10: 842c8ed749
+    md5_5: 842c8
+    md5_6: 842c8e
+    oomp_key: oomp_axello_freetronics_footprints_res_cat16
+    oomp_key_extra: oomp_footprint_axello_freetronics_footprints_res_cat16
+    oomp_key_full: oomp_footprint_axello_freetronics_footprints_res_cat16_842c8e
+    oomp_key_simple: axello_freetronics_footprints_res_cat16
     original_filename: kicad/mods/freetronics_footprints.pretty/RES_CAT16.kicad_mod
     owner_name: axello
   oomp_key: oomp_axello_freetronics_footprints_res_cat16
+  oomp_key_full: oomp_footprint_axello_freetronics_footprints_res_cat16
   oomp_key_simple: axello_freetronics_footprints_res_cat16
   owner: axello
   repo:

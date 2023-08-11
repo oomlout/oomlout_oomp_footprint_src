@@ -17,9 +17,18 @@
   oomp:
     footprint_name: nxp_vssop_8_1ep_2x2_3mm_sot765_1
     library_name: primarypoints
+    md5: a076bb125d94f52197d1280d9336f31c
+    md5_10: a076bb125d
+    md5_5: a076b
+    md5_6: a076bb
+    oomp_key: oomp_zanekaminski_primarypoints_nxp_vssop_8_1ep_2x2_3mm_sot765_1
+    oomp_key_extra: oomp_footprint_zanekaminski_primarypoints_nxp_vssop_8_1ep_2x2_3mm_sot765_1
+    oomp_key_full: oomp_footprint_zanekaminski_primarypoints_nxp_vssop_8_1ep_2x2_3mm_sot765_1_a076bb
+    oomp_key_simple: zanekaminski_primarypoints_nxp_vssop_8_1ep_2x2_3mm_sot765_1
     original_filename: primarypoints.pretty/NXP_VSSOP-8-1EP_2x2.3mm_SOT765-1.kicad_mod
     owner_name: zanekaminski
   oomp_key: oomp_zanekaminski_primarypoints_nxp_vssop_8_1ep_2x2_3mm_sot765_1
+  oomp_key_full: oomp_footprint_zanekaminski_primarypoints_nxp_vssop_8_1ep_2x2_3mm_sot765_1
   oomp_key_simple: zanekaminski_primarypoints_nxp_vssop_8_1ep_2x2_3mm_sot765_1
   owner: ZaneKaminski
   repo:

@@ -19,9 +19,18 @@
   oomp:
     footprint_name: metal_dome_4mm
     library_name: button_switch_smd_extra
+    md5: dc1cc959467c15a6ae6fcdadb9568684
+    md5_10: dc1cc95946
+    md5_5: dc1cc
+    md5_6: dc1cc9
+    oomp_key: oomp_arturo182_button_switch_smd_extra_metal_dome_4mm
+    oomp_key_extra: oomp_footprint_arturo182_button_switch_smd_extra_metal_dome_4mm
+    oomp_key_full: oomp_footprint_arturo182_button_switch_smd_extra_metal_dome_4mm_dc1cc9
+    oomp_key_simple: arturo182_button_switch_smd_extra_metal_dome_4mm
     original_filename: kicad-modules/Button_Switch_SMD_Extra.pretty/Metal_Dome_4mm.kicad_mod
     owner_name: arturo182
   oomp_key: oomp_arturo182_button_switch_smd_extra_metal_dome_4mm
+  oomp_key_full: oomp_footprint_arturo182_button_switch_smd_extra_metal_dome_4mm
   oomp_key_simple: arturo182_button_switch_smd_extra_metal_dome_4mm
   owner: arturo182
   repo:

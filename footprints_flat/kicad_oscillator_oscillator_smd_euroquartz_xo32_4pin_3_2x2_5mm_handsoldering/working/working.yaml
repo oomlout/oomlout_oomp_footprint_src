@@ -18,9 +18,18 @@
   oomp:
     footprint_name: oscillator_smd_euroquartz_xo32_4pin_3_2x2_5mm_handsoldering
     library_name: oscillator
+    md5: b54f271275e0c86cc569f0939adc7418
+    md5_10: b54f271275
+    md5_5: b54f2
+    md5_6: b54f27
+    oomp_key: oomp_kicad_oscillator_oscillator_smd_euroquartz_xo32_4pin_3_2x2_5mm_handsoldering
+    oomp_key_extra: oomp_footprint_kicad_oscillator_oscillator_smd_euroquartz_xo32_4pin_3_2x2_5mm_handsoldering
+    oomp_key_full: oomp_footprint_kicad_oscillator_oscillator_smd_euroquartz_xo32_4pin_3_2x2_5mm_handsoldering_b54f27
+    oomp_key_simple: kicad_oscillator_oscillator_smd_euroquartz_xo32_4pin_3_2x2_5mm_handsoldering
     original_filename: libraries/kicad-footprints/Oscillator.pretty/Oscillator_SMD_EuroQuartz_XO32-4Pin_3.2x2.5mm_HandSoldering.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_oscillator_oscillator_smd_euroquartz_xo32_4pin_3_2x2_5mm_handsoldering
+  oomp_key_full: oomp_footprint_kicad_oscillator_oscillator_smd_euroquartz_xo32_4pin_3_2x2_5mm_handsoldering
   oomp_key_simple: kicad_oscillator_oscillator_smd_euroquartz_xo32_4pin_3_2x2_5mm_handsoldering
   owner: kicad
   repo:

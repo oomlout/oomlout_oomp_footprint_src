@@ -17,9 +17,18 @@
   oomp:
     footprint_name: resc1005x38
     library_name: ipc7351_least
+    md5: 371d2aa231442ddb4af4e6f88fb1136c
+    md5_10: 371d2aa231
+    md5_5: 371d2
+    md5_6: 371d2a
+    oomp_key: oomp_cpavlina_ipc7351_least_resc1005x38
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_least_resc1005x38
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_least_resc1005x38_371d2a
+    oomp_key_simple: cpavlina_ipc7351_least_resc1005x38
     original_filename: kicad-pcblib/IPC7351-Least.pretty/RESC1005X38.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_least_resc1005x38
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_least_resc1005x38
   oomp_key_simple: cpavlina_ipc7351_least_resc1005x38
   owner: cpavlina
   repo:

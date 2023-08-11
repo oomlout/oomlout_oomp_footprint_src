@@ -17,9 +17,18 @@
   oomp:
     footprint_name: c_0201
     library_name: avp
+    md5: 7e00356562d50b2209b662cfe479beeb
+    md5_10: 7e00356562
+    md5_5: 7e003
+    md5_6: 7e0035
+    oomp_key: oomp_av_p_avp_c_0201
+    oomp_key_extra: oomp_footprint_av_p_avp_c_0201
+    oomp_key_full: oomp_footprint_av_p_avp_c_0201_7e0035
+    oomp_key_simple: av_p_avp_c_0201
     original_filename: Avp.pretty/C_0201.kicad_mod
     owner_name: av_p
   oomp_key: oomp_av_p_avp_c_0201
+  oomp_key_full: oomp_footprint_av_p_avp_c_0201
   oomp_key_simple: av_p_avp_c_0201
   owner: av-p
   repo:

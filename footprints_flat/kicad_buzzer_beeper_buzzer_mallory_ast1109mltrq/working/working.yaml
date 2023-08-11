@@ -17,9 +17,18 @@
   oomp:
     footprint_name: buzzer_mallory_ast1109mltrq
     library_name: buzzer_beeper
+    md5: a26621b148e9d1cec627993874fb7c70
+    md5_10: a26621b148
+    md5_5: a2662
+    md5_6: a26621
+    oomp_key: oomp_kicad_buzzer_beeper_buzzer_mallory_ast1109mltrq
+    oomp_key_extra: oomp_footprint_kicad_buzzer_beeper_buzzer_mallory_ast1109mltrq
+    oomp_key_full: oomp_footprint_kicad_buzzer_beeper_buzzer_mallory_ast1109mltrq_a26621
+    oomp_key_simple: kicad_buzzer_beeper_buzzer_mallory_ast1109mltrq
     original_filename: libraries/kicad-footprints/Buzzer_Beeper.pretty/Buzzer_Mallory_AST1109MLTRQ.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_buzzer_beeper_buzzer_mallory_ast1109mltrq
+  oomp_key_full: oomp_footprint_kicad_buzzer_beeper_buzzer_mallory_ast1109mltrq
   oomp_key_simple: kicad_buzzer_beeper_buzzer_mallory_ast1109mltrq
   owner: kicad
   repo:

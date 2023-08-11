@@ -19,9 +19,18 @@
   oomp:
     footprint_name: oscillator_smd_fordahl_dfas3_4pin_9_1x7_2mm
     library_name: oscillator
+    md5: fafee23eab0084732f1dda1db074ed6f
+    md5_10: fafee23eab
+    md5_5: fafee
+    md5_6: fafee2
+    oomp_key: oomp_kicad_oscillator_oscillator_smd_fordahl_dfas3_4pin_9_1x7_2mm
+    oomp_key_extra: oomp_footprint_kicad_oscillator_oscillator_smd_fordahl_dfas3_4pin_9_1x7_2mm
+    oomp_key_full: oomp_footprint_kicad_oscillator_oscillator_smd_fordahl_dfas3_4pin_9_1x7_2mm_fafee2
+    oomp_key_simple: kicad_oscillator_oscillator_smd_fordahl_dfas3_4pin_9_1x7_2mm
     original_filename: libraries/kicad-footprints/Oscillator.pretty/Oscillator_SMD_Fordahl_DFAS3-4Pin_9.1x7.2mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_oscillator_oscillator_smd_fordahl_dfas3_4pin_9_1x7_2mm
+  oomp_key_full: oomp_footprint_kicad_oscillator_oscillator_smd_fordahl_dfas3_4pin_9_1x7_2mm
   oomp_key_simple: kicad_oscillator_oscillator_smd_fordahl_dfas3_4pin_9_1x7_2mm
   owner: kicad
   repo:

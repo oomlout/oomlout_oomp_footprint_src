@@ -17,9 +17,18 @@
   oomp:
     footprint_name: capae1700x1900
     library_name: ipc7351_nominal
+    md5: a023de6bc4226228052e858ecad2f71c
+    md5_10: a023de6bc4
+    md5_5: a023d
+    md5_6: a023de
+    oomp_key: oomp_cpavlina_ipc7351_nominal_capae1700x1900
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_nominal_capae1700x1900
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_capae1700x1900_a023de
+    oomp_key_simple: cpavlina_ipc7351_nominal_capae1700x1900
     original_filename: kicad-pcblib/IPC7351-Nominal.pretty/CAPAE1700X1900.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_nominal_capae1700x1900
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_capae1700x1900
   oomp_key_simple: cpavlina_ipc7351_nominal_capae1700x1900
   owner: cpavlina
   repo:

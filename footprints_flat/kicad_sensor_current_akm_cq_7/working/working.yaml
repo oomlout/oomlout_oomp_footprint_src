@@ -17,9 +17,18 @@
   oomp:
     footprint_name: akm_cq_7
     library_name: sensor_current
+    md5: 1fbcf9fc55c5823cf39c0e483db5d179
+    md5_10: 1fbcf9fc55
+    md5_5: 1fbcf
+    md5_6: 1fbcf9
+    oomp_key: oomp_kicad_sensor_current_akm_cq_7
+    oomp_key_extra: oomp_footprint_kicad_sensor_current_akm_cq_7
+    oomp_key_full: oomp_footprint_kicad_sensor_current_akm_cq_7_1fbcf9
+    oomp_key_simple: kicad_sensor_current_akm_cq_7
     original_filename: libraries/kicad-footprints/Sensor_Current.pretty/AKM_CQ_7.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_sensor_current_akm_cq_7
+  oomp_key_full: oomp_footprint_kicad_sensor_current_akm_cq_7
   oomp_key_simple: kicad_sensor_current_akm_cq_7
   owner: kicad
   repo:

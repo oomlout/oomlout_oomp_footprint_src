@@ -17,9 +17,18 @@
   oomp:
     footprint_name: mf_ic_digital_qfn20
     library_name: mf_ic_digital
+    md5: cdd473a11414a382e0a3167b849bdcc2
+    md5_10: cdd473a114
+    md5_5: cdd47
+    md5_6: cdd473
+    oomp_key: oomp_macrofab_mf_ic_digital_mf_ic_digital_qfn20
+    oomp_key_extra: oomp_footprint_macrofab_mf_ic_digital_mf_ic_digital_qfn20
+    oomp_key_full: oomp_footprint_macrofab_mf_ic_digital_mf_ic_digital_qfn20_cdd473
+    oomp_key_simple: macrofab_mf_ic_digital_mf_ic_digital_qfn20
     original_filename: EDALibraries/KiCad/Footprints/MF_IC_Digital.pretty/MF_IC_Digital-QFN20.kicad_mod
     owner_name: macrofab
   oomp_key: oomp_macrofab_mf_ic_digital_mf_ic_digital_qfn20
+  oomp_key_full: oomp_footprint_macrofab_mf_ic_digital_mf_ic_digital_qfn20
   oomp_key_simple: macrofab_mf_ic_digital_mf_ic_digital_qfn20
   owner: MacroFab
   repo:

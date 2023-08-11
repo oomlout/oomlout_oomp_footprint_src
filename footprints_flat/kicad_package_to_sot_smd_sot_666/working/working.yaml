@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sot_666
     library_name: package_to_sot_smd
+    md5: 4632c7c7bc580c2953f40994c257fe6a
+    md5_10: 4632c7c7bc
+    md5_5: 4632c
+    md5_6: 4632c7
+    oomp_key: oomp_kicad_package_to_sot_smd_sot_666
+    oomp_key_extra: oomp_footprint_kicad_package_to_sot_smd_sot_666
+    oomp_key_full: oomp_footprint_kicad_package_to_sot_smd_sot_666_4632c7
+    oomp_key_simple: kicad_package_to_sot_smd_sot_666
     original_filename: libraries/kicad-footprints/Package_TO_SOT_SMD.pretty/SOT-666.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_to_sot_smd_sot_666
+  oomp_key_full: oomp_footprint_kicad_package_to_sot_smd_sot_666
   oomp_key_simple: kicad_package_to_sot_smd_sot_666
   owner: kicad
   repo:

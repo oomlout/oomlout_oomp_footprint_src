@@ -17,9 +17,18 @@
   oomp:
     footprint_name: usb_a_upright
     library_name: usst_footprints
+    md5: a8b37b50e0f282d403b454140fcd1ae1
+    md5_10: a8b37b50e0
+    md5_5: a8b37
+    md5_6: a8b37b
+    oomp_key: oomp_uofsspacedesignteam_usst_footprints_usb_a_upright
+    oomp_key_extra: oomp_footprint_uofsspacedesignteam_usst_footprints_usb_a_upright
+    oomp_key_full: oomp_footprint_uofsspacedesignteam_usst_footprints_usb_a_upright_a8b37b
+    oomp_key_simple: uofsspacedesignteam_usst_footprints_usb_a_upright
     original_filename: USST-footprints.pretty/USB-A-UPRIGHT.kicad_mod
     owner_name: uofsspacedesignteam
   oomp_key: oomp_uofsspacedesignteam_usst_footprints_usb_a_upright
+  oomp_key_full: oomp_footprint_uofsspacedesignteam_usst_footprints_usb_a_upright
   oomp_key_simple: uofsspacedesignteam_usst_footprints_usb_a_upright
   owner: UofSSpaceDesignTeam
   repo:

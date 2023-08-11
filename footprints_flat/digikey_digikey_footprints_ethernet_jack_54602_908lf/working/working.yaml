@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ethernet_jack_54602_908lf
     library_name: digikey_footprints
+    md5: e12ccb503312e655118bbb59815219d0
+    md5_10: e12ccb5033
+    md5_5: e12cc
+    md5_6: e12ccb
+    oomp_key: oomp_digikey_digikey_footprints_ethernet_jack_54602_908lf
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_ethernet_jack_54602_908lf
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_ethernet_jack_54602_908lf_e12ccb
+    oomp_key_simple: digikey_digikey_footprints_ethernet_jack_54602_908lf
     original_filename: digikey-kicad-library/digikey-footprints.pretty/Ethernet_Jack_54602-908LF.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_ethernet_jack_54602_908lf
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_ethernet_jack_54602_908lf
   oomp_key_simple: digikey_digikey_footprints_ethernet_jack_54602_908lf
   owner: digikey
   repo:

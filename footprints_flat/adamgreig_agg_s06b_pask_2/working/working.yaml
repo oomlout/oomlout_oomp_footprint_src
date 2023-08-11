@@ -16,10 +16,19 @@
   name: agg-kicad
   oomp:
     footprint_name: s06b_pask_2
-    library_name: unchecked
+    library_name: agg
+    md5: 43918beeeace15451ed8a4cd75fec55b
+    md5_10: 43918beeea
+    md5_5: '43918'
+    md5_6: 43918b
+    oomp_key: oomp_adamgreig_agg_s06b_pask_2
+    oomp_key_extra: oomp_footprint_adamgreig_agg_s06b_pask_2
+    oomp_key_full: oomp_footprint_adamgreig_agg_s06b_pask_2_43918b
+    oomp_key_simple: adamgreig_agg_s06b_pask_2
     original_filename: agg-kicad/agg.pretty/unchecked.pretty/S06B-PASK-2.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_s06b_pask_2
+  oomp_key_full: oomp_footprint_adamgreig_agg_s06b_pask_2
   oomp_key_simple: adamgreig_agg_s06b_pask_2
   owner: adamgreig
   repo:

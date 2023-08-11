@@ -17,9 +17,18 @@
   oomp:
     footprint_name: jp_7_2mm_edge_mount
     library_name: sh_jumper_pins
+    md5: 353c726ddba5d0073a7e46366e0f62ed
+    md5_10: 353c726ddb
+    md5_5: 353c7
+    md5_6: 353c72
+    oomp_key: oomp_stefanhamminga_sh_jumper_pins_jp_7_2mm_edge_mount
+    oomp_key_extra: oomp_footprint_stefanhamminga_sh_jumper_pins_jp_7_2mm_edge_mount
+    oomp_key_full: oomp_footprint_stefanhamminga_sh_jumper_pins_jp_7_2mm_edge_mount_353c72
+    oomp_key_simple: stefanhamminga_sh_jumper_pins_jp_7_2mm_edge_mount
     original_filename: SH_Jumper_Pins.pretty/JP-7_2mm_Edge_Mount.kicad_mod
     owner_name: stefanhamminga
   oomp_key: oomp_stefanhamminga_sh_jumper_pins_jp_7_2mm_edge_mount
+  oomp_key_full: oomp_footprint_stefanhamminga_sh_jumper_pins_jp_7_2mm_edge_mount
   oomp_key_simple: stefanhamminga_sh_jumper_pins_jp_7_2mm_edge_mount
   owner: StefanHamminga
   repo:

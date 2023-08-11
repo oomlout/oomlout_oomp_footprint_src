@@ -18,9 +18,18 @@
   oomp:
     footprint_name: oscillator_smd_txc_7c_4pin_5_0x3_2mm
     library_name: oscillator
+    md5: 78eb2beab72c41e9159d0566c7a65711
+    md5_10: 78eb2beab7
+    md5_5: 78eb2
+    md5_6: 78eb2b
+    oomp_key: oomp_kicad_oscillator_oscillator_smd_txc_7c_4pin_5_0x3_2mm
+    oomp_key_extra: oomp_footprint_kicad_oscillator_oscillator_smd_txc_7c_4pin_5_0x3_2mm
+    oomp_key_full: oomp_footprint_kicad_oscillator_oscillator_smd_txc_7c_4pin_5_0x3_2mm_78eb2b
+    oomp_key_simple: kicad_oscillator_oscillator_smd_txc_7c_4pin_5_0x3_2mm
     original_filename: libraries/kicad-footprints/Oscillator.pretty/Oscillator_SMD_TXC_7C-4Pin_5.0x3.2mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_oscillator_oscillator_smd_txc_7c_4pin_5_0x3_2mm
+  oomp_key_full: oomp_footprint_kicad_oscillator_oscillator_smd_txc_7c_4pin_5_0x3_2mm
   oomp_key_simple: kicad_oscillator_oscillator_smd_txc_7c_4pin_5_0x3_2mm
   owner: kicad
   repo:

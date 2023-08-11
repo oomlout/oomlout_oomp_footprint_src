@@ -17,9 +17,18 @@
   oomp:
     footprint_name: conn_bnc_1_1337543_0
     library_name: manuf
+    md5: 5dae88e617f431740a5c48770a32df9d
+    md5_10: 5dae88e617
+    md5_5: 5dae8
+    md5_6: 5dae88
+    oomp_key: oomp_cpavlina_manuf_conn_bnc_1_1337543_0
+    oomp_key_extra: oomp_footprint_cpavlina_manuf_conn_bnc_1_1337543_0
+    oomp_key_full: oomp_footprint_cpavlina_manuf_conn_bnc_1_1337543_0_5dae88
+    oomp_key_simple: cpavlina_manuf_conn_bnc_1_1337543_0
     original_filename: kicad-pcblib/manuf.pretty/CONN-BNC-1-1337543-0.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_manuf_conn_bnc_1_1337543_0
+  oomp_key_full: oomp_footprint_cpavlina_manuf_conn_bnc_1_1337543_0
   oomp_key_simple: cpavlina_manuf_conn_bnc_1_1337543_0
   owner: cpavlina
   repo:

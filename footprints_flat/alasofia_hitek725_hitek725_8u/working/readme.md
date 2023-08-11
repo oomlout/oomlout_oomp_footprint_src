@@ -19,8 +19,9 @@ Please consult that link for additional, details, files, and license information
 | github_path | http://github.com/Alasofia/hitek725.pretty/blob/master/Hitek725-8U.kicad_mod |  
 | links | {'github_src': 'http://gitlab.com/Alasofia/hitek725.pretty/blob/master/Hitek725-BigAssEnter.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/alasofia_hitek725_hitek725_8u/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/alasofia_hitek725_hitek725_8u/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/alasofia_hitek725_hitek725_8u/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/alasofia_hitek725_hitek725_8u/working'} |  
 | name | hitek725.pretty |  
-| oomp | {'footprint_name': 'hitek725_8u', 'library_name': 'hitek725', 'original_filename': 'hitek725.pretty/Hitek725-8U.kicad_mod', 'owner_name': 'alasofia'} |  
+| oomp | {'footprint_name': 'hitek725_8u', 'library_name': 'hitek725', 'md5': '027f5fb922fc37b574e9f16b8a9b2e97', 'md5_10': '027f5fb922', 'md5_5': '027f5', 'md5_6': '027f5f', 'oomp_key': 'oomp_alasofia_hitek725_hitek725_8u', 'oomp_key_extra': 'oomp_footprint_alasofia_hitek725_hitek725_8u', 'oomp_key_full': 'oomp_footprint_alasofia_hitek725_hitek725_8u_027f5f', 'oomp_key_simple': 'alasofia_hitek725_hitek725_8u', 'original_filename': 'hitek725.pretty/Hitek725-8U.kicad_mod', 'owner_name': 'alasofia'} |  
 | oomp_key | oomp_alasofia_hitek725_hitek725_8u |  
+| oomp_key_full | oomp_footprint_alasofia_hitek725_hitek725_8u |  
 | oomp_key_simple | alasofia_hitek725_hitek725_8u |  
 | owner | Alasofia |  
 | repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sil_254p_19
     library_name: agg
+    md5: 4433d079b60d641f9be160b86fbed05b
+    md5_10: 4433d079b6
+    md5_5: 4433d
+    md5_6: 4433d0
+    oomp_key: oomp_adamgreig_agg_sil_254p_19
+    oomp_key_extra: oomp_footprint_adamgreig_agg_sil_254p_19
+    oomp_key_full: oomp_footprint_adamgreig_agg_sil_254p_19_4433d0
+    oomp_key_simple: adamgreig_agg_sil_254p_19
     original_filename: agg-kicad/agg.pretty/SIL-254P-19.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_sil_254p_19
+  oomp_key_full: oomp_footprint_adamgreig_agg_sil_254p_19
   oomp_key_simple: adamgreig_agg_sil_254p_19
   owner: adamgreig
   repo:

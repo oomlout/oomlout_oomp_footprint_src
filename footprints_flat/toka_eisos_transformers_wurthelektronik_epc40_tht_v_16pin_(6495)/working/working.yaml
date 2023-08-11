@@ -17,9 +17,18 @@
   oomp:
     footprint_name: epc40_tht_v_16pin_(6495)
     library_name: transformers_wurthelektronik
+    md5: cf7729ef9bf2695761c73e5e232a2837
+    md5_10: cf7729ef9b
+    md5_5: cf772
+    md5_6: cf7729
+    oomp_key: oomp_toka_eisos_transformers_wurthelektronik_epc40_tht_v_16pin_(6495)
+    oomp_key_extra: oomp_footprint_toka_eisos_transformers_wurthelektronik_epc40_tht_v_16pin_(6495)
+    oomp_key_full: oomp_footprint_toka_eisos_transformers_wurthelektronik_epc40_tht_v_16pin_(6495)_cf7729
+    oomp_key_simple: toka_eisos_transformers_wurthelektronik_epc40_tht_v_16pin_(6495)
     original_filename: Transformers_WurthElektronik.pretty/EPC40_THT_V_16PIN_(6495).kicad_mod
     owner_name: toka_eisos
   oomp_key: oomp_toka_eisos_transformers_wurthelektronik_epc40_tht_v_16pin_(6495)
+  oomp_key_full: oomp_footprint_toka_eisos_transformers_wurthelektronik_epc40_tht_v_16pin_(6495)
   oomp_key_simple: toka_eisos_transformers_wurthelektronik_epc40_tht_v_16pin_(6495)
   owner: toka-eisos
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sop80p1760x200_60
     library_name: ipc7351_most
+    md5: 67698c2bf882c5b5b549ea44c73ccdeb
+    md5_10: 67698c2bf8
+    md5_5: '67698'
+    md5_6: 67698c
+    oomp_key: oomp_cpavlina_ipc7351_most_sop80p1760x200_60
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_most_sop80p1760x200_60
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_most_sop80p1760x200_60_67698c
+    oomp_key_simple: cpavlina_ipc7351_most_sop80p1760x200_60
     original_filename: kicad-pcblib/IPC7351-Most.pretty/SOP80P1760X200-60.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_most_sop80p1760x200_60
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_most_sop80p1760x200_60
   oomp_key_simple: cpavlina_ipc7351_most_sop80p1760x200_60
   owner: cpavlina
   repo:

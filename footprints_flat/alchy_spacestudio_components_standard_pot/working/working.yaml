@@ -17,9 +17,18 @@
   oomp:
     footprint_name: standard_pot
     library_name: spacestudio_components
+    md5: df497d72c065f3cf9bc470b94eb84242
+    md5_10: df497d72c0
+    md5_5: df497
+    md5_6: df497d
+    oomp_key: oomp_alchy_spacestudio_components_standard_pot
+    oomp_key_extra: oomp_footprint_alchy_spacestudio_components_standard_pot
+    oomp_key_full: oomp_footprint_alchy_spacestudio_components_standard_pot_df497d
+    oomp_key_simple: alchy_spacestudio_components_standard_pot
     original_filename: spacestudio_components.pretty/standard_pot.kicad_mod
     owner_name: alchy
   oomp_key: oomp_alchy_spacestudio_components_standard_pot
+  oomp_key_full: oomp_footprint_alchy_spacestudio_components_standard_pot
   oomp_key_simple: alchy_spacestudio_components_standard_pot
   owner: alchy
   repo:

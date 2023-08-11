@@ -18,9 +18,18 @@
   oomp:
     footprint_name: jst_ze_bm11b_zess_tbt_1x11_1mp_p1_50mm_vertical
     library_name: connector_jst
+    md5: 0af5f42059e345edba14b050ac9a8943
+    md5_10: 0af5f42059
+    md5_5: 0af5f
+    md5_6: 0af5f4
+    oomp_key: oomp_kicad_connector_jst_jst_ze_bm11b_zess_tbt_1x11_1mp_p1_50mm_vertical
+    oomp_key_extra: oomp_footprint_kicad_connector_jst_jst_ze_bm11b_zess_tbt_1x11_1mp_p1_50mm_vertical
+    oomp_key_full: oomp_footprint_kicad_connector_jst_jst_ze_bm11b_zess_tbt_1x11_1mp_p1_50mm_vertical_0af5f4
+    oomp_key_simple: kicad_connector_jst_jst_ze_bm11b_zess_tbt_1x11_1mp_p1_50mm_vertical
     original_filename: libraries/kicad-footprints/Connector_JST.pretty/JST_ZE_BM11B-ZESS-TBT_1x11-1MP_P1.50mm_Vertical.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_jst_jst_ze_bm11b_zess_tbt_1x11_1mp_p1_50mm_vertical
+  oomp_key_full: oomp_footprint_kicad_connector_jst_jst_ze_bm11b_zess_tbt_1x11_1mp_p1_50mm_vertical
   oomp_key_simple: kicad_connector_jst_jst_ze_bm11b_zess_tbt_1x11_1mp_p1_50mm_vertical
   owner: kicad
   repo:

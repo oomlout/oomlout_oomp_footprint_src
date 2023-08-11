@@ -17,9 +17,18 @@
   oomp:
     footprint_name: usba_3_0_stacked_vertical_molex_48409
     library_name: usst_footprints
+    md5: 1b1dcdfde0174fa5cda9996f46ca5975
+    md5_10: 1b1dcdfde0
+    md5_5: 1b1dc
+    md5_6: 1b1dcd
+    oomp_key: oomp_uofsspaceteam_usst_footprints_usba_3_0_stacked_vertical_molex_48409
+    oomp_key_extra: oomp_footprint_uofsspaceteam_usst_footprints_usba_3_0_stacked_vertical_molex_48409
+    oomp_key_full: oomp_footprint_uofsspaceteam_usst_footprints_usba_3_0_stacked_vertical_molex_48409_1b1dcd
+    oomp_key_simple: uofsspaceteam_usst_footprints_usba_3_0_stacked_vertical_molex_48409
     original_filename: USST-footprints.pretty/USBA_3.0_Stacked_Vertical-Molex_48409.kicad_mod
     owner_name: uofsspaceteam
   oomp_key: oomp_uofsspaceteam_usst_footprints_usba_3_0_stacked_vertical_molex_48409
+  oomp_key_full: oomp_footprint_uofsspaceteam_usst_footprints_usba_3_0_stacked_vertical_molex_48409
   oomp_key_simple: uofsspaceteam_usst_footprints_usba_3_0_stacked_vertical_molex_48409
   owner: UofSSpaceTeam
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: transformer_nf_etal_p1165
     library_name: transformer_tht
+    md5: cc5ca397b8ed941672a168a101eb4269
+    md5_10: cc5ca397b8
+    md5_5: cc5ca
+    md5_6: cc5ca3
+    oomp_key: oomp_kicad_transformer_tht_transformer_nf_etal_p1165
+    oomp_key_extra: oomp_footprint_kicad_transformer_tht_transformer_nf_etal_p1165
+    oomp_key_full: oomp_footprint_kicad_transformer_tht_transformer_nf_etal_p1165_cc5ca3
+    oomp_key_simple: kicad_transformer_tht_transformer_nf_etal_p1165
     original_filename: libraries/kicad-footprints/Transformer_THT.pretty/Transformer_NF_ETAL_P1165.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_transformer_tht_transformer_nf_etal_p1165
+  oomp_key_full: oomp_footprint_kicad_transformer_tht_transformer_nf_etal_p1165
   oomp_key_simple: kicad_transformer_tht_transformer_nf_etal_p1165
   owner: kicad
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: bourns_srp1238a
     library_name: manuf
+    md5: 3e6e173a123a46ce2fc0a173119ea7f1
+    md5_10: 3e6e173a12
+    md5_5: 3e6e1
+    md5_6: 3e6e17
+    oomp_key: oomp_cpavlina_manuf_bourns_srp1238a
+    oomp_key_extra: oomp_footprint_cpavlina_manuf_bourns_srp1238a
+    oomp_key_full: oomp_footprint_cpavlina_manuf_bourns_srp1238a_3e6e17
+    oomp_key_simple: cpavlina_manuf_bourns_srp1238a
     original_filename: kicad-pcblib/manuf.pretty/BOURNS-SRP1238A.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_manuf_bourns_srp1238a
+  oomp_key_full: oomp_footprint_cpavlina_manuf_bourns_srp1238a
   oomp_key_simple: cpavlina_manuf_bourns_srp1238a
   owner: cpavlina
   repo:

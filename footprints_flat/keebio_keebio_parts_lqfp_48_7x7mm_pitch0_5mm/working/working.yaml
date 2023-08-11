@@ -17,9 +17,18 @@
   oomp:
     footprint_name: lqfp_48_7x7mm_pitch0_5mm
     library_name: keebio_parts
+    md5: 6ce6eb3c66337eb122b813e68572954f
+    md5_10: 6ce6eb3c66
+    md5_5: 6ce6e
+    md5_6: 6ce6eb
+    oomp_key: oomp_keebio_keebio_parts_lqfp_48_7x7mm_pitch0_5mm
+    oomp_key_extra: oomp_footprint_keebio_keebio_parts_lqfp_48_7x7mm_pitch0_5mm
+    oomp_key_full: oomp_footprint_keebio_keebio_parts_lqfp_48_7x7mm_pitch0_5mm_6ce6eb
+    oomp_key_simple: keebio_keebio_parts_lqfp_48_7x7mm_pitch0_5mm
     original_filename: Keebio-Parts.pretty/LQFP-48_7x7mm_Pitch0.5mm.kicad_mod
     owner_name: keebio
   oomp_key: oomp_keebio_keebio_parts_lqfp_48_7x7mm_pitch0_5mm
+  oomp_key_full: oomp_footprint_keebio_keebio_parts_lqfp_48_7x7mm_pitch0_5mm
   oomp_key_simple: keebio_keebio_parts_lqfp_48_7x7mm_pitch0_5mm
   owner: keebio
   repo:

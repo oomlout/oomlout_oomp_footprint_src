@@ -17,9 +17,18 @@
   oomp:
     footprint_name: led_cree_plcc4_3_2x2_8mm_ccw
     library_name: led_smd
+    md5: bc5ddbef8c9dbad37c48b10831956b7c
+    md5_10: bc5ddbef8c
+    md5_5: bc5dd
+    md5_6: bc5ddb
+    oomp_key: oomp_kicad_led_smd_led_cree_plcc4_3_2x2_8mm_ccw
+    oomp_key_extra: oomp_footprint_kicad_led_smd_led_cree_plcc4_3_2x2_8mm_ccw
+    oomp_key_full: oomp_footprint_kicad_led_smd_led_cree_plcc4_3_2x2_8mm_ccw_bc5ddb
+    oomp_key_simple: kicad_led_smd_led_cree_plcc4_3_2x2_8mm_ccw
     original_filename: libraries/kicad-footprints/LED_SMD.pretty/LED_Cree-PLCC4_3.2x2.8mm_CCW.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_led_smd_led_cree_plcc4_3_2x2_8mm_ccw
+  oomp_key_full: oomp_footprint_kicad_led_smd_led_cree_plcc4_3_2x2_8mm_ccw
   oomp_key_simple: kicad_led_smd_led_cree_plcc4_3_2x2_8mm_ccw
   owner: kicad
   repo:

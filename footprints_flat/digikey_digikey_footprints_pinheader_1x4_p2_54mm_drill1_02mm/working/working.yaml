@@ -17,9 +17,18 @@
   oomp:
     footprint_name: pinheader_1x4_p2_54mm_drill1_02mm
     library_name: digikey_footprints
+    md5: 2e4bfbb0be356873ccb7cb805debd9b2
+    md5_10: 2e4bfbb0be
+    md5_5: 2e4bf
+    md5_6: 2e4bfb
+    oomp_key: oomp_digikey_digikey_footprints_pinheader_1x4_p2_54mm_drill1_02mm
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_pinheader_1x4_p2_54mm_drill1_02mm
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_pinheader_1x4_p2_54mm_drill1_02mm_2e4bfb
+    oomp_key_simple: digikey_digikey_footprints_pinheader_1x4_p2_54mm_drill1_02mm
     original_filename: digikey-kicad-library/digikey-footprints.pretty/PinHeader_1x4_P2.54mm_Drill1.02mm.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_pinheader_1x4_p2_54mm_drill1_02mm
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_pinheader_1x4_p2_54mm_drill1_02mm
   oomp_key_simple: digikey_digikey_footprints_pinheader_1x4_p2_54mm_drill1_02mm
   owner: digikey
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: infineon_ag_econo2
     library_name: transistor_power_module
+    md5: aff043d9bfac9f21edde56dfd926996b
+    md5_10: aff043d9bf
+    md5_5: aff04
+    md5_6: aff043
+    oomp_key: oomp_kicad_transistor_power_module_infineon_ag_econo2
+    oomp_key_extra: oomp_footprint_kicad_transistor_power_module_infineon_ag_econo2
+    oomp_key_full: oomp_footprint_kicad_transistor_power_module_infineon_ag_econo2_aff043
+    oomp_key_simple: kicad_transistor_power_module_infineon_ag_econo2
     original_filename: libraries/kicad-footprints/Transistor_Power_Module.pretty/Infineon_AG-ECONO2.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_transistor_power_module_infineon_ag_econo2
+  oomp_key_full: oomp_footprint_kicad_transistor_power_module_infineon_ag_econo2
   oomp_key_simple: kicad_transistor_power_module_infineon_ag_econo2
   owner: kicad
   repo:

@@ -19,9 +19,18 @@
   oomp:
     footprint_name: phoenixcontact_mcv_1,5_10_g_3_5_1x10_p3_50mm_vertical
     library_name: connector_phoenix_mc
+    md5: ce9d3120b7d8ff762e4eb99ffe474d3a
+    md5_10: ce9d3120b7
+    md5_5: ce9d3
+    md5_6: ce9d31
+    oomp_key: oomp_kicad_connector_phoenix_mc_phoenixcontact_mcv_1,5_10_g_3_5_1x10_p3_50mm_vertical
+    oomp_key_extra: oomp_footprint_kicad_connector_phoenix_mc_phoenixcontact_mcv_1,5_10_g_3_5_1x10_p3_50mm_vertical
+    oomp_key_full: oomp_footprint_kicad_connector_phoenix_mc_phoenixcontact_mcv_1,5_10_g_3_5_1x10_p3_50mm_vertical_ce9d31
+    oomp_key_simple: kicad_connector_phoenix_mc_phoenixcontact_mcv_1,5_10_g_3_5_1x10_p3_50mm_vertical
     original_filename: libraries/kicad-footprints/Connector_Phoenix_MC.pretty/PhoenixContact_MCV_1,5_10-G-3.5_1x10_P3.50mm_Vertical.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_phoenix_mc_phoenixcontact_mcv_1,5_10_g_3_5_1x10_p3_50mm_vertical
+  oomp_key_full: oomp_footprint_kicad_connector_phoenix_mc_phoenixcontact_mcv_1,5_10_g_3_5_1x10_p3_50mm_vertical
   oomp_key_simple: kicad_connector_phoenix_mc_phoenixcontact_mcv_1,5_10_g_3_5_1x10_p3_50mm_vertical
   owner: kicad
   repo:

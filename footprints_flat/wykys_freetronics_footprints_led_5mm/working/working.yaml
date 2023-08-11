@@ -17,9 +17,18 @@
   oomp:
     footprint_name: led_5mm
     library_name: freetronics_footprints
+    md5: 4808dd7bf45c4f36f73e840a4d045e61
+    md5_10: 4808dd7bf4
+    md5_5: 4808d
+    md5_6: 4808dd
+    oomp_key: oomp_wykys_freetronics_footprints_led_5mm
+    oomp_key_extra: oomp_footprint_wykys_freetronics_footprints_led_5mm
+    oomp_key_full: oomp_footprint_wykys_freetronics_footprints_led_5mm_4808dd
+    oomp_key_simple: wykys_freetronics_footprints_led_5mm
     original_filename: kicad/mods/freetronics_footprints.pretty/LED-5MM.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_freetronics_footprints_led_5mm
+  oomp_key_full: oomp_footprint_wykys_freetronics_footprints_led_5mm
   oomp_key_simple: wykys_freetronics_footprints_led_5mm
   owner: wykys
   repo:

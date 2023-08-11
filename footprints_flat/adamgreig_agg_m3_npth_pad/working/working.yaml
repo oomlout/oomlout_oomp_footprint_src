@@ -17,9 +17,18 @@
   oomp:
     footprint_name: m3_npth_pad
     library_name: agg
+    md5: 117c4fffd43ae4b07c4247afc9abdf21
+    md5_10: 117c4fffd4
+    md5_5: 117c4
+    md5_6: 117c4f
+    oomp_key: oomp_adamgreig_agg_m3_npth_pad
+    oomp_key_extra: oomp_footprint_adamgreig_agg_m3_npth_pad
+    oomp_key_full: oomp_footprint_adamgreig_agg_m3_npth_pad_117c4f
+    oomp_key_simple: adamgreig_agg_m3_npth_pad
     original_filename: agg-kicad/agg.pretty/M3_NPTH_PAD.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_m3_npth_pad
+  oomp_key_full: oomp_footprint_adamgreig_agg_m3_npth_pad
   oomp_key_simple: adamgreig_agg_m3_npth_pad
   owner: adamgreig
   repo:

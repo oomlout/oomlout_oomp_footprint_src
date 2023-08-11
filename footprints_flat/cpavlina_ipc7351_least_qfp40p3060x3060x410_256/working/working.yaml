@@ -18,9 +18,18 @@
   oomp:
     footprint_name: qfp40p3060x3060x410_256
     library_name: ipc7351_least
+    md5: 63166b3b7318d6d41a2940779f47b70a
+    md5_10: 63166b3b73
+    md5_5: '63166'
+    md5_6: 63166b
+    oomp_key: oomp_cpavlina_ipc7351_least_qfp40p3060x3060x410_256
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_least_qfp40p3060x3060x410_256
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_least_qfp40p3060x3060x410_256_63166b
+    oomp_key_simple: cpavlina_ipc7351_least_qfp40p3060x3060x410_256
     original_filename: kicad-pcblib/IPC7351-Least.pretty/QFP40P3060X3060X410-256.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_least_qfp40p3060x3060x410_256
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_least_qfp40p3060x3060x410_256
   oomp_key_simple: cpavlina_ipc7351_least_qfp40p3060x3060x410_256
   owner: cpavlina
   repo:

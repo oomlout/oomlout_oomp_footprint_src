@@ -17,9 +17,18 @@
   oomp:
     footprint_name: connector_wurth_dc_jack
     library_name: awallinkicadfootprints
+    md5: d59eca6f61b93047a6a2f45f645d3bca
+    md5_10: d59eca6f61
+    md5_5: d59ec
+    md5_6: d59eca
+    oomp_key: oomp_aewallin_awallinkicadfootprints_connector_wurth_dc_jack
+    oomp_key_extra: oomp_footprint_aewallin_awallinkicadfootprints_connector_wurth_dc_jack
+    oomp_key_full: oomp_footprint_aewallin_awallinkicadfootprints_connector_wurth_dc_jack_d59eca
+    oomp_key_simple: aewallin_awallinkicadfootprints_connector_wurth_dc_jack
     original_filename: awallinKiCadFootprints.pretty/Connector_Wurth_DC_jack.kicad_mod
     owner_name: aewallin
   oomp_key: oomp_aewallin_awallinkicadfootprints_connector_wurth_dc_jack
+  oomp_key_full: oomp_footprint_aewallin_awallinkicadfootprints_connector_wurth_dc_jack
   oomp_key_simple: aewallin_awallinkicadfootprints_connector_wurth_dc_jack
   owner: aewallin
   repo:

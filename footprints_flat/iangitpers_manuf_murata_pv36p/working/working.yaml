@@ -19,9 +19,18 @@
   oomp:
     footprint_name: murata_pv36p
     library_name: manuf
+    md5: 76186a5ebbb49746e4b42838a1b9bdf2
+    md5_10: 76186a5ebb
+    md5_5: '76186'
+    md5_6: 76186a
+    oomp_key: oomp_iangitpers_manuf_murata_pv36p
+    oomp_key_extra: oomp_footprint_iangitpers_manuf_murata_pv36p
+    oomp_key_full: oomp_footprint_iangitpers_manuf_murata_pv36p_76186a
+    oomp_key_simple: iangitpers_manuf_murata_pv36p
     original_filename: 4a/manuf.pretty/MURATA-PV36P.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_manuf_murata_pv36p
+  oomp_key_full: oomp_footprint_iangitpers_manuf_murata_pv36p
   oomp_key_simple: iangitpers_manuf_murata_pv36p
   owner: Iangitpers
   repo:

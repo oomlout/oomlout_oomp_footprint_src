@@ -18,9 +18,18 @@
   oomp:
     footprint_name: c_radial_d6_3mm_h5_0mm_p2_50mm
     library_name: capacitor_tht
+    md5: bf0734c676ba944aa57760127a0447e5
+    md5_10: bf0734c676
+    md5_5: bf073
+    md5_6: bf0734
+    oomp_key: oomp_kicad_capacitor_tht_c_radial_d6_3mm_h5_0mm_p2_50mm
+    oomp_key_extra: oomp_footprint_kicad_capacitor_tht_c_radial_d6_3mm_h5_0mm_p2_50mm
+    oomp_key_full: oomp_footprint_kicad_capacitor_tht_c_radial_d6_3mm_h5_0mm_p2_50mm_bf0734
+    oomp_key_simple: kicad_capacitor_tht_c_radial_d6_3mm_h5_0mm_p2_50mm
     original_filename: libraries/kicad-footprints/Capacitor_THT.pretty/C_Radial_D6.3mm_H5.0mm_P2.50mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_capacitor_tht_c_radial_d6_3mm_h5_0mm_p2_50mm
+  oomp_key_full: oomp_footprint_kicad_capacitor_tht_c_radial_d6_3mm_h5_0mm_p2_50mm
   oomp_key_simple: kicad_capacitor_tht_c_radial_d6_3mm_h5_0mm_p2_50mm
   owner: kicad
   repo:

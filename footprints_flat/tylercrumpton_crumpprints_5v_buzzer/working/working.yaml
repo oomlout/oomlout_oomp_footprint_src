@@ -17,9 +17,18 @@
   oomp:
     footprint_name: 5v_buzzer
     library_name: crumpprints
+    md5: 9a79389b598c85d784ec7ec156247bc6
+    md5_10: 9a79389b59
+    md5_5: 9a793
+    md5_6: 9a7938
+    oomp_key: oomp_tylercrumpton_crumpprints_5v_buzzer
+    oomp_key_extra: oomp_footprint_tylercrumpton_crumpprints_5v_buzzer
+    oomp_key_full: oomp_footprint_tylercrumpton_crumpprints_5v_buzzer_9a7938
+    oomp_key_simple: tylercrumpton_crumpprints_5v_buzzer
     original_filename: CrumpPrints.pretty/5V_buzzer.kicad_mod
     owner_name: tylercrumpton
   oomp_key: oomp_tylercrumpton_crumpprints_5v_buzzer
+  oomp_key_full: oomp_footprint_tylercrumpton_crumpprints_5v_buzzer
   oomp_key_simple: tylercrumpton_crumpprints_5v_buzzer
   owner: tylercrumpton
   repo:

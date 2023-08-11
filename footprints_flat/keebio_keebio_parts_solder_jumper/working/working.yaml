@@ -17,9 +17,18 @@
   oomp:
     footprint_name: solder_jumper
     library_name: keebio_parts
+    md5: bdf8653f31b37e0ba6908d4ab83cc0eb
+    md5_10: bdf8653f31
+    md5_5: bdf86
+    md5_6: bdf865
+    oomp_key: oomp_keebio_keebio_parts_solder_jumper
+    oomp_key_extra: oomp_footprint_keebio_keebio_parts_solder_jumper
+    oomp_key_full: oomp_footprint_keebio_keebio_parts_solder_jumper_bdf865
+    oomp_key_simple: keebio_keebio_parts_solder_jumper
     original_filename: Keebio-Parts.pretty/solder_jumper.kicad_mod
     owner_name: keebio
   oomp_key: oomp_keebio_keebio_parts_solder_jumper
+  oomp_key_full: oomp_footprint_keebio_keebio_parts_solder_jumper
   oomp_key_simple: keebio_keebio_parts_solder_jumper
   owner: keebio
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: c_0805
     library_name: keyboard
+    md5: 12a28a886d65d2b1bdf3e273a032d2be
+    md5_10: 12a28a886d
+    md5_5: 12a28
+    md5_6: 12a28a
+    oomp_key: oomp_stormbard_keyboard_c_0805
+    oomp_key_extra: oomp_footprint_stormbard_keyboard_c_0805
+    oomp_key_full: oomp_footprint_stormbard_keyboard_c_0805_12a28a
+    oomp_key_simple: stormbard_keyboard_c_0805
     original_filename: Keyboard.pretty/C_0805.kicad_mod
     owner_name: stormbard
   oomp_key: oomp_stormbard_keyboard_c_0805
+  oomp_key_full: oomp_footprint_stormbard_keyboard_c_0805
   oomp_key_simple: stormbard_keyboard_c_0805
   owner: stormbard
   repo:

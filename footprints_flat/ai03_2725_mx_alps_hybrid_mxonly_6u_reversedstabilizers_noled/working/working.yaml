@@ -16,10 +16,19 @@
   name: MX_Alps_Hybrid.pretty
   oomp:
     footprint_name: mxonly_6u_reversedstabilizers_noled
-    library_name: mx_only
+    library_name: mx_alps_hybrid
+    md5: 8e654948283711f93ab033ee97cb5a87
+    md5_10: 8e65494828
+    md5_5: 8e654
+    md5_6: 8e6549
+    oomp_key: oomp_ai03_2725_mx_alps_hybrid_mxonly_6u_reversedstabilizers_noled
+    oomp_key_extra: oomp_footprint_ai03_2725_mx_alps_hybrid_mxonly_6u_reversedstabilizers_noled
+    oomp_key_full: oomp_footprint_ai03_2725_mx_alps_hybrid_mxonly_6u_reversedstabilizers_noled_8e6549
+    oomp_key_simple: ai03_2725_mx_alps_hybrid_mxonly_6u_reversedstabilizers_noled
     original_filename: MX_Alps_Hybrid.pretty/MX_Only.pretty/MXOnly-6U-ReversedStabilizers-NoLED.kicad_mod
     owner_name: ai03_2725
   oomp_key: oomp_ai03_2725_mx_alps_hybrid_mxonly_6u_reversedstabilizers_noled
+  oomp_key_full: oomp_footprint_ai03_2725_mx_alps_hybrid_mxonly_6u_reversedstabilizers_noled
   oomp_key_simple: ai03_2725_mx_alps_hybrid_mxonly_6u_reversedstabilizers_noled
   owner: ai03-2725
   repo:

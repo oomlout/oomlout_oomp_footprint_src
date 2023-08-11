@@ -17,9 +17,18 @@
   oomp:
     footprint_name: term_block_1x12_p5mm
     library_name: digikey_footprints
+    md5: 13245f564ca8241f195b1c987dfbbda6
+    md5_10: 13245f564c
+    md5_5: '13245'
+    md5_6: 13245f
+    oomp_key: oomp_digikey_digikey_footprints_term_block_1x12_p5mm
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_term_block_1x12_p5mm
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_term_block_1x12_p5mm_13245f
+    oomp_key_simple: digikey_digikey_footprints_term_block_1x12_p5mm
     original_filename: digikey-kicad-library/digikey-footprints.pretty/Term_Block_1x12_P5mm.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_term_block_1x12_p5mm
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_term_block_1x12_p5mm
   oomp_key_simple: digikey_digikey_footprints_term_block_1x12_p5mm
   owner: digikey
   repo:

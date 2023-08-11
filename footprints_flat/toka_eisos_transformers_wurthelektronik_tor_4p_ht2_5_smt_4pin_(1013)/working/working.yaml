@@ -17,9 +17,18 @@
   oomp:
     footprint_name: tor_4p_ht2_5_smt_4pin_(1013)
     library_name: transformers_wurthelektronik
+    md5: f1c6ab4ee58bcb4fe8ace71211c85223
+    md5_10: f1c6ab4ee5
+    md5_5: f1c6a
+    md5_6: f1c6ab
+    oomp_key: oomp_toka_eisos_transformers_wurthelektronik_tor_4p_ht2_5_smt_4pin_(1013)
+    oomp_key_extra: oomp_footprint_toka_eisos_transformers_wurthelektronik_tor_4p_ht2_5_smt_4pin_(1013)
+    oomp_key_full: oomp_footprint_toka_eisos_transformers_wurthelektronik_tor_4p_ht2_5_smt_4pin_(1013)_f1c6ab
+    oomp_key_simple: toka_eisos_transformers_wurthelektronik_tor_4p_ht2_5_smt_4pin_(1013)
     original_filename: Transformers_WurthElektronik.pretty/TOR-4P-HT2.5_SMT_4PIN_(1013).kicad_mod
     owner_name: toka_eisos
   oomp_key: oomp_toka_eisos_transformers_wurthelektronik_tor_4p_ht2_5_smt_4pin_(1013)
+  oomp_key_full: oomp_footprint_toka_eisos_transformers_wurthelektronik_tor_4p_ht2_5_smt_4pin_(1013)
   oomp_key_simple: toka_eisos_transformers_wurthelektronik_tor_4p_ht2_5_smt_4pin_(1013)
   owner: toka-eisos
   repo:

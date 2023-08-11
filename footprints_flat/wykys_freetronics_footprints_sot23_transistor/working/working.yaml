@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sot23_transistor
     library_name: freetronics_footprints
+    md5: 1cc77ead13a5abc1d2b29091e69f13b9
+    md5_10: 1cc77ead13
+    md5_5: 1cc77
+    md5_6: 1cc77e
+    oomp_key: oomp_wykys_freetronics_footprints_sot23_transistor
+    oomp_key_extra: oomp_footprint_wykys_freetronics_footprints_sot23_transistor
+    oomp_key_full: oomp_footprint_wykys_freetronics_footprints_sot23_transistor_1cc77e
+    oomp_key_simple: wykys_freetronics_footprints_sot23_transistor
     original_filename: kicad/mods/freetronics_footprints.pretty/SOT23_TRANSISTOR.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_freetronics_footprints_sot23_transistor
+  oomp_key_full: oomp_footprint_wykys_freetronics_footprints_sot23_transistor
   oomp_key_simple: wykys_freetronics_footprints_sot23_transistor
   owner: wykys
   repo:

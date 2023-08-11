@@ -17,9 +17,18 @@
   oomp:
     footprint_name: test_jack_horiz
     library_name: digikey_footprints
+    md5: 03c93cef7c7ddf8ef0f19dc2f509f26f
+    md5_10: 03c93cef7c
+    md5_5: 03c93
+    md5_6: 03c93c
+    oomp_key: oomp_digikey_digikey_footprints_test_jack_horiz
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_test_jack_horiz
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_test_jack_horiz_03c93c
+    oomp_key_simple: digikey_digikey_footprints_test_jack_horiz
     original_filename: digikey-kicad-library/digikey-footprints.pretty/Test_Jack_Horiz.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_test_jack_horiz
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_test_jack_horiz
   oomp_key_simple: digikey_digikey_footprints_test_jack_horiz
   owner: digikey
   repo:

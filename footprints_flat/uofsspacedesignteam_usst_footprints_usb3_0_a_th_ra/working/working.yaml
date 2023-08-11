@@ -17,9 +17,18 @@
   oomp:
     footprint_name: usb3_0_a_th_ra
     library_name: usst_footprints
+    md5: b68af6efb8ab23a27847f1a5f4f4da98
+    md5_10: b68af6efb8
+    md5_5: b68af
+    md5_6: b68af6
+    oomp_key: oomp_uofsspacedesignteam_usst_footprints_usb3_0_a_th_ra
+    oomp_key_extra: oomp_footprint_uofsspacedesignteam_usst_footprints_usb3_0_a_th_ra
+    oomp_key_full: oomp_footprint_uofsspacedesignteam_usst_footprints_usb3_0_a_th_ra_b68af6
+    oomp_key_simple: uofsspacedesignteam_usst_footprints_usb3_0_a_th_ra
     original_filename: USST-footprints.pretty/USB3.0-A-TH-RA.kicad_mod
     owner_name: uofsspacedesignteam
   oomp_key: oomp_uofsspacedesignteam_usst_footprints_usb3_0_a_th_ra
+  oomp_key_full: oomp_footprint_uofsspacedesignteam_usst_footprints_usb3_0_a_th_ra
   oomp_key_simple: uofsspacedesignteam_usst_footprints_usb3_0_a_th_ra
   owner: UofSSpaceDesignTeam
   repo:

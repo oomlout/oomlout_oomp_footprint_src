@@ -17,9 +17,18 @@
   oomp:
     footprint_name: _micro_usb_ab_receptacle_smt_th
     library_name: _connectors
+    md5: 43aa534cf5b7a885e96024858302af65
+    md5_10: 43aa534cf5
+    md5_5: 43aa5
+    md5_6: 43aa53
+    oomp_key: oomp_mcous_connectors_micro_usb_ab_receptacle_smt_th
+    oomp_key_extra: oomp_footprint_mcous_connectors_micro_usb_ab_receptacle_smt_th
+    oomp_key_full: oomp_footprint_mcous_connectors_micro_usb_ab_receptacle_smt_th_43aa53
+    oomp_key_simple: mcous_connectors_micro_usb_ab_receptacle_smt_th
     original_filename: kicad-lib/footprints/_connectors.pretty/_Micro-USB-AB-receptacle-SMT-th.kicad_mod
     owner_name: mcous
   oomp_key: oomp_mcous_connectors_micro_usb_ab_receptacle_smt_th
+  oomp_key_full: oomp_footprint_mcous_connectors_micro_usb_ab_receptacle_smt_th
   oomp_key_simple: mcous_connectors_micro_usb_ab_receptacle_smt_th
   owner: mcous
   repo:

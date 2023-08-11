@@ -18,9 +18,18 @@
   oomp:
     footprint_name: samtec_t1m_15_x_sv_l_1x15_1mp_p1_0mm_terminal_vertical_latch
     library_name: connector_samtec_micromate
+    md5: f9211a43749f73447de3adfb4ca877cb
+    md5_10: f9211a4374
+    md5_5: f9211
+    md5_6: f9211a
+    oomp_key: oomp_kicad_connector_samtec_micromate_samtec_t1m_15_x_sv_l_1x15_1mp_p1_0mm_terminal_vertical_latch
+    oomp_key_extra: oomp_footprint_kicad_connector_samtec_micromate_samtec_t1m_15_x_sv_l_1x15_1mp_p1_0mm_terminal_vertical_latch
+    oomp_key_full: oomp_footprint_kicad_connector_samtec_micromate_samtec_t1m_15_x_sv_l_1x15_1mp_p1_0mm_terminal_vertical_latch_f9211a
+    oomp_key_simple: kicad_connector_samtec_micromate_samtec_t1m_15_x_sv_l_1x15_1mp_p1_0mm_terminal_vertical_latch
     original_filename: libraries/kicad-footprints/Connector_Samtec_MicroMate.pretty/Samtec_T1M-15-X-SV-L_1x15-1MP_P1.0mm_Terminal_Vertical_Latch.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_samtec_micromate_samtec_t1m_15_x_sv_l_1x15_1mp_p1_0mm_terminal_vertical_latch
+  oomp_key_full: oomp_footprint_kicad_connector_samtec_micromate_samtec_t1m_15_x_sv_l_1x15_1mp_p1_0mm_terminal_vertical_latch
   oomp_key_simple: kicad_connector_samtec_micromate_samtec_t1m_15_x_sv_l_1x15_1mp_p1_0mm_terminal_vertical_latch
   owner: kicad
   repo:

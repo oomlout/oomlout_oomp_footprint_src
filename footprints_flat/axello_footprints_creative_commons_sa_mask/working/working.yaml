@@ -17,9 +17,18 @@
   oomp:
     footprint_name: creative_commons_sa_mask
     library_name: footprints
+    md5: 30eba46cad1c2665648e70189ef1ad69
+    md5_10: 30eba46cad
+    md5_5: 30eba
+    md5_6: 30eba4
+    oomp_key: oomp_axello_footprints_creative_commons_sa_mask
+    oomp_key_extra: oomp_footprint_axello_footprints_creative_commons_sa_mask
+    oomp_key_full: oomp_footprint_axello_footprints_creative_commons_sa_mask_30eba4
+    oomp_key_simple: axello_footprints_creative_commons_sa_mask
     original_filename: kicad/demos/stickhub/footprints.pretty/Creative_Commons_SA_Mask.kicad_mod
     owner_name: axello
   oomp_key: oomp_axello_footprints_creative_commons_sa_mask
+  oomp_key_full: oomp_footprint_axello_footprints_creative_commons_sa_mask
   oomp_key_simple: axello_footprints_creative_commons_sa_mask
   owner: axello
   repo:

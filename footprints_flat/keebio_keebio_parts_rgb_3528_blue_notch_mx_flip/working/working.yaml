@@ -17,9 +17,18 @@
   oomp:
     footprint_name: rgb_3528_blue_notch_mx_flip
     library_name: keebio_parts
+    md5: 95262a9e8edcddb70bc75bfd3f15ed0e
+    md5_10: 95262a9e8e
+    md5_5: '95262'
+    md5_6: 95262a
+    oomp_key: oomp_keebio_keebio_parts_rgb_3528_blue_notch_mx_flip
+    oomp_key_extra: oomp_footprint_keebio_keebio_parts_rgb_3528_blue_notch_mx_flip
+    oomp_key_full: oomp_footprint_keebio_keebio_parts_rgb_3528_blue_notch_mx_flip_95262a
+    oomp_key_simple: keebio_keebio_parts_rgb_3528_blue_notch_mx_flip
     original_filename: Keebio-Parts.pretty/RGB_3528_Blue_Notch-MX-Flip.kicad_mod
     owner_name: keebio
   oomp_key: oomp_keebio_keebio_parts_rgb_3528_blue_notch_mx_flip
+  oomp_key_full: oomp_footprint_keebio_keebio_parts_rgb_3528_blue_notch_mx_flip
   oomp_key_simple: keebio_keebio_parts_rgb_3528_blue_notch_mx_flip
   owner: keebio
   repo:

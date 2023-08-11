@@ -18,9 +18,18 @@
   oomp:
     footprint_name: l_toroid_horizontal_d9_5mm_p15_00mm_diameter10_5mm_amidon_t37
     library_name: inductor_tht
+    md5: 5a779002c9c943b3c5385da21dd06615
+    md5_10: 5a779002c9
+    md5_5: 5a779
+    md5_6: 5a7790
+    oomp_key: oomp_kicad_inductor_tht_l_toroid_horizontal_d9_5mm_p15_00mm_diameter10_5mm_amidon_t37
+    oomp_key_extra: oomp_footprint_kicad_inductor_tht_l_toroid_horizontal_d9_5mm_p15_00mm_diameter10_5mm_amidon_t37
+    oomp_key_full: oomp_footprint_kicad_inductor_tht_l_toroid_horizontal_d9_5mm_p15_00mm_diameter10_5mm_amidon_t37_5a7790
+    oomp_key_simple: kicad_inductor_tht_l_toroid_horizontal_d9_5mm_p15_00mm_diameter10_5mm_amidon_t37
     original_filename: libraries/kicad-footprints/Inductor_THT.pretty/L_Toroid_Horizontal_D9.5mm_P15.00mm_Diameter10-5mm_Amidon-T37.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_inductor_tht_l_toroid_horizontal_d9_5mm_p15_00mm_diameter10_5mm_amidon_t37
+  oomp_key_full: oomp_footprint_kicad_inductor_tht_l_toroid_horizontal_d9_5mm_p15_00mm_diameter10_5mm_amidon_t37
   oomp_key_simple: kicad_inductor_tht_l_toroid_horizontal_d9_5mm_p15_00mm_diameter10_5mm_amidon_t37
   owner: kicad
   repo:

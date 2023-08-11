@@ -18,9 +18,18 @@
   oomp:
     footprint_name: signalcommunications_we_wpcc_a6
     library_name: signalcommunications
+    md5: abd9e1d9c8c07cd45e5736b30c19cd71
+    md5_10: abd9e1d9c8
+    md5_5: abd9e
+    md5_6: abd9e1
+    oomp_key: oomp_electroniccats_signalcommunications_signalcommunications_we_wpcc_a6
+    oomp_key_extra: oomp_footprint_electroniccats_signalcommunications_signalcommunications_we_wpcc_a6
+    oomp_key_full: oomp_footprint_electroniccats_signalcommunications_signalcommunications_we_wpcc_a6_abd9e1
+    oomp_key_simple: electroniccats_signalcommunications_signalcommunications_we_wpcc_a6
     original_filename: ComponentLibrariesKicadWurthElektronik/SIGNAL-COMMUNICATIONS-rev18a/SignalCommunications.pretty/SignalCommunications-WE-WPCC_A6.kicad_mod
     owner_name: electroniccats
   oomp_key: oomp_electroniccats_signalcommunications_signalcommunications_we_wpcc_a6
+  oomp_key_full: oomp_footprint_electroniccats_signalcommunications_signalcommunications_we_wpcc_a6
   oomp_key_simple: electroniccats_signalcommunications_signalcommunications_we_wpcc_a6
   owner: ElectronicCats
   repo:

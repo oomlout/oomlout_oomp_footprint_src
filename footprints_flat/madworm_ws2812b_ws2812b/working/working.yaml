@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ws2812b
     library_name: ws2812b
+    md5: ec66a420d4cce5a7d62bdd85a6a017e0
+    md5_10: ec66a420d4
+    md5_5: ec66a
+    md5_6: ec66a4
+    oomp_key: oomp_madworm_ws2812b_ws2812b
+    oomp_key_extra: oomp_footprint_madworm_ws2812b_ws2812b
+    oomp_key_full: oomp_footprint_madworm_ws2812b_ws2812b_ec66a4
+    oomp_key_simple: madworm_ws2812b_ws2812b
     original_filename: WS2812B.pretty/WS2812B.kicad_mod
     owner_name: madworm
   oomp_key: oomp_madworm_ws2812b_ws2812b
+  oomp_key_full: oomp_footprint_madworm_ws2812b_ws2812b
   oomp_key_simple: madworm_ws2812b_ws2812b
   owner: madworm
   repo:

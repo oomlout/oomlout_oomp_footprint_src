@@ -18,9 +18,18 @@
   oomp:
     footprint_name: r_axial_din0204_l3_6mm_d1_6mm_p5_08mm_horizontal
     library_name: resistor_tht
+    md5: bcb266eb9fb68f2ee88ceeefd5317868
+    md5_10: bcb266eb9f
+    md5_5: bcb26
+    md5_6: bcb266
+    oomp_key: oomp_kicad_resistor_tht_r_axial_din0204_l3_6mm_d1_6mm_p5_08mm_horizontal
+    oomp_key_extra: oomp_footprint_kicad_resistor_tht_r_axial_din0204_l3_6mm_d1_6mm_p5_08mm_horizontal
+    oomp_key_full: oomp_footprint_kicad_resistor_tht_r_axial_din0204_l3_6mm_d1_6mm_p5_08mm_horizontal_bcb266
+    oomp_key_simple: kicad_resistor_tht_r_axial_din0204_l3_6mm_d1_6mm_p5_08mm_horizontal
     original_filename: libraries/kicad-footprints/Resistor_THT.pretty/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_resistor_tht_r_axial_din0204_l3_6mm_d1_6mm_p5_08mm_horizontal
+  oomp_key_full: oomp_footprint_kicad_resistor_tht_r_axial_din0204_l3_6mm_d1_6mm_p5_08mm_horizontal
   oomp_key_simple: kicad_resistor_tht_r_axial_din0204_l3_6mm_d1_6mm_p5_08mm_horizontal
   owner: kicad
   repo:

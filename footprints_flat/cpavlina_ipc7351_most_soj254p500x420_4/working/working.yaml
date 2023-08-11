@@ -17,9 +17,18 @@
   oomp:
     footprint_name: soj254p500x420_4
     library_name: ipc7351_most
+    md5: 583a172ac37166fc7dee367e9048da6c
+    md5_10: 583a172ac3
+    md5_5: 583a1
+    md5_6: 583a17
+    oomp_key: oomp_cpavlina_ipc7351_most_soj254p500x420_4
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_most_soj254p500x420_4
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_most_soj254p500x420_4_583a17
+    oomp_key_simple: cpavlina_ipc7351_most_soj254p500x420_4
     original_filename: kicad-pcblib/IPC7351-Most.pretty/SOJ254P500X420-4.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_most_soj254p500x420_4
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_most_soj254p500x420_4
   oomp_key_simple: cpavlina_ipc7351_most_soj254p500x420_4
   owner: cpavlina
   repo:

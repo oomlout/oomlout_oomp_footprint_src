@@ -17,9 +17,18 @@
   oomp:
     footprint_name: multiwatt_15
     library_name: digikey_footprints
+    md5: 2144b78c31f723a8037dcc19199980f1
+    md5_10: 2144b78c31
+    md5_5: 2144b
+    md5_6: 2144b7
+    oomp_key: oomp_digikey_digikey_footprints_multiwatt_15
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_multiwatt_15
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_multiwatt_15_2144b7
+    oomp_key_simple: digikey_digikey_footprints_multiwatt_15
     original_filename: digikey-kicad-library/digikey-footprints.pretty/Multiwatt-15.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_multiwatt_15
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_multiwatt_15
   oomp_key_simple: digikey_digikey_footprints_multiwatt_15
   owner: digikey
   repo:

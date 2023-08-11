@@ -17,9 +17,18 @@
   oomp:
     footprint_name: led_matrix_vertical_4pad
     library_name: freetronics_footprints
+    md5: 4ebd59cb45e14bff52ff828bd47e0744
+    md5_10: 4ebd59cb45
+    md5_5: 4ebd5
+    md5_6: 4ebd59
+    oomp_key: oomp_wykys_freetronics_footprints_led_matrix_vertical_4pad
+    oomp_key_extra: oomp_footprint_wykys_freetronics_footprints_led_matrix_vertical_4pad
+    oomp_key_full: oomp_footprint_wykys_freetronics_footprints_led_matrix_vertical_4pad_4ebd59
+    oomp_key_simple: wykys_freetronics_footprints_led_matrix_vertical_4pad
     original_filename: kicad/mods/freetronics_footprints.pretty/LED_MATRIX_VERTICAL_4PAD.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_freetronics_footprints_led_matrix_vertical_4pad
+  oomp_key_full: oomp_footprint_wykys_freetronics_footprints_led_matrix_vertical_4pad
   oomp_key_simple: wykys_freetronics_footprints_led_matrix_vertical_4pad
   owner: wykys
   repo:

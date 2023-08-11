@@ -17,9 +17,18 @@
   oomp:
     footprint_name: 3_5mm_2_terminal
     library_name: apex
+    md5: 092c36e666f353d186e81d0f31442bea
+    md5_10: 092c36e666
+    md5_5: 092c3
+    md5_6: 092c36
+    oomp_key: oomp_apexelectrix_apex_3_5mm_2_terminal
+    oomp_key_extra: oomp_footprint_apexelectrix_apex_3_5mm_2_terminal
+    oomp_key_full: oomp_footprint_apexelectrix_apex_3_5mm_2_terminal_092c36
+    oomp_key_simple: apexelectrix_apex_3_5mm_2_terminal
     original_filename: Apex.pretty/3.5mm-2-terminal.kicad_mod
     owner_name: apexelectrix
   oomp_key: oomp_apexelectrix_apex_3_5mm_2_terminal
+  oomp_key_full: oomp_footprint_apexelectrix_apex_3_5mm_2_terminal
   oomp_key_simple: apexelectrix_apex_3_5mm_2_terminal
   owner: apexelectrix
   repo:

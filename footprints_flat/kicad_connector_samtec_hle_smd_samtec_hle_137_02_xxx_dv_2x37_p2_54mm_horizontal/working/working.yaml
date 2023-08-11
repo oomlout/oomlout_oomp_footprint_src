@@ -19,9 +19,18 @@
   oomp:
     footprint_name: samtec_hle_137_02_xxx_dv_2x37_p2_54mm_horizontal
     library_name: connector_samtec_hle_smd
+    md5: f4555005aa98996f19e8f54acf98db34
+    md5_10: f4555005aa
+    md5_5: f4555
+    md5_6: f45550
+    oomp_key: oomp_kicad_connector_samtec_hle_smd_samtec_hle_137_02_xxx_dv_2x37_p2_54mm_horizontal
+    oomp_key_extra: oomp_footprint_kicad_connector_samtec_hle_smd_samtec_hle_137_02_xxx_dv_2x37_p2_54mm_horizontal
+    oomp_key_full: oomp_footprint_kicad_connector_samtec_hle_smd_samtec_hle_137_02_xxx_dv_2x37_p2_54mm_horizontal_f45550
+    oomp_key_simple: kicad_connector_samtec_hle_smd_samtec_hle_137_02_xxx_dv_2x37_p2_54mm_horizontal
     original_filename: libraries/kicad-footprints/Connector_Samtec_HLE_SMD.pretty/Samtec_HLE-137-02-xxx-DV_2x37_P2.54mm_Horizontal.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_samtec_hle_smd_samtec_hle_137_02_xxx_dv_2x37_p2_54mm_horizontal
+  oomp_key_full: oomp_footprint_kicad_connector_samtec_hle_smd_samtec_hle_137_02_xxx_dv_2x37_p2_54mm_horizontal
   oomp_key_simple: kicad_connector_samtec_hle_smd_samtec_hle_137_02_xxx_dv_2x37_p2_54mm_horizontal
   owner: kicad
   repo:

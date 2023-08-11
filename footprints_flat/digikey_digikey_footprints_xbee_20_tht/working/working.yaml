@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xbee_20_tht
     library_name: digikey_footprints
+    md5: 24bf373384f7f239d732226c190b9fba
+    md5_10: 24bf373384
+    md5_5: 24bf3
+    md5_6: 24bf37
+    oomp_key: oomp_digikey_digikey_footprints_xbee_20_tht
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_xbee_20_tht
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_xbee_20_tht_24bf37
+    oomp_key_simple: digikey_digikey_footprints_xbee_20_tht
     original_filename: digikey-kicad-library/digikey-footprints.pretty/XBEE-20_THT.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_xbee_20_tht
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_xbee_20_tht
   oomp_key_simple: digikey_digikey_footprints_xbee_20_tht
   owner: digikey
   repo:

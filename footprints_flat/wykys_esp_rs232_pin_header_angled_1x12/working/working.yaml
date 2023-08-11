@@ -17,9 +17,18 @@
   oomp:
     footprint_name: pin_header_angled_1x12
     library_name: esp_rs232
+    md5: c833704b1c63341de8f5ff1b3318c2ae
+    md5_10: c833704b1c
+    md5_5: c8337
+    md5_6: c83370
+    oomp_key: oomp_wykys_esp_rs232_pin_header_angled_1x12
+    oomp_key_extra: oomp_footprint_wykys_esp_rs232_pin_header_angled_1x12
+    oomp_key_full: oomp_footprint_wykys_esp_rs232_pin_header_angled_1x12_c83370
+    oomp_key_simple: wykys_esp_rs232_pin_header_angled_1x12
     original_filename: kicad/mods/ESP-RS232.pretty/Pin_Header_Angled_1x12.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_esp_rs232_pin_header_angled_1x12
+  oomp_key_full: oomp_footprint_wykys_esp_rs232_pin_header_angled_1x12
   oomp_key_simple: wykys_esp_rs232_pin_header_angled_1x12
   owner: wykys
   repo:

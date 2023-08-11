@@ -17,9 +17,18 @@
   oomp:
     footprint_name: led_cree_plcc4_5x5mm_cw
     library_name: led_smd
+    md5: e65d2979657909540758e6e982b4e6cc
+    md5_10: e65d297965
+    md5_5: e65d2
+    md5_6: e65d29
+    oomp_key: oomp_kicad_led_smd_led_cree_plcc4_5x5mm_cw
+    oomp_key_extra: oomp_footprint_kicad_led_smd_led_cree_plcc4_5x5mm_cw
+    oomp_key_full: oomp_footprint_kicad_led_smd_led_cree_plcc4_5x5mm_cw_e65d29
+    oomp_key_simple: kicad_led_smd_led_cree_plcc4_5x5mm_cw
     original_filename: libraries/kicad-footprints/LED_SMD.pretty/LED_Cree-PLCC4_5x5mm_CW.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_led_smd_led_cree_plcc4_5x5mm_cw
+  oomp_key_full: oomp_footprint_kicad_led_smd_led_cree_plcc4_5x5mm_cw
   oomp_key_simple: kicad_led_smd_led_cree_plcc4_5x5mm_cw
   owner: kicad
   repo:

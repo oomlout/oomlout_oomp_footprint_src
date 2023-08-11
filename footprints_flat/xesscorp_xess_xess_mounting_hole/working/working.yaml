@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_mounting_hole
     library_name: xess
+    md5: 46423f91f61b70467fa61c10246e216b
+    md5_10: 46423f91f6
+    md5_5: '46423'
+    md5_6: 46423f
+    oomp_key: oomp_xesscorp_xess_xess_mounting_hole
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_mounting_hole
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_mounting_hole_46423f
+    oomp_key_simple: xesscorp_xess_xess_mounting_hole
     original_filename: xess.pretty/xess-MOUNTING_HOLE.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_mounting_hole
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_mounting_hole
   oomp_key_simple: xesscorp_xess_xess_mounting_hole
   owner: xesscorp
   repo:

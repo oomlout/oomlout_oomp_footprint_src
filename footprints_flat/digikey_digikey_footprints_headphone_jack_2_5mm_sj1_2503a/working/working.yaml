@@ -17,9 +17,18 @@
   oomp:
     footprint_name: headphone_jack_2_5mm_sj1_2503a
     library_name: digikey_footprints
+    md5: d1eb0ee3c105a6f7e759b7d57ccf2cb4
+    md5_10: d1eb0ee3c1
+    md5_5: d1eb0
+    md5_6: d1eb0e
+    oomp_key: oomp_digikey_digikey_footprints_headphone_jack_2_5mm_sj1_2503a
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_headphone_jack_2_5mm_sj1_2503a
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_headphone_jack_2_5mm_sj1_2503a_d1eb0e
+    oomp_key_simple: digikey_digikey_footprints_headphone_jack_2_5mm_sj1_2503a
     original_filename: digikey-kicad-library/digikey-footprints.pretty/Headphone_Jack_2.5mm_SJ1-2503A.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_headphone_jack_2_5mm_sj1_2503a
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_headphone_jack_2_5mm_sj1_2503a
   oomp_key_simple: digikey_digikey_footprints_headphone_jack_2_5mm_sj1_2503a
   owner: digikey
   repo:

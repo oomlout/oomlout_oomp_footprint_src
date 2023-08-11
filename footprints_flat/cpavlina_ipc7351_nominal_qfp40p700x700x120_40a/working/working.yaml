@@ -18,9 +18,18 @@
   oomp:
     footprint_name: qfp40p700x700x120_40a
     library_name: ipc7351_nominal
+    md5: dd50f3d2dc576906c2baf08f43f2fa65
+    md5_10: dd50f3d2dc
+    md5_5: dd50f
+    md5_6: dd50f3
+    oomp_key: oomp_cpavlina_ipc7351_nominal_qfp40p700x700x120_40a
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_nominal_qfp40p700x700x120_40a
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_qfp40p700x700x120_40a_dd50f3
+    oomp_key_simple: cpavlina_ipc7351_nominal_qfp40p700x700x120_40a
     original_filename: kicad-pcblib/IPC7351-Nominal.pretty/QFP40P700X700X120-40A.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_nominal_qfp40p700x700x120_40a
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_qfp40p700x700x120_40a
   oomp_key_simple: cpavlina_ipc7351_nominal_qfp40p700x700x120_40a
   owner: cpavlina
   repo:

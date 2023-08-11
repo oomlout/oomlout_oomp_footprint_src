@@ -17,9 +17,18 @@
   oomp:
     footprint_name: cellular_modem_nl_sw_evdo_v
     library_name: digikey_footprints
+    md5: bbbd43d4bb629618535668f9c6c97954
+    md5_10: bbbd43d4bb
+    md5_5: bbbd4
+    md5_6: bbbd43
+    oomp_key: oomp_digikey_digikey_footprints_cellular_modem_nl_sw_evdo_v
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_cellular_modem_nl_sw_evdo_v
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_cellular_modem_nl_sw_evdo_v_bbbd43
+    oomp_key_simple: digikey_digikey_footprints_cellular_modem_nl_sw_evdo_v
     original_filename: digikey-kicad-library/digikey-footprints.pretty/Cellular_Modem_NL-SW-EVDO-V.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_cellular_modem_nl_sw_evdo_v
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_cellular_modem_nl_sw_evdo_v
   oomp_key_simple: digikey_digikey_footprints_cellular_modem_nl_sw_evdo_v
   owner: digikey
   repo:

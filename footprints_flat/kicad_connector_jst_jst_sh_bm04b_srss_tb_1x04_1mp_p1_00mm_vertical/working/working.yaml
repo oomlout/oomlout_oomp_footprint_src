@@ -18,9 +18,18 @@
   oomp:
     footprint_name: jst_sh_bm04b_srss_tb_1x04_1mp_p1_00mm_vertical
     library_name: connector_jst
+    md5: 735413c738483164ff8770609340a63c
+    md5_10: 735413c738
+    md5_5: '73541'
+    md5_6: '735413'
+    oomp_key: oomp_kicad_connector_jst_jst_sh_bm04b_srss_tb_1x04_1mp_p1_00mm_vertical
+    oomp_key_extra: oomp_footprint_kicad_connector_jst_jst_sh_bm04b_srss_tb_1x04_1mp_p1_00mm_vertical
+    oomp_key_full: oomp_footprint_kicad_connector_jst_jst_sh_bm04b_srss_tb_1x04_1mp_p1_00mm_vertical_735413
+    oomp_key_simple: kicad_connector_jst_jst_sh_bm04b_srss_tb_1x04_1mp_p1_00mm_vertical
     original_filename: libraries/kicad-footprints/Connector_JST.pretty/JST_SH_BM04B-SRSS-TB_1x04-1MP_P1.00mm_Vertical.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_jst_jst_sh_bm04b_srss_tb_1x04_1mp_p1_00mm_vertical
+  oomp_key_full: oomp_footprint_kicad_connector_jst_jst_sh_bm04b_srss_tb_1x04_1mp_p1_00mm_vertical
   oomp_key_simple: kicad_connector_jst_jst_sh_bm04b_srss_tb_1x04_1mp_p1_00mm_vertical
   owner: kicad
   repo:

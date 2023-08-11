@@ -17,9 +17,18 @@
   oomp:
     footprint_name: lep28_tht_h_11pin_(6132)
     library_name: transformers_wurthelektronik
+    md5: 35b69ad8cd44a595d71463ada46608fa
+    md5_10: 35b69ad8cd
+    md5_5: 35b69
+    md5_6: 35b69a
+    oomp_key: oomp_toka_eisos_transformers_wurthelektronik_lep28_tht_h_11pin_(6132)
+    oomp_key_extra: oomp_footprint_toka_eisos_transformers_wurthelektronik_lep28_tht_h_11pin_(6132)
+    oomp_key_full: oomp_footprint_toka_eisos_transformers_wurthelektronik_lep28_tht_h_11pin_(6132)_35b69a
+    oomp_key_simple: toka_eisos_transformers_wurthelektronik_lep28_tht_h_11pin_(6132)
     original_filename: Transformers_WurthElektronik.pretty/LEP28_THT_H_11PIN_(6132).kicad_mod
     owner_name: toka_eisos
   oomp_key: oomp_toka_eisos_transformers_wurthelektronik_lep28_tht_h_11pin_(6132)
+  oomp_key_full: oomp_footprint_toka_eisos_transformers_wurthelektronik_lep28_tht_h_11pin_(6132)
   oomp_key_simple: toka_eisos_transformers_wurthelektronik_lep28_tht_h_11pin_(6132)
   owner: toka-eisos
   repo:

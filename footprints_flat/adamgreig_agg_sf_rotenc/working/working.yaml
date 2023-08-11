@@ -16,10 +16,19 @@
   name: agg-kicad
   oomp:
     footprint_name: sf_rotenc
-    library_name: unchecked
+    library_name: agg
+    md5: b98ce6e265f7f0a3c46ab79b13c7c224
+    md5_10: b98ce6e265
+    md5_5: b98ce
+    md5_6: b98ce6
+    oomp_key: oomp_adamgreig_agg_sf_rotenc
+    oomp_key_extra: oomp_footprint_adamgreig_agg_sf_rotenc
+    oomp_key_full: oomp_footprint_adamgreig_agg_sf_rotenc_b98ce6
+    oomp_key_simple: adamgreig_agg_sf_rotenc
     original_filename: agg-kicad/agg.pretty/unchecked.pretty/SF_ROTENC.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_sf_rotenc
+  oomp_key_full: oomp_footprint_adamgreig_agg_sf_rotenc
   oomp_key_simple: adamgreig_agg_sf_rotenc
   owner: adamgreig
   repo:

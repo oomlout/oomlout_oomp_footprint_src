@@ -17,9 +17,18 @@
   oomp:
     footprint_name: relay_tht_g5le_14
     library_name: digikey_footprints
+    md5: b7ceaf80076364159b9776e4cb99ed07
+    md5_10: b7ceaf8007
+    md5_5: b7cea
+    md5_6: b7ceaf
+    oomp_key: oomp_digikey_digikey_footprints_relay_tht_g5le_14
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_relay_tht_g5le_14
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_relay_tht_g5le_14_b7ceaf
+    oomp_key_simple: digikey_digikey_footprints_relay_tht_g5le_14
     original_filename: digikey-kicad-library/digikey-footprints.pretty/Relay_THT_G5LE-14.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_relay_tht_g5le_14
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_relay_tht_g5le_14
   oomp_key_simple: digikey_digikey_footprints_relay_tht_g5le_14
   owner: digikey
   repo:

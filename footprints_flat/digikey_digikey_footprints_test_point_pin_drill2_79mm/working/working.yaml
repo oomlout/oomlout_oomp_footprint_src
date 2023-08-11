@@ -17,9 +17,18 @@
   oomp:
     footprint_name: test_point_pin_drill2_79mm
     library_name: digikey_footprints
+    md5: 3ce5d1435e0bd2f03687fe29bef049f5
+    md5_10: 3ce5d1435e
+    md5_5: 3ce5d
+    md5_6: 3ce5d1
+    oomp_key: oomp_digikey_digikey_footprints_test_point_pin_drill2_79mm
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_test_point_pin_drill2_79mm
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_test_point_pin_drill2_79mm_3ce5d1
+    oomp_key_simple: digikey_digikey_footprints_test_point_pin_drill2_79mm
     original_filename: digikey-kicad-library/digikey-footprints.pretty/Test-Point-Pin_Drill2.79mm.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_test_point_pin_drill2_79mm
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_test_point_pin_drill2_79mm
   oomp_key_simple: digikey_digikey_footprints_test_point_pin_drill2_79mm
   owner: digikey
   repo:

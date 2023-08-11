@@ -17,9 +17,18 @@
   oomp:
     footprint_name: usb_micro
     library_name: vontrapp
+    md5: de7cba5ad87980342839d0def318850c
+    md5_10: de7cba5ad8
+    md5_5: de7cb
+    md5_6: de7cba
+    oomp_key: oomp_vontrapp_vontrapp_usb_micro
+    oomp_key_extra: oomp_footprint_vontrapp_vontrapp_usb_micro
+    oomp_key_full: oomp_footprint_vontrapp_vontrapp_usb_micro_de7cba
+    oomp_key_simple: vontrapp_vontrapp_usb_micro
     original_filename: vontrapp.pretty/USB_Micro.kicad_mod
     owner_name: vontrapp
   oomp_key: oomp_vontrapp_vontrapp_usb_micro
+  oomp_key_full: oomp_footprint_vontrapp_vontrapp_usb_micro
   oomp_key_simple: vontrapp_vontrapp_usb_micro
   owner: vontrapp
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: mpu6500_kai
     library_name: kicad_smd
+    md5: 423dfe1a1b3752b74dfc20ada9d27303
+    md5_10: 423dfe1a1b
+    md5_5: 423df
+    md5_6: 423dfe
+    oomp_key: oomp_kikaiken_kicad_smd_mpu6500_kai
+    oomp_key_extra: oomp_footprint_kikaiken_kicad_smd_mpu6500_kai
+    oomp_key_full: oomp_footprint_kikaiken_kicad_smd_mpu6500_kai_423dfe
+    oomp_key_simple: kikaiken_kicad_smd_mpu6500_kai
     original_filename: kicad_smd.pretty/MPU6500_kai.kicad_mod
     owner_name: kikaiken
   oomp_key: oomp_kikaiken_kicad_smd_mpu6500_kai
+  oomp_key_full: oomp_footprint_kikaiken_kicad_smd_mpu6500_kai
   oomp_key_simple: kikaiken_kicad_smd_mpu6500_kai
   owner: kikaiken
   repo:

@@ -18,9 +18,18 @@
   oomp:
     footprint_name: signalcommunications_we_ve_ulc_0402
     library_name: signalcommunications
+    md5: a96ddbf8680a450e9b3ca3549bd8f27e
+    md5_10: a96ddbf868
+    md5_5: a96dd
+    md5_6: a96ddb
+    oomp_key: oomp_electroniccats_signalcommunications_signalcommunications_we_ve_ulc_0402
+    oomp_key_extra: oomp_footprint_electroniccats_signalcommunications_signalcommunications_we_ve_ulc_0402
+    oomp_key_full: oomp_footprint_electroniccats_signalcommunications_signalcommunications_we_ve_ulc_0402_a96ddb
+    oomp_key_simple: electroniccats_signalcommunications_signalcommunications_we_ve_ulc_0402
     original_filename: ComponentLibrariesKicadWurthElektronik/SIGNAL-COMMUNICATIONS-rev18a/SignalCommunications.pretty/SignalCommunications-WE-VE_ULC_0402.kicad_mod
     owner_name: electroniccats
   oomp_key: oomp_electroniccats_signalcommunications_signalcommunications_we_ve_ulc_0402
+  oomp_key_full: oomp_footprint_electroniccats_signalcommunications_signalcommunications_we_ve_ulc_0402
   oomp_key_simple: electroniccats_signalcommunications_signalcommunications_we_ve_ulc_0402
   owner: ElectronicCats
   repo:

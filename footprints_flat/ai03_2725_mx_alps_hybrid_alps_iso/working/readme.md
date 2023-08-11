@@ -19,8 +19,9 @@ Please consult that link for additional, details, files, and license information
 | github_path | http://github.com/ai03-2725/MX_Alps_Hybrid.pretty/blob/master/Alps_Only.pretty/ALPS-ISO.kicad_mod |  
 | links | {'github_src': 'http://gitlab.com/ai03-2725/MX_Alps_Hybrid.pretty/blob/master/MX_Only.pretty/MXOnly-LEDONLY.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/ai03_2725_mx_alps_hybrid_alps_iso/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/ai03_2725_mx_alps_hybrid_alps_iso/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/ai03_2725_mx_alps_hybrid_alps_iso/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/ai03_2725_mx_alps_hybrid_alps_iso/working'} |  
 | name | MX_Alps_Hybrid.pretty |  
-| oomp | {'footprint_name': 'alps_iso', 'library_name': 'alps_only', 'original_filename': 'MX_Alps_Hybrid.pretty/Alps_Only.pretty/ALPS-ISO.kicad_mod', 'owner_name': 'ai03_2725'} |  
+| oomp | {'footprint_name': 'alps_iso', 'library_name': 'mx_alps_hybrid', 'md5': 'f5ca5c0fbb8a893e3d8152618636cde3', 'md5_10': 'f5ca5c0fbb', 'md5_5': 'f5ca5', 'md5_6': 'f5ca5c', 'oomp_key': 'oomp_ai03_2725_mx_alps_hybrid_alps_iso', 'oomp_key_extra': 'oomp_footprint_ai03_2725_mx_alps_hybrid_alps_iso', 'oomp_key_full': 'oomp_footprint_ai03_2725_mx_alps_hybrid_alps_iso_f5ca5c', 'oomp_key_simple': 'ai03_2725_mx_alps_hybrid_alps_iso', 'original_filename': 'MX_Alps_Hybrid.pretty/Alps_Only.pretty/ALPS-ISO.kicad_mod', 'owner_name': 'ai03_2725'} |  
 | oomp_key | oomp_ai03_2725_mx_alps_hybrid_alps_iso |  
+| oomp_key_full | oomp_footprint_ai03_2725_mx_alps_hybrid_alps_iso |  
 | oomp_key_simple | ai03_2725_mx_alps_hybrid_alps_iso |  
 | owner | ai03-2725 |  
 | repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  

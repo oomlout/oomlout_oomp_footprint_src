@@ -17,9 +17,18 @@
   oomp:
     footprint_name: cp_elec_6_3x5_4_nichicon
     library_name: capacitor_smd
+    md5: ee4c4d644585f8177f0e48c17cb45f61
+    md5_10: ee4c4d6445
+    md5_5: ee4c4
+    md5_6: ee4c4d
+    oomp_key: oomp_kicad_capacitor_smd_cp_elec_6_3x5_4_nichicon
+    oomp_key_extra: oomp_footprint_kicad_capacitor_smd_cp_elec_6_3x5_4_nichicon
+    oomp_key_full: oomp_footprint_kicad_capacitor_smd_cp_elec_6_3x5_4_nichicon_ee4c4d
+    oomp_key_simple: kicad_capacitor_smd_cp_elec_6_3x5_4_nichicon
     original_filename: libraries/kicad-footprints/Capacitor_SMD.pretty/CP_Elec_6.3x5.4_Nichicon.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_capacitor_smd_cp_elec_6_3x5_4_nichicon
+  oomp_key_full: oomp_footprint_kicad_capacitor_smd_cp_elec_6_3x5_4_nichicon
   oomp_key_simple: kicad_capacitor_smd_cp_elec_6_3x5_4_nichicon
   owner: kicad
   repo:

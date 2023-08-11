@@ -19,9 +19,18 @@
   oomp:
     footprint_name: c_0201_0603metric_pad0_64x0_40mm_handsolder
     library_name: capacitor_smd
+    md5: 95161036b0d07fc435b3b0e9e2091e3e
+    md5_10: 95161036b0
+    md5_5: '95161'
+    md5_6: '951610'
+    oomp_key: oomp_kicad_capacitor_smd_c_0201_0603metric_pad0_64x0_40mm_handsolder
+    oomp_key_extra: oomp_footprint_kicad_capacitor_smd_c_0201_0603metric_pad0_64x0_40mm_handsolder
+    oomp_key_full: oomp_footprint_kicad_capacitor_smd_c_0201_0603metric_pad0_64x0_40mm_handsolder_951610
+    oomp_key_simple: kicad_capacitor_smd_c_0201_0603metric_pad0_64x0_40mm_handsolder
     original_filename: libraries/kicad-footprints/Capacitor_SMD.pretty/C_0201_0603Metric_Pad0.64x0.40mm_HandSolder.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_capacitor_smd_c_0201_0603metric_pad0_64x0_40mm_handsolder
+  oomp_key_full: oomp_footprint_kicad_capacitor_smd_c_0201_0603metric_pad0_64x0_40mm_handsolder
   oomp_key_simple: kicad_capacitor_smd_c_0201_0603metric_pad0_64x0_40mm_handsolder
   owner: kicad
   repo:

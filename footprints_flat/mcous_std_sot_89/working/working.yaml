@@ -17,9 +17,18 @@
   oomp:
     footprint_name: _sot_89
     library_name: _std
+    md5: d4f0da69772f706f9f064cdb924ebb79
+    md5_10: d4f0da6977
+    md5_5: d4f0d
+    md5_6: d4f0da
+    oomp_key: oomp_mcous_std_sot_89
+    oomp_key_extra: oomp_footprint_mcous_std_sot_89
+    oomp_key_full: oomp_footprint_mcous_std_sot_89_d4f0da
+    oomp_key_simple: mcous_std_sot_89
     original_filename: kicad-lib/footprints/_std.pretty/_SOT-89.kicad_mod
     owner_name: mcous
   oomp_key: oomp_mcous_std_sot_89
+  oomp_key_full: oomp_footprint_mcous_std_sot_89
   oomp_key_simple: mcous_std_sot_89
   owner: mcous
   repo:

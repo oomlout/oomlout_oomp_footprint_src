@@ -17,9 +17,18 @@
   oomp:
     footprint_name: dfn_10_1ep_2x2mm_pitch0_40mm
     library_name: avp
+    md5: dc7a395153003959839e56fcd7482d7a
+    md5_10: dc7a395153
+    md5_5: dc7a3
+    md5_6: dc7a39
+    oomp_key: oomp_av_p_avp_dfn_10_1ep_2x2mm_pitch0_40mm
+    oomp_key_extra: oomp_footprint_av_p_avp_dfn_10_1ep_2x2mm_pitch0_40mm
+    oomp_key_full: oomp_footprint_av_p_avp_dfn_10_1ep_2x2mm_pitch0_40mm_dc7a39
+    oomp_key_simple: av_p_avp_dfn_10_1ep_2x2mm_pitch0_40mm
     original_filename: Avp.pretty/DFN-10-1EP_2x2mm_Pitch0.40mm.kicad_mod
     owner_name: av_p
   oomp_key: oomp_av_p_avp_dfn_10_1ep_2x2mm_pitch0_40mm
+  oomp_key_full: oomp_footprint_av_p_avp_dfn_10_1ep_2x2mm_pitch0_40mm
   oomp_key_simple: av_p_avp_dfn_10_1ep_2x2mm_pitch0_40mm
   owner: av-p
   repo:

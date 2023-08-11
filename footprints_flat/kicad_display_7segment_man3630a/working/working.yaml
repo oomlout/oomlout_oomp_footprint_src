@@ -17,9 +17,18 @@
   oomp:
     footprint_name: man3630a
     library_name: display_7segment
+    md5: bed39eb3ec1a3036bde8e65e485bf619
+    md5_10: bed39eb3ec
+    md5_5: bed39
+    md5_6: bed39e
+    oomp_key: oomp_kicad_display_7segment_man3630a
+    oomp_key_extra: oomp_footprint_kicad_display_7segment_man3630a
+    oomp_key_full: oomp_footprint_kicad_display_7segment_man3630a_bed39e
+    oomp_key_simple: kicad_display_7segment_man3630a
     original_filename: libraries/kicad-footprints/Display_7Segment.pretty/MAN3630A.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_display_7segment_man3630a
+  oomp_key_full: oomp_footprint_kicad_display_7segment_man3630a
   oomp_key_simple: kicad_display_7segment_man3630a
   owner: kicad
   repo:

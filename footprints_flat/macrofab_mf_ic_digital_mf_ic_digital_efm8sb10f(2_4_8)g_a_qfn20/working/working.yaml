@@ -17,9 +17,18 @@
   oomp:
     footprint_name: mf_ic_digital_efm8sb10f(2_4_8)g_a_qfn20
     library_name: mf_ic_digital
+    md5: 7da064a5a8cb5a60ef4c3e2efc92ada9
+    md5_10: 7da064a5a8
+    md5_5: 7da06
+    md5_6: 7da064
+    oomp_key: oomp_macrofab_mf_ic_digital_mf_ic_digital_efm8sb10f(2_4_8)g_a_qfn20
+    oomp_key_extra: oomp_footprint_macrofab_mf_ic_digital_mf_ic_digital_efm8sb10f(2_4_8)g_a_qfn20
+    oomp_key_full: oomp_footprint_macrofab_mf_ic_digital_mf_ic_digital_efm8sb10f(2_4_8)g_a_qfn20_7da064
+    oomp_key_simple: macrofab_mf_ic_digital_mf_ic_digital_efm8sb10f(2_4_8)g_a_qfn20
     original_filename: EDALibraries/KiCad/Footprints/MF_IC_Digital.pretty/MF_IC_Digital-EFM8SB10F(2_4_8)G-A-QFN20.kicad_mod
     owner_name: macrofab
   oomp_key: oomp_macrofab_mf_ic_digital_mf_ic_digital_efm8sb10f(2_4_8)g_a_qfn20
+  oomp_key_full: oomp_footprint_macrofab_mf_ic_digital_mf_ic_digital_efm8sb10f(2_4_8)g_a_qfn20
   oomp_key_simple: macrofab_mf_ic_digital_mf_ic_digital_efm8sb10f(2_4_8)g_a_qfn20
   owner: MacroFab
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: cherry_pcb_200v
     library_name: keyboard
+    md5: fc18e3804dda7f266ac56f7283184d29
+    md5_10: fc18e3804d
+    md5_5: fc18e
+    md5_6: fc18e3
+    oomp_key: oomp_stormbard_keyboard_cherry_pcb_200v
+    oomp_key_extra: oomp_footprint_stormbard_keyboard_cherry_pcb_200v
+    oomp_key_full: oomp_footprint_stormbard_keyboard_cherry_pcb_200v_fc18e3
+    oomp_key_simple: stormbard_keyboard_cherry_pcb_200v
     original_filename: Keyboard.pretty/CHERRY_PCB_200V.kicad_mod
     owner_name: stormbard
   oomp_key: oomp_stormbard_keyboard_cherry_pcb_200v
+  oomp_key_full: oomp_footprint_stormbard_keyboard_cherry_pcb_200v
   oomp_key_simple: stormbard_keyboard_cherry_pcb_200v
   owner: stormbard
   repo:

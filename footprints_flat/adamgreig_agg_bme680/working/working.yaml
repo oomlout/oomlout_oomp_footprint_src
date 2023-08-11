@@ -17,9 +17,18 @@
   oomp:
     footprint_name: bme680
     library_name: agg
+    md5: 68b6043284546b09d6af14c81a4d11cd
+    md5_10: 68b6043284
+    md5_5: 68b60
+    md5_6: 68b604
+    oomp_key: oomp_adamgreig_agg_bme680
+    oomp_key_extra: oomp_footprint_adamgreig_agg_bme680
+    oomp_key_full: oomp_footprint_adamgreig_agg_bme680_68b604
+    oomp_key_simple: adamgreig_agg_bme680
     original_filename: agg-kicad/agg.pretty/BME680.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_bme680
+  oomp_key_full: oomp_footprint_adamgreig_agg_bme680
   oomp_key_simple: adamgreig_agg_bme680
   owner: adamgreig
   repo:

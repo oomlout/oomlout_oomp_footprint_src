@@ -18,9 +18,18 @@
   oomp:
     footprint_name: hsop_20_1ep_11_0x15_9mm_p1_27mm_slugdown
     library_name: package_so
+    md5: a8ddab558ab3b36a8b6bdc6828ae5432
+    md5_10: a8ddab558a
+    md5_5: a8dda
+    md5_6: a8ddab
+    oomp_key: oomp_kicad_package_so_hsop_20_1ep_11_0x15_9mm_p1_27mm_slugdown
+    oomp_key_extra: oomp_footprint_kicad_package_so_hsop_20_1ep_11_0x15_9mm_p1_27mm_slugdown
+    oomp_key_full: oomp_footprint_kicad_package_so_hsop_20_1ep_11_0x15_9mm_p1_27mm_slugdown_a8ddab
+    oomp_key_simple: kicad_package_so_hsop_20_1ep_11_0x15_9mm_p1_27mm_slugdown
     original_filename: libraries/kicad-footprints/Package_SO.pretty/HSOP-20-1EP_11.0x15.9mm_P1.27mm_SlugDown.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_so_hsop_20_1ep_11_0x15_9mm_p1_27mm_slugdown
+  oomp_key_full: oomp_footprint_kicad_package_so_hsop_20_1ep_11_0x15_9mm_p1_27mm_slugdown
   oomp_key_simple: kicad_package_so_hsop_20_1ep_11_0x15_9mm_p1_27mm_slugdown
   owner: kicad
   repo:

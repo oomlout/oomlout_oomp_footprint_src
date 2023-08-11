@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_evqwk4
     library_name: xess
+    md5: d672dcddb13d5d968c217ee9ef3bc740
+    md5_10: d672dcddb1
+    md5_5: d672d
+    md5_6: d672dc
+    oomp_key: oomp_xesscorp_xess_xess_evqwk4
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_evqwk4
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_evqwk4_d672dc
+    oomp_key_simple: xesscorp_xess_xess_evqwk4
     original_filename: xess.pretty/xess-EVQWK4.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_evqwk4
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_evqwk4
   oomp_key_simple: xesscorp_xess_xess_evqwk4
   owner: xesscorp
   repo:

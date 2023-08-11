@@ -18,9 +18,18 @@
   oomp:
     footprint_name: dip_28_w15_24mm
     library_name: package_dip
+    md5: 287c4635f780e583a3ecd47d7774ced5
+    md5_10: 287c4635f7
+    md5_5: 287c4
+    md5_6: 287c46
+    oomp_key: oomp_kicad_package_dip_dip_28_w15_24mm
+    oomp_key_extra: oomp_footprint_kicad_package_dip_dip_28_w15_24mm
+    oomp_key_full: oomp_footprint_kicad_package_dip_dip_28_w15_24mm_287c46
+    oomp_key_simple: kicad_package_dip_dip_28_w15_24mm
     original_filename: libraries/kicad-footprints/Package_DIP.pretty/DIP-28_W15.24mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_dip_dip_28_w15_24mm
+  oomp_key_full: oomp_footprint_kicad_package_dip_dip_28_w15_24mm
   oomp_key_simple: kicad_package_dip_dip_28_w15_24mm
   owner: kicad
   repo:

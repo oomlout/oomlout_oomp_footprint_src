@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sot_363
     library_name: smd_semi
+    md5: eaa1dd01492c9659c178a5d898d445cf
+    md5_10: eaa1dd0149
+    md5_5: eaa1d
+    md5_6: eaa1dd
+    oomp_key: oomp_cpavlina_smd_semi_sot_363
+    oomp_key_extra: oomp_footprint_cpavlina_smd_semi_sot_363
+    oomp_key_full: oomp_footprint_cpavlina_smd_semi_sot_363_eaa1dd
+    oomp_key_simple: cpavlina_smd_semi_sot_363
     original_filename: kicad-pcblib/smd-semi.pretty/SOT-363.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_smd_semi_sot_363
+  oomp_key_full: oomp_footprint_cpavlina_smd_semi_sot_363
   oomp_key_simple: cpavlina_smd_semi_sot_363
   owner: cpavlina
   repo:

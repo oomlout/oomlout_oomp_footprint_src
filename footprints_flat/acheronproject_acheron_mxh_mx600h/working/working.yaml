@@ -17,9 +17,18 @@
   oomp:
     footprint_name: mx600h
     library_name: acheron_mxh
+    md5: 3a02b3abc25abc459e0a8c31241f0b95
+    md5_10: 3a02b3abc2
+    md5_5: 3a02b
+    md5_6: 3a02b3
+    oomp_key: oomp_acheronproject_acheron_mxh_mx600h
+    oomp_key_extra: oomp_footprint_acheronproject_acheron_mxh_mx600h
+    oomp_key_full: oomp_footprint_acheronproject_acheron_mxh_mx600h_3a02b3
+    oomp_key_simple: acheronproject_acheron_mxh_mx600h
     original_filename: acheron_MXH.pretty/MX600H.kicad_mod
     owner_name: acheronproject
   oomp_key: oomp_acheronproject_acheron_mxh_mx600h
+  oomp_key_full: oomp_footprint_acheronproject_acheron_mxh_mx600h
   oomp_key_simple: acheronproject_acheron_mxh_mx600h
   owner: AcheronProject
   repo:

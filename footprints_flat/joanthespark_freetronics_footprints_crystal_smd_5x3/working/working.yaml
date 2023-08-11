@@ -17,9 +17,18 @@
   oomp:
     footprint_name: crystal_smd_5x3
     library_name: freetronics_footprints
+    md5: 966b3c9885131403fa36f678a3f88ed5
+    md5_10: 966b3c9885
+    md5_5: 966b3
+    md5_6: 966b3c
+    oomp_key: oomp_joanthespark_freetronics_footprints_crystal_smd_5x3
+    oomp_key_extra: oomp_footprint_joanthespark_freetronics_footprints_crystal_smd_5x3
+    oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_crystal_smd_5x3_966b3c
+    oomp_key_simple: joanthespark_freetronics_footprints_crystal_smd_5x3
     original_filename: KiCAD/mods/freetronics_footprints.pretty/CRYSTAL-SMD-5X3.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_freetronics_footprints_crystal_smd_5x3
+  oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_crystal_smd_5x3
   oomp_key_simple: joanthespark_freetronics_footprints_crystal_smd_5x3
   owner: JoanTheSpark
   repo:

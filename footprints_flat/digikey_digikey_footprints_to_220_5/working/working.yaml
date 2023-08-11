@@ -17,9 +17,18 @@
   oomp:
     footprint_name: to_220_5
     library_name: digikey_footprints
+    md5: 350eb5c2c181c19781141e399dd522ef
+    md5_10: 350eb5c2c1
+    md5_5: 350eb
+    md5_6: 350eb5
+    oomp_key: oomp_digikey_digikey_footprints_to_220_5
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_to_220_5
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_to_220_5_350eb5
+    oomp_key_simple: digikey_digikey_footprints_to_220_5
     original_filename: digikey-kicad-library/digikey-footprints.pretty/TO-220-5.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_to_220_5
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_to_220_5
   oomp_key_simple: digikey_digikey_footprints_to_220_5
   owner: digikey
   repo:

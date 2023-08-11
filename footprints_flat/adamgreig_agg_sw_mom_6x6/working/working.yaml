@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sw_mom_6x6
     library_name: agg
+    md5: 0c3878f7fe08eb6a008034e137667c75
+    md5_10: 0c3878f7fe
+    md5_5: 0c387
+    md5_6: 0c3878
+    oomp_key: oomp_adamgreig_agg_sw_mom_6x6
+    oomp_key_extra: oomp_footprint_adamgreig_agg_sw_mom_6x6
+    oomp_key_full: oomp_footprint_adamgreig_agg_sw_mom_6x6_0c3878
+    oomp_key_simple: adamgreig_agg_sw_mom_6x6
     original_filename: agg-kicad/agg.pretty/SW_MOM_6X6.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_sw_mom_6x6
+  oomp_key_full: oomp_footprint_adamgreig_agg_sw_mom_6x6
   oomp_key_simple: adamgreig_agg_sw_mom_6x6
   owner: adamgreig
   repo:

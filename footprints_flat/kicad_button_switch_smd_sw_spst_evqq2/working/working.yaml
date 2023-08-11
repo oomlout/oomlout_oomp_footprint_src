@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sw_spst_evqq2
     library_name: button_switch_smd
+    md5: e39eaae833d3ab9b61d1e8a039b72780
+    md5_10: e39eaae833
+    md5_5: e39ea
+    md5_6: e39eaa
+    oomp_key: oomp_kicad_button_switch_smd_sw_spst_evqq2
+    oomp_key_extra: oomp_footprint_kicad_button_switch_smd_sw_spst_evqq2
+    oomp_key_full: oomp_footprint_kicad_button_switch_smd_sw_spst_evqq2_e39eaa
+    oomp_key_simple: kicad_button_switch_smd_sw_spst_evqq2
     original_filename: libraries/kicad-footprints/Button_Switch_SMD.pretty/SW_SPST_EVQQ2.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_button_switch_smd_sw_spst_evqq2
+  oomp_key_full: oomp_footprint_kicad_button_switch_smd_sw_spst_evqq2
   oomp_key_simple: kicad_button_switch_smd_sw_spst_evqq2
   owner: kicad
   repo:

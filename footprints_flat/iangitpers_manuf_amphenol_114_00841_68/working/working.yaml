@@ -19,9 +19,18 @@
   oomp:
     footprint_name: amphenol_114_00841_68
     library_name: manuf
+    md5: 42d4194a90a9d2355511efc63ffd0f98
+    md5_10: 42d4194a90
+    md5_5: 42d41
+    md5_6: 42d419
+    oomp_key: oomp_iangitpers_manuf_amphenol_114_00841_68
+    oomp_key_extra: oomp_footprint_iangitpers_manuf_amphenol_114_00841_68
+    oomp_key_full: oomp_footprint_iangitpers_manuf_amphenol_114_00841_68_42d419
+    oomp_key_simple: iangitpers_manuf_amphenol_114_00841_68
     original_filename: 4a/manuf.pretty/AMPHENOL-114-00841-68.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_manuf_amphenol_114_00841_68
+  oomp_key_full: oomp_footprint_iangitpers_manuf_amphenol_114_00841_68
   oomp_key_simple: iangitpers_manuf_amphenol_114_00841_68
   owner: Iangitpers
   repo:

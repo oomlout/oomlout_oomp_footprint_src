@@ -18,9 +18,18 @@
   oomp:
     footprint_name: qfn50p500x500x80_33w4
     library_name: ipc7351_nominal
+    md5: fe3ea4b73b6b140e9235340a8e94842c
+    md5_10: fe3ea4b73b
+    md5_5: fe3ea
+    md5_6: fe3ea4
+    oomp_key: oomp_cpavlina_ipc7351_nominal_qfn50p500x500x80_33w4
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_nominal_qfn50p500x500x80_33w4
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_qfn50p500x500x80_33w4_fe3ea4
+    oomp_key_simple: cpavlina_ipc7351_nominal_qfn50p500x500x80_33w4
     original_filename: kicad-pcblib/IPC7351-Nominal.pretty/QFN50P500X500X80-33W4.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_nominal_qfn50p500x500x80_33w4
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_qfn50p500x500x80_33w4
   oomp_key_simple: cpavlina_ipc7351_nominal_qfn50p500x500x80_33w4
   owner: cpavlina
   repo:

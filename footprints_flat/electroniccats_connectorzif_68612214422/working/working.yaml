@@ -15,9 +15,18 @@
   oomp:
     footprint_name: '68612214422'
     library_name: connectorzif
+    md5: db48aa948d0b237fc79ada7bc01c2b3d
+    md5_10: db48aa948d
+    md5_5: db48a
+    md5_6: db48aa
+    oomp_key: oomp_electroniccats_connectorzif_68612214422
+    oomp_key_extra: oomp_footprint_electroniccats_connectorzif_68612214422
+    oomp_key_full: oomp_footprint_electroniccats_connectorzif_68612214422_db48aa
+    oomp_key_simple: electroniccats_connectorzif_68612214422
     original_filename: ComponentLibrariesKicadWurthElektronik/EAGLE-FPC_CONNECTOR_AND_FFC_CAB-rev16b/ConnectorZIF.pretty/68612214422.kicad_mod
     owner_name: electroniccats
   oomp_key: oomp_electroniccats_connectorzif_68612214422
+  oomp_key_full: oomp_footprint_electroniccats_connectorzif_68612214422
   oomp_key_simple: electroniccats_connectorzif_68612214422
   owner: ElectronicCats
   repo:

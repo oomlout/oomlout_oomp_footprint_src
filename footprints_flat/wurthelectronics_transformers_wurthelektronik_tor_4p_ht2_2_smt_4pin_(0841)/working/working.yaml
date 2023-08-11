@@ -17,9 +17,18 @@
   oomp:
     footprint_name: tor_4p_ht2_2_smt_4pin_(0841)
     library_name: transformers_wurthelektronik
+    md5: 9f8dccdac5a15f18e3cdf13b6033f6fc
+    md5_10: 9f8dccdac5
+    md5_5: 9f8dc
+    md5_6: 9f8dcc
+    oomp_key: oomp_wurthelectronics_transformers_wurthelektronik_tor_4p_ht2_2_smt_4pin_(0841)
+    oomp_key_extra: oomp_footprint_wurthelectronics_transformers_wurthelektronik_tor_4p_ht2_2_smt_4pin_(0841)
+    oomp_key_full: oomp_footprint_wurthelectronics_transformers_wurthelektronik_tor_4p_ht2_2_smt_4pin_(0841)_9f8dcc
+    oomp_key_simple: wurthelectronics_transformers_wurthelektronik_tor_4p_ht2_2_smt_4pin_(0841)
     original_filename: Transformers_WurthElektronik.pretty/TOR-4P-HT2.2_SMT_4PIN_(0841).kicad_mod
     owner_name: wurthelectronics
   oomp_key: oomp_wurthelectronics_transformers_wurthelektronik_tor_4p_ht2_2_smt_4pin_(0841)
+  oomp_key_full: oomp_footprint_wurthelectronics_transformers_wurthelektronik_tor_4p_ht2_2_smt_4pin_(0841)
   oomp_key_simple: wurthelectronics_transformers_wurthelektronik_tor_4p_ht2_2_smt_4pin_(0841)
   owner: WurthElectronics
   repo:

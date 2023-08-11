@@ -18,9 +18,18 @@
   oomp:
     footprint_name: xilinx_rfg676
     library_name: package_bga
+    md5: 392fd756fcf1ac3d6052a922ce6e6aee
+    md5_10: 392fd756fc
+    md5_5: 392fd
+    md5_6: 392fd7
+    oomp_key: oomp_kicad_package_bga_xilinx_rfg676
+    oomp_key_extra: oomp_footprint_kicad_package_bga_xilinx_rfg676
+    oomp_key_full: oomp_footprint_kicad_package_bga_xilinx_rfg676_392fd7
+    oomp_key_simple: kicad_package_bga_xilinx_rfg676
     original_filename: libraries/kicad-footprints/Package_BGA.pretty/Xilinx_RFG676.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_bga_xilinx_rfg676
+  oomp_key_full: oomp_footprint_kicad_package_bga_xilinx_rfg676
   oomp_key_simple: kicad_package_bga_xilinx_rfg676
   owner: kicad
   repo:

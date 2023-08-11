@@ -19,9 +19,18 @@
   oomp:
     footprint_name: sw_dip_spstx03_slide_kingtek_dshp03tj_w5_25mm_p1_27mm_jpin
     library_name: button_switch_smd
+    md5: 858d79724563c837f1b12fad34f1a65b
+    md5_10: 858d797245
+    md5_5: 858d7
+    md5_6: 858d79
+    oomp_key: oomp_kicad_button_switch_smd_sw_dip_spstx03_slide_kingtek_dshp03tj_w5_25mm_p1_27mm_jpin
+    oomp_key_extra: oomp_footprint_kicad_button_switch_smd_sw_dip_spstx03_slide_kingtek_dshp03tj_w5_25mm_p1_27mm_jpin
+    oomp_key_full: oomp_footprint_kicad_button_switch_smd_sw_dip_spstx03_slide_kingtek_dshp03tj_w5_25mm_p1_27mm_jpin_858d79
+    oomp_key_simple: kicad_button_switch_smd_sw_dip_spstx03_slide_kingtek_dshp03tj_w5_25mm_p1_27mm_jpin
     original_filename: libraries/kicad-footprints/Button_Switch_SMD.pretty/SW_DIP_SPSTx03_Slide_KingTek_DSHP03TJ_W5.25mm_P1.27mm_JPin.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_button_switch_smd_sw_dip_spstx03_slide_kingtek_dshp03tj_w5_25mm_p1_27mm_jpin
+  oomp_key_full: oomp_footprint_kicad_button_switch_smd_sw_dip_spstx03_slide_kingtek_dshp03tj_w5_25mm_p1_27mm_jpin
   oomp_key_simple: kicad_button_switch_smd_sw_dip_spstx03_slide_kingtek_dshp03tj_w5_25mm_p1_27mm_jpin
   owner: kicad
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: molex_pico_spox_87437_1443_1x14_p1_5mm_vertical
     library_name: connector_molex
+    md5: 72be961aaf77a8108c5324902497fbcb
+    md5_10: 72be961aaf
+    md5_5: 72be9
+    md5_6: 72be96
+    oomp_key: oomp_kicad_connector_molex_molex_pico_spox_87437_1443_1x14_p1_5mm_vertical
+    oomp_key_extra: oomp_footprint_kicad_connector_molex_molex_pico_spox_87437_1443_1x14_p1_5mm_vertical
+    oomp_key_full: oomp_footprint_kicad_connector_molex_molex_pico_spox_87437_1443_1x14_p1_5mm_vertical_72be96
+    oomp_key_simple: kicad_connector_molex_molex_pico_spox_87437_1443_1x14_p1_5mm_vertical
     original_filename: libraries/kicad-footprints/Connector_Molex.pretty/Molex_Pico-SPOX_87437-1443_1x14-P1.5mm_Vertical.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_molex_molex_pico_spox_87437_1443_1x14_p1_5mm_vertical
+  oomp_key_full: oomp_footprint_kicad_connector_molex_molex_pico_spox_87437_1443_1x14_p1_5mm_vertical
   oomp_key_simple: kicad_connector_molex_molex_pico_spox_87437_1443_1x14_p1_5mm_vertical
   owner: kicad
   repo:

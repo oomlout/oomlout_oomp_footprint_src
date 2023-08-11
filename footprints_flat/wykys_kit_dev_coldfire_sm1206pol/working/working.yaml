@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sm1206pol
     library_name: kit_dev_coldfire
+    md5: faa4c97df323d5ab18703a2f12969486
+    md5_10: faa4c97df3
+    md5_5: faa4c
+    md5_6: faa4c9
+    oomp_key: oomp_wykys_kit_dev_coldfire_sm1206pol
+    oomp_key_extra: oomp_footprint_wykys_kit_dev_coldfire_sm1206pol
+    oomp_key_full: oomp_footprint_wykys_kit_dev_coldfire_sm1206pol_faa4c9
+    oomp_key_simple: wykys_kit_dev_coldfire_sm1206pol
     original_filename: kicad/demos/kit-dev-coldfire-xilinx_5213/kit-dev-coldfire.pretty/SM1206POL.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_kit_dev_coldfire_sm1206pol
+  oomp_key_full: oomp_footprint_wykys_kit_dev_coldfire_sm1206pol
   oomp_key_simple: wykys_kit_dev_coldfire_sm1206pol
   owner: wykys
   repo:

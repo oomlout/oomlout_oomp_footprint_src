@@ -17,9 +17,18 @@
   oomp:
     footprint_name: resistor_hybrid_back
     library_name: keebio_parts
+    md5: 20dcf8899a9a4e5745a715772f93249b
+    md5_10: 20dcf8899a
+    md5_5: 20dcf
+    md5_6: 20dcf8
+    oomp_key: oomp_keebio_keebio_parts_resistor_hybrid_back
+    oomp_key_extra: oomp_footprint_keebio_keebio_parts_resistor_hybrid_back
+    oomp_key_full: oomp_footprint_keebio_keebio_parts_resistor_hybrid_back_20dcf8
+    oomp_key_simple: keebio_keebio_parts_resistor_hybrid_back
     original_filename: Keebio-Parts.pretty/Resistor-Hybrid-Back.kicad_mod
     owner_name: keebio
   oomp_key: oomp_keebio_keebio_parts_resistor_hybrid_back
+  oomp_key_full: oomp_footprint_keebio_keebio_parts_resistor_hybrid_back
   oomp_key_simple: keebio_keebio_parts_resistor_hybrid_back
   owner: keebio
   repo:

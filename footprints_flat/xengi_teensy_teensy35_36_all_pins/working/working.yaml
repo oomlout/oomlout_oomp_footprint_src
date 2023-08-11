@@ -17,9 +17,18 @@
   oomp:
     footprint_name: teensy35_36_all_pins
     library_name: teensy
+    md5: b94193aee6dac8386d507c3475d32e56
+    md5_10: b94193aee6
+    md5_5: b9419
+    md5_6: b94193
+    oomp_key: oomp_xengi_teensy_teensy35_36_all_pins
+    oomp_key_extra: oomp_footprint_xengi_teensy_teensy35_36_all_pins
+    oomp_key_full: oomp_footprint_xengi_teensy_teensy35_36_all_pins_b94193
+    oomp_key_simple: xengi_teensy_teensy35_36_all_pins
     original_filename: teensy.pretty/Teensy35_36_All_Pins.kicad_mod
     owner_name: xengi
   oomp_key: oomp_xengi_teensy_teensy35_36_all_pins
+  oomp_key_full: oomp_footprint_xengi_teensy_teensy35_36_all_pins
   oomp_key_simple: xengi_teensy_teensy35_36_all_pins
   owner: XenGi
   repo:

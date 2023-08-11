@@ -17,9 +17,18 @@
   oomp:
     footprint_name: relay_spst_omron_g2rl_1a_e
     library_name: relay_tht
+    md5: 7e66f0e9b50408557cae0eaaf366f0bd
+    md5_10: 7e66f0e9b5
+    md5_5: 7e66f
+    md5_6: 7e66f0
+    oomp_key: oomp_kicad_relay_tht_relay_spst_omron_g2rl_1a_e
+    oomp_key_extra: oomp_footprint_kicad_relay_tht_relay_spst_omron_g2rl_1a_e
+    oomp_key_full: oomp_footprint_kicad_relay_tht_relay_spst_omron_g2rl_1a_e_7e66f0
+    oomp_key_simple: kicad_relay_tht_relay_spst_omron_g2rl_1a_e
     original_filename: libraries/kicad-footprints/Relay_THT.pretty/Relay_SPST_Omron_G2RL-1A-E.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_relay_tht_relay_spst_omron_g2rl_1a_e
+  oomp_key_full: oomp_footprint_kicad_relay_tht_relay_spst_omron_g2rl_1a_e
   oomp_key_simple: kicad_relay_tht_relay_spst_omron_g2rl_1a_e
   owner: kicad
   repo:

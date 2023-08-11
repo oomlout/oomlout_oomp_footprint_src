@@ -17,9 +17,18 @@
   oomp:
     footprint_name: cap_electro_d4s1_8
     library_name: freetronics_footprints
+    md5: 82c3d536eac77c4dda9f8061060f5061
+    md5_10: 82c3d536ea
+    md5_5: 82c3d
+    md5_6: 82c3d5
+    oomp_key: oomp_joanthespark_freetronics_footprints_cap_electro_d4s1_8
+    oomp_key_extra: oomp_footprint_joanthespark_freetronics_footprints_cap_electro_d4s1_8
+    oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_cap_electro_d4s1_8_82c3d5
+    oomp_key_simple: joanthespark_freetronics_footprints_cap_electro_d4s1_8
     original_filename: KiCAD/mods/freetronics_footprints.pretty/CAP_ELECTRO_D4S1.8.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_freetronics_footprints_cap_electro_d4s1_8
+  oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_cap_electro_d4s1_8
   oomp_key_simple: joanthespark_freetronics_footprints_cap_electro_d4s1_8
   owner: JoanTheSpark
   repo:

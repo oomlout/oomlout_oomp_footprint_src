@@ -17,9 +17,18 @@
   oomp:
     footprint_name: mss1210
     library_name: agg
+    md5: 40a320252ffd73eed6641af615bd05c0
+    md5_10: 40a320252f
+    md5_5: 40a32
+    md5_6: 40a320
+    oomp_key: oomp_adamgreig_agg_mss1210
+    oomp_key_extra: oomp_footprint_adamgreig_agg_mss1210
+    oomp_key_full: oomp_footprint_adamgreig_agg_mss1210_40a320
+    oomp_key_simple: adamgreig_agg_mss1210
     original_filename: agg-kicad/agg.pretty/MSS1210.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_mss1210
+  oomp_key_full: oomp_footprint_adamgreig_agg_mss1210
   oomp_key_simple: adamgreig_agg_mss1210
   owner: adamgreig
   repo:

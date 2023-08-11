@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_mcp3304c%2fsl
     library_name: xess
+    md5: 0582947db73d76b8d780cfd29fea59a6
+    md5_10: 0582947db7
+    md5_5: 05829
+    md5_6: 058294
+    oomp_key: oomp_xesscorp_xess_xess_mcp3304c%2fsl
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_mcp3304c%2fsl
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_mcp3304c%2fsl_058294
+    oomp_key_simple: xesscorp_xess_xess_mcp3304c%2fsl
     original_filename: xess.pretty/xess-MCP3304C%2fSL.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_mcp3304c%2fsl
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_mcp3304c%2fsl
   oomp_key_simple: xesscorp_xess_xess_mcp3304c%2fsl
   owner: xesscorp
   repo:

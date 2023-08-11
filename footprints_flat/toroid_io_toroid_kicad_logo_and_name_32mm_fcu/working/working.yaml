@@ -17,9 +17,18 @@
   oomp:
     footprint_name: logo_and_name_32mm_fcu
     library_name: toroid_kicad
+    md5: e24908161708d5a230e37b594030d8b9
+    md5_10: e249081617
+    md5_5: e2490
+    md5_6: e24908
+    oomp_key: oomp_toroid_io_toroid_kicad_logo_and_name_32mm_fcu
+    oomp_key_extra: oomp_footprint_toroid_io_toroid_kicad_logo_and_name_32mm_fcu
+    oomp_key_full: oomp_footprint_toroid_io_toroid_kicad_logo_and_name_32mm_fcu_e24908
+    oomp_key_simple: toroid_io_toroid_kicad_logo_and_name_32mm_fcu
     original_filename: toroid-kicad.pretty/Logo_and_Name_32mm_FCu.kicad_mod
     owner_name: toroid_io
   oomp_key: oomp_toroid_io_toroid_kicad_logo_and_name_32mm_fcu
+  oomp_key_full: oomp_footprint_toroid_io_toroid_kicad_logo_and_name_32mm_fcu
   oomp_key_simple: toroid_io_toroid_kicad_logo_and_name_32mm_fcu
   owner: Toroid-io
   repo:

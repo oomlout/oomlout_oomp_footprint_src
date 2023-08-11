@@ -18,9 +18,18 @@
   oomp:
     footprint_name: molex_picoflex_90325_0026_2x13_p1_27mm_vertical
     library_name: connector_molex
+    md5: 52a84d76345a63c7b363e042930f20a6
+    md5_10: 52a84d7634
+    md5_5: 52a84
+    md5_6: 52a84d
+    oomp_key: oomp_kicad_connector_molex_molex_picoflex_90325_0026_2x13_p1_27mm_vertical
+    oomp_key_extra: oomp_footprint_kicad_connector_molex_molex_picoflex_90325_0026_2x13_p1_27mm_vertical
+    oomp_key_full: oomp_footprint_kicad_connector_molex_molex_picoflex_90325_0026_2x13_p1_27mm_vertical_52a84d
+    oomp_key_simple: kicad_connector_molex_molex_picoflex_90325_0026_2x13_p1_27mm_vertical
     original_filename: libraries/kicad-footprints/Connector_Molex.pretty/Molex_Picoflex_90325-0026_2x13_P1.27mm_Vertical.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_molex_molex_picoflex_90325_0026_2x13_p1_27mm_vertical
+  oomp_key_full: oomp_footprint_kicad_connector_molex_molex_picoflex_90325_0026_2x13_p1_27mm_vertical
   oomp_key_simple: kicad_connector_molex_molex_picoflex_90325_0026_2x13_p1_27mm_vertical
   owner: kicad
   repo:

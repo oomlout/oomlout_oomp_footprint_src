@@ -17,9 +17,18 @@
   oomp:
     footprint_name: b4b_ph_k
     library_name: kicadfootprint
+    md5: 930e7459c4748611c7e8255ae820db3b
+    md5_10: 930e7459c4
+    md5_5: 930e7
+    md5_6: 930e74
+    oomp_key: oomp_vivitainc_kicadfootprint_b4b_ph_k
+    oomp_key_extra: oomp_footprint_vivitainc_kicadfootprint_b4b_ph_k
+    oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_b4b_ph_k_930e74
+    oomp_key_simple: vivitainc_kicadfootprint_b4b_ph_k
     original_filename: KiCADfootprint.pretty/B4B-PH-K.kicad_mod
     owner_name: vivitainc
   oomp_key: oomp_vivitainc_kicadfootprint_b4b_ph_k
+  oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_b4b_ph_k
   oomp_key_simple: vivitainc_kicadfootprint_b4b_ph_k
   owner: vivitainc
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: esp_wroom_02
     library_name: kicadkozuelib
+    md5: 7c6b328674e26386b76d92273fac960e
+    md5_10: 7c6b328674
+    md5_5: 7c6b3
+    md5_6: 7c6b32
+    oomp_key: oomp_kozuenakano_kicadkozuelib_esp_wroom_02
+    oomp_key_extra: oomp_footprint_kozuenakano_kicadkozuelib_esp_wroom_02
+    oomp_key_full: oomp_footprint_kozuenakano_kicadkozuelib_esp_wroom_02_7c6b32
+    oomp_key_simple: kozuenakano_kicadkozuelib_esp_wroom_02
     original_filename: KiCADKozueLib.pretty/ESP-WROOM-02.kicad_mod
     owner_name: kozuenakano
   oomp_key: oomp_kozuenakano_kicadkozuelib_esp_wroom_02
+  oomp_key_full: oomp_footprint_kozuenakano_kicadkozuelib_esp_wroom_02
   oomp_key_simple: kozuenakano_kicadkozuelib_esp_wroom_02
   owner: KozueNakano
   repo:

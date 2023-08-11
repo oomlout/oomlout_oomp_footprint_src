@@ -17,9 +17,18 @@
   oomp:
     footprint_name: symbol_gnu_logo_silkscreentop
     library_name: symbol
+    md5: 3166feb2f912b8b7b7d1e317586a70c7
+    md5_10: 3166feb2f9
+    md5_5: 3166f
+    md5_6: 3166fe
+    oomp_key: oomp_kicad_symbol_symbol_gnu_logo_silkscreentop
+    oomp_key_extra: oomp_footprint_kicad_symbol_symbol_gnu_logo_silkscreentop
+    oomp_key_full: oomp_footprint_kicad_symbol_symbol_gnu_logo_silkscreentop_3166fe
+    oomp_key_simple: kicad_symbol_symbol_gnu_logo_silkscreentop
     original_filename: libraries/kicad-footprints/Symbol.pretty/Symbol_GNU-Logo_SilkscreenTop.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_symbol_symbol_gnu_logo_silkscreentop
+  oomp_key_full: oomp_footprint_kicad_symbol_symbol_gnu_logo_silkscreentop
   oomp_key_simple: kicad_symbol_symbol_gnu_logo_silkscreentop
   owner: kicad
   repo:

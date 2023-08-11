@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: coax_conn_u_fl
-    library_name: source_footprints
+    library_name: coax_conn_u_fl_kicad_mod
+    md5: b8fbc6a7747b1202bb202354f08621d7
+    md5_10: b8fbc6a774
+    md5_5: b8fbc
+    md5_6: b8fbc6
+    oomp_key: oomp_digikey_coax_conn_u_fl_coax_conn_u_fl
+    oomp_key_extra: oomp_footprint_digikey_coax_conn_u_fl_coax_conn_u_fl
+    oomp_key_full: oomp_footprint_digikey_coax_conn_u_fl_coax_conn_u_fl_b8fbc6
+    oomp_key_simple: digikey_coax_conn_u_fl_coax_conn_u_fl
     original_filename: digikey-kicad-library/src/Source_Footprints/Coax_Conn_U.FL.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_coax_conn_u_fl_coax_conn_u_fl
+  oomp_key_full: oomp_footprint_digikey_coax_conn_u_fl_coax_conn_u_fl
   oomp_key_simple: digikey_coax_conn_u_fl_coax_conn_u_fl
   owner: digikey
   repo:

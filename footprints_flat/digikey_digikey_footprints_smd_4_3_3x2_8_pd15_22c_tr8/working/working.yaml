@@ -17,9 +17,18 @@
   oomp:
     footprint_name: smd_4_3_3x2_8_pd15_22c_tr8
     library_name: digikey_footprints
+    md5: 49002b360d7d9c9eecfa05f5b362690f
+    md5_10: 49002b360d
+    md5_5: '49002'
+    md5_6: 49002b
+    oomp_key: oomp_digikey_digikey_footprints_smd_4_3_3x2_8_pd15_22c_tr8
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_smd_4_3_3x2_8_pd15_22c_tr8
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_smd_4_3_3x2_8_pd15_22c_tr8_49002b
+    oomp_key_simple: digikey_digikey_footprints_smd_4_3_3x2_8_pd15_22c_tr8
     original_filename: digikey-kicad-library/digikey-footprints.pretty/SMD-4_3.3x2.8_PD15-22C_TR8.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_smd_4_3_3x2_8_pd15_22c_tr8
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_smd_4_3_3x2_8_pd15_22c_tr8
   oomp_key_simple: digikey_digikey_footprints_smd_4_3_3x2_8_pd15_22c_tr8
   owner: digikey
   repo:

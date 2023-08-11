@@ -17,9 +17,18 @@
   oomp:
     footprint_name: rpi_hat_mounting_hole
     library_name: rpi_hat
+    md5: c897f67381d564c55cd6c4eaa3edbe28
+    md5_10: c897f67381
+    md5_5: c897f
+    md5_6: c897f6
+    oomp_key: oomp_xesscorp_rpi_hat_rpi_hat_mounting_hole
+    oomp_key_extra: oomp_footprint_xesscorp_rpi_hat_rpi_hat_mounting_hole
+    oomp_key_full: oomp_footprint_xesscorp_rpi_hat_rpi_hat_mounting_hole_c897f6
+    oomp_key_simple: xesscorp_rpi_hat_rpi_hat_mounting_hole
     original_filename: RPi_Hat.pretty/RPi_Hat_Mounting_Hole.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_rpi_hat_rpi_hat_mounting_hole
+  oomp_key_full: oomp_footprint_xesscorp_rpi_hat_rpi_hat_mounting_hole
   oomp_key_simple: xesscorp_rpi_hat_rpi_hat_mounting_hole
   owner: xesscorp
   repo:

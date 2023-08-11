@@ -17,9 +17,18 @@
   oomp:
     footprint_name: potentiometer_bourns_prs11s_vertical
     library_name: potentiometer_smd
+    md5: 86502d2604c60dfe87a16b7f8e31334b
+    md5_10: 86502d2604
+    md5_5: '86502'
+    md5_6: 86502d
+    oomp_key: oomp_kicad_potentiometer_smd_potentiometer_bourns_prs11s_vertical
+    oomp_key_extra: oomp_footprint_kicad_potentiometer_smd_potentiometer_bourns_prs11s_vertical
+    oomp_key_full: oomp_footprint_kicad_potentiometer_smd_potentiometer_bourns_prs11s_vertical_86502d
+    oomp_key_simple: kicad_potentiometer_smd_potentiometer_bourns_prs11s_vertical
     original_filename: libraries/kicad-footprints/Potentiometer_SMD.pretty/Potentiometer_Bourns_PRS11S_Vertical.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_potentiometer_smd_potentiometer_bourns_prs11s_vertical
+  oomp_key_full: oomp_footprint_kicad_potentiometer_smd_potentiometer_bourns_prs11s_vertical
   oomp_key_simple: kicad_potentiometer_smd_potentiometer_bourns_prs11s_vertical
   owner: kicad
   repo:

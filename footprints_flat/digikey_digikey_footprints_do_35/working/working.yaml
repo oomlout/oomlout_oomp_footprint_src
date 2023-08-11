@@ -17,9 +17,18 @@
   oomp:
     footprint_name: do_35
     library_name: digikey_footprints
+    md5: 9ecaf00ed45b71826df065343dcdbe7b
+    md5_10: 9ecaf00ed4
+    md5_5: 9ecaf
+    md5_6: 9ecaf0
+    oomp_key: oomp_digikey_digikey_footprints_do_35
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_do_35
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_do_35_9ecaf0
+    oomp_key_simple: digikey_digikey_footprints_do_35
     original_filename: digikey-kicad-library/digikey-footprints.pretty/DO-35.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_do_35
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_do_35
   oomp_key_simple: digikey_digikey_footprints_do_35
   owner: digikey
   repo:

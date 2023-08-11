@@ -17,9 +17,18 @@
   oomp:
     footprint_name: fuse_littelfuse_nano2_462
     library_name: fuse
+    md5: 973b17d1b89c9b5f11396bc85a934adf
+    md5_10: 973b17d1b8
+    md5_5: 973b1
+    md5_6: 973b17
+    oomp_key: oomp_kicad_fuse_fuse_littelfuse_nano2_462
+    oomp_key_extra: oomp_footprint_kicad_fuse_fuse_littelfuse_nano2_462
+    oomp_key_full: oomp_footprint_kicad_fuse_fuse_littelfuse_nano2_462_973b17
+    oomp_key_simple: kicad_fuse_fuse_littelfuse_nano2_462
     original_filename: libraries/kicad-footprints/Fuse.pretty/Fuse_Littelfuse-NANO2-462.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_fuse_fuse_littelfuse_nano2_462
+  oomp_key_full: oomp_footprint_kicad_fuse_fuse_littelfuse_nano2_462
   oomp_key_simple: kicad_fuse_fuse_littelfuse_nano2_462
   owner: kicad
   repo:

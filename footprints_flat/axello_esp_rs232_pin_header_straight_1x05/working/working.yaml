@@ -17,9 +17,18 @@
   oomp:
     footprint_name: pin_header_straight_1x05
     library_name: esp_rs232
+    md5: dc4c8a14138d1793e31a795ceddcce4f
+    md5_10: dc4c8a1413
+    md5_5: dc4c8
+    md5_6: dc4c8a
+    oomp_key: oomp_axello_esp_rs232_pin_header_straight_1x05
+    oomp_key_extra: oomp_footprint_axello_esp_rs232_pin_header_straight_1x05
+    oomp_key_full: oomp_footprint_axello_esp_rs232_pin_header_straight_1x05_dc4c8a
+    oomp_key_simple: axello_esp_rs232_pin_header_straight_1x05
     original_filename: kicad/mods/ESP-RS232.pretty/Pin_Header_Straight_1x05.kicad_mod
     owner_name: axello
   oomp_key: oomp_axello_esp_rs232_pin_header_straight_1x05
+  oomp_key_full: oomp_footprint_axello_esp_rs232_pin_header_straight_1x05
   oomp_key_simple: axello_esp_rs232_pin_header_straight_1x05
   owner: axello
   repo:

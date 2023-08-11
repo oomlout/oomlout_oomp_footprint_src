@@ -18,9 +18,18 @@
   oomp:
     footprint_name: tqfp_44_10x10mm_pitch0_8mm
     library_name: keebio_parts
+    md5: 494e6ae56cc76e9c7817848d6d376961
+    md5_10: 494e6ae56c
+    md5_5: 494e6
+    md5_6: 494e6a
+    oomp_key: oomp_keebio_keebio_parts_tqfp_44_10x10mm_pitch0_8mm
+    oomp_key_extra: oomp_footprint_keebio_keebio_parts_tqfp_44_10x10mm_pitch0_8mm
+    oomp_key_full: oomp_footprint_keebio_keebio_parts_tqfp_44_10x10mm_pitch0_8mm_494e6a
+    oomp_key_simple: keebio_keebio_parts_tqfp_44_10x10mm_pitch0_8mm
     original_filename: Keebio-Parts.pretty/TQFP-44_10x10mm_Pitch0.8mm.kicad_mod
     owner_name: keebio
   oomp_key: oomp_keebio_keebio_parts_tqfp_44_10x10mm_pitch0_8mm
+  oomp_key_full: oomp_footprint_keebio_keebio_parts_tqfp_44_10x10mm_pitch0_8mm
   oomp_key_simple: keebio_keebio_parts_tqfp_44_10x10mm_pitch0_8mm
   owner: keebio
   repo:

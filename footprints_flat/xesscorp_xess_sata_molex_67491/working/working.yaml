@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sata_molex_67491
     library_name: xess
+    md5: 638c90dd2819f2c23ea564f31731fe43
+    md5_10: 638c90dd28
+    md5_5: 638c9
+    md5_6: 638c90
+    oomp_key: oomp_xesscorp_xess_sata_molex_67491
+    oomp_key_extra: oomp_footprint_xesscorp_xess_sata_molex_67491
+    oomp_key_full: oomp_footprint_xesscorp_xess_sata_molex_67491_638c90
+    oomp_key_simple: xesscorp_xess_sata_molex_67491
     original_filename: xess.pretty/SATA-MOLEX-67491.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_sata_molex_67491
+  oomp_key_full: oomp_footprint_xesscorp_xess_sata_molex_67491
   oomp_key_simple: xesscorp_xess_sata_molex_67491
   owner: xesscorp
   repo:

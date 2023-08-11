@@ -17,9 +17,18 @@
   oomp:
     footprint_name: qfp80_10mm_0_4mm
     library_name: freetronics_footprints
+    md5: 32bd12706f676fb5b51e962014126c40
+    md5_10: 32bd12706f
+    md5_5: 32bd1
+    md5_6: 32bd12
+    oomp_key: oomp_wykys_freetronics_footprints_qfp80_10mm_0_4mm
+    oomp_key_extra: oomp_footprint_wykys_freetronics_footprints_qfp80_10mm_0_4mm
+    oomp_key_full: oomp_footprint_wykys_freetronics_footprints_qfp80_10mm_0_4mm_32bd12
+    oomp_key_simple: wykys_freetronics_footprints_qfp80_10mm_0_4mm
     original_filename: kicad/mods/freetronics_footprints.pretty/QFP80_10mm_0.4mm.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_freetronics_footprints_qfp80_10mm_0_4mm
+  oomp_key_full: oomp_footprint_wykys_freetronics_footprints_qfp80_10mm_0_4mm
   oomp_key_simple: wykys_freetronics_footprints_qfp80_10mm_0_4mm
   owner: wykys
   repo:

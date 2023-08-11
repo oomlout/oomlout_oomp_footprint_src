@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sot_223
     library_name: rhais_package_smd
+    md5: 809cd2a0ba5aa7d62051fc18d10c14a6
+    md5_10: 809cd2a0ba
+    md5_5: 809cd
+    md5_6: 809cd2
+    oomp_key: oomp_dx_mon_rhais_package_smd_sot_223
+    oomp_key_extra: oomp_footprint_dx_mon_rhais_package_smd_sot_223
+    oomp_key_full: oomp_footprint_dx_mon_rhais_package_smd_sot_223_809cd2
+    oomp_key_simple: dx_mon_rhais_package_smd_sot_223
     original_filename: rhais_package-smd.pretty/SOT-223.kicad_mod
     owner_name: dx_mon
   oomp_key: oomp_dx_mon_rhais_package_smd_sot_223
+  oomp_key_full: oomp_footprint_dx_mon_rhais_package_smd_sot_223
   oomp_key_simple: dx_mon_rhais_package_smd_sot_223
   owner: DX-MON
   repo:

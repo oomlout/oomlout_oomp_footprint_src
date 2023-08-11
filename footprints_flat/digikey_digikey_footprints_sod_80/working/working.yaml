@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sod_80
     library_name: digikey_footprints
+    md5: 8787fca02106c36b9f5ad56fc357dfc5
+    md5_10: 8787fca021
+    md5_5: 8787f
+    md5_6: 8787fc
+    oomp_key: oomp_digikey_digikey_footprints_sod_80
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_sod_80
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_sod_80_8787fc
+    oomp_key_simple: digikey_digikey_footprints_sod_80
     original_filename: digikey-kicad-library/digikey-footprints.pretty/SOD-80.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_sod_80
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_sod_80
   oomp_key_simple: digikey_digikey_footprints_sod_80
   owner: digikey
   repo:

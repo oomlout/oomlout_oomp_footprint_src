@@ -17,9 +17,18 @@
   oomp:
     footprint_name: banana_plug
     library_name: suf_connector_misc
+    md5: befde77d0913e9bf63a732f18e98cc0d
+    md5_10: befde77d09
+    md5_5: befde
+    md5_6: befde7
+    oomp_key: oomp_suf_kicad_suf_connector_misc_banana_plug
+    oomp_key_extra: oomp_footprint_suf_kicad_suf_connector_misc_banana_plug
+    oomp_key_full: oomp_footprint_suf_kicad_suf_connector_misc_banana_plug_befde7
+    oomp_key_simple: suf_kicad_suf_connector_misc_banana_plug
     original_filename: suf_connector_misc.pretty/BANANA-PLUG.kicad_mod
     owner_name: suf_kicad
   oomp_key: oomp_suf_kicad_suf_connector_misc_banana_plug
+  oomp_key_full: oomp_footprint_suf_kicad_suf_connector_misc_banana_plug
   oomp_key_simple: suf_kicad_suf_connector_misc_banana_plug
   owner: suf-KiCAD
   repo:

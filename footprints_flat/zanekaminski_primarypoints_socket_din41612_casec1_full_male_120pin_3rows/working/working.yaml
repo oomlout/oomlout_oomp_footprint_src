@@ -17,9 +17,18 @@
   oomp:
     footprint_name: socket_din41612_casec1_full_male_120pin_3rows
     library_name: primarypoints
+    md5: 5600a9d408d74c34f980e050d4425eac
+    md5_10: 5600a9d408
+    md5_5: 5600a
+    md5_6: 5600a9
+    oomp_key: oomp_zanekaminski_primarypoints_socket_din41612_casec1_full_male_120pin_3rows
+    oomp_key_extra: oomp_footprint_zanekaminski_primarypoints_socket_din41612_casec1_full_male_120pin_3rows
+    oomp_key_full: oomp_footprint_zanekaminski_primarypoints_socket_din41612_casec1_full_male_120pin_3rows_5600a9
+    oomp_key_simple: zanekaminski_primarypoints_socket_din41612_casec1_full_male_120pin_3rows
     original_filename: primarypoints.pretty/Socket_DIN41612-CaseC1-full-Male-120Pin-3rows.kicad_mod
     owner_name: zanekaminski
   oomp_key: oomp_zanekaminski_primarypoints_socket_din41612_casec1_full_male_120pin_3rows
+  oomp_key_full: oomp_footprint_zanekaminski_primarypoints_socket_din41612_casec1_full_male_120pin_3rows
   oomp_key_simple: zanekaminski_primarypoints_socket_din41612_casec1_full_male_120pin_3rows
   owner: ZaneKaminski
   repo:

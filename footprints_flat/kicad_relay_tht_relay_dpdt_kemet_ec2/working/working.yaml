@@ -17,9 +17,18 @@
   oomp:
     footprint_name: relay_dpdt_kemet_ec2
     library_name: relay_tht
+    md5: cf4aed90a26e4d166ecc6fb63df28dd0
+    md5_10: cf4aed90a2
+    md5_5: cf4ae
+    md5_6: cf4aed
+    oomp_key: oomp_kicad_relay_tht_relay_dpdt_kemet_ec2
+    oomp_key_extra: oomp_footprint_kicad_relay_tht_relay_dpdt_kemet_ec2
+    oomp_key_full: oomp_footprint_kicad_relay_tht_relay_dpdt_kemet_ec2_cf4aed
+    oomp_key_simple: kicad_relay_tht_relay_dpdt_kemet_ec2
     original_filename: libraries/kicad-footprints/Relay_THT.pretty/Relay_DPDT_Kemet_EC2.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_relay_tht_relay_dpdt_kemet_ec2
+  oomp_key_full: oomp_footprint_kicad_relay_tht_relay_dpdt_kemet_ec2
   oomp_key_simple: kicad_relay_tht_relay_dpdt_kemet_ec2
   owner: kicad
   repo:

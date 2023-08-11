@@ -17,9 +17,18 @@
   oomp:
     footprint_name: batteryholder
     library_name: gtb
+    md5: 4b87012c6426a99864580e30c647cd63
+    md5_10: 4b87012c64
+    md5_5: 4b870
+    md5_6: 4b8701
+    oomp_key: oomp_wykys_gtb_batteryholder
+    oomp_key_extra: oomp_footprint_wykys_gtb_batteryholder
+    oomp_key_full: oomp_footprint_wykys_gtb_batteryholder_4b8701
+    oomp_key_simple: wykys_gtb_batteryholder
     original_filename: kicad/GettingToBlinky/GTB.pretty/BatteryHolder.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_gtb_batteryholder
+  oomp_key_full: oomp_footprint_wykys_gtb_batteryholder
   oomp_key_simple: wykys_gtb_batteryholder
   owner: wykys
   repo:

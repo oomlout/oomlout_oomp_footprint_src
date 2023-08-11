@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ind_epcos_b82462g
     library_name: freetronics_footprints
+    md5: 2a600dc628c529b7eed688ed657a77bf
+    md5_10: 2a600dc628
+    md5_5: 2a600
+    md5_6: 2a600d
+    oomp_key: oomp_axello_freetronics_footprints_ind_epcos_b82462g
+    oomp_key_extra: oomp_footprint_axello_freetronics_footprints_ind_epcos_b82462g
+    oomp_key_full: oomp_footprint_axello_freetronics_footprints_ind_epcos_b82462g_2a600d
+    oomp_key_simple: axello_freetronics_footprints_ind_epcos_b82462g
     original_filename: kicad/mods/freetronics_footprints.pretty/IND_EPCOS_B82462G.kicad_mod
     owner_name: axello
   oomp_key: oomp_axello_freetronics_footprints_ind_epcos_b82462g
+  oomp_key_full: oomp_footprint_axello_freetronics_footprints_ind_epcos_b82462g
   oomp_key_simple: axello_freetronics_footprints_ind_epcos_b82462g
   owner: axello
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sot_416
     library_name: package_to_sot_smd
+    md5: 56409ac86057b4cc3118851785a2afa6
+    md5_10: 56409ac860
+    md5_5: '56409'
+    md5_6: 56409a
+    oomp_key: oomp_kicad_package_to_sot_smd_sot_416
+    oomp_key_extra: oomp_footprint_kicad_package_to_sot_smd_sot_416
+    oomp_key_full: oomp_footprint_kicad_package_to_sot_smd_sot_416_56409a
+    oomp_key_simple: kicad_package_to_sot_smd_sot_416
     original_filename: libraries/kicad-footprints/Package_TO_SOT_SMD.pretty/SOT-416.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_to_sot_smd_sot_416
+  oomp_key_full: oomp_footprint_kicad_package_to_sot_smd_sot_416
   oomp_key_simple: kicad_package_to_sot_smd_sot_416
   owner: kicad
   repo:

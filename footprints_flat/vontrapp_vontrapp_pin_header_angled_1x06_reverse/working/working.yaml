@@ -17,9 +17,18 @@
   oomp:
     footprint_name: pin_header_angled_1x06_reverse
     library_name: vontrapp
+    md5: b7565640dda5a16af496834be9ae60cb
+    md5_10: b7565640dd
+    md5_5: b7565
+    md5_6: b75656
+    oomp_key: oomp_vontrapp_vontrapp_pin_header_angled_1x06_reverse
+    oomp_key_extra: oomp_footprint_vontrapp_vontrapp_pin_header_angled_1x06_reverse
+    oomp_key_full: oomp_footprint_vontrapp_vontrapp_pin_header_angled_1x06_reverse_b75656
+    oomp_key_simple: vontrapp_vontrapp_pin_header_angled_1x06_reverse
     original_filename: vontrapp.pretty/Pin_Header_Angled_1x06_reverse.kicad_mod
     owner_name: vontrapp
   oomp_key: oomp_vontrapp_vontrapp_pin_header_angled_1x06_reverse
+  oomp_key_full: oomp_footprint_vontrapp_vontrapp_pin_header_angled_1x06_reverse
   oomp_key_simple: vontrapp_vontrapp_pin_header_angled_1x06_reverse
   owner: vontrapp
   repo:

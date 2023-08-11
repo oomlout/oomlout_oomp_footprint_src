@@ -17,9 +17,18 @@
   oomp:
     footprint_name: vfbga_49_5_0x5_0mm_layout7x7_p0_65mm
     library_name: package_bga
+    md5: a478b8cc9253b21dcd6dff286796ba48
+    md5_10: a478b8cc92
+    md5_5: a478b
+    md5_6: a478b8
+    oomp_key: oomp_kicad_package_bga_vfbga_49_5_0x5_0mm_layout7x7_p0_65mm
+    oomp_key_extra: oomp_footprint_kicad_package_bga_vfbga_49_5_0x5_0mm_layout7x7_p0_65mm
+    oomp_key_full: oomp_footprint_kicad_package_bga_vfbga_49_5_0x5_0mm_layout7x7_p0_65mm_a478b8
+    oomp_key_simple: kicad_package_bga_vfbga_49_5_0x5_0mm_layout7x7_p0_65mm
     original_filename: libraries/kicad-footprints/Package_BGA.pretty/VFBGA-49_5.0x5.0mm_Layout7x7_P0.65mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_bga_vfbga_49_5_0x5_0mm_layout7x7_p0_65mm
+  oomp_key_full: oomp_footprint_kicad_package_bga_vfbga_49_5_0x5_0mm_layout7x7_p0_65mm
   oomp_key_simple: kicad_package_bga_vfbga_49_5_0x5_0mm_layout7x7_p0_65mm
   owner: kicad
   repo:

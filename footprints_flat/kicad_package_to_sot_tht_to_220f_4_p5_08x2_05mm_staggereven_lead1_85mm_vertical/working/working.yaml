@@ -17,9 +17,18 @@
   oomp:
     footprint_name: to_220f_4_p5_08x2_05mm_staggereven_lead1_85mm_vertical
     library_name: package_to_sot_tht
+    md5: 684d13b27528198bc7c3f8a62d6ee667
+    md5_10: 684d13b275
+    md5_5: 684d1
+    md5_6: 684d13
+    oomp_key: oomp_kicad_package_to_sot_tht_to_220f_4_p5_08x2_05mm_staggereven_lead1_85mm_vertical
+    oomp_key_extra: oomp_footprint_kicad_package_to_sot_tht_to_220f_4_p5_08x2_05mm_staggereven_lead1_85mm_vertical
+    oomp_key_full: oomp_footprint_kicad_package_to_sot_tht_to_220f_4_p5_08x2_05mm_staggereven_lead1_85mm_vertical_684d13
+    oomp_key_simple: kicad_package_to_sot_tht_to_220f_4_p5_08x2_05mm_staggereven_lead1_85mm_vertical
     original_filename: libraries/kicad-footprints/Package_TO_SOT_THT.pretty/TO-220F-4_P5.08x2.05mm_StaggerEven_Lead1.85mm_Vertical.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_to_sot_tht_to_220f_4_p5_08x2_05mm_staggereven_lead1_85mm_vertical
+  oomp_key_full: oomp_footprint_kicad_package_to_sot_tht_to_220f_4_p5_08x2_05mm_staggereven_lead1_85mm_vertical
   oomp_key_simple: kicad_package_to_sot_tht_to_220f_4_p5_08x2_05mm_staggereven_lead1_85mm_vertical
   owner: kicad
   repo:

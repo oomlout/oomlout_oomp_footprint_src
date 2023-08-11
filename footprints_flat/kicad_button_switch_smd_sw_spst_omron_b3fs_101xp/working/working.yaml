@@ -18,9 +18,18 @@
   oomp:
     footprint_name: sw_spst_omron_b3fs_101xp
     library_name: button_switch_smd
+    md5: 1b33c327fe59f69a33d7ac88252bb41c
+    md5_10: 1b33c327fe
+    md5_5: 1b33c
+    md5_6: 1b33c3
+    oomp_key: oomp_kicad_button_switch_smd_sw_spst_omron_b3fs_101xp
+    oomp_key_extra: oomp_footprint_kicad_button_switch_smd_sw_spst_omron_b3fs_101xp
+    oomp_key_full: oomp_footprint_kicad_button_switch_smd_sw_spst_omron_b3fs_101xp_1b33c3
+    oomp_key_simple: kicad_button_switch_smd_sw_spst_omron_b3fs_101xp
     original_filename: libraries/kicad-footprints/Button_Switch_SMD.pretty/SW_SPST_Omron_B3FS-101xP.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_button_switch_smd_sw_spst_omron_b3fs_101xp
+  oomp_key_full: oomp_footprint_kicad_button_switch_smd_sw_spst_omron_b3fs_101xp
   oomp_key_simple: kicad_button_switch_smd_sw_spst_omron_b3fs_101xp
   owner: kicad
   repo:

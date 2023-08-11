@@ -17,9 +17,18 @@
   oomp:
     footprint_name: planar_smt_6pin_(1091)
     library_name: transformers_wurthelektronik
+    md5: 4683ea104625c5e26d2f30809f0b12a7
+    md5_10: 4683ea1046
+    md5_5: 4683e
+    md5_6: 4683ea
+    oomp_key: oomp_wurthelectronics_transformers_wurthelektronik_planar_smt_6pin_(1091)
+    oomp_key_extra: oomp_footprint_wurthelectronics_transformers_wurthelektronik_planar_smt_6pin_(1091)
+    oomp_key_full: oomp_footprint_wurthelectronics_transformers_wurthelektronik_planar_smt_6pin_(1091)_4683ea
+    oomp_key_simple: wurthelectronics_transformers_wurthelektronik_planar_smt_6pin_(1091)
     original_filename: Transformers_WurthElektronik.pretty/PLANAR_SMT_6PIN_(1091).kicad_mod
     owner_name: wurthelectronics
   oomp_key: oomp_wurthelectronics_transformers_wurthelektronik_planar_smt_6pin_(1091)
+  oomp_key_full: oomp_footprint_wurthelectronics_transformers_wurthelektronik_planar_smt_6pin_(1091)
   oomp_key_simple: wurthelectronics_transformers_wurthelektronik_planar_smt_6pin_(1091)
   owner: WurthElectronics
   repo:

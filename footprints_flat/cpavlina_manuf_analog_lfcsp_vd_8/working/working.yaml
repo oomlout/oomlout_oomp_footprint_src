@@ -18,9 +18,18 @@
   oomp:
     footprint_name: analog_lfcsp_vd_8
     library_name: manuf
+    md5: 3e36578bafe2a15afce6ebed0cb1e39b
+    md5_10: 3e36578baf
+    md5_5: 3e365
+    md5_6: 3e3657
+    oomp_key: oomp_cpavlina_manuf_analog_lfcsp_vd_8
+    oomp_key_extra: oomp_footprint_cpavlina_manuf_analog_lfcsp_vd_8
+    oomp_key_full: oomp_footprint_cpavlina_manuf_analog_lfcsp_vd_8_3e3657
+    oomp_key_simple: cpavlina_manuf_analog_lfcsp_vd_8
     original_filename: kicad-pcblib/manuf.pretty/ANALOG-LFCSP_VD-8.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_manuf_analog_lfcsp_vd_8
+  oomp_key_full: oomp_footprint_cpavlina_manuf_analog_lfcsp_vd_8
   oomp_key_simple: cpavlina_manuf_analog_lfcsp_vd_8
   owner: cpavlina
   repo:

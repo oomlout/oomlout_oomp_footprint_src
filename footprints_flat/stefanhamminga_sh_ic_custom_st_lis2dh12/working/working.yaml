@@ -17,9 +17,18 @@
   oomp:
     footprint_name: st_lis2dh12
     library_name: sh_ic_custom
+    md5: 9ee6549c55feaaf8d1d10e6a1e6045b3
+    md5_10: 9ee6549c55
+    md5_5: 9ee65
+    md5_6: 9ee654
+    oomp_key: oomp_stefanhamminga_sh_ic_custom_st_lis2dh12
+    oomp_key_extra: oomp_footprint_stefanhamminga_sh_ic_custom_st_lis2dh12
+    oomp_key_full: oomp_footprint_stefanhamminga_sh_ic_custom_st_lis2dh12_9ee654
+    oomp_key_simple: stefanhamminga_sh_ic_custom_st_lis2dh12
     original_filename: SH_IC_Custom.pretty/ST_LIS2DH12.kicad_mod
     owner_name: stefanhamminga
   oomp_key: oomp_stefanhamminga_sh_ic_custom_st_lis2dh12
+  oomp_key_full: oomp_footprint_stefanhamminga_sh_ic_custom_st_lis2dh12
   oomp_key_simple: stefanhamminga_sh_ic_custom_st_lis2dh12
   owner: StefanHamminga
   repo:

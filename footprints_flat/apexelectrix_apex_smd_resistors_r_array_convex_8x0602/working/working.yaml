@@ -17,9 +17,18 @@
   oomp:
     footprint_name: r_array_convex_8x0602
     library_name: apex_smd_resistors
+    md5: c63e8135ac5e71c33486d07d9fb2ce82
+    md5_10: c63e8135ac
+    md5_5: c63e8
+    md5_6: c63e81
+    oomp_key: oomp_apexelectrix_apex_smd_resistors_r_array_convex_8x0602
+    oomp_key_extra: oomp_footprint_apexelectrix_apex_smd_resistors_r_array_convex_8x0602
+    oomp_key_full: oomp_footprint_apexelectrix_apex_smd_resistors_r_array_convex_8x0602_c63e81
+    oomp_key_simple: apexelectrix_apex_smd_resistors_r_array_convex_8x0602
     original_filename: apex-smd-resistors.pretty/R_Array_Convex_8x0602.kicad_mod
     owner_name: apexelectrix
   oomp_key: oomp_apexelectrix_apex_smd_resistors_r_array_convex_8x0602
+  oomp_key_full: oomp_footprint_apexelectrix_apex_smd_resistors_r_array_convex_8x0602
   oomp_key_simple: apexelectrix_apex_smd_resistors_r_array_convex_8x0602
   owner: apexelectrix
   repo:

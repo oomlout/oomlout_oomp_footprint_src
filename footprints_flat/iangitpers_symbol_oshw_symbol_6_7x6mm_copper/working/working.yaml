@@ -19,9 +19,18 @@
   oomp:
     footprint_name: oshw_symbol_6_7x6mm_copper
     library_name: symbol
+    md5: add1a198047fd4ddec0870baec4b05b4
+    md5_10: add1a19804
+    md5_5: add1a
+    md5_6: add1a1
+    oomp_key: oomp_iangitpers_symbol_oshw_symbol_6_7x6mm_copper
+    oomp_key_extra: oomp_footprint_iangitpers_symbol_oshw_symbol_6_7x6mm_copper
+    oomp_key_full: oomp_footprint_iangitpers_symbol_oshw_symbol_6_7x6mm_copper_add1a1
+    oomp_key_simple: iangitpers_symbol_oshw_symbol_6_7x6mm_copper
     original_filename: 4a/Symbol.pretty/OSHW-Symbol_6.7x6mm_Copper.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_symbol_oshw_symbol_6_7x6mm_copper
+  oomp_key_full: oomp_footprint_iangitpers_symbol_oshw_symbol_6_7x6mm_copper
   oomp_key_simple: iangitpers_symbol_oshw_symbol_6_7x6mm_copper
   owner: Iangitpers
   repo:

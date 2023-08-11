@@ -18,9 +18,18 @@
   oomp:
     footprint_name: tqfp_100_12x12mm_p0_4mm
     library_name: package_qfp
+    md5: 63d1976b17ff4bb04237ade36661cad3
+    md5_10: 63d1976b17
+    md5_5: 63d19
+    md5_6: 63d197
+    oomp_key: oomp_kicad_package_qfp_tqfp_100_12x12mm_p0_4mm
+    oomp_key_extra: oomp_footprint_kicad_package_qfp_tqfp_100_12x12mm_p0_4mm
+    oomp_key_full: oomp_footprint_kicad_package_qfp_tqfp_100_12x12mm_p0_4mm_63d197
+    oomp_key_simple: kicad_package_qfp_tqfp_100_12x12mm_p0_4mm
     original_filename: libraries/kicad-footprints/Package_QFP.pretty/TQFP-100_12x12mm_P0.4mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_qfp_tqfp_100_12x12mm_p0_4mm
+  oomp_key_full: oomp_footprint_kicad_package_qfp_tqfp_100_12x12mm_p0_4mm
   oomp_key_simple: kicad_package_qfp_tqfp_100_12x12mm_p0_4mm
   owner: kicad
   repo:

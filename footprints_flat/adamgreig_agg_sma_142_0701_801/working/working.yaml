@@ -16,10 +16,19 @@
   name: agg-kicad
   oomp:
     footprint_name: sma_142_0701_801
-    library_name: unchecked
+    library_name: agg
+    md5: 6377a172a12b9bbe8de98d5733ffc8ec
+    md5_10: 6377a172a1
+    md5_5: 6377a
+    md5_6: 6377a1
+    oomp_key: oomp_adamgreig_agg_sma_142_0701_801
+    oomp_key_extra: oomp_footprint_adamgreig_agg_sma_142_0701_801
+    oomp_key_full: oomp_footprint_adamgreig_agg_sma_142_0701_801_6377a1
+    oomp_key_simple: adamgreig_agg_sma_142_0701_801
     original_filename: agg-kicad/agg.pretty/unchecked.pretty/SMA-142-0701-801.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_sma_142_0701_801
+  oomp_key_full: oomp_footprint_adamgreig_agg_sma_142_0701_801
   oomp_key_simple: adamgreig_agg_sma_142_0701_801
   owner: adamgreig
   repo:

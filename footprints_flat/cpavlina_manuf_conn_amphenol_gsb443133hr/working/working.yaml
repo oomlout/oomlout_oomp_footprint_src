@@ -17,9 +17,18 @@
   oomp:
     footprint_name: conn_amphenol_gsb443133hr
     library_name: manuf
+    md5: 049127e95bfc752e21fc689f6486343d
+    md5_10: 049127e95b
+    md5_5: 04912
+    md5_6: 049127
+    oomp_key: oomp_cpavlina_manuf_conn_amphenol_gsb443133hr
+    oomp_key_extra: oomp_footprint_cpavlina_manuf_conn_amphenol_gsb443133hr
+    oomp_key_full: oomp_footprint_cpavlina_manuf_conn_amphenol_gsb443133hr_049127
+    oomp_key_simple: cpavlina_manuf_conn_amphenol_gsb443133hr
     original_filename: kicad-pcblib/manuf.pretty/CONN-Amphenol-GSB443133HR.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_manuf_conn_amphenol_gsb443133hr
+  oomp_key_full: oomp_footprint_cpavlina_manuf_conn_amphenol_gsb443133hr
   oomp_key_simple: cpavlina_manuf_conn_amphenol_gsb443133hr
   owner: cpavlina
   repo:

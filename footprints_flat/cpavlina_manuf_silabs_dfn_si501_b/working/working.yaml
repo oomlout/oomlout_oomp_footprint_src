@@ -17,9 +17,18 @@
   oomp:
     footprint_name: silabs_dfn_si501_b
     library_name: manuf
+    md5: 27c320d8d906473fd612cc041773ab33
+    md5_10: 27c320d8d9
+    md5_5: 27c32
+    md5_6: 27c320
+    oomp_key: oomp_cpavlina_manuf_silabs_dfn_si501_b
+    oomp_key_extra: oomp_footprint_cpavlina_manuf_silabs_dfn_si501_b
+    oomp_key_full: oomp_footprint_cpavlina_manuf_silabs_dfn_si501_b_27c320
+    oomp_key_simple: cpavlina_manuf_silabs_dfn_si501_b
     original_filename: kicad-pcblib/manuf.pretty/SILABS-DFN-SI501-B.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_manuf_silabs_dfn_si501_b
+  oomp_key_full: oomp_footprint_cpavlina_manuf_silabs_dfn_si501_b
   oomp_key_simple: cpavlina_manuf_silabs_dfn_si501_b
   owner: cpavlina
   repo:

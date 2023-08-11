@@ -17,9 +17,18 @@
   oomp:
     footprint_name: testpoint_keystone_5005_5009_compact
     library_name: testpoint
+    md5: 41d1ac473f99afcbb01c9dc07e996aaa
+    md5_10: 41d1ac473f
+    md5_5: 41d1a
+    md5_6: 41d1ac
+    oomp_key: oomp_kicad_testpoint_testpoint_keystone_5005_5009_compact
+    oomp_key_extra: oomp_footprint_kicad_testpoint_testpoint_keystone_5005_5009_compact
+    oomp_key_full: oomp_footprint_kicad_testpoint_testpoint_keystone_5005_5009_compact_41d1ac
+    oomp_key_simple: kicad_testpoint_testpoint_keystone_5005_5009_compact
     original_filename: libraries/kicad-footprints/TestPoint.pretty/TestPoint_Keystone_5005-5009_Compact.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_testpoint_testpoint_keystone_5005_5009_compact
+  oomp_key_full: oomp_footprint_kicad_testpoint_testpoint_keystone_5005_5009_compact
   oomp_key_simple: kicad_testpoint_testpoint_keystone_5005_5009_compact
   owner: kicad
   repo:

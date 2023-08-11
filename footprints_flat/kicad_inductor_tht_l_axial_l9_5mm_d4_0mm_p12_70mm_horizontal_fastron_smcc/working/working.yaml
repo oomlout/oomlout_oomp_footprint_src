@@ -19,9 +19,18 @@
   oomp:
     footprint_name: l_axial_l9_5mm_d4_0mm_p12_70mm_horizontal_fastron_smcc
     library_name: inductor_tht
+    md5: dabe26a55b4ea4632bd1315553870da0
+    md5_10: dabe26a55b
+    md5_5: dabe2
+    md5_6: dabe26
+    oomp_key: oomp_kicad_inductor_tht_l_axial_l9_5mm_d4_0mm_p12_70mm_horizontal_fastron_smcc
+    oomp_key_extra: oomp_footprint_kicad_inductor_tht_l_axial_l9_5mm_d4_0mm_p12_70mm_horizontal_fastron_smcc
+    oomp_key_full: oomp_footprint_kicad_inductor_tht_l_axial_l9_5mm_d4_0mm_p12_70mm_horizontal_fastron_smcc_dabe26
+    oomp_key_simple: kicad_inductor_tht_l_axial_l9_5mm_d4_0mm_p12_70mm_horizontal_fastron_smcc
     original_filename: libraries/kicad-footprints/Inductor_THT.pretty/L_Axial_L9.5mm_D4.0mm_P12.70mm_Horizontal_Fastron_SMCC.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_inductor_tht_l_axial_l9_5mm_d4_0mm_p12_70mm_horizontal_fastron_smcc
+  oomp_key_full: oomp_footprint_kicad_inductor_tht_l_axial_l9_5mm_d4_0mm_p12_70mm_horizontal_fastron_smcc
   oomp_key_simple: kicad_inductor_tht_l_axial_l9_5mm_d4_0mm_p12_70mm_horizontal_fastron_smcc
   owner: kicad
   repo:

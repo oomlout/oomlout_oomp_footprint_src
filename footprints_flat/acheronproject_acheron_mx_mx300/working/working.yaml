@@ -17,9 +17,18 @@
   oomp:
     footprint_name: mx300
     library_name: acheron_mx
+    md5: d50a267e742e6bd5038bcb11ed2e838c
+    md5_10: d50a267e74
+    md5_5: d50a2
+    md5_6: d50a26
+    oomp_key: oomp_acheronproject_acheron_mx_mx300
+    oomp_key_extra: oomp_footprint_acheronproject_acheron_mx_mx300
+    oomp_key_full: oomp_footprint_acheronproject_acheron_mx_mx300_d50a26
+    oomp_key_simple: acheronproject_acheron_mx_mx300
     original_filename: acheron_MX.pretty/MX300.kicad_mod
     owner_name: acheronproject
   oomp_key: oomp_acheronproject_acheron_mx_mx300
+  oomp_key_full: oomp_footprint_acheronproject_acheron_mx_mx300
   oomp_key_simple: acheronproject_acheron_mx_mx300
   owner: AcheronProject
   repo:

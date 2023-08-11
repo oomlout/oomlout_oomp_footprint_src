@@ -17,9 +17,18 @@
   oomp:
     footprint_name: kicad_logo_40mm_copper
     library_name: symbol
+    md5: ade0ddd0437bf5e693dad62700b6487e
+    md5_10: ade0ddd043
+    md5_5: ade0d
+    md5_6: ade0dd
+    oomp_key: oomp_kicad_symbol_kicad_logo_40mm_copper
+    oomp_key_extra: oomp_footprint_kicad_symbol_kicad_logo_40mm_copper
+    oomp_key_full: oomp_footprint_kicad_symbol_kicad_logo_40mm_copper_ade0dd
+    oomp_key_simple: kicad_symbol_kicad_logo_40mm_copper
     original_filename: libraries/kicad-footprints/Symbol.pretty/KiCad-Logo_40mm_Copper.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_symbol_kicad_logo_40mm_copper
+  oomp_key_full: oomp_footprint_kicad_symbol_kicad_logo_40mm_copper
   oomp_key_simple: kicad_symbol_kicad_logo_40mm_copper
   owner: kicad
   repo:

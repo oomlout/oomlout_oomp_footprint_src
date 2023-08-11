@@ -17,9 +17,18 @@
   oomp:
     footprint_name: wcsp_6
     library_name: kicadfootprint
+    md5: e7840685f5420b4d2c0ea982ce1ac111
+    md5_10: e7840685f5
+    md5_5: e7840
+    md5_6: e78406
+    oomp_key: oomp_vivitainc_kicadfootprint_wcsp_6
+    oomp_key_extra: oomp_footprint_vivitainc_kicadfootprint_wcsp_6
+    oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_wcsp_6_e78406
+    oomp_key_simple: vivitainc_kicadfootprint_wcsp_6
     original_filename: KiCADfootprint.pretty/WCSP-6.kicad_mod
     owner_name: vivitainc
   oomp_key: oomp_vivitainc_kicadfootprint_wcsp_6
+  oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_wcsp_6
   oomp_key_simple: vivitainc_kicadfootprint_wcsp_6
   owner: vivitainc
   repo:

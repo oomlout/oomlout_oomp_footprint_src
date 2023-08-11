@@ -17,9 +17,18 @@
   oomp:
     footprint_name: d2pak
     library_name: kicadkozuelib
+    md5: 877e4275e4e624654258881768d029b8
+    md5_10: 877e4275e4
+    md5_5: 877e4
+    md5_6: 877e42
+    oomp_key: oomp_kozuenakano_kicadkozuelib_d2pak
+    oomp_key_extra: oomp_footprint_kozuenakano_kicadkozuelib_d2pak
+    oomp_key_full: oomp_footprint_kozuenakano_kicadkozuelib_d2pak_877e42
+    oomp_key_simple: kozuenakano_kicadkozuelib_d2pak
     original_filename: KiCADKozueLib.pretty/D2PAK.kicad_mod
     owner_name: kozuenakano
   oomp_key: oomp_kozuenakano_kicadkozuelib_d2pak
+  oomp_key_full: oomp_footprint_kozuenakano_kicadkozuelib_d2pak
   oomp_key_simple: kozuenakano_kicadkozuelib_d2pak
   owner: KozueNakano
   repo:

@@ -19,8 +19,9 @@ Please consult that link for additional, details, files, and license information
 | github_path | http://github.com/Alasofia/hitek725.pretty/blob/master/Hitek725-1.25U.kicad_mod |  
 | links | {'github_src': 'http://gitlab.com/Alasofia/hitek725.pretty/blob/master/Hitek725-BigAssEnter.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/alasofia_hitek725_hitek725_1_25u/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/alasofia_hitek725_hitek725_1_25u/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/alasofia_hitek725_hitek725_1_25u/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/alasofia_hitek725_hitek725_1_25u/working'} |  
 | name | hitek725.pretty |  
-| oomp | {'footprint_name': 'hitek725_1_25u', 'library_name': 'hitek725', 'original_filename': 'hitek725.pretty/Hitek725-1.25U.kicad_mod', 'owner_name': 'alasofia'} |  
+| oomp | {'footprint_name': 'hitek725_1_25u', 'library_name': 'hitek725', 'md5': '2ffbe560c282ec204e92e7a2f0fdabca', 'md5_10': '2ffbe560c2', 'md5_5': '2ffbe', 'md5_6': '2ffbe5', 'oomp_key': 'oomp_alasofia_hitek725_hitek725_1_25u', 'oomp_key_extra': 'oomp_footprint_alasofia_hitek725_hitek725_1_25u', 'oomp_key_full': 'oomp_footprint_alasofia_hitek725_hitek725_1_25u_2ffbe5', 'oomp_key_simple': 'alasofia_hitek725_hitek725_1_25u', 'original_filename': 'hitek725.pretty/Hitek725-1.25U.kicad_mod', 'owner_name': 'alasofia'} |  
 | oomp_key | oomp_alasofia_hitek725_hitek725_1_25u |  
+| oomp_key_full | oomp_footprint_alasofia_hitek725_hitek725_1_25u |  
 | oomp_key_simple | alasofia_hitek725_hitek725_1_25u |  
 | owner | Alasofia |  
 | repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  

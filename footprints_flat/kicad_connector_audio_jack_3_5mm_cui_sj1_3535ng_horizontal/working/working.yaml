@@ -17,9 +17,18 @@
   oomp:
     footprint_name: jack_3_5mm_cui_sj1_3535ng_horizontal
     library_name: connector_audio
+    md5: df67fe0353bba8e3b547cafc3baddb38
+    md5_10: df67fe0353
+    md5_5: df67f
+    md5_6: df67fe
+    oomp_key: oomp_kicad_connector_audio_jack_3_5mm_cui_sj1_3535ng_horizontal
+    oomp_key_extra: oomp_footprint_kicad_connector_audio_jack_3_5mm_cui_sj1_3535ng_horizontal
+    oomp_key_full: oomp_footprint_kicad_connector_audio_jack_3_5mm_cui_sj1_3535ng_horizontal_df67fe
+    oomp_key_simple: kicad_connector_audio_jack_3_5mm_cui_sj1_3535ng_horizontal
     original_filename: libraries/kicad-footprints/Connector_Audio.pretty/Jack_3.5mm_CUI_SJ1-3535NG_Horizontal.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_audio_jack_3_5mm_cui_sj1_3535ng_horizontal
+  oomp_key_full: oomp_footprint_kicad_connector_audio_jack_3_5mm_cui_sj1_3535ng_horizontal
   oomp_key_simple: kicad_connector_audio_jack_3_5mm_cui_sj1_3535ng_horizontal
   owner: kicad
   repo:

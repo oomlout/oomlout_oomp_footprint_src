@@ -17,9 +17,18 @@
   oomp:
     footprint_name: mx150
     library_name: acheron_mx
+    md5: 813073d3bd18ea262422052068ed7b0e
+    md5_10: 813073d3bd
+    md5_5: '81307'
+    md5_6: '813073'
+    oomp_key: oomp_acheronproject_acheron_mx_mx150
+    oomp_key_extra: oomp_footprint_acheronproject_acheron_mx_mx150
+    oomp_key_full: oomp_footprint_acheronproject_acheron_mx_mx150_813073
+    oomp_key_simple: acheronproject_acheron_mx_mx150
     original_filename: acheron_MX.pretty/MX150.kicad_mod
     owner_name: acheronproject
   oomp_key: oomp_acheronproject_acheron_mx_mx150
+  oomp_key_full: oomp_footprint_acheronproject_acheron_mx_mx150
   oomp_key_simple: acheronproject_acheron_mx_mx150
   owner: AcheronProject
   repo:

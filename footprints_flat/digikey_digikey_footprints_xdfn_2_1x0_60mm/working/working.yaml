@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xdfn_2_1x0_60mm
     library_name: digikey_footprints
+    md5: 52d18898b4ccb7e91066b5de9e5d79ad
+    md5_10: 52d18898b4
+    md5_5: 52d18
+    md5_6: 52d188
+    oomp_key: oomp_digikey_digikey_footprints_xdfn_2_1x0_60mm
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_xdfn_2_1x0_60mm
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_xdfn_2_1x0_60mm_52d188
+    oomp_key_simple: digikey_digikey_footprints_xdfn_2_1x0_60mm
     original_filename: digikey-kicad-library/digikey-footprints.pretty/XDFN-2_1x0.60mm.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_xdfn_2_1x0_60mm
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_xdfn_2_1x0_60mm
   oomp_key_simple: digikey_digikey_footprints_xdfn_2_1x0_60mm
   owner: digikey
   repo:

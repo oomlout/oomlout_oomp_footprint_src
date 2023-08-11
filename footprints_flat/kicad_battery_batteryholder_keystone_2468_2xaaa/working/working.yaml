@@ -17,9 +17,18 @@
   oomp:
     footprint_name: batteryholder_keystone_2468_2xaaa
     library_name: battery
+    md5: 601e6d03c3a26935c7a325698b1d44cf
+    md5_10: 601e6d03c3
+    md5_5: 601e6
+    md5_6: 601e6d
+    oomp_key: oomp_kicad_battery_batteryholder_keystone_2468_2xaaa
+    oomp_key_extra: oomp_footprint_kicad_battery_batteryholder_keystone_2468_2xaaa
+    oomp_key_full: oomp_footprint_kicad_battery_batteryholder_keystone_2468_2xaaa_601e6d
+    oomp_key_simple: kicad_battery_batteryholder_keystone_2468_2xaaa
     original_filename: libraries/kicad-footprints/Battery.pretty/BatteryHolder_Keystone_2468_2xAAA.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_battery_batteryholder_keystone_2468_2xaaa
+  oomp_key_full: oomp_footprint_kicad_battery_batteryholder_keystone_2468_2xaaa
   oomp_key_simple: kicad_battery_batteryholder_keystone_2468_2xaaa
   owner: kicad
   repo:

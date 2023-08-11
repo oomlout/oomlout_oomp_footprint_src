@@ -19,9 +19,18 @@
   oomp:
     footprint_name: sw_gateron_lowprofile_tht
     library_name: key_switches
+    md5: 5cf0be5a8bc67496cc6956b5d8bc7631
+    md5_10: 5cf0be5a8b
+    md5_5: 5cf0b
+    md5_6: 5cf0be
+    oomp_key: oomp_ziteh_key_switches_sw_gateron_lowprofile_tht
+    oomp_key_extra: oomp_footprint_ziteh_key_switches_sw_gateron_lowprofile_tht
+    oomp_key_full: oomp_footprint_ziteh_key_switches_sw_gateron_lowprofile_tht_5cf0be
+    oomp_key_simple: ziteh_key_switches_sw_gateron_lowprofile_tht
     original_filename: key-switches.pretty/SW_Gateron_LowProfile_THT.kicad_mod
     owner_name: ziteh
   oomp_key: oomp_ziteh_key_switches_sw_gateron_lowprofile_tht
+  oomp_key_full: oomp_footprint_ziteh_key_switches_sw_gateron_lowprofile_tht
   oomp_key_simple: ziteh_key_switches_sw_gateron_lowprofile_tht
   owner: ziteh
   repo:

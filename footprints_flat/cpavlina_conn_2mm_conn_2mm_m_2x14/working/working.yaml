@@ -17,9 +17,18 @@
   oomp:
     footprint_name: conn_2mm_m_2x14
     library_name: conn_2mm
+    md5: 5b75173037bafcc964460ca872fa5186
+    md5_10: 5b75173037
+    md5_5: 5b751
+    md5_6: 5b7517
+    oomp_key: oomp_cpavlina_conn_2mm_conn_2mm_m_2x14
+    oomp_key_extra: oomp_footprint_cpavlina_conn_2mm_conn_2mm_m_2x14
+    oomp_key_full: oomp_footprint_cpavlina_conn_2mm_conn_2mm_m_2x14_5b7517
+    oomp_key_simple: cpavlina_conn_2mm_conn_2mm_m_2x14
     original_filename: kicad-pcblib/conn-2mm.pretty/CONN-2MM-M-2x14.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_conn_2mm_conn_2mm_m_2x14
+  oomp_key_full: oomp_footprint_cpavlina_conn_2mm_conn_2mm_m_2x14
   oomp_key_simple: cpavlina_conn_2mm_conn_2mm_m_2x14
   owner: cpavlina
   repo:

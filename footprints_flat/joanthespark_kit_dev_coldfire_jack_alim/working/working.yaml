@@ -17,9 +17,18 @@
   oomp:
     footprint_name: jack_alim
     library_name: kit_dev_coldfire
+    md5: d89bf8006b6665703838c385f7563b78
+    md5_10: d89bf8006b
+    md5_5: d89bf
+    md5_6: d89bf8
+    oomp_key: oomp_joanthespark_kit_dev_coldfire_jack_alim
+    oomp_key_extra: oomp_footprint_joanthespark_kit_dev_coldfire_jack_alim
+    oomp_key_full: oomp_footprint_joanthespark_kit_dev_coldfire_jack_alim_d89bf8
+    oomp_key_simple: joanthespark_kit_dev_coldfire_jack_alim
     original_filename: KiCAD/demos/kit-dev-coldfire-xilinx_5213/kit-dev-coldfire.pretty/JACK_ALIM.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_kit_dev_coldfire_jack_alim
+  oomp_key_full: oomp_footprint_joanthespark_kit_dev_coldfire_jack_alim
   oomp_key_simple: joanthespark_kit_dev_coldfire_jack_alim
   owner: JoanTheSpark
   repo:

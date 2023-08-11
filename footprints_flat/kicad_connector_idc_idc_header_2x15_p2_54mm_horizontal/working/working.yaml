@@ -18,9 +18,18 @@
   oomp:
     footprint_name: idc_header_2x15_p2_54mm_horizontal
     library_name: connector_idc
+    md5: f3bb6c07467e0a80fc2acb934343e6f9
+    md5_10: f3bb6c0746
+    md5_5: f3bb6
+    md5_6: f3bb6c
+    oomp_key: oomp_kicad_connector_idc_idc_header_2x15_p2_54mm_horizontal
+    oomp_key_extra: oomp_footprint_kicad_connector_idc_idc_header_2x15_p2_54mm_horizontal
+    oomp_key_full: oomp_footprint_kicad_connector_idc_idc_header_2x15_p2_54mm_horizontal_f3bb6c
+    oomp_key_simple: kicad_connector_idc_idc_header_2x15_p2_54mm_horizontal
     original_filename: libraries/kicad-footprints/Connector_IDC.pretty/IDC-Header_2x15_P2.54mm_Horizontal.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_idc_idc_header_2x15_p2_54mm_horizontal
+  oomp_key_full: oomp_footprint_kicad_connector_idc_idc_header_2x15_p2_54mm_horizontal
   oomp_key_simple: kicad_connector_idc_idc_header_2x15_p2_54mm_horizontal
   owner: kicad
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: bnc_amphenol_031_6575_horizontal
     library_name: connector_coaxial
+    md5: 5d0b923fa767c59879d4471b0384ca93
+    md5_10: 5d0b923fa7
+    md5_5: 5d0b9
+    md5_6: 5d0b92
+    oomp_key: oomp_kicad_connector_coaxial_bnc_amphenol_031_6575_horizontal
+    oomp_key_extra: oomp_footprint_kicad_connector_coaxial_bnc_amphenol_031_6575_horizontal
+    oomp_key_full: oomp_footprint_kicad_connector_coaxial_bnc_amphenol_031_6575_horizontal_5d0b92
+    oomp_key_simple: kicad_connector_coaxial_bnc_amphenol_031_6575_horizontal
     original_filename: libraries/kicad-footprints/Connector_Coaxial.pretty/BNC_Amphenol_031-6575_Horizontal.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_coaxial_bnc_amphenol_031_6575_horizontal
+  oomp_key_full: oomp_footprint_kicad_connector_coaxial_bnc_amphenol_031_6575_horizontal
   oomp_key_simple: kicad_connector_coaxial_bnc_amphenol_031_6575_horizontal
   owner: kicad
   repo:

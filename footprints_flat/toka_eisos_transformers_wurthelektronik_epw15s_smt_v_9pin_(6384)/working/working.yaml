@@ -17,9 +17,18 @@
   oomp:
     footprint_name: epw15s_smt_v_9pin_(6384)
     library_name: transformers_wurthelektronik
+    md5: 8e28e610b33895fe7a72a30352c6f898
+    md5_10: 8e28e610b3
+    md5_5: 8e28e
+    md5_6: 8e28e6
+    oomp_key: oomp_toka_eisos_transformers_wurthelektronik_epw15s_smt_v_9pin_(6384)
+    oomp_key_extra: oomp_footprint_toka_eisos_transformers_wurthelektronik_epw15s_smt_v_9pin_(6384)
+    oomp_key_full: oomp_footprint_toka_eisos_transformers_wurthelektronik_epw15s_smt_v_9pin_(6384)_8e28e6
+    oomp_key_simple: toka_eisos_transformers_wurthelektronik_epw15s_smt_v_9pin_(6384)
     original_filename: Transformers_WurthElektronik.pretty/EPW15S_SMT_V_9PIN_(6384).kicad_mod
     owner_name: toka_eisos
   oomp_key: oomp_toka_eisos_transformers_wurthelektronik_epw15s_smt_v_9pin_(6384)
+  oomp_key_full: oomp_footprint_toka_eisos_transformers_wurthelektronik_epw15s_smt_v_9pin_(6384)
   oomp_key_simple: toka_eisos_transformers_wurthelektronik_epw15s_smt_v_9pin_(6384)
   owner: toka-eisos
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: esd7004
     library_name: agg
+    md5: da6e5c24d5e716567f81c6e8eb7944d7
+    md5_10: da6e5c24d5
+    md5_5: da6e5
+    md5_6: da6e5c
+    oomp_key: oomp_adamgreig_agg_esd7004
+    oomp_key_extra: oomp_footprint_adamgreig_agg_esd7004
+    oomp_key_full: oomp_footprint_adamgreig_agg_esd7004_da6e5c
+    oomp_key_simple: adamgreig_agg_esd7004
     original_filename: agg-kicad/agg.pretty/ESD7004.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_esd7004
+  oomp_key_full: oomp_footprint_adamgreig_agg_esd7004
   oomp_key_simple: adamgreig_agg_esd7004
   owner: adamgreig
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: lpseries_screw
     library_name: primarypoints
+    md5: e0b52dfa6542fc5d3764086da36306a3
+    md5_10: e0b52dfa65
+    md5_5: e0b52
+    md5_6: e0b52d
+    oomp_key: oomp_zanekaminski_primarypoints_lpseries_screw
+    oomp_key_extra: oomp_footprint_zanekaminski_primarypoints_lpseries_screw
+    oomp_key_full: oomp_footprint_zanekaminski_primarypoints_lpseries_screw_e0b52d
+    oomp_key_simple: zanekaminski_primarypoints_lpseries_screw
     original_filename: primarypoints.pretty/LPSeries-Screw.kicad_mod
     owner_name: zanekaminski
   oomp_key: oomp_zanekaminski_primarypoints_lpseries_screw
+  oomp_key_full: oomp_footprint_zanekaminski_primarypoints_lpseries_screw
   oomp_key_simple: zanekaminski_primarypoints_lpseries_screw
   owner: ZaneKaminski
   repo:

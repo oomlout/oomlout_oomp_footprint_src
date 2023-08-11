@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_mc9rs08ka2
     library_name: xess
+    md5: 27f04217d366ff346f2eef6a384d5186
+    md5_10: 27f04217d3
+    md5_5: 27f04
+    md5_6: 27f042
+    oomp_key: oomp_xesscorp_xess_xess_mc9rs08ka2
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_mc9rs08ka2
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_mc9rs08ka2_27f042
+    oomp_key_simple: xesscorp_xess_xess_mc9rs08ka2
     original_filename: xess.pretty/xess-MC9RS08KA2.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_mc9rs08ka2
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_mc9rs08ka2
   oomp_key_simple: xesscorp_xess_xess_mc9rs08ka2
   owner: xesscorp
   repo:

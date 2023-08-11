@@ -18,9 +18,18 @@
   oomp:
     footprint_name: c_disc_d8_0mm_w5_0mm_p5_00mm
     library_name: capacitor_tht
+    md5: d4881b7d7179ed0d3767e243525019ab
+    md5_10: d4881b7d71
+    md5_5: d4881
+    md5_6: d4881b
+    oomp_key: oomp_kicad_capacitor_tht_c_disc_d8_0mm_w5_0mm_p5_00mm
+    oomp_key_extra: oomp_footprint_kicad_capacitor_tht_c_disc_d8_0mm_w5_0mm_p5_00mm
+    oomp_key_full: oomp_footprint_kicad_capacitor_tht_c_disc_d8_0mm_w5_0mm_p5_00mm_d4881b
+    oomp_key_simple: kicad_capacitor_tht_c_disc_d8_0mm_w5_0mm_p5_00mm
     original_filename: libraries/kicad-footprints/Capacitor_THT.pretty/C_Disc_D8.0mm_W5.0mm_P5.00mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_capacitor_tht_c_disc_d8_0mm_w5_0mm_p5_00mm
+  oomp_key_full: oomp_footprint_kicad_capacitor_tht_c_disc_d8_0mm_w5_0mm_p5_00mm
   oomp_key_simple: kicad_capacitor_tht_c_disc_d8_0mm_w5_0mm_p5_00mm
   owner: kicad
   repo:

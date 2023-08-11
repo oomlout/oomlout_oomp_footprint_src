@@ -17,9 +17,18 @@
   oomp:
     footprint_name: fuse_bourns_mf_rg900
     library_name: fuse
+    md5: 38324ddfc5400b11a50cc366d9d707a7
+    md5_10: 38324ddfc5
+    md5_5: '38324'
+    md5_6: 38324d
+    oomp_key: oomp_kicad_fuse_fuse_bourns_mf_rg900
+    oomp_key_extra: oomp_footprint_kicad_fuse_fuse_bourns_mf_rg900
+    oomp_key_full: oomp_footprint_kicad_fuse_fuse_bourns_mf_rg900_38324d
+    oomp_key_simple: kicad_fuse_fuse_bourns_mf_rg900
     original_filename: libraries/kicad-footprints/Fuse.pretty/Fuse_Bourns_MF-RG900.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_fuse_fuse_bourns_mf_rg900
+  oomp_key_full: oomp_footprint_kicad_fuse_fuse_bourns_mf_rg900
   oomp_key_simple: kicad_fuse_fuse_bourns_mf_rg900
   owner: kicad
   repo:

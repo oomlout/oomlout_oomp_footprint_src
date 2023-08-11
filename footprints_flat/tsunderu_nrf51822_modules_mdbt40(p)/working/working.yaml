@@ -17,9 +17,18 @@
   oomp:
     footprint_name: mdbt40(p)
     library_name: nrf51822_modules
+    md5: 56b11121302fb03d7f8dd6fde54d6590
+    md5_10: 56b1112130
+    md5_5: 56b11
+    md5_6: 56b111
+    oomp_key: oomp_tsunderu_nrf51822_modules_mdbt40(p)
+    oomp_key_extra: oomp_footprint_tsunderu_nrf51822_modules_mdbt40(p)
+    oomp_key_full: oomp_footprint_tsunderu_nrf51822_modules_mdbt40(p)_56b111
+    oomp_key_simple: tsunderu_nrf51822_modules_mdbt40(p)
     original_filename: nRF51822-modules.pretty/MDBT40(P).kicad_mod
     owner_name: tsunderu
   oomp_key: oomp_tsunderu_nrf51822_modules_mdbt40(p)
+  oomp_key_full: oomp_footprint_tsunderu_nrf51822_modules_mdbt40(p)
   oomp_key_simple: tsunderu_nrf51822_modules_mdbt40(p)
   owner: tsunderu
   repo:

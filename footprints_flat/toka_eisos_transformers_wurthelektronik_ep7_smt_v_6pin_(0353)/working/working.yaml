@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ep7_smt_v_6pin_(0353)
     library_name: transformers_wurthelektronik
+    md5: f51c1b6bfaf2354548b43e21497588f6
+    md5_10: f51c1b6bfa
+    md5_5: f51c1
+    md5_6: f51c1b
+    oomp_key: oomp_toka_eisos_transformers_wurthelektronik_ep7_smt_v_6pin_(0353)
+    oomp_key_extra: oomp_footprint_toka_eisos_transformers_wurthelektronik_ep7_smt_v_6pin_(0353)
+    oomp_key_full: oomp_footprint_toka_eisos_transformers_wurthelektronik_ep7_smt_v_6pin_(0353)_f51c1b
+    oomp_key_simple: toka_eisos_transformers_wurthelektronik_ep7_smt_v_6pin_(0353)
     original_filename: Transformers_WurthElektronik.pretty/EP7_SMT_V_6PIN_(0353).kicad_mod
     owner_name: toka_eisos
   oomp_key: oomp_toka_eisos_transformers_wurthelektronik_ep7_smt_v_6pin_(0353)
+  oomp_key_full: oomp_footprint_toka_eisos_transformers_wurthelektronik_ep7_smt_v_6pin_(0353)
   oomp_key_simple: toka_eisos_transformers_wurthelektronik_ep7_smt_v_6pin_(0353)
   owner: toka-eisos
   repo:

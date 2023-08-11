@@ -17,9 +17,18 @@
   oomp:
     footprint_name: c1210
     library_name: 1wire_v0_4
+    md5: 0c7138c0a3824532c20dfb1fd7bfe12f
+    md5_10: 0c7138c0a3
+    md5_5: 0c713
+    md5_6: 0c7138
+    oomp_key: oomp_joanthespark_1wire_v0_4_c1210
+    oomp_key_extra: oomp_footprint_joanthespark_1wire_v0_4_c1210
+    oomp_key_full: oomp_footprint_joanthespark_1wire_v0_4_c1210_0c7138
+    oomp_key_simple: joanthespark_1wire_v0_4_c1210
     original_filename: KiCAD/6.0/projects/1w-grove-v0.1/1wire-v0.4.pretty/C1210.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_1wire_v0_4_c1210
+  oomp_key_full: oomp_footprint_joanthespark_1wire_v0_4_c1210
   oomp_key_simple: joanthespark_1wire_v0_4_c1210
   owner: JoanTheSpark
   repo:

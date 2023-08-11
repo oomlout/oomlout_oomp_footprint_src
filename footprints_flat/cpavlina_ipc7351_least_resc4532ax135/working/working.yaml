@@ -17,9 +17,18 @@
   oomp:
     footprint_name: resc4532ax135
     library_name: ipc7351_least
+    md5: f016ef39c4c827a28d599002f76af541
+    md5_10: f016ef39c4
+    md5_5: f016e
+    md5_6: f016ef
+    oomp_key: oomp_cpavlina_ipc7351_least_resc4532ax135
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_least_resc4532ax135
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_least_resc4532ax135_f016ef
+    oomp_key_simple: cpavlina_ipc7351_least_resc4532ax135
     original_filename: kicad-pcblib/IPC7351-Least.pretty/RESC4532AX135.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_least_resc4532ax135
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_least_resc4532ax135
   oomp_key_simple: cpavlina_ipc7351_least_resc4532ax135
   owner: cpavlina
   repo:

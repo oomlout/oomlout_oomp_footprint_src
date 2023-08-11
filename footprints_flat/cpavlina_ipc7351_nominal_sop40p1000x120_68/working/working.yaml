@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sop40p1000x120_68
     library_name: ipc7351_nominal
+    md5: 65260c45411001ee070e8b1d66f1d902
+    md5_10: 65260c4541
+    md5_5: '65260'
+    md5_6: 65260c
+    oomp_key: oomp_cpavlina_ipc7351_nominal_sop40p1000x120_68
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_nominal_sop40p1000x120_68
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_sop40p1000x120_68_65260c
+    oomp_key_simple: cpavlina_ipc7351_nominal_sop40p1000x120_68
     original_filename: kicad-pcblib/IPC7351-Nominal.pretty/SOP40P1000X120-68.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_nominal_sop40p1000x120_68
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_sop40p1000x120_68
   oomp_key_simple: cpavlina_ipc7351_nominal_sop40p1000x120_68
   owner: cpavlina
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: displayport_2040210_1
     library_name: digikey_footprints
+    md5: 481e45e59f7252bffc410deee9c0c80e
+    md5_10: 481e45e59f
+    md5_5: 481e4
+    md5_6: 481e45
+    oomp_key: oomp_digikey_digikey_footprints_displayport_2040210_1
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_displayport_2040210_1
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_displayport_2040210_1_481e45
+    oomp_key_simple: digikey_digikey_footprints_displayport_2040210_1
     original_filename: digikey-kicad-library/digikey-footprints.pretty/DisplayPort_2040210-1.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_displayport_2040210_1
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_displayport_2040210_1
   oomp_key_simple: digikey_digikey_footprints_displayport_2040210_1
   owner: digikey
   repo:

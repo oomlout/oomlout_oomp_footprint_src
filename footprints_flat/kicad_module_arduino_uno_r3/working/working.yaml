@@ -17,9 +17,18 @@
   oomp:
     footprint_name: arduino_uno_r3
     library_name: module
+    md5: 23521c4b21e6ec1d1e84e247f1c2a379
+    md5_10: 23521c4b21
+    md5_5: '23521'
+    md5_6: 23521c
+    oomp_key: oomp_kicad_module_arduino_uno_r3
+    oomp_key_extra: oomp_footprint_kicad_module_arduino_uno_r3
+    oomp_key_full: oomp_footprint_kicad_module_arduino_uno_r3_23521c
+    oomp_key_simple: kicad_module_arduino_uno_r3
     original_filename: libraries/kicad-footprints/Module.pretty/Arduino_UNO_R3.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_module_arduino_uno_r3
+  oomp_key_full: oomp_footprint_kicad_module_arduino_uno_r3
   oomp_key_simple: kicad_module_arduino_uno_r3
   owner: kicad
   repo:

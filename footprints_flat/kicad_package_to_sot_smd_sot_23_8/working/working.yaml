@@ -18,9 +18,18 @@
   oomp:
     footprint_name: sot_23_8
     library_name: package_to_sot_smd
+    md5: 79d028e7b327fbcab7f5ca2a7d71f685
+    md5_10: 79d028e7b3
+    md5_5: 79d02
+    md5_6: 79d028
+    oomp_key: oomp_kicad_package_to_sot_smd_sot_23_8
+    oomp_key_extra: oomp_footprint_kicad_package_to_sot_smd_sot_23_8
+    oomp_key_full: oomp_footprint_kicad_package_to_sot_smd_sot_23_8_79d028
+    oomp_key_simple: kicad_package_to_sot_smd_sot_23_8
     original_filename: libraries/kicad-footprints/Package_TO_SOT_SMD.pretty/SOT-23-8.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_to_sot_smd_sot_23_8
+  oomp_key_full: oomp_footprint_kicad_package_to_sot_smd_sot_23_8
   oomp_key_simple: kicad_package_to_sot_smd_sot_23_8
   owner: kicad
   repo:

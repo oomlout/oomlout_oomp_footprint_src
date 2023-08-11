@@ -17,9 +17,18 @@
   oomp:
     footprint_name: bno055
     library_name: usst_footprints
+    md5: 717078de5a7cb660b257871ce18f8ac2
+    md5_10: 717078de5a
+    md5_5: '71707'
+    md5_6: '717078'
+    oomp_key: oomp_uofsspaceteam_usst_footprints_bno055
+    oomp_key_extra: oomp_footprint_uofsspaceteam_usst_footprints_bno055
+    oomp_key_full: oomp_footprint_uofsspaceteam_usst_footprints_bno055_717078
+    oomp_key_simple: uofsspaceteam_usst_footprints_bno055
     original_filename: USST-footprints.pretty/BNO055.kicad_mod
     owner_name: uofsspaceteam
   oomp_key: oomp_uofsspaceteam_usst_footprints_bno055
+  oomp_key_full: oomp_footprint_uofsspaceteam_usst_footprints_bno055
   oomp_key_simple: uofsspaceteam_usst_footprints_bno055
   owner: UofSSpaceTeam
   repo:

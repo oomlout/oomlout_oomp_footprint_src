@@ -17,9 +17,18 @@
   oomp:
     footprint_name: rca_red
     library_name: w_conn_av
+    md5: e4ee9015131df0c0506749a2edb383c7
+    md5_10: e4ee901513
+    md5_5: e4ee9
+    md5_6: e4ee90
+    oomp_key: oomp_asofttech_w_conn_av_rca_red
+    oomp_key_extra: oomp_footprint_asofttech_w_conn_av_rca_red
+    oomp_key_full: oomp_footprint_asofttech_w_conn_av_rca_red_e4ee90
+    oomp_key_simple: asofttech_w_conn_av_rca_red
     original_filename: CAD.KiCad.Libs/modules/w_conn_av.pretty/rca_red.kicad_mod
     owner_name: asofttech
   oomp_key: oomp_asofttech_w_conn_av_rca_red
+  oomp_key_full: oomp_footprint_asofttech_w_conn_av_rca_red
   oomp_key_simple: asofttech_w_conn_av_rca_red
   owner: ASoftTech
   repo:

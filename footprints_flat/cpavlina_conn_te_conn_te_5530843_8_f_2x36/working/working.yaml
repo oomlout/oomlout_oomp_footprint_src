@@ -17,9 +17,18 @@
   oomp:
     footprint_name: conn_te_5530843_8_f_2x36
     library_name: conn_te
+    md5: 58b9a0b2ded0df8135355796c92c1694
+    md5_10: 58b9a0b2de
+    md5_5: 58b9a
+    md5_6: 58b9a0
+    oomp_key: oomp_cpavlina_conn_te_conn_te_5530843_8_f_2x36
+    oomp_key_extra: oomp_footprint_cpavlina_conn_te_conn_te_5530843_8_f_2x36
+    oomp_key_full: oomp_footprint_cpavlina_conn_te_conn_te_5530843_8_f_2x36_58b9a0
+    oomp_key_simple: cpavlina_conn_te_conn_te_5530843_8_f_2x36
     original_filename: kicad-pcblib/conn-te.pretty/CONN-TE-5530843-8-F-2x36.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_conn_te_conn_te_5530843_8_f_2x36
+  oomp_key_full: oomp_footprint_cpavlina_conn_te_conn_te_5530843_8_f_2x36
   oomp_key_simple: cpavlina_conn_te_conn_te_5530843_8_f_2x36
   owner: cpavlina
   repo:

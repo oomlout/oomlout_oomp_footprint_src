@@ -17,9 +17,18 @@
   oomp:
     footprint_name: bga100p1700x1700_256
     library_name: smd_semi
+    md5: 5130d48de2824a78fe46187fc2bb598b
+    md5_10: 5130d48de2
+    md5_5: 5130d
+    md5_6: 5130d4
+    oomp_key: oomp_cpavlina_smd_semi_bga100p1700x1700_256
+    oomp_key_extra: oomp_footprint_cpavlina_smd_semi_bga100p1700x1700_256
+    oomp_key_full: oomp_footprint_cpavlina_smd_semi_bga100p1700x1700_256_5130d4
+    oomp_key_simple: cpavlina_smd_semi_bga100p1700x1700_256
     original_filename: kicad-pcblib/smd-semi.pretty/BGA100P1700X1700-256.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_smd_semi_bga100p1700x1700_256
+  oomp_key_full: oomp_footprint_cpavlina_smd_semi_bga100p1700x1700_256
   oomp_key_simple: cpavlina_smd_semi_bga100p1700x1700_256
   owner: cpavlina
   repo:

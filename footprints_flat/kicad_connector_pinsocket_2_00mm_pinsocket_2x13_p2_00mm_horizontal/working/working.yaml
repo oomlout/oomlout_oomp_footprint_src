@@ -18,9 +18,18 @@
   oomp:
     footprint_name: pinsocket_2x13_p2_00mm_horizontal
     library_name: connector_pinsocket_2_00mm
+    md5: 79874fe3ce6d09e47eeb65c253f9a38b
+    md5_10: 79874fe3ce
+    md5_5: '79874'
+    md5_6: 79874f
+    oomp_key: oomp_kicad_connector_pinsocket_2_00mm_pinsocket_2x13_p2_00mm_horizontal
+    oomp_key_extra: oomp_footprint_kicad_connector_pinsocket_2_00mm_pinsocket_2x13_p2_00mm_horizontal
+    oomp_key_full: oomp_footprint_kicad_connector_pinsocket_2_00mm_pinsocket_2x13_p2_00mm_horizontal_79874f
+    oomp_key_simple: kicad_connector_pinsocket_2_00mm_pinsocket_2x13_p2_00mm_horizontal
     original_filename: libraries/kicad-footprints/Connector_PinSocket_2.00mm.pretty/PinSocket_2x13_P2.00mm_Horizontal.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_pinsocket_2_00mm_pinsocket_2x13_p2_00mm_horizontal
+  oomp_key_full: oomp_footprint_kicad_connector_pinsocket_2_00mm_pinsocket_2x13_p2_00mm_horizontal
   oomp_key_simple: kicad_connector_pinsocket_2_00mm_pinsocket_2x13_p2_00mm_horizontal
   owner: kicad
   repo:

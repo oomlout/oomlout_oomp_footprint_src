@@ -17,9 +17,18 @@
   oomp:
     footprint_name: mx225
     library_name: acheron_mx_plateslots
+    md5: 543946f7a119a569fd42d90a6750b031
+    md5_10: 543946f7a1
+    md5_5: '54394'
+    md5_6: '543946'
+    oomp_key: oomp_acheronproject_acheron_mx_plateslots_mx225
+    oomp_key_extra: oomp_footprint_acheronproject_acheron_mx_plateslots_mx225
+    oomp_key_full: oomp_footprint_acheronproject_acheron_mx_plateslots_mx225_543946
+    oomp_key_simple: acheronproject_acheron_mx_plateslots_mx225
     original_filename: acheron_MX_PlateSlots.pretty/MX225.kicad_mod
     owner_name: acheronproject
   oomp_key: oomp_acheronproject_acheron_mx_plateslots_mx225
+  oomp_key_full: oomp_footprint_acheronproject_acheron_mx_plateslots_mx225
   oomp_key_simple: acheronproject_acheron_mx_plateslots_mx225
   owner: AcheronProject
   repo:

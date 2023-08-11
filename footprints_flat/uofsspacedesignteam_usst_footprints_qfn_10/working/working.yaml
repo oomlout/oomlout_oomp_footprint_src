@@ -17,9 +17,18 @@
   oomp:
     footprint_name: qfn_10
     library_name: usst_footprints
+    md5: 38a6fdda325bfc47a62e0e31f58ae863
+    md5_10: 38a6fdda32
+    md5_5: 38a6f
+    md5_6: 38a6fd
+    oomp_key: oomp_uofsspacedesignteam_usst_footprints_qfn_10
+    oomp_key_extra: oomp_footprint_uofsspacedesignteam_usst_footprints_qfn_10
+    oomp_key_full: oomp_footprint_uofsspacedesignteam_usst_footprints_qfn_10_38a6fd
+    oomp_key_simple: uofsspacedesignteam_usst_footprints_qfn_10
     original_filename: USST-footprints.pretty/QFN_10.kicad_mod
     owner_name: uofsspacedesignteam
   oomp_key: oomp_uofsspacedesignteam_usst_footprints_qfn_10
+  oomp_key_full: oomp_footprint_uofsspacedesignteam_usst_footprints_qfn_10
   oomp_key_simple: uofsspacedesignteam_usst_footprints_qfn_10
   owner: UofSSpaceDesignTeam
   repo:

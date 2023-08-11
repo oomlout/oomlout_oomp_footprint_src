@@ -17,9 +17,18 @@
   oomp:
     footprint_name: led_1206
     library_name: freetronics_footprints
+    md5: 4e253c275edc5b37874da711ca8aadce
+    md5_10: 4e253c275e
+    md5_5: 4e253
+    md5_6: 4e253c
+    oomp_key: oomp_axello_freetronics_footprints_led_1206
+    oomp_key_extra: oomp_footprint_axello_freetronics_footprints_led_1206
+    oomp_key_full: oomp_footprint_axello_freetronics_footprints_led_1206_4e253c
+    oomp_key_simple: axello_freetronics_footprints_led_1206
     original_filename: kicad/mods/freetronics_footprints.pretty/LED-1206.kicad_mod
     owner_name: axello
   oomp_key: oomp_axello_freetronics_footprints_led_1206
+  oomp_key_full: oomp_footprint_axello_freetronics_footprints_led_1206
   oomp_key_simple: axello_freetronics_footprints_led_1206
   owner: axello
   repo:

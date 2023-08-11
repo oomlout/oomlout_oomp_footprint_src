@@ -17,9 +17,18 @@
   oomp:
     footprint_name: usb_mini_b_2leg
     library_name: keebio_parts
+    md5: 3a61e28e5481574fc243fa6086bab385
+    md5_10: 3a61e28e54
+    md5_5: 3a61e
+    md5_6: 3a61e2
+    oomp_key: oomp_keebio_keebio_parts_usb_mini_b_2leg
+    oomp_key_extra: oomp_footprint_keebio_keebio_parts_usb_mini_b_2leg
+    oomp_key_full: oomp_footprint_keebio_keebio_parts_usb_mini_b_2leg_3a61e2
+    oomp_key_simple: keebio_keebio_parts_usb_mini_b_2leg
     original_filename: Keebio-Parts.pretty/USB-Mini-B_2leg.kicad_mod
     owner_name: keebio
   oomp_key: oomp_keebio_keebio_parts_usb_mini_b_2leg
+  oomp_key_full: oomp_footprint_keebio_keebio_parts_usb_mini_b_2leg
   oomp_key_simple: keebio_keebio_parts_usb_mini_b_2leg
   owner: keebio
   repo:

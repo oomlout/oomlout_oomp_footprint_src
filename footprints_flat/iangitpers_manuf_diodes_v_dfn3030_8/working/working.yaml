@@ -19,9 +19,18 @@
   oomp:
     footprint_name: diodes_v_dfn3030_8
     library_name: manuf
+    md5: a58dc821bc6531a981019f60b6d382f5
+    md5_10: a58dc821bc
+    md5_5: a58dc
+    md5_6: a58dc8
+    oomp_key: oomp_iangitpers_manuf_diodes_v_dfn3030_8
+    oomp_key_extra: oomp_footprint_iangitpers_manuf_diodes_v_dfn3030_8
+    oomp_key_full: oomp_footprint_iangitpers_manuf_diodes_v_dfn3030_8_a58dc8
+    oomp_key_simple: iangitpers_manuf_diodes_v_dfn3030_8
     original_filename: 4a/manuf.pretty/DIODES-V-DFN3030-8.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_manuf_diodes_v_dfn3030_8
+  oomp_key_full: oomp_footprint_iangitpers_manuf_diodes_v_dfn3030_8
   oomp_key_simple: iangitpers_manuf_diodes_v_dfn3030_8
   owner: Iangitpers
   repo:

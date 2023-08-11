@@ -17,9 +17,18 @@
   oomp:
     footprint_name: diodes_sot_25_sot_23_5
     library_name: primarypoints
+    md5: 34c4970c8c56203de47dd6a85e5fc021
+    md5_10: 34c4970c8c
+    md5_5: 34c49
+    md5_6: 34c497
+    oomp_key: oomp_zanekaminski_primarypoints_diodes_sot_25_sot_23_5
+    oomp_key_extra: oomp_footprint_zanekaminski_primarypoints_diodes_sot_25_sot_23_5
+    oomp_key_full: oomp_footprint_zanekaminski_primarypoints_diodes_sot_25_sot_23_5_34c497
+    oomp_key_simple: zanekaminski_primarypoints_diodes_sot_25_sot_23_5
     original_filename: primarypoints.pretty/Diodes_SOT-25_SOT-23-5.kicad_mod
     owner_name: zanekaminski
   oomp_key: oomp_zanekaminski_primarypoints_diodes_sot_25_sot_23_5
+  oomp_key_full: oomp_footprint_zanekaminski_primarypoints_diodes_sot_25_sot_23_5
   oomp_key_simple: zanekaminski_primarypoints_diodes_sot_25_sot_23_5
   owner: ZaneKaminski
   repo:

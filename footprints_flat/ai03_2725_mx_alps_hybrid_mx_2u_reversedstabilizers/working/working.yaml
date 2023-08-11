@@ -17,9 +17,18 @@
   oomp:
     footprint_name: mx_2u_reversedstabilizers
     library_name: mx_alps_hybrid
+    md5: d26dbdde02bd31b7d6e25313a7d4733b
+    md5_10: d26dbdde02
+    md5_5: d26db
+    md5_6: d26dbd
+    oomp_key: oomp_ai03_2725_mx_alps_hybrid_mx_2u_reversedstabilizers
+    oomp_key_extra: oomp_footprint_ai03_2725_mx_alps_hybrid_mx_2u_reversedstabilizers
+    oomp_key_full: oomp_footprint_ai03_2725_mx_alps_hybrid_mx_2u_reversedstabilizers_d26dbd
+    oomp_key_simple: ai03_2725_mx_alps_hybrid_mx_2u_reversedstabilizers
     original_filename: MX_Alps_Hybrid.pretty/MX_Alps_Hybrid.pretty/MX-2U-ReversedStabilizers.kicad_mod
     owner_name: ai03_2725
   oomp_key: oomp_ai03_2725_mx_alps_hybrid_mx_2u_reversedstabilizers
+  oomp_key_full: oomp_footprint_ai03_2725_mx_alps_hybrid_mx_2u_reversedstabilizers
   oomp_key_simple: ai03_2725_mx_alps_hybrid_mx_2u_reversedstabilizers
   owner: ai03-2725
   repo:

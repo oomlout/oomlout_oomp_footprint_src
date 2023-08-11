@@ -21,9 +21,18 @@
   oomp:
     footprint_name: xilinx_fbg484
     library_name: package_bga
+    md5: 5fea1b1e9a4d1d72212b6479e78d0f17
+    md5_10: 5fea1b1e9a
+    md5_5: 5fea1
+    md5_6: 5fea1b
+    oomp_key: oomp_kicad_package_bga_xilinx_fbg484
+    oomp_key_extra: oomp_footprint_kicad_package_bga_xilinx_fbg484
+    oomp_key_full: oomp_footprint_kicad_package_bga_xilinx_fbg484_5fea1b
+    oomp_key_simple: kicad_package_bga_xilinx_fbg484
     original_filename: libraries/kicad-footprints/Package_BGA.pretty/Xilinx_FBG484.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_bga_xilinx_fbg484
+  oomp_key_full: oomp_footprint_kicad_package_bga_xilinx_fbg484
   oomp_key_simple: kicad_package_bga_xilinx_fbg484
   owner: kicad
   repo:

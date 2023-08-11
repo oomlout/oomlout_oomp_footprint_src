@@ -17,9 +17,18 @@
   oomp:
     footprint_name: raspberry_pi_p1
     library_name: freetronics_footprints
+    md5: 137bfc4a4a80bbe230c45f7a5447484f
+    md5_10: 137bfc4a4a
+    md5_5: 137bf
+    md5_6: 137bfc
+    oomp_key: oomp_wykys_freetronics_footprints_raspberry_pi_p1
+    oomp_key_extra: oomp_footprint_wykys_freetronics_footprints_raspberry_pi_p1
+    oomp_key_full: oomp_footprint_wykys_freetronics_footprints_raspberry_pi_p1_137bfc
+    oomp_key_simple: wykys_freetronics_footprints_raspberry_pi_p1
     original_filename: kicad/mods/freetronics_footprints.pretty/RASPBERRY_PI_P1.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_freetronics_footprints_raspberry_pi_p1
+  oomp_key_full: oomp_footprint_wykys_freetronics_footprints_raspberry_pi_p1
   oomp_key_simple: wykys_freetronics_footprints_raspberry_pi_p1
   owner: wykys
   repo:

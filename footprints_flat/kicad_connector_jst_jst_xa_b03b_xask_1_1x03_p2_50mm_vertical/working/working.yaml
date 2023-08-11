@@ -18,9 +18,18 @@
   oomp:
     footprint_name: jst_xa_b03b_xask_1_1x03_p2_50mm_vertical
     library_name: connector_jst
+    md5: 9dcbba353acd911d3bb3c42afb975ec8
+    md5_10: 9dcbba353a
+    md5_5: 9dcbb
+    md5_6: 9dcbba
+    oomp_key: oomp_kicad_connector_jst_jst_xa_b03b_xask_1_1x03_p2_50mm_vertical
+    oomp_key_extra: oomp_footprint_kicad_connector_jst_jst_xa_b03b_xask_1_1x03_p2_50mm_vertical
+    oomp_key_full: oomp_footprint_kicad_connector_jst_jst_xa_b03b_xask_1_1x03_p2_50mm_vertical_9dcbba
+    oomp_key_simple: kicad_connector_jst_jst_xa_b03b_xask_1_1x03_p2_50mm_vertical
     original_filename: libraries/kicad-footprints/Connector_JST.pretty/JST_XA_B03B-XASK-1_1x03_P2.50mm_Vertical.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_jst_jst_xa_b03b_xask_1_1x03_p2_50mm_vertical
+  oomp_key_full: oomp_footprint_kicad_connector_jst_jst_xa_b03b_xask_1_1x03_p2_50mm_vertical
   oomp_key_simple: kicad_connector_jst_jst_xa_b03b_xask_1_1x03_p2_50mm_vertical
   owner: kicad
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: conn_pj_037a
     library_name: conn_cui
+    md5: a5c844b9288d42da35d0ddae9f768c7a
+    md5_10: a5c844b928
+    md5_5: a5c84
+    md5_6: a5c844
+    oomp_key: oomp_cpavlina_conn_cui_conn_pj_037a
+    oomp_key_extra: oomp_footprint_cpavlina_conn_cui_conn_pj_037a
+    oomp_key_full: oomp_footprint_cpavlina_conn_cui_conn_pj_037a_a5c844
+    oomp_key_simple: cpavlina_conn_cui_conn_pj_037a
     original_filename: kicad-pcblib/conn-cui.pretty/CONN-PJ-037A.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_conn_cui_conn_pj_037a
+  oomp_key_full: oomp_footprint_cpavlina_conn_cui_conn_pj_037a
   oomp_key_simple: cpavlina_conn_cui_conn_pj_037a
   owner: cpavlina
   repo:

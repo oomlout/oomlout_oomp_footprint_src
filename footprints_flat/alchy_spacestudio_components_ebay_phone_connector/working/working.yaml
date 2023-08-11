@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ebay_phone_connector
     library_name: spacestudio_components
+    md5: 886e638bdb580e168d28bf0c0e36fdc3
+    md5_10: 886e638bdb
+    md5_5: 886e6
+    md5_6: 886e63
+    oomp_key: oomp_alchy_spacestudio_components_ebay_phone_connector
+    oomp_key_extra: oomp_footprint_alchy_spacestudio_components_ebay_phone_connector
+    oomp_key_full: oomp_footprint_alchy_spacestudio_components_ebay_phone_connector_886e63
+    oomp_key_simple: alchy_spacestudio_components_ebay_phone_connector
     original_filename: spacestudio_components.pretty/ebay_phone_connector.kicad_mod
     owner_name: alchy
   oomp_key: oomp_alchy_spacestudio_components_ebay_phone_connector
+  oomp_key_full: oomp_footprint_alchy_spacestudio_components_ebay_phone_connector
   oomp_key_simple: alchy_spacestudio_components_ebay_phone_connector
   owner: alchy
   repo:

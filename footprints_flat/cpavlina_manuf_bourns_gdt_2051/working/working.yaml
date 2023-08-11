@@ -17,9 +17,18 @@
   oomp:
     footprint_name: bourns_gdt_2051
     library_name: manuf
+    md5: d424701ebf0ef585ab36a86da315daa2
+    md5_10: d424701ebf
+    md5_5: d4247
+    md5_6: d42470
+    oomp_key: oomp_cpavlina_manuf_bourns_gdt_2051
+    oomp_key_extra: oomp_footprint_cpavlina_manuf_bourns_gdt_2051
+    oomp_key_full: oomp_footprint_cpavlina_manuf_bourns_gdt_2051_d42470
+    oomp_key_simple: cpavlina_manuf_bourns_gdt_2051
     original_filename: kicad-pcblib/manuf.pretty/BOURNS-GDT-2051.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_manuf_bourns_gdt_2051
+  oomp_key_full: oomp_footprint_cpavlina_manuf_bourns_gdt_2051
   oomp_key_simple: cpavlina_manuf_bourns_gdt_2051
   owner: cpavlina
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ebay_rotary_encoder
     library_name: spacestudio_components
+    md5: 6e1ed1cb91bd1db8427e93374dcddd23
+    md5_10: 6e1ed1cb91
+    md5_5: 6e1ed
+    md5_6: 6e1ed1
+    oomp_key: oomp_alchy_spacestudio_components_ebay_rotary_encoder
+    oomp_key_extra: oomp_footprint_alchy_spacestudio_components_ebay_rotary_encoder
+    oomp_key_full: oomp_footprint_alchy_spacestudio_components_ebay_rotary_encoder_6e1ed1
+    oomp_key_simple: alchy_spacestudio_components_ebay_rotary_encoder
     original_filename: spacestudio_components.pretty/ebay_rotary_encoder.kicad_mod
     owner_name: alchy
   oomp_key: oomp_alchy_spacestudio_components_ebay_rotary_encoder
+  oomp_key_full: oomp_footprint_alchy_spacestudio_components_ebay_rotary_encoder
   oomp_key_simple: alchy_spacestudio_components_ebay_rotary_encoder
   owner: alchy
   repo:

@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: bluetooth_module_rn42_i_rm
-    library_name: source_footprints
+    library_name: bluetooth_module_rn42_i_rm_kicad_mod
+    md5: 5ad006c2d7806555f14ec7ab78fc0ffb
+    md5_10: 5ad006c2d7
+    md5_5: 5ad00
+    md5_6: 5ad006
+    oomp_key: oomp_digikey_bluetooth_module_rn42_i_rm_bluetooth_module_rn42_i_rm
+    oomp_key_extra: oomp_footprint_digikey_bluetooth_module_rn42_i_rm_bluetooth_module_rn42_i_rm
+    oomp_key_full: oomp_footprint_digikey_bluetooth_module_rn42_i_rm_bluetooth_module_rn42_i_rm_5ad006
+    oomp_key_simple: digikey_bluetooth_module_rn42_i_rm_bluetooth_module_rn42_i_rm
     original_filename: digikey-kicad-library/src/Source_Footprints/Bluetooth_Module_RN42-I_RM.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_bluetooth_module_rn42_i_rm_bluetooth_module_rn42_i_rm
+  oomp_key_full: oomp_footprint_digikey_bluetooth_module_rn42_i_rm_bluetooth_module_rn42_i_rm
   oomp_key_simple: digikey_bluetooth_module_rn42_i_rm_bluetooth_module_rn42_i_rm
   owner: digikey
   repo:

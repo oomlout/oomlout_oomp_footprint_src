@@ -17,9 +17,18 @@
   oomp:
     footprint_name: 40tex_ell600
     library_name: pic_programmer_fp
+    md5: 658347a07a3410116cfbe262311ade7b
+    md5_10: 658347a07a
+    md5_5: '65834'
+    md5_6: '658347'
+    oomp_key: oomp_wykys_pic_programmer_fp_40tex_ell600
+    oomp_key_extra: oomp_footprint_wykys_pic_programmer_fp_40tex_ell600
+    oomp_key_full: oomp_footprint_wykys_pic_programmer_fp_40tex_ell600_658347
+    oomp_key_simple: wykys_pic_programmer_fp_40tex_ell600
     original_filename: kicad/demos/pic_programmer/libs/pic_programmer_fp.pretty/40tex-Ell600.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_pic_programmer_fp_40tex_ell600
+  oomp_key_full: oomp_footprint_wykys_pic_programmer_fp_40tex_ell600
   oomp_key_simple: wykys_pic_programmer_fp_40tex_ell600
   owner: wykys
   repo:

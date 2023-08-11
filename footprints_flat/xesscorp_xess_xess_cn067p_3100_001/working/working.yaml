@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_cn067p_3100_001
     library_name: xess
+    md5: 0a221f0aee3d5819d92f6687c4b9c1c3
+    md5_10: 0a221f0aee
+    md5_5: 0a221
+    md5_6: 0a221f
+    oomp_key: oomp_xesscorp_xess_xess_cn067p_3100_001
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_cn067p_3100_001
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_cn067p_3100_001_0a221f
+    oomp_key_simple: xesscorp_xess_xess_cn067p_3100_001
     original_filename: xess.pretty/xess-CN067P-3100-001.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_cn067p_3100_001
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_cn067p_3100_001
   oomp_key_simple: xesscorp_xess_xess_cn067p_3100_001
   owner: xesscorp
   repo:

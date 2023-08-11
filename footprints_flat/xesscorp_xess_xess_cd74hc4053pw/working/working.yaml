@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_cd74hc4053pw
     library_name: xess
+    md5: 835683e1a6af4a7bc5fc794722ae8367
+    md5_10: 835683e1a6
+    md5_5: '83568'
+    md5_6: '835683'
+    oomp_key: oomp_xesscorp_xess_xess_cd74hc4053pw
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_cd74hc4053pw
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_cd74hc4053pw_835683
+    oomp_key_simple: xesscorp_xess_xess_cd74hc4053pw
     original_filename: xess.pretty/xess-CD74HC4053PW.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_cd74hc4053pw
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_cd74hc4053pw
   oomp_key_simple: xesscorp_xess_xess_cd74hc4053pw
   owner: xesscorp
   repo:

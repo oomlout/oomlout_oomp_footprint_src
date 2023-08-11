@@ -17,9 +17,18 @@
   oomp:
     footprint_name: cui_pd_30s
     library_name: connector
+    md5: 3583b2c805799af4dc17f6c7ccd1eff3
+    md5_10: 3583b2c805
+    md5_5: 3583b
+    md5_6: 3583b2
+    oomp_key: oomp_kicad_connector_cui_pd_30s
+    oomp_key_extra: oomp_footprint_kicad_connector_cui_pd_30s
+    oomp_key_full: oomp_footprint_kicad_connector_cui_pd_30s_3583b2
+    oomp_key_simple: kicad_connector_cui_pd_30s
     original_filename: libraries/kicad-footprints/Connector.pretty/CUI_PD-30S.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_cui_pd_30s
+  oomp_key_full: oomp_footprint_kicad_connector_cui_pd_30s
   oomp_key_simple: kicad_connector_cui_pd_30s
   owner: kicad
   repo:

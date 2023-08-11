@@ -17,9 +17,18 @@
   oomp:
     footprint_name: stabilizer_cherry_mx_2_00u
     library_name: mounting_keyboard_stabilizer
+    md5: ff30f29a1d2f417697b4303afdc3b4ee
+    md5_10: ff30f29a1d
+    md5_5: ff30f
+    md5_6: ff30f2
+    oomp_key: oomp_axello_mounting_keyboard_stabilizer_stabilizer_cherry_mx_2_00u
+    oomp_key_extra: oomp_footprint_axello_mounting_keyboard_stabilizer_stabilizer_cherry_mx_2_00u
+    oomp_key_full: oomp_footprint_axello_mounting_keyboard_stabilizer_stabilizer_cherry_mx_2_00u_ff30f2
+    oomp_key_simple: axello_mounting_keyboard_stabilizer_stabilizer_cherry_mx_2_00u
     original_filename: kicad/6.0/3rdparty/footprints/com_github_perigoso_keyswitch-kicad-library/Mounting_Keyboard_Stabilizer.pretty/Stabilizer_Cherry_MX_2.00u.kicad_mod
     owner_name: axello
   oomp_key: oomp_axello_mounting_keyboard_stabilizer_stabilizer_cherry_mx_2_00u
+  oomp_key_full: oomp_footprint_axello_mounting_keyboard_stabilizer_stabilizer_cherry_mx_2_00u
   oomp_key_simple: axello_mounting_keyboard_stabilizer_stabilizer_cherry_mx_2_00u
   owner: axello
   repo:

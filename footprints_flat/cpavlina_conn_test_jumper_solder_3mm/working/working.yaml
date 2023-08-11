@@ -17,9 +17,18 @@
   oomp:
     footprint_name: jumper_solder_3mm
     library_name: conn_test
+    md5: d2798159390db17436aff8d491073506
+    md5_10: d279815939
+    md5_5: d2798
+    md5_6: d27981
+    oomp_key: oomp_cpavlina_conn_test_jumper_solder_3mm
+    oomp_key_extra: oomp_footprint_cpavlina_conn_test_jumper_solder_3mm
+    oomp_key_full: oomp_footprint_cpavlina_conn_test_jumper_solder_3mm_d27981
+    oomp_key_simple: cpavlina_conn_test_jumper_solder_3mm
     original_filename: kicad-pcblib/conn-test.pretty/JUMPER-SOLDER-3mm.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_conn_test_jumper_solder_3mm
+  oomp_key_full: oomp_footprint_cpavlina_conn_test_jumper_solder_3mm
   oomp_key_simple: cpavlina_conn_test_jumper_solder_3mm
   owner: cpavlina
   repo:

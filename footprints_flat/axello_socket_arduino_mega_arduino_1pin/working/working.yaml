@@ -17,9 +17,18 @@
   oomp:
     footprint_name: arduino_1pin
     library_name: socket_arduino_mega
+    md5: b3a0ec50c14ef13336bfd5cb0c8f438f
+    md5_10: b3a0ec50c1
+    md5_5: b3a0e
+    md5_6: b3a0ec
+    oomp_key: oomp_axello_socket_arduino_mega_arduino_1pin
+    oomp_key_extra: oomp_footprint_axello_socket_arduino_mega_arduino_1pin
+    oomp_key_full: oomp_footprint_axello_socket_arduino_mega_arduino_1pin_b3a0ec
+    oomp_key_simple: axello_socket_arduino_mega_arduino_1pin
     original_filename: kicad/Arduino_Mega_433Mhz_Shield/Socket_Arduino_Mega.pretty/Arduino_1pin.kicad_mod
     owner_name: axello
   oomp_key: oomp_axello_socket_arduino_mega_arduino_1pin
+  oomp_key_full: oomp_footprint_axello_socket_arduino_mega_arduino_1pin
   oomp_key_simple: axello_socket_arduino_mega_arduino_1pin
   owner: axello
   repo:

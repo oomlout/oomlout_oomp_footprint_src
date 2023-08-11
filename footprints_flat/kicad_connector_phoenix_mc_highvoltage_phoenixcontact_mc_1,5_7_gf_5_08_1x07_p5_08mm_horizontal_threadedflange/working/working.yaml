@@ -19,9 +19,18 @@
   oomp:
     footprint_name: phoenixcontact_mc_1,5_7_gf_5_08_1x07_p5_08mm_horizontal_threadedflange
     library_name: connector_phoenix_mc_highvoltage
+    md5: 65885469b36b68218cdb53dd7745ed9d
+    md5_10: 65885469b3
+    md5_5: '65885'
+    md5_6: '658854'
+    oomp_key: oomp_kicad_connector_phoenix_mc_highvoltage_phoenixcontact_mc_1,5_7_gf_5_08_1x07_p5_08mm_horizontal_threadedflange
+    oomp_key_extra: oomp_footprint_kicad_connector_phoenix_mc_highvoltage_phoenixcontact_mc_1,5_7_gf_5_08_1x07_p5_08mm_horizontal_threadedflange
+    oomp_key_full: oomp_footprint_kicad_connector_phoenix_mc_highvoltage_phoenixcontact_mc_1,5_7_gf_5_08_1x07_p5_08mm_horizontal_threadedflange_658854
+    oomp_key_simple: kicad_connector_phoenix_mc_highvoltage_phoenixcontact_mc_1,5_7_gf_5_08_1x07_p5_08mm_horizontal_threadedflange
     original_filename: libraries/kicad-footprints/Connector_Phoenix_MC_HighVoltage.pretty/PhoenixContact_MC_1,5_7-GF-5.08_1x07_P5.08mm_Horizontal_ThreadedFlange.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_phoenix_mc_highvoltage_phoenixcontact_mc_1,5_7_gf_5_08_1x07_p5_08mm_horizontal_threadedflange
+  oomp_key_full: oomp_footprint_kicad_connector_phoenix_mc_highvoltage_phoenixcontact_mc_1,5_7_gf_5_08_1x07_p5_08mm_horizontal_threadedflange
   oomp_key_simple: kicad_connector_phoenix_mc_highvoltage_phoenixcontact_mc_1,5_7_gf_5_08_1x07_p5_08mm_horizontal_threadedflange
   owner: kicad
   repo:

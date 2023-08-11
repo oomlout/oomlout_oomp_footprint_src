@@ -17,9 +17,18 @@
   oomp:
     footprint_name: esp_12_e
     library_name: _esp
+    md5: 66f73748db65b4eb8a3dc3cf3b6e5645
+    md5_10: 66f73748db
+    md5_5: 66f73
+    md5_6: 66f737
+    oomp_key: oomp_mcous_esp_esp_12_e
+    oomp_key_extra: oomp_footprint_mcous_esp_esp_12_e
+    oomp_key_full: oomp_footprint_mcous_esp_esp_12_e_66f737
+    oomp_key_simple: mcous_esp_esp_12_e
     original_filename: kicad-lib/footprints/_esp.pretty/ESP-12-E.kicad_mod
     owner_name: mcous
   oomp_key: oomp_mcous_esp_esp_12_e
+  oomp_key_full: oomp_footprint_mcous_esp_esp_12_e
   oomp_key_simple: mcous_esp_esp_12_e
   owner: mcous
   repo:

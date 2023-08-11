@@ -17,9 +17,18 @@
   oomp:
     footprint_name: l_commonmode_wurth_we_cnsw_1206
     library_name: inductor_smd
+    md5: 341f5598ea7a36f8bcb8e93fa473f029
+    md5_10: 341f5598ea
+    md5_5: 341f5
+    md5_6: 341f55
+    oomp_key: oomp_kicad_inductor_smd_l_commonmode_wurth_we_cnsw_1206
+    oomp_key_extra: oomp_footprint_kicad_inductor_smd_l_commonmode_wurth_we_cnsw_1206
+    oomp_key_full: oomp_footprint_kicad_inductor_smd_l_commonmode_wurth_we_cnsw_1206_341f55
+    oomp_key_simple: kicad_inductor_smd_l_commonmode_wurth_we_cnsw_1206
     original_filename: libraries/kicad-footprints/Inductor_SMD.pretty/L_CommonMode_Wurth_WE-CNSW-1206.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_inductor_smd_l_commonmode_wurth_we_cnsw_1206
+  oomp_key_full: oomp_footprint_kicad_inductor_smd_l_commonmode_wurth_we_cnsw_1206
   oomp_key_simple: kicad_inductor_smd_l_commonmode_wurth_we_cnsw_1206
   owner: kicad
   repo:

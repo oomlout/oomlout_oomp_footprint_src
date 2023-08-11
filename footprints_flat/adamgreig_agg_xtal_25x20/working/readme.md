@@ -19,8 +19,9 @@ Please consult that link for additional, details, files, and license information
 | github_path | http://github.com/adamgreig/agg-kicad/blob/master/agg.pretty/XTAL-25x20.kicad_mod |  
 | links | {'github_src': 'http://gitlab.com/adamgreig/agg-kicad/blob/master/agg.pretty/unchecked.pretty/XTAL50x32.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/adamgreig_agg_xtal_25x20/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/adamgreig_agg_xtal_25x20/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/adamgreig_agg_xtal_25x20/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/adamgreig_agg_xtal_25x20/working'} |  
 | name | agg-kicad |  
-| oomp | {'footprint_name': 'xtal_25x20', 'library_name': 'agg', 'original_filename': 'agg-kicad/agg.pretty/XTAL-25x20.kicad_mod', 'owner_name': 'adamgreig'} |  
+| oomp | {'footprint_name': 'xtal_25x20', 'library_name': 'agg', 'md5': '86e2b1ec98f64bc78e1e735dd9b37b7b', 'md5_10': '86e2b1ec98', 'md5_5': '86e2b', 'md5_6': '86e2b1', 'oomp_key': 'oomp_adamgreig_agg_xtal_25x20', 'oomp_key_extra': 'oomp_footprint_adamgreig_agg_xtal_25x20', 'oomp_key_full': 'oomp_footprint_adamgreig_agg_xtal_25x20_86e2b1', 'oomp_key_simple': 'adamgreig_agg_xtal_25x20', 'original_filename': 'agg-kicad/agg.pretty/XTAL-25x20.kicad_mod', 'owner_name': 'adamgreig'} |  
 | oomp_key | oomp_adamgreig_agg_xtal_25x20 |  
+| oomp_key_full | oomp_footprint_adamgreig_agg_xtal_25x20 |  
 | oomp_key_simple | adamgreig_agg_xtal_25x20 |  
 | owner | adamgreig |  
 | repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  

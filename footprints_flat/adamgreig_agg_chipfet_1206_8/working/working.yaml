@@ -17,9 +17,18 @@
   oomp:
     footprint_name: chipfet_1206_8
     library_name: agg
+    md5: d7f462b6646290962d16e11ca1ec446d
+    md5_10: d7f462b664
+    md5_5: d7f46
+    md5_6: d7f462
+    oomp_key: oomp_adamgreig_agg_chipfet_1206_8
+    oomp_key_extra: oomp_footprint_adamgreig_agg_chipfet_1206_8
+    oomp_key_full: oomp_footprint_adamgreig_agg_chipfet_1206_8_d7f462
+    oomp_key_simple: adamgreig_agg_chipfet_1206_8
     original_filename: agg-kicad/agg.pretty/ChipFET-1206-8.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_chipfet_1206_8
+  oomp_key_full: oomp_footprint_adamgreig_agg_chipfet_1206_8
   oomp_key_simple: adamgreig_agg_chipfet_1206_8
   owner: adamgreig
   repo:

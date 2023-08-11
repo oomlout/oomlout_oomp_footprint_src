@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: dip_20_w7_62mm
-    library_name: source_footprints
+    library_name: dip_20_w7_62mm_kicad_mod
+    md5: 4ea9ff49eb5a350c8abd6db1579926ad
+    md5_10: 4ea9ff49eb
+    md5_5: 4ea9f
+    md5_6: 4ea9ff
+    oomp_key: oomp_digikey_dip_20_w7_62mm_dip_20_w7_62mm
+    oomp_key_extra: oomp_footprint_digikey_dip_20_w7_62mm_dip_20_w7_62mm
+    oomp_key_full: oomp_footprint_digikey_dip_20_w7_62mm_dip_20_w7_62mm_4ea9ff
+    oomp_key_simple: digikey_dip_20_w7_62mm_dip_20_w7_62mm
     original_filename: digikey-kicad-library/src/Source_Footprints/DIP-20_W7.62mm.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_dip_20_w7_62mm_dip_20_w7_62mm
+  oomp_key_full: oomp_footprint_digikey_dip_20_w7_62mm_dip_20_w7_62mm
   oomp_key_simple: digikey_dip_20_w7_62mm_dip_20_w7_62mm
   owner: digikey
   repo:

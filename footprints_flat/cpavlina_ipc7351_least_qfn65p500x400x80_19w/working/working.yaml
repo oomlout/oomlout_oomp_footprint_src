@@ -18,9 +18,18 @@
   oomp:
     footprint_name: qfn65p500x400x80_19w
     library_name: ipc7351_least
+    md5: 22de5bf08adf1f3facc056b194d4fff9
+    md5_10: 22de5bf08a
+    md5_5: 22de5
+    md5_6: 22de5b
+    oomp_key: oomp_cpavlina_ipc7351_least_qfn65p500x400x80_19w
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_least_qfn65p500x400x80_19w
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_least_qfn65p500x400x80_19w_22de5b
+    oomp_key_simple: cpavlina_ipc7351_least_qfn65p500x400x80_19w
     original_filename: kicad-pcblib/IPC7351-Least.pretty/QFN65P500X400X80-19W.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_least_qfn65p500x400x80_19w
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_least_qfn65p500x400x80_19w
   oomp_key_simple: cpavlina_ipc7351_least_qfn65p500x400x80_19w
   owner: cpavlina
   repo:

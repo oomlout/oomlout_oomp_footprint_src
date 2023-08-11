@@ -17,9 +17,18 @@
   oomp:
     footprint_name: a101sycq04
     library_name: agg
+    md5: 22bb3ad3773c0412da865cc6ab66ab72
+    md5_10: 22bb3ad377
+    md5_5: 22bb3
+    md5_6: 22bb3a
+    oomp_key: oomp_adamgreig_agg_a101sycq04
+    oomp_key_extra: oomp_footprint_adamgreig_agg_a101sycq04
+    oomp_key_full: oomp_footprint_adamgreig_agg_a101sycq04_22bb3a
+    oomp_key_simple: adamgreig_agg_a101sycq04
     original_filename: agg-kicad/agg.pretty/A101SYCQ04.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_a101sycq04
+  oomp_key_full: oomp_footprint_adamgreig_agg_a101sycq04
   oomp_key_simple: adamgreig_agg_a101sycq04
   owner: adamgreig
   repo:

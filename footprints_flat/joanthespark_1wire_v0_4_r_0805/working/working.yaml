@@ -17,9 +17,18 @@
   oomp:
     footprint_name: r_0805
     library_name: 1wire_v0_4
+    md5: 9254cbf9a5287bf9171b8bd280ff3ab4
+    md5_10: 9254cbf9a5
+    md5_5: 9254c
+    md5_6: 9254cb
+    oomp_key: oomp_joanthespark_1wire_v0_4_r_0805
+    oomp_key_extra: oomp_footprint_joanthespark_1wire_v0_4_r_0805
+    oomp_key_full: oomp_footprint_joanthespark_1wire_v0_4_r_0805_9254cb
+    oomp_key_simple: joanthespark_1wire_v0_4_r_0805
     original_filename: KiCAD/6.0/projects/1w-grove-v0.1/1wire-v0.4.pretty/R_0805.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_1wire_v0_4_r_0805
+  oomp_key_full: oomp_footprint_joanthespark_1wire_v0_4_r_0805
   oomp_key_simple: joanthespark_1wire_v0_4_r_0805
   owner: JoanTheSpark
   repo:

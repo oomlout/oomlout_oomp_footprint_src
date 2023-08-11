@@ -17,9 +17,18 @@
   oomp:
     footprint_name: qfn_40_ep_ltc_uj
     library_name: agg
+    md5: 60d31c9d21d78423305696ff35a7c83e
+    md5_10: 60d31c9d21
+    md5_5: 60d31
+    md5_6: 60d31c
+    oomp_key: oomp_adamgreig_agg_qfn_40_ep_ltc_uj
+    oomp_key_extra: oomp_footprint_adamgreig_agg_qfn_40_ep_ltc_uj
+    oomp_key_full: oomp_footprint_adamgreig_agg_qfn_40_ep_ltc_uj_60d31c
+    oomp_key_simple: adamgreig_agg_qfn_40_ep_ltc_uj
     original_filename: agg-kicad/agg.pretty/QFN-40-EP-LTC-UJ.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_qfn_40_ep_ltc_uj
+  oomp_key_full: oomp_footprint_adamgreig_agg_qfn_40_ep_ltc_uj
   oomp_key_simple: adamgreig_agg_qfn_40_ep_ltc_uj
   owner: adamgreig
   repo:

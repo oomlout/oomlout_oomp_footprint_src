@@ -19,9 +19,18 @@
   oomp:
     footprint_name: hamlin_he3600
     library_name: manuf
+    md5: d5c3150022ab1505de3c96b8e6f18e3a
+    md5_10: d5c3150022
+    md5_5: d5c31
+    md5_6: d5c315
+    oomp_key: oomp_iangitpers_manuf_hamlin_he3600
+    oomp_key_extra: oomp_footprint_iangitpers_manuf_hamlin_he3600
+    oomp_key_full: oomp_footprint_iangitpers_manuf_hamlin_he3600_d5c315
+    oomp_key_simple: iangitpers_manuf_hamlin_he3600
     original_filename: 4a/manuf.pretty/HAMLIN-HE3600.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_manuf_hamlin_he3600
+  oomp_key_full: oomp_footprint_iangitpers_manuf_hamlin_he3600
   oomp_key_simple: iangitpers_manuf_hamlin_he3600
   owner: Iangitpers
   repo:

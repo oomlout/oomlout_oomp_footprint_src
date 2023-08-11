@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_ecap_smt_8mm
     library_name: xess
+    md5: 45fbc11dce0dea25b1c0f60deb3ddff3
+    md5_10: 45fbc11dce
+    md5_5: 45fbc
+    md5_6: 45fbc1
+    oomp_key: oomp_xesscorp_xess_xess_ecap_smt_8mm
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_ecap_smt_8mm
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_ecap_smt_8mm_45fbc1
+    oomp_key_simple: xesscorp_xess_xess_ecap_smt_8mm
     original_filename: xess.pretty/xess-ECAP-SMT-8MM.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_ecap_smt_8mm
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_ecap_smt_8mm
   oomp_key_simple: xesscorp_xess_xess_ecap_smt_8mm
   owner: xesscorp
   repo:

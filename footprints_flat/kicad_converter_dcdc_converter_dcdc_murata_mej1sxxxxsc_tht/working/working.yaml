@@ -18,9 +18,18 @@
   oomp:
     footprint_name: converter_dcdc_murata_mej1sxxxxsc_tht
     library_name: converter_dcdc
+    md5: 99f4b3b3bb1bcd6b9a9155db4343a21e
+    md5_10: 99f4b3b3bb
+    md5_5: 99f4b
+    md5_6: 99f4b3
+    oomp_key: oomp_kicad_converter_dcdc_converter_dcdc_murata_mej1sxxxxsc_tht
+    oomp_key_extra: oomp_footprint_kicad_converter_dcdc_converter_dcdc_murata_mej1sxxxxsc_tht
+    oomp_key_full: oomp_footprint_kicad_converter_dcdc_converter_dcdc_murata_mej1sxxxxsc_tht_99f4b3
+    oomp_key_simple: kicad_converter_dcdc_converter_dcdc_murata_mej1sxxxxsc_tht
     original_filename: libraries/kicad-footprints/Converter_DCDC.pretty/Converter_DCDC_muRata_MEJ1SxxxxSC_THT.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_converter_dcdc_converter_dcdc_murata_mej1sxxxxsc_tht
+  oomp_key_full: oomp_footprint_kicad_converter_dcdc_converter_dcdc_murata_mej1sxxxxsc_tht
   oomp_key_simple: kicad_converter_dcdc_converter_dcdc_murata_mej1sxxxxsc_tht
   owner: kicad
   repo:

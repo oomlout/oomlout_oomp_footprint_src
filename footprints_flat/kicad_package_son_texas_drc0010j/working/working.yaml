@@ -17,9 +17,18 @@
   oomp:
     footprint_name: texas_drc0010j
     library_name: package_son
+    md5: 93ed583b90c79300af19e6f52f907649
+    md5_10: 93ed583b90
+    md5_5: 93ed5
+    md5_6: 93ed58
+    oomp_key: oomp_kicad_package_son_texas_drc0010j
+    oomp_key_extra: oomp_footprint_kicad_package_son_texas_drc0010j
+    oomp_key_full: oomp_footprint_kicad_package_son_texas_drc0010j_93ed58
+    oomp_key_simple: kicad_package_son_texas_drc0010j
     original_filename: libraries/kicad-footprints/Package_SON.pretty/Texas_DRC0010J.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_son_texas_drc0010j
+  oomp_key_full: oomp_footprint_kicad_package_son_texas_drc0010j
   oomp_key_simple: kicad_package_son_texas_drc0010j
   owner: kicad
   repo:

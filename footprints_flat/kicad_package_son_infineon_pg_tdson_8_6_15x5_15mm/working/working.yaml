@@ -17,9 +17,18 @@
   oomp:
     footprint_name: infineon_pg_tdson_8_6_15x5_15mm
     library_name: package_son
+    md5: 451a5b0ff45d11864805c572bb5f8ca6
+    md5_10: 451a5b0ff4
+    md5_5: 451a5
+    md5_6: 451a5b
+    oomp_key: oomp_kicad_package_son_infineon_pg_tdson_8_6_15x5_15mm
+    oomp_key_extra: oomp_footprint_kicad_package_son_infineon_pg_tdson_8_6_15x5_15mm
+    oomp_key_full: oomp_footprint_kicad_package_son_infineon_pg_tdson_8_6_15x5_15mm_451a5b
+    oomp_key_simple: kicad_package_son_infineon_pg_tdson_8_6_15x5_15mm
     original_filename: libraries/kicad-footprints/Package_SON.pretty/Infineon_PG-TDSON-8_6.15x5.15mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_son_infineon_pg_tdson_8_6_15x5_15mm
+  oomp_key_full: oomp_footprint_kicad_package_son_infineon_pg_tdson_8_6_15x5_15mm
   oomp_key_simple: kicad_package_son_infineon_pg_tdson_8_6_15x5_15mm
   owner: kicad
   repo:

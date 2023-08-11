@@ -18,9 +18,18 @@
   oomp:
     footprint_name: lcc102p1066x1066x800_32
     library_name: ipc7351_nominal
+    md5: 2268ae7e01c6506cf3c4c456193d619e
+    md5_10: 2268ae7e01
+    md5_5: 2268a
+    md5_6: 2268ae
+    oomp_key: oomp_cpavlina_ipc7351_nominal_lcc102p1066x1066x800_32
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_nominal_lcc102p1066x1066x800_32
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_lcc102p1066x1066x800_32_2268ae
+    oomp_key_simple: cpavlina_ipc7351_nominal_lcc102p1066x1066x800_32
     original_filename: kicad-pcblib/IPC7351-Nominal.pretty/LCC102P1066X1066X800-32.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_nominal_lcc102p1066x1066x800_32
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_lcc102p1066x1066x800_32
   oomp_key_simple: cpavlina_ipc7351_nominal_lcc102p1066x1066x800_32
   owner: cpavlina
   repo:

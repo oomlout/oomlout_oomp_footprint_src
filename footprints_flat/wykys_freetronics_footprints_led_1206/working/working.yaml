@@ -17,9 +17,18 @@
   oomp:
     footprint_name: led_1206
     library_name: freetronics_footprints
+    md5: 7c3bc7297e68ff4095c5ef4843db2945
+    md5_10: 7c3bc7297e
+    md5_5: 7c3bc
+    md5_6: 7c3bc7
+    oomp_key: oomp_wykys_freetronics_footprints_led_1206
+    oomp_key_extra: oomp_footprint_wykys_freetronics_footprints_led_1206
+    oomp_key_full: oomp_footprint_wykys_freetronics_footprints_led_1206_7c3bc7
+    oomp_key_simple: wykys_freetronics_footprints_led_1206
     original_filename: kicad/mods/freetronics_footprints.pretty/LED-1206.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_freetronics_footprints_led_1206
+  oomp_key_full: oomp_footprint_wykys_freetronics_footprints_led_1206
   oomp_key_simple: wykys_freetronics_footprints_led_1206
   owner: wykys
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: capmp7370x440
     library_name: ipc7351_least
+    md5: f9640a0c7b9108d5eb5dbff62aadbc59
+    md5_10: f9640a0c7b
+    md5_5: f9640
+    md5_6: f9640a
+    oomp_key: oomp_cpavlina_ipc7351_least_capmp7370x440
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_least_capmp7370x440
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_least_capmp7370x440_f9640a
+    oomp_key_simple: cpavlina_ipc7351_least_capmp7370x440
     original_filename: kicad-pcblib/IPC7351-Least.pretty/CAPMP7370X440.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_least_capmp7370x440
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_least_capmp7370x440
   oomp_key_simple: cpavlina_ipc7351_least_capmp7370x440
   owner: cpavlina
   repo:

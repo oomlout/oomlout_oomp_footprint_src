@@ -18,9 +18,18 @@
   oomp:
     footprint_name: l_avx_lmlp07a7
     library_name: inductor_smd
+    md5: f277fbfa3c567617e9c0074e455b251d
+    md5_10: f277fbfa3c
+    md5_5: f277f
+    md5_6: f277fb
+    oomp_key: oomp_kicad_inductor_smd_l_avx_lmlp07a7
+    oomp_key_extra: oomp_footprint_kicad_inductor_smd_l_avx_lmlp07a7
+    oomp_key_full: oomp_footprint_kicad_inductor_smd_l_avx_lmlp07a7_f277fb
+    oomp_key_simple: kicad_inductor_smd_l_avx_lmlp07a7
     original_filename: libraries/kicad-footprints/Inductor_SMD.pretty/L_AVX_LMLP07A7.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_inductor_smd_l_avx_lmlp07a7
+  oomp_key_full: oomp_footprint_kicad_inductor_smd_l_avx_lmlp07a7
   oomp_key_simple: kicad_inductor_smd_l_avx_lmlp07a7
   owner: kicad
   repo:

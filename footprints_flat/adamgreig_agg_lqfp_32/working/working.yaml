@@ -17,9 +17,18 @@
   oomp:
     footprint_name: lqfp_32
     library_name: agg
+    md5: e309ba2bdd78406ecd3717dd7b2f5798
+    md5_10: e309ba2bdd
+    md5_5: e309b
+    md5_6: e309ba
+    oomp_key: oomp_adamgreig_agg_lqfp_32
+    oomp_key_extra: oomp_footprint_adamgreig_agg_lqfp_32
+    oomp_key_full: oomp_footprint_adamgreig_agg_lqfp_32_e309ba
+    oomp_key_simple: adamgreig_agg_lqfp_32
     original_filename: agg-kicad/agg.pretty/LQFP-32.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_lqfp_32
+  oomp_key_full: oomp_footprint_adamgreig_agg_lqfp_32
   oomp_key_simple: adamgreig_agg_lqfp_32
   owner: adamgreig
   repo:

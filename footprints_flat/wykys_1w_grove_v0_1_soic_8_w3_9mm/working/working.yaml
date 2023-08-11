@@ -17,9 +17,18 @@
   oomp:
     footprint_name: soic_8_w3_9mm
     library_name: 1w_grove_v0_1
+    md5: a9453db3d608a6e018e6f836a6dfb50f
+    md5_10: a9453db3d6
+    md5_5: a9453
+    md5_6: a9453d
+    oomp_key: oomp_wykys_1w_grove_v0_1_soic_8_w3_9mm
+    oomp_key_extra: oomp_footprint_wykys_1w_grove_v0_1_soic_8_w3_9mm
+    oomp_key_full: oomp_footprint_wykys_1w_grove_v0_1_soic_8_w3_9mm_a9453d
+    oomp_key_simple: wykys_1w_grove_v0_1_soic_8_w3_9mm
     original_filename: kicad/6.0/projects/1w-grove-v0.1/1w-grove-v0.1.pretty/SOIC-8_W3.9mm.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_1w_grove_v0_1_soic_8_w3_9mm
+  oomp_key_full: oomp_footprint_wykys_1w_grove_v0_1_soic_8_w3_9mm
   oomp_key_simple: wykys_1w_grove_v0_1_soic_8_w3_9mm
   owner: wykys
   repo:

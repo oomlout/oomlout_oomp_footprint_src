@@ -17,9 +17,18 @@
   oomp:
     footprint_name: cv3_30pf
     library_name: footprints
+    md5: 4f9fe0a568e986521fb5a0233f046e8e
+    md5_10: 4f9fe0a568
+    md5_5: 4f9fe
+    md5_6: 4f9fe0
+    oomp_key: oomp_axello_footprints_cv3_30pf
+    oomp_key_extra: oomp_footprint_axello_footprints_cv3_30pf
+    oomp_key_full: oomp_footprint_axello_footprints_cv3_30pf_4f9fe0
+    oomp_key_simple: axello_footprints_cv3_30pf
     original_filename: kicad/demos/video/libs/footprints.pretty/CV3-30PF.kicad_mod
     owner_name: axello
   oomp_key: oomp_axello_footprints_cv3_30pf
+  oomp_key_full: oomp_footprint_axello_footprints_cv3_30pf
   oomp_key_simple: axello_footprints_cv3_30pf
   owner: axello
   repo:

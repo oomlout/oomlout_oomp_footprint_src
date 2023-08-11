@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ep13_smt_h_12pin_(4483)
     library_name: transformers_wurthelektronik
+    md5: e06cb74c5f8b01df23215a5f005af93b
+    md5_10: e06cb74c5f
+    md5_5: e06cb
+    md5_6: e06cb7
+    oomp_key: oomp_toka_eisos_transformers_wurthelektronik_ep13_smt_h_12pin_(4483)
+    oomp_key_extra: oomp_footprint_toka_eisos_transformers_wurthelektronik_ep13_smt_h_12pin_(4483)
+    oomp_key_full: oomp_footprint_toka_eisos_transformers_wurthelektronik_ep13_smt_h_12pin_(4483)_e06cb7
+    oomp_key_simple: toka_eisos_transformers_wurthelektronik_ep13_smt_h_12pin_(4483)
     original_filename: Transformers_WurthElektronik.pretty/EP13_SMT_H_12PIN_(4483).kicad_mod
     owner_name: toka_eisos
   oomp_key: oomp_toka_eisos_transformers_wurthelektronik_ep13_smt_h_12pin_(4483)
+  oomp_key_full: oomp_footprint_toka_eisos_transformers_wurthelektronik_ep13_smt_h_12pin_(4483)
   oomp_key_simple: toka_eisos_transformers_wurthelektronik_ep13_smt_h_12pin_(4483)
   owner: toka-eisos
   repo:

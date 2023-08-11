@@ -16,10 +16,19 @@
   name: agg-kicad
   oomp:
     footprint_name: ufl_r_smt
-    library_name: unchecked
+    library_name: agg
+    md5: 174f758318f843fd13067ee5ded3998f
+    md5_10: 174f758318
+    md5_5: 174f7
+    md5_6: 174f75
+    oomp_key: oomp_adamgreig_agg_ufl_r_smt
+    oomp_key_extra: oomp_footprint_adamgreig_agg_ufl_r_smt
+    oomp_key_full: oomp_footprint_adamgreig_agg_ufl_r_smt_174f75
+    oomp_key_simple: adamgreig_agg_ufl_r_smt
     original_filename: agg-kicad/agg.pretty/unchecked.pretty/uFL-R-SMT.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_ufl_r_smt
+  oomp_key_full: oomp_footprint_adamgreig_agg_ufl_r_smt
   oomp_key_simple: adamgreig_agg_ufl_r_smt
   owner: adamgreig
   repo:

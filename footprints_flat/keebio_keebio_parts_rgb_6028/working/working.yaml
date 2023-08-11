@@ -17,9 +17,18 @@
   oomp:
     footprint_name: rgb_6028
     library_name: keebio_parts
+    md5: 9ec78fa9951c4e082a5a78861d1de0a2
+    md5_10: 9ec78fa995
+    md5_5: 9ec78
+    md5_6: 9ec78f
+    oomp_key: oomp_keebio_keebio_parts_rgb_6028
+    oomp_key_extra: oomp_footprint_keebio_keebio_parts_rgb_6028
+    oomp_key_full: oomp_footprint_keebio_keebio_parts_rgb_6028_9ec78f
+    oomp_key_simple: keebio_keebio_parts_rgb_6028
     original_filename: Keebio-Parts.pretty/RGB-6028.kicad_mod
     owner_name: keebio
   oomp_key: oomp_keebio_keebio_parts_rgb_6028
+  oomp_key_full: oomp_footprint_keebio_keebio_parts_rgb_6028
   oomp_key_simple: keebio_keebio_parts_rgb_6028
   owner: keebio
   repo:

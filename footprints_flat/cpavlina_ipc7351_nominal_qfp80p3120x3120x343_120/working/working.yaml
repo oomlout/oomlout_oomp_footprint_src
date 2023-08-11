@@ -18,9 +18,18 @@
   oomp:
     footprint_name: qfp80p3120x3120x343_120
     library_name: ipc7351_nominal
+    md5: 214b0543125d2f7f444e39bea7c0a812
+    md5_10: 214b054312
+    md5_5: 214b0
+    md5_6: 214b05
+    oomp_key: oomp_cpavlina_ipc7351_nominal_qfp80p3120x3120x343_120
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_nominal_qfp80p3120x3120x343_120
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_qfp80p3120x3120x343_120_214b05
+    oomp_key_simple: cpavlina_ipc7351_nominal_qfp80p3120x3120x343_120
     original_filename: kicad-pcblib/IPC7351-Nominal.pretty/QFP80P3120X3120X343-120.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_nominal_qfp80p3120x3120x343_120
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_qfp80p3120x3120x343_120
   oomp_key_simple: cpavlina_ipc7351_nominal_qfp80p3120x3120x343_120
   owner: cpavlina
   repo:

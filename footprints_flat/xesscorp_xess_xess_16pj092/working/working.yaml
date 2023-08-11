@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_16pj092
     library_name: xess
+    md5: e261a419173a6d3cc6767826c6b7163d
+    md5_10: e261a41917
+    md5_5: e261a
+    md5_6: e261a4
+    oomp_key: oomp_xesscorp_xess_xess_16pj092
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_16pj092
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_16pj092_e261a4
+    oomp_key_simple: xesscorp_xess_xess_16pj092
     original_filename: xess.pretty/xess-16PJ092.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_16pj092
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_16pj092
   oomp_key_simple: xesscorp_xess_xess_16pj092
   owner: xesscorp
   repo:

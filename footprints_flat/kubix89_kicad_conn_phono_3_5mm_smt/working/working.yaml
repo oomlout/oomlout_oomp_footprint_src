@@ -17,9 +17,18 @@
   oomp:
     footprint_name: conn_phono_3_5mm_smt
     library_name: kicad
+    md5: 758663f21aef8daaf50f0723627a19ad
+    md5_10: 758663f21a
+    md5_5: '75866'
+    md5_6: '758663'
+    oomp_key: oomp_kubix89_kicad_conn_phono_3_5mm_smt
+    oomp_key_extra: oomp_footprint_kubix89_kicad_conn_phono_3_5mm_smt
+    oomp_key_full: oomp_footprint_kubix89_kicad_conn_phono_3_5mm_smt_758663
+    oomp_key_simple: kubix89_kicad_conn_phono_3_5mm_smt
     original_filename: kiCAD.pretty/CONN_PHONO_3.5MM_SMT.kicad_mod
     owner_name: kubix89
   oomp_key: oomp_kubix89_kicad_conn_phono_3_5mm_smt
+  oomp_key_full: oomp_footprint_kubix89_kicad_conn_phono_3_5mm_smt
   oomp_key_simple: kubix89_kicad_conn_phono_3_5mm_smt
   owner: kubiX89
   repo:

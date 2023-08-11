@@ -17,9 +17,18 @@
   oomp:
     footprint_name: rcv
     library_name: rf
+    md5: 1047c7dde8ee1ea5de9de34eece89486
+    md5_10: 1047c7dde8
+    md5_5: 1047c
+    md5_6: 1047c7
+    oomp_key: oomp_joanthespark_rf_rcv
+    oomp_key_extra: oomp_footprint_joanthespark_rf_rcv
+    oomp_key_full: oomp_footprint_joanthespark_rf_rcv_1047c7
+    oomp_key_simple: joanthespark_rf_rcv
     original_filename: KiCAD/mods/RF.pretty/RCV.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_rf_rcv
+  oomp_key_full: oomp_footprint_joanthespark_rf_rcv
   oomp_key_simple: joanthespark_rf_rcv
   owner: JoanTheSpark
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: f2579786
     library_name: 1wire_v0_4
+    md5: 1ab02ebc20bef35f49396521ef6423b4
+    md5_10: 1ab02ebc20
+    md5_5: 1ab02
+    md5_6: 1ab02e
+    oomp_key: oomp_joanthespark_1wire_v0_4_f2579786
+    oomp_key_extra: oomp_footprint_joanthespark_1wire_v0_4_f2579786
+    oomp_key_full: oomp_footprint_joanthespark_1wire_v0_4_f2579786_1ab02e
+    oomp_key_simple: joanthespark_1wire_v0_4_f2579786
     original_filename: KiCAD/6.0/projects/1w-grove-v0.1/1wire-v0.4.pretty/F2579786.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_1wire_v0_4_f2579786
+  oomp_key_full: oomp_footprint_joanthespark_1wire_v0_4_f2579786
   oomp_key_simple: joanthespark_1wire_v0_4_f2579786
   owner: JoanTheSpark
   repo:

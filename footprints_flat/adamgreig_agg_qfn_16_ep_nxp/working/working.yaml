@@ -17,9 +17,18 @@
   oomp:
     footprint_name: qfn_16_ep_nxp
     library_name: agg
+    md5: e7bb6663c69816b6bd62d174f89ca82a
+    md5_10: e7bb6663c6
+    md5_5: e7bb6
+    md5_6: e7bb66
+    oomp_key: oomp_adamgreig_agg_qfn_16_ep_nxp
+    oomp_key_extra: oomp_footprint_adamgreig_agg_qfn_16_ep_nxp
+    oomp_key_full: oomp_footprint_adamgreig_agg_qfn_16_ep_nxp_e7bb66
+    oomp_key_simple: adamgreig_agg_qfn_16_ep_nxp
     original_filename: agg-kicad/agg.pretty/QFN-16-EP-NXP.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_qfn_16_ep_nxp
+  oomp_key_full: oomp_footprint_adamgreig_agg_qfn_16_ep_nxp
   oomp_key_simple: adamgreig_agg_qfn_16_ep_nxp
   owner: adamgreig
   repo:

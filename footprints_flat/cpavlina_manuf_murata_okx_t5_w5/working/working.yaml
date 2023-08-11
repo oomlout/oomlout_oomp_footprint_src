@@ -17,9 +17,18 @@
   oomp:
     footprint_name: murata_okx_t5_w5
     library_name: manuf
+    md5: 9429fcaaa39b48c0523fd0201dc8957f
+    md5_10: 9429fcaaa3
+    md5_5: 9429f
+    md5_6: 9429fc
+    oomp_key: oomp_cpavlina_manuf_murata_okx_t5_w5
+    oomp_key_extra: oomp_footprint_cpavlina_manuf_murata_okx_t5_w5
+    oomp_key_full: oomp_footprint_cpavlina_manuf_murata_okx_t5_w5_9429fc
+    oomp_key_simple: cpavlina_manuf_murata_okx_t5_w5
     original_filename: kicad-pcblib/manuf.pretty/MURATA-OKX-T5-W5.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_manuf_murata_okx_t5_w5
+  oomp_key_full: oomp_footprint_cpavlina_manuf_murata_okx_t5_w5
   oomp_key_simple: cpavlina_manuf_murata_okx_t5_w5
   owner: cpavlina
   repo:

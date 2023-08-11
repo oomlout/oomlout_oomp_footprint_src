@@ -17,9 +17,18 @@
   oomp:
     footprint_name: test_hook
     library_name: conn_test
+    md5: 4f967d491ea7becd27742ce7a08c3037
+    md5_10: 4f967d491e
+    md5_5: 4f967
+    md5_6: 4f967d
+    oomp_key: oomp_cpavlina_conn_test_test_hook
+    oomp_key_extra: oomp_footprint_cpavlina_conn_test_test_hook
+    oomp_key_full: oomp_footprint_cpavlina_conn_test_test_hook_4f967d
+    oomp_key_simple: cpavlina_conn_test_test_hook
     original_filename: kicad-pcblib/conn-test.pretty/TEST-HOOK.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_conn_test_test_hook
+  oomp_key_full: oomp_footprint_cpavlina_conn_test_test_hook
   oomp_key_simple: cpavlina_conn_test_test_hook
   owner: cpavlina
   repo:

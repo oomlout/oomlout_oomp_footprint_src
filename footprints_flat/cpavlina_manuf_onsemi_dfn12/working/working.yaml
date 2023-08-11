@@ -17,9 +17,18 @@
   oomp:
     footprint_name: onsemi_dfn12
     library_name: manuf
+    md5: 3b032ae0833135a657454fdc9f794954
+    md5_10: 3b032ae083
+    md5_5: 3b032
+    md5_6: 3b032a
+    oomp_key: oomp_cpavlina_manuf_onsemi_dfn12
+    oomp_key_extra: oomp_footprint_cpavlina_manuf_onsemi_dfn12
+    oomp_key_full: oomp_footprint_cpavlina_manuf_onsemi_dfn12_3b032a
+    oomp_key_simple: cpavlina_manuf_onsemi_dfn12
     original_filename: kicad-pcblib/manuf.pretty/ONSEMI_DFN12.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_manuf_onsemi_dfn12
+  oomp_key_full: oomp_footprint_cpavlina_manuf_onsemi_dfn12
   oomp_key_simple: cpavlina_manuf_onsemi_dfn12
   owner: cpavlina
   repo:

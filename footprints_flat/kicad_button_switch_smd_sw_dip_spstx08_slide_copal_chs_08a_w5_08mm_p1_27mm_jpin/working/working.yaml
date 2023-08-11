@@ -19,9 +19,18 @@
   oomp:
     footprint_name: sw_dip_spstx08_slide_copal_chs_08a_w5_08mm_p1_27mm_jpin
     library_name: button_switch_smd
+    md5: b43763358b09d5a38f22d3236d492f51
+    md5_10: b43763358b
+    md5_5: b4376
+    md5_6: b43763
+    oomp_key: oomp_kicad_button_switch_smd_sw_dip_spstx08_slide_copal_chs_08a_w5_08mm_p1_27mm_jpin
+    oomp_key_extra: oomp_footprint_kicad_button_switch_smd_sw_dip_spstx08_slide_copal_chs_08a_w5_08mm_p1_27mm_jpin
+    oomp_key_full: oomp_footprint_kicad_button_switch_smd_sw_dip_spstx08_slide_copal_chs_08a_w5_08mm_p1_27mm_jpin_b43763
+    oomp_key_simple: kicad_button_switch_smd_sw_dip_spstx08_slide_copal_chs_08a_w5_08mm_p1_27mm_jpin
     original_filename: libraries/kicad-footprints/Button_Switch_SMD.pretty/SW_DIP_SPSTx08_Slide_Copal_CHS-08A_W5.08mm_P1.27mm_JPin.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_button_switch_smd_sw_dip_spstx08_slide_copal_chs_08a_w5_08mm_p1_27mm_jpin
+  oomp_key_full: oomp_footprint_kicad_button_switch_smd_sw_dip_spstx08_slide_copal_chs_08a_w5_08mm_p1_27mm_jpin
   oomp_key_simple: kicad_button_switch_smd_sw_dip_spstx08_slide_copal_chs_08a_w5_08mm_p1_27mm_jpin
   owner: kicad
   repo:

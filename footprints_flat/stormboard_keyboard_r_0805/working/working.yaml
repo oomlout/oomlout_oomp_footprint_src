@@ -17,9 +17,18 @@
   oomp:
     footprint_name: r_0805
     library_name: keyboard
+    md5: 4470bb4f0dea2abdb16e00bab2b011ed
+    md5_10: 4470bb4f0d
+    md5_5: 4470b
+    md5_6: 4470bb
+    oomp_key: oomp_stormboard_keyboard_r_0805
+    oomp_key_extra: oomp_footprint_stormboard_keyboard_r_0805
+    oomp_key_full: oomp_footprint_stormboard_keyboard_r_0805_4470bb
+    oomp_key_simple: stormboard_keyboard_r_0805
     original_filename: Keyboard.pretty/R_0805.kicad_mod
     owner_name: stormboard
   oomp_key: oomp_stormboard_keyboard_r_0805
+  oomp_key_full: oomp_footprint_stormboard_keyboard_r_0805
   oomp_key_simple: stormboard_keyboard_r_0805
   owner: stormboard
   repo:

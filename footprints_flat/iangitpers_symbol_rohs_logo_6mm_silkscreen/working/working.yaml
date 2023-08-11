@@ -19,9 +19,18 @@
   oomp:
     footprint_name: rohs_logo_6mm_silkscreen
     library_name: symbol
+    md5: ea52dbb5fe5617bd73bb8bc1fe89a857
+    md5_10: ea52dbb5fe
+    md5_5: ea52d
+    md5_6: ea52db
+    oomp_key: oomp_iangitpers_symbol_rohs_logo_6mm_silkscreen
+    oomp_key_extra: oomp_footprint_iangitpers_symbol_rohs_logo_6mm_silkscreen
+    oomp_key_full: oomp_footprint_iangitpers_symbol_rohs_logo_6mm_silkscreen_ea52db
+    oomp_key_simple: iangitpers_symbol_rohs_logo_6mm_silkscreen
     original_filename: 4a/Symbol.pretty/RoHS-Logo_6mm_SilkScreen.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_symbol_rohs_logo_6mm_silkscreen
+  oomp_key_full: oomp_footprint_iangitpers_symbol_rohs_logo_6mm_silkscreen
   oomp_key_simple: iangitpers_symbol_rohs_logo_6mm_silkscreen
   owner: Iangitpers
   repo:

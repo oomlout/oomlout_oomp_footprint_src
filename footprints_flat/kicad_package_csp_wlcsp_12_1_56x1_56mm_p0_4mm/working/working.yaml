@@ -17,9 +17,18 @@
   oomp:
     footprint_name: wlcsp_12_1_56x1_56mm_p0_4mm
     library_name: package_csp
+    md5: 907aae2fca8f70ce435cd94f9be6cc61
+    md5_10: 907aae2fca
+    md5_5: 907aa
+    md5_6: 907aae
+    oomp_key: oomp_kicad_package_csp_wlcsp_12_1_56x1_56mm_p0_4mm
+    oomp_key_extra: oomp_footprint_kicad_package_csp_wlcsp_12_1_56x1_56mm_p0_4mm
+    oomp_key_full: oomp_footprint_kicad_package_csp_wlcsp_12_1_56x1_56mm_p0_4mm_907aae
+    oomp_key_simple: kicad_package_csp_wlcsp_12_1_56x1_56mm_p0_4mm
     original_filename: libraries/kicad-footprints/Package_CSP.pretty/WLCSP-12_1.56x1.56mm_P0.4mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_csp_wlcsp_12_1_56x1_56mm_p0_4mm
+  oomp_key_full: oomp_footprint_kicad_package_csp_wlcsp_12_1_56x1_56mm_p0_4mm
   oomp_key_simple: kicad_package_csp_wlcsp_12_1_56x1_56mm_p0_4mm
   owner: kicad
   repo:

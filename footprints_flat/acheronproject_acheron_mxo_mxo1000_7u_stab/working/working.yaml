@@ -17,9 +17,18 @@
   oomp:
     footprint_name: mxo1000_7u_stab
     library_name: acheron_mxo
+    md5: a50c96c07cf3480b2b59028af487e6bc
+    md5_10: a50c96c07c
+    md5_5: a50c9
+    md5_6: a50c96
+    oomp_key: oomp_acheronproject_acheron_mxo_mxo1000_7u_stab
+    oomp_key_extra: oomp_footprint_acheronproject_acheron_mxo_mxo1000_7u_stab
+    oomp_key_full: oomp_footprint_acheronproject_acheron_mxo_mxo1000_7u_stab_a50c96
+    oomp_key_simple: acheronproject_acheron_mxo_mxo1000_7u_stab
     original_filename: acheron_MXO.pretty/MXO1000_7U_STAB.kicad_mod
     owner_name: acheronproject
   oomp_key: oomp_acheronproject_acheron_mxo_mxo1000_7u_stab
+  oomp_key_full: oomp_footprint_acheronproject_acheron_mxo_mxo1000_7u_stab
   oomp_key_simple: acheronproject_acheron_mxo_mxo1000_7u_stab
   owner: AcheronProject
   repo:

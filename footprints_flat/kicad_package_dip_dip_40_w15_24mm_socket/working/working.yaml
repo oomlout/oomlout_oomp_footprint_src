@@ -18,9 +18,18 @@
   oomp:
     footprint_name: dip_40_w15_24mm_socket
     library_name: package_dip
+    md5: ab890c105bf68432821244adfc7d778b
+    md5_10: ab890c105b
+    md5_5: ab890
+    md5_6: ab890c
+    oomp_key: oomp_kicad_package_dip_dip_40_w15_24mm_socket
+    oomp_key_extra: oomp_footprint_kicad_package_dip_dip_40_w15_24mm_socket
+    oomp_key_full: oomp_footprint_kicad_package_dip_dip_40_w15_24mm_socket_ab890c
+    oomp_key_simple: kicad_package_dip_dip_40_w15_24mm_socket
     original_filename: libraries/kicad-footprints/Package_DIP.pretty/DIP-40_W15.24mm_Socket.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_dip_dip_40_w15_24mm_socket
+  oomp_key_full: oomp_footprint_kicad_package_dip_dip_40_w15_24mm_socket
   oomp_key_simple: kicad_package_dip_dip_40_w15_24mm_socket
   owner: kicad
   repo:

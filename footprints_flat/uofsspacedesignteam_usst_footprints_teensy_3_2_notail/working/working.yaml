@@ -17,9 +17,18 @@
   oomp:
     footprint_name: teensy_3_2_notail
     library_name: usst_footprints
+    md5: 320a0bb252cef8f3d781d991d7ca6c2e
+    md5_10: 320a0bb252
+    md5_5: 320a0
+    md5_6: 320a0b
+    oomp_key: oomp_uofsspacedesignteam_usst_footprints_teensy_3_2_notail
+    oomp_key_extra: oomp_footprint_uofsspacedesignteam_usst_footprints_teensy_3_2_notail
+    oomp_key_full: oomp_footprint_uofsspacedesignteam_usst_footprints_teensy_3_2_notail_320a0b
+    oomp_key_simple: uofsspacedesignteam_usst_footprints_teensy_3_2_notail
     original_filename: USST-footprints.pretty/Teensy_3.2_NoTail.kicad_mod
     owner_name: uofsspacedesignteam
   oomp_key: oomp_uofsspacedesignteam_usst_footprints_teensy_3_2_notail
+  oomp_key_full: oomp_footprint_uofsspacedesignteam_usst_footprints_teensy_3_2_notail
   oomp_key_simple: uofsspacedesignteam_usst_footprints_teensy_3_2_notail
   owner: UofSSpaceDesignTeam
   repo:

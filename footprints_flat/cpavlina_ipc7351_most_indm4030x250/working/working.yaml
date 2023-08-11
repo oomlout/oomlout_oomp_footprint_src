@@ -17,9 +17,18 @@
   oomp:
     footprint_name: indm4030x250
     library_name: ipc7351_most
+    md5: d53a56ea95dbd123ee7abb1df4f261be
+    md5_10: d53a56ea95
+    md5_5: d53a5
+    md5_6: d53a56
+    oomp_key: oomp_cpavlina_ipc7351_most_indm4030x250
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_most_indm4030x250
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_most_indm4030x250_d53a56
+    oomp_key_simple: cpavlina_ipc7351_most_indm4030x250
     original_filename: kicad-pcblib/IPC7351-Most.pretty/INDM4030X250.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_most_indm4030x250
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_most_indm4030x250
   oomp_key_simple: cpavlina_ipc7351_most_indm4030x250
   owner: cpavlina
   repo:

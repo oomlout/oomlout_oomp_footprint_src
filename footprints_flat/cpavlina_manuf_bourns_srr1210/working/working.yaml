@@ -17,9 +17,18 @@
   oomp:
     footprint_name: bourns_srr1210
     library_name: manuf
+    md5: 9c1a2d1a28f34ed5af1b3775914e2733
+    md5_10: 9c1a2d1a28
+    md5_5: 9c1a2
+    md5_6: 9c1a2d
+    oomp_key: oomp_cpavlina_manuf_bourns_srr1210
+    oomp_key_extra: oomp_footprint_cpavlina_manuf_bourns_srr1210
+    oomp_key_full: oomp_footprint_cpavlina_manuf_bourns_srr1210_9c1a2d
+    oomp_key_simple: cpavlina_manuf_bourns_srr1210
     original_filename: kicad-pcblib/manuf.pretty/BOURNS-SRR1210.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_manuf_bourns_srr1210
+  oomp_key_full: oomp_footprint_cpavlina_manuf_bourns_srr1210
   oomp_key_simple: cpavlina_manuf_bourns_srr1210
   owner: cpavlina
   repo:

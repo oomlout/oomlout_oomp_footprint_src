@@ -18,9 +18,18 @@
   oomp:
     footprint_name: samtec_hsec8_150_01_x_dv_2x50_p0_8mm_pol27_socket
     library_name: connector_samtec_hsec8
+    md5: 07330713e7525bea2954a99eb3eb24af
+    md5_10: 07330713e7
+    md5_5: '07330'
+    md5_6: '073307'
+    oomp_key: oomp_kicad_connector_samtec_hsec8_samtec_hsec8_150_01_x_dv_2x50_p0_8mm_pol27_socket
+    oomp_key_extra: oomp_footprint_kicad_connector_samtec_hsec8_samtec_hsec8_150_01_x_dv_2x50_p0_8mm_pol27_socket
+    oomp_key_full: oomp_footprint_kicad_connector_samtec_hsec8_samtec_hsec8_150_01_x_dv_2x50_p0_8mm_pol27_socket_073307
+    oomp_key_simple: kicad_connector_samtec_hsec8_samtec_hsec8_150_01_x_dv_2x50_p0_8mm_pol27_socket
     original_filename: libraries/kicad-footprints/Connector_Samtec_HSEC8.pretty/Samtec_HSEC8-150-01-X-DV_2x50_P0.8mm_Pol27_Socket.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_samtec_hsec8_samtec_hsec8_150_01_x_dv_2x50_p0_8mm_pol27_socket
+  oomp_key_full: oomp_footprint_kicad_connector_samtec_hsec8_samtec_hsec8_150_01_x_dv_2x50_p0_8mm_pol27_socket
   oomp_key_simple: kicad_connector_samtec_hsec8_samtec_hsec8_150_01_x_dv_2x50_p0_8mm_pol27_socket
   owner: kicad
   repo:

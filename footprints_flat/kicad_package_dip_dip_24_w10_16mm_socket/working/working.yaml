@@ -18,9 +18,18 @@
   oomp:
     footprint_name: dip_24_w10_16mm_socket
     library_name: package_dip
+    md5: 78d605ae0519a6d46d94e1aed919e762
+    md5_10: 78d605ae05
+    md5_5: 78d60
+    md5_6: 78d605
+    oomp_key: oomp_kicad_package_dip_dip_24_w10_16mm_socket
+    oomp_key_extra: oomp_footprint_kicad_package_dip_dip_24_w10_16mm_socket
+    oomp_key_full: oomp_footprint_kicad_package_dip_dip_24_w10_16mm_socket_78d605
+    oomp_key_simple: kicad_package_dip_dip_24_w10_16mm_socket
     original_filename: libraries/kicad-footprints/Package_DIP.pretty/DIP-24_W10.16mm_Socket.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_dip_dip_24_w10_16mm_socket
+  oomp_key_full: oomp_footprint_kicad_package_dip_dip_24_w10_16mm_socket
   oomp_key_simple: kicad_package_dip_dip_24_w10_16mm_socket
   owner: kicad
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: resc1913x63
     library_name: ipc7351_nominal
+    md5: fdfb01c4e4e721388f346beddb62d96e
+    md5_10: fdfb01c4e4
+    md5_5: fdfb0
+    md5_6: fdfb01
+    oomp_key: oomp_cpavlina_ipc7351_nominal_resc1913x63
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_nominal_resc1913x63
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_resc1913x63_fdfb01
+    oomp_key_simple: cpavlina_ipc7351_nominal_resc1913x63
     original_filename: kicad-pcblib/IPC7351-Nominal.pretty/RESC1913X63.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_nominal_resc1913x63
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_resc1913x63
   oomp_key_simple: cpavlina_ipc7351_nominal_resc1913x63
   owner: cpavlina
   repo:

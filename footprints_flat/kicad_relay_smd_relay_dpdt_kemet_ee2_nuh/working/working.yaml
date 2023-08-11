@@ -17,9 +17,18 @@
   oomp:
     footprint_name: relay_dpdt_kemet_ee2_nuh
     library_name: relay_smd
+    md5: 29b5b8aa441d88f6ef2521b3c115ab34
+    md5_10: 29b5b8aa44
+    md5_5: 29b5b
+    md5_6: 29b5b8
+    oomp_key: oomp_kicad_relay_smd_relay_dpdt_kemet_ee2_nuh
+    oomp_key_extra: oomp_footprint_kicad_relay_smd_relay_dpdt_kemet_ee2_nuh
+    oomp_key_full: oomp_footprint_kicad_relay_smd_relay_dpdt_kemet_ee2_nuh_29b5b8
+    oomp_key_simple: kicad_relay_smd_relay_dpdt_kemet_ee2_nuh
     original_filename: libraries/kicad-footprints/Relay_SMD.pretty/Relay_DPDT_Kemet_EE2_NUH.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_relay_smd_relay_dpdt_kemet_ee2_nuh
+  oomp_key_full: oomp_footprint_kicad_relay_smd_relay_dpdt_kemet_ee2_nuh
   oomp_key_simple: kicad_relay_smd_relay_dpdt_kemet_ee2_nuh
   owner: kicad
   repo:

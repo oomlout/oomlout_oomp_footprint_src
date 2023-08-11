@@ -17,9 +17,18 @@
   oomp:
     footprint_name: kssg13j12_n
     library_name: agg
+    md5: 8510a7eebe8ca7eaa944e7d66bdccaab
+    md5_10: 8510a7eebe
+    md5_5: 8510a
+    md5_6: 8510a7
+    oomp_key: oomp_adamgreig_agg_kssg13j12_n
+    oomp_key_extra: oomp_footprint_adamgreig_agg_kssg13j12_n
+    oomp_key_full: oomp_footprint_adamgreig_agg_kssg13j12_n_8510a7
+    oomp_key_simple: adamgreig_agg_kssg13j12_n
     original_filename: agg-kicad/agg.pretty/KSSG13J12-N.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_kssg13j12_n
+  oomp_key_full: oomp_footprint_adamgreig_agg_kssg13j12_n
   oomp_key_simple: adamgreig_agg_kssg13j12_n
   owner: adamgreig
   repo:

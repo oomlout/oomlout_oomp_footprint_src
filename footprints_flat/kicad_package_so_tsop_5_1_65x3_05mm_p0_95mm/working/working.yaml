@@ -17,9 +17,18 @@
   oomp:
     footprint_name: tsop_5_1_65x3_05mm_p0_95mm
     library_name: package_so
+    md5: e7336c41b205c28e4e5632468998c1bf
+    md5_10: e7336c41b2
+    md5_5: e7336
+    md5_6: e7336c
+    oomp_key: oomp_kicad_package_so_tsop_5_1_65x3_05mm_p0_95mm
+    oomp_key_extra: oomp_footprint_kicad_package_so_tsop_5_1_65x3_05mm_p0_95mm
+    oomp_key_full: oomp_footprint_kicad_package_so_tsop_5_1_65x3_05mm_p0_95mm_e7336c
+    oomp_key_simple: kicad_package_so_tsop_5_1_65x3_05mm_p0_95mm
     original_filename: libraries/kicad-footprints/Package_SO.pretty/TSOP-5_1.65x3.05mm_P0.95mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_so_tsop_5_1_65x3_05mm_p0_95mm
+  oomp_key_full: oomp_footprint_kicad_package_so_tsop_5_1_65x3_05mm_p0_95mm
   oomp_key_simple: kicad_package_so_tsop_5_1_65x3_05mm_p0_95mm
   owner: kicad
   repo:

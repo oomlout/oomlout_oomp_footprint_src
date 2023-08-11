@@ -18,9 +18,18 @@
   oomp:
     footprint_name: qfn80p400x400x80_13
     library_name: ipc7351_nominal
+    md5: 2fa6c800e32dad6c27f5f9aa7951576a
+    md5_10: 2fa6c800e3
+    md5_5: 2fa6c
+    md5_6: 2fa6c8
+    oomp_key: oomp_cpavlina_ipc7351_nominal_qfn80p400x400x80_13
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_nominal_qfn80p400x400x80_13
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_qfn80p400x400x80_13_2fa6c8
+    oomp_key_simple: cpavlina_ipc7351_nominal_qfn80p400x400x80_13
     original_filename: kicad-pcblib/IPC7351-Nominal.pretty/QFN80P400X400X80-13.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_nominal_qfn80p400x400x80_13
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_qfn80p400x400x80_13
   oomp_key_simple: cpavlina_ipc7351_nominal_qfn80p400x400x80_13
   owner: cpavlina
   repo:

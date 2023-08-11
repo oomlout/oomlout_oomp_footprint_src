@@ -17,9 +17,18 @@
   oomp:
     footprint_name: bga_48_8_0x9_0mm_layout6x8_p0_8mm
     library_name: package_bga
+    md5: ed0d0358907669cf2ad95b48cd472a28
+    md5_10: ed0d035890
+    md5_5: ed0d0
+    md5_6: ed0d03
+    oomp_key: oomp_kicad_package_bga_bga_48_8_0x9_0mm_layout6x8_p0_8mm
+    oomp_key_extra: oomp_footprint_kicad_package_bga_bga_48_8_0x9_0mm_layout6x8_p0_8mm
+    oomp_key_full: oomp_footprint_kicad_package_bga_bga_48_8_0x9_0mm_layout6x8_p0_8mm_ed0d03
+    oomp_key_simple: kicad_package_bga_bga_48_8_0x9_0mm_layout6x8_p0_8mm
     original_filename: libraries/kicad-footprints/Package_BGA.pretty/BGA-48_8.0x9.0mm_Layout6x8_P0.8mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_bga_bga_48_8_0x9_0mm_layout6x8_p0_8mm
+  oomp_key_full: oomp_footprint_kicad_package_bga_bga_48_8_0x9_0mm_layout6x8_p0_8mm
   oomp_key_simple: kicad_package_bga_bga_48_8_0x9_0mm_layout6x8_p0_8mm
   owner: kicad
   repo:

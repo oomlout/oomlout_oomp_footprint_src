@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ltm8078
     library_name: agg
+    md5: 8113a2cb62724604642b015fd363b0d9
+    md5_10: 8113a2cb62
+    md5_5: 8113a
+    md5_6: 8113a2
+    oomp_key: oomp_adamgreig_agg_ltm8078
+    oomp_key_extra: oomp_footprint_adamgreig_agg_ltm8078
+    oomp_key_full: oomp_footprint_adamgreig_agg_ltm8078_8113a2
+    oomp_key_simple: adamgreig_agg_ltm8078
     original_filename: agg-kicad/agg.pretty/LTM8078.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_ltm8078
+  oomp_key_full: oomp_footprint_adamgreig_agg_ltm8078
   oomp_key_simple: adamgreig_agg_ltm8078
   owner: adamgreig
   repo:

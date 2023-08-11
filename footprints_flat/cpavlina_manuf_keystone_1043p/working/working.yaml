@@ -17,9 +17,18 @@
   oomp:
     footprint_name: keystone_1043p
     library_name: manuf
+    md5: 57e7499f042e2517d582b09660fd572e
+    md5_10: 57e7499f04
+    md5_5: 57e74
+    md5_6: 57e749
+    oomp_key: oomp_cpavlina_manuf_keystone_1043p
+    oomp_key_extra: oomp_footprint_cpavlina_manuf_keystone_1043p
+    oomp_key_full: oomp_footprint_cpavlina_manuf_keystone_1043p_57e749
+    oomp_key_simple: cpavlina_manuf_keystone_1043p
     original_filename: kicad-pcblib/manuf.pretty/KEYSTONE_1043P.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_manuf_keystone_1043p
+  oomp_key_full: oomp_footprint_cpavlina_manuf_keystone_1043p
   oomp_key_simple: cpavlina_manuf_keystone_1043p
   owner: cpavlina
   repo:

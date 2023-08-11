@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sipeed_m1
     library_name: module
+    md5: b5be741340466f7258fb94bd537d663e
+    md5_10: b5be741340
+    md5_5: b5be7
+    md5_6: b5be74
+    oomp_key: oomp_kicad_module_sipeed_m1
+    oomp_key_extra: oomp_footprint_kicad_module_sipeed_m1
+    oomp_key_full: oomp_footprint_kicad_module_sipeed_m1_b5be74
+    oomp_key_simple: kicad_module_sipeed_m1
     original_filename: libraries/kicad-footprints/Module.pretty/Sipeed-M1.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_module_sipeed_m1
+  oomp_key_full: oomp_footprint_kicad_module_sipeed_m1
   oomp_key_simple: kicad_module_sipeed_m1
   owner: kicad
   repo:

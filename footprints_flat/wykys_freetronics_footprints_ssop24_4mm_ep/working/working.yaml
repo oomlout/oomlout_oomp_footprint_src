@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ssop24_4mm_ep
     library_name: freetronics_footprints
+    md5: 5a2695cd7290bd67356a869ee8984850
+    md5_10: 5a2695cd72
+    md5_5: 5a269
+    md5_6: 5a2695
+    oomp_key: oomp_wykys_freetronics_footprints_ssop24_4mm_ep
+    oomp_key_extra: oomp_footprint_wykys_freetronics_footprints_ssop24_4mm_ep
+    oomp_key_full: oomp_footprint_wykys_freetronics_footprints_ssop24_4mm_ep_5a2695
+    oomp_key_simple: wykys_freetronics_footprints_ssop24_4mm_ep
     original_filename: kicad/mods/freetronics_footprints.pretty/SSOP24_4mm_EP.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_freetronics_footprints_ssop24_4mm_ep
+  oomp_key_full: oomp_footprint_wykys_freetronics_footprints_ssop24_4mm_ep
   oomp_key_simple: wykys_freetronics_footprints_ssop24_4mm_ep
   owner: wykys
   repo:

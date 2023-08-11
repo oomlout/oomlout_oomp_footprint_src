@@ -18,9 +18,18 @@
   oomp:
     footprint_name: l_tdk_slf6028
     library_name: inductor_smd
+    md5: ed2bcf19882c26d038191dd26de4eaa0
+    md5_10: ed2bcf1988
+    md5_5: ed2bc
+    md5_6: ed2bcf
+    oomp_key: oomp_kicad_inductor_smd_l_tdk_slf6028
+    oomp_key_extra: oomp_footprint_kicad_inductor_smd_l_tdk_slf6028
+    oomp_key_full: oomp_footprint_kicad_inductor_smd_l_tdk_slf6028_ed2bcf
+    oomp_key_simple: kicad_inductor_smd_l_tdk_slf6028
     original_filename: libraries/kicad-footprints/Inductor_SMD.pretty/L_TDK_SLF6028.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_inductor_smd_l_tdk_slf6028
+  oomp_key_full: oomp_footprint_kicad_inductor_smd_l_tdk_slf6028
   oomp_key_simple: kicad_inductor_smd_l_tdk_slf6028
   owner: kicad
   repo:

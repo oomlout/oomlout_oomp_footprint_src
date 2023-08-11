@@ -17,9 +17,18 @@
   oomp:
     footprint_name: adafruit_feather_m0_wifi_withmountingholes
     library_name: module
+    md5: 01f0569ea9cef46123b8a87617ebffc2
+    md5_10: 01f0569ea9
+    md5_5: 01f05
+    md5_6: 01f056
+    oomp_key: oomp_kicad_module_adafruit_feather_m0_wifi_withmountingholes
+    oomp_key_extra: oomp_footprint_kicad_module_adafruit_feather_m0_wifi_withmountingholes
+    oomp_key_full: oomp_footprint_kicad_module_adafruit_feather_m0_wifi_withmountingholes_01f056
+    oomp_key_simple: kicad_module_adafruit_feather_m0_wifi_withmountingholes
     original_filename: libraries/kicad-footprints/Module.pretty/Adafruit_Feather_M0_Wifi_WithMountingHoles.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_module_adafruit_feather_m0_wifi_withmountingholes
+  oomp_key_full: oomp_footprint_kicad_module_adafruit_feather_m0_wifi_withmountingholes
   oomp_key_simple: kicad_module_adafruit_feather_m0_wifi_withmountingholes
   owner: kicad
   repo:

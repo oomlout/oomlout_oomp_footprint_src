@@ -17,9 +17,18 @@
   oomp:
     footprint_name: transformer_coilcraft_cst2
     library_name: transformer_smd
+    md5: a34c9ebeb27cbf00c6d546bd8a378d4a
+    md5_10: a34c9ebeb2
+    md5_5: a34c9
+    md5_6: a34c9e
+    oomp_key: oomp_kicad_transformer_smd_transformer_coilcraft_cst2
+    oomp_key_extra: oomp_footprint_kicad_transformer_smd_transformer_coilcraft_cst2
+    oomp_key_full: oomp_footprint_kicad_transformer_smd_transformer_coilcraft_cst2_a34c9e
+    oomp_key_simple: kicad_transformer_smd_transformer_coilcraft_cst2
     original_filename: libraries/kicad-footprints/Transformer_SMD.pretty/Transformer_Coilcraft_CST2.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_transformer_smd_transformer_coilcraft_cst2
+  oomp_key_full: oomp_footprint_kicad_transformer_smd_transformer_coilcraft_cst2
   oomp_key_simple: kicad_transformer_smd_transformer_coilcraft_cst2
   owner: kicad
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: wa8514_ae
     library_name: agg
+    md5: 02a393c558f55a7bfc4397601d5fb4b3
+    md5_10: 02a393c558
+    md5_5: 02a39
+    md5_6: 02a393
+    oomp_key: oomp_adamgreig_agg_wa8514_ae
+    oomp_key_extra: oomp_footprint_adamgreig_agg_wa8514_ae
+    oomp_key_full: oomp_footprint_adamgreig_agg_wa8514_ae_02a393
+    oomp_key_simple: adamgreig_agg_wa8514_ae
     original_filename: agg-kicad/agg.pretty/WA8514-AE.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_wa8514_ae
+  oomp_key_full: oomp_footprint_adamgreig_agg_wa8514_ae
   oomp_key_simple: adamgreig_agg_wa8514_ae
   owner: adamgreig
   repo:

@@ -18,9 +18,18 @@
   oomp:
     footprint_name: jst_vh_b8p_vh_1x08_p3_96mm_vertical
     library_name: connector_jst
+    md5: 00793884f2c10ac4aa9c67e85a821400
+    md5_10: 00793884f2
+    md5_5: 00793
+    md5_6: 007938
+    oomp_key: oomp_kicad_connector_jst_jst_vh_b8p_vh_1x08_p3_96mm_vertical
+    oomp_key_extra: oomp_footprint_kicad_connector_jst_jst_vh_b8p_vh_1x08_p3_96mm_vertical
+    oomp_key_full: oomp_footprint_kicad_connector_jst_jst_vh_b8p_vh_1x08_p3_96mm_vertical_007938
+    oomp_key_simple: kicad_connector_jst_jst_vh_b8p_vh_1x08_p3_96mm_vertical
     original_filename: libraries/kicad-footprints/Connector_JST.pretty/JST_VH_B8P-VH_1x08_P3.96mm_Vertical.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_jst_jst_vh_b8p_vh_1x08_p3_96mm_vertical
+  oomp_key_full: oomp_footprint_kicad_connector_jst_jst_vh_b8p_vh_1x08_p3_96mm_vertical
   oomp_key_simple: kicad_connector_jst_jst_vh_b8p_vh_1x08_p3_96mm_vertical
   owner: kicad
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: pec16_4xxxf_sxxxx
     library_name: avp
+    md5: 8570e1096b0d9dab588d35298865c7f5
+    md5_10: 8570e1096b
+    md5_5: 8570e
+    md5_6: 8570e1
+    oomp_key: oomp_av_p_avp_pec16_4xxxf_sxxxx
+    oomp_key_extra: oomp_footprint_av_p_avp_pec16_4xxxf_sxxxx
+    oomp_key_full: oomp_footprint_av_p_avp_pec16_4xxxf_sxxxx_8570e1
+    oomp_key_simple: av_p_avp_pec16_4xxxf_sxxxx
     original_filename: Avp.pretty/PEC16-4xxxF-Sxxxx.kicad_mod
     owner_name: av_p
   oomp_key: oomp_av_p_avp_pec16_4xxxf_sxxxx
+  oomp_key_full: oomp_footprint_av_p_avp_pec16_4xxxf_sxxxx
   oomp_key_simple: av_p_avp_pec16_4xxxf_sxxxx
   owner: av-p
   repo:

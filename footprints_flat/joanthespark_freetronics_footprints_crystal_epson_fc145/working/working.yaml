@@ -17,9 +17,18 @@
   oomp:
     footprint_name: crystal_epson_fc145
     library_name: freetronics_footprints
+    md5: 1b22b4ae9a50c9c246a60d888b5e1047
+    md5_10: 1b22b4ae9a
+    md5_5: 1b22b
+    md5_6: 1b22b4
+    oomp_key: oomp_joanthespark_freetronics_footprints_crystal_epson_fc145
+    oomp_key_extra: oomp_footprint_joanthespark_freetronics_footprints_crystal_epson_fc145
+    oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_crystal_epson_fc145_1b22b4
+    oomp_key_simple: joanthespark_freetronics_footprints_crystal_epson_fc145
     original_filename: KiCAD/mods/freetronics_footprints.pretty/CRYSTAL_EPSON_FC145.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_freetronics_footprints_crystal_epson_fc145
+  oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_crystal_epson_fc145
   oomp_key_simple: joanthespark_freetronics_footprints_crystal_epson_fc145
   owner: JoanTheSpark
   repo:

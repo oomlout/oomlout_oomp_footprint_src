@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sw_kailh_choc_mini_7_00u
     library_name: switch_keyboard_kailh
+    md5: ee0b8c3fe268c2e912a6ab2a3a1ce9ea
+    md5_10: ee0b8c3fe2
+    md5_5: ee0b8
+    md5_6: ee0b8c
+    oomp_key: oomp_axello_switch_keyboard_kailh_sw_kailh_choc_mini_7_00u
+    oomp_key_extra: oomp_footprint_axello_switch_keyboard_kailh_sw_kailh_choc_mini_7_00u
+    oomp_key_full: oomp_footprint_axello_switch_keyboard_kailh_sw_kailh_choc_mini_7_00u_ee0b8c
+    oomp_key_simple: axello_switch_keyboard_kailh_sw_kailh_choc_mini_7_00u
     original_filename: kicad/6.0/3rdparty/footprints/com_github_perigoso_keyswitch-kicad-library/Switch_Keyboard_Kailh.pretty/SW_Kailh_Choc_Mini_7.00u.kicad_mod
     owner_name: axello
   oomp_key: oomp_axello_switch_keyboard_kailh_sw_kailh_choc_mini_7_00u
+  oomp_key_full: oomp_footprint_axello_switch_keyboard_kailh_sw_kailh_choc_mini_7_00u
   oomp_key_simple: axello_switch_keyboard_kailh_sw_kailh_choc_mini_7_00u
   owner: axello
   repo:

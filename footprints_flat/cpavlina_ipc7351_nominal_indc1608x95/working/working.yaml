@@ -17,9 +17,18 @@
   oomp:
     footprint_name: indc1608x95
     library_name: ipc7351_nominal
+    md5: 826c1b7ac79705654175b5f09ef969ab
+    md5_10: 826c1b7ac7
+    md5_5: 826c1
+    md5_6: 826c1b
+    oomp_key: oomp_cpavlina_ipc7351_nominal_indc1608x95
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_nominal_indc1608x95
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_indc1608x95_826c1b
+    oomp_key_simple: cpavlina_ipc7351_nominal_indc1608x95
     original_filename: kicad-pcblib/IPC7351-Nominal.pretty/INDC1608X95.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_nominal_indc1608x95
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_indc1608x95
   oomp_key_simple: cpavlina_ipc7351_nominal_indc1608x95
   owner: cpavlina
   repo:

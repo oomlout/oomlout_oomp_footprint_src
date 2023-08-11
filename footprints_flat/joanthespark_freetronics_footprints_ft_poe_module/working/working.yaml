@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ft_poe_module
     library_name: freetronics_footprints
+    md5: cf952387fd85597baf778f45686d913d
+    md5_10: cf952387fd
+    md5_5: cf952
+    md5_6: cf9523
+    oomp_key: oomp_joanthespark_freetronics_footprints_ft_poe_module
+    oomp_key_extra: oomp_footprint_joanthespark_freetronics_footprints_ft_poe_module
+    oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_ft_poe_module_cf9523
+    oomp_key_simple: joanthespark_freetronics_footprints_ft_poe_module
     original_filename: KiCAD/mods/freetronics_footprints.pretty/FT-POE-MODULE.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_freetronics_footprints_ft_poe_module
+  oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_ft_poe_module
   oomp_key_simple: joanthespark_freetronics_footprints_ft_poe_module
   owner: JoanTheSpark
   repo:

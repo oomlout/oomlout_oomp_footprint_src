@@ -17,9 +17,18 @@
   oomp:
     footprint_name: smd_2_3_2x2_5mm
     library_name: digikey_footprints
+    md5: 94d992e4e4f6389df77a3850c2a7b379
+    md5_10: 94d992e4e4
+    md5_5: 94d99
+    md5_6: 94d992
+    oomp_key: oomp_digikey_digikey_footprints_smd_2_3_2x2_5mm
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_smd_2_3_2x2_5mm
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_smd_2_3_2x2_5mm_94d992
+    oomp_key_simple: digikey_digikey_footprints_smd_2_3_2x2_5mm
     original_filename: digikey-kicad-library/digikey-footprints.pretty/SMD-2_3.2x2.5mm.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_smd_2_3_2x2_5mm
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_smd_2_3_2x2_5mm
   oomp_key_simple: digikey_digikey_footprints_smd_2_3_2x2_5mm
   owner: digikey
   repo:

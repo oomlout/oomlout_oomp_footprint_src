@@ -17,9 +17,18 @@
   oomp:
     footprint_name: m2_5_mount
     library_name: agg
+    md5: 2805836835cfdebc34c9e029c3a3081c
+    md5_10: '2805836835'
+    md5_5: '28058'
+    md5_6: '280583'
+    oomp_key: oomp_adamgreig_agg_m2_5_mount
+    oomp_key_extra: oomp_footprint_adamgreig_agg_m2_5_mount
+    oomp_key_full: oomp_footprint_adamgreig_agg_m2_5_mount_280583
+    oomp_key_simple: adamgreig_agg_m2_5_mount
     original_filename: agg-kicad/agg.pretty/M2.5_MOUNT.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_m2_5_mount
+  oomp_key_full: oomp_footprint_adamgreig_agg_m2_5_mount
   oomp_key_simple: adamgreig_agg_m2_5_mount
   owner: adamgreig
   repo:

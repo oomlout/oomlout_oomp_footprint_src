@@ -18,9 +18,18 @@
   oomp:
     footprint_name: r_array_concave_4x0402
     library_name: apex_smd_resistors
+    md5: 819488f191a298174f4cf21bd6de144b
+    md5_10: 819488f191
+    md5_5: '81948'
+    md5_6: '819488'
+    oomp_key: oomp_apexelectrix_apex_smd_resistors_r_array_concave_4x0402
+    oomp_key_extra: oomp_footprint_apexelectrix_apex_smd_resistors_r_array_concave_4x0402
+    oomp_key_full: oomp_footprint_apexelectrix_apex_smd_resistors_r_array_concave_4x0402_819488
+    oomp_key_simple: apexelectrix_apex_smd_resistors_r_array_concave_4x0402
     original_filename: apex-smd-resistors.pretty/R_Array_Concave_4x0402.kicad_mod
     owner_name: apexelectrix
   oomp_key: oomp_apexelectrix_apex_smd_resistors_r_array_concave_4x0402
+  oomp_key_full: oomp_footprint_apexelectrix_apex_smd_resistors_r_array_concave_4x0402
   oomp_key_simple: apexelectrix_apex_smd_resistors_r_array_concave_4x0402
   owner: apexelectrix
   repo:

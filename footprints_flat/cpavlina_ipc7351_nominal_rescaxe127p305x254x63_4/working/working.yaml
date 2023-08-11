@@ -18,9 +18,18 @@
   oomp:
     footprint_name: rescaxe127p305x254x63_4
     library_name: ipc7351_nominal
+    md5: 5f707350de10d4cc0068b62af0a014d0
+    md5_10: 5f707350de
+    md5_5: 5f707
+    md5_6: 5f7073
+    oomp_key: oomp_cpavlina_ipc7351_nominal_rescaxe127p305x254x63_4
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_nominal_rescaxe127p305x254x63_4
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_rescaxe127p305x254x63_4_5f7073
+    oomp_key_simple: cpavlina_ipc7351_nominal_rescaxe127p305x254x63_4
     original_filename: kicad-pcblib/IPC7351-Nominal.pretty/RESCAXE127P305X254X63-4.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_nominal_rescaxe127p305x254x63_4
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_rescaxe127p305x254x63_4
   oomp_key_simple: cpavlina_ipc7351_nominal_rescaxe127p305x254x63_4
   owner: cpavlina
   repo:

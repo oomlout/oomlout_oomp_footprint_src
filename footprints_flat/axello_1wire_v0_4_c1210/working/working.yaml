@@ -17,9 +17,18 @@
   oomp:
     footprint_name: c1210
     library_name: 1wire_v0_4
+    md5: 4b8a61974e32c71bfd85628363eeb64e
+    md5_10: 4b8a61974e
+    md5_5: 4b8a6
+    md5_6: 4b8a61
+    oomp_key: oomp_axello_1wire_v0_4_c1210
+    oomp_key_extra: oomp_footprint_axello_1wire_v0_4_c1210
+    oomp_key_full: oomp_footprint_axello_1wire_v0_4_c1210_4b8a61
+    oomp_key_simple: axello_1wire_v0_4_c1210
     original_filename: kicad/6.0/projects/1w-grove-v0.1/1wire-v0.4.pretty/C1210.kicad_mod
     owner_name: axello
   oomp_key: oomp_axello_1wire_v0_4_c1210
+  oomp_key_full: oomp_footprint_axello_1wire_v0_4_c1210
   oomp_key_simple: axello_1wire_v0_4_c1210
   owner: axello
   repo:

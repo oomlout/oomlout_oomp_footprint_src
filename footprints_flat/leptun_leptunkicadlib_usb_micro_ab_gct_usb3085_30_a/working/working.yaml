@@ -18,9 +18,18 @@
   oomp:
     footprint_name: usb_micro_ab_gct_usb3085_30_a
     library_name: leptunkicadlib
+    md5: 82d288b29246e58681a611444d7c95e4
+    md5_10: 82d288b292
+    md5_5: 82d28
+    md5_6: 82d288
+    oomp_key: oomp_leptun_leptunkicadlib_usb_micro_ab_gct_usb3085_30_a
+    oomp_key_extra: oomp_footprint_leptun_leptunkicadlib_usb_micro_ab_gct_usb3085_30_a
+    oomp_key_full: oomp_footprint_leptun_leptunkicadlib_usb_micro_ab_gct_usb3085_30_a_82d288
+    oomp_key_simple: leptun_leptunkicadlib_usb_micro_ab_gct_usb3085_30_a
     original_filename: leptunKicadLib.pretty/USB_Micro-AB_GCT_USB3085-30-A.kicad_mod
     owner_name: leptun
   oomp_key: oomp_leptun_leptunkicadlib_usb_micro_ab_gct_usb3085_30_a
+  oomp_key_full: oomp_footprint_leptun_leptunkicadlib_usb_micro_ab_gct_usb3085_30_a
   oomp_key_simple: leptun_leptunkicadlib_usb_micro_ab_gct_usb3085_30_a
   owner: leptun
   repo:

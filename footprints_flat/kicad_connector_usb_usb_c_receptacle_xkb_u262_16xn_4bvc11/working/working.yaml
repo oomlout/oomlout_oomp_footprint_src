@@ -17,9 +17,18 @@
   oomp:
     footprint_name: usb_c_receptacle_xkb_u262_16xn_4bvc11
     library_name: connector_usb
+    md5: d2f0da4cad158ddf9b75ee8bf37c78d7
+    md5_10: d2f0da4cad
+    md5_5: d2f0d
+    md5_6: d2f0da
+    oomp_key: oomp_kicad_connector_usb_usb_c_receptacle_xkb_u262_16xn_4bvc11
+    oomp_key_extra: oomp_footprint_kicad_connector_usb_usb_c_receptacle_xkb_u262_16xn_4bvc11
+    oomp_key_full: oomp_footprint_kicad_connector_usb_usb_c_receptacle_xkb_u262_16xn_4bvc11_d2f0da
+    oomp_key_simple: kicad_connector_usb_usb_c_receptacle_xkb_u262_16xn_4bvc11
     original_filename: libraries/kicad-footprints/Connector_USB.pretty/USB_C_Receptacle_XKB_U262-16XN-4BVC11.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_usb_usb_c_receptacle_xkb_u262_16xn_4bvc11
+  oomp_key_full: oomp_footprint_kicad_connector_usb_usb_c_receptacle_xkb_u262_16xn_4bvc11
   oomp_key_simple: kicad_connector_usb_usb_c_receptacle_xkb_u262_16xn_4bvc11
   owner: kicad
   repo:

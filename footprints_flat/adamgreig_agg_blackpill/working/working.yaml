@@ -17,9 +17,18 @@
   oomp:
     footprint_name: blackpill
     library_name: agg
+    md5: 6a80e87ed8210476689bd1f0b1d39aaa
+    md5_10: 6a80e87ed8
+    md5_5: 6a80e
+    md5_6: 6a80e8
+    oomp_key: oomp_adamgreig_agg_blackpill
+    oomp_key_extra: oomp_footprint_adamgreig_agg_blackpill
+    oomp_key_full: oomp_footprint_adamgreig_agg_blackpill_6a80e8
+    oomp_key_simple: adamgreig_agg_blackpill
     original_filename: agg-kicad/agg.pretty/BlackPill.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_blackpill
+  oomp_key_full: oomp_footprint_adamgreig_agg_blackpill
   oomp_key_simple: adamgreig_agg_blackpill
   owner: adamgreig
   repo:

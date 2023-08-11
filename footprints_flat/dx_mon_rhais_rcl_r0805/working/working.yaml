@@ -17,9 +17,18 @@
   oomp:
     footprint_name: r0805
     library_name: rhais_rcl
+    md5: d55266345744465aa2a2cfbb45a23ad9
+    md5_10: d552663457
+    md5_5: d5526
+    md5_6: d55266
+    oomp_key: oomp_dx_mon_rhais_rcl_r0805
+    oomp_key_extra: oomp_footprint_dx_mon_rhais_rcl_r0805
+    oomp_key_full: oomp_footprint_dx_mon_rhais_rcl_r0805_d55266
+    oomp_key_simple: dx_mon_rhais_rcl_r0805
     original_filename: rhais_rcl.pretty/R0805.kicad_mod
     owner_name: dx_mon
   oomp_key: oomp_dx_mon_rhais_rcl_r0805
+  oomp_key_full: oomp_footprint_dx_mon_rhais_rcl_r0805
   oomp_key_simple: dx_mon_rhais_rcl_r0805
   owner: DX-MON
   repo:

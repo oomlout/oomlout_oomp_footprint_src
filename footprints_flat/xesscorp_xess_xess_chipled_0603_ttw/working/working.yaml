@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_chipled_0603_ttw
     library_name: xess
+    md5: a3ed9aa94fb2ef326bdc29c794f00dfa
+    md5_10: a3ed9aa94f
+    md5_5: a3ed9
+    md5_6: a3ed9a
+    oomp_key: oomp_xesscorp_xess_xess_chipled_0603_ttw
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_chipled_0603_ttw
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_chipled_0603_ttw_a3ed9a
+    oomp_key_simple: xesscorp_xess_xess_chipled_0603_ttw
     original_filename: xess.pretty/xess-CHIPLED-0603-TTW.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_chipled_0603_ttw
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_chipled_0603_ttw
   oomp_key_simple: xesscorp_xess_xess_chipled_0603_ttw
   owner: xesscorp
   repo:

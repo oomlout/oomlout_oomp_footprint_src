@@ -17,9 +17,18 @@
   oomp:
     footprint_name: batteryholder_linx_bat_hld_012_smt
     library_name: battery
+    md5: 6f6e640328d670d95eccda8f9bd979db
+    md5_10: 6f6e640328
+    md5_5: 6f6e6
+    md5_6: 6f6e64
+    oomp_key: oomp_kicad_battery_batteryholder_linx_bat_hld_012_smt
+    oomp_key_extra: oomp_footprint_kicad_battery_batteryholder_linx_bat_hld_012_smt
+    oomp_key_full: oomp_footprint_kicad_battery_batteryholder_linx_bat_hld_012_smt_6f6e64
+    oomp_key_simple: kicad_battery_batteryholder_linx_bat_hld_012_smt
     original_filename: libraries/kicad-footprints/Battery.pretty/BatteryHolder_LINX_BAT-HLD-012-SMT.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_battery_batteryholder_linx_bat_hld_012_smt
+  oomp_key_full: oomp_footprint_kicad_battery_batteryholder_linx_bat_hld_012_smt
   oomp_key_simple: kicad_battery_batteryholder_linx_bat_hld_012_smt
   owner: kicad
   repo:

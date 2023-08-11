@@ -18,9 +18,18 @@
   oomp:
     footprint_name: idc_header_2x06_p2_54mm_vertical_smd
     library_name: connector_idc
+    md5: e9bc6076fd62b579841f2b99586392d2
+    md5_10: e9bc6076fd
+    md5_5: e9bc6
+    md5_6: e9bc60
+    oomp_key: oomp_kicad_connector_idc_idc_header_2x06_p2_54mm_vertical_smd
+    oomp_key_extra: oomp_footprint_kicad_connector_idc_idc_header_2x06_p2_54mm_vertical_smd
+    oomp_key_full: oomp_footprint_kicad_connector_idc_idc_header_2x06_p2_54mm_vertical_smd_e9bc60
+    oomp_key_simple: kicad_connector_idc_idc_header_2x06_p2_54mm_vertical_smd
     original_filename: libraries/kicad-footprints/Connector_IDC.pretty/IDC-Header_2x06_P2.54mm_Vertical_SMD.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_idc_idc_header_2x06_p2_54mm_vertical_smd
+  oomp_key_full: oomp_footprint_kicad_connector_idc_idc_header_2x06_p2_54mm_vertical_smd
   oomp_key_simple: kicad_connector_idc_idc_header_2x06_p2_54mm_vertical_smd
   owner: kicad
   repo:

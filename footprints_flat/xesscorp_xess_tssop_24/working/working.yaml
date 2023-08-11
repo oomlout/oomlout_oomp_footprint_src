@@ -17,9 +17,18 @@
   oomp:
     footprint_name: tssop_24
     library_name: xess
+    md5: 53341307524330fd130e9a10e9f6aaa7
+    md5_10: '5334130752'
+    md5_5: '53341'
+    md5_6: '533413'
+    oomp_key: oomp_xesscorp_xess_tssop_24
+    oomp_key_extra: oomp_footprint_xesscorp_xess_tssop_24
+    oomp_key_full: oomp_footprint_xesscorp_xess_tssop_24_533413
+    oomp_key_simple: xesscorp_xess_tssop_24
     original_filename: xess.pretty/TSSOP-24.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_tssop_24
+  oomp_key_full: oomp_footprint_xesscorp_xess_tssop_24
   oomp_key_simple: xesscorp_xess_tssop_24
   owner: xesscorp
   repo:

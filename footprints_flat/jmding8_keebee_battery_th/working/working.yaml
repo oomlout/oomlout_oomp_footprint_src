@@ -18,9 +18,18 @@
   oomp:
     footprint_name: battery_th
     library_name: keebee
+    md5: 1c4822f2d8dd2aafe91593ee8ba0027d
+    md5_10: 1c4822f2d8
+    md5_5: 1c482
+    md5_6: 1c4822
+    oomp_key: oomp_jmding8_keebee_battery_th
+    oomp_key_extra: oomp_footprint_jmding8_keebee_battery_th
+    oomp_key_full: oomp_footprint_jmding8_keebee_battery_th_1c4822
+    oomp_key_simple: jmding8_keebee_battery_th
     original_filename: keebee.pretty/Battery-TH.kicad_mod
     owner_name: jmding8
   oomp_key: oomp_jmding8_keebee_battery_th
+  oomp_key_full: oomp_footprint_jmding8_keebee_battery_th
   oomp_key_simple: jmding8_keebee_battery_th
   owner: jmding8
   repo:

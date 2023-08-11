@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_molex_87832_142x
     library_name: xess
+    md5: d9fe32508221ead48f867239f36706b3
+    md5_10: d9fe325082
+    md5_5: d9fe3
+    md5_6: d9fe32
+    oomp_key: oomp_xesscorp_xess_xess_molex_87832_142x
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_molex_87832_142x
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_molex_87832_142x_d9fe32
+    oomp_key_simple: xesscorp_xess_xess_molex_87832_142x
     original_filename: xess.pretty/xess-MOLEX-87832-142X.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_molex_87832_142x
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_molex_87832_142x
   oomp_key_simple: xesscorp_xess_xess_molex_87832_142x
   owner: xesscorp
   repo:

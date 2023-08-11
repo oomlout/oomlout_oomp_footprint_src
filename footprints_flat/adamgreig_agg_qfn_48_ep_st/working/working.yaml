@@ -17,9 +17,18 @@
   oomp:
     footprint_name: qfn_48_ep_st
     library_name: agg
+    md5: aa653abf3aa399a4925c061e2129d145
+    md5_10: aa653abf3a
+    md5_5: aa653
+    md5_6: aa653a
+    oomp_key: oomp_adamgreig_agg_qfn_48_ep_st
+    oomp_key_extra: oomp_footprint_adamgreig_agg_qfn_48_ep_st
+    oomp_key_full: oomp_footprint_adamgreig_agg_qfn_48_ep_st_aa653a
+    oomp_key_simple: adamgreig_agg_qfn_48_ep_st
     original_filename: agg-kicad/agg.pretty/QFN-48-EP-ST.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_qfn_48_ep_st
+  oomp_key_full: oomp_footprint_adamgreig_agg_qfn_48_ep_st
   oomp_key_simple: adamgreig_agg_qfn_48_ep_st
   owner: adamgreig
   repo:

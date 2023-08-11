@@ -17,9 +17,18 @@
   oomp:
     footprint_name: plain_hole_3mm
     library_name: footprints
+    md5: 375e7740ca97f181ba7dea12035826a4
+    md5_10: 375e7740ca
+    md5_5: 375e7
+    md5_6: 375e77
+    oomp_key: oomp_axello_footprints_plain_hole_3mm
+    oomp_key_extra: oomp_footprint_axello_footprints_plain_hole_3mm
+    oomp_key_full: oomp_footprint_axello_footprints_plain_hole_3mm_375e77
+    oomp_key_simple: axello_footprints_plain_hole_3mm
     original_filename: kicad/demos/stickhub/footprints.pretty/Plain_Hole_3mm.kicad_mod
     owner_name: axello
   oomp_key: oomp_axello_footprints_plain_hole_3mm
+  oomp_key_full: oomp_footprint_axello_footprints_plain_hole_3mm
   oomp_key_simple: axello_footprints_plain_hole_3mm
   owner: axello
   repo:

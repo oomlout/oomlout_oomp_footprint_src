@@ -17,9 +17,18 @@
   oomp:
     footprint_name: fuse_bourns_mf_rg1000
     library_name: fuse
+    md5: 0ef3c7f8fab27fe9474a6ac6fe33f908
+    md5_10: 0ef3c7f8fa
+    md5_5: 0ef3c
+    md5_6: 0ef3c7
+    oomp_key: oomp_kicad_fuse_fuse_bourns_mf_rg1000
+    oomp_key_extra: oomp_footprint_kicad_fuse_fuse_bourns_mf_rg1000
+    oomp_key_full: oomp_footprint_kicad_fuse_fuse_bourns_mf_rg1000_0ef3c7
+    oomp_key_simple: kicad_fuse_fuse_bourns_mf_rg1000
     original_filename: libraries/kicad-footprints/Fuse.pretty/Fuse_Bourns_MF-RG1000.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_fuse_fuse_bourns_mf_rg1000
+  oomp_key_full: oomp_footprint_kicad_fuse_fuse_bourns_mf_rg1000
   oomp_key_simple: kicad_fuse_fuse_bourns_mf_rg1000
   owner: kicad
   repo:

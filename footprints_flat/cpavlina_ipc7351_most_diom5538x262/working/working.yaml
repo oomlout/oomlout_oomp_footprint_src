@@ -17,9 +17,18 @@
   oomp:
     footprint_name: diom5538x262
     library_name: ipc7351_most
+    md5: 78ddf9baaefbad9bd0582357389def62
+    md5_10: 78ddf9baae
+    md5_5: 78ddf
+    md5_6: 78ddf9
+    oomp_key: oomp_cpavlina_ipc7351_most_diom5538x262
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_most_diom5538x262
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_most_diom5538x262_78ddf9
+    oomp_key_simple: cpavlina_ipc7351_most_diom5538x262
     original_filename: kicad-pcblib/IPC7351-Most.pretty/DIOM5538X262.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_most_diom5538x262
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_most_diom5538x262
   oomp_key_simple: cpavlina_ipc7351_most_diom5538x262
   owner: cpavlina
   repo:

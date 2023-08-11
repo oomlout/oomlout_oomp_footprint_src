@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sod_323
     library_name: digikey_footprints
+    md5: 7f8401726f5ac32b66b96844d5037365
+    md5_10: 7f8401726f
+    md5_5: 7f840
+    md5_6: 7f8401
+    oomp_key: oomp_digikey_digikey_footprints_sod_323
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_sod_323
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_sod_323_7f8401
+    oomp_key_simple: digikey_digikey_footprints_sod_323
     original_filename: digikey-kicad-library/digikey-footprints.pretty/SOD-323.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_sod_323
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_sod_323
   oomp_key_simple: digikey_digikey_footprints_sod_323
   owner: digikey
   repo:

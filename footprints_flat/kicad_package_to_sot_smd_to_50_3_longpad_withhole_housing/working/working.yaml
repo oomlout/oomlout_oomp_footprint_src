@@ -17,9 +17,18 @@
   oomp:
     footprint_name: to_50_3_longpad_withhole_housing
     library_name: package_to_sot_smd
+    md5: fe52916ed63c84014dc07876df9aa97d
+    md5_10: fe52916ed6
+    md5_5: fe529
+    md5_6: fe5291
+    oomp_key: oomp_kicad_package_to_sot_smd_to_50_3_longpad_withhole_housing
+    oomp_key_extra: oomp_footprint_kicad_package_to_sot_smd_to_50_3_longpad_withhole_housing
+    oomp_key_full: oomp_footprint_kicad_package_to_sot_smd_to_50_3_longpad_withhole_housing_fe5291
+    oomp_key_simple: kicad_package_to_sot_smd_to_50_3_longpad_withhole_housing
     original_filename: libraries/kicad-footprints/Package_TO_SOT_SMD.pretty/TO-50-3_LongPad-WithHole_Housing.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_to_sot_smd_to_50_3_longpad_withhole_housing
+  oomp_key_full: oomp_footprint_kicad_package_to_sot_smd_to_50_3_longpad_withhole_housing
   oomp_key_simple: kicad_package_to_sot_smd_to_50_3_longpad_withhole_housing
   owner: kicad
   repo:

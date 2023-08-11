@@ -18,9 +18,18 @@
   oomp:
     footprint_name: qfn80p800x800x80_29w1
     library_name: ipc7351_nominal
+    md5: 660a454ec249d73016f2b90a90da389e
+    md5_10: 660a454ec2
+    md5_5: 660a4
+    md5_6: 660a45
+    oomp_key: oomp_cpavlina_ipc7351_nominal_qfn80p800x800x80_29w1
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_nominal_qfn80p800x800x80_29w1
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_qfn80p800x800x80_29w1_660a45
+    oomp_key_simple: cpavlina_ipc7351_nominal_qfn80p800x800x80_29w1
     original_filename: kicad-pcblib/IPC7351-Nominal.pretty/QFN80P800X800X80-29W1.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_nominal_qfn80p800x800x80_29w1
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_qfn80p800x800x80_29w1
   oomp_key_simple: cpavlina_ipc7351_nominal_qfn80p800x800x80_29w1
   owner: cpavlina
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: fiducial_1mm_mask3mm
     library_name: 1w_grove_v0_1
+    md5: 0c7ac687129f6102c8cf3a8b738a560e
+    md5_10: 0c7ac68712
+    md5_5: 0c7ac
+    md5_6: 0c7ac6
+    oomp_key: oomp_axello_1w_grove_v0_1_fiducial_1mm_mask3mm
+    oomp_key_extra: oomp_footprint_axello_1w_grove_v0_1_fiducial_1mm_mask3mm
+    oomp_key_full: oomp_footprint_axello_1w_grove_v0_1_fiducial_1mm_mask3mm_0c7ac6
+    oomp_key_simple: axello_1w_grove_v0_1_fiducial_1mm_mask3mm
     original_filename: kicad/6.0/projects/1w-grove-v0.1/1w-grove-v0.1.pretty/Fiducial_1mm_Mask3mm.kicad_mod
     owner_name: axello
   oomp_key: oomp_axello_1w_grove_v0_1_fiducial_1mm_mask3mm
+  oomp_key_full: oomp_footprint_axello_1w_grove_v0_1_fiducial_1mm_mask3mm
   oomp_key_simple: axello_1w_grove_v0_1_fiducial_1mm_mask3mm
   owner: axello
   repo:

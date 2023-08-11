@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ea_t123x_i2c
     library_name: display
+    md5: 3d87723cfcdacd372ca9d9161c81a57f
+    md5_10: 3d87723cfc
+    md5_5: 3d877
+    md5_6: 3d8772
+    oomp_key: oomp_kicad_display_ea_t123x_i2c
+    oomp_key_extra: oomp_footprint_kicad_display_ea_t123x_i2c
+    oomp_key_full: oomp_footprint_kicad_display_ea_t123x_i2c_3d8772
+    oomp_key_simple: kicad_display_ea_t123x_i2c
     original_filename: libraries/kicad-footprints/Display.pretty/EA_T123X-I2C.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_display_ea_t123x_i2c
+  oomp_key_full: oomp_footprint_kicad_display_ea_t123x_i2c
   oomp_key_simple: kicad_display_ea_t123x_i2c
   owner: kicad
   repo:

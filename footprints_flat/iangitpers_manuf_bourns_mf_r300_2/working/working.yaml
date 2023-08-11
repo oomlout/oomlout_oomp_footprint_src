@@ -19,9 +19,18 @@
   oomp:
     footprint_name: bourns_mf_r300_2
     library_name: manuf
+    md5: d727abbb51e7bf62f89db1b387a5fd2b
+    md5_10: d727abbb51
+    md5_5: d727a
+    md5_6: d727ab
+    oomp_key: oomp_iangitpers_manuf_bourns_mf_r300_2
+    oomp_key_extra: oomp_footprint_iangitpers_manuf_bourns_mf_r300_2
+    oomp_key_full: oomp_footprint_iangitpers_manuf_bourns_mf_r300_2_d727ab
+    oomp_key_simple: iangitpers_manuf_bourns_mf_r300_2
     original_filename: 4a/manuf.pretty/BOURNS-MF-R300-2.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_manuf_bourns_mf_r300_2
+  oomp_key_full: oomp_footprint_iangitpers_manuf_bourns_mf_r300_2
   oomp_key_simple: iangitpers_manuf_bourns_mf_r300_2
   owner: Iangitpers
   repo:

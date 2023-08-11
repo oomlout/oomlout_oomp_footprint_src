@@ -19,9 +19,18 @@
   oomp:
     footprint_name: hammond_164g
     library_name: manuf
+    md5: 57315dacf672ec2adb5ca04bd6be89ec
+    md5_10: 57315dacf6
+    md5_5: '57315'
+    md5_6: 57315d
+    oomp_key: oomp_iangitpers_manuf_hammond_164g
+    oomp_key_extra: oomp_footprint_iangitpers_manuf_hammond_164g
+    oomp_key_full: oomp_footprint_iangitpers_manuf_hammond_164g_57315d
+    oomp_key_simple: iangitpers_manuf_hammond_164g
     original_filename: 4a/manuf.pretty/HAMMOND-164G.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_manuf_hammond_164g
+  oomp_key_full: oomp_footprint_iangitpers_manuf_hammond_164g
   oomp_key_simple: iangitpers_manuf_hammond_164g
   owner: Iangitpers
   repo:

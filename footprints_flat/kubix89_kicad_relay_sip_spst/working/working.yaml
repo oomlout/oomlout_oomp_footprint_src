@@ -17,9 +17,18 @@
   oomp:
     footprint_name: relay_sip_spst
     library_name: kicad
+    md5: 5108f3705243ffcee137e6fd4d35ad8a
+    md5_10: 5108f37052
+    md5_5: 5108f
+    md5_6: 5108f3
+    oomp_key: oomp_kubix89_kicad_relay_sip_spst
+    oomp_key_extra: oomp_footprint_kubix89_kicad_relay_sip_spst
+    oomp_key_full: oomp_footprint_kubix89_kicad_relay_sip_spst_5108f3
+    oomp_key_simple: kubix89_kicad_relay_sip_spst
     original_filename: kiCAD.pretty/Relay_SIP_SPST.kicad_mod
     owner_name: kubix89
   oomp_key: oomp_kubix89_kicad_relay_sip_spst
+  oomp_key_full: oomp_footprint_kubix89_kicad_relay_sip_spst
   oomp_key_simple: kubix89_kicad_relay_sip_spst
   owner: kubiX89
   repo:

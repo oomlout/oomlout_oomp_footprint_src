@@ -18,9 +18,18 @@
   oomp:
     footprint_name: mf_passives_tc33
     library_name: mf_passives
+    md5: 33c15d956ce836c9f6a10bd35eac3aa7
+    md5_10: 33c15d956c
+    md5_5: 33c15
+    md5_6: 33c15d
+    oomp_key: oomp_macrofab_mf_passives_mf_passives_tc33
+    oomp_key_extra: oomp_footprint_macrofab_mf_passives_mf_passives_tc33
+    oomp_key_full: oomp_footprint_macrofab_mf_passives_mf_passives_tc33_33c15d
+    oomp_key_simple: macrofab_mf_passives_mf_passives_tc33
     original_filename: EDALibraries/KiCad/Footprints/MF_Passives.pretty/MF_Passives-TC33.kicad_mod
     owner_name: macrofab
   oomp_key: oomp_macrofab_mf_passives_mf_passives_tc33
+  oomp_key_full: oomp_footprint_macrofab_mf_passives_mf_passives_tc33
   oomp_key_simple: macrofab_mf_passives_mf_passives_tc33
   owner: MacroFab
   repo:

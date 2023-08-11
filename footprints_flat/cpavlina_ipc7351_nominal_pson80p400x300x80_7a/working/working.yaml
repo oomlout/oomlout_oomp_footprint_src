@@ -18,9 +18,18 @@
   oomp:
     footprint_name: pson80p400x300x80_7a
     library_name: ipc7351_nominal
+    md5: da460d7b2b3a400c5bd73d1bfc29fb88
+    md5_10: da460d7b2b
+    md5_5: da460
+    md5_6: da460d
+    oomp_key: oomp_cpavlina_ipc7351_nominal_pson80p400x300x80_7a
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_nominal_pson80p400x300x80_7a
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_pson80p400x300x80_7a_da460d
+    oomp_key_simple: cpavlina_ipc7351_nominal_pson80p400x300x80_7a
     original_filename: kicad-pcblib/IPC7351-Nominal.pretty/PSON80P400X300X80-7A.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_nominal_pson80p400x300x80_7a
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_pson80p400x300x80_7a
   oomp_key_simple: cpavlina_ipc7351_nominal_pson80p400x300x80_7a
   owner: cpavlina
   repo:

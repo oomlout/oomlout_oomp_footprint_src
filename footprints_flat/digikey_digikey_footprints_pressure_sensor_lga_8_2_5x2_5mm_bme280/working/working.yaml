@@ -17,9 +17,18 @@
   oomp:
     footprint_name: pressure_sensor_lga_8_2_5x2_5mm_bme280
     library_name: digikey_footprints
+    md5: c879ebea82f89d24c41d529598a2fa81
+    md5_10: c879ebea82
+    md5_5: c879e
+    md5_6: c879eb
+    oomp_key: oomp_digikey_digikey_footprints_pressure_sensor_lga_8_2_5x2_5mm_bme280
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_pressure_sensor_lga_8_2_5x2_5mm_bme280
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_pressure_sensor_lga_8_2_5x2_5mm_bme280_c879eb
+    oomp_key_simple: digikey_digikey_footprints_pressure_sensor_lga_8_2_5x2_5mm_bme280
     original_filename: digikey-kicad-library/digikey-footprints.pretty/Pressure_Sensor_LGA-8_2.5x2.5mm_BME280.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_pressure_sensor_lga_8_2_5x2_5mm_bme280
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_pressure_sensor_lga_8_2_5x2_5mm_bme280
   oomp_key_simple: digikey_digikey_footprints_pressure_sensor_lga_8_2_5x2_5mm_bme280
   owner: digikey
   repo:

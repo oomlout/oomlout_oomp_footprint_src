@@ -17,9 +17,18 @@
   oomp:
     footprint_name: conn_edge_2,54_14
     library_name: suf_connector_misc
+    md5: 0e60f038f1a59f9e5cf6e98aa2b2b373
+    md5_10: 0e60f038f1
+    md5_5: 0e60f
+    md5_6: 0e60f0
+    oomp_key: oomp_suf_kicad_suf_connector_misc_conn_edge_2,54_14
+    oomp_key_extra: oomp_footprint_suf_kicad_suf_connector_misc_conn_edge_2,54_14
+    oomp_key_full: oomp_footprint_suf_kicad_suf_connector_misc_conn_edge_2,54_14_0e60f0
+    oomp_key_simple: suf_kicad_suf_connector_misc_conn_edge_2,54_14
     original_filename: suf_connector_misc.pretty/CONN_EDGE_2,54_14.kicad_mod
     owner_name: suf_kicad
   oomp_key: oomp_suf_kicad_suf_connector_misc_conn_edge_2,54_14
+  oomp_key_full: oomp_footprint_suf_kicad_suf_connector_misc_conn_edge_2,54_14
   oomp_key_simple: suf_kicad_suf_connector_misc_conn_edge_2,54_14
   owner: suf-KiCAD
   repo:

@@ -18,9 +18,18 @@
   oomp:
     footprint_name: tsot_23_6
     library_name: package_to_sot_smd
+    md5: ab972f22569fdfd096c8596c6f25d6c6
+    md5_10: ab972f2256
+    md5_5: ab972
+    md5_6: ab972f
+    oomp_key: oomp_kicad_package_to_sot_smd_tsot_23_6
+    oomp_key_extra: oomp_footprint_kicad_package_to_sot_smd_tsot_23_6
+    oomp_key_full: oomp_footprint_kicad_package_to_sot_smd_tsot_23_6_ab972f
+    oomp_key_simple: kicad_package_to_sot_smd_tsot_23_6
     original_filename: libraries/kicad-footprints/Package_TO_SOT_SMD.pretty/TSOT-23-6.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_to_sot_smd_tsot_23_6
+  oomp_key_full: oomp_footprint_kicad_package_to_sot_smd_tsot_23_6
   oomp_key_simple: kicad_package_to_sot_smd_tsot_23_6
   owner: kicad
   repo:

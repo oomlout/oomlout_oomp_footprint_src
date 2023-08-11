@@ -17,9 +17,18 @@
   oomp:
     footprint_name: filter433_1
     library_name: avp
+    md5: ff314f25dfa0d4450f7dbae4725ca04c
+    md5_10: ff314f25df
+    md5_5: ff314
+    md5_6: ff314f
+    oomp_key: oomp_av_p_avp_filter433_1
+    oomp_key_extra: oomp_footprint_av_p_avp_filter433_1
+    oomp_key_full: oomp_footprint_av_p_avp_filter433_1_ff314f
+    oomp_key_simple: av_p_avp_filter433_1
     original_filename: Avp.pretty/Filter433_1.kicad_mod
     owner_name: av_p
   oomp_key: oomp_av_p_avp_filter433_1
+  oomp_key_full: oomp_footprint_av_p_avp_filter433_1
   oomp_key_simple: av_p_avp_filter433_1
   owner: av-p
   repo:

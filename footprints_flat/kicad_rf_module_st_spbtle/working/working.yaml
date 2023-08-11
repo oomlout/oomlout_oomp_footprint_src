@@ -17,9 +17,18 @@
   oomp:
     footprint_name: st_spbtle
     library_name: rf_module
+    md5: cbb06d43de9dcf1f128ace68a1de6422
+    md5_10: cbb06d43de
+    md5_5: cbb06
+    md5_6: cbb06d
+    oomp_key: oomp_kicad_rf_module_st_spbtle
+    oomp_key_extra: oomp_footprint_kicad_rf_module_st_spbtle
+    oomp_key_full: oomp_footprint_kicad_rf_module_st_spbtle_cbb06d
+    oomp_key_simple: kicad_rf_module_st_spbtle
     original_filename: libraries/kicad-footprints/RF_Module.pretty/ST_SPBTLE.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_rf_module_st_spbtle
+  oomp_key_full: oomp_footprint_kicad_rf_module_st_spbtle
   oomp_key_simple: kicad_rf_module_st_spbtle
   owner: kicad
   repo:

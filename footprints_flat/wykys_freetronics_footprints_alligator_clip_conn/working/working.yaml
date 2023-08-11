@@ -17,9 +17,18 @@
   oomp:
     footprint_name: alligator_clip_conn
     library_name: freetronics_footprints
+    md5: 5a30ca50f81fed0f0133d25ce541416e
+    md5_10: 5a30ca50f8
+    md5_5: 5a30c
+    md5_6: 5a30ca
+    oomp_key: oomp_wykys_freetronics_footprints_alligator_clip_conn
+    oomp_key_extra: oomp_footprint_wykys_freetronics_footprints_alligator_clip_conn
+    oomp_key_full: oomp_footprint_wykys_freetronics_footprints_alligator_clip_conn_5a30ca
+    oomp_key_simple: wykys_freetronics_footprints_alligator_clip_conn
     original_filename: kicad/mods/freetronics_footprints.pretty/ALLIGATOR_CLIP_CONN.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_freetronics_footprints_alligator_clip_conn
+  oomp_key_full: oomp_footprint_wykys_freetronics_footprints_alligator_clip_conn
   oomp_key_simple: wykys_freetronics_footprints_alligator_clip_conn
   owner: wykys
   repo:

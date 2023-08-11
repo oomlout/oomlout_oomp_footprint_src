@@ -17,9 +17,18 @@
   oomp:
     footprint_name: batteryholder
     library_name: gtb
+    md5: 000f5c51706e8618c99139a12a472334
+    md5_10: 000f5c5170
+    md5_5: 000f5
+    md5_6: 000f5c
+    oomp_key: oomp_axello_gtb_batteryholder
+    oomp_key_extra: oomp_footprint_axello_gtb_batteryholder
+    oomp_key_full: oomp_footprint_axello_gtb_batteryholder_000f5c
+    oomp_key_simple: axello_gtb_batteryholder
     original_filename: kicad/GettingToBlinky/GTB.pretty/BatteryHolder.kicad_mod
     owner_name: axello
   oomp_key: oomp_axello_gtb_batteryholder
+  oomp_key_full: oomp_footprint_axello_gtb_batteryholder
   oomp_key_simple: axello_gtb_batteryholder
   owner: axello
   repo:

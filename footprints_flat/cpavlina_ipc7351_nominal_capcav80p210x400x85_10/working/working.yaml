@@ -18,9 +18,18 @@
   oomp:
     footprint_name: capcav80p210x400x85_10
     library_name: ipc7351_nominal
+    md5: efe6628d98da7295cf6c49bb4c84cafa
+    md5_10: efe6628d98
+    md5_5: efe66
+    md5_6: efe662
+    oomp_key: oomp_cpavlina_ipc7351_nominal_capcav80p210x400x85_10
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_nominal_capcav80p210x400x85_10
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_capcav80p210x400x85_10_efe662
+    oomp_key_simple: cpavlina_ipc7351_nominal_capcav80p210x400x85_10
     original_filename: kicad-pcblib/IPC7351-Nominal.pretty/CAPCAV80P210X400X85-10.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_nominal_capcav80p210x400x85_10
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_capcav80p210x400x85_10
   oomp_key_simple: cpavlina_ipc7351_nominal_capcav80p210x400x85_10
   owner: cpavlina
   repo:

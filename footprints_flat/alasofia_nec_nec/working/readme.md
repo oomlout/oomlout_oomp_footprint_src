@@ -19,8 +19,9 @@ Please consult that link for additional, details, files, and license information
 | github_path | http://github.com/Alasofia/nec.pretty/blob/master/nec.kicad_mod |  
 | links | {'github_src': 'http://gitlab.com/Alasofia/nec.pretty/blob/master/nec.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/alasofia_nec_nec/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/alasofia_nec_nec/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/alasofia_nec_nec/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/alasofia_nec_nec/working'} |  
 | name | nec.pretty |  
-| oomp | {'footprint_name': 'nec', 'library_name': 'nec', 'original_filename': 'nec.pretty/nec.kicad_mod', 'owner_name': 'alasofia'} |  
+| oomp | {'footprint_name': 'nec', 'library_name': 'nec', 'md5': 'a06447de72a14c9d9ca665402622bb53', 'md5_10': 'a06447de72', 'md5_5': 'a0644', 'md5_6': 'a06447', 'oomp_key': 'oomp_alasofia_nec_nec', 'oomp_key_extra': 'oomp_footprint_alasofia_nec_nec', 'oomp_key_full': 'oomp_footprint_alasofia_nec_nec_a06447', 'oomp_key_simple': 'alasofia_nec_nec', 'original_filename': 'nec.pretty/nec.kicad_mod', 'owner_name': 'alasofia'} |  
 | oomp_key | oomp_alasofia_nec_nec |  
+| oomp_key_full | oomp_footprint_alasofia_nec_nec |  
 | oomp_key_simple | alasofia_nec_nec |  
 | owner | Alasofia |  
 | repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  

@@ -18,9 +18,18 @@
   oomp:
     footprint_name: rescav50p100x200x55_8
     library_name: ipc7351_most
+    md5: d1f21504f8d3f8b8a290bea9eba0168d
+    md5_10: d1f21504f8
+    md5_5: d1f21
+    md5_6: d1f215
+    oomp_key: oomp_cpavlina_ipc7351_most_rescav50p100x200x55_8
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_most_rescav50p100x200x55_8
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_most_rescav50p100x200x55_8_d1f215
+    oomp_key_simple: cpavlina_ipc7351_most_rescav50p100x200x55_8
     original_filename: kicad-pcblib/IPC7351-Most.pretty/RESCAV50P100X200X55-8.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_most_rescav50p100x200x55_8
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_most_rescav50p100x200x55_8
   oomp_key_simple: cpavlina_ipc7351_most_rescav50p100x200x55_8
   owner: cpavlina
   repo:

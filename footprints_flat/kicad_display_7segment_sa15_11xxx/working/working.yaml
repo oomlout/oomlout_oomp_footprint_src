@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sa15_11xxx
     library_name: display_7segment
+    md5: c87f92d4a370da613892a54951fd1847
+    md5_10: c87f92d4a3
+    md5_5: c87f9
+    md5_6: c87f92
+    oomp_key: oomp_kicad_display_7segment_sa15_11xxx
+    oomp_key_extra: oomp_footprint_kicad_display_7segment_sa15_11xxx
+    oomp_key_full: oomp_footprint_kicad_display_7segment_sa15_11xxx_c87f92
+    oomp_key_simple: kicad_display_7segment_sa15_11xxx
     original_filename: libraries/kicad-footprints/Display_7Segment.pretty/SA15-11xxx.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_display_7segment_sa15_11xxx
+  oomp_key_full: oomp_footprint_kicad_display_7segment_sa15_11xxx
   oomp_key_simple: kicad_display_7segment_sa15_11xxx
   owner: kicad
   repo:

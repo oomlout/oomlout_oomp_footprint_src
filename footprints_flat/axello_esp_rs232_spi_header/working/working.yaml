@@ -17,9 +17,18 @@
   oomp:
     footprint_name: spi_header
     library_name: esp_rs232
+    md5: 0986ada28569a22cd338e9804ca21ef5
+    md5_10: 0986ada285
+    md5_5: 0986a
+    md5_6: 0986ad
+    oomp_key: oomp_axello_esp_rs232_spi_header
+    oomp_key_extra: oomp_footprint_axello_esp_rs232_spi_header
+    oomp_key_full: oomp_footprint_axello_esp_rs232_spi_header_0986ad
+    oomp_key_simple: axello_esp_rs232_spi_header
     original_filename: kicad/mods/ESP-RS232.pretty/SPI_Header.kicad_mod
     owner_name: axello
   oomp_key: oomp_axello_esp_rs232_spi_header
+  oomp_key_full: oomp_footprint_axello_esp_rs232_spi_header
   oomp_key_simple: axello_esp_rs232_spi_header
   owner: axello
   repo:

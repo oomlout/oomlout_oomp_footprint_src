@@ -17,9 +17,18 @@
   oomp:
     footprint_name: logo_nodebots
     library_name: freetronics_footprints
+    md5: b460ec236bb051c11baa2de8dfd1fe26
+    md5_10: b460ec236b
+    md5_5: b460e
+    md5_6: b460ec
+    oomp_key: oomp_joanthespark_freetronics_footprints_logo_nodebots
+    oomp_key_extra: oomp_footprint_joanthespark_freetronics_footprints_logo_nodebots
+    oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_logo_nodebots_b460ec
+    oomp_key_simple: joanthespark_freetronics_footprints_logo_nodebots
     original_filename: KiCAD/mods/freetronics_footprints.pretty/LOGO_NODEBOTS.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_freetronics_footprints_logo_nodebots
+  oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_logo_nodebots
   oomp_key_simple: joanthespark_freetronics_footprints_logo_nodebots
   owner: JoanTheSpark
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: r_shunt_ohmite_lvk24
     library_name: resistor_smd
+    md5: 849ab45b84f66bca01fa3bb151b322fb
+    md5_10: 849ab45b84
+    md5_5: 849ab
+    md5_6: 849ab4
+    oomp_key: oomp_kicad_resistor_smd_r_shunt_ohmite_lvk24
+    oomp_key_extra: oomp_footprint_kicad_resistor_smd_r_shunt_ohmite_lvk24
+    oomp_key_full: oomp_footprint_kicad_resistor_smd_r_shunt_ohmite_lvk24_849ab4
+    oomp_key_simple: kicad_resistor_smd_r_shunt_ohmite_lvk24
     original_filename: libraries/kicad-footprints/Resistor_SMD.pretty/R_Shunt_Ohmite_LVK24.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_resistor_smd_r_shunt_ohmite_lvk24
+  oomp_key_full: oomp_footprint_kicad_resistor_smd_r_shunt_ohmite_lvk24
   oomp_key_simple: kicad_resistor_smd_r_shunt_ohmite_lvk24
   owner: kicad
   repo:

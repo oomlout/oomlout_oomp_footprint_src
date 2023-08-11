@@ -18,9 +18,18 @@
   oomp:
     footprint_name: sw_kailh_choc_v1v2_tht_hybrid
     library_name: key_switches
+    md5: 52167f60d83fb6fea6897361cffd1c84
+    md5_10: 52167f60d8
+    md5_5: '52167'
+    md5_6: 52167f
+    oomp_key: oomp_ziteh_key_switches_sw_kailh_choc_v1v2_tht_hybrid
+    oomp_key_extra: oomp_footprint_ziteh_key_switches_sw_kailh_choc_v1v2_tht_hybrid
+    oomp_key_full: oomp_footprint_ziteh_key_switches_sw_kailh_choc_v1v2_tht_hybrid_52167f
+    oomp_key_simple: ziteh_key_switches_sw_kailh_choc_v1v2_tht_hybrid
     original_filename: key-switches.pretty/SW_Kailh_Choc_V1V2_THT_Hybrid.kicad_mod
     owner_name: ziteh
   oomp_key: oomp_ziteh_key_switches_sw_kailh_choc_v1v2_tht_hybrid
+  oomp_key_full: oomp_footprint_ziteh_key_switches_sw_kailh_choc_v1v2_tht_hybrid
   oomp_key_simple: ziteh_key_switches_sw_kailh_choc_v1v2_tht_hybrid
   owner: ziteh
   repo:

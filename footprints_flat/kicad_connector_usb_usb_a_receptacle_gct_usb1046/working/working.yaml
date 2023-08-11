@@ -17,9 +17,18 @@
   oomp:
     footprint_name: usb_a_receptacle_gct_usb1046
     library_name: connector_usb
+    md5: 9a6b59ecf17264f10e38ee1a75007af2
+    md5_10: 9a6b59ecf1
+    md5_5: 9a6b5
+    md5_6: 9a6b59
+    oomp_key: oomp_kicad_connector_usb_usb_a_receptacle_gct_usb1046
+    oomp_key_extra: oomp_footprint_kicad_connector_usb_usb_a_receptacle_gct_usb1046
+    oomp_key_full: oomp_footprint_kicad_connector_usb_usb_a_receptacle_gct_usb1046_9a6b59
+    oomp_key_simple: kicad_connector_usb_usb_a_receptacle_gct_usb1046
     original_filename: libraries/kicad-footprints/Connector_USB.pretty/USB_A_Receptacle_GCT_USB1046.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_usb_usb_a_receptacle_gct_usb1046
+  oomp_key_full: oomp_footprint_kicad_connector_usb_usb_a_receptacle_gct_usb1046
   oomp_key_simple: kicad_connector_usb_usb_a_receptacle_gct_usb1046
   owner: kicad
   repo:

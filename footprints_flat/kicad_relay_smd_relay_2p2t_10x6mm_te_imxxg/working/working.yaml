@@ -17,9 +17,18 @@
   oomp:
     footprint_name: relay_2p2t_10x6mm_te_imxxg
     library_name: relay_smd
+    md5: 6955aa52d197d71dc633ea4f50fc6f0c
+    md5_10: 6955aa52d1
+    md5_5: 6955a
+    md5_6: 6955aa
+    oomp_key: oomp_kicad_relay_smd_relay_2p2t_10x6mm_te_imxxg
+    oomp_key_extra: oomp_footprint_kicad_relay_smd_relay_2p2t_10x6mm_te_imxxg
+    oomp_key_full: oomp_footprint_kicad_relay_smd_relay_2p2t_10x6mm_te_imxxg_6955aa
+    oomp_key_simple: kicad_relay_smd_relay_2p2t_10x6mm_te_imxxg
     original_filename: libraries/kicad-footprints/Relay_SMD.pretty/Relay_2P2T_10x6mm_TE_IMxxG.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_relay_smd_relay_2p2t_10x6mm_te_imxxg
+  oomp_key_full: oomp_footprint_kicad_relay_smd_relay_2p2t_10x6mm_te_imxxg
   oomp_key_simple: kicad_relay_smd_relay_2p2t_10x6mm_te_imxxg
   owner: kicad
   repo:

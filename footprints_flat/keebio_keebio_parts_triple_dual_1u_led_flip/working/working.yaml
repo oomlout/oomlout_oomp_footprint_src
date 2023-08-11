@@ -14,9 +14,18 @@
   oomp:
     footprint_name: triple_dual_1u_led_flip
     library_name: keebio_parts
+    md5: cd0e9c2c3dcd52615dc705705184cbb1
+    md5_10: cd0e9c2c3d
+    md5_5: cd0e9
+    md5_6: cd0e9c
+    oomp_key: oomp_keebio_keebio_parts_triple_dual_1u_led_flip
+    oomp_key_extra: oomp_footprint_keebio_keebio_parts_triple_dual_1u_led_flip
+    oomp_key_full: oomp_footprint_keebio_keebio_parts_triple_dual_1u_led_flip_cd0e9c
+    oomp_key_simple: keebio_keebio_parts_triple_dual_1u_led_flip
     original_filename: Keebio-Parts.pretty/Triple-Dual-1u-LED-flip.kicad_mod
     owner_name: keebio
   oomp_key: oomp_keebio_keebio_parts_triple_dual_1u_led_flip
+  oomp_key_full: oomp_footprint_keebio_keebio_parts_triple_dual_1u_led_flip
   oomp_key_simple: keebio_keebio_parts_triple_dual_1u_led_flip
   owner: keebio
   repo:

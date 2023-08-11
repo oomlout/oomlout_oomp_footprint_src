@@ -17,9 +17,18 @@
   oomp:
     footprint_name: lm16255
     library_name: display
+    md5: b769538960296e4a2048ea5e118c71b5
+    md5_10: b769538960
+    md5_5: b7695
+    md5_6: b76953
+    oomp_key: oomp_kicad_display_lm16255
+    oomp_key_extra: oomp_footprint_kicad_display_lm16255
+    oomp_key_full: oomp_footprint_kicad_display_lm16255_b76953
+    oomp_key_simple: kicad_display_lm16255
     original_filename: libraries/kicad-footprints/Display.pretty/LM16255.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_display_lm16255
+  oomp_key_full: oomp_footprint_kicad_display_lm16255
   oomp_key_simple: kicad_display_lm16255
   owner: kicad
   repo:

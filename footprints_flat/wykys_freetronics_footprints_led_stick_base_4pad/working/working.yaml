@@ -17,9 +17,18 @@
   oomp:
     footprint_name: led_stick_base_4pad
     library_name: freetronics_footprints
+    md5: 3ad79cfae9ed3594703df6ab0ef459c0
+    md5_10: 3ad79cfae9
+    md5_5: 3ad79
+    md5_6: 3ad79c
+    oomp_key: oomp_wykys_freetronics_footprints_led_stick_base_4pad
+    oomp_key_extra: oomp_footprint_wykys_freetronics_footprints_led_stick_base_4pad
+    oomp_key_full: oomp_footprint_wykys_freetronics_footprints_led_stick_base_4pad_3ad79c
+    oomp_key_simple: wykys_freetronics_footprints_led_stick_base_4pad
     original_filename: kicad/mods/freetronics_footprints.pretty/LED_STICK_BASE_4PAD.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_freetronics_footprints_led_stick_base_4pad
+  oomp_key_full: oomp_footprint_wykys_freetronics_footprints_led_stick_base_4pad
   oomp_key_simple: wykys_freetronics_footprints_led_stick_base_4pad
   owner: wykys
   repo:

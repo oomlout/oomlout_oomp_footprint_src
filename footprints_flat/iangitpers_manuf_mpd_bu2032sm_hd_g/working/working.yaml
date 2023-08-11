@@ -19,9 +19,18 @@
   oomp:
     footprint_name: mpd_bu2032sm_hd_g
     library_name: manuf
+    md5: dce94d0350a21279e7d4ca601676b29e
+    md5_10: dce94d0350
+    md5_5: dce94
+    md5_6: dce94d
+    oomp_key: oomp_iangitpers_manuf_mpd_bu2032sm_hd_g
+    oomp_key_extra: oomp_footprint_iangitpers_manuf_mpd_bu2032sm_hd_g
+    oomp_key_full: oomp_footprint_iangitpers_manuf_mpd_bu2032sm_hd_g_dce94d
+    oomp_key_simple: iangitpers_manuf_mpd_bu2032sm_hd_g
     original_filename: 4a/manuf.pretty/MPD-BU2032SM-HD-G.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_manuf_mpd_bu2032sm_hd_g
+  oomp_key_full: oomp_footprint_iangitpers_manuf_mpd_bu2032sm_hd_g
   oomp_key_simple: iangitpers_manuf_mpd_bu2032sm_hd_g
   owner: Iangitpers
   repo:

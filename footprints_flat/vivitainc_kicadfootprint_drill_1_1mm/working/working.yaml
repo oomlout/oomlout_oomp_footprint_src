@@ -17,9 +17,18 @@
   oomp:
     footprint_name: drill_1_1mm
     library_name: kicadfootprint
+    md5: 912278e598f1c16c9ef7c46da5bbfa32
+    md5_10: 912278e598
+    md5_5: '91227'
+    md5_6: '912278'
+    oomp_key: oomp_vivitainc_kicadfootprint_drill_1_1mm
+    oomp_key_extra: oomp_footprint_vivitainc_kicadfootprint_drill_1_1mm
+    oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_drill_1_1mm_912278
+    oomp_key_simple: vivitainc_kicadfootprint_drill_1_1mm
     original_filename: KiCADfootprint.pretty/Drill_1.1mm.kicad_mod
     owner_name: vivitainc
   oomp_key: oomp_vivitainc_kicadfootprint_drill_1_1mm
+  oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_drill_1_1mm
   oomp_key_simple: vivitainc_kicadfootprint_drill_1_1mm
   owner: vivitainc
   repo:

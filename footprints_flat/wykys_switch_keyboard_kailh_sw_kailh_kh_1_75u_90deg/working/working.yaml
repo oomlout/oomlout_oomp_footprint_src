@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sw_kailh_kh_1_75u_90deg
     library_name: switch_keyboard_kailh
+    md5: d455ae36583d765ff7ef11f5f969f9d5
+    md5_10: d455ae3658
+    md5_5: d455a
+    md5_6: d455ae
+    oomp_key: oomp_wykys_switch_keyboard_kailh_sw_kailh_kh_1_75u_90deg
+    oomp_key_extra: oomp_footprint_wykys_switch_keyboard_kailh_sw_kailh_kh_1_75u_90deg
+    oomp_key_full: oomp_footprint_wykys_switch_keyboard_kailh_sw_kailh_kh_1_75u_90deg_d455ae
+    oomp_key_simple: wykys_switch_keyboard_kailh_sw_kailh_kh_1_75u_90deg
     original_filename: kicad/6.0/3rdparty/footprints/com_github_perigoso_keyswitch-kicad-library/Switch_Keyboard_Kailh.pretty/SW_Kailh_KH_1.75u_90deg.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_switch_keyboard_kailh_sw_kailh_kh_1_75u_90deg
+  oomp_key_full: oomp_footprint_wykys_switch_keyboard_kailh_sw_kailh_kh_1_75u_90deg
   oomp_key_simple: wykys_switch_keyboard_kailh_sw_kailh_kh_1_75u_90deg
   owner: wykys
   repo:

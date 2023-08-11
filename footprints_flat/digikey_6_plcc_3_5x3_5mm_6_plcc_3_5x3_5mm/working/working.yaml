@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: 6_plcc_3_5x3_5mm
-    library_name: source_footprints
+    library_name: 6_plcc_3_5x3_5mm_kicad_mod
+    md5: 89a2cfa40d109196697b46d15bb9300a
+    md5_10: 89a2cfa40d
+    md5_5: 89a2c
+    md5_6: 89a2cf
+    oomp_key: oomp_digikey_6_plcc_3_5x3_5mm_6_plcc_3_5x3_5mm
+    oomp_key_extra: oomp_footprint_digikey_6_plcc_3_5x3_5mm_6_plcc_3_5x3_5mm
+    oomp_key_full: oomp_footprint_digikey_6_plcc_3_5x3_5mm_6_plcc_3_5x3_5mm_89a2cf
+    oomp_key_simple: digikey_6_plcc_3_5x3_5mm_6_plcc_3_5x3_5mm
     original_filename: digikey-kicad-library/src/Source_Footprints/6-PLCC_3.5x3.5mm.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_6_plcc_3_5x3_5mm_6_plcc_3_5x3_5mm
+  oomp_key_full: oomp_footprint_digikey_6_plcc_3_5x3_5mm_6_plcc_3_5x3_5mm
   oomp_key_simple: digikey_6_plcc_3_5x3_5mm_6_plcc_3_5x3_5mm
   owner: digikey
   repo:

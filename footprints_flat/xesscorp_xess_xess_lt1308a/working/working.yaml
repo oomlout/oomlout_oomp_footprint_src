@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_lt1308a
     library_name: xess
+    md5: 341f0212a32cbbc27123c6cb043417ce
+    md5_10: 341f0212a3
+    md5_5: 341f0
+    md5_6: 341f02
+    oomp_key: oomp_xesscorp_xess_xess_lt1308a
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_lt1308a
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_lt1308a_341f02
+    oomp_key_simple: xesscorp_xess_xess_lt1308a
     original_filename: xess.pretty/xess-LT1308A.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_lt1308a
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_lt1308a
   oomp_key_simple: xesscorp_xess_xess_lt1308a
   owner: xesscorp
   repo:

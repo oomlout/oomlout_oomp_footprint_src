@@ -17,9 +17,18 @@
   oomp:
     footprint_name: epson_tsx_3225
     library_name: keebio_parts
+    md5: ae52fccb0a997735544a3b7eb95910dc
+    md5_10: ae52fccb0a
+    md5_5: ae52f
+    md5_6: ae52fc
+    oomp_key: oomp_keebio_keebio_parts_epson_tsx_3225
+    oomp_key_extra: oomp_footprint_keebio_keebio_parts_epson_tsx_3225
+    oomp_key_full: oomp_footprint_keebio_keebio_parts_epson_tsx_3225_ae52fc
+    oomp_key_simple: keebio_keebio_parts_epson_tsx_3225
     original_filename: Keebio-Parts.pretty/Epson_TSX-3225.kicad_mod
     owner_name: keebio
   oomp_key: oomp_keebio_keebio_parts_epson_tsx_3225
+  oomp_key_full: oomp_footprint_keebio_keebio_parts_epson_tsx_3225
   oomp_key_simple: keebio_keebio_parts_epson_tsx_3225
   owner: keebio
   repo:

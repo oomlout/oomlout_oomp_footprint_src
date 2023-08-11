@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_pi49fct805t_qsop
     library_name: xess
+    md5: 9ca0142968e2daa6b60a81d2dc36fb77
+    md5_10: 9ca0142968
+    md5_5: 9ca01
+    md5_6: 9ca014
+    oomp_key: oomp_xesscorp_xess_xess_pi49fct805t_qsop
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_pi49fct805t_qsop
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_pi49fct805t_qsop_9ca014
+    oomp_key_simple: xesscorp_xess_xess_pi49fct805t_qsop
     original_filename: xess.pretty/xess-PI49FCT805T-QSOP.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_pi49fct805t_qsop
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_pi49fct805t_qsop
   oomp_key_simple: xesscorp_xess_xess_pi49fct805t_qsop
   owner: xesscorp
   repo:

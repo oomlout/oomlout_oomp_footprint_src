@@ -17,9 +17,18 @@
   oomp:
     footprint_name: logo
     library_name: esp_rs232
+    md5: b4b58e018af790d2fef513f6b789f259
+    md5_10: b4b58e018a
+    md5_5: b4b58
+    md5_6: b4b58e
+    oomp_key: oomp_wykys_esp_rs232_logo
+    oomp_key_extra: oomp_footprint_wykys_esp_rs232_logo
+    oomp_key_full: oomp_footprint_wykys_esp_rs232_logo_b4b58e
+    oomp_key_simple: wykys_esp_rs232_logo
     original_filename: kicad/mods/ESP-RS232.pretty/LOGO.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_esp_rs232_logo
+  oomp_key_full: oomp_footprint_wykys_esp_rs232_logo
   oomp_key_simple: wykys_esp_rs232_logo
   owner: wykys
   repo:

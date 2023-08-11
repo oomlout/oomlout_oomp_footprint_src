@@ -17,9 +17,18 @@
   oomp:
     footprint_name: transformer_wurth_we_agdt_ep7
     library_name: transformer_smd
+    md5: 87c17df184cce95361d201a8bb5fcb46
+    md5_10: 87c17df184
+    md5_5: 87c17
+    md5_6: 87c17d
+    oomp_key: oomp_kicad_transformer_smd_transformer_wurth_we_agdt_ep7
+    oomp_key_extra: oomp_footprint_kicad_transformer_smd_transformer_wurth_we_agdt_ep7
+    oomp_key_full: oomp_footprint_kicad_transformer_smd_transformer_wurth_we_agdt_ep7_87c17d
+    oomp_key_simple: kicad_transformer_smd_transformer_wurth_we_agdt_ep7
     original_filename: libraries/kicad-footprints/Transformer_SMD.pretty/Transformer_Wurth_WE-AGDT-EP7.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_transformer_smd_transformer_wurth_we_agdt_ep7
+  oomp_key_full: oomp_footprint_kicad_transformer_smd_transformer_wurth_we_agdt_ep7
   oomp_key_simple: kicad_transformer_smd_transformer_wurth_we_agdt_ep7
   owner: kicad
   repo:

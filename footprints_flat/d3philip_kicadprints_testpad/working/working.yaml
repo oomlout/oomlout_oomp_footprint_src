@@ -17,9 +17,18 @@
   oomp:
     footprint_name: testpad
     library_name: kicadprints
+    md5: c697b8e917646552b64b5f757a87693a
+    md5_10: c697b8e917
+    md5_5: c697b
+    md5_6: c697b8
+    oomp_key: oomp_d3philip_kicadprints_testpad
+    oomp_key_extra: oomp_footprint_d3philip_kicadprints_testpad
+    oomp_key_full: oomp_footprint_d3philip_kicadprints_testpad_c697b8
+    oomp_key_simple: d3philip_kicadprints_testpad
     original_filename: kicadprints.pretty/TestPad.kicad_mod
     owner_name: d3philip
   oomp_key: oomp_d3philip_kicadprints_testpad
+  oomp_key_full: oomp_footprint_d3philip_kicadprints_testpad
   oomp_key_simple: d3philip_kicadprints_testpad
   owner: d3philip
   repo:

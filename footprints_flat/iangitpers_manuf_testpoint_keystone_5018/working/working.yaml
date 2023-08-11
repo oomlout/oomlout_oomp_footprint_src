@@ -19,9 +19,18 @@
   oomp:
     footprint_name: testpoint_keystone_5018
     library_name: manuf
+    md5: 0b25ac33622da70c4193969e718517a8
+    md5_10: 0b25ac3362
+    md5_5: 0b25a
+    md5_6: 0b25ac
+    oomp_key: oomp_iangitpers_manuf_testpoint_keystone_5018
+    oomp_key_extra: oomp_footprint_iangitpers_manuf_testpoint_keystone_5018
+    oomp_key_full: oomp_footprint_iangitpers_manuf_testpoint_keystone_5018_0b25ac
+    oomp_key_simple: iangitpers_manuf_testpoint_keystone_5018
     original_filename: 4a/manuf.pretty/TESTPOINT-KEYSTONE-5018.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_manuf_testpoint_keystone_5018
+  oomp_key_full: oomp_footprint_iangitpers_manuf_testpoint_keystone_5018
   oomp_key_simple: iangitpers_manuf_testpoint_keystone_5018
   owner: Iangitpers
   repo:

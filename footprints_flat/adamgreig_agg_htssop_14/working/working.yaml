@@ -17,9 +17,18 @@
   oomp:
     footprint_name: htssop_14
     library_name: agg
+    md5: 218833825651fe360ae3d9f0ee6879b0
+    md5_10: '2188338256'
+    md5_5: '21883'
+    md5_6: '218833'
+    oomp_key: oomp_adamgreig_agg_htssop_14
+    oomp_key_extra: oomp_footprint_adamgreig_agg_htssop_14
+    oomp_key_full: oomp_footprint_adamgreig_agg_htssop_14_218833
+    oomp_key_simple: adamgreig_agg_htssop_14
     original_filename: agg-kicad/agg.pretty/HTSSOP-14.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_htssop_14
+  oomp_key_full: oomp_footprint_adamgreig_agg_htssop_14
   oomp_key_simple: adamgreig_agg_htssop_14
   owner: adamgreig
   repo:

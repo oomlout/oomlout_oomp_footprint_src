@@ -17,9 +17,18 @@
   oomp:
     footprint_name: 3x6x3_5mm_side_pushbutton_smd
     library_name: crumpprints
+    md5: 10b788f11631ba1375ecd06f076fdcee
+    md5_10: 10b788f116
+    md5_5: 10b78
+    md5_6: 10b788
+    oomp_key: oomp_tylercrumpton_crumpprints_3x6x3_5mm_side_pushbutton_smd
+    oomp_key_extra: oomp_footprint_tylercrumpton_crumpprints_3x6x3_5mm_side_pushbutton_smd
+    oomp_key_full: oomp_footprint_tylercrumpton_crumpprints_3x6x3_5mm_side_pushbutton_smd_10b788
+    oomp_key_simple: tylercrumpton_crumpprints_3x6x3_5mm_side_pushbutton_smd
     original_filename: CrumpPrints.pretty/3x6x3.5mm_side_pushbutton_smd.kicad_mod
     owner_name: tylercrumpton
   oomp_key: oomp_tylercrumpton_crumpprints_3x6x3_5mm_side_pushbutton_smd
+  oomp_key_full: oomp_footprint_tylercrumpton_crumpprints_3x6x3_5mm_side_pushbutton_smd
   oomp_key_simple: tylercrumpton_crumpprints_3x6x3_5mm_side_pushbutton_smd
   owner: tylercrumpton
   repo:

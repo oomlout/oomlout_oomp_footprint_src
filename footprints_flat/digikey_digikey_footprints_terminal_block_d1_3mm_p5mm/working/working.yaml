@@ -17,9 +17,18 @@
   oomp:
     footprint_name: terminal_block_d1_3mm_p5mm
     library_name: digikey_footprints
+    md5: 2522194254d7494cc48a800a3579b2d4
+    md5_10: '2522194254'
+    md5_5: '25221'
+    md5_6: '252219'
+    oomp_key: oomp_digikey_digikey_footprints_terminal_block_d1_3mm_p5mm
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_terminal_block_d1_3mm_p5mm
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_terminal_block_d1_3mm_p5mm_252219
+    oomp_key_simple: digikey_digikey_footprints_terminal_block_d1_3mm_p5mm
     original_filename: digikey-kicad-library/digikey-footprints.pretty/Terminal_Block_D1.3mm_P5mm.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_terminal_block_d1_3mm_p5mm
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_terminal_block_d1_3mm_p5mm
   oomp_key_simple: digikey_digikey_footprints_terminal_block_d1_3mm_p5mm
   owner: digikey
   repo:

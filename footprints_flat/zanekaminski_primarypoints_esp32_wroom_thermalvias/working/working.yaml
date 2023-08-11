@@ -17,9 +17,18 @@
   oomp:
     footprint_name: esp32_wroom_thermalvias
     library_name: primarypoints
+    md5: 166a8fe4f9e17f8a785edc609153aa96
+    md5_10: 166a8fe4f9
+    md5_5: 166a8
+    md5_6: 166a8f
+    oomp_key: oomp_zanekaminski_primarypoints_esp32_wroom_thermalvias
+    oomp_key_extra: oomp_footprint_zanekaminski_primarypoints_esp32_wroom_thermalvias
+    oomp_key_full: oomp_footprint_zanekaminski_primarypoints_esp32_wroom_thermalvias_166a8f
+    oomp_key_simple: zanekaminski_primarypoints_esp32_wroom_thermalvias
     original_filename: primarypoints.pretty/ESP32-WROOM-ThermalVias.kicad_mod
     owner_name: zanekaminski
   oomp_key: oomp_zanekaminski_primarypoints_esp32_wroom_thermalvias
+  oomp_key_full: oomp_footprint_zanekaminski_primarypoints_esp32_wroom_thermalvias
   oomp_key_simple: zanekaminski_primarypoints_esp32_wroom_thermalvias
   owner: ZaneKaminski
   repo:

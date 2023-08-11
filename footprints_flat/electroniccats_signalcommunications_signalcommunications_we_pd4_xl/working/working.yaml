@@ -18,9 +18,18 @@
   oomp:
     footprint_name: signalcommunications_we_pd4_xl
     library_name: signalcommunications
+    md5: 4ac555f2afa9bdd639ff96e05723770e
+    md5_10: 4ac555f2af
+    md5_5: 4ac55
+    md5_6: 4ac555
+    oomp_key: oomp_electroniccats_signalcommunications_signalcommunications_we_pd4_xl
+    oomp_key_extra: oomp_footprint_electroniccats_signalcommunications_signalcommunications_we_pd4_xl
+    oomp_key_full: oomp_footprint_electroniccats_signalcommunications_signalcommunications_we_pd4_xl_4ac555
+    oomp_key_simple: electroniccats_signalcommunications_signalcommunications_we_pd4_xl
     original_filename: ComponentLibrariesKicadWurthElektronik/SIGNAL-COMMUNICATIONS-rev18a/SignalCommunications.pretty/SignalCommunications-WE-PD4_XL.kicad_mod
     owner_name: electroniccats
   oomp_key: oomp_electroniccats_signalcommunications_signalcommunications_we_pd4_xl
+  oomp_key_full: oomp_footprint_electroniccats_signalcommunications_signalcommunications_we_pd4_xl
   oomp_key_simple: electroniccats_signalcommunications_signalcommunications_we_pd4_xl
   owner: ElectronicCats
   repo:

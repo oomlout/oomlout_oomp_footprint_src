@@ -17,9 +17,18 @@
   oomp:
     footprint_name: u_fl_molex_mcrf_73412_0110_vertical
     library_name: connector_coaxial
+    md5: ef1f96f6de87e12c340d2564393f83d8
+    md5_10: ef1f96f6de
+    md5_5: ef1f9
+    md5_6: ef1f96
+    oomp_key: oomp_kicad_connector_coaxial_u_fl_molex_mcrf_73412_0110_vertical
+    oomp_key_extra: oomp_footprint_kicad_connector_coaxial_u_fl_molex_mcrf_73412_0110_vertical
+    oomp_key_full: oomp_footprint_kicad_connector_coaxial_u_fl_molex_mcrf_73412_0110_vertical_ef1f96
+    oomp_key_simple: kicad_connector_coaxial_u_fl_molex_mcrf_73412_0110_vertical
     original_filename: libraries/kicad-footprints/Connector_Coaxial.pretty/U.FL_Molex_MCRF_73412-0110_Vertical.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_coaxial_u_fl_molex_mcrf_73412_0110_vertical
+  oomp_key_full: oomp_footprint_kicad_connector_coaxial_u_fl_molex_mcrf_73412_0110_vertical
   oomp_key_simple: kicad_connector_coaxial_u_fl_molex_mcrf_73412_0110_vertical
   owner: kicad
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: mx_iso_enter
     library_name: acheron_mx_plateslots
+    md5: ba3d570a6d4299cd45918ced25550f15
+    md5_10: ba3d570a6d
+    md5_5: ba3d5
+    md5_6: ba3d57
+    oomp_key: oomp_acheronproject_acheron_mx_plateslots_mx_iso_enter
+    oomp_key_extra: oomp_footprint_acheronproject_acheron_mx_plateslots_mx_iso_enter
+    oomp_key_full: oomp_footprint_acheronproject_acheron_mx_plateslots_mx_iso_enter_ba3d57
+    oomp_key_simple: acheronproject_acheron_mx_plateslots_mx_iso_enter
     original_filename: acheron_MX_PlateSlots.pretty/MX_ISO_Enter.kicad_mod
     owner_name: acheronproject
   oomp_key: oomp_acheronproject_acheron_mx_plateslots_mx_iso_enter
+  oomp_key_full: oomp_footprint_acheronproject_acheron_mx_plateslots_mx_iso_enter
   oomp_key_simple: acheronproject_acheron_mx_plateslots_mx_iso_enter
   owner: AcheronProject
   repo:

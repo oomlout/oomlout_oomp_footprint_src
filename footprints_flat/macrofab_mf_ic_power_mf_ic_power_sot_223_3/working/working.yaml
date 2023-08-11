@@ -17,9 +17,18 @@
   oomp:
     footprint_name: mf_ic_power_sot_223_3
     library_name: mf_ic_power
+    md5: 39a1bfbffcc2a152828485702e0857ad
+    md5_10: 39a1bfbffc
+    md5_5: 39a1b
+    md5_6: 39a1bf
+    oomp_key: oomp_macrofab_mf_ic_power_mf_ic_power_sot_223_3
+    oomp_key_extra: oomp_footprint_macrofab_mf_ic_power_mf_ic_power_sot_223_3
+    oomp_key_full: oomp_footprint_macrofab_mf_ic_power_mf_ic_power_sot_223_3_39a1bf
+    oomp_key_simple: macrofab_mf_ic_power_mf_ic_power_sot_223_3
     original_filename: EDALibraries/KiCad/Footprints/MF_IC_Power.pretty/MF_IC_Power-SOT-223-3.kicad_mod
     owner_name: macrofab
   oomp_key: oomp_macrofab_mf_ic_power_mf_ic_power_sot_223_3
+  oomp_key_full: oomp_footprint_macrofab_mf_ic_power_mf_ic_power_sot_223_3
   oomp_key_simple: macrofab_mf_ic_power_mf_ic_power_sot_223_3
   owner: MacroFab
   repo:

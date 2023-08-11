@@ -19,9 +19,18 @@
   oomp:
     footprint_name: esd_logo_8_9x8mm_silkscreen
     library_name: symbol
+    md5: 2ead2da860c574a14dcd15348bc5c871
+    md5_10: 2ead2da860
+    md5_5: 2ead2
+    md5_6: 2ead2d
+    oomp_key: oomp_iangitpers_symbol_esd_logo_8_9x8mm_silkscreen
+    oomp_key_extra: oomp_footprint_iangitpers_symbol_esd_logo_8_9x8mm_silkscreen
+    oomp_key_full: oomp_footprint_iangitpers_symbol_esd_logo_8_9x8mm_silkscreen_2ead2d
+    oomp_key_simple: iangitpers_symbol_esd_logo_8_9x8mm_silkscreen
     original_filename: 4a/Symbol.pretty/ESD-Logo_8.9x8mm_SilkScreen.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_symbol_esd_logo_8_9x8mm_silkscreen
+  oomp_key_full: oomp_footprint_iangitpers_symbol_esd_logo_8_9x8mm_silkscreen
   oomp_key_simple: iangitpers_symbol_esd_logo_8_9x8mm_silkscreen
   owner: Iangitpers
   repo:

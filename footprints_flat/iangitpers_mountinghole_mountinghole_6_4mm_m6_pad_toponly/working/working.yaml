@@ -19,9 +19,18 @@
   oomp:
     footprint_name: mountinghole_6_4mm_m6_pad_toponly
     library_name: mountinghole
+    md5: 5dfeffdeb1e374f0d75a0926d1638bc8
+    md5_10: 5dfeffdeb1
+    md5_5: 5dfef
+    md5_6: 5dfeff
+    oomp_key: oomp_iangitpers_mountinghole_mountinghole_6_4mm_m6_pad_toponly
+    oomp_key_extra: oomp_footprint_iangitpers_mountinghole_mountinghole_6_4mm_m6_pad_toponly
+    oomp_key_full: oomp_footprint_iangitpers_mountinghole_mountinghole_6_4mm_m6_pad_toponly_5dfeff
+    oomp_key_simple: iangitpers_mountinghole_mountinghole_6_4mm_m6_pad_toponly
     original_filename: 4a/MountingHole.pretty/MountingHole_6.4mm_M6_Pad_TopOnly.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_mountinghole_mountinghole_6_4mm_m6_pad_toponly
+  oomp_key_full: oomp_footprint_iangitpers_mountinghole_mountinghole_6_4mm_m6_pad_toponly
   oomp_key_simple: iangitpers_mountinghole_mountinghole_6_4mm_m6_pad_toponly
   owner: Iangitpers
   repo:

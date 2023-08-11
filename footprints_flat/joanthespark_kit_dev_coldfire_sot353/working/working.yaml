@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sot353
     library_name: kit_dev_coldfire
+    md5: cf5babac5355a47f4f3dc5009fd8e7b1
+    md5_10: cf5babac53
+    md5_5: cf5ba
+    md5_6: cf5bab
+    oomp_key: oomp_joanthespark_kit_dev_coldfire_sot353
+    oomp_key_extra: oomp_footprint_joanthespark_kit_dev_coldfire_sot353
+    oomp_key_full: oomp_footprint_joanthespark_kit_dev_coldfire_sot353_cf5bab
+    oomp_key_simple: joanthespark_kit_dev_coldfire_sot353
     original_filename: KiCAD/demos/kit-dev-coldfire-xilinx_5213/kit-dev-coldfire.pretty/SOT353.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_kit_dev_coldfire_sot353
+  oomp_key_full: oomp_footprint_joanthespark_kit_dev_coldfire_sot353
   oomp_key_simple: joanthespark_kit_dev_coldfire_sot353
   owner: JoanTheSpark
   repo:

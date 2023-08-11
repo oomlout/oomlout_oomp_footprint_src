@@ -17,9 +17,18 @@
   oomp:
     footprint_name: abracon_asdmb
     library_name: manuf
+    md5: 0a1456a3a84a8cd8d8f127cdabefac2e
+    md5_10: 0a1456a3a8
+    md5_5: 0a145
+    md5_6: 0a1456
+    oomp_key: oomp_cpavlina_manuf_abracon_asdmb
+    oomp_key_extra: oomp_footprint_cpavlina_manuf_abracon_asdmb
+    oomp_key_full: oomp_footprint_cpavlina_manuf_abracon_asdmb_0a1456
+    oomp_key_simple: cpavlina_manuf_abracon_asdmb
     original_filename: kicad-pcblib/manuf.pretty/ABRACON-ASDMB.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_manuf_abracon_asdmb
+  oomp_key_full: oomp_footprint_cpavlina_manuf_abracon_asdmb
   oomp_key_simple: cpavlina_manuf_abracon_asdmb
   owner: cpavlina
   repo:

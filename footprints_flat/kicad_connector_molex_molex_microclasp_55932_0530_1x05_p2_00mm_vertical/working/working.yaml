@@ -18,9 +18,18 @@
   oomp:
     footprint_name: molex_microclasp_55932_0530_1x05_p2_00mm_vertical
     library_name: connector_molex
+    md5: 14d7fd970d2d2eb07b90459542a86ba1
+    md5_10: 14d7fd970d
+    md5_5: 14d7f
+    md5_6: 14d7fd
+    oomp_key: oomp_kicad_connector_molex_molex_microclasp_55932_0530_1x05_p2_00mm_vertical
+    oomp_key_extra: oomp_footprint_kicad_connector_molex_molex_microclasp_55932_0530_1x05_p2_00mm_vertical
+    oomp_key_full: oomp_footprint_kicad_connector_molex_molex_microclasp_55932_0530_1x05_p2_00mm_vertical_14d7fd
+    oomp_key_simple: kicad_connector_molex_molex_microclasp_55932_0530_1x05_p2_00mm_vertical
     original_filename: libraries/kicad-footprints/Connector_Molex.pretty/Molex_MicroClasp_55932-0530_1x05_P2.00mm_Vertical.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_molex_molex_microclasp_55932_0530_1x05_p2_00mm_vertical
+  oomp_key_full: oomp_footprint_kicad_connector_molex_molex_microclasp_55932_0530_1x05_p2_00mm_vertical
   oomp_key_simple: kicad_connector_molex_molex_microclasp_55932_0530_1x05_p2_00mm_vertical
   owner: kicad
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sop50p1000x120_40
     library_name: ipc7351_most
+    md5: 49caa450359607957f40536b4e63ff17
+    md5_10: 49caa45035
+    md5_5: 49caa
+    md5_6: 49caa4
+    oomp_key: oomp_cpavlina_ipc7351_most_sop50p1000x120_40
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_most_sop50p1000x120_40
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_most_sop50p1000x120_40_49caa4
+    oomp_key_simple: cpavlina_ipc7351_most_sop50p1000x120_40
     original_filename: kicad-pcblib/IPC7351-Most.pretty/SOP50P1000X120-40.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_most_sop50p1000x120_40
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_most_sop50p1000x120_40
   oomp_key_simple: cpavlina_ipc7351_most_sop50p1000x120_40
   owner: cpavlina
   repo:

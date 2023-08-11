@@ -17,9 +17,18 @@
   oomp:
     footprint_name: soic_16_w7_5mm
     library_name: digikey_footprints
+    md5: 1f4bb9c15b269554a7539bab6d9ce09b
+    md5_10: 1f4bb9c15b
+    md5_5: 1f4bb
+    md5_6: 1f4bb9
+    oomp_key: oomp_digikey_digikey_footprints_soic_16_w7_5mm
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_soic_16_w7_5mm
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_soic_16_w7_5mm_1f4bb9
+    oomp_key_simple: digikey_digikey_footprints_soic_16_w7_5mm
     original_filename: digikey-kicad-library/digikey-footprints.pretty/SOIC-16_W7.5mm.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_soic_16_w7_5mm
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_soic_16_w7_5mm
   oomp_key_simple: digikey_digikey_footprints_soic_16_w7_5mm
   owner: digikey
   repo:

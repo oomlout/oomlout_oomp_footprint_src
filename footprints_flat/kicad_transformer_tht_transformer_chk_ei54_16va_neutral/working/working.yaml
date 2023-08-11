@@ -17,9 +17,18 @@
   oomp:
     footprint_name: transformer_chk_ei54_16va_neutral
     library_name: transformer_tht
+    md5: 8c5483ed4801d1b7800696c8fc4032f7
+    md5_10: 8c5483ed48
+    md5_5: 8c548
+    md5_6: 8c5483
+    oomp_key: oomp_kicad_transformer_tht_transformer_chk_ei54_16va_neutral
+    oomp_key_extra: oomp_footprint_kicad_transformer_tht_transformer_chk_ei54_16va_neutral
+    oomp_key_full: oomp_footprint_kicad_transformer_tht_transformer_chk_ei54_16va_neutral_8c5483
+    oomp_key_simple: kicad_transformer_tht_transformer_chk_ei54_16va_neutral
     original_filename: libraries/kicad-footprints/Transformer_THT.pretty/Transformer_CHK_EI54-16VA_Neutral.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_transformer_tht_transformer_chk_ei54_16va_neutral
+  oomp_key_full: oomp_footprint_kicad_transformer_tht_transformer_chk_ei54_16va_neutral
   oomp_key_simple: kicad_transformer_tht_transformer_chk_ei54_16va_neutral
   owner: kicad
   repo:

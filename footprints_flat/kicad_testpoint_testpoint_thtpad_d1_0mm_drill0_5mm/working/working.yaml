@@ -17,9 +17,18 @@
   oomp:
     footprint_name: testpoint_thtpad_d1_0mm_drill0_5mm
     library_name: testpoint
+    md5: 5e457cc75935a6815348b71fe0ea4c83
+    md5_10: 5e457cc759
+    md5_5: 5e457
+    md5_6: 5e457c
+    oomp_key: oomp_kicad_testpoint_testpoint_thtpad_d1_0mm_drill0_5mm
+    oomp_key_extra: oomp_footprint_kicad_testpoint_testpoint_thtpad_d1_0mm_drill0_5mm
+    oomp_key_full: oomp_footprint_kicad_testpoint_testpoint_thtpad_d1_0mm_drill0_5mm_5e457c
+    oomp_key_simple: kicad_testpoint_testpoint_thtpad_d1_0mm_drill0_5mm
     original_filename: libraries/kicad-footprints/TestPoint.pretty/TestPoint_THTPad_D1.0mm_Drill0.5mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_testpoint_testpoint_thtpad_d1_0mm_drill0_5mm
+  oomp_key_full: oomp_footprint_kicad_testpoint_testpoint_thtpad_d1_0mm_drill0_5mm
   oomp_key_simple: kicad_testpoint_testpoint_thtpad_d1_0mm_drill0_5mm
   owner: kicad
   repo:

@@ -18,9 +18,18 @@
   oomp:
     footprint_name: ssop_20_3_9x8_7mm_p0_635mm
     library_name: rhais_package_smd
+    md5: 35fb17e63124b663339f6e63e506f1f9
+    md5_10: 35fb17e631
+    md5_5: 35fb1
+    md5_6: 35fb17
+    oomp_key: oomp_dx_mon_rhais_package_smd_ssop_20_3_9x8_7mm_p0_635mm
+    oomp_key_extra: oomp_footprint_dx_mon_rhais_package_smd_ssop_20_3_9x8_7mm_p0_635mm
+    oomp_key_full: oomp_footprint_dx_mon_rhais_package_smd_ssop_20_3_9x8_7mm_p0_635mm_35fb17
+    oomp_key_simple: dx_mon_rhais_package_smd_ssop_20_3_9x8_7mm_p0_635mm
     original_filename: rhais_package-smd.pretty/SSOP-20_3.9x8.7mm_P0.635mm.kicad_mod
     owner_name: dx_mon
   oomp_key: oomp_dx_mon_rhais_package_smd_ssop_20_3_9x8_7mm_p0_635mm
+  oomp_key_full: oomp_footprint_dx_mon_rhais_package_smd_ssop_20_3_9x8_7mm_p0_635mm
   oomp_key_simple: dx_mon_rhais_package_smd_ssop_20_3_9x8_7mm_p0_635mm
   owner: DX-MON
   repo:

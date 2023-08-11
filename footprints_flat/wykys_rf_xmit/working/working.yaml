@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xmit
     library_name: rf
+    md5: f5729406a0e5b9f0ee4ccba6c0c20897
+    md5_10: f5729406a0
+    md5_5: f5729
+    md5_6: f57294
+    oomp_key: oomp_wykys_rf_xmit
+    oomp_key_extra: oomp_footprint_wykys_rf_xmit
+    oomp_key_full: oomp_footprint_wykys_rf_xmit_f57294
+    oomp_key_simple: wykys_rf_xmit
     original_filename: kicad/mods/RF.pretty/XMIT.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_rf_xmit
+  oomp_key_full: oomp_footprint_wykys_rf_xmit
   oomp_key_simple: wykys_rf_xmit
   owner: wykys
   repo:

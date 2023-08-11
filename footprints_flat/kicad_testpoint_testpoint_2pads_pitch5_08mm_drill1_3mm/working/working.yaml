@@ -18,9 +18,18 @@
   oomp:
     footprint_name: testpoint_2pads_pitch5_08mm_drill1_3mm
     library_name: testpoint
+    md5: 243f0c014f106987258a9c6454239c69
+    md5_10: 243f0c014f
+    md5_5: 243f0
+    md5_6: 243f0c
+    oomp_key: oomp_kicad_testpoint_testpoint_2pads_pitch5_08mm_drill1_3mm
+    oomp_key_extra: oomp_footprint_kicad_testpoint_testpoint_2pads_pitch5_08mm_drill1_3mm
+    oomp_key_full: oomp_footprint_kicad_testpoint_testpoint_2pads_pitch5_08mm_drill1_3mm_243f0c
+    oomp_key_simple: kicad_testpoint_testpoint_2pads_pitch5_08mm_drill1_3mm
     original_filename: libraries/kicad-footprints/TestPoint.pretty/TestPoint_2Pads_Pitch5.08mm_Drill1.3mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_testpoint_testpoint_2pads_pitch5_08mm_drill1_3mm
+  oomp_key_full: oomp_footprint_kicad_testpoint_testpoint_2pads_pitch5_08mm_drill1_3mm
   oomp_key_simple: kicad_testpoint_testpoint_2pads_pitch5_08mm_drill1_3mm
   owner: kicad
   repo:

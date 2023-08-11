@@ -17,9 +17,18 @@
   oomp:
     footprint_name: transformer_breve_tez_28x33
     library_name: transformer_tht
+    md5: e6f6f82633b5a8eb43880b2f7f3658a6
+    md5_10: e6f6f82633
+    md5_5: e6f6f
+    md5_6: e6f6f8
+    oomp_key: oomp_kicad_transformer_tht_transformer_breve_tez_28x33
+    oomp_key_extra: oomp_footprint_kicad_transformer_tht_transformer_breve_tez_28x33
+    oomp_key_full: oomp_footprint_kicad_transformer_tht_transformer_breve_tez_28x33_e6f6f8
+    oomp_key_simple: kicad_transformer_tht_transformer_breve_tez_28x33
     original_filename: libraries/kicad-footprints/Transformer_THT.pretty/Transformer_Breve_TEZ-28x33.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_transformer_tht_transformer_breve_tez_28x33
+  oomp_key_full: oomp_footprint_kicad_transformer_tht_transformer_breve_tez_28x33
   oomp_key_simple: kicad_transformer_tht_transformer_breve_tez_28x33
   owner: kicad
   repo:

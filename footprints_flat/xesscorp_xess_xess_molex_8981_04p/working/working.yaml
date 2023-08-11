@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_molex_8981_04p
     library_name: xess
+    md5: 6e4da1e9abafa23e9ea2e359822eb22d
+    md5_10: 6e4da1e9ab
+    md5_5: 6e4da
+    md5_6: 6e4da1
+    oomp_key: oomp_xesscorp_xess_xess_molex_8981_04p
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_molex_8981_04p
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_molex_8981_04p_6e4da1
+    oomp_key_simple: xesscorp_xess_xess_molex_8981_04p
     original_filename: xess.pretty/xess-MOLEX-8981-04P.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_molex_8981_04p
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_molex_8981_04p
   oomp_key_simple: xesscorp_xess_xess_molex_8981_04p
   owner: xesscorp
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: pj_313_th
     library_name: xess
+    md5: 87cdbaa4482ee2197879f5faf5967251
+    md5_10: 87cdbaa448
+    md5_5: 87cdb
+    md5_6: 87cdba
+    oomp_key: oomp_xesscorp_xess_pj_313_th
+    oomp_key_extra: oomp_footprint_xesscorp_xess_pj_313_th
+    oomp_key_full: oomp_footprint_xesscorp_xess_pj_313_th_87cdba
+    oomp_key_simple: xesscorp_xess_pj_313_th
     original_filename: xess.pretty/PJ-313-TH.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_pj_313_th
+  oomp_key_full: oomp_footprint_xesscorp_xess_pj_313_th
   oomp_key_simple: xesscorp_xess_pj_313_th
   owner: xesscorp
   repo:

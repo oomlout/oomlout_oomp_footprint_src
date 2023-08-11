@@ -17,9 +17,18 @@
   oomp:
     footprint_name: skyworks_qfn40p110x110x45_9
     library_name: manuf
+    md5: 3db3d09d712ab7443d6109191d08df9e
+    md5_10: 3db3d09d71
+    md5_5: 3db3d
+    md5_6: 3db3d0
+    oomp_key: oomp_cpavlina_manuf_skyworks_qfn40p110x110x45_9
+    oomp_key_extra: oomp_footprint_cpavlina_manuf_skyworks_qfn40p110x110x45_9
+    oomp_key_full: oomp_footprint_cpavlina_manuf_skyworks_qfn40p110x110x45_9_3db3d0
+    oomp_key_simple: cpavlina_manuf_skyworks_qfn40p110x110x45_9
     original_filename: kicad-pcblib/manuf.pretty/SKYWORKS_QFN40P110X110X45-9.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_manuf_skyworks_qfn40p110x110x45_9
+  oomp_key_full: oomp_footprint_cpavlina_manuf_skyworks_qfn40p110x110x45_9
   oomp_key_simple: cpavlina_manuf_skyworks_qfn40p110x110x45_9
   owner: cpavlina
   repo:

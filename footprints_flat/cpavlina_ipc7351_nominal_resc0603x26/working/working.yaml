@@ -17,9 +17,18 @@
   oomp:
     footprint_name: resc0603x26
     library_name: ipc7351_nominal
+    md5: 9cea33a23d4204d706d7c3c8b8efe4f5
+    md5_10: 9cea33a23d
+    md5_5: 9cea3
+    md5_6: 9cea33
+    oomp_key: oomp_cpavlina_ipc7351_nominal_resc0603x26
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_nominal_resc0603x26
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_resc0603x26_9cea33
+    oomp_key_simple: cpavlina_ipc7351_nominal_resc0603x26
     original_filename: kicad-pcblib/IPC7351-Nominal.pretty/RESC0603X26.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_nominal_resc0603x26
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_resc0603x26
   oomp_key_simple: cpavlina_ipc7351_nominal_resc0603x26
   owner: cpavlina
   repo:

@@ -18,9 +18,18 @@
   oomp:
     footprint_name: c_radial_d10_0mm_h16_0mm_p5_00mm
     library_name: capacitor_tht
+    md5: 16310a43a982a3686bbc0dd1fcd30e5d
+    md5_10: 16310a43a9
+    md5_5: '16310'
+    md5_6: 16310a
+    oomp_key: oomp_kicad_capacitor_tht_c_radial_d10_0mm_h16_0mm_p5_00mm
+    oomp_key_extra: oomp_footprint_kicad_capacitor_tht_c_radial_d10_0mm_h16_0mm_p5_00mm
+    oomp_key_full: oomp_footprint_kicad_capacitor_tht_c_radial_d10_0mm_h16_0mm_p5_00mm_16310a
+    oomp_key_simple: kicad_capacitor_tht_c_radial_d10_0mm_h16_0mm_p5_00mm
     original_filename: libraries/kicad-footprints/Capacitor_THT.pretty/C_Radial_D10.0mm_H16.0mm_P5.00mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_capacitor_tht_c_radial_d10_0mm_h16_0mm_p5_00mm
+  oomp_key_full: oomp_footprint_kicad_capacitor_tht_c_radial_d10_0mm_h16_0mm_p5_00mm
   oomp_key_simple: kicad_capacitor_tht_c_radial_d10_0mm_h16_0mm_p5_00mm
   owner: kicad
   repo:

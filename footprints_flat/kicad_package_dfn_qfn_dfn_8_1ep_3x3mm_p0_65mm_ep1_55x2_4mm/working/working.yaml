@@ -18,9 +18,18 @@
   oomp:
     footprint_name: dfn_8_1ep_3x3mm_p0_65mm_ep1_55x2_4mm
     library_name: package_dfn_qfn
+    md5: e9f448dfe40cc3e3a678b3fc5102adb8
+    md5_10: e9f448dfe4
+    md5_5: e9f44
+    md5_6: e9f448
+    oomp_key: oomp_kicad_package_dfn_qfn_dfn_8_1ep_3x3mm_p0_65mm_ep1_55x2_4mm
+    oomp_key_extra: oomp_footprint_kicad_package_dfn_qfn_dfn_8_1ep_3x3mm_p0_65mm_ep1_55x2_4mm
+    oomp_key_full: oomp_footprint_kicad_package_dfn_qfn_dfn_8_1ep_3x3mm_p0_65mm_ep1_55x2_4mm_e9f448
+    oomp_key_simple: kicad_package_dfn_qfn_dfn_8_1ep_3x3mm_p0_65mm_ep1_55x2_4mm
     original_filename: libraries/kicad-footprints/Package_DFN_QFN.pretty/DFN-8-1EP_3x3mm_P0.65mm_EP1.55x2.4mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_dfn_qfn_dfn_8_1ep_3x3mm_p0_65mm_ep1_55x2_4mm
+  oomp_key_full: oomp_footprint_kicad_package_dfn_qfn_dfn_8_1ep_3x3mm_p0_65mm_ep1_55x2_4mm
   oomp_key_simple: kicad_package_dfn_qfn_dfn_8_1ep_3x3mm_p0_65mm_ep1_55x2_4mm
   owner: kicad
   repo:

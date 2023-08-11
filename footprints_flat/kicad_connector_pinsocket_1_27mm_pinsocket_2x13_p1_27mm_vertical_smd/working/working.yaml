@@ -18,9 +18,18 @@
   oomp:
     footprint_name: pinsocket_2x13_p1_27mm_vertical_smd
     library_name: connector_pinsocket_1_27mm
+    md5: ff3487061096ef6111d4017f1b11ab0b
+    md5_10: ff34870610
+    md5_5: ff348
+    md5_6: ff3487
+    oomp_key: oomp_kicad_connector_pinsocket_1_27mm_pinsocket_2x13_p1_27mm_vertical_smd
+    oomp_key_extra: oomp_footprint_kicad_connector_pinsocket_1_27mm_pinsocket_2x13_p1_27mm_vertical_smd
+    oomp_key_full: oomp_footprint_kicad_connector_pinsocket_1_27mm_pinsocket_2x13_p1_27mm_vertical_smd_ff3487
+    oomp_key_simple: kicad_connector_pinsocket_1_27mm_pinsocket_2x13_p1_27mm_vertical_smd
     original_filename: libraries/kicad-footprints/Connector_PinSocket_1.27mm.pretty/PinSocket_2x13_P1.27mm_Vertical_SMD.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_pinsocket_1_27mm_pinsocket_2x13_p1_27mm_vertical_smd
+  oomp_key_full: oomp_footprint_kicad_connector_pinsocket_1_27mm_pinsocket_2x13_p1_27mm_vertical_smd
   oomp_key_simple: kicad_connector_pinsocket_1_27mm_pinsocket_2x13_p1_27mm_vertical_smd
   owner: kicad
   repo:

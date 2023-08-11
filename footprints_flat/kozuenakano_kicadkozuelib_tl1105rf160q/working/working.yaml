@@ -17,9 +17,18 @@
   oomp:
     footprint_name: tl1105rf160q
     library_name: kicadkozuelib
+    md5: f470c4daac871bb9e669903ad6cd6c60
+    md5_10: f470c4daac
+    md5_5: f470c
+    md5_6: f470c4
+    oomp_key: oomp_kozuenakano_kicadkozuelib_tl1105rf160q
+    oomp_key_extra: oomp_footprint_kozuenakano_kicadkozuelib_tl1105rf160q
+    oomp_key_full: oomp_footprint_kozuenakano_kicadkozuelib_tl1105rf160q_f470c4
+    oomp_key_simple: kozuenakano_kicadkozuelib_tl1105rf160q
     original_filename: KiCADKozueLib.pretty/TL1105RF160Q.kicad_mod
     owner_name: kozuenakano
   oomp_key: oomp_kozuenakano_kicadkozuelib_tl1105rf160q
+  oomp_key_full: oomp_footprint_kozuenakano_kicadkozuelib_tl1105rf160q
   oomp_key_simple: kozuenakano_kicadkozuelib_tl1105rf160q
   owner: KozueNakano
   repo:

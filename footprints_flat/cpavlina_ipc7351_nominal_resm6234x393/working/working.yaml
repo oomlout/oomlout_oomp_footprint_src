@@ -17,9 +17,18 @@
   oomp:
     footprint_name: resm6234x393
     library_name: ipc7351_nominal
+    md5: 4ced3fa3072e3194518b6e04b55bf7fd
+    md5_10: 4ced3fa307
+    md5_5: 4ced3
+    md5_6: 4ced3f
+    oomp_key: oomp_cpavlina_ipc7351_nominal_resm6234x393
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_nominal_resm6234x393
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_resm6234x393_4ced3f
+    oomp_key_simple: cpavlina_ipc7351_nominal_resm6234x393
     original_filename: kicad-pcblib/IPC7351-Nominal.pretty/RESM6234X393.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_nominal_resm6234x393
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_resm6234x393
   oomp_key_simple: cpavlina_ipc7351_nominal_resm6234x393
   owner: cpavlina
   repo:

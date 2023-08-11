@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ftdi_ssop_20_hand
     library_name: kicadfootprint
+    md5: 93213790ac700cd23646db2af0e5afd1
+    md5_10: 93213790ac
+    md5_5: '93213'
+    md5_6: '932137'
+    oomp_key: oomp_vivitainc_kicadfootprint_ftdi_ssop_20_hand
+    oomp_key_extra: oomp_footprint_vivitainc_kicadfootprint_ftdi_ssop_20_hand
+    oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_ftdi_ssop_20_hand_932137
+    oomp_key_simple: vivitainc_kicadfootprint_ftdi_ssop_20_hand
     original_filename: KiCADfootprint.pretty/FTDI_SSOP-20_hand.kicad_mod
     owner_name: vivitainc
   oomp_key: oomp_vivitainc_kicadfootprint_ftdi_ssop_20_hand
+  oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_ftdi_ssop_20_hand
   oomp_key_simple: vivitainc_kicadfootprint_ftdi_ssop_20_hand
   owner: vivitainc
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ksa_tactile_spst
     library_name: button_switch_tht
+    md5: 1f13c41056d2a4975c776f859e3af7b6
+    md5_10: 1f13c41056
+    md5_5: 1f13c
+    md5_6: 1f13c4
+    oomp_key: oomp_kicad_button_switch_tht_ksa_tactile_spst
+    oomp_key_extra: oomp_footprint_kicad_button_switch_tht_ksa_tactile_spst
+    oomp_key_full: oomp_footprint_kicad_button_switch_tht_ksa_tactile_spst_1f13c4
+    oomp_key_simple: kicad_button_switch_tht_ksa_tactile_spst
     original_filename: libraries/kicad-footprints/Button_Switch_THT.pretty/KSA_Tactile_SPST.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_button_switch_tht_ksa_tactile_spst
+  oomp_key_full: oomp_footprint_kicad_button_switch_tht_ksa_tactile_spst
   oomp_key_simple: kicad_button_switch_tht_ksa_tactile_spst
   owner: kicad
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_msp430f161x_pm
     library_name: xess
+    md5: e3f17b39a91d1cf6157e0efda821ad39
+    md5_10: e3f17b39a9
+    md5_5: e3f17
+    md5_6: e3f17b
+    oomp_key: oomp_xesscorp_xess_xess_msp430f161x_pm
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_msp430f161x_pm
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_msp430f161x_pm_e3f17b
+    oomp_key_simple: xesscorp_xess_xess_msp430f161x_pm
     original_filename: xess.pretty/xess-MSP430F161X-PM.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_msp430f161x_pm
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_msp430f161x_pm
   oomp_key_simple: xesscorp_xess_xess_msp430f161x_pm
   owner: xesscorp
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: relay_dpdt_axicom_imseries_pitch3_2mm
     library_name: relay_tht
+    md5: b06bbe4a6991b16f5a90278a37787bc0
+    md5_10: b06bbe4a69
+    md5_5: b06bb
+    md5_6: b06bbe
+    oomp_key: oomp_kicad_relay_tht_relay_dpdt_axicom_imseries_pitch3_2mm
+    oomp_key_extra: oomp_footprint_kicad_relay_tht_relay_dpdt_axicom_imseries_pitch3_2mm
+    oomp_key_full: oomp_footprint_kicad_relay_tht_relay_dpdt_axicom_imseries_pitch3_2mm_b06bbe
+    oomp_key_simple: kicad_relay_tht_relay_dpdt_axicom_imseries_pitch3_2mm
     original_filename: libraries/kicad-footprints/Relay_THT.pretty/Relay_DPDT_AXICOM_IMSeries_Pitch3.2mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_relay_tht_relay_dpdt_axicom_imseries_pitch3_2mm
+  oomp_key_full: oomp_footprint_kicad_relay_tht_relay_dpdt_axicom_imseries_pitch3_2mm
   oomp_key_simple: kicad_relay_tht_relay_dpdt_axicom_imseries_pitch3_2mm
   owner: kicad
   repo:

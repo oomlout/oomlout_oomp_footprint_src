@@ -19,9 +19,18 @@
   oomp:
     footprint_name: samtec_hle_119_02_xxx_dv_be_2x19_p2_54mm_horizontal
     library_name: connector_samtec_hle_smd
+    md5: 7e89c2aaee88a88b9bcae488c9c67acc
+    md5_10: 7e89c2aaee
+    md5_5: 7e89c
+    md5_6: 7e89c2
+    oomp_key: oomp_kicad_connector_samtec_hle_smd_samtec_hle_119_02_xxx_dv_be_2x19_p2_54mm_horizontal
+    oomp_key_extra: oomp_footprint_kicad_connector_samtec_hle_smd_samtec_hle_119_02_xxx_dv_be_2x19_p2_54mm_horizontal
+    oomp_key_full: oomp_footprint_kicad_connector_samtec_hle_smd_samtec_hle_119_02_xxx_dv_be_2x19_p2_54mm_horizontal_7e89c2
+    oomp_key_simple: kicad_connector_samtec_hle_smd_samtec_hle_119_02_xxx_dv_be_2x19_p2_54mm_horizontal
     original_filename: libraries/kicad-footprints/Connector_Samtec_HLE_SMD.pretty/Samtec_HLE-119-02-xxx-DV-BE_2x19_P2.54mm_Horizontal.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_samtec_hle_smd_samtec_hle_119_02_xxx_dv_be_2x19_p2_54mm_horizontal
+  oomp_key_full: oomp_footprint_kicad_connector_samtec_hle_smd_samtec_hle_119_02_xxx_dv_be_2x19_p2_54mm_horizontal
   oomp_key_simple: kicad_connector_samtec_hle_smd_samtec_hle_119_02_xxx_dv_be_2x19_p2_54mm_horizontal
   owner: kicad
   repo:

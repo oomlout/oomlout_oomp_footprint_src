@@ -17,9 +17,18 @@
   oomp:
     footprint_name: udfn_6_1ep_2x2mm_uson
     library_name: digikey_footprints
+    md5: fbe68a7db7704b4636067181fabb0b33
+    md5_10: fbe68a7db7
+    md5_5: fbe68
+    md5_6: fbe68a
+    oomp_key: oomp_digikey_digikey_footprints_udfn_6_1ep_2x2mm_uson
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_udfn_6_1ep_2x2mm_uson
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_udfn_6_1ep_2x2mm_uson_fbe68a
+    oomp_key_simple: digikey_digikey_footprints_udfn_6_1ep_2x2mm_uson
     original_filename: digikey-kicad-library/digikey-footprints.pretty/UDFN-6-1EP_2x2mm_USON.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_udfn_6_1ep_2x2mm_uson
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_udfn_6_1ep_2x2mm_uson
   oomp_key_simple: digikey_digikey_footprints_udfn_6_1ep_2x2mm_uson
   owner: digikey
   repo:

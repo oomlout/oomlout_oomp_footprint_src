@@ -17,9 +17,18 @@
   oomp:
     footprint_name: led_cube_base_4pin
     library_name: freetronics_footprints
+    md5: de9f93ace0aa80e94edf7dcba8f3aa39
+    md5_10: de9f93ace0
+    md5_5: de9f9
+    md5_6: de9f93
+    oomp_key: oomp_wykys_freetronics_footprints_led_cube_base_4pin
+    oomp_key_extra: oomp_footprint_wykys_freetronics_footprints_led_cube_base_4pin
+    oomp_key_full: oomp_footprint_wykys_freetronics_footprints_led_cube_base_4pin_de9f93
+    oomp_key_simple: wykys_freetronics_footprints_led_cube_base_4pin
     original_filename: kicad/mods/freetronics_footprints.pretty/LED_CUBE_BASE_4PIN.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_freetronics_footprints_led_cube_base_4pin
+  oomp_key_full: oomp_footprint_wykys_freetronics_footprints_led_cube_base_4pin
   oomp_key_simple: wykys_freetronics_footprints_led_cube_base_4pin
   owner: wykys
   repo:

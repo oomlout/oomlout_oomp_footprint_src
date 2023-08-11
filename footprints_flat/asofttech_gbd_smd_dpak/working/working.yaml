@@ -17,9 +17,18 @@
   oomp:
     footprint_name: dpak
     library_name: gbd_smd
+    md5: d1c633f35dbb5e64622e49a6ecde8d65
+    md5_10: d1c633f35d
+    md5_5: d1c63
+    md5_6: d1c633
+    oomp_key: oomp_asofttech_gbd_smd_dpak
+    oomp_key_extra: oomp_footprint_asofttech_gbd_smd_dpak
+    oomp_key_full: oomp_footprint_asofttech_gbd_smd_dpak_d1c633
+    oomp_key_simple: asofttech_gbd_smd_dpak
     original_filename: CAD.KiCad.Libs/modules/GBD-SMD.pretty/DPAK.kicad_mod
     owner_name: asofttech
   oomp_key: oomp_asofttech_gbd_smd_dpak
+  oomp_key_full: oomp_footprint_asofttech_gbd_smd_dpak
   oomp_key_simple: asofttech_gbd_smd_dpak
   owner: ASoftTech
   repo:

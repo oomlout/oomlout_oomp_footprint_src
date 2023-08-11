@@ -18,9 +18,18 @@
   oomp:
     footprint_name: dip_64_w25_4mm_socket_longpads
     library_name: package_dip
+    md5: 39d2fcf29d1f28e66134b9b3bf5cdead
+    md5_10: 39d2fcf29d
+    md5_5: 39d2f
+    md5_6: 39d2fc
+    oomp_key: oomp_kicad_package_dip_dip_64_w25_4mm_socket_longpads
+    oomp_key_extra: oomp_footprint_kicad_package_dip_dip_64_w25_4mm_socket_longpads
+    oomp_key_full: oomp_footprint_kicad_package_dip_dip_64_w25_4mm_socket_longpads_39d2fc
+    oomp_key_simple: kicad_package_dip_dip_64_w25_4mm_socket_longpads
     original_filename: libraries/kicad-footprints/Package_DIP.pretty/DIP-64_W25.4mm_Socket_LongPads.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_dip_dip_64_w25_4mm_socket_longpads
+  oomp_key_full: oomp_footprint_kicad_package_dip_dip_64_w25_4mm_socket_longpads
   oomp_key_simple: kicad_package_dip_dip_64_w25_4mm_socket_longpads
   owner: kicad
   repo:

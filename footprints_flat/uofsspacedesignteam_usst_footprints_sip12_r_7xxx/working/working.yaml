@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sip12_r_7xxx
     library_name: usst_footprints
+    md5: 81b98cbc6afd1c155732b125474a8453
+    md5_10: 81b98cbc6a
+    md5_5: 81b98
+    md5_6: 81b98c
+    oomp_key: oomp_uofsspacedesignteam_usst_footprints_sip12_r_7xxx
+    oomp_key_extra: oomp_footprint_uofsspacedesignteam_usst_footprints_sip12_r_7xxx
+    oomp_key_full: oomp_footprint_uofsspacedesignteam_usst_footprints_sip12_r_7xxx_81b98c
+    oomp_key_simple: uofsspacedesignteam_usst_footprints_sip12_r_7xxx
     original_filename: USST-footprints.pretty/SIP12_R-7xxx.kicad_mod
     owner_name: uofsspacedesignteam
   oomp_key: oomp_uofsspacedesignteam_usst_footprints_sip12_r_7xxx
+  oomp_key_full: oomp_footprint_uofsspacedesignteam_usst_footprints_sip12_r_7xxx
   oomp_key_simple: uofsspacedesignteam_usst_footprints_sip12_r_7xxx
   owner: UofSSpaceDesignTeam
   repo:

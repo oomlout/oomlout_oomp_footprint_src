@@ -17,9 +17,18 @@
   oomp:
     footprint_name: pot_rv09_vert
     library_name: freetronics_footprints
+    md5: befaf550d6264165468d318b6f17fbe6
+    md5_10: befaf550d6
+    md5_5: befaf
+    md5_6: befaf5
+    oomp_key: oomp_joanthespark_freetronics_footprints_pot_rv09_vert
+    oomp_key_extra: oomp_footprint_joanthespark_freetronics_footprints_pot_rv09_vert
+    oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_pot_rv09_vert_befaf5
+    oomp_key_simple: joanthespark_freetronics_footprints_pot_rv09_vert
     original_filename: KiCAD/mods/freetronics_footprints.pretty/POT_RV09_VERT.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_freetronics_footprints_pot_rv09_vert
+  oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_pot_rv09_vert
   oomp_key_simple: joanthespark_freetronics_footprints_pot_rv09_vert
   owner: JoanTheSpark
   repo:

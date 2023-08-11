@@ -19,9 +19,18 @@
   oomp:
     footprint_name: xilinx_fgg484
     library_name: manuf
+    md5: 215840740a6778e6c34ce8054138acbf
+    md5_10: 215840740a
+    md5_5: '21584'
+    md5_6: '215840'
+    oomp_key: oomp_iangitpers_manuf_xilinx_fgg484
+    oomp_key_extra: oomp_footprint_iangitpers_manuf_xilinx_fgg484
+    oomp_key_full: oomp_footprint_iangitpers_manuf_xilinx_fgg484_215840
+    oomp_key_simple: iangitpers_manuf_xilinx_fgg484
     original_filename: 4a/manuf.pretty/XILINX-FGG484.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_manuf_xilinx_fgg484
+  oomp_key_full: oomp_footprint_iangitpers_manuf_xilinx_fgg484
   oomp_key_simple: iangitpers_manuf_xilinx_fgg484
   owner: Iangitpers
   repo:

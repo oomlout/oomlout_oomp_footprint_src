@@ -17,9 +17,18 @@
   oomp:
     footprint_name: laird_bmi_s_203
     library_name: manuf
+    md5: 4aeaa0c3a943c39203312435e6f9486c
+    md5_10: 4aeaa0c3a9
+    md5_5: 4aeaa
+    md5_6: 4aeaa0
+    oomp_key: oomp_cpavlina_manuf_laird_bmi_s_203
+    oomp_key_extra: oomp_footprint_cpavlina_manuf_laird_bmi_s_203
+    oomp_key_full: oomp_footprint_cpavlina_manuf_laird_bmi_s_203_4aeaa0
+    oomp_key_simple: cpavlina_manuf_laird_bmi_s_203
     original_filename: kicad-pcblib/manuf.pretty/LAIRD-BMI-S-203.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_manuf_laird_bmi_s_203
+  oomp_key_full: oomp_footprint_cpavlina_manuf_laird_bmi_s_203
   oomp_key_simple: cpavlina_manuf_laird_bmi_s_203
   owner: cpavlina
   repo:

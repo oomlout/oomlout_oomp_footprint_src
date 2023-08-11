@@ -17,9 +17,18 @@
   oomp:
     footprint_name: c_trimmer_voltronics_jn
     library_name: capacitor_smd
+    md5: 01a74cd24830da831d58adb5bca4a47b
+    md5_10: 01a74cd248
+    md5_5: 01a74
+    md5_6: 01a74c
+    oomp_key: oomp_kicad_capacitor_smd_c_trimmer_voltronics_jn
+    oomp_key_extra: oomp_footprint_kicad_capacitor_smd_c_trimmer_voltronics_jn
+    oomp_key_full: oomp_footprint_kicad_capacitor_smd_c_trimmer_voltronics_jn_01a74c
+    oomp_key_simple: kicad_capacitor_smd_c_trimmer_voltronics_jn
     original_filename: libraries/kicad-footprints/Capacitor_SMD.pretty/C_Trimmer_Voltronics_JN.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_capacitor_smd_c_trimmer_voltronics_jn
+  oomp_key_full: oomp_footprint_kicad_capacitor_smd_c_trimmer_voltronics_jn
   oomp_key_simple: kicad_capacitor_smd_c_trimmer_voltronics_jn
   owner: kicad
   repo:

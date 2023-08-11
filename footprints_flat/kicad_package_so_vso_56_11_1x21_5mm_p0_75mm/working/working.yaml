@@ -18,9 +18,18 @@
   oomp:
     footprint_name: vso_56_11_1x21_5mm_p0_75mm
     library_name: package_so
+    md5: 4655b0ab980b293ad8dda3e5b1f18459
+    md5_10: 4655b0ab98
+    md5_5: 4655b
+    md5_6: 4655b0
+    oomp_key: oomp_kicad_package_so_vso_56_11_1x21_5mm_p0_75mm
+    oomp_key_extra: oomp_footprint_kicad_package_so_vso_56_11_1x21_5mm_p0_75mm
+    oomp_key_full: oomp_footprint_kicad_package_so_vso_56_11_1x21_5mm_p0_75mm_4655b0
+    oomp_key_simple: kicad_package_so_vso_56_11_1x21_5mm_p0_75mm
     original_filename: libraries/kicad-footprints/Package_SO.pretty/VSO-56_11.1x21.5mm_P0.75mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_so_vso_56_11_1x21_5mm_p0_75mm
+  oomp_key_full: oomp_footprint_kicad_package_so_vso_56_11_1x21_5mm_p0_75mm
   oomp_key_simple: kicad_package_so_vso_56_11_1x21_5mm_p0_75mm
   owner: kicad
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: fujisoku_ft1x_2m_z
     library_name: kicadfootprint
+    md5: a5cd0c56ad4f7f5bccd6a9e9f7097ab6
+    md5_10: a5cd0c56ad
+    md5_5: a5cd0
+    md5_6: a5cd0c
+    oomp_key: oomp_vivitainc_kicadfootprint_fujisoku_ft1x_2m_z
+    oomp_key_extra: oomp_footprint_vivitainc_kicadfootprint_fujisoku_ft1x_2m_z
+    oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_fujisoku_ft1x_2m_z_a5cd0c
+    oomp_key_simple: vivitainc_kicadfootprint_fujisoku_ft1x_2m_z
     original_filename: KiCADfootprint.pretty/FUJISOKU_FT1x-2M-Z.kicad_mod
     owner_name: vivitainc
   oomp_key: oomp_vivitainc_kicadfootprint_fujisoku_ft1x_2m_z
+  oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_fujisoku_ft1x_2m_z
   oomp_key_simple: vivitainc_kicadfootprint_fujisoku_ft1x_2m_z
   owner: vivitainc
   repo:

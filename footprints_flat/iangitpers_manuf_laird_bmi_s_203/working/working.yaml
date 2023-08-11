@@ -19,9 +19,18 @@
   oomp:
     footprint_name: laird_bmi_s_203
     library_name: manuf
+    md5: 95cd7bbe63bf836827bf9f33d5f28509
+    md5_10: 95cd7bbe63
+    md5_5: 95cd7
+    md5_6: 95cd7b
+    oomp_key: oomp_iangitpers_manuf_laird_bmi_s_203
+    oomp_key_extra: oomp_footprint_iangitpers_manuf_laird_bmi_s_203
+    oomp_key_full: oomp_footprint_iangitpers_manuf_laird_bmi_s_203_95cd7b
+    oomp_key_simple: iangitpers_manuf_laird_bmi_s_203
     original_filename: 4a/manuf.pretty/LAIRD-BMI-S-203.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_manuf_laird_bmi_s_203
+  oomp_key_full: oomp_footprint_iangitpers_manuf_laird_bmi_s_203
   oomp_key_simple: iangitpers_manuf_laird_bmi_s_203
   owner: Iangitpers
   repo:

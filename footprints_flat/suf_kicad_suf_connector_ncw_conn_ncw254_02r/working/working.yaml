@@ -17,9 +17,18 @@
   oomp:
     footprint_name: conn_ncw254_02r
     library_name: suf_connector_ncw
+    md5: 7da831e7999228ff3f2287a594ab3c01
+    md5_10: 7da831e799
+    md5_5: 7da83
+    md5_6: 7da831
+    oomp_key: oomp_suf_kicad_suf_connector_ncw_conn_ncw254_02r
+    oomp_key_extra: oomp_footprint_suf_kicad_suf_connector_ncw_conn_ncw254_02r
+    oomp_key_full: oomp_footprint_suf_kicad_suf_connector_ncw_conn_ncw254_02r_7da831
+    oomp_key_simple: suf_kicad_suf_connector_ncw_conn_ncw254_02r
     original_filename: suf_connector_ncw.pretty/CONN_NCW254-02R.kicad_mod
     owner_name: suf_kicad
   oomp_key: oomp_suf_kicad_suf_connector_ncw_conn_ncw254_02r
+  oomp_key_full: oomp_footprint_suf_kicad_suf_connector_ncw_conn_ncw254_02r
   oomp_key_simple: suf_kicad_suf_connector_ncw_conn_ncw254_02r
   owner: suf-KiCAD
   repo:

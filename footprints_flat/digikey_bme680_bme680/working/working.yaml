@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: bme680
-    library_name: source_footprints
+    library_name: bme680_kicad_mod
+    md5: 7352bd9f44dfadcd9b05904f3404e137
+    md5_10: 7352bd9f44
+    md5_5: 7352b
+    md5_6: 7352bd
+    oomp_key: oomp_digikey_bme680_bme680
+    oomp_key_extra: oomp_footprint_digikey_bme680_bme680
+    oomp_key_full: oomp_footprint_digikey_bme680_bme680_7352bd
+    oomp_key_simple: digikey_bme680_bme680
     original_filename: digikey-kicad-library/src/Source_Footprints/BME680.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_bme680_bme680
+  oomp_key_full: oomp_footprint_digikey_bme680_bme680
   oomp_key_simple: digikey_bme680_bme680
   owner: digikey
   repo:

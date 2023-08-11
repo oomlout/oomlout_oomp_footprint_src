@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sht1x
     library_name: sensor
+    md5: 3abe224519c2ac8d6c22b9735e579840
+    md5_10: 3abe224519
+    md5_5: 3abe2
+    md5_6: 3abe22
+    oomp_key: oomp_kicad_sensor_sht1x
+    oomp_key_extra: oomp_footprint_kicad_sensor_sht1x
+    oomp_key_full: oomp_footprint_kicad_sensor_sht1x_3abe22
+    oomp_key_simple: kicad_sensor_sht1x
     original_filename: libraries/kicad-footprints/Sensor.pretty/SHT1x.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_sensor_sht1x
+  oomp_key_full: oomp_footprint_kicad_sensor_sht1x
   oomp_key_simple: kicad_sensor_sht1x
   owner: kicad
   repo:

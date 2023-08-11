@@ -17,9 +17,18 @@
   oomp:
     footprint_name: lga_16l_st
     library_name: agg
+    md5: 054619f9dab2c059e9e956865d7d7e2c
+    md5_10: 054619f9da
+    md5_5: '05461'
+    md5_6: 054619
+    oomp_key: oomp_adamgreig_agg_lga_16l_st
+    oomp_key_extra: oomp_footprint_adamgreig_agg_lga_16l_st
+    oomp_key_full: oomp_footprint_adamgreig_agg_lga_16l_st_054619
+    oomp_key_simple: adamgreig_agg_lga_16l_st
     original_filename: agg-kicad/agg.pretty/LGA-16L-ST.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_lga_16l_st
+  oomp_key_full: oomp_footprint_adamgreig_agg_lga_16l_st
   oomp_key_simple: adamgreig_agg_lga_16l_st
   owner: adamgreig
   repo:

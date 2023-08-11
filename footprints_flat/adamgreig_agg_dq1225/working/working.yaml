@@ -17,9 +17,18 @@
   oomp:
     footprint_name: dq1225
     library_name: agg
+    md5: 5d197688f6841dc4aedde645f0be8563
+    md5_10: 5d197688f6
+    md5_5: 5d197
+    md5_6: 5d1976
+    oomp_key: oomp_adamgreig_agg_dq1225
+    oomp_key_extra: oomp_footprint_adamgreig_agg_dq1225
+    oomp_key_full: oomp_footprint_adamgreig_agg_dq1225_5d1976
+    oomp_key_simple: adamgreig_agg_dq1225
     original_filename: agg-kicad/agg.pretty/DQ1225.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_dq1225
+  oomp_key_full: oomp_footprint_adamgreig_agg_dq1225
   oomp_key_simple: adamgreig_agg_dq1225
   owner: adamgreig
   repo:

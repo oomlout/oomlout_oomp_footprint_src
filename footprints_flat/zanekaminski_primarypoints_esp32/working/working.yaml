@@ -17,9 +17,18 @@
   oomp:
     footprint_name: esp32
     library_name: primarypoints
+    md5: 04fc154b74f4ad06fa36a160cb30dcf0
+    md5_10: 04fc154b74
+    md5_5: 04fc1
+    md5_6: 04fc15
+    oomp_key: oomp_zanekaminski_primarypoints_esp32
+    oomp_key_extra: oomp_footprint_zanekaminski_primarypoints_esp32
+    oomp_key_full: oomp_footprint_zanekaminski_primarypoints_esp32_04fc15
+    oomp_key_simple: zanekaminski_primarypoints_esp32
     original_filename: primarypoints.pretty/ESP32.kicad_mod
     owner_name: zanekaminski
   oomp_key: oomp_zanekaminski_primarypoints_esp32
+  oomp_key_full: oomp_footprint_zanekaminski_primarypoints_esp32
   oomp_key_simple: zanekaminski_primarypoints_esp32
   owner: ZaneKaminski
   repo:

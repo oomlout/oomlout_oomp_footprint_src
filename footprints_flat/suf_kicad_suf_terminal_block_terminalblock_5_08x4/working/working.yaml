@@ -17,9 +17,18 @@
   oomp:
     footprint_name: terminalblock_5_08x4
     library_name: suf_terminal_block
+    md5: 1c0e6f0d28018ebec0b4c9dbe2c66f15
+    md5_10: 1c0e6f0d28
+    md5_5: 1c0e6
+    md5_6: 1c0e6f
+    oomp_key: oomp_suf_kicad_suf_terminal_block_terminalblock_5_08x4
+    oomp_key_extra: oomp_footprint_suf_kicad_suf_terminal_block_terminalblock_5_08x4
+    oomp_key_full: oomp_footprint_suf_kicad_suf_terminal_block_terminalblock_5_08x4_1c0e6f
+    oomp_key_simple: suf_kicad_suf_terminal_block_terminalblock_5_08x4
     original_filename: suf_terminal_block.pretty/TerminalBlock_5.08x4.kicad_mod
     owner_name: suf_kicad
   oomp_key: oomp_suf_kicad_suf_terminal_block_terminalblock_5_08x4
+  oomp_key_full: oomp_footprint_suf_kicad_suf_terminal_block_terminalblock_5_08x4
   oomp_key_simple: suf_kicad_suf_terminal_block_terminalblock_5_08x4
   owner: suf-KiCAD
   repo:

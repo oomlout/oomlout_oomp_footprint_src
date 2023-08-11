@@ -17,9 +17,18 @@
   oomp:
     footprint_name: mx625hr
     library_name: acheron_mxh_metalrings
+    md5: 798e02a3f519e786d9b4e3c020f35d5d
+    md5_10: 798e02a3f5
+    md5_5: 798e0
+    md5_6: 798e02
+    oomp_key: oomp_acheronproject_acheron_mxh_metalrings_mx625hr
+    oomp_key_extra: oomp_footprint_acheronproject_acheron_mxh_metalrings_mx625hr
+    oomp_key_full: oomp_footprint_acheronproject_acheron_mxh_metalrings_mx625hr_798e02
+    oomp_key_simple: acheronproject_acheron_mxh_metalrings_mx625hr
     original_filename: acheron_MXH_metalrings.pretty/MX625HR.kicad_mod
     owner_name: acheronproject
   oomp_key: oomp_acheronproject_acheron_mxh_metalrings_mx625hr
+  oomp_key_full: oomp_footprint_acheronproject_acheron_mxh_metalrings_mx625hr
   oomp_key_simple: acheronproject_acheron_mxh_metalrings_mx625hr
   owner: AcheronProject
   repo:

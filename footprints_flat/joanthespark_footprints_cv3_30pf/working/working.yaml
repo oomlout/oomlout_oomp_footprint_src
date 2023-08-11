@@ -17,9 +17,18 @@
   oomp:
     footprint_name: cv3_30pf
     library_name: footprints
+    md5: 092473f55ba5d40ef939b85bb6d363ce
+    md5_10: 092473f55b
+    md5_5: 09247
+    md5_6: 092473
+    oomp_key: oomp_joanthespark_footprints_cv3_30pf
+    oomp_key_extra: oomp_footprint_joanthespark_footprints_cv3_30pf
+    oomp_key_full: oomp_footprint_joanthespark_footprints_cv3_30pf_092473
+    oomp_key_simple: joanthespark_footprints_cv3_30pf
     original_filename: KiCAD/demos/video/libs/footprints.pretty/CV3-30PF.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_footprints_cv3_30pf
+  oomp_key_full: oomp_footprint_joanthespark_footprints_cv3_30pf
   oomp_key_simple: joanthespark_footprints_cv3_30pf
   owner: JoanTheSpark
   repo:

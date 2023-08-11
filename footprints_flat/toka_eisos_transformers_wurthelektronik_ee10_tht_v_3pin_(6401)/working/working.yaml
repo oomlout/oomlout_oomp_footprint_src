@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ee10_tht_v_3pin_(6401)
     library_name: transformers_wurthelektronik
+    md5: 8c65b3193b4972fb1936c344d8b42621
+    md5_10: 8c65b3193b
+    md5_5: 8c65b
+    md5_6: 8c65b3
+    oomp_key: oomp_toka_eisos_transformers_wurthelektronik_ee10_tht_v_3pin_(6401)
+    oomp_key_extra: oomp_footprint_toka_eisos_transformers_wurthelektronik_ee10_tht_v_3pin_(6401)
+    oomp_key_full: oomp_footprint_toka_eisos_transformers_wurthelektronik_ee10_tht_v_3pin_(6401)_8c65b3
+    oomp_key_simple: toka_eisos_transformers_wurthelektronik_ee10_tht_v_3pin_(6401)
     original_filename: Transformers_WurthElektronik.pretty/EE10_THT_V_3PIN_(6401).kicad_mod
     owner_name: toka_eisos
   oomp_key: oomp_toka_eisos_transformers_wurthelektronik_ee10_tht_v_3pin_(6401)
+  oomp_key_full: oomp_footprint_toka_eisos_transformers_wurthelektronik_ee10_tht_v_3pin_(6401)
   oomp_key_simple: toka_eisos_transformers_wurthelektronik_ee10_tht_v_3pin_(6401)
   owner: toka-eisos
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xtal_50x32
     library_name: agg
+    md5: e40ca005c9120e7a54238148b4b20372
+    md5_10: e40ca005c9
+    md5_5: e40ca
+    md5_6: e40ca0
+    oomp_key: oomp_adamgreig_agg_xtal_50x32
+    oomp_key_extra: oomp_footprint_adamgreig_agg_xtal_50x32
+    oomp_key_full: oomp_footprint_adamgreig_agg_xtal_50x32_e40ca0
+    oomp_key_simple: adamgreig_agg_xtal_50x32
     original_filename: agg-kicad/agg.pretty/XTAL-50x32.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_xtal_50x32
+  oomp_key_full: oomp_footprint_adamgreig_agg_xtal_50x32
   oomp_key_simple: adamgreig_agg_xtal_50x32
   owner: adamgreig
   repo:

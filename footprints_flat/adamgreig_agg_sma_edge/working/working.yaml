@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sma_edge
     library_name: agg
+    md5: a28092671847038cbfc12fac7ade147d
+    md5_10: a280926718
+    md5_5: a2809
+    md5_6: a28092
+    oomp_key: oomp_adamgreig_agg_sma_edge
+    oomp_key_extra: oomp_footprint_adamgreig_agg_sma_edge
+    oomp_key_full: oomp_footprint_adamgreig_agg_sma_edge_a28092
+    oomp_key_simple: adamgreig_agg_sma_edge
     original_filename: agg-kicad/agg.pretty/SMA-EDGE.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_sma_edge
+  oomp_key_full: oomp_footprint_adamgreig_agg_sma_edge
   oomp_key_simple: adamgreig_agg_sma_edge
   owner: adamgreig
   repo:

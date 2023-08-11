@@ -18,9 +18,18 @@
   oomp:
     footprint_name: son50p300x400x80_15wged3
     library_name: ipc7351_most
+    md5: 6d2d0ddeb20c229c1e4c968ea7c2e787
+    md5_10: 6d2d0ddeb2
+    md5_5: 6d2d0
+    md5_6: 6d2d0d
+    oomp_key: oomp_cpavlina_ipc7351_most_son50p300x400x80_15wged3
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_most_son50p300x400x80_15wged3
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_most_son50p300x400x80_15wged3_6d2d0d
+    oomp_key_simple: cpavlina_ipc7351_most_son50p300x400x80_15wged3
     original_filename: kicad-pcblib/IPC7351-Most.pretty/SON50P300X400X80-15WGED3.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_most_son50p300x400x80_15wged3
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_most_son50p300x400x80_15wged3
   oomp_key_simple: cpavlina_ipc7351_most_son50p300x400x80_15wged3
   owner: cpavlina
   repo:

@@ -20,9 +20,18 @@
   oomp:
     footprint_name: microsd_hc_molex_104031_0811
     library_name: connector_card
+    md5: 37c69a3cb629c763692b25f92a4eaf33
+    md5_10: 37c69a3cb6
+    md5_5: 37c69
+    md5_6: 37c69a
+    oomp_key: oomp_iangitpers_connector_card_microsd_hc_molex_104031_0811
+    oomp_key_extra: oomp_footprint_iangitpers_connector_card_microsd_hc_molex_104031_0811
+    oomp_key_full: oomp_footprint_iangitpers_connector_card_microsd_hc_molex_104031_0811_37c69a
+    oomp_key_simple: iangitpers_connector_card_microsd_hc_molex_104031_0811
     original_filename: 4a/Connector_Card.pretty/microSD_HC_Molex_104031-0811.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_connector_card_microsd_hc_molex_104031_0811
+  oomp_key_full: oomp_footprint_iangitpers_connector_card_microsd_hc_molex_104031_0811
   oomp_key_simple: iangitpers_connector_card_microsd_hc_molex_104031_0811
   owner: Iangitpers
   repo:

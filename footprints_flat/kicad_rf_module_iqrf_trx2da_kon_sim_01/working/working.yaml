@@ -17,9 +17,18 @@
   oomp:
     footprint_name: iqrf_trx2da_kon_sim_01
     library_name: rf_module
+    md5: 6ac26738703fc427142d27774e28a370
+    md5_10: 6ac2673870
+    md5_5: 6ac26
+    md5_6: 6ac267
+    oomp_key: oomp_kicad_rf_module_iqrf_trx2da_kon_sim_01
+    oomp_key_extra: oomp_footprint_kicad_rf_module_iqrf_trx2da_kon_sim_01
+    oomp_key_full: oomp_footprint_kicad_rf_module_iqrf_trx2da_kon_sim_01_6ac267
+    oomp_key_simple: kicad_rf_module_iqrf_trx2da_kon_sim_01
     original_filename: libraries/kicad-footprints/RF_Module.pretty/IQRF_TRx2DA_KON-SIM-01.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_rf_module_iqrf_trx2da_kon_sim_01
+  oomp_key_full: oomp_footprint_kicad_rf_module_iqrf_trx2da_kon_sim_01
   oomp_key_simple: kicad_rf_module_iqrf_trx2da_kon_sim_01
   owner: kicad
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: l_vishay_ihlp_2020
     library_name: inductor_smd
+    md5: de88f3b5478fd6c71d6d0b0a32730282
+    md5_10: de88f3b547
+    md5_5: de88f
+    md5_6: de88f3
+    oomp_key: oomp_kicad_inductor_smd_l_vishay_ihlp_2020
+    oomp_key_extra: oomp_footprint_kicad_inductor_smd_l_vishay_ihlp_2020
+    oomp_key_full: oomp_footprint_kicad_inductor_smd_l_vishay_ihlp_2020_de88f3
+    oomp_key_simple: kicad_inductor_smd_l_vishay_ihlp_2020
     original_filename: libraries/kicad-footprints/Inductor_SMD.pretty/L_Vishay_IHLP-2020.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_inductor_smd_l_vishay_ihlp_2020
+  oomp_key_full: oomp_footprint_kicad_inductor_smd_l_vishay_ihlp_2020
   oomp_key_simple: kicad_inductor_smd_l_vishay_ihlp_2020
   owner: kicad
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: mxonly_2_25u_hotswap_mod
     library_name: tahutech
+    md5: 4b6175f8f6a09f09cd070f36cedc6513
+    md5_10: 4b6175f8f6
+    md5_5: 4b617
+    md5_6: 4b6175
+    oomp_key: oomp_tahutech_tahutech_mxonly_2_25u_hotswap_mod
+    oomp_key_extra: oomp_footprint_tahutech_tahutech_mxonly_2_25u_hotswap_mod
+    oomp_key_full: oomp_footprint_tahutech_tahutech_mxonly_2_25u_hotswap_mod_4b6175
+    oomp_key_simple: tahutech_tahutech_mxonly_2_25u_hotswap_mod
     original_filename: tahutech.pretty/MXOnly-2.25U-Hotswap-MOD.kicad_mod
     owner_name: tahutech
   oomp_key: oomp_tahutech_tahutech_mxonly_2_25u_hotswap_mod
+  oomp_key_full: oomp_footprint_tahutech_tahutech_mxonly_2_25u_hotswap_mod
   oomp_key_simple: tahutech_tahutech_mxonly_2_25u_hotswap_mod
   owner: TahuTech
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: stickit2_hdr_no_drawing
     library_name: xess
+    md5: eb0639c43e112ed72de2988c5457f026
+    md5_10: eb0639c43e
+    md5_5: eb063
+    md5_6: eb0639
+    oomp_key: oomp_xesscorp_xess_stickit2_hdr_no_drawing
+    oomp_key_extra: oomp_footprint_xesscorp_xess_stickit2_hdr_no_drawing
+    oomp_key_full: oomp_footprint_xesscorp_xess_stickit2_hdr_no_drawing_eb0639
+    oomp_key_simple: xesscorp_xess_stickit2_hdr_no_drawing
     original_filename: xess.pretty/STICKIT2_HDR_NO_DRAWING.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_stickit2_hdr_no_drawing
+  oomp_key_full: oomp_footprint_xesscorp_xess_stickit2_hdr_no_drawing
   oomp_key_simple: xesscorp_xess_stickit2_hdr_no_drawing
   owner: xesscorp
   repo:

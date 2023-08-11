@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sw_cherry_mx_pcb_1_25u_90deg
     library_name: switch_keyboard_cherry_mx
+    md5: 859cb03c1b6ec332b285b6ef843cf1ed
+    md5_10: 859cb03c1b
+    md5_5: 859cb
+    md5_6: 859cb0
+    oomp_key: oomp_joanthespark_switch_keyboard_cherry_mx_sw_cherry_mx_pcb_1_25u_90deg
+    oomp_key_extra: oomp_footprint_joanthespark_switch_keyboard_cherry_mx_sw_cherry_mx_pcb_1_25u_90deg
+    oomp_key_full: oomp_footprint_joanthespark_switch_keyboard_cherry_mx_sw_cherry_mx_pcb_1_25u_90deg_859cb0
+    oomp_key_simple: joanthespark_switch_keyboard_cherry_mx_sw_cherry_mx_pcb_1_25u_90deg
     original_filename: KiCAD/6.0/3rdparty/footprints/com_github_perigoso_keyswitch-kicad-library/Switch_Keyboard_Cherry_MX.pretty/SW_Cherry_MX_PCB_1.25u_90deg.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_switch_keyboard_cherry_mx_sw_cherry_mx_pcb_1_25u_90deg
+  oomp_key_full: oomp_footprint_joanthespark_switch_keyboard_cherry_mx_sw_cherry_mx_pcb_1_25u_90deg
   oomp_key_simple: joanthespark_switch_keyboard_cherry_mx_sw_cherry_mx_pcb_1_25u_90deg
   owner: JoanTheSpark
   repo:

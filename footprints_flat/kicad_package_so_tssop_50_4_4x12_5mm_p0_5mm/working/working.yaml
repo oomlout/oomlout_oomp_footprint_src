@@ -18,9 +18,18 @@
   oomp:
     footprint_name: tssop_50_4_4x12_5mm_p0_5mm
     library_name: package_so
+    md5: 7b616a40e6abf5a53c1c05e4bf728d19
+    md5_10: 7b616a40e6
+    md5_5: 7b616
+    md5_6: 7b616a
+    oomp_key: oomp_kicad_package_so_tssop_50_4_4x12_5mm_p0_5mm
+    oomp_key_extra: oomp_footprint_kicad_package_so_tssop_50_4_4x12_5mm_p0_5mm
+    oomp_key_full: oomp_footprint_kicad_package_so_tssop_50_4_4x12_5mm_p0_5mm_7b616a
+    oomp_key_simple: kicad_package_so_tssop_50_4_4x12_5mm_p0_5mm
     original_filename: libraries/kicad-footprints/Package_SO.pretty/TSSOP-50_4.4x12.5mm_P0.5mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_so_tssop_50_4_4x12_5mm_p0_5mm
+  oomp_key_full: oomp_footprint_kicad_package_so_tssop_50_4_4x12_5mm_p0_5mm
   oomp_key_simple: kicad_package_so_tssop_50_4_4x12_5mm_p0_5mm
   owner: kicad
   repo:

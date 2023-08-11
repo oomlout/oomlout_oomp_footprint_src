@@ -17,9 +17,18 @@
   oomp:
     footprint_name: fuse_3ag_clips
     library_name: pth_passive
+    md5: 0f5cf27b0ff92b330fb16e21706723fc
+    md5_10: 0f5cf27b0f
+    md5_5: 0f5cf
+    md5_6: 0f5cf2
+    oomp_key: oomp_cpavlina_pth_passive_fuse_3ag_clips
+    oomp_key_extra: oomp_footprint_cpavlina_pth_passive_fuse_3ag_clips
+    oomp_key_full: oomp_footprint_cpavlina_pth_passive_fuse_3ag_clips_0f5cf2
+    oomp_key_simple: cpavlina_pth_passive_fuse_3ag_clips
     original_filename: kicad-pcblib/pth-passive.pretty/FUSE-3AG-CLIPS.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_pth_passive_fuse_3ag_clips
+  oomp_key_full: oomp_footprint_cpavlina_pth_passive_fuse_3ag_clips
   oomp_key_simple: cpavlina_pth_passive_fuse_3ag_clips
   owner: cpavlina
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: converter_dcdc_cyntec_mun12ad01_sh
     library_name: converter_dcdc
+    md5: 9391af721c0f311620aafa4713a7ec70
+    md5_10: 9391af721c
+    md5_5: 9391a
+    md5_6: 9391af
+    oomp_key: oomp_kicad_converter_dcdc_converter_dcdc_cyntec_mun12ad01_sh
+    oomp_key_extra: oomp_footprint_kicad_converter_dcdc_converter_dcdc_cyntec_mun12ad01_sh
+    oomp_key_full: oomp_footprint_kicad_converter_dcdc_converter_dcdc_cyntec_mun12ad01_sh_9391af
+    oomp_key_simple: kicad_converter_dcdc_converter_dcdc_cyntec_mun12ad01_sh
     original_filename: libraries/kicad-footprints/Converter_DCDC.pretty/Converter_DCDC_Cyntec_MUN12AD01-SH.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_converter_dcdc_converter_dcdc_cyntec_mun12ad01_sh
+  oomp_key_full: oomp_footprint_kicad_converter_dcdc_converter_dcdc_cyntec_mun12ad01_sh
   oomp_key_simple: kicad_converter_dcdc_converter_dcdc_cyntec_mun12ad01_sh
   owner: kicad
   repo:

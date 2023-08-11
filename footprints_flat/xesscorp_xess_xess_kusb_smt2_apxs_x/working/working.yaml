@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_kusb_smt2_apxs_x
     library_name: xess
+    md5: d43e42c6f10f2607fd2d8ed57c1bb02e
+    md5_10: d43e42c6f1
+    md5_5: d43e4
+    md5_6: d43e42
+    oomp_key: oomp_xesscorp_xess_xess_kusb_smt2_apxs_x
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_kusb_smt2_apxs_x
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_kusb_smt2_apxs_x_d43e42
+    oomp_key_simple: xesscorp_xess_xess_kusb_smt2_apxs_x
     original_filename: xess.pretty/xess-KUSB_SMT2_APXS_X.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_kusb_smt2_apxs_x
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_kusb_smt2_apxs_x
   oomp_key_simple: xesscorp_xess_xess_kusb_smt2_apxs_x
   owner: xesscorp
   repo:

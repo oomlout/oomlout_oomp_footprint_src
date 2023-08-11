@@ -18,9 +18,18 @@
   oomp:
     footprint_name: dip_20_w7_62mm_smdsocket_smallpads
     library_name: package_dip
+    md5: bd82c32416d5773659c4b229b48466b9
+    md5_10: bd82c32416
+    md5_5: bd82c
+    md5_6: bd82c3
+    oomp_key: oomp_kicad_package_dip_dip_20_w7_62mm_smdsocket_smallpads
+    oomp_key_extra: oomp_footprint_kicad_package_dip_dip_20_w7_62mm_smdsocket_smallpads
+    oomp_key_full: oomp_footprint_kicad_package_dip_dip_20_w7_62mm_smdsocket_smallpads_bd82c3
+    oomp_key_simple: kicad_package_dip_dip_20_w7_62mm_smdsocket_smallpads
     original_filename: libraries/kicad-footprints/Package_DIP.pretty/DIP-20_W7.62mm_SMDSocket_SmallPads.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_dip_dip_20_w7_62mm_smdsocket_smallpads
+  oomp_key_full: oomp_footprint_kicad_package_dip_dip_20_w7_62mm_smdsocket_smallpads
   oomp_key_simple: kicad_package_dip_dip_20_w7_62mm_smdsocket_smallpads
   owner: kicad
   repo:

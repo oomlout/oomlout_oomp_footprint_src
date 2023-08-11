@@ -17,9 +17,18 @@
   oomp:
     footprint_name: s7b_eh
     library_name: agg
+    md5: 3bd1907902504521ca1f45c9a550918e
+    md5_10: 3bd1907902
+    md5_5: 3bd19
+    md5_6: 3bd190
+    oomp_key: oomp_adamgreig_agg_s7b_eh
+    oomp_key_extra: oomp_footprint_adamgreig_agg_s7b_eh
+    oomp_key_full: oomp_footprint_adamgreig_agg_s7b_eh_3bd190
+    oomp_key_simple: adamgreig_agg_s7b_eh
     original_filename: agg-kicad/agg.pretty/S7B-EH.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_s7b_eh
+  oomp_key_full: oomp_footprint_adamgreig_agg_s7b_eh
   oomp_key_simple: adamgreig_agg_s7b_eh
   owner: adamgreig
   repo:

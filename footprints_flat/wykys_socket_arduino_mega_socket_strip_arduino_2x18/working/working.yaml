@@ -17,9 +17,18 @@
   oomp:
     footprint_name: socket_strip_arduino_2x18
     library_name: socket_arduino_mega
+    md5: 85969db96f3bb420a4853980dda998f7
+    md5_10: 85969db96f
+    md5_5: '85969'
+    md5_6: 85969d
+    oomp_key: oomp_wykys_socket_arduino_mega_socket_strip_arduino_2x18
+    oomp_key_extra: oomp_footprint_wykys_socket_arduino_mega_socket_strip_arduino_2x18
+    oomp_key_full: oomp_footprint_wykys_socket_arduino_mega_socket_strip_arduino_2x18_85969d
+    oomp_key_simple: wykys_socket_arduino_mega_socket_strip_arduino_2x18
     original_filename: kicad/Arduino_Mega_433Mhz_Shield/Socket_Arduino_Mega.pretty/Socket_Strip_Arduino_2x18.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_socket_arduino_mega_socket_strip_arduino_2x18
+  oomp_key_full: oomp_footprint_wykys_socket_arduino_mega_socket_strip_arduino_2x18
   oomp_key_simple: wykys_socket_arduino_mega_socket_strip_arduino_2x18
   owner: wykys
   repo:

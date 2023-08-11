@@ -17,9 +17,18 @@
   oomp:
     footprint_name: usb_micro_b_molex_105133_0031
     library_name: connector_usb
+    md5: cfcb54fa5b01a4148c66d739fb47265d
+    md5_10: cfcb54fa5b
+    md5_5: cfcb5
+    md5_6: cfcb54
+    oomp_key: oomp_kicad_connector_usb_usb_micro_b_molex_105133_0031
+    oomp_key_extra: oomp_footprint_kicad_connector_usb_usb_micro_b_molex_105133_0031
+    oomp_key_full: oomp_footprint_kicad_connector_usb_usb_micro_b_molex_105133_0031_cfcb54
+    oomp_key_simple: kicad_connector_usb_usb_micro_b_molex_105133_0031
     original_filename: libraries/kicad-footprints/Connector_USB.pretty/USB_Micro-B_Molex-105133-0031.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_usb_usb_micro_b_molex_105133_0031
+  oomp_key_full: oomp_footprint_kicad_connector_usb_usb_micro_b_molex_105133_0031
   oomp_key_simple: kicad_connector_usb_usb_micro_b_molex_105133_0031
   owner: kicad
   repo:

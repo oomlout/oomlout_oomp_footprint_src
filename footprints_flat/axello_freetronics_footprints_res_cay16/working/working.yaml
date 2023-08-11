@@ -17,9 +17,18 @@
   oomp:
     footprint_name: res_cay16
     library_name: freetronics_footprints
+    md5: fc028b9420035fd9759ae394c82e6645
+    md5_10: fc028b9420
+    md5_5: fc028
+    md5_6: fc028b
+    oomp_key: oomp_axello_freetronics_footprints_res_cay16
+    oomp_key_extra: oomp_footprint_axello_freetronics_footprints_res_cay16
+    oomp_key_full: oomp_footprint_axello_freetronics_footprints_res_cay16_fc028b
+    oomp_key_simple: axello_freetronics_footprints_res_cay16
     original_filename: kicad/mods/freetronics_footprints.pretty/RES_CAY16.kicad_mod
     owner_name: axello
   oomp_key: oomp_axello_freetronics_footprints_res_cay16
+  oomp_key_full: oomp_footprint_axello_freetronics_footprints_res_cay16
   oomp_key_simple: axello_freetronics_footprints_res_cay16
   owner: axello
   repo:

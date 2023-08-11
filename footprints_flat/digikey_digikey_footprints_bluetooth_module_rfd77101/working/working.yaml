@@ -17,9 +17,18 @@
   oomp:
     footprint_name: bluetooth_module_rfd77101
     library_name: digikey_footprints
+    md5: 1a3de652818ad5a73387aca4027ab5f6
+    md5_10: 1a3de65281
+    md5_5: 1a3de
+    md5_6: 1a3de6
+    oomp_key: oomp_digikey_digikey_footprints_bluetooth_module_rfd77101
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_bluetooth_module_rfd77101
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_bluetooth_module_rfd77101_1a3de6
+    oomp_key_simple: digikey_digikey_footprints_bluetooth_module_rfd77101
     original_filename: digikey-kicad-library/digikey-footprints.pretty/Bluetooth_Module_RFD77101.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_bluetooth_module_rfd77101
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_bluetooth_module_rfd77101
   oomp_key_simple: digikey_digikey_footprints_bluetooth_module_rfd77101
   owner: digikey
   repo:

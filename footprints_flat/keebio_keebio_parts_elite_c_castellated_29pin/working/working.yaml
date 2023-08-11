@@ -17,9 +17,18 @@
   oomp:
     footprint_name: elite_c_castellated_29pin
     library_name: keebio_parts
+    md5: 69d6d1e6985a2ca393cb0f4b3bb3f50a
+    md5_10: 69d6d1e698
+    md5_5: 69d6d
+    md5_6: 69d6d1
+    oomp_key: oomp_keebio_keebio_parts_elite_c_castellated_29pin
+    oomp_key_extra: oomp_footprint_keebio_keebio_parts_elite_c_castellated_29pin
+    oomp_key_full: oomp_footprint_keebio_keebio_parts_elite_c_castellated_29pin_69d6d1
+    oomp_key_simple: keebio_keebio_parts_elite_c_castellated_29pin
     original_filename: Keebio-Parts.pretty/Elite-C-castellated-29pin.kicad_mod
     owner_name: keebio
   oomp_key: oomp_keebio_keebio_parts_elite_c_castellated_29pin
+  oomp_key_full: oomp_footprint_keebio_keebio_parts_elite_c_castellated_29pin
   oomp_key_simple: keebio_keebio_parts_elite_c_castellated_29pin
   owner: keebio
   repo:

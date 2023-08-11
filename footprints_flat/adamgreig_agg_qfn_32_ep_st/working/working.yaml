@@ -17,9 +17,18 @@
   oomp:
     footprint_name: qfn_32_ep_st
     library_name: agg
+    md5: 32573c7dced970c2fd325886e7aef0b7
+    md5_10: 32573c7dce
+    md5_5: '32573'
+    md5_6: 32573c
+    oomp_key: oomp_adamgreig_agg_qfn_32_ep_st
+    oomp_key_extra: oomp_footprint_adamgreig_agg_qfn_32_ep_st
+    oomp_key_full: oomp_footprint_adamgreig_agg_qfn_32_ep_st_32573c
+    oomp_key_simple: adamgreig_agg_qfn_32_ep_st
     original_filename: agg-kicad/agg.pretty/QFN-32-EP-ST.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_qfn_32_ep_st
+  oomp_key_full: oomp_footprint_adamgreig_agg_qfn_32_ep_st
   oomp_key_simple: adamgreig_agg_qfn_32_ep_st
   owner: adamgreig
   repo:

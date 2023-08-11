@@ -17,9 +17,18 @@
   oomp:
     footprint_name: soic_24_w
     library_name: agg
+    md5: 616839e84b26950dc509e564ac642d99
+    md5_10: 616839e84b
+    md5_5: '61683'
+    md5_6: '616839'
+    oomp_key: oomp_adamgreig_agg_soic_24_w
+    oomp_key_extra: oomp_footprint_adamgreig_agg_soic_24_w
+    oomp_key_full: oomp_footprint_adamgreig_agg_soic_24_w_616839
+    oomp_key_simple: adamgreig_agg_soic_24_w
     original_filename: agg-kicad/agg.pretty/SOIC-24-W.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_soic_24_w
+  oomp_key_full: oomp_footprint_adamgreig_agg_soic_24_w
   oomp_key_simple: adamgreig_agg_soic_24_w
   owner: adamgreig
   repo:

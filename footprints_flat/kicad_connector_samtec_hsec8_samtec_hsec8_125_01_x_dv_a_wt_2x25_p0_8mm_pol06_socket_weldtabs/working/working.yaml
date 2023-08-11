@@ -18,9 +18,18 @@
   oomp:
     footprint_name: samtec_hsec8_125_01_x_dv_a_wt_2x25_p0_8mm_pol06_socket_weldtabs
     library_name: connector_samtec_hsec8
+    md5: db0f9edca637a9ef8ad2c01e12a4c2b2
+    md5_10: db0f9edca6
+    md5_5: db0f9
+    md5_6: db0f9e
+    oomp_key: oomp_kicad_connector_samtec_hsec8_samtec_hsec8_125_01_x_dv_a_wt_2x25_p0_8mm_pol06_socket_weldtabs
+    oomp_key_extra: oomp_footprint_kicad_connector_samtec_hsec8_samtec_hsec8_125_01_x_dv_a_wt_2x25_p0_8mm_pol06_socket_weldtabs
+    oomp_key_full: oomp_footprint_kicad_connector_samtec_hsec8_samtec_hsec8_125_01_x_dv_a_wt_2x25_p0_8mm_pol06_socket_weldtabs_db0f9e
+    oomp_key_simple: kicad_connector_samtec_hsec8_samtec_hsec8_125_01_x_dv_a_wt_2x25_p0_8mm_pol06_socket_weldtabs
     original_filename: libraries/kicad-footprints/Connector_Samtec_HSEC8.pretty/Samtec_HSEC8-125-01-X-DV-A-WT_2x25_P0.8mm_Pol06_Socket_WeldTabs.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_samtec_hsec8_samtec_hsec8_125_01_x_dv_a_wt_2x25_p0_8mm_pol06_socket_weldtabs
+  oomp_key_full: oomp_footprint_kicad_connector_samtec_hsec8_samtec_hsec8_125_01_x_dv_a_wt_2x25_p0_8mm_pol06_socket_weldtabs
   oomp_key_simple: kicad_connector_samtec_hsec8_samtec_hsec8_125_01_x_dv_a_wt_2x25_p0_8mm_pol06_socket_weldtabs
   owner: kicad
   repo:

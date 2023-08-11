@@ -18,9 +18,18 @@
   oomp:
     footprint_name: qfn80p800x800x80_33w
     library_name: ipc7351_least
+    md5: b0bfc38334e2fea1c62e874f1879c9e6
+    md5_10: b0bfc38334
+    md5_5: b0bfc
+    md5_6: b0bfc3
+    oomp_key: oomp_cpavlina_ipc7351_least_qfn80p800x800x80_33w
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_least_qfn80p800x800x80_33w
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_least_qfn80p800x800x80_33w_b0bfc3
+    oomp_key_simple: cpavlina_ipc7351_least_qfn80p800x800x80_33w
     original_filename: kicad-pcblib/IPC7351-Least.pretty/QFN80P800X800X80-33W.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_least_qfn80p800x800x80_33w
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_least_qfn80p800x800x80_33w
   oomp_key_simple: cpavlina_ipc7351_least_qfn80p800x800x80_33w
   owner: cpavlina
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: molex_picoblade_4_edge
     library_name: _connectors
+    md5: 7fe718bf1503063254e3ef3c8b70851d
+    md5_10: 7fe718bf15
+    md5_5: 7fe71
+    md5_6: 7fe718
+    oomp_key: oomp_mcous_connectors_molex_picoblade_4_edge
+    oomp_key_extra: oomp_footprint_mcous_connectors_molex_picoblade_4_edge
+    oomp_key_full: oomp_footprint_mcous_connectors_molex_picoblade_4_edge_7fe718
+    oomp_key_simple: mcous_connectors_molex_picoblade_4_edge
     original_filename: kicad-lib/footprints/_connectors.pretty/Molex-PicoBlade-4-Edge.kicad_mod
     owner_name: mcous
   oomp_key: oomp_mcous_connectors_molex_picoblade_4_edge
+  oomp_key_full: oomp_footprint_mcous_connectors_molex_picoblade_4_edge
   oomp_key_simple: mcous_connectors_molex_picoblade_4_edge
   owner: mcous
   repo:

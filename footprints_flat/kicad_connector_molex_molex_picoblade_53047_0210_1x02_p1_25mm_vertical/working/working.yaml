@@ -18,9 +18,18 @@
   oomp:
     footprint_name: molex_picoblade_53047_0210_1x02_p1_25mm_vertical
     library_name: connector_molex
+    md5: 725cdf6c870e41bf79fd19674d538a96
+    md5_10: 725cdf6c87
+    md5_5: 725cd
+    md5_6: 725cdf
+    oomp_key: oomp_kicad_connector_molex_molex_picoblade_53047_0210_1x02_p1_25mm_vertical
+    oomp_key_extra: oomp_footprint_kicad_connector_molex_molex_picoblade_53047_0210_1x02_p1_25mm_vertical
+    oomp_key_full: oomp_footprint_kicad_connector_molex_molex_picoblade_53047_0210_1x02_p1_25mm_vertical_725cdf
+    oomp_key_simple: kicad_connector_molex_molex_picoblade_53047_0210_1x02_p1_25mm_vertical
     original_filename: libraries/kicad-footprints/Connector_Molex.pretty/Molex_PicoBlade_53047-0210_1x02_P1.25mm_Vertical.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_molex_molex_picoblade_53047_0210_1x02_p1_25mm_vertical
+  oomp_key_full: oomp_footprint_kicad_connector_molex_molex_picoblade_53047_0210_1x02_p1_25mm_vertical
   oomp_key_simple: kicad_connector_molex_molex_picoblade_53047_0210_1x02_p1_25mm_vertical
   owner: kicad
   repo:

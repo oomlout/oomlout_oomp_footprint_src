@@ -17,9 +17,18 @@
   oomp:
     footprint_name: filter_mini_circuits_fv1206_6
     library_name: filter
+    md5: caa712868fe06be6e886a3efb94ac7dd
+    md5_10: caa712868f
+    md5_5: caa71
+    md5_6: caa712
+    oomp_key: oomp_kicad_filter_filter_mini_circuits_fv1206_6
+    oomp_key_extra: oomp_footprint_kicad_filter_filter_mini_circuits_fv1206_6
+    oomp_key_full: oomp_footprint_kicad_filter_filter_mini_circuits_fv1206_6_caa712
+    oomp_key_simple: kicad_filter_filter_mini_circuits_fv1206_6
     original_filename: libraries/kicad-footprints/Filter.pretty/Filter_Mini-Circuits_FV1206-6.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_filter_filter_mini_circuits_fv1206_6
+  oomp_key_full: oomp_footprint_kicad_filter_filter_mini_circuits_fv1206_6
   oomp_key_simple: kicad_filter_filter_mini_circuits_fv1206_6
   owner: kicad
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: l_bourns_srn6045ta
     library_name: inductor_smd
+    md5: f9d1a2104aba04013a927ba17fd3f8e8
+    md5_10: f9d1a2104a
+    md5_5: f9d1a
+    md5_6: f9d1a2
+    oomp_key: oomp_kicad_inductor_smd_l_bourns_srn6045ta
+    oomp_key_extra: oomp_footprint_kicad_inductor_smd_l_bourns_srn6045ta
+    oomp_key_full: oomp_footprint_kicad_inductor_smd_l_bourns_srn6045ta_f9d1a2
+    oomp_key_simple: kicad_inductor_smd_l_bourns_srn6045ta
     original_filename: libraries/kicad-footprints/Inductor_SMD.pretty/L_Bourns_SRN6045TA.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_inductor_smd_l_bourns_srn6045ta
+  oomp_key_full: oomp_footprint_kicad_inductor_smd_l_bourns_srn6045ta
   oomp_key_simple: kicad_inductor_smd_l_bourns_srn6045ta
   owner: kicad
   repo:

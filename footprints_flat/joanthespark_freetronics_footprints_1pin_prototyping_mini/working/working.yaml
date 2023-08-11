@@ -17,9 +17,18 @@
   oomp:
     footprint_name: 1pin_prototyping_mini
     library_name: freetronics_footprints
+    md5: 3ae5df3606ba0a17602bcfbdfbc2adb5
+    md5_10: 3ae5df3606
+    md5_5: 3ae5d
+    md5_6: 3ae5df
+    oomp_key: oomp_joanthespark_freetronics_footprints_1pin_prototyping_mini
+    oomp_key_extra: oomp_footprint_joanthespark_freetronics_footprints_1pin_prototyping_mini
+    oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_1pin_prototyping_mini_3ae5df
+    oomp_key_simple: joanthespark_freetronics_footprints_1pin_prototyping_mini
     original_filename: KiCAD/mods/freetronics_footprints.pretty/1pin_prototyping_mini.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_freetronics_footprints_1pin_prototyping_mini
+  oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_1pin_prototyping_mini
   oomp_key_simple: joanthespark_freetronics_footprints_1pin_prototyping_mini
   owner: JoanTheSpark
   repo:

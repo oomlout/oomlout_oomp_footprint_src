@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_qsmd
     library_name: xess
+    md5: c922845465d2055da2d746c4fc473b81
+    md5_10: c922845465
+    md5_5: c9228
+    md5_6: c92284
+    oomp_key: oomp_xesscorp_xess_xess_qsmd
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_qsmd
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_qsmd_c92284
+    oomp_key_simple: xesscorp_xess_xess_qsmd
     original_filename: xess.pretty/xess-QSMD.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_qsmd
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_qsmd
   oomp_key_simple: xesscorp_xess_xess_qsmd
   owner: xesscorp
   repo:

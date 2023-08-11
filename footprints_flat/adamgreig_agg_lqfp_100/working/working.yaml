@@ -17,9 +17,18 @@
   oomp:
     footprint_name: lqfp_100
     library_name: agg
+    md5: 795491dc5a886ca3cac0ac700ace27d5
+    md5_10: 795491dc5a
+    md5_5: '79549'
+    md5_6: '795491'
+    oomp_key: oomp_adamgreig_agg_lqfp_100
+    oomp_key_extra: oomp_footprint_adamgreig_agg_lqfp_100
+    oomp_key_full: oomp_footprint_adamgreig_agg_lqfp_100_795491
+    oomp_key_simple: adamgreig_agg_lqfp_100
     original_filename: agg-kicad/agg.pretty/LQFP-100.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_lqfp_100
+  oomp_key_full: oomp_footprint_adamgreig_agg_lqfp_100
   oomp_key_simple: adamgreig_agg_lqfp_100
   owner: adamgreig
   repo:

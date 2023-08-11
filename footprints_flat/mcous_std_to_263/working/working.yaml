@@ -17,9 +17,18 @@
   oomp:
     footprint_name: to_263
     library_name: _std
+    md5: 8bf5f8b0155649ab3af94599e5567fa9
+    md5_10: 8bf5f8b015
+    md5_5: 8bf5f
+    md5_6: 8bf5f8
+    oomp_key: oomp_mcous_std_to_263
+    oomp_key_extra: oomp_footprint_mcous_std_to_263
+    oomp_key_full: oomp_footprint_mcous_std_to_263_8bf5f8
+    oomp_key_simple: mcous_std_to_263
     original_filename: kicad-lib/footprints/_std.pretty/TO-263.kicad_mod
     owner_name: mcous
   oomp_key: oomp_mcous_std_to_263
+  oomp_key_full: oomp_footprint_mcous_std_to_263
   oomp_key_simple: mcous_std_to_263
   owner: mcous
   repo:

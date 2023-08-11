@@ -17,9 +17,18 @@
   oomp:
     footprint_name: icl_tht_p7_8mm
     library_name: digikey_footprints
+    md5: 75b2f9ef1c82f418dc09fdb2028289b1
+    md5_10: 75b2f9ef1c
+    md5_5: 75b2f
+    md5_6: 75b2f9
+    oomp_key: oomp_digikey_digikey_footprints_icl_tht_p7_8mm
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_icl_tht_p7_8mm
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_icl_tht_p7_8mm_75b2f9
+    oomp_key_simple: digikey_digikey_footprints_icl_tht_p7_8mm
     original_filename: digikey-kicad-library/digikey-footprints.pretty/ICL_THT_P7.8mm.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_icl_tht_p7_8mm
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_icl_tht_p7_8mm
   oomp_key_simple: digikey_digikey_footprints_icl_tht_p7_8mm
   owner: digikey
   repo:

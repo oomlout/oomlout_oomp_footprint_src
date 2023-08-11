@@ -18,9 +18,18 @@
   oomp:
     footprint_name: son50p200x300x80_9wecd1
     library_name: ipc7351_least
+    md5: 704e597a17dc276eada30cc479c80704
+    md5_10: 704e597a17
+    md5_5: 704e5
+    md5_6: 704e59
+    oomp_key: oomp_cpavlina_ipc7351_least_son50p200x300x80_9wecd1
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_least_son50p200x300x80_9wecd1
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_least_son50p200x300x80_9wecd1_704e59
+    oomp_key_simple: cpavlina_ipc7351_least_son50p200x300x80_9wecd1
     original_filename: kicad-pcblib/IPC7351-Least.pretty/SON50P200X300X80-9WECD1.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_least_son50p200x300x80_9wecd1
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_least_son50p200x300x80_9wecd1
   oomp_key_simple: cpavlina_ipc7351_least_son50p200x300x80_9wecd1
   owner: cpavlina
   repo:

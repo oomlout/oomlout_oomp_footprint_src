@@ -16,10 +16,19 @@
   name: MX_Alps_Hybrid.pretty
   oomp:
     footprint_name: mxonly_iso_rotated_hotswap
-    library_name: mx_only
+    library_name: mx_alps_hybrid
+    md5: b84a06830e62fc0f4db96160e56eaae8
+    md5_10: b84a06830e
+    md5_5: b84a0
+    md5_6: b84a06
+    oomp_key: oomp_ai03_2725_mx_alps_hybrid_mxonly_iso_rotated_hotswap
+    oomp_key_extra: oomp_footprint_ai03_2725_mx_alps_hybrid_mxonly_iso_rotated_hotswap
+    oomp_key_full: oomp_footprint_ai03_2725_mx_alps_hybrid_mxonly_iso_rotated_hotswap_b84a06
+    oomp_key_simple: ai03_2725_mx_alps_hybrid_mxonly_iso_rotated_hotswap
     original_filename: MX_Alps_Hybrid.pretty/MX_Only.pretty/MXOnly-ISO-ROTATED-Hotswap.kicad_mod
     owner_name: ai03_2725
   oomp_key: oomp_ai03_2725_mx_alps_hybrid_mxonly_iso_rotated_hotswap
+  oomp_key_full: oomp_footprint_ai03_2725_mx_alps_hybrid_mxonly_iso_rotated_hotswap
   oomp_key_simple: ai03_2725_mx_alps_hybrid_mxonly_iso_rotated_hotswap
   owner: ai03-2725
   repo:

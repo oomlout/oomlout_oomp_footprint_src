@@ -17,9 +17,18 @@
   oomp:
     footprint_name: lem_lv25_p
     library_name: sensor_voltage
+    md5: fa2a9202470b4102f7ff8a0c7d540e1b
+    md5_10: fa2a920247
+    md5_5: fa2a9
+    md5_6: fa2a92
+    oomp_key: oomp_kicad_sensor_voltage_lem_lv25_p
+    oomp_key_extra: oomp_footprint_kicad_sensor_voltage_lem_lv25_p
+    oomp_key_full: oomp_footprint_kicad_sensor_voltage_lem_lv25_p_fa2a92
+    oomp_key_simple: kicad_sensor_voltage_lem_lv25_p
     original_filename: libraries/kicad-footprints/Sensor_Voltage.pretty/LEM_LV25-P.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_sensor_voltage_lem_lv25_p
+  oomp_key_full: oomp_footprint_kicad_sensor_voltage_lem_lv25_p
   oomp_key_simple: kicad_sensor_voltage_lem_lv25_p
   owner: kicad
   repo:

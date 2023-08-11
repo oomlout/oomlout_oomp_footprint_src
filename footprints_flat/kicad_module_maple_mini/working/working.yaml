@@ -17,9 +17,18 @@
   oomp:
     footprint_name: maple_mini
     library_name: module
+    md5: 3026389056bff4730c58e5b5858ef13b
+    md5_10: '3026389056'
+    md5_5: '30263'
+    md5_6: '302638'
+    oomp_key: oomp_kicad_module_maple_mini
+    oomp_key_extra: oomp_footprint_kicad_module_maple_mini
+    oomp_key_full: oomp_footprint_kicad_module_maple_mini_302638
+    oomp_key_simple: kicad_module_maple_mini
     original_filename: libraries/kicad-footprints/Module.pretty/Maple_Mini.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_module_maple_mini
+  oomp_key_full: oomp_footprint_kicad_module_maple_mini
   oomp_key_simple: kicad_module_maple_mini
   owner: kicad
   repo:

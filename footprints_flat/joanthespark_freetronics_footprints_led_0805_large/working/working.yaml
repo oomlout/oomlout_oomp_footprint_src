@@ -17,9 +17,18 @@
   oomp:
     footprint_name: led_0805_large
     library_name: freetronics_footprints
+    md5: 62afee173951bd3dc5826ccc110cd576
+    md5_10: 62afee1739
+    md5_5: 62afe
+    md5_6: 62afee
+    oomp_key: oomp_joanthespark_freetronics_footprints_led_0805_large
+    oomp_key_extra: oomp_footprint_joanthespark_freetronics_footprints_led_0805_large
+    oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_led_0805_large_62afee
+    oomp_key_simple: joanthespark_freetronics_footprints_led_0805_large
     original_filename: KiCAD/mods/freetronics_footprints.pretty/LED-0805-LARGE.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_freetronics_footprints_led_0805_large
+  oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_led_0805_large
   oomp_key_simple: joanthespark_freetronics_footprints_led_0805_large
   owner: JoanTheSpark
   repo:

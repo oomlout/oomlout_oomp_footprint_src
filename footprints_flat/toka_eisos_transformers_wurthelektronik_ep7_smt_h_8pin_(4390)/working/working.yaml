@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ep7_smt_h_8pin_(4390)
     library_name: transformers_wurthelektronik
+    md5: aead33ead8cf0f1a618794993c6590e5
+    md5_10: aead33ead8
+    md5_5: aead3
+    md5_6: aead33
+    oomp_key: oomp_toka_eisos_transformers_wurthelektronik_ep7_smt_h_8pin_(4390)
+    oomp_key_extra: oomp_footprint_toka_eisos_transformers_wurthelektronik_ep7_smt_h_8pin_(4390)
+    oomp_key_full: oomp_footprint_toka_eisos_transformers_wurthelektronik_ep7_smt_h_8pin_(4390)_aead33
+    oomp_key_simple: toka_eisos_transformers_wurthelektronik_ep7_smt_h_8pin_(4390)
     original_filename: Transformers_WurthElektronik.pretty/EP7_SMT_H_8PIN_(4390).kicad_mod
     owner_name: toka_eisos
   oomp_key: oomp_toka_eisos_transformers_wurthelektronik_ep7_smt_h_8pin_(4390)
+  oomp_key_full: oomp_footprint_toka_eisos_transformers_wurthelektronik_ep7_smt_h_8pin_(4390)
   oomp_key_simple: toka_eisos_transformers_wurthelektronik_ep7_smt_h_8pin_(4390)
   owner: toka-eisos
   repo:

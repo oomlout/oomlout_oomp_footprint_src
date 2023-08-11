@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sot_23_6
     library_name: xess
+    md5: ec5d1d6dbe763abed9d7a5b6a858b84f
+    md5_10: ec5d1d6dbe
+    md5_5: ec5d1
+    md5_6: ec5d1d
+    oomp_key: oomp_xesscorp_xess_sot_23_6
+    oomp_key_extra: oomp_footprint_xesscorp_xess_sot_23_6
+    oomp_key_full: oomp_footprint_xesscorp_xess_sot_23_6_ec5d1d
+    oomp_key_simple: xesscorp_xess_sot_23_6
     original_filename: xess.pretty/SOT-23-6.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_sot_23_6
+  oomp_key_full: oomp_footprint_xesscorp_xess_sot_23_6
   oomp_key_simple: xesscorp_xess_sot_23_6
   owner: xesscorp
   repo:

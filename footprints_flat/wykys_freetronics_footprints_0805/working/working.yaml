@@ -14,9 +14,18 @@
   oomp:
     footprint_name: 0805
     library_name: freetronics_footprints
+    md5: b6948eaf6b64438bbc295e6b00bf1313
+    md5_10: b6948eaf6b
+    md5_5: b6948
+    md5_6: b6948e
+    oomp_key: oomp_wykys_freetronics_footprints_0805
+    oomp_key_extra: oomp_footprint_wykys_freetronics_footprints_0805
+    oomp_key_full: oomp_footprint_wykys_freetronics_footprints_0805_b6948e
+    oomp_key_simple: wykys_freetronics_footprints_0805
     original_filename: kicad/mods/freetronics_footprints.pretty/0805.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_freetronics_footprints_0805
+  oomp_key_full: oomp_footprint_wykys_freetronics_footprints_0805
   oomp_key_simple: wykys_freetronics_footprints_0805
   owner: wykys
   repo:

@@ -18,9 +18,18 @@
   oomp:
     footprint_name: ufbga_169_7x7mm_layout13x13_p0_5mm
     library_name: package_bga
+    md5: 7acaf67650002e2460fdc5049f4433e0
+    md5_10: 7acaf67650
+    md5_5: 7acaf
+    md5_6: 7acaf6
+    oomp_key: oomp_kicad_package_bga_ufbga_169_7x7mm_layout13x13_p0_5mm
+    oomp_key_extra: oomp_footprint_kicad_package_bga_ufbga_169_7x7mm_layout13x13_p0_5mm
+    oomp_key_full: oomp_footprint_kicad_package_bga_ufbga_169_7x7mm_layout13x13_p0_5mm_7acaf6
+    oomp_key_simple: kicad_package_bga_ufbga_169_7x7mm_layout13x13_p0_5mm
     original_filename: libraries/kicad-footprints/Package_BGA.pretty/UFBGA-169_7x7mm_Layout13x13_P0.5mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_bga_ufbga_169_7x7mm_layout13x13_p0_5mm
+  oomp_key_full: oomp_footprint_kicad_package_bga_ufbga_169_7x7mm_layout13x13_p0_5mm
   oomp_key_simple: kicad_package_bga_ufbga_169_7x7mm_layout13x13_p0_5mm
   owner: kicad
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ux60sc_mb_5st
     library_name: xess
+    md5: 408ae63119e1ad3e328500dc7330b262
+    md5_10: 408ae63119
+    md5_5: 408ae
+    md5_6: 408ae6
+    oomp_key: oomp_xesscorp_xess_ux60sc_mb_5st
+    oomp_key_extra: oomp_footprint_xesscorp_xess_ux60sc_mb_5st
+    oomp_key_full: oomp_footprint_xesscorp_xess_ux60sc_mb_5st_408ae6
+    oomp_key_simple: xesscorp_xess_ux60sc_mb_5st
     original_filename: xess.pretty/UX60SC-MB-5ST.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_ux60sc_mb_5st
+  oomp_key_full: oomp_footprint_xesscorp_xess_ux60sc_mb_5st
   oomp_key_simple: xesscorp_xess_ux60sc_mb_5st
   owner: xesscorp
   repo:

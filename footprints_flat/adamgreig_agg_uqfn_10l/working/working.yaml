@@ -17,9 +17,18 @@
   oomp:
     footprint_name: uqfn_10l
     library_name: agg
+    md5: 288b797b7678bcd95ffaf23ab82016bd
+    md5_10: 288b797b76
+    md5_5: 288b7
+    md5_6: 288b79
+    oomp_key: oomp_adamgreig_agg_uqfn_10l
+    oomp_key_extra: oomp_footprint_adamgreig_agg_uqfn_10l
+    oomp_key_full: oomp_footprint_adamgreig_agg_uqfn_10l_288b79
+    oomp_key_simple: adamgreig_agg_uqfn_10l
     original_filename: agg-kicad/agg.pretty/uQFN-10L.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_uqfn_10l
+  oomp_key_full: oomp_footprint_adamgreig_agg_uqfn_10l
   oomp_key_simple: adamgreig_agg_uqfn_10l
   owner: adamgreig
   repo:

@@ -18,9 +18,18 @@
   oomp:
     footprint_name: sw_mx_tht
     library_name: key_switches
+    md5: 0ee3330b422fedaa768b5bafe9260bdc
+    md5_10: 0ee3330b42
+    md5_5: 0ee33
+    md5_6: 0ee333
+    oomp_key: oomp_ziteh_key_switches_sw_mx_tht
+    oomp_key_extra: oomp_footprint_ziteh_key_switches_sw_mx_tht
+    oomp_key_full: oomp_footprint_ziteh_key_switches_sw_mx_tht_0ee333
+    oomp_key_simple: ziteh_key_switches_sw_mx_tht
     original_filename: key-switches.pretty/SW_MX_THT.kicad_mod
     owner_name: ziteh
   oomp_key: oomp_ziteh_key_switches_sw_mx_tht
+  oomp_key_full: oomp_footprint_ziteh_key_switches_sw_mx_tht
   oomp_key_simple: ziteh_key_switches_sw_mx_tht
   owner: ziteh
   repo:

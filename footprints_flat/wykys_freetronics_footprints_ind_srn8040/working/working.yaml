@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ind_srn8040
     library_name: freetronics_footprints
+    md5: 8d62233bd84cb67baaa961e93f916f51
+    md5_10: 8d62233bd8
+    md5_5: 8d622
+    md5_6: 8d6223
+    oomp_key: oomp_wykys_freetronics_footprints_ind_srn8040
+    oomp_key_extra: oomp_footprint_wykys_freetronics_footprints_ind_srn8040
+    oomp_key_full: oomp_footprint_wykys_freetronics_footprints_ind_srn8040_8d6223
+    oomp_key_simple: wykys_freetronics_footprints_ind_srn8040
     original_filename: kicad/mods/freetronics_footprints.pretty/IND_SRN8040.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_freetronics_footprints_ind_srn8040
+  oomp_key_full: oomp_footprint_wykys_freetronics_footprints_ind_srn8040
   oomp_key_simple: wykys_freetronics_footprints_ind_srn8040
   owner: wykys
   repo:

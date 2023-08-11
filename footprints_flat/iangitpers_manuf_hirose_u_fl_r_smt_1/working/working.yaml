@@ -19,9 +19,18 @@
   oomp:
     footprint_name: hirose_u_fl_r_smt_1
     library_name: manuf
+    md5: b061bb45573e6972a9de2bdb15306546
+    md5_10: b061bb4557
+    md5_5: b061b
+    md5_6: b061bb
+    oomp_key: oomp_iangitpers_manuf_hirose_u_fl_r_smt_1
+    oomp_key_extra: oomp_footprint_iangitpers_manuf_hirose_u_fl_r_smt_1
+    oomp_key_full: oomp_footprint_iangitpers_manuf_hirose_u_fl_r_smt_1_b061bb
+    oomp_key_simple: iangitpers_manuf_hirose_u_fl_r_smt_1
     original_filename: 4a/manuf.pretty/HIROSE_U.FL-R-SMT-1.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_manuf_hirose_u_fl_r_smt_1
+  oomp_key_full: oomp_footprint_iangitpers_manuf_hirose_u_fl_r_smt_1
   oomp_key_simple: iangitpers_manuf_hirose_u_fl_r_smt_1
   owner: Iangitpers
   repo:

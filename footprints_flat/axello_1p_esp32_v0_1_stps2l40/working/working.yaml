@@ -17,9 +17,18 @@
   oomp:
     footprint_name: stps2l40
     library_name: 1p_esp32_v0_1
+    md5: 47a9e35f06507fbed6f7a3b254cc1c88
+    md5_10: 47a9e35f06
+    md5_5: 47a9e
+    md5_6: 47a9e3
+    oomp_key: oomp_axello_1p_esp32_v0_1_stps2l40
+    oomp_key_extra: oomp_footprint_axello_1p_esp32_v0_1_stps2l40
+    oomp_key_full: oomp_footprint_axello_1p_esp32_v0_1_stps2l40_47a9e3
+    oomp_key_simple: axello_1p_esp32_v0_1_stps2l40
     original_filename: kicad/6.0/projects/1w-grove-v0.1/1p-esp32-v0.1.pretty/STPS2L40.kicad_mod
     owner_name: axello
   oomp_key: oomp_axello_1p_esp32_v0_1_stps2l40
+  oomp_key_full: oomp_footprint_axello_1p_esp32_v0_1_stps2l40
   oomp_key_simple: axello_1p_esp32_v0_1_stps2l40
   owner: axello
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: test_pth
     library_name: conn_test
+    md5: 33e9910835e1ee595a055a2a85cbc15c
+    md5_10: 33e9910835
+    md5_5: 33e99
+    md5_6: 33e991
+    oomp_key: oomp_cpavlina_conn_test_test_pth
+    oomp_key_extra: oomp_footprint_cpavlina_conn_test_test_pth
+    oomp_key_full: oomp_footprint_cpavlina_conn_test_test_pth_33e991
+    oomp_key_simple: cpavlina_conn_test_test_pth
     original_filename: kicad-pcblib/conn-test.pretty/TEST-PTH.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_conn_test_test_pth
+  oomp_key_full: oomp_footprint_cpavlina_conn_test_test_pth
   oomp_key_simple: cpavlina_conn_test_test_pth
   owner: cpavlina
   repo:

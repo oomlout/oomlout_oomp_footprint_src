@@ -17,9 +17,18 @@
   oomp:
     footprint_name: top_3_vertical_insulated
     library_name: digikey_footprints
+    md5: cb833aedebde2d964407a9371dd50752
+    md5_10: cb833aedeb
+    md5_5: cb833
+    md5_6: cb833a
+    oomp_key: oomp_digikey_digikey_footprints_top_3_vertical_insulated
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_top_3_vertical_insulated
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_top_3_vertical_insulated_cb833a
+    oomp_key_simple: digikey_digikey_footprints_top_3_vertical_insulated
     original_filename: digikey-kicad-library/digikey-footprints.pretty/TOP-3_Vertical_Insulated.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_top_3_vertical_insulated
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_top_3_vertical_insulated
   oomp_key_simple: digikey_digikey_footprints_top_3_vertical_insulated
   owner: digikey
   repo:

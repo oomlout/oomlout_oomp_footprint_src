@@ -17,9 +17,18 @@
   oomp:
     footprint_name: infineon_pg_tson_8_1_1ep_3x3mm
     library_name: primarypoints
+    md5: 5eb1dd1e1745b2b66868cec45e54cc23
+    md5_10: 5eb1dd1e17
+    md5_5: 5eb1d
+    md5_6: 5eb1dd
+    oomp_key: oomp_zanekaminski_primarypoints_infineon_pg_tson_8_1_1ep_3x3mm
+    oomp_key_extra: oomp_footprint_zanekaminski_primarypoints_infineon_pg_tson_8_1_1ep_3x3mm
+    oomp_key_full: oomp_footprint_zanekaminski_primarypoints_infineon_pg_tson_8_1_1ep_3x3mm_5eb1dd
+    oomp_key_simple: zanekaminski_primarypoints_infineon_pg_tson_8_1_1ep_3x3mm
     original_filename: primarypoints.pretty/Infineon_PG-TSON-8-1-1EP_3x3mm.kicad_mod
     owner_name: zanekaminski
   oomp_key: oomp_zanekaminski_primarypoints_infineon_pg_tson_8_1_1ep_3x3mm
+  oomp_key_full: oomp_footprint_zanekaminski_primarypoints_infineon_pg_tson_8_1_1ep_3x3mm
   oomp_key_simple: zanekaminski_primarypoints_infineon_pg_tson_8_1_1ep_3x3mm
   owner: ZaneKaminski
   repo:

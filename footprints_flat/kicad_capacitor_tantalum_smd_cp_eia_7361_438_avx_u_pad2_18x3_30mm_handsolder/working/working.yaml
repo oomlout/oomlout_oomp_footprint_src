@@ -18,9 +18,18 @@
   oomp:
     footprint_name: cp_eia_7361_438_avx_u_pad2_18x3_30mm_handsolder
     library_name: capacitor_tantalum_smd
+    md5: f1ce66ce38e48de8c41260a5a3a55cf3
+    md5_10: f1ce66ce38
+    md5_5: f1ce6
+    md5_6: f1ce66
+    oomp_key: oomp_kicad_capacitor_tantalum_smd_cp_eia_7361_438_avx_u_pad2_18x3_30mm_handsolder
+    oomp_key_extra: oomp_footprint_kicad_capacitor_tantalum_smd_cp_eia_7361_438_avx_u_pad2_18x3_30mm_handsolder
+    oomp_key_full: oomp_footprint_kicad_capacitor_tantalum_smd_cp_eia_7361_438_avx_u_pad2_18x3_30mm_handsolder_f1ce66
+    oomp_key_simple: kicad_capacitor_tantalum_smd_cp_eia_7361_438_avx_u_pad2_18x3_30mm_handsolder
     original_filename: libraries/kicad-footprints/Capacitor_Tantalum_SMD.pretty/CP_EIA-7361-438_AVX-U_Pad2.18x3.30mm_HandSolder.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_capacitor_tantalum_smd_cp_eia_7361_438_avx_u_pad2_18x3_30mm_handsolder
+  oomp_key_full: oomp_footprint_kicad_capacitor_tantalum_smd_cp_eia_7361_438_avx_u_pad2_18x3_30mm_handsolder
   oomp_key_simple: kicad_capacitor_tantalum_smd_cp_eia_7361_438_avx_u_pad2_18x3_30mm_handsolder
   owner: kicad
   repo:

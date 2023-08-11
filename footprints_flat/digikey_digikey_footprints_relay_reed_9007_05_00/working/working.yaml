@@ -17,9 +17,18 @@
   oomp:
     footprint_name: relay_reed_9007_05_00
     library_name: digikey_footprints
+    md5: c92993422536fe943f2065405402196d
+    md5_10: c929934225
+    md5_5: c9299
+    md5_6: c92993
+    oomp_key: oomp_digikey_digikey_footprints_relay_reed_9007_05_00
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_relay_reed_9007_05_00
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_relay_reed_9007_05_00_c92993
+    oomp_key_simple: digikey_digikey_footprints_relay_reed_9007_05_00
     original_filename: digikey-kicad-library/digikey-footprints.pretty/Relay_Reed_9007-05-00.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_relay_reed_9007_05_00
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_relay_reed_9007_05_00
   oomp_key_simple: digikey_digikey_footprints_relay_reed_9007_05_00
   owner: digikey
   repo:

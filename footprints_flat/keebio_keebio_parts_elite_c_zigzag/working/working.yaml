@@ -17,9 +17,18 @@
   oomp:
     footprint_name: elite_c_zigzag
     library_name: keebio_parts
+    md5: 786eab80c20d0d09fa513d0e2551da7a
+    md5_10: 786eab80c2
+    md5_5: 786ea
+    md5_6: 786eab
+    oomp_key: oomp_keebio_keebio_parts_elite_c_zigzag
+    oomp_key_extra: oomp_footprint_keebio_keebio_parts_elite_c_zigzag
+    oomp_key_full: oomp_footprint_keebio_keebio_parts_elite_c_zigzag_786eab
+    oomp_key_simple: keebio_keebio_parts_elite_c_zigzag
     original_filename: Keebio-Parts.pretty/Elite-C-ZigZag.kicad_mod
     owner_name: keebio
   oomp_key: oomp_keebio_keebio_parts_elite_c_zigzag
+  oomp_key_full: oomp_footprint_keebio_keebio_parts_elite_c_zigzag
   oomp_key_simple: keebio_keebio_parts_elite_c_zigzag
   owner: keebio
   repo:

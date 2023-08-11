@@ -18,9 +18,18 @@
   oomp:
     footprint_name: cqfp63p2743x2743x355_132
     library_name: ipc7351_most
+    md5: 2640bc05f4f9e81d7d0b8b415fc41d0d
+    md5_10: 2640bc05f4
+    md5_5: 2640b
+    md5_6: 2640bc
+    oomp_key: oomp_cpavlina_ipc7351_most_cqfp63p2743x2743x355_132
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_most_cqfp63p2743x2743x355_132
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_most_cqfp63p2743x2743x355_132_2640bc
+    oomp_key_simple: cpavlina_ipc7351_most_cqfp63p2743x2743x355_132
     original_filename: kicad-pcblib/IPC7351-Most.pretty/CQFP63P2743X2743X355-132.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_most_cqfp63p2743x2743x355_132
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_most_cqfp63p2743x2743x355_132
   oomp_key_simple: cpavlina_ipc7351_most_cqfp63p2743x2743x355_132
   owner: cpavlina
   repo:

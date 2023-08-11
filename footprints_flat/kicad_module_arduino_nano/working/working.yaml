@@ -17,9 +17,18 @@
   oomp:
     footprint_name: arduino_nano
     library_name: module
+    md5: fe37c66a97b7b45450849632ea6316eb
+    md5_10: fe37c66a97
+    md5_5: fe37c
+    md5_6: fe37c6
+    oomp_key: oomp_kicad_module_arduino_nano
+    oomp_key_extra: oomp_footprint_kicad_module_arduino_nano
+    oomp_key_full: oomp_footprint_kicad_module_arduino_nano_fe37c6
+    oomp_key_simple: kicad_module_arduino_nano
     original_filename: libraries/kicad-footprints/Module.pretty/Arduino_Nano.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_module_arduino_nano
+  oomp_key_full: oomp_footprint_kicad_module_arduino_nano
   oomp_key_simple: kicad_module_arduino_nano
   owner: kicad
   repo:

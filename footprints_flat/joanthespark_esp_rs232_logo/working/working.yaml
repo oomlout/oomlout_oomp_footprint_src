@@ -17,9 +17,18 @@
   oomp:
     footprint_name: logo
     library_name: esp_rs232
+    md5: 9c1c6ed01dd2537bb45dff4d6c00d888
+    md5_10: 9c1c6ed01d
+    md5_5: 9c1c6
+    md5_6: 9c1c6e
+    oomp_key: oomp_joanthespark_esp_rs232_logo
+    oomp_key_extra: oomp_footprint_joanthespark_esp_rs232_logo
+    oomp_key_full: oomp_footprint_joanthespark_esp_rs232_logo_9c1c6e
+    oomp_key_simple: joanthespark_esp_rs232_logo
     original_filename: KiCAD/mods/ESP-RS232.pretty/LOGO.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_esp_rs232_logo
+  oomp_key_full: oomp_footprint_joanthespark_esp_rs232_logo
   oomp_key_simple: joanthespark_esp_rs232_logo
   owner: JoanTheSpark
   repo:

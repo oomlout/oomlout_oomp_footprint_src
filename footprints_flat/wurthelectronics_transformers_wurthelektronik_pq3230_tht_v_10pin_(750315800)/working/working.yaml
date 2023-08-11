@@ -17,9 +17,18 @@
   oomp:
     footprint_name: pq3230_tht_v_10pin_(750315800)
     library_name: transformers_wurthelektronik
+    md5: 62be585ec1c433c57af2c8d4b14420d0
+    md5_10: 62be585ec1
+    md5_5: 62be5
+    md5_6: 62be58
+    oomp_key: oomp_wurthelectronics_transformers_wurthelektronik_pq3230_tht_v_10pin_(750315800)
+    oomp_key_extra: oomp_footprint_wurthelectronics_transformers_wurthelektronik_pq3230_tht_v_10pin_(750315800)
+    oomp_key_full: oomp_footprint_wurthelectronics_transformers_wurthelektronik_pq3230_tht_v_10pin_(750315800)_62be58
+    oomp_key_simple: wurthelectronics_transformers_wurthelektronik_pq3230_tht_v_10pin_(750315800)
     original_filename: Transformers_WurthElektronik.pretty/PQ3230_THT_V_10PIN_(750315800).kicad_mod
     owner_name: wurthelectronics
   oomp_key: oomp_wurthelectronics_transformers_wurthelektronik_pq3230_tht_v_10pin_(750315800)
+  oomp_key_full: oomp_footprint_wurthelectronics_transformers_wurthelektronik_pq3230_tht_v_10pin_(750315800)
   oomp_key_simple: wurthelectronics_transformers_wurthelektronik_pq3230_tht_v_10pin_(750315800)
   owner: WurthElectronics
   repo:

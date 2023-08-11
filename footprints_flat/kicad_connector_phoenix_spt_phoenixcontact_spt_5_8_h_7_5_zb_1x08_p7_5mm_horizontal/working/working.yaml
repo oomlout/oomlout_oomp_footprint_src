@@ -19,9 +19,18 @@
   oomp:
     footprint_name: phoenixcontact_spt_5_8_h_7_5_zb_1x08_p7_5mm_horizontal
     library_name: connector_phoenix_spt
+    md5: caf3d9ffe5547de1826c4e569fda028a
+    md5_10: caf3d9ffe5
+    md5_5: caf3d
+    md5_6: caf3d9
+    oomp_key: oomp_kicad_connector_phoenix_spt_phoenixcontact_spt_5_8_h_7_5_zb_1x08_p7_5mm_horizontal
+    oomp_key_extra: oomp_footprint_kicad_connector_phoenix_spt_phoenixcontact_spt_5_8_h_7_5_zb_1x08_p7_5mm_horizontal
+    oomp_key_full: oomp_footprint_kicad_connector_phoenix_spt_phoenixcontact_spt_5_8_h_7_5_zb_1x08_p7_5mm_horizontal_caf3d9
+    oomp_key_simple: kicad_connector_phoenix_spt_phoenixcontact_spt_5_8_h_7_5_zb_1x08_p7_5mm_horizontal
     original_filename: libraries/kicad-footprints/Connector_Phoenix_SPT.pretty/PhoenixContact_SPT_5_8-H-7.5-ZB_1x08_P7.5mm_Horizontal.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_phoenix_spt_phoenixcontact_spt_5_8_h_7_5_zb_1x08_p7_5mm_horizontal
+  oomp_key_full: oomp_footprint_kicad_connector_phoenix_spt_phoenixcontact_spt_5_8_h_7_5_zb_1x08_p7_5mm_horizontal
   oomp_key_simple: kicad_connector_phoenix_spt_phoenixcontact_spt_5_8_h_7_5_zb_1x08_p7_5mm_horizontal
   owner: kicad
   repo:

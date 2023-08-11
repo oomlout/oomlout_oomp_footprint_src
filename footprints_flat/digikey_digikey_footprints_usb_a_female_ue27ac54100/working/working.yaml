@@ -17,9 +17,18 @@
   oomp:
     footprint_name: usb_a_female_ue27ac54100
     library_name: digikey_footprints
+    md5: 8e5e99bc2ab5343dadb23d7e3975cf9f
+    md5_10: 8e5e99bc2a
+    md5_5: 8e5e9
+    md5_6: 8e5e99
+    oomp_key: oomp_digikey_digikey_footprints_usb_a_female_ue27ac54100
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_usb_a_female_ue27ac54100
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_usb_a_female_ue27ac54100_8e5e99
+    oomp_key_simple: digikey_digikey_footprints_usb_a_female_ue27ac54100
     original_filename: digikey-kicad-library/digikey-footprints.pretty/USB_A_Female_UE27AC54100.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_usb_a_female_ue27ac54100
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_usb_a_female_ue27ac54100
   oomp_key_simple: digikey_digikey_footprints_usb_a_female_ue27ac54100
   owner: digikey
   repo:

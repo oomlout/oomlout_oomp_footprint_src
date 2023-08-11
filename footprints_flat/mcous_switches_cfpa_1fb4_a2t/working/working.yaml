@@ -17,9 +17,18 @@
   oomp:
     footprint_name: cfpa_1fb4_a2t
     library_name: _switches
+    md5: b0633afa5648e75f7df54ce1aad71690
+    md5_10: b0633afa56
+    md5_5: b0633
+    md5_6: b0633a
+    oomp_key: oomp_mcous_switches_cfpa_1fb4_a2t
+    oomp_key_extra: oomp_footprint_mcous_switches_cfpa_1fb4_a2t
+    oomp_key_full: oomp_footprint_mcous_switches_cfpa_1fb4_a2t_b0633a
+    oomp_key_simple: mcous_switches_cfpa_1fb4_a2t
     original_filename: kicad-lib/footprints/_switches.pretty/CFPA-1FB4-A2T.kicad_mod
     owner_name: mcous
   oomp_key: oomp_mcous_switches_cfpa_1fb4_a2t
+  oomp_key_full: oomp_footprint_mcous_switches_cfpa_1fb4_a2t
   oomp_key_simple: mcous_switches_cfpa_1fb4_a2t
   owner: mcous
   repo:

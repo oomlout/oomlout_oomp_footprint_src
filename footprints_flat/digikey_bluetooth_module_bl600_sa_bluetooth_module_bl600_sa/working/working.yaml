@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: bluetooth_module_bl600_sa
-    library_name: source_footprints
+    library_name: bluetooth_module_bl600_sa_kicad_mod
+    md5: 9dc961f50422688fc9468c28dfd8e16f
+    md5_10: 9dc961f504
+    md5_5: 9dc96
+    md5_6: 9dc961
+    oomp_key: oomp_digikey_bluetooth_module_bl600_sa_bluetooth_module_bl600_sa
+    oomp_key_extra: oomp_footprint_digikey_bluetooth_module_bl600_sa_bluetooth_module_bl600_sa
+    oomp_key_full: oomp_footprint_digikey_bluetooth_module_bl600_sa_bluetooth_module_bl600_sa_9dc961
+    oomp_key_simple: digikey_bluetooth_module_bl600_sa_bluetooth_module_bl600_sa
     original_filename: digikey-kicad-library/src/Source_Footprints/Bluetooth_Module_BL600-SA.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_bluetooth_module_bl600_sa_bluetooth_module_bl600_sa
+  oomp_key_full: oomp_footprint_digikey_bluetooth_module_bl600_sa_bluetooth_module_bl600_sa
   oomp_key_simple: digikey_bluetooth_module_bl600_sa_bluetooth_module_bl600_sa
   owner: digikey
   repo:

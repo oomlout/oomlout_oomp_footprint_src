@@ -17,9 +17,18 @@
   oomp:
     footprint_name: pshbttn_smd_5x5
     library_name: xess
+    md5: eb8ed837e996aac96b2594815122b21a
+    md5_10: eb8ed837e9
+    md5_5: eb8ed
+    md5_6: eb8ed8
+    oomp_key: oomp_xesscorp_xess_pshbttn_smd_5x5
+    oomp_key_extra: oomp_footprint_xesscorp_xess_pshbttn_smd_5x5
+    oomp_key_full: oomp_footprint_xesscorp_xess_pshbttn_smd_5x5_eb8ed8
+    oomp_key_simple: xesscorp_xess_pshbttn_smd_5x5
     original_filename: xess.pretty/PSHBTTN_SMD_5x5.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_pshbttn_smd_5x5
+  oomp_key_full: oomp_footprint_xesscorp_xess_pshbttn_smd_5x5
   oomp_key_simple: xesscorp_xess_pshbttn_smd_5x5
   owner: xesscorp
   repo:

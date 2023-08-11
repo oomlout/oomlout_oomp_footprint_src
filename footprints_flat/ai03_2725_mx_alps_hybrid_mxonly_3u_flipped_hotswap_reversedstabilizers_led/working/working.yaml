@@ -16,10 +16,19 @@
   name: MX_Alps_Hybrid.pretty
   oomp:
     footprint_name: mxonly_3u_flipped_hotswap_reversedstabilizers_led
-    library_name: mx_only
+    library_name: mx_alps_hybrid
+    md5: e2d23e02b81880706812ec3376fffbe4
+    md5_10: e2d23e02b8
+    md5_5: e2d23
+    md5_6: e2d23e
+    oomp_key: oomp_ai03_2725_mx_alps_hybrid_mxonly_3u_flipped_hotswap_reversedstabilizers_led
+    oomp_key_extra: oomp_footprint_ai03_2725_mx_alps_hybrid_mxonly_3u_flipped_hotswap_reversedstabilizers_led
+    oomp_key_full: oomp_footprint_ai03_2725_mx_alps_hybrid_mxonly_3u_flipped_hotswap_reversedstabilizers_led_e2d23e
+    oomp_key_simple: ai03_2725_mx_alps_hybrid_mxonly_3u_flipped_hotswap_reversedstabilizers_led
     original_filename: MX_Alps_Hybrid.pretty/MX_Only.pretty/MXOnly-3U-FLIPPED-Hotswap-ReversedStabilizers-LED.kicad_mod
     owner_name: ai03_2725
   oomp_key: oomp_ai03_2725_mx_alps_hybrid_mxonly_3u_flipped_hotswap_reversedstabilizers_led
+  oomp_key_full: oomp_footprint_ai03_2725_mx_alps_hybrid_mxonly_3u_flipped_hotswap_reversedstabilizers_led
   oomp_key_simple: ai03_2725_mx_alps_hybrid_mxonly_3u_flipped_hotswap_reversedstabilizers_led
   owner: ai03-2725
   repo:

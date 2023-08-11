@@ -17,9 +17,18 @@
   oomp:
     footprint_name: jwt_a3963_1x02_p3_96mm_vertical
     library_name: connector
+    md5: 5d2349bbfc043d55f25990f36f47db7e
+    md5_10: 5d2349bbfc
+    md5_5: 5d234
+    md5_6: 5d2349
+    oomp_key: oomp_kicad_connector_jwt_a3963_1x02_p3_96mm_vertical
+    oomp_key_extra: oomp_footprint_kicad_connector_jwt_a3963_1x02_p3_96mm_vertical
+    oomp_key_full: oomp_footprint_kicad_connector_jwt_a3963_1x02_p3_96mm_vertical_5d2349
+    oomp_key_simple: kicad_connector_jwt_a3963_1x02_p3_96mm_vertical
     original_filename: libraries/kicad-footprints/Connector.pretty/JWT_A3963_1x02_P3.96mm_Vertical.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_jwt_a3963_1x02_p3_96mm_vertical
+  oomp_key_full: oomp_footprint_kicad_connector_jwt_a3963_1x02_p3_96mm_vertical
   oomp_key_simple: kicad_connector_jwt_a3963_1x02_p3_96mm_vertical
   owner: kicad
   repo:

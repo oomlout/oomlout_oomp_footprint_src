@@ -7,10 +7,8 @@
   footprint_library_directory_flat: footprints_flat/fruchti_rcl_solder_jumper_0603_b/working
   github_path: http://github.com/fruchti/fruchtilib/blob/master/mod/rcl.pretty/SOLDER_JUMPER_0603_B.kicad_mod
   links:
-    github_owner: fruchti
-    github_repo_name: fruchtilib
-    github_src: http://github.com/fruchti/fruchtilib/blob/master/mod/vssop.pretty/VSSOP8.kicad_mod
-    github_src_repo: https://github.com/fruchti/fruchtilib
+    github_src: http://gitlab.com/fruchti/fruchtilib/blob/master/mod/vssop.pretty/VSSOP8.kicad_mod
+    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/fruchti_rcl_solder_jumper_0603_b/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/fruchti_rcl_solder_jumper_0603_b/working
     oomp_src_flat: footprints_flat/footprints_flat/fruchti_rcl_solder_jumper_0603_b/working
@@ -19,110 +17,23 @@
   oomp:
     footprint_name: solder_jumper_0603_b
     library_name: rcl
+    md5: 843b0ed5c097979e5c683a64cc6de527
+    md5_10: 843b0ed5c0
+    md5_5: 843b0
+    md5_6: 843b0e
+    oomp_key: oomp_fruchti_rcl_solder_jumper_0603_b
+    oomp_key_extra: oomp_footprint_fruchti_rcl_solder_jumper_0603_b
+    oomp_key_full: oomp_footprint_fruchti_rcl_solder_jumper_0603_b_843b0e
+    oomp_key_simple: fruchti_rcl_solder_jumper_0603_b
     original_filename: fruchtilib/mod/rcl.pretty/SOLDER_JUMPER_0603_B.kicad_mod
     owner_name: fruchti
   oomp_key: oomp_fruchti_rcl_solder_jumper_0603_b
+  oomp_key_full: oomp_footprint_fruchti_rcl_solder_jumper_0603_b
   oomp_key_simple: fruchti_rcl_solder_jumper_0603_b
   owner: fruchti
   repo:
-    allow_forking: true
-    archive_url: https://api.github.com/repos/fruchti/fruchtilib/{archive_format}{/ref}
-    archived: true
-    assignees_url: https://api.github.com/repos/fruchti/fruchtilib/assignees{/user}
-    blobs_url: https://api.github.com/repos/fruchti/fruchtilib/git/blobs{/sha}
-    branches_url: https://api.github.com/repos/fruchti/fruchtilib/branches{/branch}
-    clone_url: https://github.com/fruchti/fruchtilib.git
-    collaborators_url: https://api.github.com/repos/fruchti/fruchtilib/collaborators{/collaborator}
-    comments_url: https://api.github.com/repos/fruchti/fruchtilib/comments{/number}
-    commits_url: https://api.github.com/repos/fruchti/fruchtilib/commits{/sha}
-    compare_url: https://api.github.com/repos/fruchti/fruchtilib/compare/{base}...{head}
-    contents_url: https://api.github.com/repos/fruchti/fruchtilib/contents/{+path}
-    contributors_url: https://api.github.com/repos/fruchti/fruchtilib/contributors
-    created_at: '2016-02-03T18:05:33Z'
-    default_branch: master
-    deployments_url: https://api.github.com/repos/fruchti/fruchtilib/deployments
-    description: A prettier KiCAD component library
-    disabled: false
-    downloads_url: https://api.github.com/repos/fruchti/fruchtilib/downloads
-    events_url: https://api.github.com/repos/fruchti/fruchtilib/events
-    fork: false
-    forks: 0
-    forks_count: 0
-    forks_url: https://api.github.com/repos/fruchti/fruchtilib/forks
-    full_name: fruchti/fruchtilib
-    git_commits_url: https://api.github.com/repos/fruchti/fruchtilib/git/commits{/sha}
-    git_refs_url: https://api.github.com/repos/fruchti/fruchtilib/git/refs{/sha}
-    git_tags_url: https://api.github.com/repos/fruchti/fruchtilib/git/tags{/sha}
-    git_url: git://github.com/fruchti/fruchtilib.git
-    has_discussions: false
-    has_downloads: true
-    has_issues: true
-    has_pages: false
-    has_projects: true
-    has_wiki: true
-    homepage: ''
-    hooks_url: https://api.github.com/repos/fruchti/fruchtilib/hooks
-    html_url: https://github.com/fruchti/fruchtilib
-    id: 51019533
-    is_template: false
-    issue_comment_url: https://api.github.com/repos/fruchti/fruchtilib/issues/comments{/number}
-    issue_events_url: https://api.github.com/repos/fruchti/fruchtilib/issues/events{/number}
-    issues_url: https://api.github.com/repos/fruchti/fruchtilib/issues{/number}
-    keys_url: https://api.github.com/repos/fruchti/fruchtilib/keys{/key_id}
-    labels_url: https://api.github.com/repos/fruchti/fruchtilib/labels{/name}
-    language: null
-    languages_url: https://api.github.com/repos/fruchti/fruchtilib/languages
-    license: null
-    merges_url: https://api.github.com/repos/fruchti/fruchtilib/merges
-    milestones_url: https://api.github.com/repos/fruchti/fruchtilib/milestones{/number}
-    mirror_url: null
-    name: fruchtilib
-    network_count: 0
-    node_id: MDEwOlJlcG9zaXRvcnk1MTAxOTUzMw==
-    notifications_url: https://api.github.com/repos/fruchti/fruchtilib/notifications{?since,all,participating}
-    open_issues: 0
-    open_issues_count: 0
-    owner:
-      avatar_url: https://avatars.githubusercontent.com/u/11243448?v=4
-      events_url: https://api.github.com/users/fruchti/events{/privacy}
-      followers_url: https://api.github.com/users/fruchti/followers
-      following_url: https://api.github.com/users/fruchti/following{/other_user}
-      gists_url: https://api.github.com/users/fruchti/gists{/gist_id}
-      gravatar_id: ''
-      html_url: https://github.com/fruchti
-      id: 11243448
-      login: fruchti
-      node_id: MDQ6VXNlcjExMjQzNDQ4
-      organizations_url: https://api.github.com/users/fruchti/orgs
-      received_events_url: https://api.github.com/users/fruchti/received_events
-      repos_url: https://api.github.com/users/fruchti/repos
-      site_admin: false
-      starred_url: https://api.github.com/users/fruchti/starred{/owner}{/repo}
-      subscriptions_url: https://api.github.com/users/fruchti/subscriptions
-      type: User
-      url: https://api.github.com/users/fruchti
-    private: false
-    pulls_url: https://api.github.com/repos/fruchti/fruchtilib/pulls{/number}
-    pushed_at: '2019-02-05T17:05:39Z'
-    releases_url: https://api.github.com/repos/fruchti/fruchtilib/releases{/id}
-    size: 175
-    ssh_url: git@github.com:fruchti/fruchtilib.git
-    stargazers_count: 0
-    stargazers_url: https://api.github.com/repos/fruchti/fruchtilib/stargazers
-    statuses_url: https://api.github.com/repos/fruchti/fruchtilib/statuses/{sha}
-    subscribers_count: 2
-    subscribers_url: https://api.github.com/repos/fruchti/fruchtilib/subscribers
-    subscription_url: https://api.github.com/repos/fruchti/fruchtilib/subscription
-    svn_url: https://github.com/fruchti/fruchtilib
-    tags_url: https://api.github.com/repos/fruchti/fruchtilib/tags
-    teams_url: https://api.github.com/repos/fruchti/fruchtilib/teams
-    temp_clone_token: null
-    topics: []
-    trees_url: https://api.github.com/repos/fruchti/fruchtilib/git/trees{/sha}
-    updated_at: '2023-01-28T19:06:32Z'
-    url: https://api.github.com/repos/fruchti/fruchtilib
-    visibility: public
-    watchers: 0
-    watchers_count: 0
-    web_commit_signoff_required: false
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: http://github.com/fruchti/fruchtilib

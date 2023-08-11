@@ -17,9 +17,18 @@
   oomp:
     footprint_name: symbol_barrel_polarity
     library_name: symbol
+    md5: cb15d20f557f770974e6492a293fa705
+    md5_10: cb15d20f55
+    md5_5: cb15d
+    md5_6: cb15d2
+    oomp_key: oomp_kicad_symbol_symbol_barrel_polarity
+    oomp_key_extra: oomp_footprint_kicad_symbol_symbol_barrel_polarity
+    oomp_key_full: oomp_footprint_kicad_symbol_symbol_barrel_polarity_cb15d2
+    oomp_key_simple: kicad_symbol_symbol_barrel_polarity
     original_filename: libraries/kicad-footprints/Symbol.pretty/Symbol_Barrel_Polarity.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_symbol_symbol_barrel_polarity
+  oomp_key_full: oomp_footprint_kicad_symbol_symbol_barrel_polarity
   oomp_key_simple: kicad_symbol_symbol_barrel_polarity
   owner: kicad
   repo:

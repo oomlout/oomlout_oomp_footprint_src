@@ -17,9 +17,18 @@
   oomp:
     footprint_name: mx700h
     library_name: acheron_mxh
+    md5: 90a352cb7d136d98883c46ed76b13f02
+    md5_10: 90a352cb7d
+    md5_5: 90a35
+    md5_6: 90a352
+    oomp_key: oomp_acheronproject_acheron_mxh_mx700h
+    oomp_key_extra: oomp_footprint_acheronproject_acheron_mxh_mx700h
+    oomp_key_full: oomp_footprint_acheronproject_acheron_mxh_mx700h_90a352
+    oomp_key_simple: acheronproject_acheron_mxh_mx700h
     original_filename: acheron_MXH.pretty/MX700H.kicad_mod
     owner_name: acheronproject
   oomp_key: oomp_acheronproject_acheron_mxh_mx700h
+  oomp_key_full: oomp_footprint_acheronproject_acheron_mxh_mx700h
   oomp_key_simple: acheronproject_acheron_mxh_mx700h
   owner: AcheronProject
   repo:

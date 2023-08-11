@@ -17,9 +17,18 @@
   oomp:
     footprint_name: adxl3x5
     library_name: agg
+    md5: 6331d3e061b07996c5e42a4addae0741
+    md5_10: 6331d3e061
+    md5_5: 6331d
+    md5_6: 6331d3
+    oomp_key: oomp_adamgreig_agg_adxl3x5
+    oomp_key_extra: oomp_footprint_adamgreig_agg_adxl3x5
+    oomp_key_full: oomp_footprint_adamgreig_agg_adxl3x5_6331d3
+    oomp_key_simple: adamgreig_agg_adxl3x5
     original_filename: agg-kicad/agg.pretty/ADXL3x5.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_adxl3x5
+  oomp_key_full: oomp_footprint_adamgreig_agg_adxl3x5
   oomp_key_simple: adamgreig_agg_adxl3x5
   owner: adamgreig
   repo:

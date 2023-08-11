@@ -17,9 +17,18 @@
   oomp:
     footprint_name: rotaryencoder_ec11
     library_name: keebio_parts
+    md5: 531d4c811be31b58d93f5ea9e314edf6
+    md5_10: 531d4c811b
+    md5_5: 531d4
+    md5_6: 531d4c
+    oomp_key: oomp_keebio_keebio_parts_rotaryencoder_ec11
+    oomp_key_extra: oomp_footprint_keebio_keebio_parts_rotaryencoder_ec11
+    oomp_key_full: oomp_footprint_keebio_keebio_parts_rotaryencoder_ec11_531d4c
+    oomp_key_simple: keebio_keebio_parts_rotaryencoder_ec11
     original_filename: Keebio-Parts.pretty/RotaryEncoder_EC11.kicad_mod
     owner_name: keebio
   oomp_key: oomp_keebio_keebio_parts_rotaryencoder_ec11
+  oomp_key_full: oomp_footprint_keebio_keebio_parts_rotaryencoder_ec11
   oomp_key_simple: keebio_keebio_parts_rotaryencoder_ec11
   owner: keebio
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: mxo250
     library_name: acheron_mxo
+    md5: 854a3b4bac72f8d7360cb3801101290e
+    md5_10: 854a3b4bac
+    md5_5: 854a3
+    md5_6: 854a3b
+    oomp_key: oomp_acheronproject_acheron_mxo_mxo250
+    oomp_key_extra: oomp_footprint_acheronproject_acheron_mxo_mxo250
+    oomp_key_full: oomp_footprint_acheronproject_acheron_mxo_mxo250_854a3b
+    oomp_key_simple: acheronproject_acheron_mxo_mxo250
     original_filename: acheron_MXO.pretty/MXO250.kicad_mod
     owner_name: acheronproject
   oomp_key: oomp_acheronproject_acheron_mxo_mxo250
+  oomp_key_full: oomp_footprint_acheronproject_acheron_mxo_mxo250
   oomp_key_simple: acheronproject_acheron_mxo_mxo250
   owner: AcheronProject
   repo:

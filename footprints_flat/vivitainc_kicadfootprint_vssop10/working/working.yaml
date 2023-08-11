@@ -17,9 +17,18 @@
   oomp:
     footprint_name: vssop10
     library_name: kicadfootprint
+    md5: eb3fe6daca017dd1310e1ca7c16ccf2d
+    md5_10: eb3fe6daca
+    md5_5: eb3fe
+    md5_6: eb3fe6
+    oomp_key: oomp_vivitainc_kicadfootprint_vssop10
+    oomp_key_extra: oomp_footprint_vivitainc_kicadfootprint_vssop10
+    oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_vssop10_eb3fe6
+    oomp_key_simple: vivitainc_kicadfootprint_vssop10
     original_filename: KiCADfootprint.pretty/VSSOP10.kicad_mod
     owner_name: vivitainc
   oomp_key: oomp_vivitainc_kicadfootprint_vssop10
+  oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_vssop10
   oomp_key_simple: vivitainc_kicadfootprint_vssop10
   owner: vivitainc
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: mx_6u_flipped
     library_name: mx_alps_hybrid
+    md5: 9bd7fc0ca3bf51f0cb7e2f2fefefeedc
+    md5_10: 9bd7fc0ca3
+    md5_5: 9bd7f
+    md5_6: 9bd7fc
+    oomp_key: oomp_ai03_2725_mx_alps_hybrid_mx_6u_flipped
+    oomp_key_extra: oomp_footprint_ai03_2725_mx_alps_hybrid_mx_6u_flipped
+    oomp_key_full: oomp_footprint_ai03_2725_mx_alps_hybrid_mx_6u_flipped_9bd7fc
+    oomp_key_simple: ai03_2725_mx_alps_hybrid_mx_6u_flipped
     original_filename: MX_Alps_Hybrid.pretty/MX_Alps_Hybrid.pretty/MX-6U-FLIPPED.kicad_mod
     owner_name: ai03_2725
   oomp_key: oomp_ai03_2725_mx_alps_hybrid_mx_6u_flipped
+  oomp_key_full: oomp_footprint_ai03_2725_mx_alps_hybrid_mx_6u_flipped
   oomp_key_simple: ai03_2725_mx_alps_hybrid_mx_6u_flipped
   owner: ai03-2725
   repo:

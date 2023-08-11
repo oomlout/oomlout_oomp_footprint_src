@@ -17,9 +17,18 @@
   oomp:
     footprint_name: _ms5611_01ba
     library_name: _sensors
+    md5: 7c9415cb27c7afc64d9d4891624474cd
+    md5_10: 7c9415cb27
+    md5_5: 7c941
+    md5_6: 7c9415
+    oomp_key: oomp_mcous_sensors_ms5611_01ba
+    oomp_key_extra: oomp_footprint_mcous_sensors_ms5611_01ba
+    oomp_key_full: oomp_footprint_mcous_sensors_ms5611_01ba_7c9415
+    oomp_key_simple: mcous_sensors_ms5611_01ba
     original_filename: kicad-lib/footprints/_sensors.pretty/_MS5611-01BA.kicad_mod
     owner_name: mcous
   oomp_key: oomp_mcous_sensors_ms5611_01ba
+  oomp_key_full: oomp_footprint_mcous_sensors_ms5611_01ba
   oomp_key_simple: mcous_sensors_ms5611_01ba
   owner: mcous
   repo:

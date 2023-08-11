@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_protocolumn_io
     library_name: xess
+    md5: 21c2914bef5d71e3ad110396d3237e7e
+    md5_10: 21c2914bef
+    md5_5: 21c29
+    md5_6: 21c291
+    oomp_key: oomp_xesscorp_xess_xess_protocolumn_io
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_protocolumn_io
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_protocolumn_io_21c291
+    oomp_key_simple: xesscorp_xess_xess_protocolumn_io
     original_filename: xess.pretty/xess-PROTOCOLUMN-IO.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_protocolumn_io
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_protocolumn_io
   oomp_key_simple: xesscorp_xess_xess_protocolumn_io
   owner: xesscorp
   repo:

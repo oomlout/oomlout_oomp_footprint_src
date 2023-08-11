@@ -17,9 +17,18 @@
   oomp:
     footprint_name: mx_alps_choc_2u_stabflip
     library_name: keebio_parts
+    md5: cb90e6119c58a2e1de5f2e4cb5c11106
+    md5_10: cb90e6119c
+    md5_5: cb90e
+    md5_6: cb90e6
+    oomp_key: oomp_keebio_keebio_parts_mx_alps_choc_2u_stabflip
+    oomp_key_extra: oomp_footprint_keebio_keebio_parts_mx_alps_choc_2u_stabflip
+    oomp_key_full: oomp_footprint_keebio_keebio_parts_mx_alps_choc_2u_stabflip_cb90e6
+    oomp_key_simple: keebio_keebio_parts_mx_alps_choc_2u_stabflip
     original_filename: Keebio-Parts.pretty/MX-Alps-Choc-2U-StabFlip.kicad_mod
     owner_name: keebio
   oomp_key: oomp_keebio_keebio_parts_mx_alps_choc_2u_stabflip
+  oomp_key_full: oomp_footprint_keebio_keebio_parts_mx_alps_choc_2u_stabflip
   oomp_key_simple: keebio_keebio_parts_mx_alps_choc_2u_stabflip
   owner: keebio
   repo:

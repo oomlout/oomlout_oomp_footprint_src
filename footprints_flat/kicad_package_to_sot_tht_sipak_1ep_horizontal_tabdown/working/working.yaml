@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sipak_1ep_horizontal_tabdown
     library_name: package_to_sot_tht
+    md5: 17cab5c1c08b7eeb0e7830ac6e09fc9d
+    md5_10: 17cab5c1c0
+    md5_5: 17cab
+    md5_6: 17cab5
+    oomp_key: oomp_kicad_package_to_sot_tht_sipak_1ep_horizontal_tabdown
+    oomp_key_extra: oomp_footprint_kicad_package_to_sot_tht_sipak_1ep_horizontal_tabdown
+    oomp_key_full: oomp_footprint_kicad_package_to_sot_tht_sipak_1ep_horizontal_tabdown_17cab5
+    oomp_key_simple: kicad_package_to_sot_tht_sipak_1ep_horizontal_tabdown
     original_filename: libraries/kicad-footprints/Package_TO_SOT_THT.pretty/SIPAK-1EP_Horizontal_TabDown.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_to_sot_tht_sipak_1ep_horizontal_tabdown
+  oomp_key_full: oomp_footprint_kicad_package_to_sot_tht_sipak_1ep_horizontal_tabdown
   oomp_key_simple: kicad_package_to_sot_tht_sipak_1ep_horizontal_tabdown
   owner: kicad
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: oscsc508p500x750x180_4a
     library_name: ipc7351_most
+    md5: a288e36a346686e137484c9bb6397f53
+    md5_10: a288e36a34
+    md5_5: a288e
+    md5_6: a288e3
+    oomp_key: oomp_cpavlina_ipc7351_most_oscsc508p500x750x180_4a
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_most_oscsc508p500x750x180_4a
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_most_oscsc508p500x750x180_4a_a288e3
+    oomp_key_simple: cpavlina_ipc7351_most_oscsc508p500x750x180_4a
     original_filename: kicad-pcblib/IPC7351-Most.pretty/OSCSC508P500X750X180-4A.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_most_oscsc508p500x750x180_4a
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_most_oscsc508p500x750x180_4a
   oomp_key_simple: cpavlina_ipc7351_most_oscsc508p500x750x180_4a
   owner: cpavlina
   repo:

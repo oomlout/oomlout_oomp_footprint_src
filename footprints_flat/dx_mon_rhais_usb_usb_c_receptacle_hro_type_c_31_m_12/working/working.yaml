@@ -17,9 +17,18 @@
   oomp:
     footprint_name: usb_c_receptacle_hro_type_c_31_m_12
     library_name: rhais_usb
+    md5: 5196868e54d81d319fc955888901371c
+    md5_10: 5196868e54
+    md5_5: '51968'
+    md5_6: '519686'
+    oomp_key: oomp_dx_mon_rhais_usb_usb_c_receptacle_hro_type_c_31_m_12
+    oomp_key_extra: oomp_footprint_dx_mon_rhais_usb_usb_c_receptacle_hro_type_c_31_m_12
+    oomp_key_full: oomp_footprint_dx_mon_rhais_usb_usb_c_receptacle_hro_type_c_31_m_12_519686
+    oomp_key_simple: dx_mon_rhais_usb_usb_c_receptacle_hro_type_c_31_m_12
     original_filename: rhais_usb.pretty/USB_C_Receptacle_HRO_TYPE-C-31-M-12.kicad_mod
     owner_name: dx_mon
   oomp_key: oomp_dx_mon_rhais_usb_usb_c_receptacle_hro_type_c_31_m_12
+  oomp_key_full: oomp_footprint_dx_mon_rhais_usb_usb_c_receptacle_hro_type_c_31_m_12
   oomp_key_simple: dx_mon_rhais_usb_usb_c_receptacle_hro_type_c_31_m_12
   owner: DX-MON
   repo:

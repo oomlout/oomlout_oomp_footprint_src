@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sma_pth
     library_name: agg
+    md5: 2c580756a98f916fe90ddee150f60fc2
+    md5_10: 2c580756a9
+    md5_5: 2c580
+    md5_6: 2c5807
+    oomp_key: oomp_adamgreig_agg_sma_pth
+    oomp_key_extra: oomp_footprint_adamgreig_agg_sma_pth
+    oomp_key_full: oomp_footprint_adamgreig_agg_sma_pth_2c5807
+    oomp_key_simple: adamgreig_agg_sma_pth
     original_filename: agg-kicad/agg.pretty/SMA-PTH.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_sma_pth
+  oomp_key_full: oomp_footprint_adamgreig_agg_sma_pth
   oomp_key_simple: adamgreig_agg_sma_pth
   owner: adamgreig
   repo:

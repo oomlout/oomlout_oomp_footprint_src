@@ -17,9 +17,18 @@
   oomp:
     footprint_name: led_d3_0mm
     library_name: footprints
+    md5: 2b0c772cfae90e7eb2f8ddcb124f5ad5
+    md5_10: 2b0c772cfa
+    md5_5: 2b0c7
+    md5_6: 2b0c77
+    oomp_key: oomp_axello_footprints_led_d3_0mm
+    oomp_key_extra: oomp_footprint_axello_footprints_led_d3_0mm
+    oomp_key_full: oomp_footprint_axello_footprints_led_d3_0mm_2b0c77
+    oomp_key_simple: axello_footprints_led_d3_0mm
     original_filename: kicad/demos/video/libs/footprints.pretty/LED_D3.0mm.kicad_mod
     owner_name: axello
   oomp_key: oomp_axello_footprints_led_d3_0mm
+  oomp_key_full: oomp_footprint_axello_footprints_led_d3_0mm
   oomp_key_simple: axello_footprints_led_d3_0mm
   owner: axello
   repo:

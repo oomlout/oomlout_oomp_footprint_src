@@ -16,10 +16,19 @@
   name: agg-kicad
   oomp:
     footprint_name: esp8266_esp07
-    library_name: unchecked
+    library_name: agg
+    md5: d872dfd837a37b5e431f25fc4b1f6762
+    md5_10: d872dfd837
+    md5_5: d872d
+    md5_6: d872df
+    oomp_key: oomp_adamgreig_agg_esp8266_esp07
+    oomp_key_extra: oomp_footprint_adamgreig_agg_esp8266_esp07
+    oomp_key_full: oomp_footprint_adamgreig_agg_esp8266_esp07_d872df
+    oomp_key_simple: adamgreig_agg_esp8266_esp07
     original_filename: agg-kicad/agg.pretty/unchecked.pretty/ESP8266-ESP07.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_esp8266_esp07
+  oomp_key_full: oomp_footprint_adamgreig_agg_esp8266_esp07
   oomp_key_simple: adamgreig_agg_esp8266_esp07
   owner: adamgreig
   repo:

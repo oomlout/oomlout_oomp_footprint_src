@@ -17,9 +17,18 @@
   oomp:
     footprint_name: soic_8_w3_9mm
     library_name: 1w_grove_v0_1
+    md5: bc39ae37522540194897787f45f5ce4b
+    md5_10: bc39ae3752
+    md5_5: bc39a
+    md5_6: bc39ae
+    oomp_key: oomp_axello_1w_grove_v0_1_soic_8_w3_9mm
+    oomp_key_extra: oomp_footprint_axello_1w_grove_v0_1_soic_8_w3_9mm
+    oomp_key_full: oomp_footprint_axello_1w_grove_v0_1_soic_8_w3_9mm_bc39ae
+    oomp_key_simple: axello_1w_grove_v0_1_soic_8_w3_9mm
     original_filename: kicad/6.0/projects/1w-grove-v0.1/1w-grove-v0.1.pretty/SOIC-8_W3.9mm.kicad_mod
     owner_name: axello
   oomp_key: oomp_axello_1w_grove_v0_1_soic_8_w3_9mm
+  oomp_key_full: oomp_footprint_axello_1w_grove_v0_1_soic_8_w3_9mm
   oomp_key_simple: axello_1w_grove_v0_1_soic_8_w3_9mm
   owner: axello
   repo:

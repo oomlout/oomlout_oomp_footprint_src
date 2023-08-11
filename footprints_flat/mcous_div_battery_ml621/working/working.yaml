@@ -17,9 +17,18 @@
   oomp:
     footprint_name: battery_ml621
     library_name: _div
+    md5: 8c93063ff85fea22f007e7c45f1a1804
+    md5_10: 8c93063ff8
+    md5_5: 8c930
+    md5_6: 8c9306
+    oomp_key: oomp_mcous_div_battery_ml621
+    oomp_key_extra: oomp_footprint_mcous_div_battery_ml621
+    oomp_key_full: oomp_footprint_mcous_div_battery_ml621_8c9306
+    oomp_key_simple: mcous_div_battery_ml621
     original_filename: kicad-lib/footprints/_div.pretty/Battery_ML621.kicad_mod
     owner_name: mcous
   oomp_key: oomp_mcous_div_battery_ml621
+  oomp_key_full: oomp_footprint_mcous_div_battery_ml621
   oomp_key_simple: mcous_div_battery_ml621
   owner: mcous
   repo:

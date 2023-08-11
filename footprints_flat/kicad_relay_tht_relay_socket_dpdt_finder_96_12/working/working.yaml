@@ -17,9 +17,18 @@
   oomp:
     footprint_name: relay_socket_dpdt_finder_96_12
     library_name: relay_tht
+    md5: 6a08c4fdd06cff9dc43a069fa5157127
+    md5_10: 6a08c4fdd0
+    md5_5: 6a08c
+    md5_6: 6a08c4
+    oomp_key: oomp_kicad_relay_tht_relay_socket_dpdt_finder_96_12
+    oomp_key_extra: oomp_footprint_kicad_relay_tht_relay_socket_dpdt_finder_96_12
+    oomp_key_full: oomp_footprint_kicad_relay_tht_relay_socket_dpdt_finder_96_12_6a08c4
+    oomp_key_simple: kicad_relay_tht_relay_socket_dpdt_finder_96_12
     original_filename: libraries/kicad-footprints/Relay_THT.pretty/Relay_Socket_DPDT_Finder_96.12.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_relay_tht_relay_socket_dpdt_finder_96_12
+  oomp_key_full: oomp_footprint_kicad_relay_tht_relay_socket_dpdt_finder_96_12
   oomp_key_simple: kicad_relay_tht_relay_socket_dpdt_finder_96_12
   owner: kicad
   repo:

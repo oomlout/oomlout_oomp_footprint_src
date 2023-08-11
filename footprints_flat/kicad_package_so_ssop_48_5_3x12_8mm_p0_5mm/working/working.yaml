@@ -18,9 +18,18 @@
   oomp:
     footprint_name: ssop_48_5_3x12_8mm_p0_5mm
     library_name: package_so
+    md5: 33e7a9029b6da426f98d5c3d58c622dc
+    md5_10: 33e7a9029b
+    md5_5: 33e7a
+    md5_6: 33e7a9
+    oomp_key: oomp_kicad_package_so_ssop_48_5_3x12_8mm_p0_5mm
+    oomp_key_extra: oomp_footprint_kicad_package_so_ssop_48_5_3x12_8mm_p0_5mm
+    oomp_key_full: oomp_footprint_kicad_package_so_ssop_48_5_3x12_8mm_p0_5mm_33e7a9
+    oomp_key_simple: kicad_package_so_ssop_48_5_3x12_8mm_p0_5mm
     original_filename: libraries/kicad-footprints/Package_SO.pretty/SSOP-48_5.3x12.8mm_P0.5mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_so_ssop_48_5_3x12_8mm_p0_5mm
+  oomp_key_full: oomp_footprint_kicad_package_so_ssop_48_5_3x12_8mm_p0_5mm
   oomp_key_simple: kicad_package_so_ssop_48_5_3x12_8mm_p0_5mm
   owner: kicad
   repo:

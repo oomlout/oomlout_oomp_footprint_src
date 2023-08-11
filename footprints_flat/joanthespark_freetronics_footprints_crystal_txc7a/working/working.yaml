@@ -17,9 +17,18 @@
   oomp:
     footprint_name: crystal_txc7a
     library_name: freetronics_footprints
+    md5: 3fca9cf69f0e3f60deae90440f83708c
+    md5_10: 3fca9cf69f
+    md5_5: 3fca9
+    md5_6: 3fca9c
+    oomp_key: oomp_joanthespark_freetronics_footprints_crystal_txc7a
+    oomp_key_extra: oomp_footprint_joanthespark_freetronics_footprints_crystal_txc7a
+    oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_crystal_txc7a_3fca9c
+    oomp_key_simple: joanthespark_freetronics_footprints_crystal_txc7a
     original_filename: KiCAD/mods/freetronics_footprints.pretty/CRYSTAL_TXC7A.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_freetronics_footprints_crystal_txc7a
+  oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_crystal_txc7a
   oomp_key_simple: joanthespark_freetronics_footprints_crystal_txc7a
   owner: JoanTheSpark
   repo:

@@ -19,9 +19,18 @@
   oomp:
     footprint_name: terminalblock_metzconnect_type703_rt10n02hglu_1x02_p9_52mm_horizontal
     library_name: terminalblock_metzconnect
+    md5: 60524c4959e9885d9d1ac635d5b23a62
+    md5_10: 60524c4959
+    md5_5: '60524'
+    md5_6: 60524c
+    oomp_key: oomp_kicad_terminalblock_metzconnect_terminalblock_metzconnect_type703_rt10n02hglu_1x02_p9_52mm_horizontal
+    oomp_key_extra: oomp_footprint_kicad_terminalblock_metzconnect_terminalblock_metzconnect_type703_rt10n02hglu_1x02_p9_52mm_horizontal
+    oomp_key_full: oomp_footprint_kicad_terminalblock_metzconnect_terminalblock_metzconnect_type703_rt10n02hglu_1x02_p9_52mm_horizontal_60524c
+    oomp_key_simple: kicad_terminalblock_metzconnect_terminalblock_metzconnect_type703_rt10n02hglu_1x02_p9_52mm_horizontal
     original_filename: libraries/kicad-footprints/TerminalBlock_MetzConnect.pretty/TerminalBlock_MetzConnect_Type703_RT10N02HGLU_1x02_P9.52mm_Horizontal.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_terminalblock_metzconnect_terminalblock_metzconnect_type703_rt10n02hglu_1x02_p9_52mm_horizontal
+  oomp_key_full: oomp_footprint_kicad_terminalblock_metzconnect_terminalblock_metzconnect_type703_rt10n02hglu_1x02_p9_52mm_horizontal
   oomp_key_simple: kicad_terminalblock_metzconnect_terminalblock_metzconnect_type703_rt10n02hglu_1x02_p9_52mm_horizontal
   owner: kicad
   repo:

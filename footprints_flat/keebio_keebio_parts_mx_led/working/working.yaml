@@ -17,9 +17,18 @@
   oomp:
     footprint_name: mx_led
     library_name: keebio_parts
+    md5: e77d6cce461f4c6588846cefb7ae6124
+    md5_10: e77d6cce46
+    md5_5: e77d6
+    md5_6: e77d6c
+    oomp_key: oomp_keebio_keebio_parts_mx_led
+    oomp_key_extra: oomp_footprint_keebio_keebio_parts_mx_led
+    oomp_key_full: oomp_footprint_keebio_keebio_parts_mx_led_e77d6c
+    oomp_key_simple: keebio_keebio_parts_mx_led
     original_filename: Keebio-Parts.pretty/MX_LED.kicad_mod
     owner_name: keebio
   oomp_key: oomp_keebio_keebio_parts_mx_led
+  oomp_key_full: oomp_footprint_keebio_keebio_parts_mx_led
   oomp_key_simple: keebio_keebio_parts_mx_led
   owner: keebio
   repo:

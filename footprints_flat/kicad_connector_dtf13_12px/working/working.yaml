@@ -17,9 +17,18 @@
   oomp:
     footprint_name: dtf13_12px
     library_name: connector
+    md5: dfaf7cca6994e85134f0c9cf70cc6540
+    md5_10: dfaf7cca69
+    md5_5: dfaf7
+    md5_6: dfaf7c
+    oomp_key: oomp_kicad_connector_dtf13_12px
+    oomp_key_extra: oomp_footprint_kicad_connector_dtf13_12px
+    oomp_key_full: oomp_footprint_kicad_connector_dtf13_12px_dfaf7c
+    oomp_key_simple: kicad_connector_dtf13_12px
     original_filename: libraries/kicad-footprints/Connector.pretty/DTF13-12Px.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_dtf13_12px
+  oomp_key_full: oomp_footprint_kicad_connector_dtf13_12px
   oomp_key_simple: kicad_connector_dtf13_12px
   owner: kicad
   repo:

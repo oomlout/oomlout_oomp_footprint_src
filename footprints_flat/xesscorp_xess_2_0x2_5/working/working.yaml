@@ -17,9 +17,18 @@
   oomp:
     footprint_name: 2_0x2_5
     library_name: xess
+    md5: 9d60b52b0ad01ec0e477f22189861ee7
+    md5_10: 9d60b52b0a
+    md5_5: 9d60b
+    md5_6: 9d60b5
+    oomp_key: oomp_xesscorp_xess_2_0x2_5
+    oomp_key_extra: oomp_footprint_xesscorp_xess_2_0x2_5
+    oomp_key_full: oomp_footprint_xesscorp_xess_2_0x2_5_9d60b5
+    oomp_key_simple: xesscorp_xess_2_0x2_5
     original_filename: xess.pretty/2.0x2.5.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_2_0x2_5
+  oomp_key_full: oomp_footprint_xesscorp_xess_2_0x2_5
   oomp_key_simple: xesscorp_xess_2_0x2_5
   owner: xesscorp
   repo:

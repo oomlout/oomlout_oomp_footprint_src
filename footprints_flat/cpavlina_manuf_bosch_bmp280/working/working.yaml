@@ -17,9 +17,18 @@
   oomp:
     footprint_name: bosch_bmp280
     library_name: manuf
+    md5: 9ef4d716ab1de9a72df92bd37fe3d77e
+    md5_10: 9ef4d716ab
+    md5_5: 9ef4d
+    md5_6: 9ef4d7
+    oomp_key: oomp_cpavlina_manuf_bosch_bmp280
+    oomp_key_extra: oomp_footprint_cpavlina_manuf_bosch_bmp280
+    oomp_key_full: oomp_footprint_cpavlina_manuf_bosch_bmp280_9ef4d7
+    oomp_key_simple: cpavlina_manuf_bosch_bmp280
     original_filename: kicad-pcblib/manuf.pretty/BOSCH_BMP280.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_manuf_bosch_bmp280
+  oomp_key_full: oomp_footprint_cpavlina_manuf_bosch_bmp280
   oomp_key_simple: cpavlina_manuf_bosch_bmp280
   owner: cpavlina
   repo:

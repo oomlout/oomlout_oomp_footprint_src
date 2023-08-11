@@ -7,8 +7,10 @@
   footprint_library_directory_flat: footprints_flat/patiqs_kicadlib_switch_pts635sh50lfs/working
   github_path: http://github.com/patiqs/KicadLib.pretty/blob/master/Switch_PTS635SH50LFS.kicad_mod
   links:
-    github_src: http://gitlab.com/patiqs/KicadLib.pretty/blob/master/Vishay_SOT-23.kicad_mod
-    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
+    github_owner: patiqs
+    github_repo_name: KicadLib.pretty
+    github_src: http://github.com/patiqs/KicadLib.pretty/blob/master/Vishay_SOT-23.kicad_mod
+    github_src_repo: https://github.com/patiqs/KicadLib.pretty
     oomp_bot: footprints/patiqs_kicadlib_switch_pts635sh50lfs/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/patiqs_kicadlib_switch_pts635sh50lfs/working
     oomp_src_flat: footprints_flat/footprints_flat/patiqs_kicadlib_switch_pts635sh50lfs/working
@@ -17,14 +19,119 @@
   oomp:
     footprint_name: switch_pts635sh50lfs
     library_name: kicadlib
+    md5: 85a688375eec8c8210a34e08bbbfe8ec
+    md5_10: 85a688375e
+    md5_5: 85a68
+    md5_6: 85a688
+    oomp_key: oomp_patiqs_kicadlib_switch_pts635sh50lfs
+    oomp_key_extra: oomp_footprint_patiqs_kicadlib_switch_pts635sh50lfs
+    oomp_key_full: oomp_footprint_patiqs_kicadlib_switch_pts635sh50lfs_85a688
+    oomp_key_simple: patiqs_kicadlib_switch_pts635sh50lfs
     original_filename: KicadLib.pretty/Switch_PTS635SH50LFS.kicad_mod
     owner_name: patiqs
   oomp_key: oomp_patiqs_kicadlib_switch_pts635sh50lfs
+  oomp_key_full: oomp_footprint_patiqs_kicadlib_switch_pts635sh50lfs
   oomp_key_simple: patiqs_kicadlib_switch_pts635sh50lfs
   owner: patiqs
   repo:
-    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
-    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
-      Authenticated requests get a higher rate limit. Check out the documentation
-      for more details.)'
+    allow_forking: true
+    archive_url: https://api.github.com/repos/patiqs/KicadLib.pretty/{archive_format}{/ref}
+    archived: false
+    assignees_url: https://api.github.com/repos/patiqs/KicadLib.pretty/assignees{/user}
+    blobs_url: https://api.github.com/repos/patiqs/KicadLib.pretty/git/blobs{/sha}
+    branches_url: https://api.github.com/repos/patiqs/KicadLib.pretty/branches{/branch}
+    clone_url: https://github.com/patiqs/KicadLib.pretty.git
+    collaborators_url: https://api.github.com/repos/patiqs/KicadLib.pretty/collaborators{/collaborator}
+    comments_url: https://api.github.com/repos/patiqs/KicadLib.pretty/comments{/number}
+    commits_url: https://api.github.com/repos/patiqs/KicadLib.pretty/commits{/sha}
+    compare_url: https://api.github.com/repos/patiqs/KicadLib.pretty/compare/{base}...{head}
+    contents_url: https://api.github.com/repos/patiqs/KicadLib.pretty/contents/{+path}
+    contributors_url: https://api.github.com/repos/patiqs/KicadLib.pretty/contributors
+    created_at: '2015-02-25T10:53:05Z'
+    default_branch: master
+    deployments_url: https://api.github.com/repos/patiqs/KicadLib.pretty/deployments
+    description: null
+    disabled: false
+    downloads_url: https://api.github.com/repos/patiqs/KicadLib.pretty/downloads
+    events_url: https://api.github.com/repos/patiqs/KicadLib.pretty/events
+    fork: false
+    forks: 0
+    forks_count: 0
+    forks_url: https://api.github.com/repos/patiqs/KicadLib.pretty/forks
+    full_name: patiqs/KicadLib.pretty
+    git_commits_url: https://api.github.com/repos/patiqs/KicadLib.pretty/git/commits{/sha}
+    git_refs_url: https://api.github.com/repos/patiqs/KicadLib.pretty/git/refs{/sha}
+    git_tags_url: https://api.github.com/repos/patiqs/KicadLib.pretty/git/tags{/sha}
+    git_url: git://github.com/patiqs/KicadLib.pretty.git
+    has_discussions: false
+    has_downloads: true
+    has_issues: true
+    has_pages: false
+    has_projects: true
+    has_wiki: true
+    homepage: null
+    hooks_url: https://api.github.com/repos/patiqs/KicadLib.pretty/hooks
+    html_url: https://github.com/patiqs/KicadLib.pretty
+    id: 31309375
+    is_template: false
+    issue_comment_url: https://api.github.com/repos/patiqs/KicadLib.pretty/issues/comments{/number}
+    issue_events_url: https://api.github.com/repos/patiqs/KicadLib.pretty/issues/events{/number}
+    issues_url: https://api.github.com/repos/patiqs/KicadLib.pretty/issues{/number}
+    keys_url: https://api.github.com/repos/patiqs/KicadLib.pretty/keys{/key_id}
+    labels_url: https://api.github.com/repos/patiqs/KicadLib.pretty/labels{/name}
+    language: null
+    languages_url: https://api.github.com/repos/patiqs/KicadLib.pretty/languages
+    license: null
+    merges_url: https://api.github.com/repos/patiqs/KicadLib.pretty/merges
+    milestones_url: https://api.github.com/repos/patiqs/KicadLib.pretty/milestones{/number}
+    mirror_url: null
+    name: KicadLib.pretty
+    network_count: 0
+    node_id: MDEwOlJlcG9zaXRvcnkzMTMwOTM3NQ==
+    notifications_url: https://api.github.com/repos/patiqs/KicadLib.pretty/notifications{?since,all,participating}
+    open_issues: 0
+    open_issues_count: 0
+    owner:
+      avatar_url: https://avatars.githubusercontent.com/u/6491804?v=4
+      events_url: https://api.github.com/users/patiqs/events{/privacy}
+      followers_url: https://api.github.com/users/patiqs/followers
+      following_url: https://api.github.com/users/patiqs/following{/other_user}
+      gists_url: https://api.github.com/users/patiqs/gists{/gist_id}
+      gravatar_id: ''
+      html_url: https://github.com/patiqs
+      id: 6491804
+      login: patiqs
+      node_id: MDQ6VXNlcjY0OTE4MDQ=
+      organizations_url: https://api.github.com/users/patiqs/orgs
+      received_events_url: https://api.github.com/users/patiqs/received_events
+      repos_url: https://api.github.com/users/patiqs/repos
+      site_admin: false
+      starred_url: https://api.github.com/users/patiqs/starred{/owner}{/repo}
+      subscriptions_url: https://api.github.com/users/patiqs/subscriptions
+      type: User
+      url: https://api.github.com/users/patiqs
+    private: false
+    pulls_url: https://api.github.com/repos/patiqs/KicadLib.pretty/pulls{/number}
+    pushed_at: '2015-02-26T07:36:11Z'
+    releases_url: https://api.github.com/repos/patiqs/KicadLib.pretty/releases{/id}
+    size: 144
+    ssh_url: git@github.com:patiqs/KicadLib.pretty.git
+    stargazers_count: 0
+    stargazers_url: https://api.github.com/repos/patiqs/KicadLib.pretty/stargazers
+    statuses_url: https://api.github.com/repos/patiqs/KicadLib.pretty/statuses/{sha}
+    subscribers_count: 1
+    subscribers_url: https://api.github.com/repos/patiqs/KicadLib.pretty/subscribers
+    subscription_url: https://api.github.com/repos/patiqs/KicadLib.pretty/subscription
+    svn_url: https://github.com/patiqs/KicadLib.pretty
+    tags_url: https://api.github.com/repos/patiqs/KicadLib.pretty/tags
+    teams_url: https://api.github.com/repos/patiqs/KicadLib.pretty/teams
+    temp_clone_token: null
+    topics: []
+    trees_url: https://api.github.com/repos/patiqs/KicadLib.pretty/git/trees{/sha}
+    updated_at: '2015-02-26T07:16:28Z'
+    url: https://api.github.com/repos/patiqs/KicadLib.pretty
+    visibility: public
+    watchers: 0
+    watchers_count: 0
+    web_commit_signoff_required: false
   url: http://github.com/patiqs/KicadLib.pretty

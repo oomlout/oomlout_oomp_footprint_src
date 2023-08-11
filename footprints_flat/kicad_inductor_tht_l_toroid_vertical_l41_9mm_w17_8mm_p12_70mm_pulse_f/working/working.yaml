@@ -18,9 +18,18 @@
   oomp:
     footprint_name: l_toroid_vertical_l41_9mm_w17_8mm_p12_70mm_pulse_f
     library_name: inductor_tht
+    md5: 13c54106aa53f92439d03e385791b1b1
+    md5_10: 13c54106aa
+    md5_5: 13c54
+    md5_6: 13c541
+    oomp_key: oomp_kicad_inductor_tht_l_toroid_vertical_l41_9mm_w17_8mm_p12_70mm_pulse_f
+    oomp_key_extra: oomp_footprint_kicad_inductor_tht_l_toroid_vertical_l41_9mm_w17_8mm_p12_70mm_pulse_f
+    oomp_key_full: oomp_footprint_kicad_inductor_tht_l_toroid_vertical_l41_9mm_w17_8mm_p12_70mm_pulse_f_13c541
+    oomp_key_simple: kicad_inductor_tht_l_toroid_vertical_l41_9mm_w17_8mm_p12_70mm_pulse_f
     original_filename: libraries/kicad-footprints/Inductor_THT.pretty/L_Toroid_Vertical_L41.9mm_W17.8mm_P12.70mm_Pulse_F.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_inductor_tht_l_toroid_vertical_l41_9mm_w17_8mm_p12_70mm_pulse_f
+  oomp_key_full: oomp_footprint_kicad_inductor_tht_l_toroid_vertical_l41_9mm_w17_8mm_p12_70mm_pulse_f
   oomp_key_simple: kicad_inductor_tht_l_toroid_vertical_l41_9mm_w17_8mm_p12_70mm_pulse_f
   owner: kicad
   repo:

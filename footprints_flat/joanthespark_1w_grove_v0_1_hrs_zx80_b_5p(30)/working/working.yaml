@@ -17,9 +17,18 @@
   oomp:
     footprint_name: hrs_zx80_b_5p(30)
     library_name: 1w_grove_v0_1
+    md5: 83e1ed037b964928cdfe86f5896440c9
+    md5_10: 83e1ed037b
+    md5_5: 83e1e
+    md5_6: 83e1ed
+    oomp_key: oomp_joanthespark_1w_grove_v0_1_hrs_zx80_b_5p(30)
+    oomp_key_extra: oomp_footprint_joanthespark_1w_grove_v0_1_hrs_zx80_b_5p(30)
+    oomp_key_full: oomp_footprint_joanthespark_1w_grove_v0_1_hrs_zx80_b_5p(30)_83e1ed
+    oomp_key_simple: joanthespark_1w_grove_v0_1_hrs_zx80_b_5p(30)
     original_filename: KiCAD/6.0/projects/1w-grove-v0.1/1w-grove-v0.1.pretty/HRS_ZX80-B-5P(30).kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_1w_grove_v0_1_hrs_zx80_b_5p(30)
+  oomp_key_full: oomp_footprint_joanthespark_1w_grove_v0_1_hrs_zx80_b_5p(30)
   oomp_key_simple: joanthespark_1w_grove_v0_1_hrs_zx80_b_5p(30)
   owner: JoanTheSpark
   repo:

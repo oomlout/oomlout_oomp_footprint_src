@@ -17,9 +17,18 @@
   oomp:
     footprint_name: rj45_abracon_arjp11a_ma_horizontal
     library_name: connector_rj
+    md5: 17dac1c8aeeb6ad934085e9885c4f855
+    md5_10: 17dac1c8ae
+    md5_5: 17dac
+    md5_6: 17dac1
+    oomp_key: oomp_kicad_connector_rj_rj45_abracon_arjp11a_ma_horizontal
+    oomp_key_extra: oomp_footprint_kicad_connector_rj_rj45_abracon_arjp11a_ma_horizontal
+    oomp_key_full: oomp_footprint_kicad_connector_rj_rj45_abracon_arjp11a_ma_horizontal_17dac1
+    oomp_key_simple: kicad_connector_rj_rj45_abracon_arjp11a_ma_horizontal
     original_filename: libraries/kicad-footprints/Connector_RJ.pretty/RJ45_Abracon_ARJP11A-MA_Horizontal.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_rj_rj45_abracon_arjp11a_ma_horizontal
+  oomp_key_full: oomp_footprint_kicad_connector_rj_rj45_abracon_arjp11a_ma_horizontal
   oomp_key_simple: kicad_connector_rj_rj45_abracon_arjp11a_ma_horizontal
   owner: kicad
   repo:

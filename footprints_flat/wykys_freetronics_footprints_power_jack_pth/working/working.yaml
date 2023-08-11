@@ -17,9 +17,18 @@
   oomp:
     footprint_name: power_jack_pth
     library_name: freetronics_footprints
+    md5: a275d7f2885a513833dd3e7ec0c8a1c9
+    md5_10: a275d7f288
+    md5_5: a275d
+    md5_6: a275d7
+    oomp_key: oomp_wykys_freetronics_footprints_power_jack_pth
+    oomp_key_extra: oomp_footprint_wykys_freetronics_footprints_power_jack_pth
+    oomp_key_full: oomp_footprint_wykys_freetronics_footprints_power_jack_pth_a275d7
+    oomp_key_simple: wykys_freetronics_footprints_power_jack_pth
     original_filename: kicad/mods/freetronics_footprints.pretty/POWER_JACK_PTH.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_freetronics_footprints_power_jack_pth
+  oomp_key_full: oomp_footprint_wykys_freetronics_footprints_power_jack_pth
   oomp_key_simple: wykys_freetronics_footprints_power_jack_pth
   owner: wykys
   repo:

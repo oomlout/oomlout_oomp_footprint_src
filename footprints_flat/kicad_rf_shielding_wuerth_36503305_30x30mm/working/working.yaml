@@ -17,9 +17,18 @@
   oomp:
     footprint_name: wuerth_36503305_30x30mm
     library_name: rf_shielding
+    md5: 3b030a607a7a822b46d7edd586fcc1c5
+    md5_10: 3b030a607a
+    md5_5: 3b030
+    md5_6: 3b030a
+    oomp_key: oomp_kicad_rf_shielding_wuerth_36503305_30x30mm
+    oomp_key_extra: oomp_footprint_kicad_rf_shielding_wuerth_36503305_30x30mm
+    oomp_key_full: oomp_footprint_kicad_rf_shielding_wuerth_36503305_30x30mm_3b030a
+    oomp_key_simple: kicad_rf_shielding_wuerth_36503305_30x30mm
     original_filename: libraries/kicad-footprints/RF_Shielding.pretty/Wuerth_36503305_30x30mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_rf_shielding_wuerth_36503305_30x30mm
+  oomp_key_full: oomp_footprint_kicad_rf_shielding_wuerth_36503305_30x30mm
   oomp_key_simple: kicad_rf_shielding_wuerth_36503305_30x30mm
   owner: kicad
   repo:

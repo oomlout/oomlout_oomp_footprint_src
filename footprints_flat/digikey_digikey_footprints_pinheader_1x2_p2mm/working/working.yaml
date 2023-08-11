@@ -17,9 +17,18 @@
   oomp:
     footprint_name: pinheader_1x2_p2mm
     library_name: digikey_footprints
+    md5: 83d24330728ea94b429840511f5c23ae
+    md5_10: 83d2433072
+    md5_5: 83d24
+    md5_6: 83d243
+    oomp_key: oomp_digikey_digikey_footprints_pinheader_1x2_p2mm
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_pinheader_1x2_p2mm
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_pinheader_1x2_p2mm_83d243
+    oomp_key_simple: digikey_digikey_footprints_pinheader_1x2_p2mm
     original_filename: digikey-kicad-library/digikey-footprints.pretty/PinHeader_1x2_P2mm.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_pinheader_1x2_p2mm
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_pinheader_1x2_p2mm
   oomp_key_simple: digikey_digikey_footprints_pinheader_1x2_p2mm
   owner: digikey
   repo:

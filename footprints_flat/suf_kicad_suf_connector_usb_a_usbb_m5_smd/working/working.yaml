@@ -17,9 +17,18 @@
   oomp:
     footprint_name: a_usbb_m5_smd
     library_name: suf_connector_usb
+    md5: 9ad074b54ffb29312ce38da9666d97eb
+    md5_10: 9ad074b54f
+    md5_5: 9ad07
+    md5_6: 9ad074
+    oomp_key: oomp_suf_kicad_suf_connector_usb_a_usbb_m5_smd
+    oomp_key_extra: oomp_footprint_suf_kicad_suf_connector_usb_a_usbb_m5_smd
+    oomp_key_full: oomp_footprint_suf_kicad_suf_connector_usb_a_usbb_m5_smd_9ad074
+    oomp_key_simple: suf_kicad_suf_connector_usb_a_usbb_m5_smd
     original_filename: suf_connector_usb.pretty/A-USBB-M5-SMD.kicad_mod
     owner_name: suf_kicad
   oomp_key: oomp_suf_kicad_suf_connector_usb_a_usbb_m5_smd
+  oomp_key_full: oomp_footprint_suf_kicad_suf_connector_usb_a_usbb_m5_smd
   oomp_key_simple: suf_kicad_suf_connector_usb_a_usbb_m5_smd
   owner: suf-KiCAD
   repo:

@@ -18,9 +18,18 @@
   oomp:
     footprint_name: usb_c_receptacle_molex_105450_0101
     library_name: connector_usb
+    md5: 95d1dc40ded10ba531a242ae25a6e63d
+    md5_10: 95d1dc40de
+    md5_5: 95d1d
+    md5_6: 95d1dc
+    oomp_key: oomp_kicad_connector_usb_usb_c_receptacle_molex_105450_0101
+    oomp_key_extra: oomp_footprint_kicad_connector_usb_usb_c_receptacle_molex_105450_0101
+    oomp_key_full: oomp_footprint_kicad_connector_usb_usb_c_receptacle_molex_105450_0101_95d1dc
+    oomp_key_simple: kicad_connector_usb_usb_c_receptacle_molex_105450_0101
     original_filename: libraries/kicad-footprints/Connector_USB.pretty/USB_C_Receptacle_Molex_105450-0101.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_usb_usb_c_receptacle_molex_105450_0101
+  oomp_key_full: oomp_footprint_kicad_connector_usb_usb_c_receptacle_molex_105450_0101
   oomp_key_simple: kicad_connector_usb_usb_c_receptacle_molex_105450_0101
   owner: kicad
   repo:

@@ -18,9 +18,18 @@
   oomp:
     footprint_name: sw_spst_b3u_3000p_b
     library_name: button_switch_smd
+    md5: 406746d54a6b781ed3e128239351aa46
+    md5_10: 406746d54a
+    md5_5: '40674'
+    md5_6: '406746'
+    oomp_key: oomp_kicad_button_switch_smd_sw_spst_b3u_3000p_b
+    oomp_key_extra: oomp_footprint_kicad_button_switch_smd_sw_spst_b3u_3000p_b
+    oomp_key_full: oomp_footprint_kicad_button_switch_smd_sw_spst_b3u_3000p_b_406746
+    oomp_key_simple: kicad_button_switch_smd_sw_spst_b3u_3000p_b
     original_filename: libraries/kicad-footprints/Button_Switch_SMD.pretty/SW_SPST_B3U-3000P-B.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_button_switch_smd_sw_spst_b3u_3000p_b
+  oomp_key_full: oomp_footprint_kicad_button_switch_smd_sw_spst_b3u_3000p_b
   oomp_key_simple: kicad_button_switch_smd_sw_spst_b3u_3000p_b
   owner: kicad
   repo:

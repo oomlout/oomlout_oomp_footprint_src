@@ -17,9 +17,18 @@
   oomp:
     footprint_name: stickit_header1
     library_name: xess
+    md5: f431afb79aee09402484e646d4b18928
+    md5_10: f431afb79a
+    md5_5: f431a
+    md5_6: f431af
+    oomp_key: oomp_xesscorp_xess_stickit_header1
+    oomp_key_extra: oomp_footprint_xesscorp_xess_stickit_header1
+    oomp_key_full: oomp_footprint_xesscorp_xess_stickit_header1_f431af
+    oomp_key_simple: xesscorp_xess_stickit_header1
     original_filename: xess.pretty/STICKIT-HEADER1.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_stickit_header1
+  oomp_key_full: oomp_footprint_xesscorp_xess_stickit_header1
   oomp_key_simple: xesscorp_xess_stickit_header1
   owner: xesscorp
   repo:

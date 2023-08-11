@@ -18,9 +18,18 @@
   oomp:
     footprint_name: lqfp_128_14x20mm_p0_5mm
     library_name: package_qfp
+    md5: cf5d8907a640f10afa8a6176f7b45e6f
+    md5_10: cf5d8907a6
+    md5_5: cf5d8
+    md5_6: cf5d89
+    oomp_key: oomp_kicad_package_qfp_lqfp_128_14x20mm_p0_5mm
+    oomp_key_extra: oomp_footprint_kicad_package_qfp_lqfp_128_14x20mm_p0_5mm
+    oomp_key_full: oomp_footprint_kicad_package_qfp_lqfp_128_14x20mm_p0_5mm_cf5d89
+    oomp_key_simple: kicad_package_qfp_lqfp_128_14x20mm_p0_5mm
     original_filename: libraries/kicad-footprints/Package_QFP.pretty/LQFP-128_14x20mm_P0.5mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_qfp_lqfp_128_14x20mm_p0_5mm
+  oomp_key_full: oomp_footprint_kicad_package_qfp_lqfp_128_14x20mm_p0_5mm
   oomp_key_simple: kicad_package_qfp_lqfp_128_14x20mm_p0_5mm
   owner: kicad
   repo:

@@ -18,9 +18,18 @@
   oomp:
     footprint_name: ts3usbca420rsvr
     library_name: leptunkicadlib
+    md5: 7ffd0f6c86e95ad3bb4ad9a448c87f05
+    md5_10: 7ffd0f6c86
+    md5_5: 7ffd0
+    md5_6: 7ffd0f
+    oomp_key: oomp_leptun_leptunkicadlib_ts3usbca420rsvr
+    oomp_key_extra: oomp_footprint_leptun_leptunkicadlib_ts3usbca420rsvr
+    oomp_key_full: oomp_footprint_leptun_leptunkicadlib_ts3usbca420rsvr_7ffd0f
+    oomp_key_simple: leptun_leptunkicadlib_ts3usbca420rsvr
     original_filename: leptunKicadLib.pretty/TS3USBCA420RSVR.kicad_mod
     owner_name: leptun
   oomp_key: oomp_leptun_leptunkicadlib_ts3usbca420rsvr
+  oomp_key_full: oomp_footprint_leptun_leptunkicadlib_ts3usbca420rsvr
   oomp_key_simple: leptun_leptunkicadlib_ts3usbca420rsvr
   owner: leptun
   repo:

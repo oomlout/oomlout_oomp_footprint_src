@@ -17,9 +17,18 @@
   oomp:
     footprint_name: so24w_7_5mm
     library_name: freetronics_footprints
+    md5: c4ab3fd0e389e03bcf2e5a7bc818eaf7
+    md5_10: c4ab3fd0e3
+    md5_5: c4ab3
+    md5_6: c4ab3f
+    oomp_key: oomp_wykys_freetronics_footprints_so24w_7_5mm
+    oomp_key_extra: oomp_footprint_wykys_freetronics_footprints_so24w_7_5mm
+    oomp_key_full: oomp_footprint_wykys_freetronics_footprints_so24w_7_5mm_c4ab3f
+    oomp_key_simple: wykys_freetronics_footprints_so24w_7_5mm
     original_filename: kicad/mods/freetronics_footprints.pretty/SO24W_7.5mm.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_freetronics_footprints_so24w_7_5mm
+  oomp_key_full: oomp_footprint_wykys_freetronics_footprints_so24w_7_5mm
   oomp_key_simple: wykys_freetronics_footprints_so24w_7_5mm
   owner: wykys
   repo:

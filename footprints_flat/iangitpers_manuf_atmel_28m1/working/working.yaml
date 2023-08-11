@@ -19,9 +19,18 @@
   oomp:
     footprint_name: atmel_28m1
     library_name: manuf
+    md5: c69239d4745cd3ecf6e5d7b90ba799f1
+    md5_10: c69239d474
+    md5_5: c6923
+    md5_6: c69239
+    oomp_key: oomp_iangitpers_manuf_atmel_28m1
+    oomp_key_extra: oomp_footprint_iangitpers_manuf_atmel_28m1
+    oomp_key_full: oomp_footprint_iangitpers_manuf_atmel_28m1_c69239
+    oomp_key_simple: iangitpers_manuf_atmel_28m1
     original_filename: 4a/manuf.pretty/ATMEL-28M1.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_manuf_atmel_28m1
+  oomp_key_full: oomp_footprint_iangitpers_manuf_atmel_28m1
   oomp_key_simple: iangitpers_manuf_atmel_28m1
   owner: Iangitpers
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: vflga_16_3x3mm
     library_name: digikey_footprints
+    md5: 59f3e290d0776a36448600f113b95647
+    md5_10: 59f3e290d0
+    md5_5: 59f3e
+    md5_6: 59f3e2
+    oomp_key: oomp_digikey_digikey_footprints_vflga_16_3x3mm
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_vflga_16_3x3mm
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_vflga_16_3x3mm_59f3e2
+    oomp_key_simple: digikey_digikey_footprints_vflga_16_3x3mm
     original_filename: digikey-kicad-library/digikey-footprints.pretty/VFLGA-16_3x3mm.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_vflga_16_3x3mm
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_vflga_16_3x3mm
   oomp_key_simple: digikey_digikey_footprints_vflga_16_3x3mm
   owner: digikey
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sw_kailh_choc_mini_2_75u_90deg
     library_name: switch_keyboard_kailh
+    md5: 4d2cceb955b24dd56a820a816f115b7b
+    md5_10: 4d2cceb955
+    md5_5: 4d2cc
+    md5_6: 4d2cce
+    oomp_key: oomp_joanthespark_switch_keyboard_kailh_sw_kailh_choc_mini_2_75u_90deg
+    oomp_key_extra: oomp_footprint_joanthespark_switch_keyboard_kailh_sw_kailh_choc_mini_2_75u_90deg
+    oomp_key_full: oomp_footprint_joanthespark_switch_keyboard_kailh_sw_kailh_choc_mini_2_75u_90deg_4d2cce
+    oomp_key_simple: joanthespark_switch_keyboard_kailh_sw_kailh_choc_mini_2_75u_90deg
     original_filename: KiCAD/6.0/3rdparty/footprints/com_github_perigoso_keyswitch-kicad-library/Switch_Keyboard_Kailh.pretty/SW_Kailh_Choc_Mini_2.75u_90deg.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_switch_keyboard_kailh_sw_kailh_choc_mini_2_75u_90deg
+  oomp_key_full: oomp_footprint_joanthespark_switch_keyboard_kailh_sw_kailh_choc_mini_2_75u_90deg
   oomp_key_simple: joanthespark_switch_keyboard_kailh_sw_kailh_choc_mini_2_75u_90deg
   owner: JoanTheSpark
   repo:

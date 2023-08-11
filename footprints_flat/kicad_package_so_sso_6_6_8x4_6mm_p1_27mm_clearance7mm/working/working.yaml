@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sso_6_6_8x4_6mm_p1_27mm_clearance7mm
     library_name: package_so
+    md5: 32c615cc87f923966967ff6ebcd47f0f
+    md5_10: 32c615cc87
+    md5_5: 32c61
+    md5_6: 32c615
+    oomp_key: oomp_kicad_package_so_sso_6_6_8x4_6mm_p1_27mm_clearance7mm
+    oomp_key_extra: oomp_footprint_kicad_package_so_sso_6_6_8x4_6mm_p1_27mm_clearance7mm
+    oomp_key_full: oomp_footprint_kicad_package_so_sso_6_6_8x4_6mm_p1_27mm_clearance7mm_32c615
+    oomp_key_simple: kicad_package_so_sso_6_6_8x4_6mm_p1_27mm_clearance7mm
     original_filename: libraries/kicad-footprints/Package_SO.pretty/SSO-6_6.8x4.6mm_P1.27mm_Clearance7mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_so_sso_6_6_8x4_6mm_p1_27mm_clearance7mm
+  oomp_key_full: oomp_footprint_kicad_package_so_sso_6_6_8x4_6mm_p1_27mm_clearance7mm
   oomp_key_simple: kicad_package_so_sso_6_6_8x4_6mm_p1_27mm_clearance7mm
   owner: kicad
   repo:

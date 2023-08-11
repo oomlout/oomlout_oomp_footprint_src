@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sot363
     library_name: freetronics_footprints
+    md5: dec0d4c31920b76d0b6696b02bdfaf95
+    md5_10: dec0d4c319
+    md5_5: dec0d
+    md5_6: dec0d4
+    oomp_key: oomp_axello_freetronics_footprints_sot363
+    oomp_key_extra: oomp_footprint_axello_freetronics_footprints_sot363
+    oomp_key_full: oomp_footprint_axello_freetronics_footprints_sot363_dec0d4
+    oomp_key_simple: axello_freetronics_footprints_sot363
     original_filename: kicad/mods/freetronics_footprints.pretty/SOT363.kicad_mod
     owner_name: axello
   oomp_key: oomp_axello_freetronics_footprints_sot363
+  oomp_key_full: oomp_footprint_axello_freetronics_footprints_sot363
   oomp_key_simple: axello_freetronics_footprints_sot363
   owner: axello
   repo:

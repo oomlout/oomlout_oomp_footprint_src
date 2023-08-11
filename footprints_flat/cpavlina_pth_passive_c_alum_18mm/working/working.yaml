@@ -17,9 +17,18 @@
   oomp:
     footprint_name: c_alum_18mm
     library_name: pth_passive
+    md5: 6a9a1e617971cf926b10cc83f1c30a05
+    md5_10: 6a9a1e6179
+    md5_5: 6a9a1
+    md5_6: 6a9a1e
+    oomp_key: oomp_cpavlina_pth_passive_c_alum_18mm
+    oomp_key_extra: oomp_footprint_cpavlina_pth_passive_c_alum_18mm
+    oomp_key_full: oomp_footprint_cpavlina_pth_passive_c_alum_18mm_6a9a1e
+    oomp_key_simple: cpavlina_pth_passive_c_alum_18mm
     original_filename: kicad-pcblib/pth-passive.pretty/C-ALUM-18mm.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_pth_passive_c_alum_18mm
+  oomp_key_full: oomp_footprint_cpavlina_pth_passive_c_alum_18mm
   oomp_key_simple: cpavlina_pth_passive_c_alum_18mm
   owner: cpavlina
   repo:

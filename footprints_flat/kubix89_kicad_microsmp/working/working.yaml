@@ -17,9 +17,18 @@
   oomp:
     footprint_name: microsmp
     library_name: kicad
+    md5: 50ced12c8619e10083b9ee9a6ea257e3
+    md5_10: 50ced12c86
+    md5_5: 50ced
+    md5_6: 50ced1
+    oomp_key: oomp_kubix89_kicad_microsmp
+    oomp_key_extra: oomp_footprint_kubix89_kicad_microsmp
+    oomp_key_full: oomp_footprint_kubix89_kicad_microsmp_50ced1
+    oomp_key_simple: kubix89_kicad_microsmp
     original_filename: kiCAD.pretty/MicroSMP.kicad_mod
     owner_name: kubix89
   oomp_key: oomp_kubix89_kicad_microsmp
+  oomp_key_full: oomp_footprint_kubix89_kicad_microsmp
   oomp_key_simple: kubix89_kicad_microsmp
   owner: kubiX89
   repo:

@@ -19,9 +19,18 @@
   oomp:
     footprint_name: hdmi_a_molex_47151_0001
     library_name: connector_hdmi_extra
+    md5: c9f8faf2f9cdde61de5aa7f3d656436d
+    md5_10: c9f8faf2f9
+    md5_5: c9f8f
+    md5_6: c9f8fa
+    oomp_key: oomp_arturo182_connector_hdmi_extra_hdmi_a_molex_47151_0001
+    oomp_key_extra: oomp_footprint_arturo182_connector_hdmi_extra_hdmi_a_molex_47151_0001
+    oomp_key_full: oomp_footprint_arturo182_connector_hdmi_extra_hdmi_a_molex_47151_0001_c9f8fa
+    oomp_key_simple: arturo182_connector_hdmi_extra_hdmi_a_molex_47151_0001
     original_filename: kicad-modules/Connector_HDMI_Extra.pretty/HDMI_A_Molex_47151-0001.kicad_mod
     owner_name: arturo182
   oomp_key: oomp_arturo182_connector_hdmi_extra_hdmi_a_molex_47151_0001
+  oomp_key_full: oomp_footprint_arturo182_connector_hdmi_extra_hdmi_a_molex_47151_0001
   oomp_key_simple: arturo182_connector_hdmi_extra_hdmi_a_molex_47151_0001
   owner: arturo182
   repo:

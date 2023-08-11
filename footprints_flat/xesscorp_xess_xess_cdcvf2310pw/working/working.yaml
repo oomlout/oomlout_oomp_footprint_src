@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_cdcvf2310pw
     library_name: xess
+    md5: 341c04417f9b574bebb01b0f173117a9
+    md5_10: 341c04417f
+    md5_5: 341c0
+    md5_6: 341c04
+    oomp_key: oomp_xesscorp_xess_xess_cdcvf2310pw
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_cdcvf2310pw
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_cdcvf2310pw_341c04
+    oomp_key_simple: xesscorp_xess_xess_cdcvf2310pw
     original_filename: xess.pretty/xess-CDCVF2310PW.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_cdcvf2310pw
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_cdcvf2310pw
   oomp_key_simple: xesscorp_xess_xess_cdcvf2310pw
   owner: xesscorp
   repo:

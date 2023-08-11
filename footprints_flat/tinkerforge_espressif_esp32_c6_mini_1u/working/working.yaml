@@ -17,9 +17,18 @@
   oomp:
     footprint_name: esp32_c6_mini_1u
     library_name: espressif
+    md5: 52e161b3e373bf9026f5fc1994326cf0
+    md5_10: 52e161b3e3
+    md5_5: 52e16
+    md5_6: 52e161
+    oomp_key: oomp_tinkerforge_espressif_esp32_c6_mini_1u
+    oomp_key_extra: oomp_footprint_tinkerforge_espressif_esp32_c6_mini_1u
+    oomp_key_full: oomp_footprint_tinkerforge_espressif_esp32_c6_mini_1u_52e161
+    oomp_key_simple: tinkerforge_espressif_esp32_c6_mini_1u
     original_filename: kicad-libraries/footprints/Espressif.pretty/ESP32-C6-MINI-1U.kicad_mod
     owner_name: tinkerforge
   oomp_key: oomp_tinkerforge_espressif_esp32_c6_mini_1u
+  oomp_key_full: oomp_footprint_tinkerforge_espressif_esp32_c6_mini_1u
   oomp_key_simple: tinkerforge_espressif_esp32_c6_mini_1u
   owner: Tinkerforge
   repo:

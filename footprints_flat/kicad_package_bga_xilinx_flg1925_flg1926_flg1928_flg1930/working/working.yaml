@@ -18,9 +18,18 @@
   oomp:
     footprint_name: xilinx_flg1925_flg1926_flg1928_flg1930
     library_name: package_bga
+    md5: 5b3d3dec6db3ae1979802d12c0cff8e6
+    md5_10: 5b3d3dec6d
+    md5_5: 5b3d3
+    md5_6: 5b3d3d
+    oomp_key: oomp_kicad_package_bga_xilinx_flg1925_flg1926_flg1928_flg1930
+    oomp_key_extra: oomp_footprint_kicad_package_bga_xilinx_flg1925_flg1926_flg1928_flg1930
+    oomp_key_full: oomp_footprint_kicad_package_bga_xilinx_flg1925_flg1926_flg1928_flg1930_5b3d3d
+    oomp_key_simple: kicad_package_bga_xilinx_flg1925_flg1926_flg1928_flg1930
     original_filename: libraries/kicad-footprints/Package_BGA.pretty/Xilinx_FLG1925_FLG1926_FLG1928_FLG1930.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_bga_xilinx_flg1925_flg1926_flg1928_flg1930
+  oomp_key_full: oomp_footprint_kicad_package_bga_xilinx_flg1925_flg1926_flg1928_flg1930
   oomp_key_simple: kicad_package_bga_xilinx_flg1925_flg1926_flg1928_flg1930
   owner: kicad
   repo:

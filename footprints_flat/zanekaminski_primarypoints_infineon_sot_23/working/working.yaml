@@ -17,9 +17,18 @@
   oomp:
     footprint_name: infineon_sot_23
     library_name: primarypoints
+    md5: aa7eec628d7d871295473a848f7be7b1
+    md5_10: aa7eec628d
+    md5_5: aa7ee
+    md5_6: aa7eec
+    oomp_key: oomp_zanekaminski_primarypoints_infineon_sot_23
+    oomp_key_extra: oomp_footprint_zanekaminski_primarypoints_infineon_sot_23
+    oomp_key_full: oomp_footprint_zanekaminski_primarypoints_infineon_sot_23_aa7eec
+    oomp_key_simple: zanekaminski_primarypoints_infineon_sot_23
     original_filename: primarypoints.pretty/Infineon_SOT-23.kicad_mod
     owner_name: zanekaminski
   oomp_key: oomp_zanekaminski_primarypoints_infineon_sot_23
+  oomp_key_full: oomp_footprint_zanekaminski_primarypoints_infineon_sot_23
   oomp_key_simple: zanekaminski_primarypoints_infineon_sot_23
   owner: ZaneKaminski
   repo:

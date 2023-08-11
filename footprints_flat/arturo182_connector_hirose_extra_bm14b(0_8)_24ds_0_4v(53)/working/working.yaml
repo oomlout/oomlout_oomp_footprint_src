@@ -19,9 +19,18 @@
   oomp:
     footprint_name: bm14b(0_8)_24ds_0_4v(53)
     library_name: connector_hirose_extra
+    md5: 9c57d68405ea23513a1140755aba1307
+    md5_10: 9c57d68405
+    md5_5: 9c57d
+    md5_6: 9c57d6
+    oomp_key: oomp_arturo182_connector_hirose_extra_bm14b(0_8)_24ds_0_4v(53)
+    oomp_key_extra: oomp_footprint_arturo182_connector_hirose_extra_bm14b(0_8)_24ds_0_4v(53)
+    oomp_key_full: oomp_footprint_arturo182_connector_hirose_extra_bm14b(0_8)_24ds_0_4v(53)_9c57d6
+    oomp_key_simple: arturo182_connector_hirose_extra_bm14b(0_8)_24ds_0_4v(53)
     original_filename: kicad-modules/Connector_Hirose_Extra.pretty/BM14B(0.8)-24DS-0.4V(53).kicad_mod
     owner_name: arturo182
   oomp_key: oomp_arturo182_connector_hirose_extra_bm14b(0_8)_24ds_0_4v(53)
+  oomp_key_full: oomp_footprint_arturo182_connector_hirose_extra_bm14b(0_8)_24ds_0_4v(53)
   oomp_key_simple: arturo182_connector_hirose_extra_bm14b(0_8)_24ds_0_4v(53)
   owner: arturo182
   repo:

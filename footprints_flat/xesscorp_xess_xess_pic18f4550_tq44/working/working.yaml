@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_pic18f4550_tq44
     library_name: xess
+    md5: 544537df6473f82d0a8c8656c22376bf
+    md5_10: 544537df64
+    md5_5: '54453'
+    md5_6: '544537'
+    oomp_key: oomp_xesscorp_xess_xess_pic18f4550_tq44
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_pic18f4550_tq44
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_pic18f4550_tq44_544537
+    oomp_key_simple: xesscorp_xess_xess_pic18f4550_tq44
     original_filename: xess.pretty/xess-PIC18F4550-TQ44.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_pic18f4550_tq44
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_pic18f4550_tq44
   oomp_key_simple: xesscorp_xess_xess_pic18f4550_tq44
   owner: xesscorp
   repo:

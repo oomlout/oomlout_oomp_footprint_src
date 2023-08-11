@@ -17,9 +17,18 @@
   oomp:
     footprint_name: socket_dip_28_7_62mm_conn
     library_name: digikey_footprints
+    md5: 14ce2f642b16ed012dabdbe680f942dd
+    md5_10: 14ce2f642b
+    md5_5: 14ce2
+    md5_6: 14ce2f
+    oomp_key: oomp_digikey_digikey_footprints_socket_dip_28_7_62mm_conn
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_socket_dip_28_7_62mm_conn
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_socket_dip_28_7_62mm_conn_14ce2f
+    oomp_key_simple: digikey_digikey_footprints_socket_dip_28_7_62mm_conn
     original_filename: digikey-kicad-library/digikey-footprints.pretty/Socket_DIP-28_7.62mm_Conn.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_socket_dip_28_7_62mm_conn
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_socket_dip_28_7_62mm_conn
   oomp_key_simple: digikey_digikey_footprints_socket_dip_28_7_62mm_conn
   owner: digikey
   repo:

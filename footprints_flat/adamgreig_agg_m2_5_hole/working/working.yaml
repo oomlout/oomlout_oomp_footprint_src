@@ -17,9 +17,18 @@
   oomp:
     footprint_name: m2_5_hole
     library_name: agg
+    md5: 586a90baf73bca576efc8ff870466331
+    md5_10: 586a90baf7
+    md5_5: 586a9
+    md5_6: 586a90
+    oomp_key: oomp_adamgreig_agg_m2_5_hole
+    oomp_key_extra: oomp_footprint_adamgreig_agg_m2_5_hole
+    oomp_key_full: oomp_footprint_adamgreig_agg_m2_5_hole_586a90
+    oomp_key_simple: adamgreig_agg_m2_5_hole
     original_filename: agg-kicad/agg.pretty/M2.5_HOLE.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_m2_5_hole
+  oomp_key_full: oomp_footprint_adamgreig_agg_m2_5_hole
   oomp_key_simple: adamgreig_agg_m2_5_hole
   owner: adamgreig
   repo:

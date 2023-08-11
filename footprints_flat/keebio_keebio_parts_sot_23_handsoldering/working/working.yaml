@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sot_23_handsoldering
     library_name: keebio_parts
+    md5: 41ef43cadcb25cc91ad949cbaa08308e
+    md5_10: 41ef43cadc
+    md5_5: 41ef4
+    md5_6: 41ef43
+    oomp_key: oomp_keebio_keebio_parts_sot_23_handsoldering
+    oomp_key_extra: oomp_footprint_keebio_keebio_parts_sot_23_handsoldering
+    oomp_key_full: oomp_footprint_keebio_keebio_parts_sot_23_handsoldering_41ef43
+    oomp_key_simple: keebio_keebio_parts_sot_23_handsoldering
     original_filename: Keebio-Parts.pretty/SOT-23_Handsoldering.kicad_mod
     owner_name: keebio
   oomp_key: oomp_keebio_keebio_parts_sot_23_handsoldering
+  oomp_key_full: oomp_footprint_keebio_keebio_parts_sot_23_handsoldering
   oomp_key_simple: keebio_keebio_parts_sot_23_handsoldering
   owner: keebio
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sw_kailh_kh_isoenter
     library_name: switch_keyboard_kailh
+    md5: c851d8ac5de41b6bd5702a5aaea7257b
+    md5_10: c851d8ac5d
+    md5_5: c851d
+    md5_6: c851d8
+    oomp_key: oomp_wykys_switch_keyboard_kailh_sw_kailh_kh_isoenter
+    oomp_key_extra: oomp_footprint_wykys_switch_keyboard_kailh_sw_kailh_kh_isoenter
+    oomp_key_full: oomp_footprint_wykys_switch_keyboard_kailh_sw_kailh_kh_isoenter_c851d8
+    oomp_key_simple: wykys_switch_keyboard_kailh_sw_kailh_kh_isoenter
     original_filename: kicad/6.0/3rdparty/footprints/com_github_perigoso_keyswitch-kicad-library/Switch_Keyboard_Kailh.pretty/SW_Kailh_KH_ISOEnter.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_switch_keyboard_kailh_sw_kailh_kh_isoenter
+  oomp_key_full: oomp_footprint_wykys_switch_keyboard_kailh_sw_kailh_kh_isoenter
   oomp_key_simple: wykys_switch_keyboard_kailh_sw_kailh_kh_isoenter
   owner: wykys
   repo:

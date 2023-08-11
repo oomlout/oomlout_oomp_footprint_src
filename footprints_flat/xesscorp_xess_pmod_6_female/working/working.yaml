@@ -17,9 +17,18 @@
   oomp:
     footprint_name: pmod_6_female
     library_name: xess
+    md5: 276856bca8a24142dcd3b6db5cc22fba
+    md5_10: 276856bca8
+    md5_5: '27685'
+    md5_6: '276856'
+    oomp_key: oomp_xesscorp_xess_pmod_6_female
+    oomp_key_extra: oomp_footprint_xesscorp_xess_pmod_6_female
+    oomp_key_full: oomp_footprint_xesscorp_xess_pmod_6_female_276856
+    oomp_key_simple: xesscorp_xess_pmod_6_female
     original_filename: xess.pretty/PMOD-6-FEMALE.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_pmod_6_female
+  oomp_key_full: oomp_footprint_xesscorp_xess_pmod_6_female
   oomp_key_simple: xesscorp_xess_pmod_6_female
   owner: xesscorp
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ep13_smt_h_10pin_(2381)
     library_name: transformers_wurthelektronik
+    md5: b63a5c741c9c89f799d57364758d3ad0
+    md5_10: b63a5c741c
+    md5_5: b63a5
+    md5_6: b63a5c
+    oomp_key: oomp_toka_eisos_transformers_wurthelektronik_ep13_smt_h_10pin_(2381)
+    oomp_key_extra: oomp_footprint_toka_eisos_transformers_wurthelektronik_ep13_smt_h_10pin_(2381)
+    oomp_key_full: oomp_footprint_toka_eisos_transformers_wurthelektronik_ep13_smt_h_10pin_(2381)_b63a5c
+    oomp_key_simple: toka_eisos_transformers_wurthelektronik_ep13_smt_h_10pin_(2381)
     original_filename: Transformers_WurthElektronik.pretty/EP13_SMT_H_10PIN_(2381).kicad_mod
     owner_name: toka_eisos
   oomp_key: oomp_toka_eisos_transformers_wurthelektronik_ep13_smt_h_10pin_(2381)
+  oomp_key_full: oomp_footprint_toka_eisos_transformers_wurthelektronik_ep13_smt_h_10pin_(2381)
   oomp_key_simple: toka_eisos_transformers_wurthelektronik_ep13_smt_h_10pin_(2381)
   owner: toka-eisos
   repo:

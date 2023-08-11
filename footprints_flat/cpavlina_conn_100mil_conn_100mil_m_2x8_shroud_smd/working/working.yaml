@@ -17,9 +17,18 @@
   oomp:
     footprint_name: conn_100mil_m_2x8_shroud_smd
     library_name: conn_100mil
+    md5: 5f4726415d87f2e884c6a8a6b56fee39
+    md5_10: 5f4726415d
+    md5_5: 5f472
+    md5_6: 5f4726
+    oomp_key: oomp_cpavlina_conn_100mil_conn_100mil_m_2x8_shroud_smd
+    oomp_key_extra: oomp_footprint_cpavlina_conn_100mil_conn_100mil_m_2x8_shroud_smd
+    oomp_key_full: oomp_footprint_cpavlina_conn_100mil_conn_100mil_m_2x8_shroud_smd_5f4726
+    oomp_key_simple: cpavlina_conn_100mil_conn_100mil_m_2x8_shroud_smd
     original_filename: kicad-pcblib/conn-100mil.pretty/CONN-100MIL-M-2x8-SHROUD-SMD.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_conn_100mil_conn_100mil_m_2x8_shroud_smd
+  oomp_key_full: oomp_footprint_cpavlina_conn_100mil_conn_100mil_m_2x8_shroud_smd
   oomp_key_simple: cpavlina_conn_100mil_conn_100mil_m_2x8_shroud_smd
   owner: cpavlina
   repo:

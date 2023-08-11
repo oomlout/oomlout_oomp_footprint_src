@@ -17,9 +17,18 @@
   oomp:
     footprint_name: capc1320x76
     library_name: ipc7351_least
+    md5: feac3705629169d89a37959f71ddd278
+    md5_10: feac370562
+    md5_5: feac3
+    md5_6: feac37
+    oomp_key: oomp_cpavlina_ipc7351_least_capc1320x76
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_least_capc1320x76
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_least_capc1320x76_feac37
+    oomp_key_simple: cpavlina_ipc7351_least_capc1320x76
     original_filename: kicad-pcblib/IPC7351-Least.pretty/CAPC1320X76.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_least_capc1320x76
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_least_capc1320x76
   oomp_key_simple: cpavlina_ipc7351_least_capc1320x76
   owner: cpavlina
   repo:

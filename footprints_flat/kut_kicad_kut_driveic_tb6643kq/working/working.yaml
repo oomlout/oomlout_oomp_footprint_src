@@ -17,9 +17,18 @@
   oomp:
     footprint_name: tb6643kq
     library_name: kut_driveic
+    md5: 8ad953ba11ccfdbc1f002c7781b7ae32
+    md5_10: 8ad953ba11
+    md5_5: 8ad95
+    md5_6: 8ad953
+    oomp_key: oomp_kut_kicad_kut_driveic_tb6643kq
+    oomp_key_extra: oomp_footprint_kut_kicad_kut_driveic_tb6643kq
+    oomp_key_full: oomp_footprint_kut_kicad_kut_driveic_tb6643kq_8ad953
+    oomp_key_simple: kut_kicad_kut_driveic_tb6643kq
     original_filename: KUT_DriveIC.pretty/TB6643KQ.kicad_mod
     owner_name: kut_kicad
   oomp_key: oomp_kut_kicad_kut_driveic_tb6643kq
+  oomp_key_full: oomp_footprint_kut_kicad_kut_driveic_tb6643kq
   oomp_key_simple: kut_kicad_kut_driveic_tb6643kq
   owner: KUT-KiCad
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: relay_spdt_omron_g6rn
     library_name: suf_relay
+    md5: f1991e7256fcdf6d4f0e1a6d63fa9883
+    md5_10: f1991e7256
+    md5_5: f1991
+    md5_6: f1991e
+    oomp_key: oomp_suf_kicad_suf_relay_relay_spdt_omron_g6rn
+    oomp_key_extra: oomp_footprint_suf_kicad_suf_relay_relay_spdt_omron_g6rn
+    oomp_key_full: oomp_footprint_suf_kicad_suf_relay_relay_spdt_omron_g6rn_f1991e
+    oomp_key_simple: suf_kicad_suf_relay_relay_spdt_omron_g6rn
     original_filename: suf_relay.pretty/Relay_SPDT_Omron_G6RN.kicad_mod
     owner_name: suf_kicad
   oomp_key: oomp_suf_kicad_suf_relay_relay_spdt_omron_g6rn
+  oomp_key_full: oomp_footprint_suf_kicad_suf_relay_relay_spdt_omron_g6rn
   oomp_key_simple: suf_kicad_suf_relay_relay_spdt_omron_g6rn
   owner: suf-KiCAD
   repo:

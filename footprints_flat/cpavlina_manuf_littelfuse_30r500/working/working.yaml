@@ -17,9 +17,18 @@
   oomp:
     footprint_name: littelfuse_30r500
     library_name: manuf
+    md5: ba90e5d12b600555609a4e86194aa0b2
+    md5_10: ba90e5d12b
+    md5_5: ba90e
+    md5_6: ba90e5
+    oomp_key: oomp_cpavlina_manuf_littelfuse_30r500
+    oomp_key_extra: oomp_footprint_cpavlina_manuf_littelfuse_30r500
+    oomp_key_full: oomp_footprint_cpavlina_manuf_littelfuse_30r500_ba90e5
+    oomp_key_simple: cpavlina_manuf_littelfuse_30r500
     original_filename: kicad-pcblib/manuf.pretty/LITTELFUSE-30R500.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_manuf_littelfuse_30r500
+  oomp_key_full: oomp_footprint_cpavlina_manuf_littelfuse_30r500
   oomp_key_simple: cpavlina_manuf_littelfuse_30r500
   owner: cpavlina
   repo:

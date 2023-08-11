@@ -17,9 +17,18 @@
   oomp:
     footprint_name: teensy30_31_32_all_pins
     library_name: teensy
+    md5: 87de6dd19b0b4f68ae9184281020de61
+    md5_10: 87de6dd19b
+    md5_5: 87de6
+    md5_6: 87de6d
+    oomp_key: oomp_xengi_teensy_teensy30_31_32_all_pins
+    oomp_key_extra: oomp_footprint_xengi_teensy_teensy30_31_32_all_pins
+    oomp_key_full: oomp_footprint_xengi_teensy_teensy30_31_32_all_pins_87de6d
+    oomp_key_simple: xengi_teensy_teensy30_31_32_all_pins
     original_filename: teensy.pretty/Teensy30_31_32_All_Pins.kicad_mod
     owner_name: xengi
   oomp_key: oomp_xengi_teensy_teensy30_31_32_all_pins
+  oomp_key_full: oomp_footprint_xengi_teensy_teensy30_31_32_all_pins
   oomp_key_simple: xengi_teensy_teensy30_31_32_all_pins
   owner: XenGi
   repo:

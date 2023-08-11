@@ -17,9 +17,18 @@
   oomp:
     footprint_name: testpad
     library_name: _div
+    md5: 63ee77b53fb5dc9d0aa38fda81607413
+    md5_10: 63ee77b53f
+    md5_5: 63ee7
+    md5_6: 63ee77
+    oomp_key: oomp_mcous_div_testpad
+    oomp_key_extra: oomp_footprint_mcous_div_testpad
+    oomp_key_full: oomp_footprint_mcous_div_testpad_63ee77
+    oomp_key_simple: mcous_div_testpad
     original_filename: kicad-lib/footprints/_div.pretty/TestPad.kicad_mod
     owner_name: mcous
   oomp_key: oomp_mcous_div_testpad
+  oomp_key_full: oomp_footprint_mcous_div_testpad
   oomp_key_simple: mcous_div_testpad
   owner: mcous
   repo:

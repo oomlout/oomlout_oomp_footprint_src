@@ -17,9 +17,18 @@
   oomp:
     footprint_name: diode_long
     library_name: keebio_parts
+    md5: ea3a6b7e8617120d6d1a364be27694bb
+    md5_10: ea3a6b7e86
+    md5_5: ea3a6
+    md5_6: ea3a6b
+    oomp_key: oomp_keebio_keebio_parts_diode_long
+    oomp_key_extra: oomp_footprint_keebio_keebio_parts_diode_long
+    oomp_key_full: oomp_footprint_keebio_keebio_parts_diode_long_ea3a6b
+    oomp_key_simple: keebio_keebio_parts_diode_long
     original_filename: Keebio-Parts.pretty/Diode_Long.kicad_mod
     owner_name: keebio
   oomp_key: oomp_keebio_keebio_parts_diode_long
+  oomp_key_full: oomp_footprint_keebio_keebio_parts_diode_long
   oomp_key_simple: keebio_keebio_parts_diode_long
   owner: keebio
   repo:

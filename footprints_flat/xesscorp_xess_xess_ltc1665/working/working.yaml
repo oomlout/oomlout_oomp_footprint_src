@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_ltc1665
     library_name: xess
+    md5: 6ca940f871790550ed94bf32e03c7fa4
+    md5_10: 6ca940f871
+    md5_5: 6ca94
+    md5_6: 6ca940
+    oomp_key: oomp_xesscorp_xess_xess_ltc1665
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_ltc1665
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_ltc1665_6ca940
+    oomp_key_simple: xesscorp_xess_xess_ltc1665
     original_filename: xess.pretty/xess-LTC1665.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_ltc1665
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_ltc1665
   oomp_key_simple: xesscorp_xess_xess_ltc1665
   owner: xesscorp
   repo:

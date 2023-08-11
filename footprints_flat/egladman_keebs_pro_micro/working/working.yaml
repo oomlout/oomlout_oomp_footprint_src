@@ -17,9 +17,18 @@
   oomp:
     footprint_name: pro_micro
     library_name: keebs
+    md5: c2ba0b7bfc369c533d421fe5f6545b32
+    md5_10: c2ba0b7bfc
+    md5_5: c2ba0
+    md5_6: c2ba0b
+    oomp_key: oomp_egladman_keebs_pro_micro
+    oomp_key_extra: oomp_footprint_egladman_keebs_pro_micro
+    oomp_key_full: oomp_footprint_egladman_keebs_pro_micro_c2ba0b
+    oomp_key_simple: egladman_keebs_pro_micro
     original_filename: keebs.pretty/Pro_Micro.kicad_mod
     owner_name: egladman
   oomp_key: oomp_egladman_keebs_pro_micro
+  oomp_key_full: oomp_footprint_egladman_keebs_pro_micro
   oomp_key_simple: egladman_keebs_pro_micro
   owner: egladman
   repo:

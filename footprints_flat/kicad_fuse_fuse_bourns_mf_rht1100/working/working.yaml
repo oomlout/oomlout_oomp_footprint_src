@@ -17,9 +17,18 @@
   oomp:
     footprint_name: fuse_bourns_mf_rht1100
     library_name: fuse
+    md5: cfd860f3073744abe84fdc260bf5b176
+    md5_10: cfd860f307
+    md5_5: cfd86
+    md5_6: cfd860
+    oomp_key: oomp_kicad_fuse_fuse_bourns_mf_rht1100
+    oomp_key_extra: oomp_footprint_kicad_fuse_fuse_bourns_mf_rht1100
+    oomp_key_full: oomp_footprint_kicad_fuse_fuse_bourns_mf_rht1100_cfd860
+    oomp_key_simple: kicad_fuse_fuse_bourns_mf_rht1100
     original_filename: libraries/kicad-footprints/Fuse.pretty/Fuse_Bourns_MF-RHT1100.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_fuse_fuse_bourns_mf_rht1100
+  oomp_key_full: oomp_footprint_kicad_fuse_fuse_bourns_mf_rht1100
   oomp_key_simple: kicad_fuse_fuse_bourns_mf_rht1100
   owner: kicad
   repo:

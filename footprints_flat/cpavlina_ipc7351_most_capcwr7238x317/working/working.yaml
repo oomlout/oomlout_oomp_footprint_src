@@ -17,9 +17,18 @@
   oomp:
     footprint_name: capcwr7238x317
     library_name: ipc7351_most
+    md5: a02da5188a14a114f85ee97705e6342b
+    md5_10: a02da5188a
+    md5_5: a02da
+    md5_6: a02da5
+    oomp_key: oomp_cpavlina_ipc7351_most_capcwr7238x317
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_most_capcwr7238x317
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_most_capcwr7238x317_a02da5
+    oomp_key_simple: cpavlina_ipc7351_most_capcwr7238x317
     original_filename: kicad-pcblib/IPC7351-Most.pretty/CAPCWR7238X317.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_most_capcwr7238x317
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_most_capcwr7238x317
   oomp_key_simple: cpavlina_ipc7351_most_capcwr7238x317
   owner: cpavlina
   repo:

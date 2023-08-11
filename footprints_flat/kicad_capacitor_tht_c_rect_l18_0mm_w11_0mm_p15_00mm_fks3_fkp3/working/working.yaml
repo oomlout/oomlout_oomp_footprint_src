@@ -18,9 +18,18 @@
   oomp:
     footprint_name: c_rect_l18_0mm_w11_0mm_p15_00mm_fks3_fkp3
     library_name: capacitor_tht
+    md5: fcd288db17ae830d602ae494ffb3c547
+    md5_10: fcd288db17
+    md5_5: fcd28
+    md5_6: fcd288
+    oomp_key: oomp_kicad_capacitor_tht_c_rect_l18_0mm_w11_0mm_p15_00mm_fks3_fkp3
+    oomp_key_extra: oomp_footprint_kicad_capacitor_tht_c_rect_l18_0mm_w11_0mm_p15_00mm_fks3_fkp3
+    oomp_key_full: oomp_footprint_kicad_capacitor_tht_c_rect_l18_0mm_w11_0mm_p15_00mm_fks3_fkp3_fcd288
+    oomp_key_simple: kicad_capacitor_tht_c_rect_l18_0mm_w11_0mm_p15_00mm_fks3_fkp3
     original_filename: libraries/kicad-footprints/Capacitor_THT.pretty/C_Rect_L18.0mm_W11.0mm_P15.00mm_FKS3_FKP3.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_capacitor_tht_c_rect_l18_0mm_w11_0mm_p15_00mm_fks3_fkp3
+  oomp_key_full: oomp_footprint_kicad_capacitor_tht_c_rect_l18_0mm_w11_0mm_p15_00mm_fks3_fkp3
   oomp_key_simple: kicad_capacitor_tht_c_rect_l18_0mm_w11_0mm_p15_00mm_fks3_fkp3
   owner: kicad
   repo:

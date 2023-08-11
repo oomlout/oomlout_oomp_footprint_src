@@ -19,9 +19,18 @@
   oomp:
     footprint_name: cp_eia_7343_15_kemet_w_pad2_25x2_55mm_handsolder
     library_name: capacitor_tantalum_smd
+    md5: 65e24bbe17c4efd58507dff363364cea
+    md5_10: 65e24bbe17
+    md5_5: 65e24
+    md5_6: 65e24b
+    oomp_key: oomp_kicad_capacitor_tantalum_smd_cp_eia_7343_15_kemet_w_pad2_25x2_55mm_handsolder
+    oomp_key_extra: oomp_footprint_kicad_capacitor_tantalum_smd_cp_eia_7343_15_kemet_w_pad2_25x2_55mm_handsolder
+    oomp_key_full: oomp_footprint_kicad_capacitor_tantalum_smd_cp_eia_7343_15_kemet_w_pad2_25x2_55mm_handsolder_65e24b
+    oomp_key_simple: kicad_capacitor_tantalum_smd_cp_eia_7343_15_kemet_w_pad2_25x2_55mm_handsolder
     original_filename: libraries/kicad-footprints/Capacitor_Tantalum_SMD.pretty/CP_EIA-7343-15_Kemet-W_Pad2.25x2.55mm_HandSolder.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_capacitor_tantalum_smd_cp_eia_7343_15_kemet_w_pad2_25x2_55mm_handsolder
+  oomp_key_full: oomp_footprint_kicad_capacitor_tantalum_smd_cp_eia_7343_15_kemet_w_pad2_25x2_55mm_handsolder
   oomp_key_simple: kicad_capacitor_tantalum_smd_cp_eia_7343_15_kemet_w_pad2_25x2_55mm_handsolder
   owner: kicad
   repo:

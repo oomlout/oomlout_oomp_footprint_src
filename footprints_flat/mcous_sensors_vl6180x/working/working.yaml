@@ -17,9 +17,18 @@
   oomp:
     footprint_name: vl6180x
     library_name: _sensors
+    md5: 88c3b26f444f39f657efa0e226b6e771
+    md5_10: 88c3b26f44
+    md5_5: 88c3b
+    md5_6: 88c3b2
+    oomp_key: oomp_mcous_sensors_vl6180x
+    oomp_key_extra: oomp_footprint_mcous_sensors_vl6180x
+    oomp_key_full: oomp_footprint_mcous_sensors_vl6180x_88c3b2
+    oomp_key_simple: mcous_sensors_vl6180x
     original_filename: kicad-lib/footprints/_sensors.pretty/VL6180X.kicad_mod
     owner_name: mcous
   oomp_key: oomp_mcous_sensors_vl6180x
+  oomp_key_full: oomp_footprint_mcous_sensors_vl6180x
   oomp_key_simple: mcous_sensors_vl6180x
   owner: mcous
   repo:

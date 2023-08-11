@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ce_logo_56_1x40mm_silkscreen
     library_name: symbol
+    md5: 48f0d3b6feb29d5bcdcf339294180f15
+    md5_10: 48f0d3b6fe
+    md5_5: 48f0d
+    md5_6: 48f0d3
+    oomp_key: oomp_kicad_symbol_ce_logo_56_1x40mm_silkscreen
+    oomp_key_extra: oomp_footprint_kicad_symbol_ce_logo_56_1x40mm_silkscreen
+    oomp_key_full: oomp_footprint_kicad_symbol_ce_logo_56_1x40mm_silkscreen_48f0d3
+    oomp_key_simple: kicad_symbol_ce_logo_56_1x40mm_silkscreen
     original_filename: libraries/kicad-footprints/Symbol.pretty/CE-Logo_56.1x40mm_SilkScreen.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_symbol_ce_logo_56_1x40mm_silkscreen
+  oomp_key_full: oomp_footprint_kicad_symbol_ce_logo_56_1x40mm_silkscreen
   oomp_key_simple: kicad_symbol_ce_logo_56_1x40mm_silkscreen
   owner: kicad
   repo:

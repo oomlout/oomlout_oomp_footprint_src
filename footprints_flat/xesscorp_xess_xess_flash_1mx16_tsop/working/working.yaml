@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_flash_1mx16_tsop
     library_name: xess
+    md5: 3a3d1a297ef467f49abc2724a6cefae7
+    md5_10: 3a3d1a297e
+    md5_5: 3a3d1
+    md5_6: 3a3d1a
+    oomp_key: oomp_xesscorp_xess_xess_flash_1mx16_tsop
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_flash_1mx16_tsop
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_flash_1mx16_tsop_3a3d1a
+    oomp_key_simple: xesscorp_xess_xess_flash_1mx16_tsop
     original_filename: xess.pretty/xess-FLASH-1MX16-TSOP.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_flash_1mx16_tsop
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_flash_1mx16_tsop
   oomp_key_simple: xesscorp_xess_xess_flash_1mx16_tsop
   owner: xesscorp
   repo:

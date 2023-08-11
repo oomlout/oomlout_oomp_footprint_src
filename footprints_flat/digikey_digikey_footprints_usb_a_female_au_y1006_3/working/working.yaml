@@ -17,9 +17,18 @@
   oomp:
     footprint_name: usb_a_female_au_y1006_3
     library_name: digikey_footprints
+    md5: aa7dbccd2823d56cce02f59ee7f52c2e
+    md5_10: aa7dbccd28
+    md5_5: aa7db
+    md5_6: aa7dbc
+    oomp_key: oomp_digikey_digikey_footprints_usb_a_female_au_y1006_3
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_usb_a_female_au_y1006_3
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_usb_a_female_au_y1006_3_aa7dbc
+    oomp_key_simple: digikey_digikey_footprints_usb_a_female_au_y1006_3
     original_filename: digikey-kicad-library/digikey-footprints.pretty/USB_A_Female_AU-Y1006-3.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_usb_a_female_au_y1006_3
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_usb_a_female_au_y1006_3
   oomp_key_simple: digikey_digikey_footprints_usb_a_female_au_y1006_3
   owner: digikey
   repo:

@@ -18,9 +18,18 @@
   oomp:
     footprint_name: hirose_df11_24dp_2dsa_2x12_p2_00mm_vertical
     library_name: connector_hirose
+    md5: e7f01533f9792cdc25fcff2c0d594f12
+    md5_10: e7f01533f9
+    md5_5: e7f01
+    md5_6: e7f015
+    oomp_key: oomp_kicad_connector_hirose_hirose_df11_24dp_2dsa_2x12_p2_00mm_vertical
+    oomp_key_extra: oomp_footprint_kicad_connector_hirose_hirose_df11_24dp_2dsa_2x12_p2_00mm_vertical
+    oomp_key_full: oomp_footprint_kicad_connector_hirose_hirose_df11_24dp_2dsa_2x12_p2_00mm_vertical_e7f015
+    oomp_key_simple: kicad_connector_hirose_hirose_df11_24dp_2dsa_2x12_p2_00mm_vertical
     original_filename: libraries/kicad-footprints/Connector_Hirose.pretty/Hirose_DF11-24DP-2DSA_2x12_P2.00mm_Vertical.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_hirose_hirose_df11_24dp_2dsa_2x12_p2_00mm_vertical
+  oomp_key_full: oomp_footprint_kicad_connector_hirose_hirose_df11_24dp_2dsa_2x12_p2_00mm_vertical
   oomp_key_simple: kicad_connector_hirose_hirose_df11_24dp_2dsa_2x12_p2_00mm_vertical
   owner: kicad
   repo:

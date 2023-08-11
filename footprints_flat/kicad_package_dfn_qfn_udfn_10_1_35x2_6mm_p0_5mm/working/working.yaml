@@ -17,9 +17,18 @@
   oomp:
     footprint_name: udfn_10_1_35x2_6mm_p0_5mm
     library_name: package_dfn_qfn
+    md5: e0b71230524c65947b8fb0522c8eee6f
+    md5_10: e0b7123052
+    md5_5: e0b71
+    md5_6: e0b712
+    oomp_key: oomp_kicad_package_dfn_qfn_udfn_10_1_35x2_6mm_p0_5mm
+    oomp_key_extra: oomp_footprint_kicad_package_dfn_qfn_udfn_10_1_35x2_6mm_p0_5mm
+    oomp_key_full: oomp_footprint_kicad_package_dfn_qfn_udfn_10_1_35x2_6mm_p0_5mm_e0b712
+    oomp_key_simple: kicad_package_dfn_qfn_udfn_10_1_35x2_6mm_p0_5mm
     original_filename: libraries/kicad-footprints/Package_DFN_QFN.pretty/UDFN-10_1.35x2.6mm_P0.5mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_dfn_qfn_udfn_10_1_35x2_6mm_p0_5mm
+  oomp_key_full: oomp_footprint_kicad_package_dfn_qfn_udfn_10_1_35x2_6mm_p0_5mm
   oomp_key_simple: kicad_package_dfn_qfn_udfn_10_1_35x2_6mm_p0_5mm
   owner: kicad
   repo:

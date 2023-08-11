@@ -17,9 +17,18 @@
   oomp:
     footprint_name: 5waynavswitch
     library_name: andnxor_kicad
+    md5: 7b679c517bcc15bb36bd6701424c9117
+    md5_10: 7b679c517b
+    md5_5: 7b679
+    md5_6: 7b679c
+    oomp_key: oomp_andnxor_andnxor_kicad_5waynavswitch
+    oomp_key_extra: oomp_footprint_andnxor_andnxor_kicad_5waynavswitch
+    oomp_key_full: oomp_footprint_andnxor_andnxor_kicad_5waynavswitch_7b679c
+    oomp_key_simple: andnxor_andnxor_kicad_5waynavswitch
     original_filename: ANDnXOR-Kicad.pretty/5WayNavSwitch.kicad_mod
     owner_name: andnxor
   oomp_key: oomp_andnxor_andnxor_kicad_5waynavswitch
+  oomp_key_full: oomp_footprint_andnxor_andnxor_kicad_5waynavswitch
   oomp_key_simple: andnxor_andnxor_kicad_5waynavswitch
   owner: ANDnXOR
   repo:

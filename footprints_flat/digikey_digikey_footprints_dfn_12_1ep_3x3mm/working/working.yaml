@@ -17,9 +17,18 @@
   oomp:
     footprint_name: dfn_12_1ep_3x3mm
     library_name: digikey_footprints
+    md5: 63499f83842e8e452cd541431c90a9fc
+    md5_10: 63499f8384
+    md5_5: '63499'
+    md5_6: 63499f
+    oomp_key: oomp_digikey_digikey_footprints_dfn_12_1ep_3x3mm
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_dfn_12_1ep_3x3mm
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_dfn_12_1ep_3x3mm_63499f
+    oomp_key_simple: digikey_digikey_footprints_dfn_12_1ep_3x3mm
     original_filename: digikey-kicad-library/digikey-footprints.pretty/DFN-12-1EP_3x3mm.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_dfn_12_1ep_3x3mm
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_dfn_12_1ep_3x3mm
   oomp_key_simple: digikey_digikey_footprints_dfn_12_1ep_3x3mm
   owner: digikey
   repo:

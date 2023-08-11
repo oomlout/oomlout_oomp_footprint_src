@@ -17,9 +17,18 @@
   oomp:
     footprint_name: kicad_logo2_20mm_silkscreen
     library_name: symbol
+    md5: 59106d40377af94d9ae053b015162ce9
+    md5_10: 59106d4037
+    md5_5: '59106'
+    md5_6: 59106d
+    oomp_key: oomp_kicad_symbol_kicad_logo2_20mm_silkscreen
+    oomp_key_extra: oomp_footprint_kicad_symbol_kicad_logo2_20mm_silkscreen
+    oomp_key_full: oomp_footprint_kicad_symbol_kicad_logo2_20mm_silkscreen_59106d
+    oomp_key_simple: kicad_symbol_kicad_logo2_20mm_silkscreen
     original_filename: libraries/kicad-footprints/Symbol.pretty/KiCad-Logo2_20mm_SilkScreen.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_symbol_kicad_logo2_20mm_silkscreen
+  oomp_key_full: oomp_footprint_kicad_symbol_kicad_logo2_20mm_silkscreen
   oomp_key_simple: kicad_symbol_kicad_logo2_20mm_silkscreen
   owner: kicad
   repo:

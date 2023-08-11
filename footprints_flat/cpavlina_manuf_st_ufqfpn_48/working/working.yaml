@@ -17,9 +17,18 @@
   oomp:
     footprint_name: st_ufqfpn_48
     library_name: manuf
+    md5: 28c2e8b3206480e93c5f0b12293932af
+    md5_10: 28c2e8b320
+    md5_5: 28c2e
+    md5_6: 28c2e8
+    oomp_key: oomp_cpavlina_manuf_st_ufqfpn_48
+    oomp_key_extra: oomp_footprint_cpavlina_manuf_st_ufqfpn_48
+    oomp_key_full: oomp_footprint_cpavlina_manuf_st_ufqfpn_48_28c2e8
+    oomp_key_simple: cpavlina_manuf_st_ufqfpn_48
     original_filename: kicad-pcblib/manuf.pretty/ST_UFQFPN-48.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_manuf_st_ufqfpn_48
+  oomp_key_full: oomp_footprint_cpavlina_manuf_st_ufqfpn_48
   oomp_key_simple: cpavlina_manuf_st_ufqfpn_48
   owner: cpavlina
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: led_0805_large
     library_name: freetronics_footprints
+    md5: 3c1c2a8a30574a5f44766733abef99e3
+    md5_10: 3c1c2a8a30
+    md5_5: 3c1c2
+    md5_6: 3c1c2a
+    oomp_key: oomp_axello_freetronics_footprints_led_0805_large
+    oomp_key_extra: oomp_footprint_axello_freetronics_footprints_led_0805_large
+    oomp_key_full: oomp_footprint_axello_freetronics_footprints_led_0805_large_3c1c2a
+    oomp_key_simple: axello_freetronics_footprints_led_0805_large
     original_filename: kicad/mods/freetronics_footprints.pretty/LED-0805-LARGE.kicad_mod
     owner_name: axello
   oomp_key: oomp_axello_freetronics_footprints_led_0805_large
+  oomp_key_full: oomp_footprint_axello_freetronics_footprints_led_0805_large
   oomp_key_simple: axello_freetronics_footprints_led_0805_large
   owner: axello
   repo:

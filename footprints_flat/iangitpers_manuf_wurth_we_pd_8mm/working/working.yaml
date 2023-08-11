@@ -19,9 +19,18 @@
   oomp:
     footprint_name: wurth_we_pd_8mm
     library_name: manuf
+    md5: 5fa4f9812d9c4602ac12dde2918c6166
+    md5_10: 5fa4f9812d
+    md5_5: 5fa4f
+    md5_6: 5fa4f9
+    oomp_key: oomp_iangitpers_manuf_wurth_we_pd_8mm
+    oomp_key_extra: oomp_footprint_iangitpers_manuf_wurth_we_pd_8mm
+    oomp_key_full: oomp_footprint_iangitpers_manuf_wurth_we_pd_8mm_5fa4f9
+    oomp_key_simple: iangitpers_manuf_wurth_we_pd_8mm
     original_filename: 4a/manuf.pretty/WURTH-WE-PD-8MM.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_manuf_wurth_we_pd_8mm
+  oomp_key_full: oomp_footprint_iangitpers_manuf_wurth_we_pd_8mm
   oomp_key_simple: iangitpers_manuf_wurth_we_pd_8mm
   owner: Iangitpers
   repo:

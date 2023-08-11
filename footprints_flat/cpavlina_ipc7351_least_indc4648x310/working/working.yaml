@@ -17,9 +17,18 @@
   oomp:
     footprint_name: indc4648x310
     library_name: ipc7351_least
+    md5: 98dbe2f2c283275480a952a4ea18f61e
+    md5_10: 98dbe2f2c2
+    md5_5: 98dbe
+    md5_6: 98dbe2
+    oomp_key: oomp_cpavlina_ipc7351_least_indc4648x310
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_least_indc4648x310
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_least_indc4648x310_98dbe2
+    oomp_key_simple: cpavlina_ipc7351_least_indc4648x310
     original_filename: kicad-pcblib/IPC7351-Least.pretty/INDC4648X310.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_least_indc4648x310
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_least_indc4648x310
   oomp_key_simple: cpavlina_ipc7351_least_indc4648x310
   owner: cpavlina
   repo:

@@ -19,9 +19,18 @@
   oomp:
     footprint_name: mountinghole_6_4mm_m6_din965_pad
     library_name: mountinghole
+    md5: fe475ede57b887450c7c9e3423e9af41
+    md5_10: fe475ede57
+    md5_5: fe475
+    md5_6: fe475e
+    oomp_key: oomp_iangitpers_mountinghole_mountinghole_6_4mm_m6_din965_pad
+    oomp_key_extra: oomp_footprint_iangitpers_mountinghole_mountinghole_6_4mm_m6_din965_pad
+    oomp_key_full: oomp_footprint_iangitpers_mountinghole_mountinghole_6_4mm_m6_din965_pad_fe475e
+    oomp_key_simple: iangitpers_mountinghole_mountinghole_6_4mm_m6_din965_pad
     original_filename: 4a/MountingHole.pretty/MountingHole_6.4mm_M6_DIN965_Pad.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_mountinghole_mountinghole_6_4mm_m6_din965_pad
+  oomp_key_full: oomp_footprint_iangitpers_mountinghole_mountinghole_6_4mm_m6_din965_pad
   oomp_key_simple: iangitpers_mountinghole_mountinghole_6_4mm_m6_din965_pad
   owner: Iangitpers
   repo:

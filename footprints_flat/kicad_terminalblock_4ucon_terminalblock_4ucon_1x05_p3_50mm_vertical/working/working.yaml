@@ -20,9 +20,18 @@
   oomp:
     footprint_name: terminalblock_4ucon_1x05_p3_50mm_vertical
     library_name: terminalblock_4ucon
+    md5: 80c2984c97bf5d0cb9ac8b8f09fae35e
+    md5_10: 80c2984c97
+    md5_5: 80c29
+    md5_6: 80c298
+    oomp_key: oomp_kicad_terminalblock_4ucon_terminalblock_4ucon_1x05_p3_50mm_vertical
+    oomp_key_extra: oomp_footprint_kicad_terminalblock_4ucon_terminalblock_4ucon_1x05_p3_50mm_vertical
+    oomp_key_full: oomp_footprint_kicad_terminalblock_4ucon_terminalblock_4ucon_1x05_p3_50mm_vertical_80c298
+    oomp_key_simple: kicad_terminalblock_4ucon_terminalblock_4ucon_1x05_p3_50mm_vertical
     original_filename: libraries/kicad-footprints/TerminalBlock_4Ucon.pretty/TerminalBlock_4Ucon_1x05_P3.50mm_Vertical.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_terminalblock_4ucon_terminalblock_4ucon_1x05_p3_50mm_vertical
+  oomp_key_full: oomp_footprint_kicad_terminalblock_4ucon_terminalblock_4ucon_1x05_p3_50mm_vertical
   oomp_key_simple: kicad_terminalblock_4ucon_terminalblock_4ucon_1x05_p3_50mm_vertical
   owner: kicad
   repo:

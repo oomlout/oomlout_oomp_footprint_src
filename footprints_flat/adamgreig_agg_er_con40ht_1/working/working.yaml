@@ -17,9 +17,18 @@
   oomp:
     footprint_name: er_con40ht_1
     library_name: agg
+    md5: 3db3858a1d39835c6df5e91cb1867199
+    md5_10: 3db3858a1d
+    md5_5: 3db38
+    md5_6: 3db385
+    oomp_key: oomp_adamgreig_agg_er_con40ht_1
+    oomp_key_extra: oomp_footprint_adamgreig_agg_er_con40ht_1
+    oomp_key_full: oomp_footprint_adamgreig_agg_er_con40ht_1_3db385
+    oomp_key_simple: adamgreig_agg_er_con40ht_1
     original_filename: agg-kicad/agg.pretty/ER-CON40HT-1.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_er_con40ht_1
+  oomp_key_full: oomp_footprint_adamgreig_agg_er_con40ht_1
   oomp_key_simple: adamgreig_agg_er_con40ht_1
   owner: adamgreig
   repo:

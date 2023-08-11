@@ -17,9 +17,18 @@
   oomp:
     footprint_name: diode_1n4148
     library_name: freetronics_footprints
+    md5: de80d748d91bfe75a5d60837611dea3b
+    md5_10: de80d748d9
+    md5_5: de80d
+    md5_6: de80d7
+    oomp_key: oomp_joanthespark_freetronics_footprints_diode_1n4148
+    oomp_key_extra: oomp_footprint_joanthespark_freetronics_footprints_diode_1n4148
+    oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_diode_1n4148_de80d7
+    oomp_key_simple: joanthespark_freetronics_footprints_diode_1n4148
     original_filename: KiCAD/mods/freetronics_footprints.pretty/DIODE-1N4148.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_freetronics_footprints_diode_1n4148
+  oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_diode_1n4148
   oomp_key_simple: joanthespark_freetronics_footprints_diode_1n4148
   owner: JoanTheSpark
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: linear_ls8_handsolder
     library_name: manuf
+    md5: 56867bfe20de17b39b9f448c169f8422
+    md5_10: 56867bfe20
+    md5_5: '56867'
+    md5_6: 56867b
+    oomp_key: oomp_cpavlina_manuf_linear_ls8_handsolder
+    oomp_key_extra: oomp_footprint_cpavlina_manuf_linear_ls8_handsolder
+    oomp_key_full: oomp_footprint_cpavlina_manuf_linear_ls8_handsolder_56867b
+    oomp_key_simple: cpavlina_manuf_linear_ls8_handsolder
     original_filename: kicad-pcblib/manuf.pretty/LINEAR-LS8-HANDSOLDER.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_manuf_linear_ls8_handsolder
+  oomp_key_full: oomp_footprint_cpavlina_manuf_linear_ls8_handsolder
   oomp_key_simple: cpavlina_manuf_linear_ls8_handsolder
   owner: cpavlina
   repo:

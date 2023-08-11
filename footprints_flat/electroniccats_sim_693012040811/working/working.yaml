@@ -15,9 +15,18 @@
   oomp:
     footprint_name: '693012040811'
     library_name: sim
+    md5: bdc6420cc293393998dec3c0508b74f0
+    md5_10: bdc6420cc2
+    md5_5: bdc64
+    md5_6: bdc642
+    oomp_key: oomp_electroniccats_sim_693012040811
+    oomp_key_extra: oomp_footprint_electroniccats_sim_693012040811
+    oomp_key_full: oomp_footprint_electroniccats_sim_693012040811_bdc642
+    oomp_key_simple: electroniccats_sim_693012040811
     original_filename: ComponentLibrariesKicadWurthElektronik/INPUT_OUTPUT_CONNECTORS-rev17b/SIM.pretty/693012040811.kicad_mod
     owner_name: electroniccats
   oomp_key: oomp_electroniccats_sim_693012040811
+  oomp_key_full: oomp_footprint_electroniccats_sim_693012040811
   oomp_key_simple: electroniccats_sim_693012040811
   owner: ElectronicCats
   repo:

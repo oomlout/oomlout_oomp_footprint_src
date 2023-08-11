@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ultra_fit_01x03
     library_name: agg
+    md5: ef9c1949e2d12eb22255aa3176a4913a
+    md5_10: ef9c1949e2
+    md5_5: ef9c1
+    md5_6: ef9c19
+    oomp_key: oomp_adamgreig_agg_ultra_fit_01x03
+    oomp_key_extra: oomp_footprint_adamgreig_agg_ultra_fit_01x03
+    oomp_key_full: oomp_footprint_adamgreig_agg_ultra_fit_01x03_ef9c19
+    oomp_key_simple: adamgreig_agg_ultra_fit_01x03
     original_filename: agg-kicad/agg.pretty/ULTRA-FIT-01x03.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_ultra_fit_01x03
+  oomp_key_full: oomp_footprint_adamgreig_agg_ultra_fit_01x03
   oomp_key_simple: adamgreig_agg_ultra_fit_01x03
   owner: adamgreig
   repo:

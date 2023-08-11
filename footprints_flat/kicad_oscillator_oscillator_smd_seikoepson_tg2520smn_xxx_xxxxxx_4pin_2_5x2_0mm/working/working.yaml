@@ -17,9 +17,18 @@
   oomp:
     footprint_name: oscillator_smd_seikoepson_tg2520smn_xxx_xxxxxx_4pin_2_5x2_0mm
     library_name: oscillator
+    md5: 94d946de19be65f8b9d7a38834189e47
+    md5_10: 94d946de19
+    md5_5: 94d94
+    md5_6: 94d946
+    oomp_key: oomp_kicad_oscillator_oscillator_smd_seikoepson_tg2520smn_xxx_xxxxxx_4pin_2_5x2_0mm
+    oomp_key_extra: oomp_footprint_kicad_oscillator_oscillator_smd_seikoepson_tg2520smn_xxx_xxxxxx_4pin_2_5x2_0mm
+    oomp_key_full: oomp_footprint_kicad_oscillator_oscillator_smd_seikoepson_tg2520smn_xxx_xxxxxx_4pin_2_5x2_0mm_94d946
+    oomp_key_simple: kicad_oscillator_oscillator_smd_seikoepson_tg2520smn_xxx_xxxxxx_4pin_2_5x2_0mm
     original_filename: libraries/kicad-footprints/Oscillator.pretty/Oscillator_SMD_SeikoEpson_TG2520SMN-xxx-xxxxxx-4Pin_2.5x2.0mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_oscillator_oscillator_smd_seikoepson_tg2520smn_xxx_xxxxxx_4pin_2_5x2_0mm
+  oomp_key_full: oomp_footprint_kicad_oscillator_oscillator_smd_seikoepson_tg2520smn_xxx_xxxxxx_4pin_2_5x2_0mm
   oomp_key_simple: kicad_oscillator_oscillator_smd_seikoepson_tg2520smn_xxx_xxxxxx_4pin_2_5x2_0mm
   owner: kicad
   repo:

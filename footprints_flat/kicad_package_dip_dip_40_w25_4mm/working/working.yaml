@@ -18,9 +18,18 @@
   oomp:
     footprint_name: dip_40_w25_4mm
     library_name: package_dip
+    md5: a450e7a9f536dd78133b574e61aaa0d1
+    md5_10: a450e7a9f5
+    md5_5: a450e
+    md5_6: a450e7
+    oomp_key: oomp_kicad_package_dip_dip_40_w25_4mm
+    oomp_key_extra: oomp_footprint_kicad_package_dip_dip_40_w25_4mm
+    oomp_key_full: oomp_footprint_kicad_package_dip_dip_40_w25_4mm_a450e7
+    oomp_key_simple: kicad_package_dip_dip_40_w25_4mm
     original_filename: libraries/kicad-footprints/Package_DIP.pretty/DIP-40_W25.4mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_dip_dip_40_w25_4mm
+  oomp_key_full: oomp_footprint_kicad_package_dip_dip_40_w25_4mm
   oomp_key_simple: kicad_package_dip_dip_40_w25_4mm
   owner: kicad
   repo:

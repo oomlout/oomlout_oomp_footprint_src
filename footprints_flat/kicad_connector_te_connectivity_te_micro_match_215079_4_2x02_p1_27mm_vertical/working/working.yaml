@@ -18,9 +18,18 @@
   oomp:
     footprint_name: te_micro_match_215079_4_2x02_p1_27mm_vertical
     library_name: connector_te_connectivity
+    md5: f75fa0d16942bdfdeeef7c9c7fb7c0d0
+    md5_10: f75fa0d169
+    md5_5: f75fa
+    md5_6: f75fa0
+    oomp_key: oomp_kicad_connector_te_connectivity_te_micro_match_215079_4_2x02_p1_27mm_vertical
+    oomp_key_extra: oomp_footprint_kicad_connector_te_connectivity_te_micro_match_215079_4_2x02_p1_27mm_vertical
+    oomp_key_full: oomp_footprint_kicad_connector_te_connectivity_te_micro_match_215079_4_2x02_p1_27mm_vertical_f75fa0
+    oomp_key_simple: kicad_connector_te_connectivity_te_micro_match_215079_4_2x02_p1_27mm_vertical
     original_filename: libraries/kicad-footprints/Connector_TE-Connectivity.pretty/TE_Micro-MaTch_215079-4_2x02_P1.27mm_Vertical.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_te_connectivity_te_micro_match_215079_4_2x02_p1_27mm_vertical
+  oomp_key_full: oomp_footprint_kicad_connector_te_connectivity_te_micro_match_215079_4_2x02_p1_27mm_vertical
   oomp_key_simple: kicad_connector_te_connectivity_te_micro_match_215079_4_2x02_p1_27mm_vertical
   owner: kicad
   repo:

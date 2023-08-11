@@ -17,9 +17,18 @@
   oomp:
     footprint_name: smd_127_065_grid_4x12
     library_name: smd
+    md5: 31f8a2699ff7d2c9eae75efa370c74f1
+    md5_10: 31f8a2699f
+    md5_5: 31f8a
+    md5_6: 31f8a2
+    oomp_key: oomp_johslarsen_smd_smd_127_065_grid_4x12
+    oomp_key_extra: oomp_footprint_johslarsen_smd_smd_127_065_grid_4x12
+    oomp_key_full: oomp_footprint_johslarsen_smd_smd_127_065_grid_4x12_31f8a2
+    oomp_key_simple: johslarsen_smd_smd_127_065_grid_4x12
     original_filename: SMD.pretty/SMD_127_065_grid_4X12.kicad_mod
     owner_name: johslarsen
   oomp_key: oomp_johslarsen_smd_smd_127_065_grid_4x12
+  oomp_key_full: oomp_footprint_johslarsen_smd_smd_127_065_grid_4x12
   oomp_key_simple: johslarsen_smd_smd_127_065_grid_4x12
   owner: johslarsen
   repo:

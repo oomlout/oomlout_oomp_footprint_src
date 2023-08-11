@@ -17,9 +17,18 @@
   oomp:
     footprint_name: bcaapc
     library_name: agg
+    md5: 9ad71447839bf1174ab99b99ca9d4fe9
+    md5_10: 9ad7144783
+    md5_5: 9ad71
+    md5_6: 9ad714
+    oomp_key: oomp_adamgreig_agg_bcaapc
+    oomp_key_extra: oomp_footprint_adamgreig_agg_bcaapc
+    oomp_key_full: oomp_footprint_adamgreig_agg_bcaapc_9ad714
+    oomp_key_simple: adamgreig_agg_bcaapc
     original_filename: agg-kicad/agg.pretty/BCAAPC.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_bcaapc
+  oomp_key_full: oomp_footprint_adamgreig_agg_bcaapc
   oomp_key_simple: adamgreig_agg_bcaapc
   owner: adamgreig
   repo:

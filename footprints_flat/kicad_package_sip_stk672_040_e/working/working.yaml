@@ -17,9 +17,18 @@
   oomp:
     footprint_name: stk672_040_e
     library_name: package_sip
+    md5: f9f5ecc7f076e2f346a73b22eea9d957
+    md5_10: f9f5ecc7f0
+    md5_5: f9f5e
+    md5_6: f9f5ec
+    oomp_key: oomp_kicad_package_sip_stk672_040_e
+    oomp_key_extra: oomp_footprint_kicad_package_sip_stk672_040_e
+    oomp_key_full: oomp_footprint_kicad_package_sip_stk672_040_e_f9f5ec
+    oomp_key_simple: kicad_package_sip_stk672_040_e
     original_filename: libraries/kicad-footprints/Package_SIP.pretty/STK672-040-E.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_sip_stk672_040_e
+  oomp_key_full: oomp_footprint_kicad_package_sip_stk672_040_e
   oomp_key_simple: kicad_package_sip_stk672_040_e
   owner: kicad
   repo:

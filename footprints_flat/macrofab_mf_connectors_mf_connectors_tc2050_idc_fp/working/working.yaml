@@ -17,9 +17,18 @@
   oomp:
     footprint_name: mf_connectors_tc2050_idc_fp
     library_name: mf_connectors
+    md5: b92e21e26e843a55452b5c7f6a5c70f6
+    md5_10: b92e21e26e
+    md5_5: b92e2
+    md5_6: b92e21
+    oomp_key: oomp_macrofab_mf_connectors_mf_connectors_tc2050_idc_fp
+    oomp_key_extra: oomp_footprint_macrofab_mf_connectors_mf_connectors_tc2050_idc_fp
+    oomp_key_full: oomp_footprint_macrofab_mf_connectors_mf_connectors_tc2050_idc_fp_b92e21
+    oomp_key_simple: macrofab_mf_connectors_mf_connectors_tc2050_idc_fp
     original_filename: EDALibraries/KiCad/Footprints/MF_Connectors.pretty/MF_Connectors-TC2050-IDC-FP.kicad_mod
     owner_name: macrofab
   oomp_key: oomp_macrofab_mf_connectors_mf_connectors_tc2050_idc_fp
+  oomp_key_full: oomp_footprint_macrofab_mf_connectors_mf_connectors_tc2050_idc_fp
   oomp_key_simple: macrofab_mf_connectors_mf_connectors_tc2050_idc_fp
   owner: MacroFab
   repo:

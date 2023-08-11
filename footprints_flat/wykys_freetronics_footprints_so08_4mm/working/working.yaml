@@ -17,9 +17,18 @@
   oomp:
     footprint_name: so08_4mm
     library_name: freetronics_footprints
+    md5: 2901f0379b55d5e5c876ad0331337f86
+    md5_10: 2901f0379b
+    md5_5: 2901f
+    md5_6: 2901f0
+    oomp_key: oomp_wykys_freetronics_footprints_so08_4mm
+    oomp_key_extra: oomp_footprint_wykys_freetronics_footprints_so08_4mm
+    oomp_key_full: oomp_footprint_wykys_freetronics_footprints_so08_4mm_2901f0
+    oomp_key_simple: wykys_freetronics_footprints_so08_4mm
     original_filename: kicad/mods/freetronics_footprints.pretty/SO08_4mm.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_freetronics_footprints_so08_4mm
+  oomp_key_full: oomp_footprint_wykys_freetronics_footprints_so08_4mm
   oomp_key_simple: wykys_freetronics_footprints_so08_4mm
   owner: wykys
   repo:

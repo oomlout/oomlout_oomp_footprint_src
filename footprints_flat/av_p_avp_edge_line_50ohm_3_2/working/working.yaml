@@ -17,9 +17,18 @@
   oomp:
     footprint_name: edge_line_50ohm_3_2
     library_name: avp
+    md5: 66dc92ddee4048bb4ac84323814bcfaf
+    md5_10: 66dc92ddee
+    md5_5: 66dc9
+    md5_6: 66dc92
+    oomp_key: oomp_av_p_avp_edge_line_50ohm_3_2
+    oomp_key_extra: oomp_footprint_av_p_avp_edge_line_50ohm_3_2
+    oomp_key_full: oomp_footprint_av_p_avp_edge_line_50ohm_3_2_66dc92
+    oomp_key_simple: av_p_avp_edge_line_50ohm_3_2
     original_filename: Avp.pretty/Edge_Line_50Ohm_3.2.kicad_mod
     owner_name: av_p
   oomp_key: oomp_av_p_avp_edge_line_50ohm_3_2
+  oomp_key_full: oomp_footprint_av_p_avp_edge_line_50ohm_3_2
   oomp_key_simple: av_p_avp_edge_line_50ohm_3_2
   owner: av-p
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: fcc_logo_36_3x30mm_silkscreen
     library_name: symbol
+    md5: 3992abbb83314be3a3a33e2c5f50af35
+    md5_10: 3992abbb83
+    md5_5: 3992a
+    md5_6: 3992ab
+    oomp_key: oomp_kicad_symbol_fcc_logo_36_3x30mm_silkscreen
+    oomp_key_extra: oomp_footprint_kicad_symbol_fcc_logo_36_3x30mm_silkscreen
+    oomp_key_full: oomp_footprint_kicad_symbol_fcc_logo_36_3x30mm_silkscreen_3992ab
+    oomp_key_simple: kicad_symbol_fcc_logo_36_3x30mm_silkscreen
     original_filename: libraries/kicad-footprints/Symbol.pretty/FCC-Logo_36.3x30mm_SilkScreen.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_symbol_fcc_logo_36_3x30mm_silkscreen
+  oomp_key_full: oomp_footprint_kicad_symbol_fcc_logo_36_3x30mm_silkscreen
   oomp_key_simple: kicad_symbol_fcc_logo_36_3x30mm_silkscreen
   owner: kicad
   repo:

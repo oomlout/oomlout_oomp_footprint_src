@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_sdram_16mx16_stsop
     library_name: xess
+    md5: 31788a4e5c53035d7dda9824553656b3
+    md5_10: 31788a4e5c
+    md5_5: '31788'
+    md5_6: 31788a
+    oomp_key: oomp_xesscorp_xess_xess_sdram_16mx16_stsop
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_sdram_16mx16_stsop
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_sdram_16mx16_stsop_31788a
+    oomp_key_simple: xesscorp_xess_xess_sdram_16mx16_stsop
     original_filename: xess.pretty/xess-SDRAM-16MX16-STSOP.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_sdram_16mx16_stsop
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_sdram_16mx16_stsop
   oomp_key_simple: xesscorp_xess_xess_sdram_16mx16_stsop
   owner: xesscorp
   repo:

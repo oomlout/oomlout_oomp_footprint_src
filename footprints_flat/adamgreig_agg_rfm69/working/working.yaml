@@ -17,9 +17,18 @@
   oomp:
     footprint_name: rfm69
     library_name: agg
+    md5: fd4c96eba5dae28a1156f5e0fde211de
+    md5_10: fd4c96eba5
+    md5_5: fd4c9
+    md5_6: fd4c96
+    oomp_key: oomp_adamgreig_agg_rfm69
+    oomp_key_extra: oomp_footprint_adamgreig_agg_rfm69
+    oomp_key_full: oomp_footprint_adamgreig_agg_rfm69_fd4c96
+    oomp_key_simple: adamgreig_agg_rfm69
     original_filename: agg-kicad/agg.pretty/RFM69.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_rfm69
+  oomp_key_full: oomp_footprint_adamgreig_agg_rfm69
   oomp_key_simple: adamgreig_agg_rfm69
   owner: adamgreig
   repo:

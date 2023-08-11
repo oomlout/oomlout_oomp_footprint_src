@@ -17,9 +17,18 @@
   oomp:
     footprint_name: stps2l40u
     library_name: 1p_esp32_v0_1
+    md5: db2582721324ac631f603e79ad5222c1
+    md5_10: db25827213
+    md5_5: db258
+    md5_6: db2582
+    oomp_key: oomp_joanthespark_1p_esp32_v0_1_stps2l40u
+    oomp_key_extra: oomp_footprint_joanthespark_1p_esp32_v0_1_stps2l40u
+    oomp_key_full: oomp_footprint_joanthespark_1p_esp32_v0_1_stps2l40u_db2582
+    oomp_key_simple: joanthespark_1p_esp32_v0_1_stps2l40u
     original_filename: KiCAD/6.0/projects/1w-grove-v0.1/1p-esp32-v0.1.pretty/STPS2L40U.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_1p_esp32_v0_1_stps2l40u
+  oomp_key_full: oomp_footprint_joanthespark_1p_esp32_v0_1_stps2l40u
   oomp_key_simple: joanthespark_1p_esp32_v0_1_stps2l40u
   owner: JoanTheSpark
   repo:

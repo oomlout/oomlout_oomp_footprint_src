@@ -17,9 +17,18 @@
   oomp:
     footprint_name: 1x10
     library_name: freetronics_footprints
+    md5: d9a3f6bbf34bc7befe94ce2e3c36f312
+    md5_10: d9a3f6bbf3
+    md5_5: d9a3f
+    md5_6: d9a3f6
+    oomp_key: oomp_joanthespark_freetronics_footprints_1x10
+    oomp_key_extra: oomp_footprint_joanthespark_freetronics_footprints_1x10
+    oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_1x10_d9a3f6
+    oomp_key_simple: joanthespark_freetronics_footprints_1x10
     original_filename: KiCAD/mods/freetronics_footprints.pretty/1X10.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_freetronics_footprints_1x10
+  oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_1x10
   oomp_key_simple: joanthespark_freetronics_footprints_1x10
   owner: JoanTheSpark
   repo:

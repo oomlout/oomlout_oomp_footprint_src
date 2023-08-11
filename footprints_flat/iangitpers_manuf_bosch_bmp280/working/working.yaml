@@ -19,9 +19,18 @@
   oomp:
     footprint_name: bosch_bmp280
     library_name: manuf
+    md5: 63017ce6eede4dcebd50816cdf171fea
+    md5_10: 63017ce6ee
+    md5_5: '63017'
+    md5_6: 63017c
+    oomp_key: oomp_iangitpers_manuf_bosch_bmp280
+    oomp_key_extra: oomp_footprint_iangitpers_manuf_bosch_bmp280
+    oomp_key_full: oomp_footprint_iangitpers_manuf_bosch_bmp280_63017c
+    oomp_key_simple: iangitpers_manuf_bosch_bmp280
     original_filename: 4a/manuf.pretty/BOSCH_BMP280.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_manuf_bosch_bmp280
+  oomp_key_full: oomp_footprint_iangitpers_manuf_bosch_bmp280
   oomp_key_simple: iangitpers_manuf_bosch_bmp280
   owner: Iangitpers
   repo:

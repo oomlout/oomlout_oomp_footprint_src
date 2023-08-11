@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_battery_bk_912
     library_name: xess
+    md5: b99c9c6b797348d158a1e0af80e25bf4
+    md5_10: b99c9c6b79
+    md5_5: b99c9
+    md5_6: b99c9c
+    oomp_key: oomp_xesscorp_xess_xess_battery_bk_912
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_battery_bk_912
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_battery_bk_912_b99c9c
+    oomp_key_simple: xesscorp_xess_xess_battery_bk_912
     original_filename: xess.pretty/xess-BATTERY-BK-912.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_battery_bk_912
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_battery_bk_912
   oomp_key_simple: xesscorp_xess_xess_battery_bk_912
   owner: xesscorp
   repo:

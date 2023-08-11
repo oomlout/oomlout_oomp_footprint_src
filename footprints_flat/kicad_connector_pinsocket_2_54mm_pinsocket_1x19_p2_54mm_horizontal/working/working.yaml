@@ -18,9 +18,18 @@
   oomp:
     footprint_name: pinsocket_1x19_p2_54mm_horizontal
     library_name: connector_pinsocket_2_54mm
+    md5: b6356a9a3505f041d7c0b6f2a8065471
+    md5_10: b6356a9a35
+    md5_5: b6356
+    md5_6: b6356a
+    oomp_key: oomp_kicad_connector_pinsocket_2_54mm_pinsocket_1x19_p2_54mm_horizontal
+    oomp_key_extra: oomp_footprint_kicad_connector_pinsocket_2_54mm_pinsocket_1x19_p2_54mm_horizontal
+    oomp_key_full: oomp_footprint_kicad_connector_pinsocket_2_54mm_pinsocket_1x19_p2_54mm_horizontal_b6356a
+    oomp_key_simple: kicad_connector_pinsocket_2_54mm_pinsocket_1x19_p2_54mm_horizontal
     original_filename: libraries/kicad-footprints/Connector_PinSocket_2.54mm.pretty/PinSocket_1x19_P2.54mm_Horizontal.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_pinsocket_2_54mm_pinsocket_1x19_p2_54mm_horizontal
+  oomp_key_full: oomp_footprint_kicad_connector_pinsocket_2_54mm_pinsocket_1x19_p2_54mm_horizontal
   oomp_key_simple: kicad_connector_pinsocket_2_54mm_pinsocket_1x19_p2_54mm_horizontal
   owner: kicad
   repo:

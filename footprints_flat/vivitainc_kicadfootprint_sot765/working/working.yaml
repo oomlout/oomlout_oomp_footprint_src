@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sot765
     library_name: kicadfootprint
+    md5: 585b53f33fb646b494fcae7a200f33c7
+    md5_10: 585b53f33f
+    md5_5: 585b5
+    md5_6: 585b53
+    oomp_key: oomp_vivitainc_kicadfootprint_sot765
+    oomp_key_extra: oomp_footprint_vivitainc_kicadfootprint_sot765
+    oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_sot765_585b53
+    oomp_key_simple: vivitainc_kicadfootprint_sot765
     original_filename: KiCADfootprint.pretty/SOT765.kicad_mod
     owner_name: vivitainc
   oomp_key: oomp_vivitainc_kicadfootprint_sot765
+  oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_sot765
   oomp_key_simple: vivitainc_kicadfootprint_sot765
   owner: vivitainc
   repo:

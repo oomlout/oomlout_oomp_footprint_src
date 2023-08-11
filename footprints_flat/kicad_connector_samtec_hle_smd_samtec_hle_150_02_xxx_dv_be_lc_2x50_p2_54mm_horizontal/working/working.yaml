@@ -19,9 +19,18 @@
   oomp:
     footprint_name: samtec_hle_150_02_xxx_dv_be_lc_2x50_p2_54mm_horizontal
     library_name: connector_samtec_hle_smd
+    md5: 3101706033ceda552e71df05e7bd31da
+    md5_10: '3101706033'
+    md5_5: '31017'
+    md5_6: '310170'
+    oomp_key: oomp_kicad_connector_samtec_hle_smd_samtec_hle_150_02_xxx_dv_be_lc_2x50_p2_54mm_horizontal
+    oomp_key_extra: oomp_footprint_kicad_connector_samtec_hle_smd_samtec_hle_150_02_xxx_dv_be_lc_2x50_p2_54mm_horizontal
+    oomp_key_full: oomp_footprint_kicad_connector_samtec_hle_smd_samtec_hle_150_02_xxx_dv_be_lc_2x50_p2_54mm_horizontal_310170
+    oomp_key_simple: kicad_connector_samtec_hle_smd_samtec_hle_150_02_xxx_dv_be_lc_2x50_p2_54mm_horizontal
     original_filename: libraries/kicad-footprints/Connector_Samtec_HLE_SMD.pretty/Samtec_HLE-150-02-xxx-DV-BE-LC_2x50_P2.54mm_Horizontal.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_samtec_hle_smd_samtec_hle_150_02_xxx_dv_be_lc_2x50_p2_54mm_horizontal
+  oomp_key_full: oomp_footprint_kicad_connector_samtec_hle_smd_samtec_hle_150_02_xxx_dv_be_lc_2x50_p2_54mm_horizontal
   oomp_key_simple: kicad_connector_samtec_hle_smd_samtec_hle_150_02_xxx_dv_be_lc_2x50_p2_54mm_horizontal
   owner: kicad
   repo:

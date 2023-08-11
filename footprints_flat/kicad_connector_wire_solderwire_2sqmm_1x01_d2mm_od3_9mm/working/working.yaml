@@ -20,9 +20,18 @@
   oomp:
     footprint_name: solderwire_2sqmm_1x01_d2mm_od3_9mm
     library_name: connector_wire
+    md5: 0113bea6a29023a1bc6724da0e35840d
+    md5_10: 0113bea6a2
+    md5_5: 0113b
+    md5_6: 0113be
+    oomp_key: oomp_kicad_connector_wire_solderwire_2sqmm_1x01_d2mm_od3_9mm
+    oomp_key_extra: oomp_footprint_kicad_connector_wire_solderwire_2sqmm_1x01_d2mm_od3_9mm
+    oomp_key_full: oomp_footprint_kicad_connector_wire_solderwire_2sqmm_1x01_d2mm_od3_9mm_0113be
+    oomp_key_simple: kicad_connector_wire_solderwire_2sqmm_1x01_d2mm_od3_9mm
     original_filename: libraries/kicad-footprints/Connector_Wire.pretty/SolderWire-2sqmm_1x01_D2mm_OD3.9mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_wire_solderwire_2sqmm_1x01_d2mm_od3_9mm
+  oomp_key_full: oomp_footprint_kicad_connector_wire_solderwire_2sqmm_1x01_d2mm_od3_9mm
   oomp_key_simple: kicad_connector_wire_solderwire_2sqmm_1x01_d2mm_od3_9mm
   owner: kicad
   repo:

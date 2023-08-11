@@ -19,9 +19,18 @@
   oomp:
     footprint_name: murata_3200
     library_name: manuf
+    md5: ed32b9d8bf7f49e2724087b95d7ee9e0
+    md5_10: ed32b9d8bf
+    md5_5: ed32b
+    md5_6: ed32b9
+    oomp_key: oomp_iangitpers_manuf_murata_3200
+    oomp_key_extra: oomp_footprint_iangitpers_manuf_murata_3200
+    oomp_key_full: oomp_footprint_iangitpers_manuf_murata_3200_ed32b9
+    oomp_key_simple: iangitpers_manuf_murata_3200
     original_filename: 4a/manuf.pretty/MURATA-3200.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_manuf_murata_3200
+  oomp_key_full: oomp_footprint_iangitpers_manuf_murata_3200
   oomp_key_simple: iangitpers_manuf_murata_3200
   owner: Iangitpers
   repo:

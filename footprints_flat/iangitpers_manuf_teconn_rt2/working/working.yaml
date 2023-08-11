@@ -19,9 +19,18 @@
   oomp:
     footprint_name: teconn_rt2
     library_name: manuf
+    md5: 4bd55c76c606cbb38812666aad3f3c60
+    md5_10: 4bd55c76c6
+    md5_5: 4bd55
+    md5_6: 4bd55c
+    oomp_key: oomp_iangitpers_manuf_teconn_rt2
+    oomp_key_extra: oomp_footprint_iangitpers_manuf_teconn_rt2
+    oomp_key_full: oomp_footprint_iangitpers_manuf_teconn_rt2_4bd55c
+    oomp_key_simple: iangitpers_manuf_teconn_rt2
     original_filename: 4a/manuf.pretty/TECONN-RT2.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_manuf_teconn_rt2
+  oomp_key_full: oomp_footprint_iangitpers_manuf_teconn_rt2
   oomp_key_simple: iangitpers_manuf_teconn_rt2
   owner: Iangitpers
   repo:

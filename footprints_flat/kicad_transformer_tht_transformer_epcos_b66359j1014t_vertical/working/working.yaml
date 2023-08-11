@@ -17,9 +17,18 @@
   oomp:
     footprint_name: transformer_epcos_b66359j1014t_vertical
     library_name: transformer_tht
+    md5: 6b9e07b74bd9cc5322b34a7be06e49d6
+    md5_10: 6b9e07b74b
+    md5_5: 6b9e0
+    md5_6: 6b9e07
+    oomp_key: oomp_kicad_transformer_tht_transformer_epcos_b66359j1014t_vertical
+    oomp_key_extra: oomp_footprint_kicad_transformer_tht_transformer_epcos_b66359j1014t_vertical
+    oomp_key_full: oomp_footprint_kicad_transformer_tht_transformer_epcos_b66359j1014t_vertical_6b9e07
+    oomp_key_simple: kicad_transformer_tht_transformer_epcos_b66359j1014t_vertical
     original_filename: libraries/kicad-footprints/Transformer_THT.pretty/Transformer_EPCOS_B66359J1014T_Vertical.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_transformer_tht_transformer_epcos_b66359j1014t_vertical
+  oomp_key_full: oomp_footprint_kicad_transformer_tht_transformer_epcos_b66359j1014t_vertical
   oomp_key_simple: kicad_transformer_tht_transformer_epcos_b66359j1014t_vertical
   owner: kicad
   repo:

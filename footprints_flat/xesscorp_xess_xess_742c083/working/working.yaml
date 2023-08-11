@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_742c083
     library_name: xess
+    md5: 3d5f37487421cd0c20cee830678cbe5c
+    md5_10: 3d5f374874
+    md5_5: 3d5f3
+    md5_6: 3d5f37
+    oomp_key: oomp_xesscorp_xess_xess_742c083
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_742c083
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_742c083_3d5f37
+    oomp_key_simple: xesscorp_xess_xess_742c083
     original_filename: xess.pretty/xess-742C083.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_742c083
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_742c083
   oomp_key_simple: xesscorp_xess_xess_742c083
   owner: xesscorp
   repo:

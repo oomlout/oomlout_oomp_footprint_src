@@ -18,9 +18,18 @@
   oomp:
     footprint_name: tsop_i_48_16_4x12mm_p0_5mm
     library_name: package_so
+    md5: 1386bbdc79ade5b0a71d2b7c90c334a2
+    md5_10: 1386bbdc79
+    md5_5: 1386b
+    md5_6: 1386bb
+    oomp_key: oomp_kicad_package_so_tsop_i_48_16_4x12mm_p0_5mm
+    oomp_key_extra: oomp_footprint_kicad_package_so_tsop_i_48_16_4x12mm_p0_5mm
+    oomp_key_full: oomp_footprint_kicad_package_so_tsop_i_48_16_4x12mm_p0_5mm_1386bb
+    oomp_key_simple: kicad_package_so_tsop_i_48_16_4x12mm_p0_5mm
     original_filename: libraries/kicad-footprints/Package_SO.pretty/TSOP-I-48_16.4x12mm_P0.5mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_so_tsop_i_48_16_4x12mm_p0_5mm
+  oomp_key_full: oomp_footprint_kicad_package_so_tsop_i_48_16_4x12mm_p0_5mm
   oomp_key_simple: kicad_package_so_tsop_i_48_16_4x12mm_p0_5mm
   owner: kicad
   repo:

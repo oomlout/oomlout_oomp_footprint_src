@@ -17,9 +17,18 @@
   oomp:
     footprint_name: usb_a_smd
     library_name: suf_connector_usb
+    md5: 5a23457e388ff2498fe8dcd8902de324
+    md5_10: 5a23457e38
+    md5_5: 5a234
+    md5_6: 5a2345
+    oomp_key: oomp_suf_kicad_suf_connector_usb_usb_a_smd
+    oomp_key_extra: oomp_footprint_suf_kicad_suf_connector_usb_usb_a_smd
+    oomp_key_full: oomp_footprint_suf_kicad_suf_connector_usb_usb_a_smd_5a2345
+    oomp_key_simple: suf_kicad_suf_connector_usb_usb_a_smd
     original_filename: suf_connector_usb.pretty/USB-A_SMD.kicad_mod
     owner_name: suf_kicad
   oomp_key: oomp_suf_kicad_suf_connector_usb_usb_a_smd
+  oomp_key_full: oomp_footprint_suf_kicad_suf_connector_usb_usb_a_smd
   oomp_key_simple: suf_kicad_suf_connector_usb_usb_a_smd
   owner: suf-KiCAD
   repo:

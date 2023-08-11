@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sg5032cxn
     library_name: agg
+    md5: 197e5b1288716f330e2725a44e238f8a
+    md5_10: 197e5b1288
+    md5_5: 197e5
+    md5_6: 197e5b
+    oomp_key: oomp_adamgreig_agg_sg5032cxn
+    oomp_key_extra: oomp_footprint_adamgreig_agg_sg5032cxn
+    oomp_key_full: oomp_footprint_adamgreig_agg_sg5032cxn_197e5b
+    oomp_key_simple: adamgreig_agg_sg5032cxn
     original_filename: agg-kicad/agg.pretty/SG5032CxN.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_sg5032cxn
+  oomp_key_full: oomp_footprint_adamgreig_agg_sg5032cxn
   oomp_key_simple: adamgreig_agg_sg5032cxn
   owner: adamgreig
   repo:

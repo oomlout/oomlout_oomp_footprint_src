@@ -17,9 +17,18 @@
   oomp:
     footprint_name: led0606
     library_name: rhais_led
+    md5: 60ae3e4946e4464d3178f7890bf5eca8
+    md5_10: 60ae3e4946
+    md5_5: 60ae3
+    md5_6: 60ae3e
+    oomp_key: oomp_dx_mon_rhais_led_led0606
+    oomp_key_extra: oomp_footprint_dx_mon_rhais_led_led0606
+    oomp_key_full: oomp_footprint_dx_mon_rhais_led_led0606_60ae3e
+    oomp_key_simple: dx_mon_rhais_led_led0606
     original_filename: rhais_led.pretty/LED0606.kicad_mod
     owner_name: dx_mon
   oomp_key: oomp_dx_mon_rhais_led_led0606
+  oomp_key_full: oomp_footprint_dx_mon_rhais_led_led0606
   oomp_key_simple: dx_mon_rhais_led_led0606
   owner: DX-MON
   repo:

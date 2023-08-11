@@ -17,9 +17,18 @@
   oomp:
     footprint_name: powerpak_so_8
     library_name: agg
+    md5: 8d922cb9c0923ec5cdfd5abb879cf97d
+    md5_10: 8d922cb9c0
+    md5_5: 8d922
+    md5_6: 8d922c
+    oomp_key: oomp_adamgreig_agg_powerpak_so_8
+    oomp_key_extra: oomp_footprint_adamgreig_agg_powerpak_so_8
+    oomp_key_full: oomp_footprint_adamgreig_agg_powerpak_so_8_8d922c
+    oomp_key_simple: adamgreig_agg_powerpak_so_8
     original_filename: agg-kicad/agg.pretty/PowerPAK-SO-8.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_powerpak_so_8
+  oomp_key_full: oomp_footprint_adamgreig_agg_powerpak_so_8
   oomp_key_simple: adamgreig_agg_powerpak_so_8
   owner: adamgreig
   repo:

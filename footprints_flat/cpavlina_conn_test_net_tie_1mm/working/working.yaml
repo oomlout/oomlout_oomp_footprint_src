@@ -17,9 +17,18 @@
   oomp:
     footprint_name: net_tie_1mm
     library_name: conn_test
+    md5: cf5f6400536f34a8d65d22340855fc55
+    md5_10: cf5f640053
+    md5_5: cf5f6
+    md5_6: cf5f64
+    oomp_key: oomp_cpavlina_conn_test_net_tie_1mm
+    oomp_key_extra: oomp_footprint_cpavlina_conn_test_net_tie_1mm
+    oomp_key_full: oomp_footprint_cpavlina_conn_test_net_tie_1mm_cf5f64
+    oomp_key_simple: cpavlina_conn_test_net_tie_1mm
     original_filename: kicad-pcblib/conn-test.pretty/NET-TIE-1mm.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_conn_test_net_tie_1mm
+  oomp_key_full: oomp_footprint_cpavlina_conn_test_net_tie_1mm
   oomp_key_simple: cpavlina_conn_test_net_tie_1mm
   owner: cpavlina
   repo:

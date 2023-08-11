@@ -18,9 +18,18 @@
   oomp:
     footprint_name: htsop_8_1ep_3_9x4_9mm_p1_27mm_ep2_4x3_2mm
     library_name: package_so
+    md5: 7aa7ca6e0e842907f145c18fd776e663
+    md5_10: 7aa7ca6e0e
+    md5_5: 7aa7c
+    md5_6: 7aa7ca
+    oomp_key: oomp_kicad_package_so_htsop_8_1ep_3_9x4_9mm_p1_27mm_ep2_4x3_2mm
+    oomp_key_extra: oomp_footprint_kicad_package_so_htsop_8_1ep_3_9x4_9mm_p1_27mm_ep2_4x3_2mm
+    oomp_key_full: oomp_footprint_kicad_package_so_htsop_8_1ep_3_9x4_9mm_p1_27mm_ep2_4x3_2mm_7aa7ca
+    oomp_key_simple: kicad_package_so_htsop_8_1ep_3_9x4_9mm_p1_27mm_ep2_4x3_2mm
     original_filename: libraries/kicad-footprints/Package_SO.pretty/HTSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.4x3.2mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_so_htsop_8_1ep_3_9x4_9mm_p1_27mm_ep2_4x3_2mm
+  oomp_key_full: oomp_footprint_kicad_package_so_htsop_8_1ep_3_9x4_9mm_p1_27mm_ep2_4x3_2mm
   oomp_key_simple: kicad_package_so_htsop_8_1ep_3_9x4_9mm_p1_27mm_ep2_4x3_2mm
   owner: kicad
   repo:

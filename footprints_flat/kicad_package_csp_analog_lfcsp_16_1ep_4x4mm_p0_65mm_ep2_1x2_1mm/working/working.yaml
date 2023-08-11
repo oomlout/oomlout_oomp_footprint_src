@@ -18,9 +18,18 @@
   oomp:
     footprint_name: analog_lfcsp_16_1ep_4x4mm_p0_65mm_ep2_1x2_1mm
     library_name: package_csp
+    md5: f7bd438d1101a8dcc95c098eda5a332e
+    md5_10: f7bd438d11
+    md5_5: f7bd4
+    md5_6: f7bd43
+    oomp_key: oomp_kicad_package_csp_analog_lfcsp_16_1ep_4x4mm_p0_65mm_ep2_1x2_1mm
+    oomp_key_extra: oomp_footprint_kicad_package_csp_analog_lfcsp_16_1ep_4x4mm_p0_65mm_ep2_1x2_1mm
+    oomp_key_full: oomp_footprint_kicad_package_csp_analog_lfcsp_16_1ep_4x4mm_p0_65mm_ep2_1x2_1mm_f7bd43
+    oomp_key_simple: kicad_package_csp_analog_lfcsp_16_1ep_4x4mm_p0_65mm_ep2_1x2_1mm
     original_filename: libraries/kicad-footprints/Package_CSP.pretty/Analog_LFCSP-16-1EP_4x4mm_P0.65mm_EP2.1x2.1mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_csp_analog_lfcsp_16_1ep_4x4mm_p0_65mm_ep2_1x2_1mm
+  oomp_key_full: oomp_footprint_kicad_package_csp_analog_lfcsp_16_1ep_4x4mm_p0_65mm_ep2_1x2_1mm
   oomp_key_simple: kicad_package_csp_analog_lfcsp_16_1ep_4x4mm_p0_65mm_ep2_1x2_1mm
   owner: kicad
   repo:

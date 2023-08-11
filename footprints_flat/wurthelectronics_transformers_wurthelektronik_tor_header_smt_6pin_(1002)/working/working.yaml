@@ -17,9 +17,18 @@
   oomp:
     footprint_name: tor_header_smt_6pin_(1002)
     library_name: transformers_wurthelektronik
+    md5: 00ce2ff7b3145c0112759307b2ed6ae0
+    md5_10: 00ce2ff7b3
+    md5_5: 00ce2
+    md5_6: 00ce2f
+    oomp_key: oomp_wurthelectronics_transformers_wurthelektronik_tor_header_smt_6pin_(1002)
+    oomp_key_extra: oomp_footprint_wurthelectronics_transformers_wurthelektronik_tor_header_smt_6pin_(1002)
+    oomp_key_full: oomp_footprint_wurthelectronics_transformers_wurthelektronik_tor_header_smt_6pin_(1002)_00ce2f
+    oomp_key_simple: wurthelectronics_transformers_wurthelektronik_tor_header_smt_6pin_(1002)
     original_filename: Transformers_WurthElektronik.pretty/TOR_HEADER_SMT_6PIN_(1002).kicad_mod
     owner_name: wurthelectronics
   oomp_key: oomp_wurthelectronics_transformers_wurthelektronik_tor_header_smt_6pin_(1002)
+  oomp_key_full: oomp_footprint_wurthelectronics_transformers_wurthelektronik_tor_header_smt_6pin_(1002)
   oomp_key_simple: wurthelectronics_transformers_wurthelektronik_tor_header_smt_6pin_(1002)
   owner: WurthElectronics
   repo:

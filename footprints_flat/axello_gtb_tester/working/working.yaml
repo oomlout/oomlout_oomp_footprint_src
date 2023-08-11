@@ -17,9 +17,18 @@
   oomp:
     footprint_name: tester
     library_name: gtb
+    md5: 9ef279dcbb30126f0a6d6fd303606c10
+    md5_10: 9ef279dcbb
+    md5_5: 9ef27
+    md5_6: 9ef279
+    oomp_key: oomp_axello_gtb_tester
+    oomp_key_extra: oomp_footprint_axello_gtb_tester
+    oomp_key_full: oomp_footprint_axello_gtb_tester_9ef279
+    oomp_key_simple: axello_gtb_tester
     original_filename: kicad/GettingToBlinky/GTB.pretty/TESTER.kicad_mod
     owner_name: axello
   oomp_key: oomp_axello_gtb_tester
+  oomp_key_full: oomp_footprint_axello_gtb_tester
   oomp_key_simple: axello_gtb_tester
   owner: axello
   repo:

@@ -19,9 +19,18 @@
   oomp:
     footprint_name: nxp_wlcsp6
     library_name: manuf
+    md5: 7b0e8a5fa974df0e9a1afcc6279657a0
+    md5_10: 7b0e8a5fa9
+    md5_5: 7b0e8
+    md5_6: 7b0e8a
+    oomp_key: oomp_iangitpers_manuf_nxp_wlcsp6
+    oomp_key_extra: oomp_footprint_iangitpers_manuf_nxp_wlcsp6
+    oomp_key_full: oomp_footprint_iangitpers_manuf_nxp_wlcsp6_7b0e8a
+    oomp_key_simple: iangitpers_manuf_nxp_wlcsp6
     original_filename: 4a/manuf.pretty/NXP-WLCSP6.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_manuf_nxp_wlcsp6
+  oomp_key_full: oomp_footprint_iangitpers_manuf_nxp_wlcsp6
   oomp_key_simple: iangitpers_manuf_nxp_wlcsp6
   owner: Iangitpers
   repo:

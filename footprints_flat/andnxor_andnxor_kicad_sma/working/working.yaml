@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sma
     library_name: andnxor_kicad
+    md5: 4f56aabd3c7a194f4631169e018a6dd5
+    md5_10: 4f56aabd3c
+    md5_5: 4f56a
+    md5_6: 4f56aa
+    oomp_key: oomp_andnxor_andnxor_kicad_sma
+    oomp_key_extra: oomp_footprint_andnxor_andnxor_kicad_sma
+    oomp_key_full: oomp_footprint_andnxor_andnxor_kicad_sma_4f56aa
+    oomp_key_simple: andnxor_andnxor_kicad_sma
     original_filename: ANDnXOR-Kicad.pretty/SMA.kicad_mod
     owner_name: andnxor
   oomp_key: oomp_andnxor_andnxor_kicad_sma
+  oomp_key_full: oomp_footprint_andnxor_andnxor_kicad_sma
   oomp_key_simple: andnxor_andnxor_kicad_sma
   owner: ANDnXOR
   repo:

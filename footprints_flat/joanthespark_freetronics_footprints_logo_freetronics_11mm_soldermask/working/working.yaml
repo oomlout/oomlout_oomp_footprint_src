@@ -17,9 +17,18 @@
   oomp:
     footprint_name: logo_freetronics_11mm_soldermask
     library_name: freetronics_footprints
+    md5: 621bcbb48b628da62774d850020efa33
+    md5_10: 621bcbb48b
+    md5_5: 621bc
+    md5_6: 621bcb
+    oomp_key: oomp_joanthespark_freetronics_footprints_logo_freetronics_11mm_soldermask
+    oomp_key_extra: oomp_footprint_joanthespark_freetronics_footprints_logo_freetronics_11mm_soldermask
+    oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_logo_freetronics_11mm_soldermask_621bcb
+    oomp_key_simple: joanthespark_freetronics_footprints_logo_freetronics_11mm_soldermask
     original_filename: KiCAD/mods/freetronics_footprints.pretty/LOGO_FREETRONICS_11mm_SolderMask.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_freetronics_footprints_logo_freetronics_11mm_soldermask
+  oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_logo_freetronics_11mm_soldermask
   oomp_key_simple: joanthespark_freetronics_footprints_logo_freetronics_11mm_soldermask
   owner: JoanTheSpark
   repo:

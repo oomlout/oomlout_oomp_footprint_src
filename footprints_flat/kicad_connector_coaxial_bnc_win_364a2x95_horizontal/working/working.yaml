@@ -17,9 +17,18 @@
   oomp:
     footprint_name: bnc_win_364a2x95_horizontal
     library_name: connector_coaxial
+    md5: d06a83104a4d8160a1b72d88f3f9d47c
+    md5_10: d06a83104a
+    md5_5: d06a8
+    md5_6: d06a83
+    oomp_key: oomp_kicad_connector_coaxial_bnc_win_364a2x95_horizontal
+    oomp_key_extra: oomp_footprint_kicad_connector_coaxial_bnc_win_364a2x95_horizontal
+    oomp_key_full: oomp_footprint_kicad_connector_coaxial_bnc_win_364a2x95_horizontal_d06a83
+    oomp_key_simple: kicad_connector_coaxial_bnc_win_364a2x95_horizontal
     original_filename: libraries/kicad-footprints/Connector_Coaxial.pretty/BNC_Win_364A2x95_Horizontal.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_coaxial_bnc_win_364a2x95_horizontal
+  oomp_key_full: oomp_footprint_kicad_connector_coaxial_bnc_win_364a2x95_horizontal
   oomp_key_simple: kicad_connector_coaxial_bnc_win_364a2x95_horizontal
   owner: kicad
   repo:

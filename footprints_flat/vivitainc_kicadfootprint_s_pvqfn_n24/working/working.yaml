@@ -17,9 +17,18 @@
   oomp:
     footprint_name: s_pvqfn_n24
     library_name: kicadfootprint
+    md5: 407ebde6045512d0850c08a161aaa431
+    md5_10: 407ebde604
+    md5_5: 407eb
+    md5_6: 407ebd
+    oomp_key: oomp_vivitainc_kicadfootprint_s_pvqfn_n24
+    oomp_key_extra: oomp_footprint_vivitainc_kicadfootprint_s_pvqfn_n24
+    oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_s_pvqfn_n24_407ebd
+    oomp_key_simple: vivitainc_kicadfootprint_s_pvqfn_n24
     original_filename: KiCADfootprint.pretty/S-PVQFN-N24.kicad_mod
     owner_name: vivitainc
   oomp_key: oomp_vivitainc_kicadfootprint_s_pvqfn_n24
+  oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_s_pvqfn_n24
   oomp_key_simple: vivitainc_kicadfootprint_s_pvqfn_n24
   owner: vivitainc
   repo:

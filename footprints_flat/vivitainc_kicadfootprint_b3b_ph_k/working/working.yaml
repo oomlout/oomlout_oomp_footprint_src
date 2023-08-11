@@ -17,9 +17,18 @@
   oomp:
     footprint_name: b3b_ph_k
     library_name: kicadfootprint
+    md5: 59c6842ee311490d8b8735bd5e071328
+    md5_10: 59c6842ee3
+    md5_5: 59c68
+    md5_6: 59c684
+    oomp_key: oomp_vivitainc_kicadfootprint_b3b_ph_k
+    oomp_key_extra: oomp_footprint_vivitainc_kicadfootprint_b3b_ph_k
+    oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_b3b_ph_k_59c684
+    oomp_key_simple: vivitainc_kicadfootprint_b3b_ph_k
     original_filename: KiCADfootprint.pretty/B3B-PH-K.kicad_mod
     owner_name: vivitainc
   oomp_key: oomp_vivitainc_kicadfootprint_b3b_ph_k
+  oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_b3b_ph_k
   oomp_key_simple: vivitainc_kicadfootprint_b3b_ph_k
   owner: vivitainc
   repo:

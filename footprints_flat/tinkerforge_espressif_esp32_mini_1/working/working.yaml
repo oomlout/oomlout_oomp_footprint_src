@@ -17,9 +17,18 @@
   oomp:
     footprint_name: esp32_mini_1
     library_name: espressif
+    md5: 930305e5c024dbceb9f7e38e74b8712b
+    md5_10: 930305e5c0
+    md5_5: '93030'
+    md5_6: '930305'
+    oomp_key: oomp_tinkerforge_espressif_esp32_mini_1
+    oomp_key_extra: oomp_footprint_tinkerforge_espressif_esp32_mini_1
+    oomp_key_full: oomp_footprint_tinkerforge_espressif_esp32_mini_1_930305
+    oomp_key_simple: tinkerforge_espressif_esp32_mini_1
     original_filename: kicad-libraries/footprints/Espressif.pretty/ESP32-MINI-1.kicad_mod
     owner_name: tinkerforge
   oomp_key: oomp_tinkerforge_espressif_esp32_mini_1
+  oomp_key_full: oomp_footprint_tinkerforge_espressif_esp32_mini_1
   oomp_key_simple: tinkerforge_espressif_esp32_mini_1
   owner: Tinkerforge
   repo:

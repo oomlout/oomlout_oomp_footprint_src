@@ -17,9 +17,18 @@
   oomp:
     footprint_name: stdfn14l
     library_name: kicadfootprint
+    md5: b4eaba8f8fedfb1a9cc5d7382f4c4ec9
+    md5_10: b4eaba8f8f
+    md5_5: b4eab
+    md5_6: b4eaba
+    oomp_key: oomp_vivitainc_kicadfootprint_stdfn14l
+    oomp_key_extra: oomp_footprint_vivitainc_kicadfootprint_stdfn14l
+    oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_stdfn14l_b4eaba
+    oomp_key_simple: vivitainc_kicadfootprint_stdfn14l
     original_filename: KiCADfootprint.pretty/STDFN14L.kicad_mod
     owner_name: vivitainc
   oomp_key: oomp_vivitainc_kicadfootprint_stdfn14l
+  oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_stdfn14l
   oomp_key_simple: vivitainc_kicadfootprint_stdfn14l
   owner: vivitainc
   repo:

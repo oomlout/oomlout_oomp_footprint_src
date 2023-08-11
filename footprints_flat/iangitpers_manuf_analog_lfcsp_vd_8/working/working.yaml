@@ -20,9 +20,18 @@
   oomp:
     footprint_name: analog_lfcsp_vd_8
     library_name: manuf
+    md5: 2af5449de035dc4dbaa25c0b0ff03dfc
+    md5_10: 2af5449de0
+    md5_5: 2af54
+    md5_6: 2af544
+    oomp_key: oomp_iangitpers_manuf_analog_lfcsp_vd_8
+    oomp_key_extra: oomp_footprint_iangitpers_manuf_analog_lfcsp_vd_8
+    oomp_key_full: oomp_footprint_iangitpers_manuf_analog_lfcsp_vd_8_2af544
+    oomp_key_simple: iangitpers_manuf_analog_lfcsp_vd_8
     original_filename: 4a/manuf.pretty/ANALOG-LFCSP_VD-8.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_manuf_analog_lfcsp_vd_8
+  oomp_key_full: oomp_footprint_iangitpers_manuf_analog_lfcsp_vd_8
   oomp_key_simple: iangitpers_manuf_analog_lfcsp_vd_8
   owner: Iangitpers
   repo:

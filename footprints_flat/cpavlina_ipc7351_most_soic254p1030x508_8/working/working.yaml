@@ -17,9 +17,18 @@
   oomp:
     footprint_name: soic254p1030x508_8
     library_name: ipc7351_most
+    md5: 97c18da589f02a25dfb694d918e8586b
+    md5_10: 97c18da589
+    md5_5: 97c18
+    md5_6: 97c18d
+    oomp_key: oomp_cpavlina_ipc7351_most_soic254p1030x508_8
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_most_soic254p1030x508_8
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_most_soic254p1030x508_8_97c18d
+    oomp_key_simple: cpavlina_ipc7351_most_soic254p1030x508_8
     original_filename: kicad-pcblib/IPC7351-Most.pretty/SOIC254P1030X508-8.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_most_soic254p1030x508_8
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_most_soic254p1030x508_8
   oomp_key_simple: cpavlina_ipc7351_most_soic254p1030x508_8
   owner: cpavlina
   repo:

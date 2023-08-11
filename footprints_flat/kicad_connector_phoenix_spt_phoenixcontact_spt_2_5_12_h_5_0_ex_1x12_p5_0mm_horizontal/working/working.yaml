@@ -19,9 +19,18 @@
   oomp:
     footprint_name: phoenixcontact_spt_2_5_12_h_5_0_ex_1x12_p5_0mm_horizontal
     library_name: connector_phoenix_spt
+    md5: 3d8db67bb8c8b7d2614cf0ee6b8aa86d
+    md5_10: 3d8db67bb8
+    md5_5: 3d8db
+    md5_6: 3d8db6
+    oomp_key: oomp_kicad_connector_phoenix_spt_phoenixcontact_spt_2_5_12_h_5_0_ex_1x12_p5_0mm_horizontal
+    oomp_key_extra: oomp_footprint_kicad_connector_phoenix_spt_phoenixcontact_spt_2_5_12_h_5_0_ex_1x12_p5_0mm_horizontal
+    oomp_key_full: oomp_footprint_kicad_connector_phoenix_spt_phoenixcontact_spt_2_5_12_h_5_0_ex_1x12_p5_0mm_horizontal_3d8db6
+    oomp_key_simple: kicad_connector_phoenix_spt_phoenixcontact_spt_2_5_12_h_5_0_ex_1x12_p5_0mm_horizontal
     original_filename: libraries/kicad-footprints/Connector_Phoenix_SPT.pretty/PhoenixContact_SPT_2.5_12-H-5.0-EX_1x12_P5.0mm_Horizontal.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_phoenix_spt_phoenixcontact_spt_2_5_12_h_5_0_ex_1x12_p5_0mm_horizontal
+  oomp_key_full: oomp_footprint_kicad_connector_phoenix_spt_phoenixcontact_spt_2_5_12_h_5_0_ex_1x12_p5_0mm_horizontal
   oomp_key_simple: kicad_connector_phoenix_spt_phoenixcontact_spt_2_5_12_h_5_0_ex_1x12_p5_0mm_horizontal
   owner: kicad
   repo:

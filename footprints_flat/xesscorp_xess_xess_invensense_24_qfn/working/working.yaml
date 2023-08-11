@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_invensense_24_qfn
     library_name: xess
+    md5: f58f9edfa5926d0250b5ec8bba9be127
+    md5_10: f58f9edfa5
+    md5_5: f58f9
+    md5_6: f58f9e
+    oomp_key: oomp_xesscorp_xess_xess_invensense_24_qfn
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_invensense_24_qfn
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_invensense_24_qfn_f58f9e
+    oomp_key_simple: xesscorp_xess_xess_invensense_24_qfn
     original_filename: xess.pretty/xess-INVENSENSE-24_QFN.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_invensense_24_qfn
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_invensense_24_qfn
   oomp_key_simple: xesscorp_xess_xess_invensense_24_qfn
   owner: xesscorp
   repo:

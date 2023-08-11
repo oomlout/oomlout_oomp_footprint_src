@@ -18,9 +18,18 @@
   oomp:
     footprint_name: l_bourns_srp5030t
     library_name: inductor_smd
+    md5: a52362dea6278125ade375b39f8f1b4d
+    md5_10: a52362dea6
+    md5_5: a5236
+    md5_6: a52362
+    oomp_key: oomp_kicad_inductor_smd_l_bourns_srp5030t
+    oomp_key_extra: oomp_footprint_kicad_inductor_smd_l_bourns_srp5030t
+    oomp_key_full: oomp_footprint_kicad_inductor_smd_l_bourns_srp5030t_a52362
+    oomp_key_simple: kicad_inductor_smd_l_bourns_srp5030t
     original_filename: libraries/kicad-footprints/Inductor_SMD.pretty/L_Bourns_SRP5030T.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_inductor_smd_l_bourns_srp5030t
+  oomp_key_full: oomp_footprint_kicad_inductor_smd_l_bourns_srp5030t
   oomp_key_simple: kicad_inductor_smd_l_bourns_srp5030t
   owner: kicad
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: led_rgb_8mm_com_k_full
     library_name: freetronics_footprints
+    md5: ec7be40bbfe6a7d2282188dfc4158b7f
+    md5_10: ec7be40bbf
+    md5_5: ec7be
+    md5_6: ec7be4
+    oomp_key: oomp_wykys_freetronics_footprints_led_rgb_8mm_com_k_full
+    oomp_key_extra: oomp_footprint_wykys_freetronics_footprints_led_rgb_8mm_com_k_full
+    oomp_key_full: oomp_footprint_wykys_freetronics_footprints_led_rgb_8mm_com_k_full_ec7be4
+    oomp_key_simple: wykys_freetronics_footprints_led_rgb_8mm_com_k_full
     original_filename: kicad/mods/freetronics_footprints.pretty/LED-RGB-8MM-COM-K-FULL.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_freetronics_footprints_led_rgb_8mm_com_k_full
+  oomp_key_full: oomp_footprint_wykys_freetronics_footprints_led_rgb_8mm_com_k_full
   oomp_key_simple: wykys_freetronics_footprints_led_rgb_8mm_com_k_full
   owner: wykys
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: switch_mfp116dg_ra
     library_name: w_switch
+    md5: 5003a9309686338ce73fd37f3f163b3f
+    md5_10: 5003a93096
+    md5_5: 5003a
+    md5_6: 5003a9
+    oomp_key: oomp_asofttech_w_switch_switch_mfp116dg_ra
+    oomp_key_extra: oomp_footprint_asofttech_w_switch_switch_mfp116dg_ra
+    oomp_key_full: oomp_footprint_asofttech_w_switch_switch_mfp116dg_ra_5003a9
+    oomp_key_simple: asofttech_w_switch_switch_mfp116dg_ra
     original_filename: CAD.KiCad.Libs/modules/w_switch.pretty/switch_mfp116dg-ra.kicad_mod
     owner_name: asofttech
   oomp_key: oomp_asofttech_w_switch_switch_mfp116dg_ra
+  oomp_key_full: oomp_footprint_asofttech_w_switch_switch_mfp116dg_ra
   oomp_key_simple: asofttech_w_switch_switch_mfp116dg_ra
   owner: ASoftTech
   repo:

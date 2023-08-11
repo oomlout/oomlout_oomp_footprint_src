@@ -17,9 +17,18 @@
   oomp:
     footprint_name: fuseholder_littelfuse_nano2_154x
     library_name: fuse
+    md5: 878f6cf58a63f716e8e949dc6b870b79
+    md5_10: 878f6cf58a
+    md5_5: 878f6
+    md5_6: 878f6c
+    oomp_key: oomp_kicad_fuse_fuseholder_littelfuse_nano2_154x
+    oomp_key_extra: oomp_footprint_kicad_fuse_fuseholder_littelfuse_nano2_154x
+    oomp_key_full: oomp_footprint_kicad_fuse_fuseholder_littelfuse_nano2_154x_878f6c
+    oomp_key_simple: kicad_fuse_fuseholder_littelfuse_nano2_154x
     original_filename: libraries/kicad-footprints/Fuse.pretty/Fuseholder_Littelfuse_Nano2_154x.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_fuse_fuseholder_littelfuse_nano2_154x
+  oomp_key_full: oomp_footprint_kicad_fuse_fuseholder_littelfuse_nano2_154x
   oomp_key_simple: kicad_fuse_fuseholder_littelfuse_nano2_154x
   owner: kicad
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ind_srp1040
     library_name: freetronics_footprints
+    md5: 034d90d7c9f812607f572aca5b0fbb9d
+    md5_10: 034d90d7c9
+    md5_5: 034d9
+    md5_6: 034d90
+    oomp_key: oomp_wykys_freetronics_footprints_ind_srp1040
+    oomp_key_extra: oomp_footprint_wykys_freetronics_footprints_ind_srp1040
+    oomp_key_full: oomp_footprint_wykys_freetronics_footprints_ind_srp1040_034d90
+    oomp_key_simple: wykys_freetronics_footprints_ind_srp1040
     original_filename: kicad/mods/freetronics_footprints.pretty/IND_SRP1040.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_freetronics_footprints_ind_srp1040
+  oomp_key_full: oomp_footprint_wykys_freetronics_footprints_ind_srp1040
   oomp_key_simple: wykys_freetronics_footprints_ind_srp1040
   owner: wykys
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: proto_grid_6x10
     library_name: esp_rs232
+    md5: 3f63096f6bce0cacd505a308ba377920
+    md5_10: 3f63096f6b
+    md5_5: 3f630
+    md5_6: 3f6309
+    oomp_key: oomp_wykys_esp_rs232_proto_grid_6x10
+    oomp_key_extra: oomp_footprint_wykys_esp_rs232_proto_grid_6x10
+    oomp_key_full: oomp_footprint_wykys_esp_rs232_proto_grid_6x10_3f6309
+    oomp_key_simple: wykys_esp_rs232_proto_grid_6x10
     original_filename: kicad/mods/ESP-RS232.pretty/proto_grid_6x10.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_esp_rs232_proto_grid_6x10
+  oomp_key_full: oomp_footprint_wykys_esp_rs232_proto_grid_6x10
   oomp_key_simple: wykys_esp_rs232_proto_grid_6x10
   owner: wykys
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: nxp_hvson_8_1ep_3x3mm_sot782_1_thermalvias
     library_name: primarypoints
+    md5: 2577a8511d5b316be83b7dfbd79771f9
+    md5_10: 2577a8511d
+    md5_5: 2577a
+    md5_6: 2577a8
+    oomp_key: oomp_zanekaminski_primarypoints_nxp_hvson_8_1ep_3x3mm_sot782_1_thermalvias
+    oomp_key_extra: oomp_footprint_zanekaminski_primarypoints_nxp_hvson_8_1ep_3x3mm_sot782_1_thermalvias
+    oomp_key_full: oomp_footprint_zanekaminski_primarypoints_nxp_hvson_8_1ep_3x3mm_sot782_1_thermalvias_2577a8
+    oomp_key_simple: zanekaminski_primarypoints_nxp_hvson_8_1ep_3x3mm_sot782_1_thermalvias
     original_filename: primarypoints.pretty/NXP_HVSON-8-1EP_3x3mm_SOT782-1_ThermalVias.kicad_mod
     owner_name: zanekaminski
   oomp_key: oomp_zanekaminski_primarypoints_nxp_hvson_8_1ep_3x3mm_sot782_1_thermalvias
+  oomp_key_full: oomp_footprint_zanekaminski_primarypoints_nxp_hvson_8_1ep_3x3mm_sot782_1_thermalvias
   oomp_key_simple: zanekaminski_primarypoints_nxp_hvson_8_1ep_3x3mm_sot782_1_thermalvias
   owner: ZaneKaminski
   repo:

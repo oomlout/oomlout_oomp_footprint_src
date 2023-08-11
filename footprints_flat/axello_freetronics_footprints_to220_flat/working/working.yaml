@@ -17,9 +17,18 @@
   oomp:
     footprint_name: to220_flat
     library_name: freetronics_footprints
+    md5: 6bffdb958a32b455f4e0f86dc9f5cb8c
+    md5_10: 6bffdb958a
+    md5_5: 6bffd
+    md5_6: 6bffdb
+    oomp_key: oomp_axello_freetronics_footprints_to220_flat
+    oomp_key_extra: oomp_footprint_axello_freetronics_footprints_to220_flat
+    oomp_key_full: oomp_footprint_axello_freetronics_footprints_to220_flat_6bffdb
+    oomp_key_simple: axello_freetronics_footprints_to220_flat
     original_filename: kicad/mods/freetronics_footprints.pretty/TO220_FLAT.kicad_mod
     owner_name: axello
   oomp_key: oomp_axello_freetronics_footprints_to220_flat
+  oomp_key_full: oomp_footprint_axello_freetronics_footprints_to220_flat
   oomp_key_simple: axello_freetronics_footprints_to220_flat
   owner: axello
   repo:

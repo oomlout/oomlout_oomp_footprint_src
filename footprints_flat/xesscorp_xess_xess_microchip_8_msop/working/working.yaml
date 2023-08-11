@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_microchip_8_msop
     library_name: xess
+    md5: d4b1983cbcecc554402fb15e785a16e4
+    md5_10: d4b1983cbc
+    md5_5: d4b19
+    md5_6: d4b198
+    oomp_key: oomp_xesscorp_xess_xess_microchip_8_msop
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_microchip_8_msop
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_microchip_8_msop_d4b198
+    oomp_key_simple: xesscorp_xess_xess_microchip_8_msop
     original_filename: xess.pretty/xess-MICROCHIP-8_MSOP.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_microchip_8_msop
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_microchip_8_msop
   oomp_key_simple: xesscorp_xess_xess_microchip_8_msop
   owner: xesscorp
   repo:

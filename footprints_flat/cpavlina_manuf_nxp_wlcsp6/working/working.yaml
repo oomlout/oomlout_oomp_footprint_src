@@ -17,9 +17,18 @@
   oomp:
     footprint_name: nxp_wlcsp6
     library_name: manuf
+    md5: ed469d256ff4043ab203cf319460c2fa
+    md5_10: ed469d256f
+    md5_5: ed469
+    md5_6: ed469d
+    oomp_key: oomp_cpavlina_manuf_nxp_wlcsp6
+    oomp_key_extra: oomp_footprint_cpavlina_manuf_nxp_wlcsp6
+    oomp_key_full: oomp_footprint_cpavlina_manuf_nxp_wlcsp6_ed469d
+    oomp_key_simple: cpavlina_manuf_nxp_wlcsp6
     original_filename: kicad-pcblib/manuf.pretty/NXP-WLCSP6.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_manuf_nxp_wlcsp6
+  oomp_key_full: oomp_footprint_cpavlina_manuf_nxp_wlcsp6
   oomp_key_simple: cpavlina_manuf_nxp_wlcsp6
   owner: cpavlina
   repo:

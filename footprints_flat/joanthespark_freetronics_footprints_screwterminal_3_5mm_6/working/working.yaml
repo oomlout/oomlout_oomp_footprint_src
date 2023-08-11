@@ -17,9 +17,18 @@
   oomp:
     footprint_name: screwterminal_3_5mm_6
     library_name: freetronics_footprints
+    md5: 3e6528acdf3b351a01b3b490f4aa6895
+    md5_10: 3e6528acdf
+    md5_5: 3e652
+    md5_6: 3e6528
+    oomp_key: oomp_joanthespark_freetronics_footprints_screwterminal_3_5mm_6
+    oomp_key_extra: oomp_footprint_joanthespark_freetronics_footprints_screwterminal_3_5mm_6
+    oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_screwterminal_3_5mm_6_3e6528
+    oomp_key_simple: joanthespark_freetronics_footprints_screwterminal_3_5mm_6
     original_filename: KiCAD/mods/freetronics_footprints.pretty/SCREWTERMINAL-3.5MM-6.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_freetronics_footprints_screwterminal_3_5mm_6
+  oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_screwterminal_3_5mm_6
   oomp_key_simple: joanthespark_freetronics_footprints_screwterminal_3_5mm_6
   owner: JoanTheSpark
   repo:

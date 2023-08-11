@@ -17,9 +17,18 @@
   oomp:
     footprint_name: tssop_28_w5_60mm
     library_name: digikey_footprints
+    md5: bb9cb9a090e1d4a8056fc60ba3f4b436
+    md5_10: bb9cb9a090
+    md5_5: bb9cb
+    md5_6: bb9cb9
+    oomp_key: oomp_digikey_digikey_footprints_tssop_28_w5_60mm
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_tssop_28_w5_60mm
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_tssop_28_w5_60mm_bb9cb9
+    oomp_key_simple: digikey_digikey_footprints_tssop_28_w5_60mm
     original_filename: digikey-kicad-library/digikey-footprints.pretty/TSSOP-28_W5.60mm.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_tssop_28_w5_60mm
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_tssop_28_w5_60mm
   oomp_key_simple: digikey_digikey_footprints_tssop_28_w5_60mm
   owner: digikey
   repo:

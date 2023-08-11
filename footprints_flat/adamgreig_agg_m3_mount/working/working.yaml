@@ -17,9 +17,18 @@
   oomp:
     footprint_name: m3_mount
     library_name: agg
+    md5: 67c4c14e3312820abe2249a7b1609b00
+    md5_10: 67c4c14e33
+    md5_5: 67c4c
+    md5_6: 67c4c1
+    oomp_key: oomp_adamgreig_agg_m3_mount
+    oomp_key_extra: oomp_footprint_adamgreig_agg_m3_mount
+    oomp_key_full: oomp_footprint_adamgreig_agg_m3_mount_67c4c1
+    oomp_key_simple: adamgreig_agg_m3_mount
     original_filename: agg-kicad/agg.pretty/M3_MOUNT.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_m3_mount
+  oomp_key_full: oomp_footprint_adamgreig_agg_m3_mount
   oomp_key_simple: adamgreig_agg_m3_mount
   owner: adamgreig
   repo:

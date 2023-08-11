@@ -18,9 +18,18 @@
   oomp:
     footprint_name: cp_radial_d16_0mm_p7_50mm
     library_name: capacitor_tht
+    md5: 4c38befd5b4c14fd61028191cfe54b56
+    md5_10: 4c38befd5b
+    md5_5: 4c38b
+    md5_6: 4c38be
+    oomp_key: oomp_kicad_capacitor_tht_cp_radial_d16_0mm_p7_50mm
+    oomp_key_extra: oomp_footprint_kicad_capacitor_tht_cp_radial_d16_0mm_p7_50mm
+    oomp_key_full: oomp_footprint_kicad_capacitor_tht_cp_radial_d16_0mm_p7_50mm_4c38be
+    oomp_key_simple: kicad_capacitor_tht_cp_radial_d16_0mm_p7_50mm
     original_filename: libraries/kicad-footprints/Capacitor_THT.pretty/CP_Radial_D16.0mm_P7.50mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_capacitor_tht_cp_radial_d16_0mm_p7_50mm
+  oomp_key_full: oomp_footprint_kicad_capacitor_tht_cp_radial_d16_0mm_p7_50mm
   oomp_key_simple: kicad_capacitor_tht_cp_radial_d16_0mm_p7_50mm
   owner: kicad
   repo:

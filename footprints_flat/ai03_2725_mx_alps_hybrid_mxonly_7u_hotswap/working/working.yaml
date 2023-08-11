@@ -16,10 +16,19 @@
   name: MX_Alps_Hybrid.pretty
   oomp:
     footprint_name: mxonly_7u_hotswap
-    library_name: mx_only
+    library_name: mx_alps_hybrid
+    md5: 992cee595076e85f718b8e7b50fda6a1
+    md5_10: 992cee5950
+    md5_5: 992ce
+    md5_6: 992cee
+    oomp_key: oomp_ai03_2725_mx_alps_hybrid_mxonly_7u_hotswap
+    oomp_key_extra: oomp_footprint_ai03_2725_mx_alps_hybrid_mxonly_7u_hotswap
+    oomp_key_full: oomp_footprint_ai03_2725_mx_alps_hybrid_mxonly_7u_hotswap_992cee
+    oomp_key_simple: ai03_2725_mx_alps_hybrid_mxonly_7u_hotswap
     original_filename: MX_Alps_Hybrid.pretty/MX_Only.pretty/MXOnly-7U-Hotswap.kicad_mod
     owner_name: ai03_2725
   oomp_key: oomp_ai03_2725_mx_alps_hybrid_mxonly_7u_hotswap
+  oomp_key_full: oomp_footprint_ai03_2725_mx_alps_hybrid_mxonly_7u_hotswap
   oomp_key_simple: ai03_2725_mx_alps_hybrid_mxonly_7u_hotswap
   owner: ai03-2725
   repo:

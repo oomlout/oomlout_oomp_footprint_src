@@ -17,9 +17,18 @@
   oomp:
     footprint_name: mx_fmask_with_cutout
     library_name: keebio_parts
+    md5: 0fb821475398b425af3c37f597750454
+    md5_10: 0fb8214753
+    md5_5: 0fb82
+    md5_6: 0fb821
+    oomp_key: oomp_keebio_keebio_parts_mx_fmask_with_cutout
+    oomp_key_extra: oomp_footprint_keebio_keebio_parts_mx_fmask_with_cutout
+    oomp_key_full: oomp_footprint_keebio_keebio_parts_mx_fmask_with_cutout_0fb821
+    oomp_key_simple: keebio_keebio_parts_mx_fmask_with_cutout
     original_filename: Keebio-Parts.pretty/MX_FMask-with-cutout.kicad_mod
     owner_name: keebio
   oomp_key: oomp_keebio_keebio_parts_mx_fmask_with_cutout
+  oomp_key_full: oomp_footprint_keebio_keebio_parts_mx_fmask_with_cutout
   oomp_key_simple: keebio_keebio_parts_mx_fmask_with_cutout
   owner: keebio
   repo:

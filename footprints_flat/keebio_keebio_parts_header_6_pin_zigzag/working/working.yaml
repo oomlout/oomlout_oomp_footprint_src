@@ -17,9 +17,18 @@
   oomp:
     footprint_name: header_6_pin_zigzag
     library_name: keebio_parts
+    md5: 6db7e34c1a83c3d0651b611e00e6922d
+    md5_10: 6db7e34c1a
+    md5_5: 6db7e
+    md5_6: 6db7e3
+    oomp_key: oomp_keebio_keebio_parts_header_6_pin_zigzag
+    oomp_key_extra: oomp_footprint_keebio_keebio_parts_header_6_pin_zigzag
+    oomp_key_full: oomp_footprint_keebio_keebio_parts_header_6_pin_zigzag_6db7e3
+    oomp_key_simple: keebio_keebio_parts_header_6_pin_zigzag
     original_filename: Keebio-Parts.pretty/Header-6-Pin-ZigZag.kicad_mod
     owner_name: keebio
   oomp_key: oomp_keebio_keebio_parts_header_6_pin_zigzag
+  oomp_key_full: oomp_footprint_keebio_keebio_parts_header_6_pin_zigzag
   oomp_key_simple: keebio_keebio_parts_header_6_pin_zigzag
   owner: keebio
   repo:

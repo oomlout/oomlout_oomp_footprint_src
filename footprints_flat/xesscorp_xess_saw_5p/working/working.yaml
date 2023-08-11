@@ -17,9 +17,18 @@
   oomp:
     footprint_name: saw_5p
     library_name: xess
+    md5: d31cc155d9ce4117f663a654056c4cbd
+    md5_10: d31cc155d9
+    md5_5: d31cc
+    md5_6: d31cc1
+    oomp_key: oomp_xesscorp_xess_saw_5p
+    oomp_key_extra: oomp_footprint_xesscorp_xess_saw_5p
+    oomp_key_full: oomp_footprint_xesscorp_xess_saw_5p_d31cc1
+    oomp_key_simple: xesscorp_xess_saw_5p
     original_filename: xess.pretty/SAW-5P.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_saw_5p
+  oomp_key_full: oomp_footprint_xesscorp_xess_saw_5p
   oomp_key_simple: xesscorp_xess_saw_5p
   owner: xesscorp
   repo:

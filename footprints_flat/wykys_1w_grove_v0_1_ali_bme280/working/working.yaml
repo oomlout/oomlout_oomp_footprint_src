@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ali_bme280
     library_name: 1w_grove_v0_1
+    md5: 2ab8f0366583a67f54b78b904b04344d
+    md5_10: 2ab8f03665
+    md5_5: 2ab8f
+    md5_6: 2ab8f0
+    oomp_key: oomp_wykys_1w_grove_v0_1_ali_bme280
+    oomp_key_extra: oomp_footprint_wykys_1w_grove_v0_1_ali_bme280
+    oomp_key_full: oomp_footprint_wykys_1w_grove_v0_1_ali_bme280_2ab8f0
+    oomp_key_simple: wykys_1w_grove_v0_1_ali_bme280
     original_filename: kicad/6.0/projects/1w-grove-v0.1/1w-grove-v0.1.pretty/ali_bme280.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_1w_grove_v0_1_ali_bme280
+  oomp_key_full: oomp_footprint_wykys_1w_grove_v0_1_ali_bme280
   oomp_key_simple: wykys_1w_grove_v0_1_ali_bme280
   owner: wykys
   repo:

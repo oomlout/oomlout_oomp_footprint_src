@@ -17,9 +17,18 @@
   oomp:
     footprint_name: we_sl2
     library_name: we_slx
+    md5: f53a011f5486ccea46501970ae3f4ae0
+    md5_10: f53a011f54
+    md5_5: f53a0
+    md5_6: f53a01
+    oomp_key: oomp_kicad_rleh_we_slx_we_sl2
+    oomp_key_extra: oomp_footprint_kicad_rleh_we_slx_we_sl2
+    oomp_key_full: oomp_footprint_kicad_rleh_we_slx_we_sl2_f53a01
+    oomp_key_simple: kicad_rleh_we_slx_we_sl2
     original_filename: WE-SLx.pretty/WE-SL2.kicad_mod
     owner_name: kicad_rleh
   oomp_key: oomp_kicad_rleh_we_slx_we_sl2
+  oomp_key_full: oomp_footprint_kicad_rleh_we_slx_we_sl2
   oomp_key_simple: kicad_rleh_we_slx_we_sl2
   owner: kicad-rleh
   repo:

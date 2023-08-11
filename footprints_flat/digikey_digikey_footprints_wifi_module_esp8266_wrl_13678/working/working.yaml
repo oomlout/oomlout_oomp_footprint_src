@@ -17,9 +17,18 @@
   oomp:
     footprint_name: wifi_module_esp8266_wrl_13678
     library_name: digikey_footprints
+    md5: 1c340be5319b48cdac44831171f30ed7
+    md5_10: 1c340be531
+    md5_5: 1c340
+    md5_6: 1c340b
+    oomp_key: oomp_digikey_digikey_footprints_wifi_module_esp8266_wrl_13678
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_wifi_module_esp8266_wrl_13678
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_wifi_module_esp8266_wrl_13678_1c340b
+    oomp_key_simple: digikey_digikey_footprints_wifi_module_esp8266_wrl_13678
     original_filename: digikey-kicad-library/digikey-footprints.pretty/Wifi_Module_ESP8266_WRL-13678.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_wifi_module_esp8266_wrl_13678
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_wifi_module_esp8266_wrl_13678
   oomp_key_simple: digikey_digikey_footprints_wifi_module_esp8266_wrl_13678
   owner: digikey
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: mxo1000r
     library_name: acheron_mxo
+    md5: 05736a478590365372f07eeb6d928bab
+    md5_10: 05736a4785
+    md5_5: '05736'
+    md5_6: 05736a
+    oomp_key: oomp_acheronproject_acheron_mxo_mxo1000r
+    oomp_key_extra: oomp_footprint_acheronproject_acheron_mxo_mxo1000r
+    oomp_key_full: oomp_footprint_acheronproject_acheron_mxo_mxo1000r_05736a
+    oomp_key_simple: acheronproject_acheron_mxo_mxo1000r
     original_filename: acheron_MXO.pretty/MXO1000R.kicad_mod
     owner_name: acheronproject
   oomp_key: oomp_acheronproject_acheron_mxo_mxo1000r
+  oomp_key_full: oomp_footprint_acheronproject_acheron_mxo_mxo1000r
   oomp_key_simple: acheronproject_acheron_mxo_mxo1000r
   owner: AcheronProject
   repo:

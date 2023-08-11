@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: cellular_modem_nl_sw_lte_tsvg
-    library_name: source_footprints
+    library_name: cellular_modem_nl_sw_lte_tsvg_kicad_mod
+    md5: 81270e7f16358c64ca76086c8c46f8c1
+    md5_10: 81270e7f16
+    md5_5: '81270'
+    md5_6: 81270e
+    oomp_key: oomp_digikey_cellular_modem_nl_sw_lte_tsvg_cellular_modem_nl_sw_lte_tsvg
+    oomp_key_extra: oomp_footprint_digikey_cellular_modem_nl_sw_lte_tsvg_cellular_modem_nl_sw_lte_tsvg
+    oomp_key_full: oomp_footprint_digikey_cellular_modem_nl_sw_lte_tsvg_cellular_modem_nl_sw_lte_tsvg_81270e
+    oomp_key_simple: digikey_cellular_modem_nl_sw_lte_tsvg_cellular_modem_nl_sw_lte_tsvg
     original_filename: digikey-kicad-library/src/Source_Footprints/Cellular_Modem_NL-SW-LTE-TSVG.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_cellular_modem_nl_sw_lte_tsvg_cellular_modem_nl_sw_lte_tsvg
+  oomp_key_full: oomp_footprint_digikey_cellular_modem_nl_sw_lte_tsvg_cellular_modem_nl_sw_lte_tsvg
   oomp_key_simple: digikey_cellular_modem_nl_sw_lte_tsvg_cellular_modem_nl_sw_lte_tsvg
   owner: digikey
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: '38700_7504'
     library_name: agg
+    md5: 3296c81fe7d8c468ec201220a3513317
+    md5_10: 3296c81fe7
+    md5_5: 3296c
+    md5_6: 3296c8
+    oomp_key: oomp_adamgreig_agg_38700_7504
+    oomp_key_extra: oomp_footprint_adamgreig_agg_38700_7504
+    oomp_key_full: oomp_footprint_adamgreig_agg_38700_7504_3296c8
+    oomp_key_simple: adamgreig_agg_38700_7504
     original_filename: agg-kicad/agg.pretty/38700-7504.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_38700_7504
+  oomp_key_full: oomp_footprint_adamgreig_agg_38700_7504
   oomp_key_simple: adamgreig_agg_38700_7504
   owner: adamgreig
   repo:

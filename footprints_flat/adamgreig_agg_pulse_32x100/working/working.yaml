@@ -17,9 +17,18 @@
   oomp:
     footprint_name: pulse_32x100
     library_name: agg
+    md5: 9cf5b72d39dc782485beff83cbac64ab
+    md5_10: 9cf5b72d39
+    md5_5: 9cf5b
+    md5_6: 9cf5b7
+    oomp_key: oomp_adamgreig_agg_pulse_32x100
+    oomp_key_extra: oomp_footprint_adamgreig_agg_pulse_32x100
+    oomp_key_full: oomp_footprint_adamgreig_agg_pulse_32x100_9cf5b7
+    oomp_key_simple: adamgreig_agg_pulse_32x100
     original_filename: agg-kicad/agg.pretty/PULSE_32x100.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_pulse_32x100
+  oomp_key_full: oomp_footprint_adamgreig_agg_pulse_32x100
   oomp_key_simple: adamgreig_agg_pulse_32x100
   owner: adamgreig
   repo:

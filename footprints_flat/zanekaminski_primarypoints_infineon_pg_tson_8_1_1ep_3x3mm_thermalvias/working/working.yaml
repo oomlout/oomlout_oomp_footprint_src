@@ -17,9 +17,18 @@
   oomp:
     footprint_name: infineon_pg_tson_8_1_1ep_3x3mm_thermalvias
     library_name: primarypoints
+    md5: 26dbc5bf579fea6f8585ffc7f9382011
+    md5_10: 26dbc5bf57
+    md5_5: 26dbc
+    md5_6: 26dbc5
+    oomp_key: oomp_zanekaminski_primarypoints_infineon_pg_tson_8_1_1ep_3x3mm_thermalvias
+    oomp_key_extra: oomp_footprint_zanekaminski_primarypoints_infineon_pg_tson_8_1_1ep_3x3mm_thermalvias
+    oomp_key_full: oomp_footprint_zanekaminski_primarypoints_infineon_pg_tson_8_1_1ep_3x3mm_thermalvias_26dbc5
+    oomp_key_simple: zanekaminski_primarypoints_infineon_pg_tson_8_1_1ep_3x3mm_thermalvias
     original_filename: primarypoints.pretty/Infineon_PG-TSON-8-1-1EP_3x3mm_ThermalVias.kicad_mod
     owner_name: zanekaminski
   oomp_key: oomp_zanekaminski_primarypoints_infineon_pg_tson_8_1_1ep_3x3mm_thermalvias
+  oomp_key_full: oomp_footprint_zanekaminski_primarypoints_infineon_pg_tson_8_1_1ep_3x3mm_thermalvias
   oomp_key_simple: zanekaminski_primarypoints_infineon_pg_tson_8_1_1ep_3x3mm_thermalvias
   owner: ZaneKaminski
   repo:

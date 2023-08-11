@@ -18,9 +18,18 @@
   oomp:
     footprint_name: signalcommunications_we_poe_ep13
     library_name: signalcommunications
+    md5: 5d9920a7704c245c77320dc4c6622aa3
+    md5_10: 5d9920a770
+    md5_5: 5d992
+    md5_6: 5d9920
+    oomp_key: oomp_electroniccats_signalcommunications_signalcommunications_we_poe_ep13
+    oomp_key_extra: oomp_footprint_electroniccats_signalcommunications_signalcommunications_we_poe_ep13
+    oomp_key_full: oomp_footprint_electroniccats_signalcommunications_signalcommunications_we_poe_ep13_5d9920
+    oomp_key_simple: electroniccats_signalcommunications_signalcommunications_we_poe_ep13
     original_filename: ComponentLibrariesKicadWurthElektronik/SIGNAL-COMMUNICATIONS-rev18a/SignalCommunications.pretty/SignalCommunications-WE-POE_EP13.kicad_mod
     owner_name: electroniccats
   oomp_key: oomp_electroniccats_signalcommunications_signalcommunications_we_poe_ep13
+  oomp_key_full: oomp_footprint_electroniccats_signalcommunications_signalcommunications_we_poe_ep13
   oomp_key_simple: electroniccats_signalcommunications_signalcommunications_we_poe_ep13
   owner: ElectronicCats
   repo:

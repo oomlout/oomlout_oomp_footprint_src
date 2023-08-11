@@ -17,9 +17,18 @@
   oomp:
     footprint_name: arduino_shield
     library_name: freetronics_footprints
+    md5: 24f67a16fe0aa877d6c6993f1b971f65
+    md5_10: 24f67a16fe
+    md5_5: 24f67
+    md5_6: 24f67a
+    oomp_key: oomp_axello_freetronics_footprints_arduino_shield
+    oomp_key_extra: oomp_footprint_axello_freetronics_footprints_arduino_shield
+    oomp_key_full: oomp_footprint_axello_freetronics_footprints_arduino_shield_24f67a
+    oomp_key_simple: axello_freetronics_footprints_arduino_shield
     original_filename: kicad/mods/freetronics_footprints.pretty/ARDUINO_SHIELD.kicad_mod
     owner_name: axello
   oomp_key: oomp_axello_freetronics_footprints_arduino_shield
+  oomp_key_full: oomp_footprint_axello_freetronics_footprints_arduino_shield
   oomp_key_simple: axello_freetronics_footprints_arduino_shield
   owner: axello
   repo:

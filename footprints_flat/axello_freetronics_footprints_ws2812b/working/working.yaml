@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ws2812b
     library_name: freetronics_footprints
+    md5: 920b49625b7a1734a45d1de3a251ff0f
+    md5_10: 920b49625b
+    md5_5: 920b4
+    md5_6: 920b49
+    oomp_key: oomp_axello_freetronics_footprints_ws2812b
+    oomp_key_extra: oomp_footprint_axello_freetronics_footprints_ws2812b
+    oomp_key_full: oomp_footprint_axello_freetronics_footprints_ws2812b_920b49
+    oomp_key_simple: axello_freetronics_footprints_ws2812b
     original_filename: kicad/mods/freetronics_footprints.pretty/WS2812B.kicad_mod
     owner_name: axello
   oomp_key: oomp_axello_freetronics_footprints_ws2812b
+  oomp_key_full: oomp_footprint_axello_freetronics_footprints_ws2812b
   oomp_key_simple: axello_freetronics_footprints_ws2812b
   owner: axello
   repo:

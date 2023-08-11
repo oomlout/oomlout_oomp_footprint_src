@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xo_50x32
     library_name: agg
+    md5: ed9cd8ca7b2bb4bb1d2e540f3659118d
+    md5_10: ed9cd8ca7b
+    md5_5: ed9cd
+    md5_6: ed9cd8
+    oomp_key: oomp_adamgreig_agg_xo_50x32
+    oomp_key_extra: oomp_footprint_adamgreig_agg_xo_50x32
+    oomp_key_full: oomp_footprint_adamgreig_agg_xo_50x32_ed9cd8
+    oomp_key_simple: adamgreig_agg_xo_50x32
     original_filename: agg-kicad/agg.pretty/XO-50x32.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_xo_50x32
+  oomp_key_full: oomp_footprint_adamgreig_agg_xo_50x32
   oomp_key_simple: adamgreig_agg_xo_50x32
   owner: adamgreig
   repo:

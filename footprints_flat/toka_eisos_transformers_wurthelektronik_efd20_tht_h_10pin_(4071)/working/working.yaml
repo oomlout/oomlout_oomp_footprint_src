@@ -17,9 +17,18 @@
   oomp:
     footprint_name: efd20_tht_h_10pin_(4071)
     library_name: transformers_wurthelektronik
+    md5: 31a31327d7e8275dca22d845cf1963c0
+    md5_10: 31a31327d7
+    md5_5: 31a31
+    md5_6: 31a313
+    oomp_key: oomp_toka_eisos_transformers_wurthelektronik_efd20_tht_h_10pin_(4071)
+    oomp_key_extra: oomp_footprint_toka_eisos_transformers_wurthelektronik_efd20_tht_h_10pin_(4071)
+    oomp_key_full: oomp_footprint_toka_eisos_transformers_wurthelektronik_efd20_tht_h_10pin_(4071)_31a313
+    oomp_key_simple: toka_eisos_transformers_wurthelektronik_efd20_tht_h_10pin_(4071)
     original_filename: Transformers_WurthElektronik.pretty/EFD20_THT_H_10PIN_(4071).kicad_mod
     owner_name: toka_eisos
   oomp_key: oomp_toka_eisos_transformers_wurthelektronik_efd20_tht_h_10pin_(4071)
+  oomp_key_full: oomp_footprint_toka_eisos_transformers_wurthelektronik_efd20_tht_h_10pin_(4071)
   oomp_key_simple: toka_eisos_transformers_wurthelektronik_efd20_tht_h_10pin_(4071)
   owner: toka-eisos
   repo:

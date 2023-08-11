@@ -17,9 +17,18 @@
   oomp:
     footprint_name: batteryholder_coincell_keystone_3000
     library_name: battery_holders
+    md5: f9267c4938fa0ae69e9f4ef57394b7ce
+    md5_10: f9267c4938
+    md5_5: f9267
+    md5_6: f9267c
+    oomp_key: oomp_ashtonchase_battery_holders_batteryholder_coincell_keystone_3000
+    oomp_key_extra: oomp_footprint_ashtonchase_battery_holders_batteryholder_coincell_keystone_3000
+    oomp_key_full: oomp_footprint_ashtonchase_battery_holders_batteryholder_coincell_keystone_3000_f9267c
+    oomp_key_simple: ashtonchase_battery_holders_batteryholder_coincell_keystone_3000
     original_filename: Battery_Holders.pretty/BatteryHolder_CoinCell_Keystone_3000.kicad_mod
     owner_name: ashtonchase
   oomp_key: oomp_ashtonchase_battery_holders_batteryholder_coincell_keystone_3000
+  oomp_key_full: oomp_footprint_ashtonchase_battery_holders_batteryholder_coincell_keystone_3000
   oomp_key_simple: ashtonchase_battery_holders_batteryholder_coincell_keystone_3000
   owner: ashtonchase
   repo:

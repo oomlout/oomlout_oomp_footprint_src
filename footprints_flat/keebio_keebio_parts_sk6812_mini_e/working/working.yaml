@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sk6812_mini_e
     library_name: keebio_parts
+    md5: 0f210a7d3dc8e8a10fe228611a9e43c0
+    md5_10: 0f210a7d3d
+    md5_5: 0f210
+    md5_6: 0f210a
+    oomp_key: oomp_keebio_keebio_parts_sk6812_mini_e
+    oomp_key_extra: oomp_footprint_keebio_keebio_parts_sk6812_mini_e
+    oomp_key_full: oomp_footprint_keebio_keebio_parts_sk6812_mini_e_0f210a
+    oomp_key_simple: keebio_keebio_parts_sk6812_mini_e
     original_filename: Keebio-Parts.pretty/SK6812-MINI-E.kicad_mod
     owner_name: keebio
   oomp_key: oomp_keebio_keebio_parts_sk6812_mini_e
+  oomp_key_full: oomp_footprint_keebio_keebio_parts_sk6812_mini_e
   oomp_key_simple: keebio_keebio_parts_sk6812_mini_e
   owner: keebio
   repo:

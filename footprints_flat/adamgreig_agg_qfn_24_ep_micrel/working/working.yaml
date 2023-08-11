@@ -17,9 +17,18 @@
   oomp:
     footprint_name: qfn_24_ep_micrel
     library_name: agg
+    md5: 4d07e26b8b75f08e616dcb9a962ec49d
+    md5_10: 4d07e26b8b
+    md5_5: 4d07e
+    md5_6: 4d07e2
+    oomp_key: oomp_adamgreig_agg_qfn_24_ep_micrel
+    oomp_key_extra: oomp_footprint_adamgreig_agg_qfn_24_ep_micrel
+    oomp_key_full: oomp_footprint_adamgreig_agg_qfn_24_ep_micrel_4d07e2
+    oomp_key_simple: adamgreig_agg_qfn_24_ep_micrel
     original_filename: agg-kicad/agg.pretty/QFN-24-EP-MICREL.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_qfn_24_ep_micrel
+  oomp_key_full: oomp_footprint_adamgreig_agg_qfn_24_ep_micrel
   oomp_key_simple: adamgreig_agg_qfn_24_ep_micrel
   owner: adamgreig
   repo:

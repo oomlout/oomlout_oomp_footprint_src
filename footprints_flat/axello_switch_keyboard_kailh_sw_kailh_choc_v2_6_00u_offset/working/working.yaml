@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sw_kailh_choc_v2_6_00u_offset
     library_name: switch_keyboard_kailh
+    md5: 6187c3f85b0609413817b897b1208de0
+    md5_10: 6187c3f85b
+    md5_5: 6187c
+    md5_6: 6187c3
+    oomp_key: oomp_axello_switch_keyboard_kailh_sw_kailh_choc_v2_6_00u_offset
+    oomp_key_extra: oomp_footprint_axello_switch_keyboard_kailh_sw_kailh_choc_v2_6_00u_offset
+    oomp_key_full: oomp_footprint_axello_switch_keyboard_kailh_sw_kailh_choc_v2_6_00u_offset_6187c3
+    oomp_key_simple: axello_switch_keyboard_kailh_sw_kailh_choc_v2_6_00u_offset
     original_filename: kicad/6.0/3rdparty/footprints/com_github_perigoso_keyswitch-kicad-library/Switch_Keyboard_Kailh.pretty/SW_Kailh_Choc_V2_6.00u_Offset.kicad_mod
     owner_name: axello
   oomp_key: oomp_axello_switch_keyboard_kailh_sw_kailh_choc_v2_6_00u_offset
+  oomp_key_full: oomp_footprint_axello_switch_keyboard_kailh_sw_kailh_choc_v2_6_00u_offset
   oomp_key_simple: axello_switch_keyboard_kailh_sw_kailh_choc_v2_6_00u_offset
   owner: axello
   repo:

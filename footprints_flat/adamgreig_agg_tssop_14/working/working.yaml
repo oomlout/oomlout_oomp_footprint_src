@@ -17,9 +17,18 @@
   oomp:
     footprint_name: tssop_14
     library_name: agg
+    md5: 21e96e7c990721e2bb815a70f0848c57
+    md5_10: 21e96e7c99
+    md5_5: 21e96
+    md5_6: 21e96e
+    oomp_key: oomp_adamgreig_agg_tssop_14
+    oomp_key_extra: oomp_footprint_adamgreig_agg_tssop_14
+    oomp_key_full: oomp_footprint_adamgreig_agg_tssop_14_21e96e
+    oomp_key_simple: adamgreig_agg_tssop_14
     original_filename: agg-kicad/agg.pretty/TSSOP-14.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_tssop_14
+  oomp_key_full: oomp_footprint_adamgreig_agg_tssop_14
   oomp_key_simple: adamgreig_agg_tssop_14
   owner: adamgreig
   repo:

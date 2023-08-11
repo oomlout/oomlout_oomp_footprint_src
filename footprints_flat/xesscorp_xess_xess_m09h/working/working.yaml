@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_m09h
     library_name: xess
+    md5: 09440608ef596c1e8de5339e385d911f
+    md5_10: 09440608ef
+    md5_5: 09440
+    md5_6: 094406
+    oomp_key: oomp_xesscorp_xess_xess_m09h
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_m09h
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_m09h_094406
+    oomp_key_simple: xesscorp_xess_xess_m09h
     original_filename: xess.pretty/xess-M09H.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_m09h
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_m09h
   oomp_key_simple: xesscorp_xess_xess_m09h
   owner: xesscorp
   repo:

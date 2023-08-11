@@ -19,9 +19,18 @@
   oomp:
     footprint_name: mountinghole_3_5mm_pad_via
     library_name: mountinghole
+    md5: bc5e51007c400bf611cf4ab9dfe7703e
+    md5_10: bc5e51007c
+    md5_5: bc5e5
+    md5_6: bc5e51
+    oomp_key: oomp_iangitpers_mountinghole_mountinghole_3_5mm_pad_via
+    oomp_key_extra: oomp_footprint_iangitpers_mountinghole_mountinghole_3_5mm_pad_via
+    oomp_key_full: oomp_footprint_iangitpers_mountinghole_mountinghole_3_5mm_pad_via_bc5e51
+    oomp_key_simple: iangitpers_mountinghole_mountinghole_3_5mm_pad_via
     original_filename: 4a/MountingHole.pretty/MountingHole_3.5mm_Pad_Via.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_mountinghole_mountinghole_3_5mm_pad_via
+  oomp_key_full: oomp_footprint_iangitpers_mountinghole_mountinghole_3_5mm_pad_via
   oomp_key_simple: iangitpers_mountinghole_mountinghole_3_5mm_pad_via
   owner: Iangitpers
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: oshw_logo2_48_7x40mm_copper
     library_name: symbol
+    md5: 1f6a49d9e03c104b0a2c1d86745226d0
+    md5_10: 1f6a49d9e0
+    md5_5: 1f6a4
+    md5_6: 1f6a49
+    oomp_key: oomp_kicad_symbol_oshw_logo2_48_7x40mm_copper
+    oomp_key_extra: oomp_footprint_kicad_symbol_oshw_logo2_48_7x40mm_copper
+    oomp_key_full: oomp_footprint_kicad_symbol_oshw_logo2_48_7x40mm_copper_1f6a49
+    oomp_key_simple: kicad_symbol_oshw_logo2_48_7x40mm_copper
     original_filename: libraries/kicad-footprints/Symbol.pretty/OSHW-Logo2_48.7x40mm_Copper.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_symbol_oshw_logo2_48_7x40mm_copper
+  oomp_key_full: oomp_footprint_kicad_symbol_oshw_logo2_48_7x40mm_copper
   oomp_key_simple: kicad_symbol_oshw_logo2_48_7x40mm_copper
   owner: kicad
   repo:

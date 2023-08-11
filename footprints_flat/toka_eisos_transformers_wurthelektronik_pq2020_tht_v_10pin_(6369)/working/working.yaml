@@ -17,9 +17,18 @@
   oomp:
     footprint_name: pq2020_tht_v_10pin_(6369)
     library_name: transformers_wurthelektronik
+    md5: 7c6d73b14de9ed423caf3d73356ea182
+    md5_10: 7c6d73b14d
+    md5_5: 7c6d7
+    md5_6: 7c6d73
+    oomp_key: oomp_toka_eisos_transformers_wurthelektronik_pq2020_tht_v_10pin_(6369)
+    oomp_key_extra: oomp_footprint_toka_eisos_transformers_wurthelektronik_pq2020_tht_v_10pin_(6369)
+    oomp_key_full: oomp_footprint_toka_eisos_transformers_wurthelektronik_pq2020_tht_v_10pin_(6369)_7c6d73
+    oomp_key_simple: toka_eisos_transformers_wurthelektronik_pq2020_tht_v_10pin_(6369)
     original_filename: Transformers_WurthElektronik.pretty/PQ2020_THT_V_10PIN_(6369).kicad_mod
     owner_name: toka_eisos
   oomp_key: oomp_toka_eisos_transformers_wurthelektronik_pq2020_tht_v_10pin_(6369)
+  oomp_key_full: oomp_footprint_toka_eisos_transformers_wurthelektronik_pq2020_tht_v_10pin_(6369)
   oomp_key_simple: toka_eisos_transformers_wurthelektronik_pq2020_tht_v_10pin_(6369)
   owner: toka-eisos
   repo:

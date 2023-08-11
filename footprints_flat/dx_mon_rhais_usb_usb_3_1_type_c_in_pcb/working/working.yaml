@@ -17,9 +17,18 @@
   oomp:
     footprint_name: usb_3_1_type_c_in_pcb
     library_name: rhais_usb
+    md5: 7a8ee464970b2a6f9b4389719838b31d
+    md5_10: 7a8ee46497
+    md5_5: 7a8ee
+    md5_6: 7a8ee4
+    oomp_key: oomp_dx_mon_rhais_usb_usb_3_1_type_c_in_pcb
+    oomp_key_extra: oomp_footprint_dx_mon_rhais_usb_usb_3_1_type_c_in_pcb
+    oomp_key_full: oomp_footprint_dx_mon_rhais_usb_usb_3_1_type_c_in_pcb_7a8ee4
+    oomp_key_simple: dx_mon_rhais_usb_usb_3_1_type_c_in_pcb
     original_filename: rhais_usb.pretty/USB-3.1-Type-C_In-PCB.kicad_mod
     owner_name: dx_mon
   oomp_key: oomp_dx_mon_rhais_usb_usb_3_1_type_c_in_pcb
+  oomp_key_full: oomp_footprint_dx_mon_rhais_usb_usb_3_1_type_c_in_pcb
   oomp_key_simple: dx_mon_rhais_usb_usb_3_1_type_c_in_pcb
   owner: DX-MON
   repo:

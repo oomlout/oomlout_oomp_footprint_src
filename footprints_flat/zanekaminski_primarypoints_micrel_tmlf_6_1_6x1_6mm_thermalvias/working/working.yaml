@@ -17,9 +17,18 @@
   oomp:
     footprint_name: micrel_tmlf_6_1_6x1_6mm_thermalvias
     library_name: primarypoints
+    md5: cf26e78283873a8738abf96438808437
+    md5_10: cf26e78283
+    md5_5: cf26e
+    md5_6: cf26e7
+    oomp_key: oomp_zanekaminski_primarypoints_micrel_tmlf_6_1_6x1_6mm_thermalvias
+    oomp_key_extra: oomp_footprint_zanekaminski_primarypoints_micrel_tmlf_6_1_6x1_6mm_thermalvias
+    oomp_key_full: oomp_footprint_zanekaminski_primarypoints_micrel_tmlf_6_1_6x1_6mm_thermalvias_cf26e7
+    oomp_key_simple: zanekaminski_primarypoints_micrel_tmlf_6_1_6x1_6mm_thermalvias
     original_filename: primarypoints.pretty/Micrel_TMLF-6_1.6x1.6mm_ThermalVias.kicad_mod
     owner_name: zanekaminski
   oomp_key: oomp_zanekaminski_primarypoints_micrel_tmlf_6_1_6x1_6mm_thermalvias
+  oomp_key_full: oomp_footprint_zanekaminski_primarypoints_micrel_tmlf_6_1_6x1_6mm_thermalvias
   oomp_key_simple: zanekaminski_primarypoints_micrel_tmlf_6_1_6x1_6mm_thermalvias
   owner: ZaneKaminski
   repo:

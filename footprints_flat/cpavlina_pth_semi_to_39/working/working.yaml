@@ -17,9 +17,18 @@
   oomp:
     footprint_name: to_39
     library_name: pth_semi
+    md5: aad1c68ba9e65516c104da75f6c652bf
+    md5_10: aad1c68ba9
+    md5_5: aad1c
+    md5_6: aad1c6
+    oomp_key: oomp_cpavlina_pth_semi_to_39
+    oomp_key_extra: oomp_footprint_cpavlina_pth_semi_to_39
+    oomp_key_full: oomp_footprint_cpavlina_pth_semi_to_39_aad1c6
+    oomp_key_simple: cpavlina_pth_semi_to_39
     original_filename: kicad-pcblib/pth-semi.pretty/TO-39.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_pth_semi_to_39
+  oomp_key_full: oomp_footprint_cpavlina_pth_semi_to_39
   oomp_key_simple: cpavlina_pth_semi_to_39
   owner: cpavlina
   repo:

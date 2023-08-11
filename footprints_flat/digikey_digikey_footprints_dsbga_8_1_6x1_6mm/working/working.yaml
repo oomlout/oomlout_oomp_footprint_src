@@ -17,9 +17,18 @@
   oomp:
     footprint_name: dsbga_8_1_6x1_6mm
     library_name: digikey_footprints
+    md5: cedf8c3bd1c2b08eccf92c4a27dbbdd2
+    md5_10: cedf8c3bd1
+    md5_5: cedf8
+    md5_6: cedf8c
+    oomp_key: oomp_digikey_digikey_footprints_dsbga_8_1_6x1_6mm
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_dsbga_8_1_6x1_6mm
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_dsbga_8_1_6x1_6mm_cedf8c
+    oomp_key_simple: digikey_digikey_footprints_dsbga_8_1_6x1_6mm
     original_filename: digikey-kicad-library/digikey-footprints.pretty/DSBGA-8_1.6x1.6mm.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_dsbga_8_1_6x1_6mm
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_dsbga_8_1_6x1_6mm
   oomp_key_simple: digikey_digikey_footprints_dsbga_8_1_6x1_6mm
   owner: digikey
   repo:

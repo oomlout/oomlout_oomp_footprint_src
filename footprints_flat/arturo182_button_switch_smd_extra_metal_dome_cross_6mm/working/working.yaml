@@ -19,9 +19,18 @@
   oomp:
     footprint_name: metal_dome_cross_6mm
     library_name: button_switch_smd_extra
+    md5: b68027690327013bfc0d22c7834d161a
+    md5_10: b680276903
+    md5_5: b6802
+    md5_6: b68027
+    oomp_key: oomp_arturo182_button_switch_smd_extra_metal_dome_cross_6mm
+    oomp_key_extra: oomp_footprint_arturo182_button_switch_smd_extra_metal_dome_cross_6mm
+    oomp_key_full: oomp_footprint_arturo182_button_switch_smd_extra_metal_dome_cross_6mm_b68027
+    oomp_key_simple: arturo182_button_switch_smd_extra_metal_dome_cross_6mm
     original_filename: kicad-modules/Button_Switch_SMD_Extra.pretty/Metal_Dome_Cross_6mm.kicad_mod
     owner_name: arturo182
   oomp_key: oomp_arturo182_button_switch_smd_extra_metal_dome_cross_6mm
+  oomp_key_full: oomp_footprint_arturo182_button_switch_smd_extra_metal_dome_cross_6mm
   oomp_key_simple: arturo182_button_switch_smd_extra_metal_dome_cross_6mm
   owner: arturo182
   repo:

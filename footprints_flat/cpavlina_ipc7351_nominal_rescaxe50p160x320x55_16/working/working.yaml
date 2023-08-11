@@ -18,9 +18,18 @@
   oomp:
     footprint_name: rescaxe50p160x320x55_16
     library_name: ipc7351_nominal
+    md5: 064841aaa06c5f570e9898c663de3954
+    md5_10: 064841aaa0
+    md5_5: 06484
+    md5_6: 064841
+    oomp_key: oomp_cpavlina_ipc7351_nominal_rescaxe50p160x320x55_16
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_nominal_rescaxe50p160x320x55_16
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_rescaxe50p160x320x55_16_064841
+    oomp_key_simple: cpavlina_ipc7351_nominal_rescaxe50p160x320x55_16
     original_filename: kicad-pcblib/IPC7351-Nominal.pretty/RESCAXE50P160X320X55-16.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_nominal_rescaxe50p160x320x55_16
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_rescaxe50p160x320x55_16
   oomp_key_simple: cpavlina_ipc7351_nominal_rescaxe50p160x320x55_16
   owner: cpavlina
   repo:

@@ -14,9 +14,18 @@
   oomp:
     footprint_name: '2320'
     library_name: digikey_footprints
+    md5: 227846aeb01eec73414ae5d12a14aad7
+    md5_10: 227846aeb0
+    md5_5: '22784'
+    md5_6: '227846'
+    oomp_key: oomp_digikey_digikey_footprints_2320
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_2320
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_2320_227846
+    oomp_key_simple: digikey_digikey_footprints_2320
     original_filename: digikey-kicad-library/digikey-footprints.pretty/2320.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_2320
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_2320
   oomp_key_simple: digikey_digikey_footprints_2320
   owner: digikey
   repo:

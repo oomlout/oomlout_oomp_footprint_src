@@ -17,9 +17,18 @@
   oomp:
     footprint_name: to_220_11_p3_4x5_08mm_staggerodd_lead8_45mm_tabdown
     library_name: package_to_sot_tht
+    md5: 30803de72491d79f33142225fbf706d3
+    md5_10: 30803de724
+    md5_5: '30803'
+    md5_6: 30803d
+    oomp_key: oomp_kicad_package_to_sot_tht_to_220_11_p3_4x5_08mm_staggerodd_lead8_45mm_tabdown
+    oomp_key_extra: oomp_footprint_kicad_package_to_sot_tht_to_220_11_p3_4x5_08mm_staggerodd_lead8_45mm_tabdown
+    oomp_key_full: oomp_footprint_kicad_package_to_sot_tht_to_220_11_p3_4x5_08mm_staggerodd_lead8_45mm_tabdown_30803d
+    oomp_key_simple: kicad_package_to_sot_tht_to_220_11_p3_4x5_08mm_staggerodd_lead8_45mm_tabdown
     original_filename: libraries/kicad-footprints/Package_TO_SOT_THT.pretty/TO-220-11_P3.4x5.08mm_StaggerOdd_Lead8.45mm_TabDown.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_to_sot_tht_to_220_11_p3_4x5_08mm_staggerodd_lead8_45mm_tabdown
+  oomp_key_full: oomp_footprint_kicad_package_to_sot_tht_to_220_11_p3_4x5_08mm_staggerodd_lead8_45mm_tabdown
   oomp_key_simple: kicad_package_to_sot_tht_to_220_11_p3_4x5_08mm_staggerodd_lead8_45mm_tabdown
   owner: kicad
   repo:

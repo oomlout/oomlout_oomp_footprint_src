@@ -17,9 +17,18 @@
   oomp:
     footprint_name: reflective_sensor_qrd1114
     library_name: digikey_footprints
+    md5: b3b39cf6a9415a9677fbafb764d1451f
+    md5_10: b3b39cf6a9
+    md5_5: b3b39
+    md5_6: b3b39c
+    oomp_key: oomp_digikey_digikey_footprints_reflective_sensor_qrd1114
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_reflective_sensor_qrd1114
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_reflective_sensor_qrd1114_b3b39c
+    oomp_key_simple: digikey_digikey_footprints_reflective_sensor_qrd1114
     original_filename: digikey-kicad-library/digikey-footprints.pretty/Reflective_Sensor_QRD1114.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_reflective_sensor_qrd1114
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_reflective_sensor_qrd1114
   oomp_key_simple: digikey_digikey_footprints_reflective_sensor_qrd1114
   owner: digikey
   repo:

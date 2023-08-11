@@ -17,9 +17,18 @@
   oomp:
     footprint_name: lshm_130_xx_x_xx_dv_a_s_x_tr
     library_name: connectors_samtec
+    md5: c76f35089224faa29d6ec1bb985f3995
+    md5_10: c76f350892
+    md5_5: c76f3
+    md5_6: c76f35
+    oomp_key: oomp_twam_connectors_samtec_lshm_130_xx_x_xx_dv_a_s_x_tr
+    oomp_key_extra: oomp_footprint_twam_connectors_samtec_lshm_130_xx_x_xx_dv_a_s_x_tr
+    oomp_key_full: oomp_footprint_twam_connectors_samtec_lshm_130_xx_x_xx_dv_a_s_x_tr_c76f35
+    oomp_key_simple: twam_connectors_samtec_lshm_130_xx_x_xx_dv_a_s_x_tr
     original_filename: Connectors_Samtec.pretty/LSHM-130-XX.X-XX-DV-A-S-X-TR.kicad_mod
     owner_name: twam
   oomp_key: oomp_twam_connectors_samtec_lshm_130_xx_x_xx_dv_a_s_x_tr
+  oomp_key_full: oomp_footprint_twam_connectors_samtec_lshm_130_xx_x_xx_dv_a_s_x_tr
   oomp_key_simple: twam_connectors_samtec_lshm_130_xx_x_xx_dv_a_s_x_tr
   owner: twam
   repo:

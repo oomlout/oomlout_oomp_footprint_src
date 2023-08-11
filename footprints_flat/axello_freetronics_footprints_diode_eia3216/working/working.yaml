@@ -17,9 +17,18 @@
   oomp:
     footprint_name: diode_eia3216
     library_name: freetronics_footprints
+    md5: 321563889bcc8131530e3711dd36eef3
+    md5_10: 321563889b
+    md5_5: '32156'
+    md5_6: '321563'
+    oomp_key: oomp_axello_freetronics_footprints_diode_eia3216
+    oomp_key_extra: oomp_footprint_axello_freetronics_footprints_diode_eia3216
+    oomp_key_full: oomp_footprint_axello_freetronics_footprints_diode_eia3216_321563
+    oomp_key_simple: axello_freetronics_footprints_diode_eia3216
     original_filename: kicad/mods/freetronics_footprints.pretty/DIODE_EIA3216.kicad_mod
     owner_name: axello
   oomp_key: oomp_axello_freetronics_footprints_diode_eia3216
+  oomp_key_full: oomp_footprint_axello_freetronics_footprints_diode_eia3216
   oomp_key_simple: axello_freetronics_footprints_diode_eia3216
   owner: axello
   repo:

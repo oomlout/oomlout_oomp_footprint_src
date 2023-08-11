@@ -17,9 +17,18 @@
   oomp:
     footprint_name: led_0802_side
     library_name: suf_led
+    md5: a95229777bd82a1fb59e1c8ff0f1b0c0
+    md5_10: a95229777b
+    md5_5: a9522
+    md5_6: a95229
+    oomp_key: oomp_suf_kicad_suf_led_led_0802_side
+    oomp_key_extra: oomp_footprint_suf_kicad_suf_led_led_0802_side
+    oomp_key_full: oomp_footprint_suf_kicad_suf_led_led_0802_side_a95229
+    oomp_key_simple: suf_kicad_suf_led_led_0802_side
     original_filename: suf_led.pretty/LED_0802_SIDE.kicad_mod
     owner_name: suf_kicad
   oomp_key: oomp_suf_kicad_suf_led_led_0802_side
+  oomp_key_full: oomp_footprint_suf_kicad_suf_led_led_0802_side
   oomp_key_simple: suf_kicad_suf_led_led_0802_side
   owner: suf-KiCAD
   repo:

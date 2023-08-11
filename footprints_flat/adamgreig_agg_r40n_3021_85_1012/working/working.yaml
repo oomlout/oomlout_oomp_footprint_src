@@ -17,9 +17,18 @@
   oomp:
     footprint_name: r40n_3021_85_1012
     library_name: agg
+    md5: f946850c4f87cbd6b9151ab1feacce95
+    md5_10: f946850c4f
+    md5_5: f9468
+    md5_6: f94685
+    oomp_key: oomp_adamgreig_agg_r40n_3021_85_1012
+    oomp_key_extra: oomp_footprint_adamgreig_agg_r40n_3021_85_1012
+    oomp_key_full: oomp_footprint_adamgreig_agg_r40n_3021_85_1012_f94685
+    oomp_key_simple: adamgreig_agg_r40n_3021_85_1012
     original_filename: agg-kicad/agg.pretty/R40N-3021-85-1012.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_r40n_3021_85_1012
+  oomp_key_full: oomp_footprint_adamgreig_agg_r40n_3021_85_1012
   oomp_key_simple: adamgreig_agg_r40n_3021_85_1012
   owner: adamgreig
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_kycon_stx_3000
     library_name: xess
+    md5: df3a7146477e2032ba4b5fc84ab91ef6
+    md5_10: df3a714647
+    md5_5: df3a7
+    md5_6: df3a71
+    oomp_key: oomp_xesscorp_xess_xess_kycon_stx_3000
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_kycon_stx_3000
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_kycon_stx_3000_df3a71
+    oomp_key_simple: xesscorp_xess_xess_kycon_stx_3000
     original_filename: xess.pretty/xess-KYCON-STX-3000.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_kycon_stx_3000
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_kycon_stx_3000
   oomp_key_simple: xesscorp_xess_xess_kycon_stx_3000
   owner: xesscorp
   repo:

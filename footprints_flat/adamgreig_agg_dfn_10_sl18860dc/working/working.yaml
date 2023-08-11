@@ -17,9 +17,18 @@
   oomp:
     footprint_name: dfn_10_sl18860dc
     library_name: agg
+    md5: ccb06c631af92cf3f4f319382b6017ef
+    md5_10: ccb06c631a
+    md5_5: ccb06
+    md5_6: ccb06c
+    oomp_key: oomp_adamgreig_agg_dfn_10_sl18860dc
+    oomp_key_extra: oomp_footprint_adamgreig_agg_dfn_10_sl18860dc
+    oomp_key_full: oomp_footprint_adamgreig_agg_dfn_10_sl18860dc_ccb06c
+    oomp_key_simple: adamgreig_agg_dfn_10_sl18860dc
     original_filename: agg-kicad/agg.pretty/DFN-10-SL18860DC.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_dfn_10_sl18860dc
+  oomp_key_full: oomp_footprint_adamgreig_agg_dfn_10_sl18860dc
   oomp_key_simple: adamgreig_agg_dfn_10_sl18860dc
   owner: adamgreig
   repo:

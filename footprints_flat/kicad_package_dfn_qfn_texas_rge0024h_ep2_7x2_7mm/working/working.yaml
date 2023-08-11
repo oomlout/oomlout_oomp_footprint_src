@@ -18,9 +18,18 @@
   oomp:
     footprint_name: texas_rge0024h_ep2_7x2_7mm
     library_name: package_dfn_qfn
+    md5: a32bed363d7c6df668ed2986997771d3
+    md5_10: a32bed363d
+    md5_5: a32be
+    md5_6: a32bed
+    oomp_key: oomp_kicad_package_dfn_qfn_texas_rge0024h_ep2_7x2_7mm
+    oomp_key_extra: oomp_footprint_kicad_package_dfn_qfn_texas_rge0024h_ep2_7x2_7mm
+    oomp_key_full: oomp_footprint_kicad_package_dfn_qfn_texas_rge0024h_ep2_7x2_7mm_a32bed
+    oomp_key_simple: kicad_package_dfn_qfn_texas_rge0024h_ep2_7x2_7mm
     original_filename: libraries/kicad-footprints/Package_DFN_QFN.pretty/Texas_RGE0024H_EP2.7x2.7mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_dfn_qfn_texas_rge0024h_ep2_7x2_7mm
+  oomp_key_full: oomp_footprint_kicad_package_dfn_qfn_texas_rge0024h_ep2_7x2_7mm
   oomp_key_simple: kicad_package_dfn_qfn_texas_rge0024h_ep2_7x2_7mm
   owner: kicad
   repo:

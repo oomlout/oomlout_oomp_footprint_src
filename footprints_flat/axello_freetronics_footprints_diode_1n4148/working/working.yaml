@@ -17,9 +17,18 @@
   oomp:
     footprint_name: diode_1n4148
     library_name: freetronics_footprints
+    md5: 28b1b0064cecc05d351ee76ff949b444
+    md5_10: 28b1b0064c
+    md5_5: 28b1b
+    md5_6: 28b1b0
+    oomp_key: oomp_axello_freetronics_footprints_diode_1n4148
+    oomp_key_extra: oomp_footprint_axello_freetronics_footprints_diode_1n4148
+    oomp_key_full: oomp_footprint_axello_freetronics_footprints_diode_1n4148_28b1b0
+    oomp_key_simple: axello_freetronics_footprints_diode_1n4148
     original_filename: kicad/mods/freetronics_footprints.pretty/DIODE-1N4148.kicad_mod
     owner_name: axello
   oomp_key: oomp_axello_freetronics_footprints_diode_1n4148
+  oomp_key_full: oomp_footprint_axello_freetronics_footprints_diode_1n4148
   oomp_key_simple: axello_freetronics_footprints_diode_1n4148
   owner: axello
   repo:

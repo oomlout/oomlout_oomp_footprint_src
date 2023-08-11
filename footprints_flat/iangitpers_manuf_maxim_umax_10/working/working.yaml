@@ -19,9 +19,18 @@
   oomp:
     footprint_name: maxim_umax_10
     library_name: manuf
+    md5: dc9a2fa5f1d0dd4a35f07595b3ee36dc
+    md5_10: dc9a2fa5f1
+    md5_5: dc9a2
+    md5_6: dc9a2f
+    oomp_key: oomp_iangitpers_manuf_maxim_umax_10
+    oomp_key_extra: oomp_footprint_iangitpers_manuf_maxim_umax_10
+    oomp_key_full: oomp_footprint_iangitpers_manuf_maxim_umax_10_dc9a2f
+    oomp_key_simple: iangitpers_manuf_maxim_umax_10
     original_filename: 4a/manuf.pretty/MAXIM_uMAX-10.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_manuf_maxim_umax_10
+  oomp_key_full: oomp_footprint_iangitpers_manuf_maxim_umax_10
   oomp_key_simple: iangitpers_manuf_maxim_umax_10
   owner: Iangitpers
   repo:

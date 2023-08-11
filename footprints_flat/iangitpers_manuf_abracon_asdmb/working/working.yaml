@@ -19,9 +19,18 @@
   oomp:
     footprint_name: abracon_asdmb
     library_name: manuf
+    md5: e51aa15054bf3dce85f4c23efa5f9e62
+    md5_10: e51aa15054
+    md5_5: e51aa
+    md5_6: e51aa1
+    oomp_key: oomp_iangitpers_manuf_abracon_asdmb
+    oomp_key_extra: oomp_footprint_iangitpers_manuf_abracon_asdmb
+    oomp_key_full: oomp_footprint_iangitpers_manuf_abracon_asdmb_e51aa1
+    oomp_key_simple: iangitpers_manuf_abracon_asdmb
     original_filename: 4a/manuf.pretty/ABRACON-ASDMB.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_manuf_abracon_asdmb
+  oomp_key_full: oomp_footprint_iangitpers_manuf_abracon_asdmb
   oomp_key_simple: iangitpers_manuf_abracon_asdmb
   owner: Iangitpers
   repo:

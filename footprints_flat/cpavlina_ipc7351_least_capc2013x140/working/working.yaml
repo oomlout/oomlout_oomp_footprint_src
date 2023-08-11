@@ -17,9 +17,18 @@
   oomp:
     footprint_name: capc2013x140
     library_name: ipc7351_least
+    md5: 7a238bfd40c6b0ac89acaec7f651ebb7
+    md5_10: 7a238bfd40
+    md5_5: 7a238
+    md5_6: 7a238b
+    oomp_key: oomp_cpavlina_ipc7351_least_capc2013x140
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_least_capc2013x140
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_least_capc2013x140_7a238b
+    oomp_key_simple: cpavlina_ipc7351_least_capc2013x140
     original_filename: kicad-pcblib/IPC7351-Least.pretty/CAPC2013X140.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_least_capc2013x140
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_least_capc2013x140
   oomp_key_simple: cpavlina_ipc7351_least_capc2013x140
   owner: cpavlina
   repo:

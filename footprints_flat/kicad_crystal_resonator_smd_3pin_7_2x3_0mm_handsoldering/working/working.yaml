@@ -19,9 +19,18 @@
   oomp:
     footprint_name: resonator_smd_3pin_7_2x3_0mm_handsoldering
     library_name: crystal
+    md5: 0138ad7aa24bdb30909959a185433f4b
+    md5_10: 0138ad7aa2
+    md5_5: 0138a
+    md5_6: 0138ad
+    oomp_key: oomp_kicad_crystal_resonator_smd_3pin_7_2x3_0mm_handsoldering
+    oomp_key_extra: oomp_footprint_kicad_crystal_resonator_smd_3pin_7_2x3_0mm_handsoldering
+    oomp_key_full: oomp_footprint_kicad_crystal_resonator_smd_3pin_7_2x3_0mm_handsoldering_0138ad
+    oomp_key_simple: kicad_crystal_resonator_smd_3pin_7_2x3_0mm_handsoldering
     original_filename: libraries/kicad-footprints/Crystal.pretty/Resonator_SMD-3Pin_7.2x3.0mm_HandSoldering.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_crystal_resonator_smd_3pin_7_2x3_0mm_handsoldering
+  oomp_key_full: oomp_footprint_kicad_crystal_resonator_smd_3pin_7_2x3_0mm_handsoldering
   oomp_key_simple: kicad_crystal_resonator_smd_3pin_7_2x3_0mm_handsoldering
   owner: kicad
   repo:

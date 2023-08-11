@@ -17,9 +17,18 @@
   oomp:
     footprint_name: pot_trim_pth
     library_name: freetronics_footprints
+    md5: 48182c3755a6719f6cd0e6005e09de1b
+    md5_10: 48182c3755
+    md5_5: '48182'
+    md5_6: 48182c
+    oomp_key: oomp_wykys_freetronics_footprints_pot_trim_pth
+    oomp_key_extra: oomp_footprint_wykys_freetronics_footprints_pot_trim_pth
+    oomp_key_full: oomp_footprint_wykys_freetronics_footprints_pot_trim_pth_48182c
+    oomp_key_simple: wykys_freetronics_footprints_pot_trim_pth
     original_filename: kicad/mods/freetronics_footprints.pretty/POT_TRIM_PTH.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_freetronics_footprints_pot_trim_pth
+  oomp_key_full: oomp_footprint_wykys_freetronics_footprints_pot_trim_pth
   oomp_key_simple: wykys_freetronics_footprints_pot_trim_pth
   owner: wykys
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_mc9s08qg8
     library_name: xess
+    md5: b8928eb1dbf5f1509bcd98cd3abe58fa
+    md5_10: b8928eb1db
+    md5_5: b8928
+    md5_6: b8928e
+    oomp_key: oomp_xesscorp_xess_xess_mc9s08qg8
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_mc9s08qg8
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_mc9s08qg8_b8928e
+    oomp_key_simple: xesscorp_xess_xess_mc9s08qg8
     original_filename: xess.pretty/xess-MC9S08QG8.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_mc9s08qg8
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_mc9s08qg8
   oomp_key_simple: xesscorp_xess_xess_mc9s08qg8
   owner: xesscorp
   repo:

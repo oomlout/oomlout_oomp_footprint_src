@@ -18,9 +18,18 @@
   oomp:
     footprint_name: lfcsp_vq_24_1ep_4x4mm_p0_5mm_ep2_642x2_642mm
     library_name: package_csp
+    md5: 1aa8cd46f84c3d57f9c36375eced29c3
+    md5_10: 1aa8cd46f8
+    md5_5: 1aa8c
+    md5_6: 1aa8cd
+    oomp_key: oomp_kicad_package_csp_lfcsp_vq_24_1ep_4x4mm_p0_5mm_ep2_642x2_642mm
+    oomp_key_extra: oomp_footprint_kicad_package_csp_lfcsp_vq_24_1ep_4x4mm_p0_5mm_ep2_642x2_642mm
+    oomp_key_full: oomp_footprint_kicad_package_csp_lfcsp_vq_24_1ep_4x4mm_p0_5mm_ep2_642x2_642mm_1aa8cd
+    oomp_key_simple: kicad_package_csp_lfcsp_vq_24_1ep_4x4mm_p0_5mm_ep2_642x2_642mm
     original_filename: libraries/kicad-footprints/Package_CSP.pretty/LFCSP-VQ-24-1EP_4x4mm_P0.5mm_EP2.642x2.642mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_csp_lfcsp_vq_24_1ep_4x4mm_p0_5mm_ep2_642x2_642mm
+  oomp_key_full: oomp_footprint_kicad_package_csp_lfcsp_vq_24_1ep_4x4mm_p0_5mm_ep2_642x2_642mm
   oomp_key_simple: kicad_package_csp_lfcsp_vq_24_1ep_4x4mm_p0_5mm_ep2_642x2_642mm
   owner: kicad
   repo:

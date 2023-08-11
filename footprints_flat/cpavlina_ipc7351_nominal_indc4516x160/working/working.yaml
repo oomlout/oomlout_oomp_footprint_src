@@ -17,9 +17,18 @@
   oomp:
     footprint_name: indc4516x160
     library_name: ipc7351_nominal
+    md5: 756a4e7d9fd54855f4211629202468e2
+    md5_10: 756a4e7d9f
+    md5_5: 756a4
+    md5_6: 756a4e
+    oomp_key: oomp_cpavlina_ipc7351_nominal_indc4516x160
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_nominal_indc4516x160
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_indc4516x160_756a4e
+    oomp_key_simple: cpavlina_ipc7351_nominal_indc4516x160
     original_filename: kicad-pcblib/IPC7351-Nominal.pretty/INDC4516X160.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_nominal_indc4516x160
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_indc4516x160
   oomp_key_simple: cpavlina_ipc7351_nominal_indc4516x160
   owner: cpavlina
   repo:

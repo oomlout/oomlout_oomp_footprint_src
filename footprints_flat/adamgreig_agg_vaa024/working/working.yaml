@@ -17,9 +17,18 @@
   oomp:
     footprint_name: vaa024
     library_name: agg
+    md5: ee3f739bc18cd80a236cebd3e56a8254
+    md5_10: ee3f739bc1
+    md5_5: ee3f7
+    md5_6: ee3f73
+    oomp_key: oomp_adamgreig_agg_vaa024
+    oomp_key_extra: oomp_footprint_adamgreig_agg_vaa024
+    oomp_key_full: oomp_footprint_adamgreig_agg_vaa024_ee3f73
+    oomp_key_simple: adamgreig_agg_vaa024
     original_filename: agg-kicad/agg.pretty/VAA024.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_vaa024
+  oomp_key_full: oomp_footprint_adamgreig_agg_vaa024
   oomp_key_simple: adamgreig_agg_vaa024
   owner: adamgreig
   repo:

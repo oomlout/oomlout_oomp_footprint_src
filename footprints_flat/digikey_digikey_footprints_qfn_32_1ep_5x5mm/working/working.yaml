@@ -17,9 +17,18 @@
   oomp:
     footprint_name: qfn_32_1ep_5x5mm
     library_name: digikey_footprints
+    md5: 6a0d10d909f6ab155d5af1060cfc315f
+    md5_10: 6a0d10d909
+    md5_5: 6a0d1
+    md5_6: 6a0d10
+    oomp_key: oomp_digikey_digikey_footprints_qfn_32_1ep_5x5mm
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_qfn_32_1ep_5x5mm
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_qfn_32_1ep_5x5mm_6a0d10
+    oomp_key_simple: digikey_digikey_footprints_qfn_32_1ep_5x5mm
     original_filename: digikey-kicad-library/digikey-footprints.pretty/QFN-32-1EP_5x5mm.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_qfn_32_1ep_5x5mm
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_qfn_32_1ep_5x5mm
   oomp_key_simple: digikey_digikey_footprints_qfn_32_1ep_5x5mm
   owner: digikey
   repo:

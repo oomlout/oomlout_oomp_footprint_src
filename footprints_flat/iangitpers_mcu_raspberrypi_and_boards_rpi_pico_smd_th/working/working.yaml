@@ -19,9 +19,18 @@
   oomp:
     footprint_name: rpi_pico_smd_th
     library_name: mcu_raspberrypi_and_boards
+    md5: 50aade23b603bb1016e5d0ef408bd91b
+    md5_10: 50aade23b6
+    md5_5: 50aad
+    md5_6: 50aade
+    oomp_key: oomp_iangitpers_mcu_raspberrypi_and_boards_rpi_pico_smd_th
+    oomp_key_extra: oomp_footprint_iangitpers_mcu_raspberrypi_and_boards_rpi_pico_smd_th
+    oomp_key_full: oomp_footprint_iangitpers_mcu_raspberrypi_and_boards_rpi_pico_smd_th_50aade
+    oomp_key_simple: iangitpers_mcu_raspberrypi_and_boards_rpi_pico_smd_th
     original_filename: 4a/RP_Silicon_KiCad-main/KiCadLibraries/MCU_RaspberryPi_and_Boards.pretty/RPi_Pico_SMD_TH.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_mcu_raspberrypi_and_boards_rpi_pico_smd_th
+  oomp_key_full: oomp_footprint_iangitpers_mcu_raspberrypi_and_boards_rpi_pico_smd_th
   oomp_key_simple: iangitpers_mcu_raspberrypi_and_boards_rpi_pico_smd_th
   owner: Iangitpers
   repo:

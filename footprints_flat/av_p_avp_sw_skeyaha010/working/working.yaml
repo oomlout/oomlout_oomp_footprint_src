@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sw_skeyaha010
     library_name: avp
+    md5: e419fc058d54d8e09a5c83021e41cee2
+    md5_10: e419fc058d
+    md5_5: e419f
+    md5_6: e419fc
+    oomp_key: oomp_av_p_avp_sw_skeyaha010
+    oomp_key_extra: oomp_footprint_av_p_avp_sw_skeyaha010
+    oomp_key_full: oomp_footprint_av_p_avp_sw_skeyaha010_e419fc
+    oomp_key_simple: av_p_avp_sw_skeyaha010
     original_filename: Avp.pretty/SW_SKEYAHA010.kicad_mod
     owner_name: av_p
   oomp_key: oomp_av_p_avp_sw_skeyaha010
+  oomp_key_full: oomp_footprint_av_p_avp_sw_skeyaha010
   oomp_key_simple: av_p_avp_sw_skeyaha010
   owner: av-p
   repo:

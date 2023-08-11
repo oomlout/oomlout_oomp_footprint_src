@@ -19,9 +19,18 @@
   oomp:
     footprint_name: koaspeer_mos_2w
     library_name: manuf
+    md5: deb0aee9a9f994f5818c9520f35c7ea4
+    md5_10: deb0aee9a9
+    md5_5: deb0a
+    md5_6: deb0ae
+    oomp_key: oomp_iangitpers_manuf_koaspeer_mos_2w
+    oomp_key_extra: oomp_footprint_iangitpers_manuf_koaspeer_mos_2w
+    oomp_key_full: oomp_footprint_iangitpers_manuf_koaspeer_mos_2w_deb0ae
+    oomp_key_simple: iangitpers_manuf_koaspeer_mos_2w
     original_filename: 4a/manuf.pretty/KOASPEER-MOS-2W.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_manuf_koaspeer_mos_2w
+  oomp_key_full: oomp_footprint_iangitpers_manuf_koaspeer_mos_2w
   oomp_key_simple: iangitpers_manuf_koaspeer_mos_2w
   owner: Iangitpers
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: rj45_halo_hfj11_x2450e_lxxrl_horizontal
     library_name: connector_rj
+    md5: 12522ed75551dfeae1ff2cea41eba9ee
+    md5_10: 12522ed755
+    md5_5: '12522'
+    md5_6: 12522e
+    oomp_key: oomp_kicad_connector_rj_rj45_halo_hfj11_x2450e_lxxrl_horizontal
+    oomp_key_extra: oomp_footprint_kicad_connector_rj_rj45_halo_hfj11_x2450e_lxxrl_horizontal
+    oomp_key_full: oomp_footprint_kicad_connector_rj_rj45_halo_hfj11_x2450e_lxxrl_horizontal_12522e
+    oomp_key_simple: kicad_connector_rj_rj45_halo_hfj11_x2450e_lxxrl_horizontal
     original_filename: libraries/kicad-footprints/Connector_RJ.pretty/RJ45_HALO_HFJ11-x2450E-LxxRL_Horizontal.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_rj_rj45_halo_hfj11_x2450e_lxxrl_horizontal
+  oomp_key_full: oomp_footprint_kicad_connector_rj_rj45_halo_hfj11_x2450e_lxxrl_horizontal
   oomp_key_simple: kicad_connector_rj_rj45_halo_hfj11_x2450e_lxxrl_horizontal
   owner: kicad
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: mx100
     library_name: acheron_mx
+    md5: 81062f64f3b8411f365561fdba290e9d
+    md5_10: 81062f64f3
+    md5_5: '81062'
+    md5_6: 81062f
+    oomp_key: oomp_acheronproject_acheron_mx_mx100
+    oomp_key_extra: oomp_footprint_acheronproject_acheron_mx_mx100
+    oomp_key_full: oomp_footprint_acheronproject_acheron_mx_mx100_81062f
+    oomp_key_simple: acheronproject_acheron_mx_mx100
     original_filename: acheron_MX.pretty/MX100.kicad_mod
     owner_name: acheronproject
   oomp_key: oomp_acheronproject_acheron_mx_mx100
+  oomp_key_full: oomp_footprint_acheronproject_acheron_mx_mx100
   oomp_key_simple: acheronproject_acheron_mx_mx100
   owner: AcheronProject
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: icsp_1_27mm
     library_name: keebio_parts
+    md5: 9504d88e79fa42e347d03799399014b8
+    md5_10: 9504d88e79
+    md5_5: 9504d
+    md5_6: 9504d8
+    oomp_key: oomp_keebio_keebio_parts_icsp_1_27mm
+    oomp_key_extra: oomp_footprint_keebio_keebio_parts_icsp_1_27mm
+    oomp_key_full: oomp_footprint_keebio_keebio_parts_icsp_1_27mm_9504d8
+    oomp_key_simple: keebio_keebio_parts_icsp_1_27mm
     original_filename: Keebio-Parts.pretty/ICSP_1.27mm.kicad_mod
     owner_name: keebio
   oomp_key: oomp_keebio_keebio_parts_icsp_1_27mm
+  oomp_key_full: oomp_footprint_keebio_keebio_parts_icsp_1_27mm
   oomp_key_simple: keebio_keebio_parts_icsp_1_27mm
   owner: keebio
   repo:

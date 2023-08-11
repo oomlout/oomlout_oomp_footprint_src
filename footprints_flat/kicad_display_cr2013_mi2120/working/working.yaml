@@ -17,9 +17,18 @@
   oomp:
     footprint_name: cr2013_mi2120
     library_name: display
+    md5: 4d52dc807acc1df422f30cd529eceb86
+    md5_10: 4d52dc807a
+    md5_5: 4d52d
+    md5_6: 4d52dc
+    oomp_key: oomp_kicad_display_cr2013_mi2120
+    oomp_key_extra: oomp_footprint_kicad_display_cr2013_mi2120
+    oomp_key_full: oomp_footprint_kicad_display_cr2013_mi2120_4d52dc
+    oomp_key_simple: kicad_display_cr2013_mi2120
     original_filename: libraries/kicad-footprints/Display.pretty/CR2013-MI2120.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_display_cr2013_mi2120
+  oomp_key_full: oomp_footprint_kicad_display_cr2013_mi2120
   oomp_key_simple: kicad_display_cr2013_mi2120
   owner: kicad
   repo:

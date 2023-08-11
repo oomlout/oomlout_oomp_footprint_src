@@ -19,9 +19,18 @@
   oomp:
     footprint_name: mountinghole_2_7mm_pad_via
     library_name: mountinghole
+    md5: feba77400db62014c8cebca763408043
+    md5_10: feba77400d
+    md5_5: feba7
+    md5_6: feba77
+    oomp_key: oomp_iangitpers_mountinghole_mountinghole_2_7mm_pad_via
+    oomp_key_extra: oomp_footprint_iangitpers_mountinghole_mountinghole_2_7mm_pad_via
+    oomp_key_full: oomp_footprint_iangitpers_mountinghole_mountinghole_2_7mm_pad_via_feba77
+    oomp_key_simple: iangitpers_mountinghole_mountinghole_2_7mm_pad_via
     original_filename: 4a/MountingHole.pretty/MountingHole_2.7mm_Pad_Via.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_mountinghole_mountinghole_2_7mm_pad_via
+  oomp_key_full: oomp_footprint_iangitpers_mountinghole_mountinghole_2_7mm_pad_via
   oomp_key_simple: iangitpers_mountinghole_mountinghole_2_7mm_pad_via
   owner: Iangitpers
   repo:

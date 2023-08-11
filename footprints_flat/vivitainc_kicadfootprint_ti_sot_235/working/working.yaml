@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ti_sot_235
     library_name: kicadfootprint
+    md5: 525caeb5bd192f3f6dc4b56390082ece
+    md5_10: 525caeb5bd
+    md5_5: 525ca
+    md5_6: 525cae
+    oomp_key: oomp_vivitainc_kicadfootprint_ti_sot_235
+    oomp_key_extra: oomp_footprint_vivitainc_kicadfootprint_ti_sot_235
+    oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_ti_sot_235_525cae
+    oomp_key_simple: vivitainc_kicadfootprint_ti_sot_235
     original_filename: KiCADfootprint.pretty/TI_SOT-235.kicad_mod
     owner_name: vivitainc
   oomp_key: oomp_vivitainc_kicadfootprint_ti_sot_235
+  oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_ti_sot_235
   oomp_key_simple: vivitainc_kicadfootprint_ti_sot_235
   owner: vivitainc
   repo:

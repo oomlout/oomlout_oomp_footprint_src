@@ -18,9 +18,18 @@
   oomp:
     footprint_name: rescaxs50p100x200x45_8
     library_name: ipc7351_most
+    md5: f48f75bb2c77d2ce43150a2e9a72d09f
+    md5_10: f48f75bb2c
+    md5_5: f48f7
+    md5_6: f48f75
+    oomp_key: oomp_cpavlina_ipc7351_most_rescaxs50p100x200x45_8
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_most_rescaxs50p100x200x45_8
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_most_rescaxs50p100x200x45_8_f48f75
+    oomp_key_simple: cpavlina_ipc7351_most_rescaxs50p100x200x45_8
     original_filename: kicad-pcblib/IPC7351-Most.pretty/RESCAXS50P100X200X45-8.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_most_rescaxs50p100x200x45_8
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_most_rescaxs50p100x200x45_8
   oomp_key_simple: cpavlina_ipc7351_most_rescaxs50p100x200x45_8
   owner: cpavlina
   repo:

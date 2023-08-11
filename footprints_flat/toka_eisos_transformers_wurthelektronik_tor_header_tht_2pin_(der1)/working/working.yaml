@@ -17,9 +17,18 @@
   oomp:
     footprint_name: tor_header_tht_2pin_(der1)
     library_name: transformers_wurthelektronik
+    md5: 1c580169557e3f5fe986796f5f5aebae
+    md5_10: 1c58016955
+    md5_5: 1c580
+    md5_6: 1c5801
+    oomp_key: oomp_toka_eisos_transformers_wurthelektronik_tor_header_tht_2pin_(der1)
+    oomp_key_extra: oomp_footprint_toka_eisos_transformers_wurthelektronik_tor_header_tht_2pin_(der1)
+    oomp_key_full: oomp_footprint_toka_eisos_transformers_wurthelektronik_tor_header_tht_2pin_(der1)_1c5801
+    oomp_key_simple: toka_eisos_transformers_wurthelektronik_tor_header_tht_2pin_(der1)
     original_filename: Transformers_WurthElektronik.pretty/TOR_HEADER_THT_2PIN_(DER1).kicad_mod
     owner_name: toka_eisos
   oomp_key: oomp_toka_eisos_transformers_wurthelektronik_tor_header_tht_2pin_(der1)
+  oomp_key_full: oomp_footprint_toka_eisos_transformers_wurthelektronik_tor_header_tht_2pin_(der1)
   oomp_key_simple: toka_eisos_transformers_wurthelektronik_tor_header_tht_2pin_(der1)
   owner: toka-eisos
   repo:

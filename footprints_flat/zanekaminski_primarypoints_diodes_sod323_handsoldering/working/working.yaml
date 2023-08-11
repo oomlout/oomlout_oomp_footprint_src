@@ -17,9 +17,18 @@
   oomp:
     footprint_name: diodes_sod323_handsoldering
     library_name: primarypoints
+    md5: fa5d0596ff4f9ee85aa47126f1eb1d0d
+    md5_10: fa5d0596ff
+    md5_5: fa5d0
+    md5_6: fa5d05
+    oomp_key: oomp_zanekaminski_primarypoints_diodes_sod323_handsoldering
+    oomp_key_extra: oomp_footprint_zanekaminski_primarypoints_diodes_sod323_handsoldering
+    oomp_key_full: oomp_footprint_zanekaminski_primarypoints_diodes_sod323_handsoldering_fa5d05
+    oomp_key_simple: zanekaminski_primarypoints_diodes_sod323_handsoldering
     original_filename: primarypoints.pretty/Diodes_SOD323_HandSoldering.kicad_mod
     owner_name: zanekaminski
   oomp_key: oomp_zanekaminski_primarypoints_diodes_sod323_handsoldering
+  oomp_key_full: oomp_footprint_zanekaminski_primarypoints_diodes_sod323_handsoldering
   oomp_key_simple: zanekaminski_primarypoints_diodes_sod323_handsoldering
   owner: ZaneKaminski
   repo:

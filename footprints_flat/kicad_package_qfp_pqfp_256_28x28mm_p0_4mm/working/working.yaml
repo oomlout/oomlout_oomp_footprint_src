@@ -17,9 +17,18 @@
   oomp:
     footprint_name: pqfp_256_28x28mm_p0_4mm
     library_name: package_qfp
+    md5: dc4262b760256e0d4cf20e6d38586b90
+    md5_10: dc4262b760
+    md5_5: dc426
+    md5_6: dc4262
+    oomp_key: oomp_kicad_package_qfp_pqfp_256_28x28mm_p0_4mm
+    oomp_key_extra: oomp_footprint_kicad_package_qfp_pqfp_256_28x28mm_p0_4mm
+    oomp_key_full: oomp_footprint_kicad_package_qfp_pqfp_256_28x28mm_p0_4mm_dc4262
+    oomp_key_simple: kicad_package_qfp_pqfp_256_28x28mm_p0_4mm
     original_filename: libraries/kicad-footprints/Package_QFP.pretty/PQFP-256_28x28mm_P0.4mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_qfp_pqfp_256_28x28mm_p0_4mm
+  oomp_key_full: oomp_footprint_kicad_package_qfp_pqfp_256_28x28mm_p0_4mm
   oomp_key_simple: kicad_package_qfp_pqfp_256_28x28mm_p0_4mm
   owner: kicad
   repo:

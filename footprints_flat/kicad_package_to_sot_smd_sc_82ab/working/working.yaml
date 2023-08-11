@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sc_82ab
     library_name: package_to_sot_smd
+    md5: 139037555eec3ffa8ac9acd9bad71b6c
+    md5_10: 139037555e
+    md5_5: '13903'
+    md5_6: '139037'
+    oomp_key: oomp_kicad_package_to_sot_smd_sc_82ab
+    oomp_key_extra: oomp_footprint_kicad_package_to_sot_smd_sc_82ab
+    oomp_key_full: oomp_footprint_kicad_package_to_sot_smd_sc_82ab_139037
+    oomp_key_simple: kicad_package_to_sot_smd_sc_82ab
     original_filename: libraries/kicad-footprints/Package_TO_SOT_SMD.pretty/SC-82AB.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_to_sot_smd_sc_82ab
+  oomp_key_full: oomp_footprint_kicad_package_to_sot_smd_sc_82ab
   oomp_key_simple: kicad_package_to_sot_smd_sc_82ab
   owner: kicad
   repo:

@@ -18,9 +18,18 @@
   oomp:
     footprint_name: converter_dcdc_silvertel_ag5810
     library_name: converter_dcdc
+    md5: 3fb7f516b617f42b9f2ee0ece27388a4
+    md5_10: 3fb7f516b6
+    md5_5: 3fb7f
+    md5_6: 3fb7f5
+    oomp_key: oomp_kicad_converter_dcdc_converter_dcdc_silvertel_ag5810
+    oomp_key_extra: oomp_footprint_kicad_converter_dcdc_converter_dcdc_silvertel_ag5810
+    oomp_key_full: oomp_footprint_kicad_converter_dcdc_converter_dcdc_silvertel_ag5810_3fb7f5
+    oomp_key_simple: kicad_converter_dcdc_converter_dcdc_silvertel_ag5810
     original_filename: libraries/kicad-footprints/Converter_DCDC.pretty/Converter_DCDC_Silvertel_Ag5810.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_converter_dcdc_converter_dcdc_silvertel_ag5810
+  oomp_key_full: oomp_footprint_kicad_converter_dcdc_converter_dcdc_silvertel_ag5810
   oomp_key_simple: kicad_converter_dcdc_converter_dcdc_silvertel_ag5810
   owner: kicad
   repo:

@@ -18,9 +18,18 @@
   oomp:
     footprint_name: jst_j2100_s08b_j21dk_ggxr_2x04_p2_50mm_horizontal
     library_name: connector_jst
+    md5: 30d0366ccb66b36c2a221e6053401fd8
+    md5_10: 30d0366ccb
+    md5_5: 30d03
+    md5_6: 30d036
+    oomp_key: oomp_kicad_connector_jst_jst_j2100_s08b_j21dk_ggxr_2x04_p2_50mm_horizontal
+    oomp_key_extra: oomp_footprint_kicad_connector_jst_jst_j2100_s08b_j21dk_ggxr_2x04_p2_50mm_horizontal
+    oomp_key_full: oomp_footprint_kicad_connector_jst_jst_j2100_s08b_j21dk_ggxr_2x04_p2_50mm_horizontal_30d036
+    oomp_key_simple: kicad_connector_jst_jst_j2100_s08b_j21dk_ggxr_2x04_p2_50mm_horizontal
     original_filename: libraries/kicad-footprints/Connector_JST.pretty/JST_J2100_S08B-J21DK-GGXR_2x04_P2.50mm_Horizontal.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_jst_jst_j2100_s08b_j21dk_ggxr_2x04_p2_50mm_horizontal
+  oomp_key_full: oomp_footprint_kicad_connector_jst_jst_j2100_s08b_j21dk_ggxr_2x04_p2_50mm_horizontal
   oomp_key_simple: kicad_connector_jst_jst_j2100_s08b_j21dk_ggxr_2x04_p2_50mm_horizontal
   owner: kicad
   repo:

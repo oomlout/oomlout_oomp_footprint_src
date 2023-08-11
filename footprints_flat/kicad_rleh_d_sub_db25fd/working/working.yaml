@@ -17,9 +17,18 @@
   oomp:
     footprint_name: db25fd
     library_name: d_sub
+    md5: d95abcab8cebedc73ea2ba7bec51c64f
+    md5_10: d95abcab8c
+    md5_5: d95ab
+    md5_6: d95abc
+    oomp_key: oomp_kicad_rleh_d_sub_db25fd
+    oomp_key_extra: oomp_footprint_kicad_rleh_d_sub_db25fd
+    oomp_key_full: oomp_footprint_kicad_rleh_d_sub_db25fd_d95abc
+    oomp_key_simple: kicad_rleh_d_sub_db25fd
     original_filename: D-Sub.pretty/DB25FD.kicad_mod
     owner_name: kicad_rleh
   oomp_key: oomp_kicad_rleh_d_sub_db25fd
+  oomp_key_full: oomp_footprint_kicad_rleh_d_sub_db25fd
   oomp_key_simple: kicad_rleh_d_sub_db25fd
   owner: kicad-rleh
   repo:

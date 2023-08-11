@@ -17,9 +17,18 @@
   oomp:
     footprint_name: pga120
     library_name: interf_u
+    md5: b95d91754a214b5c39c7033db6fc3ed0
+    md5_10: b95d91754a
+    md5_5: b95d9
+    md5_6: b95d91
+    oomp_key: oomp_axello_interf_u_pga120
+    oomp_key_extra: oomp_footprint_axello_interf_u_pga120
+    oomp_key_full: oomp_footprint_axello_interf_u_pga120_b95d91
+    oomp_key_simple: axello_interf_u_pga120
     original_filename: kicad/demos/interf_u/interf_u.pretty/PGA120.kicad_mod
     owner_name: axello
   oomp_key: oomp_axello_interf_u_pga120
+  oomp_key_full: oomp_footprint_axello_interf_u_pga120
   oomp_key_simple: axello_interf_u_pga120
   owner: axello
   repo:

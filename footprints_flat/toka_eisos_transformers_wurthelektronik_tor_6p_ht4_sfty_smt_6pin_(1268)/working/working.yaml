@@ -17,9 +17,18 @@
   oomp:
     footprint_name: tor_6p_ht4_sfty_smt_6pin_(1268)
     library_name: transformers_wurthelektronik
+    md5: ca7be025ba400a5b4e9755a8933ac1d0
+    md5_10: ca7be025ba
+    md5_5: ca7be
+    md5_6: ca7be0
+    oomp_key: oomp_toka_eisos_transformers_wurthelektronik_tor_6p_ht4_sfty_smt_6pin_(1268)
+    oomp_key_extra: oomp_footprint_toka_eisos_transformers_wurthelektronik_tor_6p_ht4_sfty_smt_6pin_(1268)
+    oomp_key_full: oomp_footprint_toka_eisos_transformers_wurthelektronik_tor_6p_ht4_sfty_smt_6pin_(1268)_ca7be0
+    oomp_key_simple: toka_eisos_transformers_wurthelektronik_tor_6p_ht4_sfty_smt_6pin_(1268)
     original_filename: Transformers_WurthElektronik.pretty/TOR-6P-HT4-SFTY_SMT_6PIN_(1268).kicad_mod
     owner_name: toka_eisos
   oomp_key: oomp_toka_eisos_transformers_wurthelektronik_tor_6p_ht4_sfty_smt_6pin_(1268)
+  oomp_key_full: oomp_footprint_toka_eisos_transformers_wurthelektronik_tor_6p_ht4_sfty_smt_6pin_(1268)
   oomp_key_simple: toka_eisos_transformers_wurthelektronik_tor_6p_ht4_sfty_smt_6pin_(1268)
   owner: toka-eisos
   repo:

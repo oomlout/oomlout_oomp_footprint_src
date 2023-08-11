@@ -17,9 +17,18 @@
   oomp:
     footprint_name: gas_sensor_110_109
     library_name: digikey_footprints
+    md5: 38794856c1f4a5c278ba1a1ff50c987c
+    md5_10: 38794856c1
+    md5_5: '38794'
+    md5_6: '387948'
+    oomp_key: oomp_digikey_digikey_footprints_gas_sensor_110_109
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_gas_sensor_110_109
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_gas_sensor_110_109_387948
+    oomp_key_simple: digikey_digikey_footprints_gas_sensor_110_109
     original_filename: digikey-kicad-library/digikey-footprints.pretty/Gas_Sensor_110-109.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_gas_sensor_110_109
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_gas_sensor_110_109
   oomp_key_simple: digikey_digikey_footprints_gas_sensor_110_109
   owner: digikey
   repo:

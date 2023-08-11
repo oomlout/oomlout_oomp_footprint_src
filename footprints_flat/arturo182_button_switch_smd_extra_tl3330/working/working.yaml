@@ -19,9 +19,18 @@
   oomp:
     footprint_name: tl3330
     library_name: button_switch_smd_extra
+    md5: 6b49a549da476b061953cfdb58092e05
+    md5_10: 6b49a549da
+    md5_5: 6b49a
+    md5_6: 6b49a5
+    oomp_key: oomp_arturo182_button_switch_smd_extra_tl3330
+    oomp_key_extra: oomp_footprint_arturo182_button_switch_smd_extra_tl3330
+    oomp_key_full: oomp_footprint_arturo182_button_switch_smd_extra_tl3330_6b49a5
+    oomp_key_simple: arturo182_button_switch_smd_extra_tl3330
     original_filename: kicad-modules/Button_Switch_SMD_Extra.pretty/TL3330.kicad_mod
     owner_name: arturo182
   oomp_key: oomp_arturo182_button_switch_smd_extra_tl3330
+  oomp_key_full: oomp_footprint_arturo182_button_switch_smd_extra_tl3330
   oomp_key_simple: arturo182_button_switch_smd_extra_tl3330
   owner: arturo182
   repo:

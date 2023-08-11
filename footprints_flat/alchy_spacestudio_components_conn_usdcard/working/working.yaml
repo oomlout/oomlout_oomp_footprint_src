@@ -17,9 +17,18 @@
   oomp:
     footprint_name: conn_usdcard
     library_name: spacestudio_components
+    md5: 06daa0a5f03cbeaa3293979336761981
+    md5_10: 06daa0a5f0
+    md5_5: 06daa
+    md5_6: 06daa0
+    oomp_key: oomp_alchy_spacestudio_components_conn_usdcard
+    oomp_key_extra: oomp_footprint_alchy_spacestudio_components_conn_usdcard
+    oomp_key_full: oomp_footprint_alchy_spacestudio_components_conn_usdcard_06daa0
+    oomp_key_simple: alchy_spacestudio_components_conn_usdcard
     original_filename: spacestudio_components.pretty/Conn_uSDcard.kicad_mod
     owner_name: alchy
   oomp_key: oomp_alchy_spacestudio_components_conn_usdcard
+  oomp_key_full: oomp_footprint_alchy_spacestudio_components_conn_usdcard
   oomp_key_simple: alchy_spacestudio_components_conn_usdcard
   owner: alchy
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sot_23w
     library_name: package_to_sot_smd
+    md5: d74089239485384a5f46d785af448ab4
+    md5_10: d740892394
+    md5_5: d7408
+    md5_6: d74089
+    oomp_key: oomp_kicad_package_to_sot_smd_sot_23w
+    oomp_key_extra: oomp_footprint_kicad_package_to_sot_smd_sot_23w
+    oomp_key_full: oomp_footprint_kicad_package_to_sot_smd_sot_23w_d74089
+    oomp_key_simple: kicad_package_to_sot_smd_sot_23w
     original_filename: libraries/kicad-footprints/Package_TO_SOT_SMD.pretty/SOT-23W.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_to_sot_smd_sot_23w
+  oomp_key_full: oomp_footprint_kicad_package_to_sot_smd_sot_23w
   oomp_key_simple: kicad_package_to_sot_smd_sot_23w
   owner: kicad
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: tc_30mm
     library_name: crumpprintsymbols
+    md5: 36620975b85cbbe72380b89423f251b0
+    md5_10: 36620975b8
+    md5_5: '36620'
+    md5_6: '366209'
+    oomp_key: oomp_tylercrumpton_crumpprintsymbols_tc_30mm
+    oomp_key_extra: oomp_footprint_tylercrumpton_crumpprintsymbols_tc_30mm
+    oomp_key_full: oomp_footprint_tylercrumpton_crumpprintsymbols_tc_30mm_366209
+    oomp_key_simple: tylercrumpton_crumpprintsymbols_tc_30mm
     original_filename: CrumpPrintSymbols.pretty/tc_30mm.kicad_mod
     owner_name: tylercrumpton
   oomp_key: oomp_tylercrumpton_crumpprintsymbols_tc_30mm
+  oomp_key_full: oomp_footprint_tylercrumpton_crumpprintsymbols_tc_30mm
   oomp_key_simple: tylercrumpton_crumpprintsymbols_tc_30mm
   owner: tylercrumpton
   repo:

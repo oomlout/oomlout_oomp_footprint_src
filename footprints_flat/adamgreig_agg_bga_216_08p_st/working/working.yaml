@@ -17,9 +17,18 @@
   oomp:
     footprint_name: bga_216_08p_st
     library_name: agg
+    md5: ba2da9ceaffef3cb2c08f2fe948a9e69
+    md5_10: ba2da9ceaf
+    md5_5: ba2da
+    md5_6: ba2da9
+    oomp_key: oomp_adamgreig_agg_bga_216_08p_st
+    oomp_key_extra: oomp_footprint_adamgreig_agg_bga_216_08p_st
+    oomp_key_full: oomp_footprint_adamgreig_agg_bga_216_08p_st_ba2da9
+    oomp_key_simple: adamgreig_agg_bga_216_08p_st
     original_filename: agg-kicad/agg.pretty/BGA-216-08P-ST.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_bga_216_08p_st
+  oomp_key_full: oomp_footprint_adamgreig_agg_bga_216_08p_st
   oomp_key_simple: adamgreig_agg_bga_216_08p_st
   owner: adamgreig
   repo:

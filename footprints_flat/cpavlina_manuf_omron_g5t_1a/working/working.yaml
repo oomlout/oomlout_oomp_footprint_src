@@ -17,9 +17,18 @@
   oomp:
     footprint_name: omron_g5t_1a
     library_name: manuf
+    md5: 1f8e219edab044532fa403f561d6beff
+    md5_10: 1f8e219eda
+    md5_5: 1f8e2
+    md5_6: 1f8e21
+    oomp_key: oomp_cpavlina_manuf_omron_g5t_1a
+    oomp_key_extra: oomp_footprint_cpavlina_manuf_omron_g5t_1a
+    oomp_key_full: oomp_footprint_cpavlina_manuf_omron_g5t_1a_1f8e21
+    oomp_key_simple: cpavlina_manuf_omron_g5t_1a
     original_filename: kicad-pcblib/manuf.pretty/OMRON-G5T-1A.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_manuf_omron_g5t_1a
+  oomp_key_full: oomp_footprint_cpavlina_manuf_omron_g5t_1a
   oomp_key_simple: cpavlina_manuf_omron_g5t_1a
   owner: cpavlina
   repo:

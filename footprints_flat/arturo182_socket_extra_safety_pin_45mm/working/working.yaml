@@ -19,9 +19,18 @@
   oomp:
     footprint_name: safety_pin_45mm
     library_name: socket_extra
+    md5: a44ad80012f1ed236a29b31d044af445
+    md5_10: a44ad80012
+    md5_5: a44ad
+    md5_6: a44ad8
+    oomp_key: oomp_arturo182_socket_extra_safety_pin_45mm
+    oomp_key_extra: oomp_footprint_arturo182_socket_extra_safety_pin_45mm
+    oomp_key_full: oomp_footprint_arturo182_socket_extra_safety_pin_45mm_a44ad8
+    oomp_key_simple: arturo182_socket_extra_safety_pin_45mm
     original_filename: kicad-modules/Socket_Extra.pretty/Safety_Pin_45mm.kicad_mod
     owner_name: arturo182
   oomp_key: oomp_arturo182_socket_extra_safety_pin_45mm
+  oomp_key_full: oomp_footprint_arturo182_socket_extra_safety_pin_45mm
   oomp_key_simple: arturo182_socket_extra_safety_pin_45mm
   owner: arturo182
   repo:

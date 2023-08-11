@@ -17,9 +17,18 @@
   oomp:
     footprint_name: abracon_abm2
     library_name: smd_non_ipc
+    md5: 65dcfe8eea3f65a8ffcaaaa68cdef7a6
+    md5_10: 65dcfe8eea
+    md5_5: 65dcf
+    md5_6: 65dcfe
+    oomp_key: oomp_cpavlina_smd_non_ipc_abracon_abm2
+    oomp_key_extra: oomp_footprint_cpavlina_smd_non_ipc_abracon_abm2
+    oomp_key_full: oomp_footprint_cpavlina_smd_non_ipc_abracon_abm2_65dcfe
+    oomp_key_simple: cpavlina_smd_non_ipc_abracon_abm2
     original_filename: kicad-pcblib/smd-non-ipc.pretty/Abracon-ABM2.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_smd_non_ipc_abracon_abm2
+  oomp_key_full: oomp_footprint_cpavlina_smd_non_ipc_abracon_abm2
   oomp_key_simple: cpavlina_smd_non_ipc_abracon_abm2
   owner: cpavlina
   repo:

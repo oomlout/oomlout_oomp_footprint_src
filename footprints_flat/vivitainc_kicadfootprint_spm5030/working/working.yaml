@@ -17,9 +17,18 @@
   oomp:
     footprint_name: spm5030
     library_name: kicadfootprint
+    md5: acc02decc45ae06c942977dbc0480b47
+    md5_10: acc02decc4
+    md5_5: acc02
+    md5_6: acc02d
+    oomp_key: oomp_vivitainc_kicadfootprint_spm5030
+    oomp_key_extra: oomp_footprint_vivitainc_kicadfootprint_spm5030
+    oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_spm5030_acc02d
+    oomp_key_simple: vivitainc_kicadfootprint_spm5030
     original_filename: KiCADfootprint.pretty/SPM5030.kicad_mod
     owner_name: vivitainc
   oomp_key: oomp_vivitainc_kicadfootprint_spm5030
+  oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_spm5030
   oomp_key_simple: vivitainc_kicadfootprint_spm5030
   owner: vivitainc
   repo:

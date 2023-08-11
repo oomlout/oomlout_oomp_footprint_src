@@ -17,9 +17,18 @@
   oomp:
     footprint_name: _pin2mm_7z
     library_name: _connectors
+    md5: 882cd6edd1a8564fa3b463e0ea930fe7
+    md5_10: 882cd6edd1
+    md5_5: 882cd
+    md5_6: 882cd6
+    oomp_key: oomp_mcous_connectors_pin2mm_7z
+    oomp_key_extra: oomp_footprint_mcous_connectors_pin2mm_7z
+    oomp_key_full: oomp_footprint_mcous_connectors_pin2mm_7z_882cd6
+    oomp_key_simple: mcous_connectors_pin2mm_7z
     original_filename: kicad-lib/footprints/_connectors.pretty/_Pin2mm_7z.kicad_mod
     owner_name: mcous
   oomp_key: oomp_mcous_connectors_pin2mm_7z
+  oomp_key_full: oomp_footprint_mcous_connectors_pin2mm_7z
   oomp_key_simple: mcous_connectors_pin2mm_7z
   owner: mcous
   repo:

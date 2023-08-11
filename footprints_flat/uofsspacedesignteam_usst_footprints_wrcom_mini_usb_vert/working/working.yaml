@@ -17,9 +17,18 @@
   oomp:
     footprint_name: wrcom_mini_usb_vert
     library_name: usst_footprints
+    md5: 15eed9ec3d95b968d511643c85e2513b
+    md5_10: 15eed9ec3d
+    md5_5: 15eed
+    md5_6: 15eed9
+    oomp_key: oomp_uofsspacedesignteam_usst_footprints_wrcom_mini_usb_vert
+    oomp_key_extra: oomp_footprint_uofsspacedesignteam_usst_footprints_wrcom_mini_usb_vert
+    oomp_key_full: oomp_footprint_uofsspacedesignteam_usst_footprints_wrcom_mini_usb_vert_15eed9
+    oomp_key_simple: uofsspacedesignteam_usst_footprints_wrcom_mini_usb_vert
     original_filename: USST-footprints.pretty/WRCOM_MINI_USB_VERT.kicad_mod
     owner_name: uofsspacedesignteam
   oomp_key: oomp_uofsspacedesignteam_usst_footprints_wrcom_mini_usb_vert
+  oomp_key_full: oomp_footprint_uofsspacedesignteam_usst_footprints_wrcom_mini_usb_vert
   oomp_key_simple: uofsspacedesignteam_usst_footprints_wrcom_mini_usb_vert
   owner: UofSSpaceDesignTeam
   repo:

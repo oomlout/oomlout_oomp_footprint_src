@@ -17,9 +17,18 @@
   oomp:
     footprint_name: arduinopromicro_mini_usb_zigzag
     library_name: keebio_parts
+    md5: ba196a3f88068fae4ff3782a1c9e80c9
+    md5_10: ba196a3f88
+    md5_5: ba196
+    md5_6: ba196a
+    oomp_key: oomp_keebio_keebio_parts_arduinopromicro_mini_usb_zigzag
+    oomp_key_extra: oomp_footprint_keebio_keebio_parts_arduinopromicro_mini_usb_zigzag
+    oomp_key_full: oomp_footprint_keebio_keebio_parts_arduinopromicro_mini_usb_zigzag_ba196a
+    oomp_key_simple: keebio_keebio_parts_arduinopromicro_mini_usb_zigzag
     original_filename: Keebio-Parts.pretty/ArduinoProMicro-Mini-USB-ZigZag.kicad_mod
     owner_name: keebio
   oomp_key: oomp_keebio_keebio_parts_arduinopromicro_mini_usb_zigzag
+  oomp_key_full: oomp_footprint_keebio_keebio_parts_arduinopromicro_mini_usb_zigzag
   oomp_key_simple: keebio_keebio_parts_arduinopromicro_mini_usb_zigzag
   owner: keebio
   repo:

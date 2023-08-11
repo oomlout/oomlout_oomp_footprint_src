@@ -17,9 +17,18 @@
   oomp:
     footprint_name: vfqfn_28_1ep_5x5mm
     library_name: digikey_footprints
+    md5: 15c679b2afb4322d5ddfec35756870cc
+    md5_10: 15c679b2af
+    md5_5: 15c67
+    md5_6: 15c679
+    oomp_key: oomp_digikey_digikey_footprints_vfqfn_28_1ep_5x5mm
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_vfqfn_28_1ep_5x5mm
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_vfqfn_28_1ep_5x5mm_15c679
+    oomp_key_simple: digikey_digikey_footprints_vfqfn_28_1ep_5x5mm
     original_filename: digikey-kicad-library/digikey-footprints.pretty/VFQFN-28-1EP_5x5mm.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_vfqfn_28_1ep_5x5mm
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_vfqfn_28_1ep_5x5mm
   oomp_key_simple: digikey_digikey_footprints_vfqfn_28_1ep_5x5mm
   owner: digikey
   repo:

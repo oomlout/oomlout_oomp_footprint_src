@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ft_poe_module_nooutline
     library_name: freetronics_footprints
+    md5: 482155b222c500984c59027a43bd1cce
+    md5_10: 482155b222
+    md5_5: '48215'
+    md5_6: '482155'
+    oomp_key: oomp_axello_freetronics_footprints_ft_poe_module_nooutline
+    oomp_key_extra: oomp_footprint_axello_freetronics_footprints_ft_poe_module_nooutline
+    oomp_key_full: oomp_footprint_axello_freetronics_footprints_ft_poe_module_nooutline_482155
+    oomp_key_simple: axello_freetronics_footprints_ft_poe_module_nooutline
     original_filename: kicad/mods/freetronics_footprints.pretty/FT-POE-MODULE-NOOUTLINE.kicad_mod
     owner_name: axello
   oomp_key: oomp_axello_freetronics_footprints_ft_poe_module_nooutline
+  oomp_key_full: oomp_footprint_axello_freetronics_footprints_ft_poe_module_nooutline
   oomp_key_simple: axello_freetronics_footprints_ft_poe_module_nooutline
   owner: axello
   repo:

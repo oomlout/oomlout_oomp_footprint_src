@@ -17,9 +17,18 @@
   oomp:
     footprint_name: cp_elec_10x7_7
     library_name: capacitor_smd
+    md5: 300bc51b64fda507038482164b11abad
+    md5_10: 300bc51b64
+    md5_5: 300bc
+    md5_6: 300bc5
+    oomp_key: oomp_kicad_capacitor_smd_cp_elec_10x7_7
+    oomp_key_extra: oomp_footprint_kicad_capacitor_smd_cp_elec_10x7_7
+    oomp_key_full: oomp_footprint_kicad_capacitor_smd_cp_elec_10x7_7_300bc5
+    oomp_key_simple: kicad_capacitor_smd_cp_elec_10x7_7
     original_filename: libraries/kicad-footprints/Capacitor_SMD.pretty/CP_Elec_10x7.7.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_capacitor_smd_cp_elec_10x7_7
+  oomp_key_full: oomp_footprint_kicad_capacitor_smd_cp_elec_10x7_7
   oomp_key_simple: kicad_capacitor_smd_cp_elec_10x7_7
   owner: kicad
   repo:

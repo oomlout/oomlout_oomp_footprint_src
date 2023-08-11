@@ -17,9 +17,18 @@
   oomp:
     footprint_name: b3fs_105x
     library_name: kicadfootprint
+    md5: de9cc79b96444889e0a8099b3e1eee16
+    md5_10: de9cc79b96
+    md5_5: de9cc
+    md5_6: de9cc7
+    oomp_key: oomp_vivitainc_kicadfootprint_b3fs_105x
+    oomp_key_extra: oomp_footprint_vivitainc_kicadfootprint_b3fs_105x
+    oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_b3fs_105x_de9cc7
+    oomp_key_simple: vivitainc_kicadfootprint_b3fs_105x
     original_filename: KiCADfootprint.pretty/B3FS-105X.kicad_mod
     owner_name: vivitainc
   oomp_key: oomp_vivitainc_kicadfootprint_b3fs_105x
+  oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_b3fs_105x
   oomp_key_simple: vivitainc_kicadfootprint_b3fs_105x
   owner: vivitainc
   repo:

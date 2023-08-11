@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_keystone_1291
     library_name: xess
+    md5: 4d681638c15ef847c614801f3fd71de3
+    md5_10: 4d681638c1
+    md5_5: 4d681
+    md5_6: 4d6816
+    oomp_key: oomp_xesscorp_xess_xess_keystone_1291
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_keystone_1291
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_keystone_1291_4d6816
+    oomp_key_simple: xesscorp_xess_xess_keystone_1291
     original_filename: xess.pretty/xess-KEYSTONE-1291.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_keystone_1291
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_keystone_1291
   oomp_key_simple: xesscorp_xess_xess_keystone_1291
   owner: xesscorp
   repo:

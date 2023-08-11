@@ -17,9 +17,18 @@
   oomp:
     footprint_name: c_0805
     library_name: avp
+    md5: 19923c703361d3ea2a946813da31bf15
+    md5_10: 19923c7033
+    md5_5: '19923'
+    md5_6: 19923c
+    oomp_key: oomp_av_p_avp_c_0805
+    oomp_key_extra: oomp_footprint_av_p_avp_c_0805
+    oomp_key_full: oomp_footprint_av_p_avp_c_0805_19923c
+    oomp_key_simple: av_p_avp_c_0805
     original_filename: Avp.pretty/C_0805.kicad_mod
     owner_name: av_p
   oomp_key: oomp_av_p_avp_c_0805
+  oomp_key_full: oomp_footprint_av_p_avp_c_0805
   oomp_key_simple: av_p_avp_c_0805
   owner: av-p
   repo:

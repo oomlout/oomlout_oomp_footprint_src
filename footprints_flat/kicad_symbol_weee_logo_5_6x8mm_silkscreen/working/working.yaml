@@ -17,9 +17,18 @@
   oomp:
     footprint_name: weee_logo_5_6x8mm_silkscreen
     library_name: symbol
+    md5: f711609f6825ed8236942fba4ba288d0
+    md5_10: f711609f68
+    md5_5: f7116
+    md5_6: f71160
+    oomp_key: oomp_kicad_symbol_weee_logo_5_6x8mm_silkscreen
+    oomp_key_extra: oomp_footprint_kicad_symbol_weee_logo_5_6x8mm_silkscreen
+    oomp_key_full: oomp_footprint_kicad_symbol_weee_logo_5_6x8mm_silkscreen_f71160
+    oomp_key_simple: kicad_symbol_weee_logo_5_6x8mm_silkscreen
     original_filename: libraries/kicad-footprints/Symbol.pretty/WEEE-Logo_5.6x8mm_SilkScreen.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_symbol_weee_logo_5_6x8mm_silkscreen
+  oomp_key_full: oomp_footprint_kicad_symbol_weee_logo_5_6x8mm_silkscreen
   oomp_key_simple: kicad_symbol_weee_logo_5_6x8mm_silkscreen
   owner: kicad
   repo:

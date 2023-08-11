@@ -17,9 +17,18 @@
   oomp:
     footprint_name: atmega32u4_au
     library_name: keebio_parts
+    md5: e701ab9105db92a96dc9b5f0b4137f52
+    md5_10: e701ab9105
+    md5_5: e701a
+    md5_6: e701ab
+    oomp_key: oomp_keebio_keebio_parts_atmega32u4_au
+    oomp_key_extra: oomp_footprint_keebio_keebio_parts_atmega32u4_au
+    oomp_key_full: oomp_footprint_keebio_keebio_parts_atmega32u4_au_e701ab
+    oomp_key_simple: keebio_keebio_parts_atmega32u4_au
     original_filename: Keebio-Parts.pretty/ATMEGA32U4-AU.kicad_mod
     owner_name: keebio
   oomp_key: oomp_keebio_keebio_parts_atmega32u4_au
+  oomp_key_full: oomp_footprint_keebio_keebio_parts_atmega32u4_au
   oomp_key_simple: keebio_keebio_parts_atmega32u4_au
   owner: keebio
   repo:

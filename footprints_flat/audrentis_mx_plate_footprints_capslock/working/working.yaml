@@ -17,9 +17,18 @@
   oomp:
     footprint_name: capslock
     library_name: mx_plate_footprints
+    md5: 1fccfae056de2c9b38d086c821558a14
+    md5_10: 1fccfae056
+    md5_5: 1fccf
+    md5_6: 1fccfa
+    oomp_key: oomp_audrentis_mx_plate_footprints_capslock
+    oomp_key_extra: oomp_footprint_audrentis_mx_plate_footprints_capslock
+    oomp_key_full: oomp_footprint_audrentis_mx_plate_footprints_capslock_1fccfa
+    oomp_key_simple: audrentis_mx_plate_footprints_capslock
     original_filename: MX_Plate_Footprints.pretty/CapsLock.kicad_mod
     owner_name: audrentis
   oomp_key: oomp_audrentis_mx_plate_footprints_capslock
+  oomp_key_full: oomp_footprint_audrentis_mx_plate_footprints_capslock
   oomp_key_simple: audrentis_mx_plate_footprints_capslock
   owner: audrentis
   repo:

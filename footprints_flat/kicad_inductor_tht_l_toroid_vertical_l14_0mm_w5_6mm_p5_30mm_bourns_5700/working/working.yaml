@@ -18,9 +18,18 @@
   oomp:
     footprint_name: l_toroid_vertical_l14_0mm_w5_6mm_p5_30mm_bourns_5700
     library_name: inductor_tht
+    md5: 6d53e9fffe7cacf3875e91621b347d38
+    md5_10: 6d53e9fffe
+    md5_5: 6d53e
+    md5_6: 6d53e9
+    oomp_key: oomp_kicad_inductor_tht_l_toroid_vertical_l14_0mm_w5_6mm_p5_30mm_bourns_5700
+    oomp_key_extra: oomp_footprint_kicad_inductor_tht_l_toroid_vertical_l14_0mm_w5_6mm_p5_30mm_bourns_5700
+    oomp_key_full: oomp_footprint_kicad_inductor_tht_l_toroid_vertical_l14_0mm_w5_6mm_p5_30mm_bourns_5700_6d53e9
+    oomp_key_simple: kicad_inductor_tht_l_toroid_vertical_l14_0mm_w5_6mm_p5_30mm_bourns_5700
     original_filename: libraries/kicad-footprints/Inductor_THT.pretty/L_Toroid_Vertical_L14.0mm_W5.6mm_P5.30mm_Bourns_5700.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_inductor_tht_l_toroid_vertical_l14_0mm_w5_6mm_p5_30mm_bourns_5700
+  oomp_key_full: oomp_footprint_kicad_inductor_tht_l_toroid_vertical_l14_0mm_w5_6mm_p5_30mm_bourns_5700
   oomp_key_simple: kicad_inductor_tht_l_toroid_vertical_l14_0mm_w5_6mm_p5_30mm_bourns_5700
   owner: kicad
   repo:

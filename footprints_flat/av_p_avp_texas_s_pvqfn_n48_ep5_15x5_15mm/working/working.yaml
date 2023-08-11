@@ -18,9 +18,18 @@
   oomp:
     footprint_name: texas_s_pvqfn_n48_ep5_15x5_15mm
     library_name: avp
+    md5: a5a562851e3df7f8fa65521c5052be46
+    md5_10: a5a562851e
+    md5_5: a5a56
+    md5_6: a5a562
+    oomp_key: oomp_av_p_avp_texas_s_pvqfn_n48_ep5_15x5_15mm
+    oomp_key_extra: oomp_footprint_av_p_avp_texas_s_pvqfn_n48_ep5_15x5_15mm
+    oomp_key_full: oomp_footprint_av_p_avp_texas_s_pvqfn_n48_ep5_15x5_15mm_a5a562
+    oomp_key_simple: av_p_avp_texas_s_pvqfn_n48_ep5_15x5_15mm
     original_filename: Avp.pretty/Texas_S-PVQFN-N48_EP5.15x5.15mm.kicad_mod
     owner_name: av_p
   oomp_key: oomp_av_p_avp_texas_s_pvqfn_n48_ep5_15x5_15mm
+  oomp_key_full: oomp_footprint_av_p_avp_texas_s_pvqfn_n48_ep5_15x5_15mm
   oomp_key_simple: av_p_avp_texas_s_pvqfn_n48_ep5_15x5_15mm
   owner: av-p
   repo:

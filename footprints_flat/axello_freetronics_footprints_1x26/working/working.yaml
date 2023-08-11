@@ -17,9 +17,18 @@
   oomp:
     footprint_name: 1x26
     library_name: freetronics_footprints
+    md5: 0e2c993b40602aa9461ec200e33b926c
+    md5_10: 0e2c993b40
+    md5_5: 0e2c9
+    md5_6: 0e2c99
+    oomp_key: oomp_axello_freetronics_footprints_1x26
+    oomp_key_extra: oomp_footprint_axello_freetronics_footprints_1x26
+    oomp_key_full: oomp_footprint_axello_freetronics_footprints_1x26_0e2c99
+    oomp_key_simple: axello_freetronics_footprints_1x26
     original_filename: kicad/mods/freetronics_footprints.pretty/1X26.kicad_mod
     owner_name: axello
   oomp_key: oomp_axello_freetronics_footprints_1x26
+  oomp_key_full: oomp_footprint_axello_freetronics_footprints_1x26
   oomp_key_simple: axello_freetronics_footprints_1x26
   owner: axello
   repo:

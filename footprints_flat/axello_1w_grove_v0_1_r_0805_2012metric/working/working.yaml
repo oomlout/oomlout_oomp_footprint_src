@@ -19,9 +19,18 @@
   oomp:
     footprint_name: r_0805_2012metric
     library_name: 1w_grove_v0_1
+    md5: 4013f57a4cc67358156f694743c348b7
+    md5_10: 4013f57a4c
+    md5_5: 4013f
+    md5_6: 4013f5
+    oomp_key: oomp_axello_1w_grove_v0_1_r_0805_2012metric
+    oomp_key_extra: oomp_footprint_axello_1w_grove_v0_1_r_0805_2012metric
+    oomp_key_full: oomp_footprint_axello_1w_grove_v0_1_r_0805_2012metric_4013f5
+    oomp_key_simple: axello_1w_grove_v0_1_r_0805_2012metric
     original_filename: kicad/6.0/projects/1w-grove-v0.1/1w-grove-v0.1.pretty/R_0805_2012Metric.kicad_mod
     owner_name: axello
   oomp_key: oomp_axello_1w_grove_v0_1_r_0805_2012metric
+  oomp_key_full: oomp_footprint_axello_1w_grove_v0_1_r_0805_2012metric
   oomp_key_simple: axello_1w_grove_v0_1_r_0805_2012metric
   owner: axello
   repo:

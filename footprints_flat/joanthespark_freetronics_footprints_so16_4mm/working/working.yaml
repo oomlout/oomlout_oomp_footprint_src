@@ -17,9 +17,18 @@
   oomp:
     footprint_name: so16_4mm
     library_name: freetronics_footprints
+    md5: cca329403ba3897bbb48c6cc01bc5fe1
+    md5_10: cca329403b
+    md5_5: cca32
+    md5_6: cca329
+    oomp_key: oomp_joanthespark_freetronics_footprints_so16_4mm
+    oomp_key_extra: oomp_footprint_joanthespark_freetronics_footprints_so16_4mm
+    oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_so16_4mm_cca329
+    oomp_key_simple: joanthespark_freetronics_footprints_so16_4mm
     original_filename: KiCAD/mods/freetronics_footprints.pretty/SO16_4mm.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_freetronics_footprints_so16_4mm
+  oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_so16_4mm
   oomp_key_simple: joanthespark_freetronics_footprints_so16_4mm
   owner: JoanTheSpark
   repo:

@@ -18,9 +18,18 @@
   oomp:
     footprint_name: idc_header_2x10_1mp_p2_54mm_latch_horizontal
     library_name: connector_idc
+    md5: be6b0e68f3889d6da434a156f57224de
+    md5_10: be6b0e68f3
+    md5_5: be6b0
+    md5_6: be6b0e
+    oomp_key: oomp_kicad_connector_idc_idc_header_2x10_1mp_p2_54mm_latch_horizontal
+    oomp_key_extra: oomp_footprint_kicad_connector_idc_idc_header_2x10_1mp_p2_54mm_latch_horizontal
+    oomp_key_full: oomp_footprint_kicad_connector_idc_idc_header_2x10_1mp_p2_54mm_latch_horizontal_be6b0e
+    oomp_key_simple: kicad_connector_idc_idc_header_2x10_1mp_p2_54mm_latch_horizontal
     original_filename: libraries/kicad-footprints/Connector_IDC.pretty/IDC-Header_2x10-1MP_P2.54mm_Latch_Horizontal.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_idc_idc_header_2x10_1mp_p2_54mm_latch_horizontal
+  oomp_key_full: oomp_footprint_kicad_connector_idc_idc_header_2x10_1mp_p2_54mm_latch_horizontal
   oomp_key_simple: kicad_connector_idc_idc_header_2x10_1mp_p2_54mm_latch_horizontal
   owner: kicad
   repo:

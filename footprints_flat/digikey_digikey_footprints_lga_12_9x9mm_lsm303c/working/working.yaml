@@ -17,9 +17,18 @@
   oomp:
     footprint_name: lga_12_9x9mm_lsm303c
     library_name: digikey_footprints
+    md5: fe8e4e56c542a006840151b40edcd37c
+    md5_10: fe8e4e56c5
+    md5_5: fe8e4
+    md5_6: fe8e4e
+    oomp_key: oomp_digikey_digikey_footprints_lga_12_9x9mm_lsm303c
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_lga_12_9x9mm_lsm303c
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_lga_12_9x9mm_lsm303c_fe8e4e
+    oomp_key_simple: digikey_digikey_footprints_lga_12_9x9mm_lsm303c
     original_filename: digikey-kicad-library/digikey-footprints.pretty/LGA-12_9x9mm_LSM303C.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_lga_12_9x9mm_lsm303c
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_lga_12_9x9mm_lsm303c
   oomp_key_simple: digikey_digikey_footprints_lga_12_9x9mm_lsm303c
   owner: digikey
   repo:

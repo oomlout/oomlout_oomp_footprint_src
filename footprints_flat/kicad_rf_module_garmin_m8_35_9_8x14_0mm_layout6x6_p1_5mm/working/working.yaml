@@ -17,9 +17,18 @@
   oomp:
     footprint_name: garmin_m8_35_9_8x14_0mm_layout6x6_p1_5mm
     library_name: rf_module
+    md5: bb2af62fe68037400aa0076070a3b78f
+    md5_10: bb2af62fe6
+    md5_5: bb2af
+    md5_6: bb2af6
+    oomp_key: oomp_kicad_rf_module_garmin_m8_35_9_8x14_0mm_layout6x6_p1_5mm
+    oomp_key_extra: oomp_footprint_kicad_rf_module_garmin_m8_35_9_8x14_0mm_layout6x6_p1_5mm
+    oomp_key_full: oomp_footprint_kicad_rf_module_garmin_m8_35_9_8x14_0mm_layout6x6_p1_5mm_bb2af6
+    oomp_key_simple: kicad_rf_module_garmin_m8_35_9_8x14_0mm_layout6x6_p1_5mm
     original_filename: libraries/kicad-footprints/RF_Module.pretty/Garmin_M8-35_9.8x14.0mm_Layout6x6_P1.5mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_rf_module_garmin_m8_35_9_8x14_0mm_layout6x6_p1_5mm
+  oomp_key_full: oomp_footprint_kicad_rf_module_garmin_m8_35_9_8x14_0mm_layout6x6_p1_5mm
   oomp_key_simple: kicad_rf_module_garmin_m8_35_9_8x14_0mm_layout6x6_p1_5mm
   owner: kicad
   repo:

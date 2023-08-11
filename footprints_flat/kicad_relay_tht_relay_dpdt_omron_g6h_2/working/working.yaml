@@ -17,9 +17,18 @@
   oomp:
     footprint_name: relay_dpdt_omron_g6h_2
     library_name: relay_tht
+    md5: f259a322580b838fa033461f5b8980ae
+    md5_10: f259a32258
+    md5_5: f259a
+    md5_6: f259a3
+    oomp_key: oomp_kicad_relay_tht_relay_dpdt_omron_g6h_2
+    oomp_key_extra: oomp_footprint_kicad_relay_tht_relay_dpdt_omron_g6h_2
+    oomp_key_full: oomp_footprint_kicad_relay_tht_relay_dpdt_omron_g6h_2_f259a3
+    oomp_key_simple: kicad_relay_tht_relay_dpdt_omron_g6h_2
     original_filename: libraries/kicad-footprints/Relay_THT.pretty/Relay_DPDT_Omron_G6H-2.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_relay_tht_relay_dpdt_omron_g6h_2
+  oomp_key_full: oomp_footprint_kicad_relay_tht_relay_dpdt_omron_g6h_2
   oomp_key_simple: kicad_relay_tht_relay_dpdt_omron_g6h_2
   owner: kicad
   repo:

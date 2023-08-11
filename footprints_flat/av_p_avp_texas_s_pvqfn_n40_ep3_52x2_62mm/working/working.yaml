@@ -18,9 +18,18 @@
   oomp:
     footprint_name: texas_s_pvqfn_n40_ep3_52x2_62mm
     library_name: avp
+    md5: aac314c4e4e06fa504fee8551c3be06d
+    md5_10: aac314c4e4
+    md5_5: aac31
+    md5_6: aac314
+    oomp_key: oomp_av_p_avp_texas_s_pvqfn_n40_ep3_52x2_62mm
+    oomp_key_extra: oomp_footprint_av_p_avp_texas_s_pvqfn_n40_ep3_52x2_62mm
+    oomp_key_full: oomp_footprint_av_p_avp_texas_s_pvqfn_n40_ep3_52x2_62mm_aac314
+    oomp_key_simple: av_p_avp_texas_s_pvqfn_n40_ep3_52x2_62mm
     original_filename: Avp.pretty/Texas_S-PVQFN-N40_EP3.52x2.62mm.kicad_mod
     owner_name: av_p
   oomp_key: oomp_av_p_avp_texas_s_pvqfn_n40_ep3_52x2_62mm
+  oomp_key_full: oomp_footprint_av_p_avp_texas_s_pvqfn_n40_ep3_52x2_62mm
   oomp_key_simple: av_p_avp_texas_s_pvqfn_n40_ep3_52x2_62mm
   owner: av-p
   repo:

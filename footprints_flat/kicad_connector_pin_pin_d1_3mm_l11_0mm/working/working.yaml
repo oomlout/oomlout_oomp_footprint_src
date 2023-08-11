@@ -17,9 +17,18 @@
   oomp:
     footprint_name: pin_d1_3mm_l11_0mm
     library_name: connector_pin
+    md5: 30e1987e16660a535278887ebcdd8610
+    md5_10: 30e1987e16
+    md5_5: 30e19
+    md5_6: 30e198
+    oomp_key: oomp_kicad_connector_pin_pin_d1_3mm_l11_0mm
+    oomp_key_extra: oomp_footprint_kicad_connector_pin_pin_d1_3mm_l11_0mm
+    oomp_key_full: oomp_footprint_kicad_connector_pin_pin_d1_3mm_l11_0mm_30e198
+    oomp_key_simple: kicad_connector_pin_pin_d1_3mm_l11_0mm
     original_filename: libraries/kicad-footprints/Connector_Pin.pretty/Pin_D1.3mm_L11.0mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_pin_pin_d1_3mm_l11_0mm
+  oomp_key_full: oomp_footprint_kicad_connector_pin_pin_d1_3mm_l11_0mm
   oomp_key_simple: kicad_connector_pin_pin_d1_3mm_l11_0mm
   owner: kicad
   repo:

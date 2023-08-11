@@ -17,9 +17,18 @@
   oomp:
     footprint_name: diode
     library_name: keebio_parts
+    md5: 167adde0e0d8b16e139ff5d142e8a68d
+    md5_10: 167adde0e0
+    md5_5: 167ad
+    md5_6: 167add
+    oomp_key: oomp_keebio_keebio_parts_diode
+    oomp_key_extra: oomp_footprint_keebio_keebio_parts_diode
+    oomp_key_full: oomp_footprint_keebio_keebio_parts_diode_167add
+    oomp_key_simple: keebio_keebio_parts_diode
     original_filename: Keebio-Parts.pretty/Diode.kicad_mod
     owner_name: keebio
   oomp_key: oomp_keebio_keebio_parts_diode
+  oomp_key_full: oomp_footprint_keebio_keebio_parts_diode
   oomp_key_simple: keebio_keebio_parts_diode
   owner: keebio
   repo:

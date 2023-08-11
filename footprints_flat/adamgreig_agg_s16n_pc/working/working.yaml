@@ -17,9 +17,18 @@
   oomp:
     footprint_name: s16n_pc
     library_name: agg
+    md5: 4b4e2a430210215c54357956f17f1eab
+    md5_10: 4b4e2a4302
+    md5_5: 4b4e2
+    md5_6: 4b4e2a
+    oomp_key: oomp_adamgreig_agg_s16n_pc
+    oomp_key_extra: oomp_footprint_adamgreig_agg_s16n_pc
+    oomp_key_full: oomp_footprint_adamgreig_agg_s16n_pc_4b4e2a
+    oomp_key_simple: adamgreig_agg_s16n_pc
     original_filename: agg-kicad/agg.pretty/S16N-PC.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_s16n_pc
+  oomp_key_full: oomp_footprint_adamgreig_agg_s16n_pc
   oomp_key_simple: adamgreig_agg_s16n_pc
   owner: adamgreig
   repo:

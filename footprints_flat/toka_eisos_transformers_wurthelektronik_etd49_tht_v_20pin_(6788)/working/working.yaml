@@ -17,9 +17,18 @@
   oomp:
     footprint_name: etd49_tht_v_20pin_(6788)
     library_name: transformers_wurthelektronik
+    md5: 86351ca1898c09ce54b237d75e3b774e
+    md5_10: 86351ca189
+    md5_5: '86351'
+    md5_6: 86351c
+    oomp_key: oomp_toka_eisos_transformers_wurthelektronik_etd49_tht_v_20pin_(6788)
+    oomp_key_extra: oomp_footprint_toka_eisos_transformers_wurthelektronik_etd49_tht_v_20pin_(6788)
+    oomp_key_full: oomp_footprint_toka_eisos_transformers_wurthelektronik_etd49_tht_v_20pin_(6788)_86351c
+    oomp_key_simple: toka_eisos_transformers_wurthelektronik_etd49_tht_v_20pin_(6788)
     original_filename: Transformers_WurthElektronik.pretty/ETD49_THT_V_20PIN_(6788).kicad_mod
     owner_name: toka_eisos
   oomp_key: oomp_toka_eisos_transformers_wurthelektronik_etd49_tht_v_20pin_(6788)
+  oomp_key_full: oomp_footprint_toka_eisos_transformers_wurthelektronik_etd49_tht_v_20pin_(6788)
   oomp_key_simple: toka_eisos_transformers_wurthelektronik_etd49_tht_v_20pin_(6788)
   owner: toka-eisos
   repo:

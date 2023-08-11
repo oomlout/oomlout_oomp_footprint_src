@@ -18,9 +18,18 @@
   oomp:
     footprint_name: r_axial_power_l38_0mm_w6_4mm_p40_64mm
     library_name: resistor_tht
+    md5: 77fe289e9ede810ca177722535bdb462
+    md5_10: 77fe289e9e
+    md5_5: 77fe2
+    md5_6: 77fe28
+    oomp_key: oomp_kicad_resistor_tht_r_axial_power_l38_0mm_w6_4mm_p40_64mm
+    oomp_key_extra: oomp_footprint_kicad_resistor_tht_r_axial_power_l38_0mm_w6_4mm_p40_64mm
+    oomp_key_full: oomp_footprint_kicad_resistor_tht_r_axial_power_l38_0mm_w6_4mm_p40_64mm_77fe28
+    oomp_key_simple: kicad_resistor_tht_r_axial_power_l38_0mm_w6_4mm_p40_64mm
     original_filename: libraries/kicad-footprints/Resistor_THT.pretty/R_Axial_Power_L38.0mm_W6.4mm_P40.64mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_resistor_tht_r_axial_power_l38_0mm_w6_4mm_p40_64mm
+  oomp_key_full: oomp_footprint_kicad_resistor_tht_r_axial_power_l38_0mm_w6_4mm_p40_64mm
   oomp_key_simple: kicad_resistor_tht_r_axial_power_l38_0mm_w6_4mm_p40_64mm
   owner: kicad
   repo:

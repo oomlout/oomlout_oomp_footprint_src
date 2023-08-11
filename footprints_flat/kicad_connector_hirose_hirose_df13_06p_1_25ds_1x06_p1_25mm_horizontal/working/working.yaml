@@ -18,9 +18,18 @@
   oomp:
     footprint_name: hirose_df13_06p_1_25ds_1x06_p1_25mm_horizontal
     library_name: connector_hirose
+    md5: f8a60bb0e783f717e22bfec098fff074
+    md5_10: f8a60bb0e7
+    md5_5: f8a60
+    md5_6: f8a60b
+    oomp_key: oomp_kicad_connector_hirose_hirose_df13_06p_1_25ds_1x06_p1_25mm_horizontal
+    oomp_key_extra: oomp_footprint_kicad_connector_hirose_hirose_df13_06p_1_25ds_1x06_p1_25mm_horizontal
+    oomp_key_full: oomp_footprint_kicad_connector_hirose_hirose_df13_06p_1_25ds_1x06_p1_25mm_horizontal_f8a60b
+    oomp_key_simple: kicad_connector_hirose_hirose_df13_06p_1_25ds_1x06_p1_25mm_horizontal
     original_filename: libraries/kicad-footprints/Connector_Hirose.pretty/Hirose_DF13-06P-1.25DS_1x06_P1.25mm_Horizontal.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_hirose_hirose_df13_06p_1_25ds_1x06_p1_25mm_horizontal
+  oomp_key_full: oomp_footprint_kicad_connector_hirose_hirose_df13_06p_1_25ds_1x06_p1_25mm_horizontal
   oomp_key_simple: kicad_connector_hirose_hirose_df13_06p_1_25ds_1x06_p1_25mm_horizontal
   owner: kicad
   repo:

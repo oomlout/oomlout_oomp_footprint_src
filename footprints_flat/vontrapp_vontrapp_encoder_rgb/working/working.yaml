@@ -17,9 +17,18 @@
   oomp:
     footprint_name: encoder_rgb
     library_name: vontrapp
+    md5: 446bd71f18adb06111f843e64d1a9573
+    md5_10: 446bd71f18
+    md5_5: 446bd
+    md5_6: 446bd7
+    oomp_key: oomp_vontrapp_vontrapp_encoder_rgb
+    oomp_key_extra: oomp_footprint_vontrapp_vontrapp_encoder_rgb
+    oomp_key_full: oomp_footprint_vontrapp_vontrapp_encoder_rgb_446bd7
+    oomp_key_simple: vontrapp_vontrapp_encoder_rgb
     original_filename: vontrapp.pretty/Encoder_RGB.kicad_mod
     owner_name: vontrapp
   oomp_key: oomp_vontrapp_vontrapp_encoder_rgb
+  oomp_key_full: oomp_footprint_vontrapp_vontrapp_encoder_rgb
   oomp_key_simple: vontrapp_vontrapp_encoder_rgb
   owner: vontrapp
   repo:

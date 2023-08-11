@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sensirion_dfn_4_1ep_2x2mm_p1mm_ep0_7x1_6mm
     library_name: sensor_humidity
+    md5: 62add4f80f1f007be96fabe16f22409a
+    md5_10: 62add4f80f
+    md5_5: 62add
+    md5_6: 62add4
+    oomp_key: oomp_kicad_sensor_humidity_sensirion_dfn_4_1ep_2x2mm_p1mm_ep0_7x1_6mm
+    oomp_key_extra: oomp_footprint_kicad_sensor_humidity_sensirion_dfn_4_1ep_2x2mm_p1mm_ep0_7x1_6mm
+    oomp_key_full: oomp_footprint_kicad_sensor_humidity_sensirion_dfn_4_1ep_2x2mm_p1mm_ep0_7x1_6mm_62add4
+    oomp_key_simple: kicad_sensor_humidity_sensirion_dfn_4_1ep_2x2mm_p1mm_ep0_7x1_6mm
     original_filename: libraries/kicad-footprints/Sensor_Humidity.pretty/Sensirion_DFN-4-1EP_2x2mm_P1mm_EP0.7x1.6mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_sensor_humidity_sensirion_dfn_4_1ep_2x2mm_p1mm_ep0_7x1_6mm
+  oomp_key_full: oomp_footprint_kicad_sensor_humidity_sensirion_dfn_4_1ep_2x2mm_p1mm_ep0_7x1_6mm
   oomp_key_simple: kicad_sensor_humidity_sensirion_dfn_4_1ep_2x2mm_p1mm_ep0_7x1_6mm
   owner: kicad
   repo:

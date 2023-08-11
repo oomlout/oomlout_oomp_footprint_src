@@ -17,9 +17,18 @@
   oomp:
     footprint_name: soic_8_n
     library_name: xess
+    md5: a8b6f2ce86f8dca158b44eaff9587a89
+    md5_10: a8b6f2ce86
+    md5_5: a8b6f
+    md5_6: a8b6f2
+    oomp_key: oomp_xesscorp_xess_soic_8_n
+    oomp_key_extra: oomp_footprint_xesscorp_xess_soic_8_n
+    oomp_key_full: oomp_footprint_xesscorp_xess_soic_8_n_a8b6f2
+    oomp_key_simple: xesscorp_xess_soic_8_n
     original_filename: xess.pretty/SOIC-8-N.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_soic_8_n
+  oomp_key_full: oomp_footprint_xesscorp_xess_soic_8_n
   oomp_key_simple: xesscorp_xess_soic_8_n
   owner: xesscorp
   repo:

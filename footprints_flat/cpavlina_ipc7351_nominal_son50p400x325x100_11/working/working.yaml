@@ -18,9 +18,18 @@
   oomp:
     footprint_name: son50p400x325x100_11
     library_name: ipc7351_nominal
+    md5: 20b16dc402923508549084d957d4b5d2
+    md5_10: 20b16dc402
+    md5_5: 20b16
+    md5_6: 20b16d
+    oomp_key: oomp_cpavlina_ipc7351_nominal_son50p400x325x100_11
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_nominal_son50p400x325x100_11
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_son50p400x325x100_11_20b16d
+    oomp_key_simple: cpavlina_ipc7351_nominal_son50p400x325x100_11
     original_filename: kicad-pcblib/IPC7351-Nominal.pretty/SON50P400X325X100-11.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_nominal_son50p400x325x100_11
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_son50p400x325x100_11
   oomp_key_simple: cpavlina_ipc7351_nominal_son50p400x325x100_11
   owner: cpavlina
   repo:

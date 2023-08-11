@@ -17,9 +17,18 @@
   oomp:
     footprint_name: soic_7_8_w3_9mm
     library_name: digikey_footprints
+    md5: 9676e50291713f830d58bd928e928de1
+    md5_10: 9676e50291
+    md5_5: 9676e
+    md5_6: 9676e5
+    oomp_key: oomp_digikey_digikey_footprints_soic_7_8_w3_9mm
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_soic_7_8_w3_9mm
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_soic_7_8_w3_9mm_9676e5
+    oomp_key_simple: digikey_digikey_footprints_soic_7_8_w3_9mm
     original_filename: digikey-kicad-library/digikey-footprints.pretty/SOIC-7-8_W3.9mm.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_soic_7_8_w3_9mm
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_soic_7_8_w3_9mm
   oomp_key_simple: digikey_digikey_footprints_soic_7_8_w3_9mm
   owner: digikey
   repo:

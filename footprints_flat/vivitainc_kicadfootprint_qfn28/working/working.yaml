@@ -17,9 +17,18 @@
   oomp:
     footprint_name: qfn28
     library_name: kicadfootprint
+    md5: bfe7c8a273b772d8193f238bc87dcd3f
+    md5_10: bfe7c8a273
+    md5_5: bfe7c
+    md5_6: bfe7c8
+    oomp_key: oomp_vivitainc_kicadfootprint_qfn28
+    oomp_key_extra: oomp_footprint_vivitainc_kicadfootprint_qfn28
+    oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_qfn28_bfe7c8
+    oomp_key_simple: vivitainc_kicadfootprint_qfn28
     original_filename: KiCADfootprint.pretty/QFN28.kicad_mod
     owner_name: vivitainc
   oomp_key: oomp_vivitainc_kicadfootprint_qfn28
+  oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_qfn28
   oomp_key_simple: vivitainc_kicadfootprint_qfn28
   owner: vivitainc
   repo:

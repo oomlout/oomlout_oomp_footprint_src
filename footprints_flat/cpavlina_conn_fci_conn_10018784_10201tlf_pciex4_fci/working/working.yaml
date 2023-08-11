@@ -17,9 +17,18 @@
   oomp:
     footprint_name: conn_10018784_10201tlf_pciex4_fci
     library_name: conn_fci
+    md5: 87a04553774fd8c09a90ed040667eb13
+    md5_10: 87a0455377
+    md5_5: 87a04
+    md5_6: 87a045
+    oomp_key: oomp_cpavlina_conn_fci_conn_10018784_10201tlf_pciex4_fci
+    oomp_key_extra: oomp_footprint_cpavlina_conn_fci_conn_10018784_10201tlf_pciex4_fci
+    oomp_key_full: oomp_footprint_cpavlina_conn_fci_conn_10018784_10201tlf_pciex4_fci_87a045
+    oomp_key_simple: cpavlina_conn_fci_conn_10018784_10201tlf_pciex4_fci
     original_filename: kicad-pcblib/conn-fci.pretty/CONN-10018784-10201TLF-PCIEx4-FCI.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_conn_fci_conn_10018784_10201tlf_pciex4_fci
+  oomp_key_full: oomp_footprint_cpavlina_conn_fci_conn_10018784_10201tlf_pciex4_fci
   oomp_key_simple: cpavlina_conn_fci_conn_10018784_10201tlf_pciex4_fci
   owner: cpavlina
   repo:

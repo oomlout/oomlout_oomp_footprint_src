@@ -17,9 +17,18 @@
   oomp:
     footprint_name: tssop_24_w4_40mm
     library_name: digikey_footprints
+    md5: 917f34176d859b1f2b868f213f670afe
+    md5_10: 917f34176d
+    md5_5: 917f3
+    md5_6: 917f34
+    oomp_key: oomp_digikey_digikey_footprints_tssop_24_w4_40mm
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_tssop_24_w4_40mm
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_tssop_24_w4_40mm_917f34
+    oomp_key_simple: digikey_digikey_footprints_tssop_24_w4_40mm
     original_filename: digikey-kicad-library/digikey-footprints.pretty/TSSOP-24_W4.40mm.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_tssop_24_w4_40mm
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_tssop_24_w4_40mm
   oomp_key_simple: digikey_digikey_footprints_tssop_24_w4_40mm
   owner: digikey
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: rj45_amphenol_rjhse538x_02
     library_name: connector_rj
+    md5: facfea2b14de964ce34cce7241b9704e
+    md5_10: facfea2b14
+    md5_5: facfe
+    md5_6: facfea
+    oomp_key: oomp_kicad_connector_rj_rj45_amphenol_rjhse538x_02
+    oomp_key_extra: oomp_footprint_kicad_connector_rj_rj45_amphenol_rjhse538x_02
+    oomp_key_full: oomp_footprint_kicad_connector_rj_rj45_amphenol_rjhse538x_02_facfea
+    oomp_key_simple: kicad_connector_rj_rj45_amphenol_rjhse538x_02
     original_filename: libraries/kicad-footprints/Connector_RJ.pretty/RJ45_Amphenol_RJHSE538X-02.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_rj_rj45_amphenol_rjhse538x_02
+  oomp_key_full: oomp_footprint_kicad_connector_rj_rj45_amphenol_rjhse538x_02
   oomp_key_simple: kicad_connector_rj_rj45_amphenol_rjhse538x_02
   owner: kicad
   repo:

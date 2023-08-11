@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_kpsa02
     library_name: xess
+    md5: f994aa24aef32167f4e008a1b804540b
+    md5_10: f994aa24ae
+    md5_5: f994a
+    md5_6: f994aa
+    oomp_key: oomp_xesscorp_xess_xess_kpsa02
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_kpsa02
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_kpsa02_f994aa
+    oomp_key_simple: xesscorp_xess_xess_kpsa02
     original_filename: xess.pretty/xess-KPSA02.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_kpsa02
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_kpsa02
   oomp_key_simple: xesscorp_xess_xess_kpsa02
   owner: xesscorp
   repo:

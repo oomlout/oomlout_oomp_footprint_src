@@ -18,9 +18,18 @@
   oomp:
     footprint_name: qfn_64_1ep_9x9mm_p0_5mm_ep7_5x7_5mm
     library_name: rhais_package_qfn
+    md5: 7fb8261d0a231ccaa4ce0cad19a3f897
+    md5_10: 7fb8261d0a
+    md5_5: 7fb82
+    md5_6: 7fb826
+    oomp_key: oomp_dx_mon_rhais_package_qfn_qfn_64_1ep_9x9mm_p0_5mm_ep7_5x7_5mm
+    oomp_key_extra: oomp_footprint_dx_mon_rhais_package_qfn_qfn_64_1ep_9x9mm_p0_5mm_ep7_5x7_5mm
+    oomp_key_full: oomp_footprint_dx_mon_rhais_package_qfn_qfn_64_1ep_9x9mm_p0_5mm_ep7_5x7_5mm_7fb826
+    oomp_key_simple: dx_mon_rhais_package_qfn_qfn_64_1ep_9x9mm_p0_5mm_ep7_5x7_5mm
     original_filename: rhais_package-qfn.pretty/QFN-64-1EP_9x9mm_P0.5mm_EP7.5x7.5mm.kicad_mod
     owner_name: dx_mon
   oomp_key: oomp_dx_mon_rhais_package_qfn_qfn_64_1ep_9x9mm_p0_5mm_ep7_5x7_5mm
+  oomp_key_full: oomp_footprint_dx_mon_rhais_package_qfn_qfn_64_1ep_9x9mm_p0_5mm_ep7_5x7_5mm
   oomp_key_simple: dx_mon_rhais_package_qfn_qfn_64_1ep_9x9mm_p0_5mm_ep7_5x7_5mm
   owner: DX-MON
   repo:

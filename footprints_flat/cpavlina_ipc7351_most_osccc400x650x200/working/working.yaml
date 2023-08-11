@@ -17,9 +17,18 @@
   oomp:
     footprint_name: osccc400x650x200
     library_name: ipc7351_most
+    md5: 0ec966f7ecc1192daf3cea331b4d4995
+    md5_10: 0ec966f7ec
+    md5_5: 0ec96
+    md5_6: 0ec966
+    oomp_key: oomp_cpavlina_ipc7351_most_osccc400x650x200
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_most_osccc400x650x200
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_most_osccc400x650x200_0ec966
+    oomp_key_simple: cpavlina_ipc7351_most_osccc400x650x200
     original_filename: kicad-pcblib/IPC7351-Most.pretty/OSCCC400X650X200.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_most_osccc400x650x200
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_most_osccc400x650x200
   oomp_key_simple: cpavlina_ipc7351_most_osccc400x650x200
   owner: cpavlina
   repo:

@@ -18,9 +18,18 @@
   oomp:
     footprint_name: molex_minifit_jr_5569_10a2_2x05x4_20mm_angled
     library_name: usst_footprints
+    md5: 8e0a888047cf64a73e3153b4fdda43b3
+    md5_10: 8e0a888047
+    md5_5: 8e0a8
+    md5_6: 8e0a88
+    oomp_key: oomp_uofsspaceteam_usst_footprints_molex_minifit_jr_5569_10a2_2x05x4_20mm_angled
+    oomp_key_extra: oomp_footprint_uofsspaceteam_usst_footprints_molex_minifit_jr_5569_10a2_2x05x4_20mm_angled
+    oomp_key_full: oomp_footprint_uofsspaceteam_usst_footprints_molex_minifit_jr_5569_10a2_2x05x4_20mm_angled_8e0a88
+    oomp_key_simple: uofsspaceteam_usst_footprints_molex_minifit_jr_5569_10a2_2x05x4_20mm_angled
     original_filename: USST-footprints.pretty/Molex_MiniFit-JR-5569-10A2_2x05x4.20mm_Angled.kicad_mod
     owner_name: uofsspaceteam
   oomp_key: oomp_uofsspaceteam_usst_footprints_molex_minifit_jr_5569_10a2_2x05x4_20mm_angled
+  oomp_key_full: oomp_footprint_uofsspaceteam_usst_footprints_molex_minifit_jr_5569_10a2_2x05x4_20mm_angled
   oomp_key_simple: uofsspaceteam_usst_footprints_molex_minifit_jr_5569_10a2_2x05x4_20mm_angled
   owner: UofSSpaceTeam
   repo:

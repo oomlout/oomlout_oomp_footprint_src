@@ -18,9 +18,18 @@
   oomp:
     footprint_name: texas_pwp0020a
     library_name: package_so
+    md5: 4d1dbaad76d32c74ed3d43200f6f26d9
+    md5_10: 4d1dbaad76
+    md5_5: 4d1db
+    md5_6: 4d1dba
+    oomp_key: oomp_kicad_package_so_texas_pwp0020a
+    oomp_key_extra: oomp_footprint_kicad_package_so_texas_pwp0020a
+    oomp_key_full: oomp_footprint_kicad_package_so_texas_pwp0020a_4d1dba
+    oomp_key_simple: kicad_package_so_texas_pwp0020a
     original_filename: libraries/kicad-footprints/Package_SO.pretty/Texas_PWP0020A.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_so_texas_pwp0020a
+  oomp_key_full: oomp_footprint_kicad_package_so_texas_pwp0020a
   oomp_key_simple: kicad_package_so_texas_pwp0020a
   owner: kicad
   repo:

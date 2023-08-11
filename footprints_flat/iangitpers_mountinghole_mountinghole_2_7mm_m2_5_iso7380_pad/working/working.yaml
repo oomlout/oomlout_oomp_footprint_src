@@ -19,9 +19,18 @@
   oomp:
     footprint_name: mountinghole_2_7mm_m2_5_iso7380_pad
     library_name: mountinghole
+    md5: ad0e82e753228849a391cf7cd087b87e
+    md5_10: ad0e82e753
+    md5_5: ad0e8
+    md5_6: ad0e82
+    oomp_key: oomp_iangitpers_mountinghole_mountinghole_2_7mm_m2_5_iso7380_pad
+    oomp_key_extra: oomp_footprint_iangitpers_mountinghole_mountinghole_2_7mm_m2_5_iso7380_pad
+    oomp_key_full: oomp_footprint_iangitpers_mountinghole_mountinghole_2_7mm_m2_5_iso7380_pad_ad0e82
+    oomp_key_simple: iangitpers_mountinghole_mountinghole_2_7mm_m2_5_iso7380_pad
     original_filename: 4a/MountingHole.pretty/MountingHole_2.7mm_M2.5_ISO7380_Pad.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_mountinghole_mountinghole_2_7mm_m2_5_iso7380_pad
+  oomp_key_full: oomp_footprint_iangitpers_mountinghole_mountinghole_2_7mm_m2_5_iso7380_pad
   oomp_key_simple: iangitpers_mountinghole_mountinghole_2_7mm_m2_5_iso7380_pad
   owner: Iangitpers
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: soic_16_w3_90mm
     library_name: digikey_footprints
+    md5: c04a531506e418cd0363e6000c26138d
+    md5_10: c04a531506
+    md5_5: c04a5
+    md5_6: c04a53
+    oomp_key: oomp_digikey_digikey_footprints_soic_16_w3_90mm
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_soic_16_w3_90mm
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_soic_16_w3_90mm_c04a53
+    oomp_key_simple: digikey_digikey_footprints_soic_16_w3_90mm
     original_filename: digikey-kicad-library/digikey-footprints.pretty/SOIC-16_W3.90mm.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_soic_16_w3_90mm
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_soic_16_w3_90mm
   oomp_key_simple: digikey_digikey_footprints_soic_16_w3_90mm
   owner: digikey
   repo:

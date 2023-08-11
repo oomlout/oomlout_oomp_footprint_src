@@ -17,9 +17,18 @@
   oomp:
     footprint_name: st_lis3dh
     library_name: sh_ic_custom
+    md5: 1417b9ce526b725caee62395fe1ce6d3
+    md5_10: 1417b9ce52
+    md5_5: 1417b
+    md5_6: 1417b9
+    oomp_key: oomp_stefanhamminga_sh_ic_custom_st_lis3dh
+    oomp_key_extra: oomp_footprint_stefanhamminga_sh_ic_custom_st_lis3dh
+    oomp_key_full: oomp_footprint_stefanhamminga_sh_ic_custom_st_lis3dh_1417b9
+    oomp_key_simple: stefanhamminga_sh_ic_custom_st_lis3dh
     original_filename: SH_IC_Custom.pretty/ST_LIS3DH.kicad_mod
     owner_name: stefanhamminga
   oomp_key: oomp_stefanhamminga_sh_ic_custom_st_lis3dh
+  oomp_key_full: oomp_footprint_stefanhamminga_sh_ic_custom_st_lis3dh
   oomp_key_simple: stefanhamminga_sh_ic_custom_st_lis3dh
   owner: StefanHamminga
   repo:

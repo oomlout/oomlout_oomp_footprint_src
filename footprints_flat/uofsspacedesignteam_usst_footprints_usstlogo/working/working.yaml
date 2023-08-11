@@ -17,9 +17,18 @@
   oomp:
     footprint_name: usstlogo
     library_name: usst_footprints
+    md5: cce6c5307cac8569352190ec361af1b8
+    md5_10: cce6c5307c
+    md5_5: cce6c
+    md5_6: cce6c5
+    oomp_key: oomp_uofsspacedesignteam_usst_footprints_usstlogo
+    oomp_key_extra: oomp_footprint_uofsspacedesignteam_usst_footprints_usstlogo
+    oomp_key_full: oomp_footprint_uofsspacedesignteam_usst_footprints_usstlogo_cce6c5
+    oomp_key_simple: uofsspacedesignteam_usst_footprints_usstlogo
     original_filename: USST-footprints.pretty/USSTLOGO.kicad_mod
     owner_name: uofsspacedesignteam
   oomp_key: oomp_uofsspacedesignteam_usst_footprints_usstlogo
+  oomp_key_full: oomp_footprint_uofsspacedesignteam_usst_footprints_usstlogo
   oomp_key_simple: uofsspacedesignteam_usst_footprints_usstlogo
   owner: UofSSpaceDesignTeam
   repo:

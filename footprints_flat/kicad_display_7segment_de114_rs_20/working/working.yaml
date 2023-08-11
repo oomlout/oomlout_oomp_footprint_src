@@ -17,9 +17,18 @@
   oomp:
     footprint_name: de114_rs_20
     library_name: display_7segment
+    md5: 4ecbbdb6e5e5f3a18d1d4c7875d8342a
+    md5_10: 4ecbbdb6e5
+    md5_5: 4ecbb
+    md5_6: 4ecbbd
+    oomp_key: oomp_kicad_display_7segment_de114_rs_20
+    oomp_key_extra: oomp_footprint_kicad_display_7segment_de114_rs_20
+    oomp_key_full: oomp_footprint_kicad_display_7segment_de114_rs_20_4ecbbd
+    oomp_key_simple: kicad_display_7segment_de114_rs_20
     original_filename: libraries/kicad-footprints/Display_7Segment.pretty/DE114-RS-20.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_display_7segment_de114_rs_20
+  oomp_key_full: oomp_footprint_kicad_display_7segment_de114_rs_20
   oomp_key_simple: kicad_display_7segment_de114_rs_20
   owner: kicad
   repo:

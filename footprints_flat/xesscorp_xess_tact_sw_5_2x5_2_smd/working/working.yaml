@@ -17,9 +17,18 @@
   oomp:
     footprint_name: tact_sw_5_2x5_2_smd
     library_name: xess
+    md5: b3510037190c3dbd5231db8141d6936c
+    md5_10: b351003719
+    md5_5: b3510
+    md5_6: b35100
+    oomp_key: oomp_xesscorp_xess_tact_sw_5_2x5_2_smd
+    oomp_key_extra: oomp_footprint_xesscorp_xess_tact_sw_5_2x5_2_smd
+    oomp_key_full: oomp_footprint_xesscorp_xess_tact_sw_5_2x5_2_smd_b35100
+    oomp_key_simple: xesscorp_xess_tact_sw_5_2x5_2_smd
     original_filename: xess.pretty/tact_sw_5.2x5.2_smd.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_tact_sw_5_2x5_2_smd
+  oomp_key_full: oomp_footprint_xesscorp_xess_tact_sw_5_2x5_2_smd
   oomp_key_simple: xesscorp_xess_tact_sw_5_2x5_2_smd
   owner: xesscorp
   repo:

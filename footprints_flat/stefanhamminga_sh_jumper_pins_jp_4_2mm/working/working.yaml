@@ -17,9 +17,18 @@
   oomp:
     footprint_name: jp_4_2mm
     library_name: sh_jumper_pins
+    md5: 7f64e017ec494614933b421089a42df2
+    md5_10: 7f64e017ec
+    md5_5: 7f64e
+    md5_6: 7f64e0
+    oomp_key: oomp_stefanhamminga_sh_jumper_pins_jp_4_2mm
+    oomp_key_extra: oomp_footprint_stefanhamminga_sh_jumper_pins_jp_4_2mm
+    oomp_key_full: oomp_footprint_stefanhamminga_sh_jumper_pins_jp_4_2mm_7f64e0
+    oomp_key_simple: stefanhamminga_sh_jumper_pins_jp_4_2mm
     original_filename: SH_Jumper_Pins.pretty/JP-4_2mm.kicad_mod
     owner_name: stefanhamminga
   oomp_key: oomp_stefanhamminga_sh_jumper_pins_jp_4_2mm
+  oomp_key_full: oomp_footprint_stefanhamminga_sh_jumper_pins_jp_4_2mm
   oomp_key_simple: stefanhamminga_sh_jumper_pins_jp_4_2mm
   owner: StefanHamminga
   repo:

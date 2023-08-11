@@ -18,9 +18,18 @@
   oomp:
     footprint_name: capcaf76p160x320x135_8
     library_name: ipc7351_nominal
+    md5: 8bdc42d40c9bee4ac27cb773c9a41585
+    md5_10: 8bdc42d40c
+    md5_5: 8bdc4
+    md5_6: 8bdc42
+    oomp_key: oomp_cpavlina_ipc7351_nominal_capcaf76p160x320x135_8
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_nominal_capcaf76p160x320x135_8
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_capcaf76p160x320x135_8_8bdc42
+    oomp_key_simple: cpavlina_ipc7351_nominal_capcaf76p160x320x135_8
     original_filename: kicad-pcblib/IPC7351-Nominal.pretty/CAPCAF76P160X320X135-8.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_nominal_capcaf76p160x320x135_8
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_capcaf76p160x320x135_8
   oomp_key_simple: cpavlina_ipc7351_nominal_capcaf76p160x320x135_8
   owner: cpavlina
   repo:

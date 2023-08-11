@@ -17,9 +17,18 @@
   oomp:
     footprint_name: bga_200_10_0x14_5mm_layout12x22_p0_80x0_65mm
     library_name: package_bga
+    md5: cb1a87033c14e16bf5d4da1a60ddf4fa
+    md5_10: cb1a87033c
+    md5_5: cb1a8
+    md5_6: cb1a87
+    oomp_key: oomp_kicad_package_bga_bga_200_10_0x14_5mm_layout12x22_p0_80x0_65mm
+    oomp_key_extra: oomp_footprint_kicad_package_bga_bga_200_10_0x14_5mm_layout12x22_p0_80x0_65mm
+    oomp_key_full: oomp_footprint_kicad_package_bga_bga_200_10_0x14_5mm_layout12x22_p0_80x0_65mm_cb1a87
+    oomp_key_simple: kicad_package_bga_bga_200_10_0x14_5mm_layout12x22_p0_80x0_65mm
     original_filename: libraries/kicad-footprints/Package_BGA.pretty/BGA-200_10.0x14.5mm_Layout12x22_P0.80x0.65mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_bga_bga_200_10_0x14_5mm_layout12x22_p0_80x0_65mm
+  oomp_key_full: oomp_footprint_kicad_package_bga_bga_200_10_0x14_5mm_layout12x22_p0_80x0_65mm
   oomp_key_simple: kicad_package_bga_bga_200_10_0x14_5mm_layout12x22_p0_80x0_65mm
   owner: kicad
   repo:

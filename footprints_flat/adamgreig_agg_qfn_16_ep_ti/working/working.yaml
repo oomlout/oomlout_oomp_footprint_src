@@ -17,9 +17,18 @@
   oomp:
     footprint_name: qfn_16_ep_ti
     library_name: agg
+    md5: 16da3d33a504bae06069bde8c7594b7a
+    md5_10: 16da3d33a5
+    md5_5: 16da3
+    md5_6: 16da3d
+    oomp_key: oomp_adamgreig_agg_qfn_16_ep_ti
+    oomp_key_extra: oomp_footprint_adamgreig_agg_qfn_16_ep_ti
+    oomp_key_full: oomp_footprint_adamgreig_agg_qfn_16_ep_ti_16da3d
+    oomp_key_simple: adamgreig_agg_qfn_16_ep_ti
     original_filename: agg-kicad/agg.pretty/QFN-16-EP-TI.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_qfn_16_ep_ti
+  oomp_key_full: oomp_footprint_adamgreig_agg_qfn_16_ep_ti
   oomp_key_simple: adamgreig_agg_qfn_16_ep_ti
   owner: adamgreig
   repo:

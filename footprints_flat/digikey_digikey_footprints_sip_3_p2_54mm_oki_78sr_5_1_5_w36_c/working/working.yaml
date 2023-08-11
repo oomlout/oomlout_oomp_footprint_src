@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sip_3_p2_54mm_oki_78sr_5_1_5_w36_c
     library_name: digikey_footprints
+    md5: 31cf9c0ace36070eba156819d6631bd6
+    md5_10: 31cf9c0ace
+    md5_5: 31cf9
+    md5_6: 31cf9c
+    oomp_key: oomp_digikey_digikey_footprints_sip_3_p2_54mm_oki_78sr_5_1_5_w36_c
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_sip_3_p2_54mm_oki_78sr_5_1_5_w36_c
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_sip_3_p2_54mm_oki_78sr_5_1_5_w36_c_31cf9c
+    oomp_key_simple: digikey_digikey_footprints_sip_3_p2_54mm_oki_78sr_5_1_5_w36_c
     original_filename: digikey-kicad-library/digikey-footprints.pretty/SIP-3_P2.54mm_OKI-78SR-5_1.5-W36-C.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_sip_3_p2_54mm_oki_78sr_5_1_5_w36_c
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_sip_3_p2_54mm_oki_78sr_5_1_5_w36_c
   oomp_key_simple: digikey_digikey_footprints_sip_3_p2_54mm_oki_78sr_5_1_5_w36_c
   owner: digikey
   repo:

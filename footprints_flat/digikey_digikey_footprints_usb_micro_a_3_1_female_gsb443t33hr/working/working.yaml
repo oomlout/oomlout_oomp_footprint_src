@@ -17,9 +17,18 @@
   oomp:
     footprint_name: usb_micro_a_3_1_female_gsb443t33hr
     library_name: digikey_footprints
+    md5: 068bcf62607fb2d430ca678f3f24a6d7
+    md5_10: 068bcf6260
+    md5_5: 068bc
+    md5_6: 068bcf
+    oomp_key: oomp_digikey_digikey_footprints_usb_micro_a_3_1_female_gsb443t33hr
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_usb_micro_a_3_1_female_gsb443t33hr
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_usb_micro_a_3_1_female_gsb443t33hr_068bcf
+    oomp_key_simple: digikey_digikey_footprints_usb_micro_a_3_1_female_gsb443t33hr
     original_filename: digikey-kicad-library/digikey-footprints.pretty/USB_Micro_A_3.1_Female_GSB443T33HR.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_usb_micro_a_3_1_female_gsb443t33hr
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_usb_micro_a_3_1_female_gsb443t33hr
   oomp_key_simple: digikey_digikey_footprints_usb_micro_a_3_1_female_gsb443t33hr
   owner: digikey
   repo:

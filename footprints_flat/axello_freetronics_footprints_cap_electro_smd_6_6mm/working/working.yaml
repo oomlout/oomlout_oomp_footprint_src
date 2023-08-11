@@ -17,9 +17,18 @@
   oomp:
     footprint_name: cap_electro_smd_6_6mm
     library_name: freetronics_footprints
+    md5: 48df35ede10efa6cfea7fc222fe3e8a9
+    md5_10: 48df35ede1
+    md5_5: 48df3
+    md5_6: 48df35
+    oomp_key: oomp_axello_freetronics_footprints_cap_electro_smd_6_6mm
+    oomp_key_extra: oomp_footprint_axello_freetronics_footprints_cap_electro_smd_6_6mm
+    oomp_key_full: oomp_footprint_axello_freetronics_footprints_cap_electro_smd_6_6mm_48df35
+    oomp_key_simple: axello_freetronics_footprints_cap_electro_smd_6_6mm
     original_filename: kicad/mods/freetronics_footprints.pretty/CAP_ELECTRO_SMD_6.6mm.kicad_mod
     owner_name: axello
   oomp_key: oomp_axello_freetronics_footprints_cap_electro_smd_6_6mm
+  oomp_key_full: oomp_footprint_axello_freetronics_footprints_cap_electro_smd_6_6mm
   oomp_key_simple: axello_freetronics_footprints_cap_electro_smd_6_6mm
   owner: axello
   repo:

@@ -18,9 +18,18 @@
   oomp:
     footprint_name: l_sumida_cr75
     library_name: inductor_smd
+    md5: 29e4e7c644743b6eda426a3290287590
+    md5_10: 29e4e7c644
+    md5_5: 29e4e
+    md5_6: 29e4e7
+    oomp_key: oomp_kicad_inductor_smd_l_sumida_cr75
+    oomp_key_extra: oomp_footprint_kicad_inductor_smd_l_sumida_cr75
+    oomp_key_full: oomp_footprint_kicad_inductor_smd_l_sumida_cr75_29e4e7
+    oomp_key_simple: kicad_inductor_smd_l_sumida_cr75
     original_filename: libraries/kicad-footprints/Inductor_SMD.pretty/L_Sumida_CR75.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_inductor_smd_l_sumida_cr75
+  oomp_key_full: oomp_footprint_kicad_inductor_smd_l_sumida_cr75
   oomp_key_simple: kicad_inductor_smd_l_sumida_cr75
   owner: kicad
   repo:

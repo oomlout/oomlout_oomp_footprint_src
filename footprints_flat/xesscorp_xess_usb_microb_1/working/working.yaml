@@ -17,9 +17,18 @@
   oomp:
     footprint_name: usb_microb_1
     library_name: xess
+    md5: aafe4e15d04472faff78d96a831aacff
+    md5_10: aafe4e15d0
+    md5_5: aafe4
+    md5_6: aafe4e
+    oomp_key: oomp_xesscorp_xess_usb_microb_1
+    oomp_key_extra: oomp_footprint_xesscorp_xess_usb_microb_1
+    oomp_key_full: oomp_footprint_xesscorp_xess_usb_microb_1_aafe4e
+    oomp_key_simple: xesscorp_xess_usb_microb_1
     original_filename: xess.pretty/USB-microB-1.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_usb_microb_1
+  oomp_key_full: oomp_footprint_xesscorp_xess_usb_microb_1
   oomp_key_simple: xesscorp_xess_usb_microb_1
   owner: xesscorp
   repo:

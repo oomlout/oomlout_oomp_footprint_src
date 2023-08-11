@@ -18,9 +18,18 @@
   oomp:
     footprint_name: signalcommunications_we_ucf
     library_name: signalcommunications
+    md5: 720bdba816a138f0a454d5166a45aedd
+    md5_10: 720bdba816
+    md5_5: 720bd
+    md5_6: 720bdb
+    oomp_key: oomp_electroniccats_signalcommunications_signalcommunications_we_ucf
+    oomp_key_extra: oomp_footprint_electroniccats_signalcommunications_signalcommunications_we_ucf
+    oomp_key_full: oomp_footprint_electroniccats_signalcommunications_signalcommunications_we_ucf_720bdb
+    oomp_key_simple: electroniccats_signalcommunications_signalcommunications_we_ucf
     original_filename: ComponentLibrariesKicadWurthElektronik/SIGNAL-COMMUNICATIONS-rev18a/SignalCommunications.pretty/SignalCommunications-WE-UCF.kicad_mod
     owner_name: electroniccats
   oomp_key: oomp_electroniccats_signalcommunications_signalcommunications_we_ucf
+  oomp_key_full: oomp_footprint_electroniccats_signalcommunications_signalcommunications_we_ucf
   oomp_key_simple: electroniccats_signalcommunications_signalcommunications_we_ucf
   owner: ElectronicCats
   repo:

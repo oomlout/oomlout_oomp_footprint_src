@@ -17,9 +17,18 @@
   oomp:
     footprint_name: iql24040a050v_power_supply
     library_name: usst_footprints
+    md5: 0cbc50e09db8a7a7f84a90a1c0f537f6
+    md5_10: 0cbc50e09d
+    md5_5: 0cbc5
+    md5_6: 0cbc50
+    oomp_key: oomp_uofsspaceteam_usst_footprints_iql24040a050v_power_supply
+    oomp_key_extra: oomp_footprint_uofsspaceteam_usst_footprints_iql24040a050v_power_supply
+    oomp_key_full: oomp_footprint_uofsspaceteam_usst_footprints_iql24040a050v_power_supply_0cbc50
+    oomp_key_simple: uofsspaceteam_usst_footprints_iql24040a050v_power_supply
     original_filename: USST-footprints.pretty/IQL24040A050V_Power_Supply.kicad_mod
     owner_name: uofsspaceteam
   oomp_key: oomp_uofsspaceteam_usst_footprints_iql24040a050v_power_supply
+  oomp_key_full: oomp_footprint_uofsspaceteam_usst_footprints_iql24040a050v_power_supply
   oomp_key_simple: uofsspaceteam_usst_footprints_iql24040a050v_power_supply
   owner: UofSSpaceTeam
   repo:

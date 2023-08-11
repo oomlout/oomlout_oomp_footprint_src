@@ -19,9 +19,18 @@
   oomp:
     footprint_name: mpd_bk_912
     library_name: manuf
+    md5: 0ed9508cd8d46227f4dddf174f9277d5
+    md5_10: 0ed9508cd8
+    md5_5: 0ed95
+    md5_6: 0ed950
+    oomp_key: oomp_iangitpers_manuf_mpd_bk_912
+    oomp_key_extra: oomp_footprint_iangitpers_manuf_mpd_bk_912
+    oomp_key_full: oomp_footprint_iangitpers_manuf_mpd_bk_912_0ed950
+    oomp_key_simple: iangitpers_manuf_mpd_bk_912
     original_filename: 4a/manuf.pretty/MPD-BK-912.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_manuf_mpd_bk_912
+  oomp_key_full: oomp_footprint_iangitpers_manuf_mpd_bk_912
   oomp_key_simple: iangitpers_manuf_mpd_bk_912
   owner: Iangitpers
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: hybrid_diode_smb_smc
     library_name: primarypoints
+    md5: fa5f88ae3935cc675d62823f5b34a7ee
+    md5_10: fa5f88ae39
+    md5_5: fa5f8
+    md5_6: fa5f88
+    oomp_key: oomp_zanekaminski_primarypoints_hybrid_diode_smb_smc
+    oomp_key_extra: oomp_footprint_zanekaminski_primarypoints_hybrid_diode_smb_smc
+    oomp_key_full: oomp_footprint_zanekaminski_primarypoints_hybrid_diode_smb_smc_fa5f88
+    oomp_key_simple: zanekaminski_primarypoints_hybrid_diode_smb_smc
     original_filename: primarypoints.pretty/Hybrid_Diode_SMB_SMC.kicad_mod
     owner_name: zanekaminski
   oomp_key: oomp_zanekaminski_primarypoints_hybrid_diode_smb_smc
+  oomp_key_full: oomp_footprint_zanekaminski_primarypoints_hybrid_diode_smb_smc
   oomp_key_simple: zanekaminski_primarypoints_hybrid_diode_smb_smc
   owner: ZaneKaminski
   repo:

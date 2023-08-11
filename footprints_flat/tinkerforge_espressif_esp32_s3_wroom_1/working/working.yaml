@@ -14,9 +14,18 @@
   oomp:
     footprint_name: esp32_s3_wroom_1
     library_name: espressif
+    md5: d98ec79c3254e38d20daff06584a43ea
+    md5_10: d98ec79c32
+    md5_5: d98ec
+    md5_6: d98ec7
+    oomp_key: oomp_tinkerforge_espressif_esp32_s3_wroom_1
+    oomp_key_extra: oomp_footprint_tinkerforge_espressif_esp32_s3_wroom_1
+    oomp_key_full: oomp_footprint_tinkerforge_espressif_esp32_s3_wroom_1_d98ec7
+    oomp_key_simple: tinkerforge_espressif_esp32_s3_wroom_1
     original_filename: kicad-libraries/footprints/Espressif.pretty/ESP32-S3-WROOM-1.kicad_mod
     owner_name: tinkerforge
   oomp_key: oomp_tinkerforge_espressif_esp32_s3_wroom_1
+  oomp_key_full: oomp_footprint_tinkerforge_espressif_esp32_s3_wroom_1
   oomp_key_simple: tinkerforge_espressif_esp32_s3_wroom_1
   owner: Tinkerforge
   repo:

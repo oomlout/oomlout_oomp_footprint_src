@@ -17,9 +17,18 @@
   oomp:
     footprint_name: nxp_dhvqfn24
     library_name: manuf
+    md5: 3fa58f9aabde1846459181983f9087ff
+    md5_10: 3fa58f9aab
+    md5_5: 3fa58
+    md5_6: 3fa58f
+    oomp_key: oomp_cpavlina_manuf_nxp_dhvqfn24
+    oomp_key_extra: oomp_footprint_cpavlina_manuf_nxp_dhvqfn24
+    oomp_key_full: oomp_footprint_cpavlina_manuf_nxp_dhvqfn24_3fa58f
+    oomp_key_simple: cpavlina_manuf_nxp_dhvqfn24
     original_filename: kicad-pcblib/manuf.pretty/NXP-DHVQFN24.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_manuf_nxp_dhvqfn24
+  oomp_key_full: oomp_footprint_cpavlina_manuf_nxp_dhvqfn24
   oomp_key_simple: cpavlina_manuf_nxp_dhvqfn24
   owner: cpavlina
   repo:

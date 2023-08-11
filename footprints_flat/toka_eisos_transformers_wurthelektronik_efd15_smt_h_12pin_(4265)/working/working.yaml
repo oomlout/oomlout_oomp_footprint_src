@@ -17,9 +17,18 @@
   oomp:
     footprint_name: efd15_smt_h_12pin_(4265)
     library_name: transformers_wurthelektronik
+    md5: 8ab0ec5fa73d9efea738ffb5c8064ad1
+    md5_10: 8ab0ec5fa7
+    md5_5: 8ab0e
+    md5_6: 8ab0ec
+    oomp_key: oomp_toka_eisos_transformers_wurthelektronik_efd15_smt_h_12pin_(4265)
+    oomp_key_extra: oomp_footprint_toka_eisos_transformers_wurthelektronik_efd15_smt_h_12pin_(4265)
+    oomp_key_full: oomp_footprint_toka_eisos_transformers_wurthelektronik_efd15_smt_h_12pin_(4265)_8ab0ec
+    oomp_key_simple: toka_eisos_transformers_wurthelektronik_efd15_smt_h_12pin_(4265)
     original_filename: Transformers_WurthElektronik.pretty/EFD15_SMT_H_12PIN_(4265).kicad_mod
     owner_name: toka_eisos
   oomp_key: oomp_toka_eisos_transformers_wurthelektronik_efd15_smt_h_12pin_(4265)
+  oomp_key_full: oomp_footprint_toka_eisos_transformers_wurthelektronik_efd15_smt_h_12pin_(4265)
   oomp_key_simple: toka_eisos_transformers_wurthelektronik_efd15_smt_h_12pin_(4265)
   owner: toka-eisos
   repo:

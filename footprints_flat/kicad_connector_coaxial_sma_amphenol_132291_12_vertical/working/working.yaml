@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sma_amphenol_132291_12_vertical
     library_name: connector_coaxial
+    md5: a450db8243b3c4bc059247a13c2aab71
+    md5_10: a450db8243
+    md5_5: a450d
+    md5_6: a450db
+    oomp_key: oomp_kicad_connector_coaxial_sma_amphenol_132291_12_vertical
+    oomp_key_extra: oomp_footprint_kicad_connector_coaxial_sma_amphenol_132291_12_vertical
+    oomp_key_full: oomp_footprint_kicad_connector_coaxial_sma_amphenol_132291_12_vertical_a450db
+    oomp_key_simple: kicad_connector_coaxial_sma_amphenol_132291_12_vertical
     original_filename: libraries/kicad-footprints/Connector_Coaxial.pretty/SMA_Amphenol_132291-12_Vertical.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_coaxial_sma_amphenol_132291_12_vertical
+  oomp_key_full: oomp_footprint_kicad_connector_coaxial_sma_amphenol_132291_12_vertical
   oomp_key_simple: kicad_connector_coaxial_sma_amphenol_132291_12_vertical
   owner: kicad
   repo:

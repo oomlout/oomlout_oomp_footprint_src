@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_protocolumn_gnd
     library_name: xess
+    md5: 31c6b0b8e1a9ca6eeaf043f1cbb3e33c
+    md5_10: 31c6b0b8e1
+    md5_5: 31c6b
+    md5_6: 31c6b0
+    oomp_key: oomp_xesscorp_xess_xess_protocolumn_gnd
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_protocolumn_gnd
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_protocolumn_gnd_31c6b0
+    oomp_key_simple: xesscorp_xess_xess_protocolumn_gnd
     original_filename: xess.pretty/xess-PROTOCOLUMN-GND.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_protocolumn_gnd
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_protocolumn_gnd
   oomp_key_simple: xesscorp_xess_xess_protocolumn_gnd
   owner: xesscorp
   repo:

@@ -18,9 +18,18 @@
   oomp:
     footprint_name: rj45_hanrun_hr911105a_horizontal
     library_name: connector_rj
+    md5: 44a9d1286a016b62538e49a9f66f7400
+    md5_10: 44a9d1286a
+    md5_5: 44a9d
+    md5_6: 44a9d1
+    oomp_key: oomp_kicad_connector_rj_rj45_hanrun_hr911105a_horizontal
+    oomp_key_extra: oomp_footprint_kicad_connector_rj_rj45_hanrun_hr911105a_horizontal
+    oomp_key_full: oomp_footprint_kicad_connector_rj_rj45_hanrun_hr911105a_horizontal_44a9d1
+    oomp_key_simple: kicad_connector_rj_rj45_hanrun_hr911105a_horizontal
     original_filename: libraries/kicad-footprints/Connector_RJ.pretty/RJ45_Hanrun_HR911105A_Horizontal.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_rj_rj45_hanrun_hr911105a_horizontal
+  oomp_key_full: oomp_footprint_kicad_connector_rj_rj45_hanrun_hr911105a_horizontal
   oomp_key_simple: kicad_connector_rj_rj45_hanrun_hr911105a_horizontal
   owner: kicad
   repo:

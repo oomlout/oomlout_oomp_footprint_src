@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sw_spdt
     library_name: kit_dev_coldfire
+    md5: 6f6dc34dd1a22db89eb99a75fc81ae39
+    md5_10: 6f6dc34dd1
+    md5_5: 6f6dc
+    md5_6: 6f6dc3
+    oomp_key: oomp_axello_kit_dev_coldfire_sw_spdt
+    oomp_key_extra: oomp_footprint_axello_kit_dev_coldfire_sw_spdt
+    oomp_key_full: oomp_footprint_axello_kit_dev_coldfire_sw_spdt_6f6dc3
+    oomp_key_simple: axello_kit_dev_coldfire_sw_spdt
     original_filename: kicad/demos/kit-dev-coldfire-xilinx_5213/kit-dev-coldfire.pretty/SW_SPDT.kicad_mod
     owner_name: axello
   oomp_key: oomp_axello_kit_dev_coldfire_sw_spdt
+  oomp_key_full: oomp_footprint_axello_kit_dev_coldfire_sw_spdt
   oomp_key_simple: axello_kit_dev_coldfire_sw_spdt
   owner: axello
   repo:

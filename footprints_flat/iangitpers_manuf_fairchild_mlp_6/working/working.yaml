@@ -19,9 +19,18 @@
   oomp:
     footprint_name: fairchild_mlp_6
     library_name: manuf
+    md5: bde031f46b38da42b2bb46248003e114
+    md5_10: bde031f46b
+    md5_5: bde03
+    md5_6: bde031
+    oomp_key: oomp_iangitpers_manuf_fairchild_mlp_6
+    oomp_key_extra: oomp_footprint_iangitpers_manuf_fairchild_mlp_6
+    oomp_key_full: oomp_footprint_iangitpers_manuf_fairchild_mlp_6_bde031
+    oomp_key_simple: iangitpers_manuf_fairchild_mlp_6
     original_filename: 4a/manuf.pretty/FAIRCHILD-MLP-6.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_manuf_fairchild_mlp_6
+  oomp_key_full: oomp_footprint_iangitpers_manuf_fairchild_mlp_6
   oomp_key_simple: iangitpers_manuf_fairchild_mlp_6
   owner: Iangitpers
   repo:

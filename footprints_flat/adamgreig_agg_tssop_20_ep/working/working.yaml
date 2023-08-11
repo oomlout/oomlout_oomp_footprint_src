@@ -17,9 +17,18 @@
   oomp:
     footprint_name: tssop_20_ep
     library_name: agg
+    md5: 827fdb6103160ae70862fd7fdc4de612
+    md5_10: 827fdb6103
+    md5_5: 827fd
+    md5_6: 827fdb
+    oomp_key: oomp_adamgreig_agg_tssop_20_ep
+    oomp_key_extra: oomp_footprint_adamgreig_agg_tssop_20_ep
+    oomp_key_full: oomp_footprint_adamgreig_agg_tssop_20_ep_827fdb
+    oomp_key_simple: adamgreig_agg_tssop_20_ep
     original_filename: agg-kicad/agg.pretty/TSSOP-20-EP.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_tssop_20_ep
+  oomp_key_full: oomp_footprint_adamgreig_agg_tssop_20_ep
   oomp_key_simple: adamgreig_agg_tssop_20_ep
   owner: adamgreig
   repo:

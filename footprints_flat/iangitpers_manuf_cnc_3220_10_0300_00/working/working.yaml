@@ -19,9 +19,18 @@
   oomp:
     footprint_name: cnc_3220_10_0300_00
     library_name: manuf
+    md5: a0d8a070815654f7136f452fbb5dfa67
+    md5_10: a0d8a07081
+    md5_5: a0d8a
+    md5_6: a0d8a0
+    oomp_key: oomp_iangitpers_manuf_cnc_3220_10_0300_00
+    oomp_key_extra: oomp_footprint_iangitpers_manuf_cnc_3220_10_0300_00
+    oomp_key_full: oomp_footprint_iangitpers_manuf_cnc_3220_10_0300_00_a0d8a0
+    oomp_key_simple: iangitpers_manuf_cnc_3220_10_0300_00
     original_filename: 4a/manuf.pretty/CNC-3220-10-0300-00.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_manuf_cnc_3220_10_0300_00
+  oomp_key_full: oomp_footprint_iangitpers_manuf_cnc_3220_10_0300_00
   oomp_key_simple: iangitpers_manuf_cnc_3220_10_0300_00
   owner: Iangitpers
   repo:

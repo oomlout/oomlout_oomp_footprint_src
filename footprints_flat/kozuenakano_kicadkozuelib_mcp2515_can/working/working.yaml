@@ -17,9 +17,18 @@
   oomp:
     footprint_name: mcp2515_can
     library_name: kicadkozuelib
+    md5: a86f98ce42d40455d7eace6f54f30b66
+    md5_10: a86f98ce42
+    md5_5: a86f9
+    md5_6: a86f98
+    oomp_key: oomp_kozuenakano_kicadkozuelib_mcp2515_can
+    oomp_key_extra: oomp_footprint_kozuenakano_kicadkozuelib_mcp2515_can
+    oomp_key_full: oomp_footprint_kozuenakano_kicadkozuelib_mcp2515_can_a86f98
+    oomp_key_simple: kozuenakano_kicadkozuelib_mcp2515_can
     original_filename: KiCADKozueLib.pretty/MCP2515_CAN.kicad_mod
     owner_name: kozuenakano
   oomp_key: oomp_kozuenakano_kicadkozuelib_mcp2515_can
+  oomp_key_full: oomp_footprint_kozuenakano_kicadkozuelib_mcp2515_can
   oomp_key_simple: kozuenakano_kicadkozuelib_mcp2515_can
   owner: KozueNakano
   repo:

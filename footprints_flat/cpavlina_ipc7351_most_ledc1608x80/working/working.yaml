@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ledc1608x80
     library_name: ipc7351_most
+    md5: 01aab575795de5d80abe78744d618f98
+    md5_10: 01aab57579
+    md5_5: 01aab
+    md5_6: 01aab5
+    oomp_key: oomp_cpavlina_ipc7351_most_ledc1608x80
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_most_ledc1608x80
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_most_ledc1608x80_01aab5
+    oomp_key_simple: cpavlina_ipc7351_most_ledc1608x80
     original_filename: kicad-pcblib/IPC7351-Most.pretty/LEDC1608X80.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_most_ledc1608x80
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_most_ledc1608x80
   oomp_key_simple: cpavlina_ipc7351_most_ledc1608x80
   owner: cpavlina
   repo:

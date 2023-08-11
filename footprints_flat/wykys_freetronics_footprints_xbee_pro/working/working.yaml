@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xbee_pro
     library_name: freetronics_footprints
+    md5: c050544d439941f483c89d2e6a991700
+    md5_10: c050544d43
+    md5_5: c0505
+    md5_6: c05054
+    oomp_key: oomp_wykys_freetronics_footprints_xbee_pro
+    oomp_key_extra: oomp_footprint_wykys_freetronics_footprints_xbee_pro
+    oomp_key_full: oomp_footprint_wykys_freetronics_footprints_xbee_pro_c05054
+    oomp_key_simple: wykys_freetronics_footprints_xbee_pro
     original_filename: kicad/mods/freetronics_footprints.pretty/XBEE_PRO.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_freetronics_footprints_xbee_pro
+  oomp_key_full: oomp_footprint_wykys_freetronics_footprints_xbee_pro
   oomp_key_simple: wykys_freetronics_footprints_xbee_pro
   owner: wykys
   repo:

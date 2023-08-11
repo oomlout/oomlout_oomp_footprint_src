@@ -17,9 +17,18 @@
   oomp:
     footprint_name: mx225
     library_name: acheron_mx
+    md5: f7f145c324fa2741da153fba8be45f44
+    md5_10: f7f145c324
+    md5_5: f7f14
+    md5_6: f7f145
+    oomp_key: oomp_acheronproject_acheron_mx_mx225
+    oomp_key_extra: oomp_footprint_acheronproject_acheron_mx_mx225
+    oomp_key_full: oomp_footprint_acheronproject_acheron_mx_mx225_f7f145
+    oomp_key_simple: acheronproject_acheron_mx_mx225
     original_filename: acheron_MX.pretty/MX225.kicad_mod
     owner_name: acheronproject
   oomp_key: oomp_acheronproject_acheron_mx_mx225
+  oomp_key_full: oomp_footprint_acheronproject_acheron_mx_mx225
   oomp_key_simple: acheronproject_acheron_mx_mx225
   owner: AcheronProject
   repo:

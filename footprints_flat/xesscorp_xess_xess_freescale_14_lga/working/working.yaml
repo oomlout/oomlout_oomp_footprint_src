@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_freescale_14_lga
     library_name: xess
+    md5: bda52cada5cdfb1716e48557fc944eb5
+    md5_10: bda52cada5
+    md5_5: bda52
+    md5_6: bda52c
+    oomp_key: oomp_xesscorp_xess_xess_freescale_14_lga
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_freescale_14_lga
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_freescale_14_lga_bda52c
+    oomp_key_simple: xesscorp_xess_xess_freescale_14_lga
     original_filename: xess.pretty/xess-FREESCALE-14_LGA.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_freescale_14_lga
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_freescale_14_lga
   oomp_key_simple: xesscorp_xess_xess_freescale_14_lga
   owner: xesscorp
   repo:

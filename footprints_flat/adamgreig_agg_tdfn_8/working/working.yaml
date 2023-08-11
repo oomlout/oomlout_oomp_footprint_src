@@ -17,9 +17,18 @@
   oomp:
     footprint_name: tdfn_8
     library_name: agg
+    md5: 3cf6692d1cdb0904fff47308c4d5310f
+    md5_10: 3cf6692d1c
+    md5_5: 3cf66
+    md5_6: 3cf669
+    oomp_key: oomp_adamgreig_agg_tdfn_8
+    oomp_key_extra: oomp_footprint_adamgreig_agg_tdfn_8
+    oomp_key_full: oomp_footprint_adamgreig_agg_tdfn_8_3cf669
+    oomp_key_simple: adamgreig_agg_tdfn_8
     original_filename: agg-kicad/agg.pretty/TDFN-8.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_tdfn_8
+  oomp_key_full: oomp_footprint_adamgreig_agg_tdfn_8
   oomp_key_simple: adamgreig_agg_tdfn_8
   owner: adamgreig
   repo:

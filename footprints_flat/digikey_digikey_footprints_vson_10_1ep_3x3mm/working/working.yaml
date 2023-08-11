@@ -17,9 +17,18 @@
   oomp:
     footprint_name: vson_10_1ep_3x3mm
     library_name: digikey_footprints
+    md5: 2370100881ec95890be96865b0f9e34f
+    md5_10: '2370100881'
+    md5_5: '23701'
+    md5_6: '237010'
+    oomp_key: oomp_digikey_digikey_footprints_vson_10_1ep_3x3mm
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_vson_10_1ep_3x3mm
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_vson_10_1ep_3x3mm_237010
+    oomp_key_simple: digikey_digikey_footprints_vson_10_1ep_3x3mm
     original_filename: digikey-kicad-library/digikey-footprints.pretty/VSON-10-1EP_3x3mm.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_vson_10_1ep_3x3mm
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_vson_10_1ep_3x3mm
   oomp_key_simple: digikey_digikey_footprints_vson_10_1ep_3x3mm
   owner: digikey
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ft_module_imu9
     library_name: freetronics_footprints
+    md5: 292e5c5bc717e7bc1bf326e20dd41a9c
+    md5_10: 292e5c5bc7
+    md5_5: 292e5
+    md5_6: 292e5c
+    oomp_key: oomp_wykys_freetronics_footprints_ft_module_imu9
+    oomp_key_extra: oomp_footprint_wykys_freetronics_footprints_ft_module_imu9
+    oomp_key_full: oomp_footprint_wykys_freetronics_footprints_ft_module_imu9_292e5c
+    oomp_key_simple: wykys_freetronics_footprints_ft_module_imu9
     original_filename: kicad/mods/freetronics_footprints.pretty/FT_MODULE_IMU9.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_freetronics_footprints_ft_module_imu9
+  oomp_key_full: oomp_footprint_wykys_freetronics_footprints_ft_module_imu9
   oomp_key_simple: wykys_freetronics_footprints_ft_module_imu9
   owner: wykys
   repo:

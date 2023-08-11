@@ -17,9 +17,18 @@
   oomp:
     footprint_name: kailh_pg1350_1_25u_led_flip
     library_name: keebio_parts
+    md5: c687d984eafc6b67be216fb15e32ca2e
+    md5_10: c687d984ea
+    md5_5: c687d
+    md5_6: c687d9
+    oomp_key: oomp_keebio_keebio_parts_kailh_pg1350_1_25u_led_flip
+    oomp_key_extra: oomp_footprint_keebio_keebio_parts_kailh_pg1350_1_25u_led_flip
+    oomp_key_full: oomp_footprint_keebio_keebio_parts_kailh_pg1350_1_25u_led_flip_c687d9
+    oomp_key_simple: keebio_keebio_parts_kailh_pg1350_1_25u_led_flip
     original_filename: Keebio-Parts.pretty/Kailh-PG1350-1.25u-LED-flip.kicad_mod
     owner_name: keebio
   oomp_key: oomp_keebio_keebio_parts_kailh_pg1350_1_25u_led_flip
+  oomp_key_full: oomp_footprint_keebio_keebio_parts_kailh_pg1350_1_25u_led_flip
   oomp_key_simple: keebio_keebio_parts_kailh_pg1350_1_25u_led_flip
   owner: keebio
   repo:

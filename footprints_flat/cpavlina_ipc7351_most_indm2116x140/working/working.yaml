@@ -17,9 +17,18 @@
   oomp:
     footprint_name: indm2116x140
     library_name: ipc7351_most
+    md5: ce340fba12d08770a56b8da67ee2e230
+    md5_10: ce340fba12
+    md5_5: ce340
+    md5_6: ce340f
+    oomp_key: oomp_cpavlina_ipc7351_most_indm2116x140
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_most_indm2116x140
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_most_indm2116x140_ce340f
+    oomp_key_simple: cpavlina_ipc7351_most_indm2116x140
     original_filename: kicad-pcblib/IPC7351-Most.pretty/INDM2116X140.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_most_indm2116x140
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_most_indm2116x140
   oomp_key_simple: cpavlina_ipc7351_most_indm2116x140
   owner: cpavlina
   repo:

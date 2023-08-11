@@ -17,9 +17,18 @@
   oomp:
     footprint_name: cap_electro_d5s2
     library_name: freetronics_footprints
+    md5: a74c6e95b66bbed99e138d860508540d
+    md5_10: a74c6e95b6
+    md5_5: a74c6
+    md5_6: a74c6e
+    oomp_key: oomp_joanthespark_freetronics_footprints_cap_electro_d5s2
+    oomp_key_extra: oomp_footprint_joanthespark_freetronics_footprints_cap_electro_d5s2
+    oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_cap_electro_d5s2_a74c6e
+    oomp_key_simple: joanthespark_freetronics_footprints_cap_electro_d5s2
     original_filename: KiCAD/mods/freetronics_footprints.pretty/CAP_ELECTRO_D5S2.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_freetronics_footprints_cap_electro_d5s2
+  oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_cap_electro_d5s2
   oomp_key_simple: joanthespark_freetronics_footprints_cap_electro_d5s2
   owner: JoanTheSpark
   repo:

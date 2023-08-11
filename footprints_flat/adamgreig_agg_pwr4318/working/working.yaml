@@ -16,10 +16,19 @@
   name: agg-kicad
   oomp:
     footprint_name: pwr4318
-    library_name: unchecked
+    library_name: agg
+    md5: 29d847f1ed6e1ef8eb11db4e4db0b47f
+    md5_10: 29d847f1ed
+    md5_5: 29d84
+    md5_6: 29d847
+    oomp_key: oomp_adamgreig_agg_pwr4318
+    oomp_key_extra: oomp_footprint_adamgreig_agg_pwr4318
+    oomp_key_full: oomp_footprint_adamgreig_agg_pwr4318_29d847
+    oomp_key_simple: adamgreig_agg_pwr4318
     original_filename: agg-kicad/agg.pretty/unchecked.pretty/PWR4318.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_pwr4318
+  oomp_key_full: oomp_footprint_adamgreig_agg_pwr4318
   oomp_key_simple: adamgreig_agg_pwr4318
   owner: adamgreig
   repo:

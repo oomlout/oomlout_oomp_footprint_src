@@ -18,9 +18,18 @@
   oomp:
     footprint_name: mf_passives_cp12_5mm
     library_name: mf_passives
+    md5: de023da40c49d74fceab72d71d6fc8fe
+    md5_10: de023da40c
+    md5_5: de023
+    md5_6: de023d
+    oomp_key: oomp_macrofab_mf_passives_mf_passives_cp12_5mm
+    oomp_key_extra: oomp_footprint_macrofab_mf_passives_mf_passives_cp12_5mm
+    oomp_key_full: oomp_footprint_macrofab_mf_passives_mf_passives_cp12_5mm_de023d
+    oomp_key_simple: macrofab_mf_passives_mf_passives_cp12_5mm
     original_filename: EDALibraries/KiCad/Footprints/MF_Passives.pretty/MF_Passives-CP12.5MM.kicad_mod
     owner_name: macrofab
   oomp_key: oomp_macrofab_mf_passives_mf_passives_cp12_5mm
+  oomp_key_full: oomp_footprint_macrofab_mf_passives_mf_passives_cp12_5mm
   oomp_key_simple: macrofab_mf_passives_mf_passives_cp12_5mm
   owner: MacroFab
   repo:

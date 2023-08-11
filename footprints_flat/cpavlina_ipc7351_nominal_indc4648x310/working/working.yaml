@@ -17,9 +17,18 @@
   oomp:
     footprint_name: indc4648x310
     library_name: ipc7351_nominal
+    md5: fed3fbd17d1d565999b5c31f49001f7c
+    md5_10: fed3fbd17d
+    md5_5: fed3f
+    md5_6: fed3fb
+    oomp_key: oomp_cpavlina_ipc7351_nominal_indc4648x310
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_nominal_indc4648x310
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_indc4648x310_fed3fb
+    oomp_key_simple: cpavlina_ipc7351_nominal_indc4648x310
     original_filename: kicad-pcblib/IPC7351-Nominal.pretty/INDC4648X310.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_nominal_indc4648x310
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_indc4648x310
   oomp_key_simple: cpavlina_ipc7351_nominal_indc4648x310
   owner: cpavlina
   repo:

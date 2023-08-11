@@ -19,8 +19,9 @@ Please consult that link for additional, details, files, and license information
 | github_path | http://github.com/axello/kicad/blob/master/mods/RF.pretty/RCV.kicad_mod |  
 | links | {'github_src': 'http://gitlab.com/axello/kicad/blob/master/mods/RF.pretty/XMIT.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/axello_rf_rcv/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/axello_rf_rcv/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/axello_rf_rcv/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/axello_rf_rcv/working'} |  
 | name | kicad |  
-| oomp | {'footprint_name': 'rcv', 'library_name': 'rf', 'original_filename': 'kicad/mods/RF.pretty/RCV.kicad_mod', 'owner_name': 'axello'} |  
+| oomp | {'footprint_name': 'rcv', 'library_name': 'rf', 'md5': '8b71a8bc39d89d237bc7f3cc5c176c6d', 'md5_10': '8b71a8bc39', 'md5_5': '8b71a', 'md5_6': '8b71a8', 'oomp_key': 'oomp_axello_rf_rcv', 'oomp_key_extra': 'oomp_footprint_axello_rf_rcv', 'oomp_key_full': 'oomp_footprint_axello_rf_rcv_8b71a8', 'oomp_key_simple': 'axello_rf_rcv', 'original_filename': 'kicad/mods/RF.pretty/RCV.kicad_mod', 'owner_name': 'axello'} |  
 | oomp_key | oomp_axello_rf_rcv |  
+| oomp_key_full | oomp_footprint_axello_rf_rcv |  
 | oomp_key_simple | axello_rf_rcv |  
 | owner | axello |  
 | repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  

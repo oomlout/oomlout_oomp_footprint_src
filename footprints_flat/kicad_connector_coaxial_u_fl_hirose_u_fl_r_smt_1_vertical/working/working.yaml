@@ -17,9 +17,18 @@
   oomp:
     footprint_name: u_fl_hirose_u_fl_r_smt_1_vertical
     library_name: connector_coaxial
+    md5: 46ca547b7afa9fa393aa18ca37d595da
+    md5_10: 46ca547b7a
+    md5_5: 46ca5
+    md5_6: 46ca54
+    oomp_key: oomp_kicad_connector_coaxial_u_fl_hirose_u_fl_r_smt_1_vertical
+    oomp_key_extra: oomp_footprint_kicad_connector_coaxial_u_fl_hirose_u_fl_r_smt_1_vertical
+    oomp_key_full: oomp_footprint_kicad_connector_coaxial_u_fl_hirose_u_fl_r_smt_1_vertical_46ca54
+    oomp_key_simple: kicad_connector_coaxial_u_fl_hirose_u_fl_r_smt_1_vertical
     original_filename: libraries/kicad-footprints/Connector_Coaxial.pretty/U.FL_Hirose_U.FL-R-SMT-1_Vertical.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_coaxial_u_fl_hirose_u_fl_r_smt_1_vertical
+  oomp_key_full: oomp_footprint_kicad_connector_coaxial_u_fl_hirose_u_fl_r_smt_1_vertical
   oomp_key_simple: kicad_connector_coaxial_u_fl_hirose_u_fl_r_smt_1_vertical
   owner: kicad
   repo:

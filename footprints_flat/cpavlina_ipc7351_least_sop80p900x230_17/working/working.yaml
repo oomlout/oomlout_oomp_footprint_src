@@ -18,9 +18,18 @@
   oomp:
     footprint_name: sop80p900x230_17
     library_name: ipc7351_least
+    md5: 15af600f5c4033bbff6173259b29e965
+    md5_10: 15af600f5c
+    md5_5: 15af6
+    md5_6: 15af60
+    oomp_key: oomp_cpavlina_ipc7351_least_sop80p900x230_17
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_least_sop80p900x230_17
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_least_sop80p900x230_17_15af60
+    oomp_key_simple: cpavlina_ipc7351_least_sop80p900x230_17
     original_filename: kicad-pcblib/IPC7351-Least.pretty/SOP80P900X230-17.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_least_sop80p900x230_17
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_least_sop80p900x230_17
   oomp_key_simple: cpavlina_ipc7351_least_sop80p900x230_17
   owner: cpavlina
   repo:

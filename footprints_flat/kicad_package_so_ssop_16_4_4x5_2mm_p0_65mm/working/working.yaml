@@ -18,9 +18,18 @@
   oomp:
     footprint_name: ssop_16_4_4x5_2mm_p0_65mm
     library_name: package_so
+    md5: 930f36bcb811ffecc37d809c7fcd29c8
+    md5_10: 930f36bcb8
+    md5_5: 930f3
+    md5_6: 930f36
+    oomp_key: oomp_kicad_package_so_ssop_16_4_4x5_2mm_p0_65mm
+    oomp_key_extra: oomp_footprint_kicad_package_so_ssop_16_4_4x5_2mm_p0_65mm
+    oomp_key_full: oomp_footprint_kicad_package_so_ssop_16_4_4x5_2mm_p0_65mm_930f36
+    oomp_key_simple: kicad_package_so_ssop_16_4_4x5_2mm_p0_65mm
     original_filename: libraries/kicad-footprints/Package_SO.pretty/SSOP-16_4.4x5.2mm_P0.65mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_so_ssop_16_4_4x5_2mm_p0_65mm
+  oomp_key_full: oomp_footprint_kicad_package_so_ssop_16_4_4x5_2mm_p0_65mm
   oomp_key_simple: kicad_package_so_ssop_16_4_4x5_2mm_p0_65mm
   owner: kicad
   repo:

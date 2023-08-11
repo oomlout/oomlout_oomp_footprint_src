@@ -18,9 +18,18 @@
   oomp:
     footprint_name: texas_s_pvqfn_n64_ep4_25x4_25mm_thermalvias
     library_name: avp
+    md5: 9a9e8823bd18f8af5031a934bff6ad8d
+    md5_10: 9a9e8823bd
+    md5_5: 9a9e8
+    md5_6: 9a9e88
+    oomp_key: oomp_av_p_avp_texas_s_pvqfn_n64_ep4_25x4_25mm_thermalvias
+    oomp_key_extra: oomp_footprint_av_p_avp_texas_s_pvqfn_n64_ep4_25x4_25mm_thermalvias
+    oomp_key_full: oomp_footprint_av_p_avp_texas_s_pvqfn_n64_ep4_25x4_25mm_thermalvias_9a9e88
+    oomp_key_simple: av_p_avp_texas_s_pvqfn_n64_ep4_25x4_25mm_thermalvias
     original_filename: Avp.pretty/Texas_S-PVQFN-N64_EP4.25x4.25mm_ThermalVias.kicad_mod
     owner_name: av_p
   oomp_key: oomp_av_p_avp_texas_s_pvqfn_n64_ep4_25x4_25mm_thermalvias
+  oomp_key_full: oomp_footprint_av_p_avp_texas_s_pvqfn_n64_ep4_25x4_25mm_thermalvias
   oomp_key_simple: av_p_avp_texas_s_pvqfn_n64_ep4_25x4_25mm_thermalvias
   owner: av-p
   repo:

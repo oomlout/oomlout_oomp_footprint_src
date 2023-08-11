@@ -17,9 +17,18 @@
   oomp:
     footprint_name: we_hcc_1090
     library_name: agg
+    md5: 6b770eb910d57a8b07bcaca8926738eb
+    md5_10: 6b770eb910
+    md5_5: 6b770
+    md5_6: 6b770e
+    oomp_key: oomp_adamgreig_agg_we_hcc_1090
+    oomp_key_extra: oomp_footprint_adamgreig_agg_we_hcc_1090
+    oomp_key_full: oomp_footprint_adamgreig_agg_we_hcc_1090_6b770e
+    oomp_key_simple: adamgreig_agg_we_hcc_1090
     original_filename: agg-kicad/agg.pretty/WE-HCC-1090.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_we_hcc_1090
+  oomp_key_full: oomp_footprint_adamgreig_agg_we_hcc_1090
   oomp_key_simple: adamgreig_agg_we_hcc_1090
   owner: adamgreig
   repo:

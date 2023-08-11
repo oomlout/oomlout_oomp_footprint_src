@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ufdfn_8
     library_name: agg
+    md5: f76c233ec4a1ec3c3a33d1bc5711fad8
+    md5_10: f76c233ec4
+    md5_5: f76c2
+    md5_6: f76c23
+    oomp_key: oomp_adamgreig_agg_ufdfn_8
+    oomp_key_extra: oomp_footprint_adamgreig_agg_ufdfn_8
+    oomp_key_full: oomp_footprint_adamgreig_agg_ufdfn_8_f76c23
+    oomp_key_simple: adamgreig_agg_ufdfn_8
     original_filename: agg-kicad/agg.pretty/UFDFN-8.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_ufdfn_8
+  oomp_key_full: oomp_footprint_adamgreig_agg_ufdfn_8
   oomp_key_simple: adamgreig_agg_ufdfn_8
   owner: adamgreig
   repo:

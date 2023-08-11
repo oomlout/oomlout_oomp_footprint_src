@@ -18,9 +18,18 @@
   oomp:
     footprint_name: pqfn50p160x160x55_8
     library_name: ipc7351_least
+    md5: 9ee9be6b19efe5c56f0bfbc88c56dfbf
+    md5_10: 9ee9be6b19
+    md5_5: 9ee9b
+    md5_6: 9ee9be
+    oomp_key: oomp_cpavlina_ipc7351_least_pqfn50p160x160x55_8
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_least_pqfn50p160x160x55_8
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_least_pqfn50p160x160x55_8_9ee9be
+    oomp_key_simple: cpavlina_ipc7351_least_pqfn50p160x160x55_8
     original_filename: kicad-pcblib/IPC7351-Least.pretty/PQFN50P160X160X55-8.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_least_pqfn50p160x160x55_8
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_least_pqfn50p160x160x55_8
   oomp_key_simple: cpavlina_ipc7351_least_pqfn50p160x160x55_8
   owner: cpavlina
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: teensy30_31_32_lc
     library_name: teensy
+    md5: 6e5d93874b79b261fcc6b1a2c5cae10d
+    md5_10: 6e5d93874b
+    md5_5: 6e5d9
+    md5_6: 6e5d93
+    oomp_key: oomp_xengi_teensy_teensy30_31_32_lc
+    oomp_key_extra: oomp_footprint_xengi_teensy_teensy30_31_32_lc
+    oomp_key_full: oomp_footprint_xengi_teensy_teensy30_31_32_lc_6e5d93
+    oomp_key_simple: xengi_teensy_teensy30_31_32_lc
     original_filename: teensy.pretty/Teensy30_31_32_LC.kicad_mod
     owner_name: xengi
   oomp_key: oomp_xengi_teensy_teensy30_31_32_lc
+  oomp_key_full: oomp_footprint_xengi_teensy_teensy30_31_32_lc
   oomp_key_simple: xengi_teensy_teensy30_31_32_lc
   owner: XenGi
   repo:

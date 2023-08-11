@@ -17,9 +17,18 @@
   oomp:
     footprint_name: pinheader_1x20_p2_00mm_vertical
     library_name: connector_pinheader_2_00mm
+    md5: 5186309ff904d08bcd8b924c90876b42
+    md5_10: 5186309ff9
+    md5_5: '51863'
+    md5_6: '518630'
+    oomp_key: oomp_kicad_connector_pinheader_2_00mm_pinheader_1x20_p2_00mm_vertical
+    oomp_key_extra: oomp_footprint_kicad_connector_pinheader_2_00mm_pinheader_1x20_p2_00mm_vertical
+    oomp_key_full: oomp_footprint_kicad_connector_pinheader_2_00mm_pinheader_1x20_p2_00mm_vertical_518630
+    oomp_key_simple: kicad_connector_pinheader_2_00mm_pinheader_1x20_p2_00mm_vertical
     original_filename: libraries/kicad-footprints/Connector_PinHeader_2.00mm.pretty/PinHeader_1x20_P2.00mm_Vertical.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_pinheader_2_00mm_pinheader_1x20_p2_00mm_vertical
+  oomp_key_full: oomp_footprint_kicad_connector_pinheader_2_00mm_pinheader_1x20_p2_00mm_vertical
   oomp_key_simple: kicad_connector_pinheader_2_00mm_pinheader_1x20_p2_00mm_vertical
   owner: kicad
   repo:

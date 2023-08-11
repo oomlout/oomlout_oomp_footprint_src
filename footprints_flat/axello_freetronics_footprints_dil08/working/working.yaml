@@ -17,9 +17,18 @@
   oomp:
     footprint_name: dil08
     library_name: freetronics_footprints
+    md5: 1e44e99d0f1044c411775275a7e96d71
+    md5_10: 1e44e99d0f
+    md5_5: 1e44e
+    md5_6: 1e44e9
+    oomp_key: oomp_axello_freetronics_footprints_dil08
+    oomp_key_extra: oomp_footprint_axello_freetronics_footprints_dil08
+    oomp_key_full: oomp_footprint_axello_freetronics_footprints_dil08_1e44e9
+    oomp_key_simple: axello_freetronics_footprints_dil08
     original_filename: kicad/mods/freetronics_footprints.pretty/DIL08.kicad_mod
     owner_name: axello
   oomp_key: oomp_axello_freetronics_footprints_dil08
+  oomp_key_full: oomp_footprint_axello_freetronics_footprints_dil08
   oomp_key_simple: axello_freetronics_footprints_dil08
   owner: axello
   repo:

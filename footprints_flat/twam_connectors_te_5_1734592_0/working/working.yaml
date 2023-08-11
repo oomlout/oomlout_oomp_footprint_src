@@ -17,9 +17,18 @@
   oomp:
     footprint_name: '5_1734592_0'
     library_name: connectors_te
+    md5: b0abb9b10c86d58667201ca942a76ef2
+    md5_10: b0abb9b10c
+    md5_5: b0abb
+    md5_6: b0abb9
+    oomp_key: oomp_twam_connectors_te_5_1734592_0
+    oomp_key_extra: oomp_footprint_twam_connectors_te_5_1734592_0
+    oomp_key_full: oomp_footprint_twam_connectors_te_5_1734592_0_b0abb9
+    oomp_key_simple: twam_connectors_te_5_1734592_0
     original_filename: Connectors_TE.pretty/5-1734592-0.kicad_mod
     owner_name: twam
   oomp_key: oomp_twam_connectors_te_5_1734592_0
+  oomp_key_full: oomp_footprint_twam_connectors_te_5_1734592_0
   oomp_key_simple: twam_connectors_te_5_1734592_0
   owner: twam
   repo:

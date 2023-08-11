@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ti_dck_sc70_5
     library_name: kicadfootprint
+    md5: 17e4d58e4f6428977081fffb4094f1c3
+    md5_10: 17e4d58e4f
+    md5_5: 17e4d
+    md5_6: 17e4d5
+    oomp_key: oomp_vivitainc_kicadfootprint_ti_dck_sc70_5
+    oomp_key_extra: oomp_footprint_vivitainc_kicadfootprint_ti_dck_sc70_5
+    oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_ti_dck_sc70_5_17e4d5
+    oomp_key_simple: vivitainc_kicadfootprint_ti_dck_sc70_5
     original_filename: KiCADfootprint.pretty/TI_DCK_SC70-5.kicad_mod
     owner_name: vivitainc
   oomp_key: oomp_vivitainc_kicadfootprint_ti_dck_sc70_5
+  oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_ti_dck_sc70_5
   oomp_key_simple: vivitainc_kicadfootprint_ti_dck_sc70_5
   owner: vivitainc
   repo:

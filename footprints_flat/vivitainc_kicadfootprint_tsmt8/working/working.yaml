@@ -17,9 +17,18 @@
   oomp:
     footprint_name: tsmt8
     library_name: kicadfootprint
+    md5: 50df0756a0c1a3371d1d89bdfaf882c5
+    md5_10: 50df0756a0
+    md5_5: 50df0
+    md5_6: 50df07
+    oomp_key: oomp_vivitainc_kicadfootprint_tsmt8
+    oomp_key_extra: oomp_footprint_vivitainc_kicadfootprint_tsmt8
+    oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_tsmt8_50df07
+    oomp_key_simple: vivitainc_kicadfootprint_tsmt8
     original_filename: KiCADfootprint.pretty/TSMT8.kicad_mod
     owner_name: vivitainc
   oomp_key: oomp_vivitainc_kicadfootprint_tsmt8
+  oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_tsmt8
   oomp_key_simple: vivitainc_kicadfootprint_tsmt8
   owner: vivitainc
   repo:

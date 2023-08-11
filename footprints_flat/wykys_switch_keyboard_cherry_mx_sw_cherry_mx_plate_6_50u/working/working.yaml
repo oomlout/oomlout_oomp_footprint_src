@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sw_cherry_mx_plate_6_50u
     library_name: switch_keyboard_cherry_mx
+    md5: d1b1382a1b3f4d21f662ae5c41b8046c
+    md5_10: d1b1382a1b
+    md5_5: d1b13
+    md5_6: d1b138
+    oomp_key: oomp_wykys_switch_keyboard_cherry_mx_sw_cherry_mx_plate_6_50u
+    oomp_key_extra: oomp_footprint_wykys_switch_keyboard_cherry_mx_sw_cherry_mx_plate_6_50u
+    oomp_key_full: oomp_footprint_wykys_switch_keyboard_cherry_mx_sw_cherry_mx_plate_6_50u_d1b138
+    oomp_key_simple: wykys_switch_keyboard_cherry_mx_sw_cherry_mx_plate_6_50u
     original_filename: kicad/6.0/3rdparty/footprints/com_github_perigoso_keyswitch-kicad-library/Switch_Keyboard_Cherry_MX.pretty/SW_Cherry_MX_Plate_6.50u.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_switch_keyboard_cherry_mx_sw_cherry_mx_plate_6_50u
+  oomp_key_full: oomp_footprint_wykys_switch_keyboard_cherry_mx_sw_cherry_mx_plate_6_50u
   oomp_key_simple: wykys_switch_keyboard_cherry_mx_sw_cherry_mx_plate_6_50u
   owner: wykys
   repo:

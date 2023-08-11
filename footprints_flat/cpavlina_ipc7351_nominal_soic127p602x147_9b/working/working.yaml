@@ -18,9 +18,18 @@
   oomp:
     footprint_name: soic127p602x147_9b
     library_name: ipc7351_nominal
+    md5: f4ed9f3e347504051d5bde72b0e5ffa4
+    md5_10: f4ed9f3e34
+    md5_5: f4ed9
+    md5_6: f4ed9f
+    oomp_key: oomp_cpavlina_ipc7351_nominal_soic127p602x147_9b
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_nominal_soic127p602x147_9b
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_soic127p602x147_9b_f4ed9f
+    oomp_key_simple: cpavlina_ipc7351_nominal_soic127p602x147_9b
     original_filename: kicad-pcblib/IPC7351-Nominal.pretty/SOIC127P602X147-9B.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_nominal_soic127p602x147_9b
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_soic127p602x147_9b
   oomp_key_simple: cpavlina_ipc7351_nominal_soic127p602x147_9b
   owner: cpavlina
   repo:

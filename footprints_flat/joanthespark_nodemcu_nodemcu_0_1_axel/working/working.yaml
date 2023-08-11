@@ -17,9 +17,18 @@
   oomp:
     footprint_name: nodemcu_0_1_axel
     library_name: nodemcu
+    md5: d9c0c4cb4f14864dd0c22f575451c45f
+    md5_10: d9c0c4cb4f
+    md5_5: d9c0c
+    md5_6: d9c0c4
+    oomp_key: oomp_joanthespark_nodemcu_nodemcu_0_1_axel
+    oomp_key_extra: oomp_footprint_joanthespark_nodemcu_nodemcu_0_1_axel
+    oomp_key_full: oomp_footprint_joanthespark_nodemcu_nodemcu_0_1_axel_d9c0c4
+    oomp_key_simple: joanthespark_nodemcu_nodemcu_0_1_axel
     original_filename: KiCAD/6.0/projects/NodeMCU-Metriful2/NodeMCU.pretty/NodeMCU_0.1_Axel.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_nodemcu_nodemcu_0_1_axel
+  oomp_key_full: oomp_footprint_joanthespark_nodemcu_nodemcu_0_1_axel
   oomp_key_simple: joanthespark_nodemcu_nodemcu_0_1_axel
   owner: JoanTheSpark
   repo:

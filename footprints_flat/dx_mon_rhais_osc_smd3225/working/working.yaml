@@ -17,9 +17,18 @@
   oomp:
     footprint_name: smd3225
     library_name: rhais_osc
+    md5: b587a946b798f1edaec6d244ba396481
+    md5_10: b587a946b7
+    md5_5: b587a
+    md5_6: b587a9
+    oomp_key: oomp_dx_mon_rhais_osc_smd3225
+    oomp_key_extra: oomp_footprint_dx_mon_rhais_osc_smd3225
+    oomp_key_full: oomp_footprint_dx_mon_rhais_osc_smd3225_b587a9
+    oomp_key_simple: dx_mon_rhais_osc_smd3225
     original_filename: rhais_osc.pretty/SMD3225.kicad_mod
     owner_name: dx_mon
   oomp_key: oomp_dx_mon_rhais_osc_smd3225
+  oomp_key_full: oomp_footprint_dx_mon_rhais_osc_smd3225
   oomp_key_simple: dx_mon_rhais_osc_smd3225
   owner: DX-MON
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sot323_fet
     library_name: freetronics_footprints
+    md5: 53095ce30309b49534b5e365f895f6bc
+    md5_10: 53095ce303
+    md5_5: '53095'
+    md5_6: 53095c
+    oomp_key: oomp_axello_freetronics_footprints_sot323_fet
+    oomp_key_extra: oomp_footprint_axello_freetronics_footprints_sot323_fet
+    oomp_key_full: oomp_footprint_axello_freetronics_footprints_sot323_fet_53095c
+    oomp_key_simple: axello_freetronics_footprints_sot323_fet
     original_filename: kicad/mods/freetronics_footprints.pretty/SOT323_FET.kicad_mod
     owner_name: axello
   oomp_key: oomp_axello_freetronics_footprints_sot323_fet
+  oomp_key_full: oomp_footprint_axello_freetronics_footprints_sot323_fet
   oomp_key_simple: axello_freetronics_footprints_sot323_fet
   owner: axello
   repo:

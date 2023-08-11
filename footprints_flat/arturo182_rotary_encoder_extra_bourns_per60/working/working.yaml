@@ -19,9 +19,18 @@
   oomp:
     footprint_name: bourns_per60
     library_name: rotary_encoder_extra
+    md5: 5816f7c0615ff96a4133d2930227bd00
+    md5_10: 5816f7c061
+    md5_5: 5816f
+    md5_6: 5816f7
+    oomp_key: oomp_arturo182_rotary_encoder_extra_bourns_per60
+    oomp_key_extra: oomp_footprint_arturo182_rotary_encoder_extra_bourns_per60
+    oomp_key_full: oomp_footprint_arturo182_rotary_encoder_extra_bourns_per60_5816f7
+    oomp_key_simple: arturo182_rotary_encoder_extra_bourns_per60
     original_filename: kicad-modules/Rotary_Encoder_Extra.pretty/Bourns_PER60.kicad_mod
     owner_name: arturo182
   oomp_key: oomp_arturo182_rotary_encoder_extra_bourns_per60
+  oomp_key_full: oomp_footprint_arturo182_rotary_encoder_extra_bourns_per60
   oomp_key_simple: arturo182_rotary_encoder_extra_bourns_per60
   owner: arturo182
   repo:

@@ -18,9 +18,18 @@
   oomp:
     footprint_name: pinheader_1x40_p2_00mm_vertical_smd_pin1right
     library_name: connector_pinheader_2_00mm
+    md5: de7fbd0633b2c2b15403ef3b9784c5a1
+    md5_10: de7fbd0633
+    md5_5: de7fb
+    md5_6: de7fbd
+    oomp_key: oomp_kicad_connector_pinheader_2_00mm_pinheader_1x40_p2_00mm_vertical_smd_pin1right
+    oomp_key_extra: oomp_footprint_kicad_connector_pinheader_2_00mm_pinheader_1x40_p2_00mm_vertical_smd_pin1right
+    oomp_key_full: oomp_footprint_kicad_connector_pinheader_2_00mm_pinheader_1x40_p2_00mm_vertical_smd_pin1right_de7fbd
+    oomp_key_simple: kicad_connector_pinheader_2_00mm_pinheader_1x40_p2_00mm_vertical_smd_pin1right
     original_filename: libraries/kicad-footprints/Connector_PinHeader_2.00mm.pretty/PinHeader_1x40_P2.00mm_Vertical_SMD_Pin1Right.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_pinheader_2_00mm_pinheader_1x40_p2_00mm_vertical_smd_pin1right
+  oomp_key_full: oomp_footprint_kicad_connector_pinheader_2_00mm_pinheader_1x40_p2_00mm_vertical_smd_pin1right
   oomp_key_simple: kicad_connector_pinheader_2_00mm_pinheader_1x40_p2_00mm_vertical_smd_pin1right
   owner: kicad
   repo:

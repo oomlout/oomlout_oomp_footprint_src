@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_molex_5566
     library_name: xess
+    md5: 6a741026bbed49b13c47a1c2f65dd1e6
+    md5_10: 6a741026bb
+    md5_5: 6a741
+    md5_6: 6a7410
+    oomp_key: oomp_xesscorp_xess_xess_molex_5566
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_molex_5566
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_molex_5566_6a7410
+    oomp_key_simple: xesscorp_xess_xess_molex_5566
     original_filename: xess.pretty/xess-MOLEX-5566.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_molex_5566
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_molex_5566
   oomp_key_simple: xesscorp_xess_xess_molex_5566
   owner: xesscorp
   repo:

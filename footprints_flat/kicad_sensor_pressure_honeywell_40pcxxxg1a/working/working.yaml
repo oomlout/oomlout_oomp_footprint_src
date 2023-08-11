@@ -17,9 +17,18 @@
   oomp:
     footprint_name: honeywell_40pcxxxg1a
     library_name: sensor_pressure
+    md5: 4f8d9b2d47698cb803da153e7e60c77f
+    md5_10: 4f8d9b2d47
+    md5_5: 4f8d9
+    md5_6: 4f8d9b
+    oomp_key: oomp_kicad_sensor_pressure_honeywell_40pcxxxg1a
+    oomp_key_extra: oomp_footprint_kicad_sensor_pressure_honeywell_40pcxxxg1a
+    oomp_key_full: oomp_footprint_kicad_sensor_pressure_honeywell_40pcxxxg1a_4f8d9b
+    oomp_key_simple: kicad_sensor_pressure_honeywell_40pcxxxg1a
     original_filename: libraries/kicad-footprints/Sensor_Pressure.pretty/Honeywell_40PCxxxG1A.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_sensor_pressure_honeywell_40pcxxxg1a
+  oomp_key_full: oomp_footprint_kicad_sensor_pressure_honeywell_40pcxxxg1a
   oomp_key_simple: kicad_sensor_pressure_honeywell_40pcxxxg1a
   owner: kicad
   repo:

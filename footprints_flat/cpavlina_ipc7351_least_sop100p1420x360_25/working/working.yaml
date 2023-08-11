@@ -18,9 +18,18 @@
   oomp:
     footprint_name: sop100p1420x360_25
     library_name: ipc7351_least
+    md5: 53cc768061fc2cf795d422ca3ce30684
+    md5_10: 53cc768061
+    md5_5: 53cc7
+    md5_6: 53cc76
+    oomp_key: oomp_cpavlina_ipc7351_least_sop100p1420x360_25
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_least_sop100p1420x360_25
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_least_sop100p1420x360_25_53cc76
+    oomp_key_simple: cpavlina_ipc7351_least_sop100p1420x360_25
     original_filename: kicad-pcblib/IPC7351-Least.pretty/SOP100P1420X360-25.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_least_sop100p1420x360_25
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_least_sop100p1420x360_25
   oomp_key_simple: cpavlina_ipc7351_least_sop100p1420x360_25
   owner: cpavlina
   repo:

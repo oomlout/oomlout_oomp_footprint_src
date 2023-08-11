@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_ltc1174
     library_name: xess
+    md5: 22cbe63fed54ae9c55823a173de8a3e5
+    md5_10: 22cbe63fed
+    md5_5: 22cbe
+    md5_6: 22cbe6
+    oomp_key: oomp_xesscorp_xess_xess_ltc1174
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_ltc1174
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_ltc1174_22cbe6
+    oomp_key_simple: xesscorp_xess_xess_ltc1174
     original_filename: xess.pretty/xess-LTC1174.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_ltc1174
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_ltc1174
   oomp_key_simple: xesscorp_xess_xess_ltc1174
   owner: xesscorp
   repo:

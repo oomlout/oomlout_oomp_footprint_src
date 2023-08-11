@@ -18,9 +18,18 @@
   oomp:
     footprint_name: lfcsp_20_1ep_4x4mm_p0_5mm_ep2_6x2_6mm_thermalvias
     library_name: package_csp
+    md5: 413bfed720b0846b926afe6c23b24c52
+    md5_10: 413bfed720
+    md5_5: 413bf
+    md5_6: 413bfe
+    oomp_key: oomp_kicad_package_csp_lfcsp_20_1ep_4x4mm_p0_5mm_ep2_6x2_6mm_thermalvias
+    oomp_key_extra: oomp_footprint_kicad_package_csp_lfcsp_20_1ep_4x4mm_p0_5mm_ep2_6x2_6mm_thermalvias
+    oomp_key_full: oomp_footprint_kicad_package_csp_lfcsp_20_1ep_4x4mm_p0_5mm_ep2_6x2_6mm_thermalvias_413bfe
+    oomp_key_simple: kicad_package_csp_lfcsp_20_1ep_4x4mm_p0_5mm_ep2_6x2_6mm_thermalvias
     original_filename: libraries/kicad-footprints/Package_CSP.pretty/LFCSP-20-1EP_4x4mm_P0.5mm_EP2.6x2.6mm_ThermalVias.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_csp_lfcsp_20_1ep_4x4mm_p0_5mm_ep2_6x2_6mm_thermalvias
+  oomp_key_full: oomp_footprint_kicad_package_csp_lfcsp_20_1ep_4x4mm_p0_5mm_ep2_6x2_6mm_thermalvias
   oomp_key_simple: kicad_package_csp_lfcsp_20_1ep_4x4mm_p0_5mm_ep2_6x2_6mm_thermalvias
   owner: kicad
   repo:

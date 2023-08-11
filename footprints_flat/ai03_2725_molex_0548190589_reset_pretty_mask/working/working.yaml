@@ -17,9 +17,18 @@
   oomp:
     footprint_name: reset_pretty_mask
     library_name: molex_0548190589
+    md5: 49fc1ef19596b9a314af2dd0472234e9
+    md5_10: 49fc1ef195
+    md5_5: 49fc1
+    md5_6: 49fc1e
+    oomp_key: oomp_ai03_2725_molex_0548190589_reset_pretty_mask
+    oomp_key_extra: oomp_footprint_ai03_2725_molex_0548190589_reset_pretty_mask
+    oomp_key_full: oomp_footprint_ai03_2725_molex_0548190589_reset_pretty_mask_49fc1e
+    oomp_key_simple: ai03_2725_molex_0548190589_reset_pretty_mask
     original_filename: Molex-0548190589.pretty/Reset_Pretty-Mask.kicad_mod
     owner_name: ai03_2725
   oomp_key: oomp_ai03_2725_molex_0548190589_reset_pretty_mask
+  oomp_key_full: oomp_footprint_ai03_2725_molex_0548190589_reset_pretty_mask
   oomp_key_simple: ai03_2725_molex_0548190589_reset_pretty_mask
   owner: ai03-2725
   repo:

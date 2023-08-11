@@ -17,9 +17,18 @@
   oomp:
     footprint_name: l_wuerth_we_pd2_typ_xl
     library_name: inductor_smd
+    md5: a003256f1e7b37ee471c721ca3464a8e
+    md5_10: a003256f1e
+    md5_5: a0032
+    md5_6: a00325
+    oomp_key: oomp_kicad_inductor_smd_l_wuerth_we_pd2_typ_xl
+    oomp_key_extra: oomp_footprint_kicad_inductor_smd_l_wuerth_we_pd2_typ_xl
+    oomp_key_full: oomp_footprint_kicad_inductor_smd_l_wuerth_we_pd2_typ_xl_a00325
+    oomp_key_simple: kicad_inductor_smd_l_wuerth_we_pd2_typ_xl
     original_filename: libraries/kicad-footprints/Inductor_SMD.pretty/L_Wuerth_WE-PD2-Typ-XL.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_inductor_smd_l_wuerth_we_pd2_typ_xl
+  oomp_key_full: oomp_footprint_kicad_inductor_smd_l_wuerth_we_pd2_typ_xl
   oomp_key_simple: kicad_inductor_smd_l_wuerth_we_pd2_typ_xl
   owner: kicad
   repo:

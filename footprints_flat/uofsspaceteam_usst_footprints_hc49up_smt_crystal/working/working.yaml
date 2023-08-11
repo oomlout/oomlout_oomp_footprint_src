@@ -17,9 +17,18 @@
   oomp:
     footprint_name: hc49up_smt_crystal
     library_name: usst_footprints
+    md5: 0466faeaa2e0ded6ab432f6f38aef1fb
+    md5_10: 0466faeaa2
+    md5_5: 0466f
+    md5_6: 0466fa
+    oomp_key: oomp_uofsspaceteam_usst_footprints_hc49up_smt_crystal
+    oomp_key_extra: oomp_footprint_uofsspaceteam_usst_footprints_hc49up_smt_crystal
+    oomp_key_full: oomp_footprint_uofsspaceteam_usst_footprints_hc49up_smt_crystal_0466fa
+    oomp_key_simple: uofsspaceteam_usst_footprints_hc49up_smt_crystal
     original_filename: USST-footprints.pretty/HC49UP_SMT_Crystal.kicad_mod
     owner_name: uofsspaceteam
   oomp_key: oomp_uofsspaceteam_usst_footprints_hc49up_smt_crystal
+  oomp_key_full: oomp_footprint_uofsspaceteam_usst_footprints_hc49up_smt_crystal
   oomp_key_simple: uofsspaceteam_usst_footprints_hc49up_smt_crystal
   owner: UofSSpaceTeam
   repo:

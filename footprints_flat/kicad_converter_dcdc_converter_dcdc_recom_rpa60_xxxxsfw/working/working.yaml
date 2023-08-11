@@ -17,9 +17,18 @@
   oomp:
     footprint_name: converter_dcdc_recom_rpa60_xxxxsfw
     library_name: converter_dcdc
+    md5: 30eb9aa545761d34c02b1e14d471a21a
+    md5_10: 30eb9aa545
+    md5_5: 30eb9
+    md5_6: 30eb9a
+    oomp_key: oomp_kicad_converter_dcdc_converter_dcdc_recom_rpa60_xxxxsfw
+    oomp_key_extra: oomp_footprint_kicad_converter_dcdc_converter_dcdc_recom_rpa60_xxxxsfw
+    oomp_key_full: oomp_footprint_kicad_converter_dcdc_converter_dcdc_recom_rpa60_xxxxsfw_30eb9a
+    oomp_key_simple: kicad_converter_dcdc_converter_dcdc_recom_rpa60_xxxxsfw
     original_filename: libraries/kicad-footprints/Converter_DCDC.pretty/Converter_DCDC_RECOM_RPA60-xxxxSFW.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_converter_dcdc_converter_dcdc_recom_rpa60_xxxxsfw
+  oomp_key_full: oomp_footprint_kicad_converter_dcdc_converter_dcdc_recom_rpa60_xxxxsfw
   oomp_key_simple: kicad_converter_dcdc_converter_dcdc_recom_rpa60_xxxxsfw
   owner: kicad
   repo:

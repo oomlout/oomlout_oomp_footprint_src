@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: dsub_9_receptical_a_df_09_a_kg_t2s
-    library_name: source_footprints
+    library_name: dsub_9_receptical_a_df_09_a_kg_t2s_kicad_mod
+    md5: 44e54eca3a9c60ec0b04bbcfcd56edd1
+    md5_10: 44e54eca3a
+    md5_5: 44e54
+    md5_6: 44e54e
+    oomp_key: oomp_digikey_dsub_9_receptical_a_df_09_a_kg_t2s_dsub_9_receptical_a_df_09_a_kg_t2s
+    oomp_key_extra: oomp_footprint_digikey_dsub_9_receptical_a_df_09_a_kg_t2s_dsub_9_receptical_a_df_09_a_kg_t2s
+    oomp_key_full: oomp_footprint_digikey_dsub_9_receptical_a_df_09_a_kg_t2s_dsub_9_receptical_a_df_09_a_kg_t2s_44e54e
+    oomp_key_simple: digikey_dsub_9_receptical_a_df_09_a_kg_t2s_dsub_9_receptical_a_df_09_a_kg_t2s
     original_filename: digikey-kicad-library/src/Source_Footprints/DSUB-9_Receptical_A-DF_09_A_KG-T2S.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_dsub_9_receptical_a_df_09_a_kg_t2s_dsub_9_receptical_a_df_09_a_kg_t2s
+  oomp_key_full: oomp_footprint_digikey_dsub_9_receptical_a_df_09_a_kg_t2s_dsub_9_receptical_a_df_09_a_kg_t2s
   oomp_key_simple: digikey_dsub_9_receptical_a_df_09_a_kg_t2s_dsub_9_receptical_a_df_09_a_kg_t2s
   owner: digikey
   repo:

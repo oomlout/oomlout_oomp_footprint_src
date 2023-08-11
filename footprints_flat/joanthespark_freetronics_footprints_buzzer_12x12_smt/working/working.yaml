@@ -17,9 +17,18 @@
   oomp:
     footprint_name: buzzer_12x12_smt
     library_name: freetronics_footprints
+    md5: 028ebd462866262112f11aa497cc4411
+    md5_10: 028ebd4628
+    md5_5: 028eb
+    md5_6: 028ebd
+    oomp_key: oomp_joanthespark_freetronics_footprints_buzzer_12x12_smt
+    oomp_key_extra: oomp_footprint_joanthespark_freetronics_footprints_buzzer_12x12_smt
+    oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_buzzer_12x12_smt_028ebd
+    oomp_key_simple: joanthespark_freetronics_footprints_buzzer_12x12_smt
     original_filename: KiCAD/mods/freetronics_footprints.pretty/BUZZER-12X12-SMT.kicad_mod
     owner_name: joanthespark
   oomp_key: oomp_joanthespark_freetronics_footprints_buzzer_12x12_smt
+  oomp_key_full: oomp_footprint_joanthespark_freetronics_footprints_buzzer_12x12_smt
   oomp_key_simple: joanthespark_freetronics_footprints_buzzer_12x12_smt
   owner: JoanTheSpark
   repo:

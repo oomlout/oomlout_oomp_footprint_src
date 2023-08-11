@@ -17,9 +17,18 @@
   oomp:
     footprint_name: led_5mm_radial
     library_name: digikey_footprints
+    md5: a020fefeca3dc51420583e6d28821c34
+    md5_10: a020fefeca
+    md5_5: a020f
+    md5_6: a020fe
+    oomp_key: oomp_digikey_digikey_footprints_led_5mm_radial
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_led_5mm_radial
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_led_5mm_radial_a020fe
+    oomp_key_simple: digikey_digikey_footprints_led_5mm_radial
     original_filename: digikey-kicad-library/digikey-footprints.pretty/LED_5mm_Radial.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_led_5mm_radial
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_led_5mm_radial
   oomp_key_simple: digikey_digikey_footprints_led_5mm_radial
   owner: digikey
   repo:

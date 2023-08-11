@@ -19,8 +19,9 @@ Please consult that link for additional, details, files, and license information
 | github_path | http://github.com/AcheronProject/acheron_MXO.pretty/blob/master/MXO600CR.kicad_mod |  
 | links | {'github_src': 'http://gitlab.com/AcheronProject/acheron_MXO.pretty/blob/master/MXO_ISOEnter_Horizontal_Reversed.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/acheronproject_acheron_mxo_mxo600cr/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/acheronproject_acheron_mxo_mxo600cr/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/acheronproject_acheron_mxo_mxo600cr/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/acheronproject_acheron_mxo_mxo600cr/working'} |  
 | name | acheron_MXO.pretty |  
-| oomp | {'footprint_name': 'mxo600cr', 'library_name': 'acheron_mxo', 'original_filename': 'acheron_MXO.pretty/MXO600CR.kicad_mod', 'owner_name': 'acheronproject'} |  
+| oomp | {'footprint_name': 'mxo600cr', 'library_name': 'acheron_mxo', 'md5': '6b336df892e6c8903bbcc2345cb9c832', 'md5_10': '6b336df892', 'md5_5': '6b336', 'md5_6': '6b336d', 'oomp_key': 'oomp_acheronproject_acheron_mxo_mxo600cr', 'oomp_key_extra': 'oomp_footprint_acheronproject_acheron_mxo_mxo600cr', 'oomp_key_full': 'oomp_footprint_acheronproject_acheron_mxo_mxo600cr_6b336d', 'oomp_key_simple': 'acheronproject_acheron_mxo_mxo600cr', 'original_filename': 'acheron_MXO.pretty/MXO600CR.kicad_mod', 'owner_name': 'acheronproject'} |  
 | oomp_key | oomp_acheronproject_acheron_mxo_mxo600cr |  
+| oomp_key_full | oomp_footprint_acheronproject_acheron_mxo_mxo600cr |  
 | oomp_key_simple | acheronproject_acheron_mxo_mxo600cr |  
 | owner | AcheronProject |  
 | repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  

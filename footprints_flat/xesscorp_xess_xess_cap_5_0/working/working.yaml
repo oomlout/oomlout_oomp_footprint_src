@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_cap_5_0
     library_name: xess
+    md5: 18620ca7df1c492fd8d57711a8a6f2e9
+    md5_10: 18620ca7df
+    md5_5: '18620'
+    md5_6: 18620c
+    oomp_key: oomp_xesscorp_xess_xess_cap_5_0
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_cap_5_0
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_cap_5_0_18620c
+    oomp_key_simple: xesscorp_xess_xess_cap_5_0
     original_filename: xess.pretty/xess-CAP-5.0.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_cap_5_0
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_cap_5_0
   oomp_key_simple: xesscorp_xess_xess_cap_5_0
   owner: xesscorp
   repo:

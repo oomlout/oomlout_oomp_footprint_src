@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ind_cr54
     library_name: freetronics_footprints
+    md5: 609d19f06097450f9abe58696be84ec8
+    md5_10: 609d19f060
+    md5_5: 609d1
+    md5_6: 609d19
+    oomp_key: oomp_axello_freetronics_footprints_ind_cr54
+    oomp_key_extra: oomp_footprint_axello_freetronics_footprints_ind_cr54
+    oomp_key_full: oomp_footprint_axello_freetronics_footprints_ind_cr54_609d19
+    oomp_key_simple: axello_freetronics_footprints_ind_cr54
     original_filename: kicad/mods/freetronics_footprints.pretty/IND_CR54.kicad_mod
     owner_name: axello
   oomp_key: oomp_axello_freetronics_footprints_ind_cr54
+  oomp_key_full: oomp_footprint_axello_freetronics_footprints_ind_cr54
   oomp_key_simple: axello_freetronics_footprints_ind_cr54
   owner: axello
   repo:

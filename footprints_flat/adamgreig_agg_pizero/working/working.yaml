@@ -17,9 +17,18 @@
   oomp:
     footprint_name: pizero
     library_name: agg
+    md5: 1e87325259a41925b568b8d965c4f228
+    md5_10: 1e87325259
+    md5_5: 1e873
+    md5_6: 1e8732
+    oomp_key: oomp_adamgreig_agg_pizero
+    oomp_key_extra: oomp_footprint_adamgreig_agg_pizero
+    oomp_key_full: oomp_footprint_adamgreig_agg_pizero_1e8732
+    oomp_key_simple: adamgreig_agg_pizero
     original_filename: agg-kicad/agg.pretty/PIZERO.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_pizero
+  oomp_key_full: oomp_footprint_adamgreig_agg_pizero
   oomp_key_simple: adamgreig_agg_pizero
   owner: adamgreig
   repo:

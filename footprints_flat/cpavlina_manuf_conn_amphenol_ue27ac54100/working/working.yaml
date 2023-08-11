@@ -17,9 +17,18 @@
   oomp:
     footprint_name: conn_amphenol_ue27ac54100
     library_name: manuf
+    md5: 933e30d9c088df808fe36eb04178d0a1
+    md5_10: 933e30d9c0
+    md5_5: 933e3
+    md5_6: 933e30
+    oomp_key: oomp_cpavlina_manuf_conn_amphenol_ue27ac54100
+    oomp_key_extra: oomp_footprint_cpavlina_manuf_conn_amphenol_ue27ac54100
+    oomp_key_full: oomp_footprint_cpavlina_manuf_conn_amphenol_ue27ac54100_933e30
+    oomp_key_simple: cpavlina_manuf_conn_amphenol_ue27ac54100
     original_filename: kicad-pcblib/manuf.pretty/CONN-Amphenol-UE27AC54100.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_manuf_conn_amphenol_ue27ac54100
+  oomp_key_full: oomp_footprint_cpavlina_manuf_conn_amphenol_ue27ac54100
   oomp_key_simple: cpavlina_manuf_conn_amphenol_ue27ac54100
   owner: cpavlina
   repo:

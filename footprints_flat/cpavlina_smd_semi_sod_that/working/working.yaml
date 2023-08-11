@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sod_that
     library_name: smd_semi
+    md5: f0c5145b3f39514ac7a093cbe4c8cddd
+    md5_10: f0c5145b3f
+    md5_5: f0c51
+    md5_6: f0c514
+    oomp_key: oomp_cpavlina_smd_semi_sod_that
+    oomp_key_extra: oomp_footprint_cpavlina_smd_semi_sod_that
+    oomp_key_full: oomp_footprint_cpavlina_smd_semi_sod_that_f0c514
+    oomp_key_simple: cpavlina_smd_semi_sod_that
     original_filename: kicad-pcblib/smd-semi.pretty/SOD-THAT.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_smd_semi_sod_that
+  oomp_key_full: oomp_footprint_cpavlina_smd_semi_sod_that
   oomp_key_simple: cpavlina_smd_semi_sod_that
   owner: cpavlina
   repo:

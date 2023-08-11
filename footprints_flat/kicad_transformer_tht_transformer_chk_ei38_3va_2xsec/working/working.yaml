@@ -17,9 +17,18 @@
   oomp:
     footprint_name: transformer_chk_ei38_3va_2xsec
     library_name: transformer_tht
+    md5: a489fba68d2f3af77db84f0eb1274cd0
+    md5_10: a489fba68d
+    md5_5: a489f
+    md5_6: a489fb
+    oomp_key: oomp_kicad_transformer_tht_transformer_chk_ei38_3va_2xsec
+    oomp_key_extra: oomp_footprint_kicad_transformer_tht_transformer_chk_ei38_3va_2xsec
+    oomp_key_full: oomp_footprint_kicad_transformer_tht_transformer_chk_ei38_3va_2xsec_a489fb
+    oomp_key_simple: kicad_transformer_tht_transformer_chk_ei38_3va_2xsec
     original_filename: libraries/kicad-footprints/Transformer_THT.pretty/Transformer_CHK_EI38-3VA_2xSec.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_transformer_tht_transformer_chk_ei38_3va_2xsec
+  oomp_key_full: oomp_footprint_kicad_transformer_tht_transformer_chk_ei38_3va_2xsec
   oomp_key_simple: kicad_transformer_tht_transformer_chk_ei38_3va_2xsec
   owner: kicad
   repo:

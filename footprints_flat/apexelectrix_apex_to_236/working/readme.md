@@ -19,8 +19,9 @@ Please consult that link for additional, details, files, and license information
 | github_path | http://github.com/apexelectrix/Apex.pretty/blob/master/TO-236.kicad_mod |  
 | links | {'github_src': 'http://gitlab.com/apexelectrix/Apex.pretty/blob/master/USB-Micro-B.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/apexelectrix_apex_to_236/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/apexelectrix_apex_to_236/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/apexelectrix_apex_to_236/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/apexelectrix_apex_to_236/working'} |  
 | name | Apex.pretty |  
-| oomp | {'footprint_name': 'to_236', 'library_name': 'apex', 'original_filename': 'Apex.pretty/TO-236.kicad_mod', 'owner_name': 'apexelectrix'} |  
+| oomp | {'footprint_name': 'to_236', 'library_name': 'apex', 'md5': '4f052becd3c3841f88effb554e043454', 'md5_10': '4f052becd3', 'md5_5': '4f052', 'md5_6': '4f052b', 'oomp_key': 'oomp_apexelectrix_apex_to_236', 'oomp_key_extra': 'oomp_footprint_apexelectrix_apex_to_236', 'oomp_key_full': 'oomp_footprint_apexelectrix_apex_to_236_4f052b', 'oomp_key_simple': 'apexelectrix_apex_to_236', 'original_filename': 'Apex.pretty/TO-236.kicad_mod', 'owner_name': 'apexelectrix'} |  
 | oomp_key | oomp_apexelectrix_apex_to_236 |  
+| oomp_key_full | oomp_footprint_apexelectrix_apex_to_236 |  
 | oomp_key_simple | apexelectrix_apex_to_236 |  
 | owner | apexelectrix |  
 | repo | {'documentation_url': 'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting', 'message': "API rate limit exceeded for 84.66.173.59. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"} |  

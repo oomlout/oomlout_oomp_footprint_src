@@ -17,9 +17,18 @@
   oomp:
     footprint_name: l_changjiang_fnr3010s
     library_name: inductor_smd
+    md5: aea6e73a9f37a83bb1168c7fe431f75e
+    md5_10: aea6e73a9f
+    md5_5: aea6e
+    md5_6: aea6e7
+    oomp_key: oomp_kicad_inductor_smd_l_changjiang_fnr3010s
+    oomp_key_extra: oomp_footprint_kicad_inductor_smd_l_changjiang_fnr3010s
+    oomp_key_full: oomp_footprint_kicad_inductor_smd_l_changjiang_fnr3010s_aea6e7
+    oomp_key_simple: kicad_inductor_smd_l_changjiang_fnr3010s
     original_filename: libraries/kicad-footprints/Inductor_SMD.pretty/L_Changjiang_FNR3010S.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_inductor_smd_l_changjiang_fnr3010s
+  oomp_key_full: oomp_footprint_kicad_inductor_smd_l_changjiang_fnr3010s
   oomp_key_simple: kicad_inductor_smd_l_changjiang_fnr3010s
   owner: kicad
   repo:

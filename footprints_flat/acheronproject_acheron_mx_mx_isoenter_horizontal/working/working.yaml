@@ -17,9 +17,18 @@
   oomp:
     footprint_name: mx_isoenter_horizontal
     library_name: acheron_mx
+    md5: f12a9480c654c646517da058a839b56b
+    md5_10: f12a9480c6
+    md5_5: f12a9
+    md5_6: f12a94
+    oomp_key: oomp_acheronproject_acheron_mx_mx_isoenter_horizontal
+    oomp_key_extra: oomp_footprint_acheronproject_acheron_mx_mx_isoenter_horizontal
+    oomp_key_full: oomp_footprint_acheronproject_acheron_mx_mx_isoenter_horizontal_f12a94
+    oomp_key_simple: acheronproject_acheron_mx_mx_isoenter_horizontal
     original_filename: acheron_MX.pretty/MX_ISOEnter_Horizontal.kicad_mod
     owner_name: acheronproject
   oomp_key: oomp_acheronproject_acheron_mx_mx_isoenter_horizontal
+  oomp_key_full: oomp_footprint_acheronproject_acheron_mx_mx_isoenter_horizontal
   oomp_key_simple: acheronproject_acheron_mx_mx_isoenter_horizontal
   owner: AcheronProject
   repo:

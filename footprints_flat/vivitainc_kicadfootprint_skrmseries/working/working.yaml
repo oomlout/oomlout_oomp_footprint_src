@@ -17,9 +17,18 @@
   oomp:
     footprint_name: skrmseries
     library_name: kicadfootprint
+    md5: 472dff43017ad24b8cff96bd23f4e8b6
+    md5_10: 472dff4301
+    md5_5: 472df
+    md5_6: 472dff
+    oomp_key: oomp_vivitainc_kicadfootprint_skrmseries
+    oomp_key_extra: oomp_footprint_vivitainc_kicadfootprint_skrmseries
+    oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_skrmseries_472dff
+    oomp_key_simple: vivitainc_kicadfootprint_skrmseries
     original_filename: KiCADfootprint.pretty/SKRMseries.kicad_mod
     owner_name: vivitainc
   oomp_key: oomp_vivitainc_kicadfootprint_skrmseries
+  oomp_key_full: oomp_footprint_vivitainc_kicadfootprint_skrmseries
   oomp_key_simple: vivitainc_kicadfootprint_skrmseries
   owner: vivitainc
   repo:

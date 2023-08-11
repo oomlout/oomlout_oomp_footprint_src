@@ -17,9 +17,18 @@
   oomp:
     footprint_name: esp_12
     library_name: lab6_lib
+    md5: eac2e6def967e06b0810fae950ca32ff
+    md5_10: eac2e6def9
+    md5_5: eac2e
+    md5_6: eac2e6
+    oomp_key: oomp_lab6_ifma_lab6_lib_esp_12
+    oomp_key_extra: oomp_footprint_lab6_ifma_lab6_lib_esp_12
+    oomp_key_full: oomp_footprint_lab6_ifma_lab6_lib_esp_12_eac2e6
+    oomp_key_simple: lab6_ifma_lab6_lib_esp_12
     original_filename: LAB6-LIB.pretty/ESP-12.kicad_mod
     owner_name: lab6_ifma
   oomp_key: oomp_lab6_ifma_lab6_lib_esp_12
+  oomp_key_full: oomp_footprint_lab6_ifma_lab6_lib_esp_12
   oomp_key_simple: lab6_ifma_lab6_lib_esp_12
   owner: lab6-ifma
   repo:

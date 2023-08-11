@@ -17,9 +17,18 @@
   oomp:
     footprint_name: mxonly_ledonly
     library_name: tahutech
+    md5: 5ee84c8a2b29865ad7d5c0e967066286
+    md5_10: 5ee84c8a2b
+    md5_5: 5ee84
+    md5_6: 5ee84c
+    oomp_key: oomp_tahutech_tahutech_mxonly_ledonly
+    oomp_key_extra: oomp_footprint_tahutech_tahutech_mxonly_ledonly
+    oomp_key_full: oomp_footprint_tahutech_tahutech_mxonly_ledonly_5ee84c
+    oomp_key_simple: tahutech_tahutech_mxonly_ledonly
     original_filename: tahutech.pretty/MXOnly-LEDONLY.kicad_mod
     owner_name: tahutech
   oomp_key: oomp_tahutech_tahutech_mxonly_ledonly
+  oomp_key_full: oomp_footprint_tahutech_tahutech_mxonly_ledonly
   oomp_key_simple: tahutech_tahutech_mxonly_ledonly
   owner: TahuTech
   repo:

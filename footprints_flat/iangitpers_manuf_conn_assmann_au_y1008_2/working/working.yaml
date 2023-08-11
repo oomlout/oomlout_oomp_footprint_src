@@ -19,9 +19,18 @@
   oomp:
     footprint_name: conn_assmann_au_y1008_2
     library_name: manuf
+    md5: d39d783fd9285d05aa4c0b2acb4ad40c
+    md5_10: d39d783fd9
+    md5_5: d39d7
+    md5_6: d39d78
+    oomp_key: oomp_iangitpers_manuf_conn_assmann_au_y1008_2
+    oomp_key_extra: oomp_footprint_iangitpers_manuf_conn_assmann_au_y1008_2
+    oomp_key_full: oomp_footprint_iangitpers_manuf_conn_assmann_au_y1008_2_d39d78
+    oomp_key_simple: iangitpers_manuf_conn_assmann_au_y1008_2
     original_filename: 4a/manuf.pretty/CONN-ASSMANN-AU-Y1008-2.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_manuf_conn_assmann_au_y1008_2
+  oomp_key_full: oomp_footprint_iangitpers_manuf_conn_assmann_au_y1008_2
   oomp_key_simple: iangitpers_manuf_conn_assmann_au_y1008_2
   owner: Iangitpers
   repo:

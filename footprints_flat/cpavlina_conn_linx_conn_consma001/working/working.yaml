@@ -17,9 +17,18 @@
   oomp:
     footprint_name: conn_consma001
     library_name: conn_linx
+    md5: cd1bb428d29a7d8e89cc3d5aa80de92b
+    md5_10: cd1bb428d2
+    md5_5: cd1bb
+    md5_6: cd1bb4
+    oomp_key: oomp_cpavlina_conn_linx_conn_consma001
+    oomp_key_extra: oomp_footprint_cpavlina_conn_linx_conn_consma001
+    oomp_key_full: oomp_footprint_cpavlina_conn_linx_conn_consma001_cd1bb4
+    oomp_key_simple: cpavlina_conn_linx_conn_consma001
     original_filename: kicad-pcblib/conn-linx.pretty/CONN-CONSMA001.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_conn_linx_conn_consma001
+  oomp_key_full: oomp_footprint_cpavlina_conn_linx_conn_consma001
   oomp_key_simple: cpavlina_conn_linx_conn_consma001
   owner: cpavlina
   repo:

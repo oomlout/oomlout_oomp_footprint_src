@@ -18,9 +18,18 @@
   oomp:
     footprint_name: cqfp80p3120x3120x406_128
     library_name: ipc7351_least
+    md5: bf691f184e3899de1a1e85a8dd54efd0
+    md5_10: bf691f184e
+    md5_5: bf691
+    md5_6: bf691f
+    oomp_key: oomp_cpavlina_ipc7351_least_cqfp80p3120x3120x406_128
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_least_cqfp80p3120x3120x406_128
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_least_cqfp80p3120x3120x406_128_bf691f
+    oomp_key_simple: cpavlina_ipc7351_least_cqfp80p3120x3120x406_128
     original_filename: kicad-pcblib/IPC7351-Least.pretty/CQFP80P3120X3120X406-128.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_least_cqfp80p3120x3120x406_128
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_least_cqfp80p3120x3120x406_128
   oomp_key_simple: cpavlina_ipc7351_least_cqfp80p3120x3120x406_128
   owner: cpavlina
   repo:

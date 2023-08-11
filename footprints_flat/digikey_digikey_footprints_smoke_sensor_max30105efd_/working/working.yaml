@@ -17,9 +17,18 @@
   oomp:
     footprint_name: smoke_sensor_max30105efd_
     library_name: digikey_footprints
+    md5: 7cc9d4e8738711f49c85981a3fa8d6be
+    md5_10: 7cc9d4e873
+    md5_5: 7cc9d
+    md5_6: 7cc9d4
+    oomp_key: oomp_digikey_digikey_footprints_smoke_sensor_max30105efd_
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_smoke_sensor_max30105efd_
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_smoke_sensor_max30105efd__7cc9d4
+    oomp_key_simple: digikey_digikey_footprints_smoke_sensor_max30105efd_
     original_filename: digikey-kicad-library/digikey-footprints.pretty/Smoke_Sensor_MAX30105EFD+.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_smoke_sensor_max30105efd_
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_smoke_sensor_max30105efd_
   oomp_key_simple: digikey_digikey_footprints_smoke_sensor_max30105efd_
   owner: digikey
   repo:

@@ -18,9 +18,18 @@
   oomp:
     footprint_name: qfn65p300x300x80_9w
     library_name: ipc7351_nominal
+    md5: d418a255e96e22f9d7a66c79d6396618
+    md5_10: d418a255e9
+    md5_5: d418a
+    md5_6: d418a2
+    oomp_key: oomp_cpavlina_ipc7351_nominal_qfn65p300x300x80_9w
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_nominal_qfn65p300x300x80_9w
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_qfn65p300x300x80_9w_d418a2
+    oomp_key_simple: cpavlina_ipc7351_nominal_qfn65p300x300x80_9w
     original_filename: kicad-pcblib/IPC7351-Nominal.pretty/QFN65P300X300X80-9W.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_nominal_qfn65p300x300x80_9w
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_qfn65p300x300x80_9w
   oomp_key_simple: cpavlina_ipc7351_nominal_qfn65p300x300x80_9w
   owner: cpavlina
   repo:

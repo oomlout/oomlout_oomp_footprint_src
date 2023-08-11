@@ -17,9 +17,18 @@
   oomp:
     footprint_name: capc3225x200
     library_name: ipc7351_least
+    md5: f175d5afec5a1fa8b2007439bc811cdc
+    md5_10: f175d5afec
+    md5_5: f175d
+    md5_6: f175d5
+    oomp_key: oomp_cpavlina_ipc7351_least_capc3225x200
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_least_capc3225x200
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_least_capc3225x200_f175d5
+    oomp_key_simple: cpavlina_ipc7351_least_capc3225x200
     original_filename: kicad-pcblib/IPC7351-Least.pretty/CAPC3225X200.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_least_capc3225x200
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_least_capc3225x200
   oomp_key_simple: cpavlina_ipc7351_least_capc3225x200
   owner: cpavlina
   repo:

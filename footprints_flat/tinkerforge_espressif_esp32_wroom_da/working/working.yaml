@@ -17,9 +17,18 @@
   oomp:
     footprint_name: esp32_wroom_da
     library_name: espressif
+    md5: aaa24500f5be73f790a368a1ecf9afa3
+    md5_10: aaa24500f5
+    md5_5: aaa24
+    md5_6: aaa245
+    oomp_key: oomp_tinkerforge_espressif_esp32_wroom_da
+    oomp_key_extra: oomp_footprint_tinkerforge_espressif_esp32_wroom_da
+    oomp_key_full: oomp_footprint_tinkerforge_espressif_esp32_wroom_da_aaa245
+    oomp_key_simple: tinkerforge_espressif_esp32_wroom_da
     original_filename: kicad-libraries/footprints/Espressif.pretty/ESP32-WROOM-DA.kicad_mod
     owner_name: tinkerforge
   oomp_key: oomp_tinkerforge_espressif_esp32_wroom_da
+  oomp_key_full: oomp_footprint_tinkerforge_espressif_esp32_wroom_da
   oomp_key_simple: tinkerforge_espressif_esp32_wroom_da
   owner: Tinkerforge
   repo:

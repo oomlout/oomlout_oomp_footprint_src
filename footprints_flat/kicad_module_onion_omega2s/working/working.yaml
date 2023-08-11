@@ -17,9 +17,18 @@
   oomp:
     footprint_name: onion_omega2s
     library_name: module
+    md5: 1a5eb8eaf395a81c84cbec777eff084b
+    md5_10: 1a5eb8eaf3
+    md5_5: 1a5eb
+    md5_6: 1a5eb8
+    oomp_key: oomp_kicad_module_onion_omega2s
+    oomp_key_extra: oomp_footprint_kicad_module_onion_omega2s
+    oomp_key_full: oomp_footprint_kicad_module_onion_omega2s_1a5eb8
+    oomp_key_simple: kicad_module_onion_omega2s
     original_filename: libraries/kicad-footprints/Module.pretty/Onion_Omega2S.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_module_onion_omega2s
+  oomp_key_full: oomp_footprint_kicad_module_onion_omega2s
   oomp_key_simple: kicad_module_onion_omega2s
   owner: kicad
   repo:

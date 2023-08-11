@@ -17,9 +17,18 @@
   oomp:
     footprint_name: bluetooth_module_rn52_irm
     library_name: digikey_footprints
+    md5: a3b415c7ccaa4d6ab4a908b20f9984bd
+    md5_10: a3b415c7cc
+    md5_5: a3b41
+    md5_6: a3b415
+    oomp_key: oomp_digikey_digikey_footprints_bluetooth_module_rn52_irm
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_bluetooth_module_rn52_irm
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_bluetooth_module_rn52_irm_a3b415
+    oomp_key_simple: digikey_digikey_footprints_bluetooth_module_rn52_irm
     original_filename: digikey-kicad-library/digikey-footprints.pretty/Bluetooth_Module_RN52-IRM.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_bluetooth_module_rn52_irm
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_bluetooth_module_rn52_irm
   oomp_key_simple: digikey_digikey_footprints_bluetooth_module_rn52_irm
   owner: digikey
   repo:

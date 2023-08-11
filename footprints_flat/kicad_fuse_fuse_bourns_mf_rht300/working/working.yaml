@@ -17,9 +17,18 @@
   oomp:
     footprint_name: fuse_bourns_mf_rht300
     library_name: fuse
+    md5: 117dcd00fafc16be87500042f224dbc8
+    md5_10: 117dcd00fa
+    md5_5: 117dc
+    md5_6: 117dcd
+    oomp_key: oomp_kicad_fuse_fuse_bourns_mf_rht300
+    oomp_key_extra: oomp_footprint_kicad_fuse_fuse_bourns_mf_rht300
+    oomp_key_full: oomp_footprint_kicad_fuse_fuse_bourns_mf_rht300_117dcd
+    oomp_key_simple: kicad_fuse_fuse_bourns_mf_rht300
     original_filename: libraries/kicad-footprints/Fuse.pretty/Fuse_Bourns_MF-RHT300.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_fuse_fuse_bourns_mf_rht300
+  oomp_key_full: oomp_footprint_kicad_fuse_fuse_bourns_mf_rht300
   oomp_key_simple: kicad_fuse_fuse_bourns_mf_rht300
   owner: kicad
   repo:

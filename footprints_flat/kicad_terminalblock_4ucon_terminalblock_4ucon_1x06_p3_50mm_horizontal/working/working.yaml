@@ -19,9 +19,18 @@
   oomp:
     footprint_name: terminalblock_4ucon_1x06_p3_50mm_horizontal
     library_name: terminalblock_4ucon
+    md5: 4153bd8649bb315dc24c100dc6fdf6b5
+    md5_10: 4153bd8649
+    md5_5: 4153b
+    md5_6: 4153bd
+    oomp_key: oomp_kicad_terminalblock_4ucon_terminalblock_4ucon_1x06_p3_50mm_horizontal
+    oomp_key_extra: oomp_footprint_kicad_terminalblock_4ucon_terminalblock_4ucon_1x06_p3_50mm_horizontal
+    oomp_key_full: oomp_footprint_kicad_terminalblock_4ucon_terminalblock_4ucon_1x06_p3_50mm_horizontal_4153bd
+    oomp_key_simple: kicad_terminalblock_4ucon_terminalblock_4ucon_1x06_p3_50mm_horizontal
     original_filename: libraries/kicad-footprints/TerminalBlock_4Ucon.pretty/TerminalBlock_4Ucon_1x06_P3.50mm_Horizontal.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_terminalblock_4ucon_terminalblock_4ucon_1x06_p3_50mm_horizontal
+  oomp_key_full: oomp_footprint_kicad_terminalblock_4ucon_terminalblock_4ucon_1x06_p3_50mm_horizontal
   oomp_key_simple: kicad_terminalblock_4ucon_terminalblock_4ucon_1x06_p3_50mm_horizontal
   owner: kicad
   repo:

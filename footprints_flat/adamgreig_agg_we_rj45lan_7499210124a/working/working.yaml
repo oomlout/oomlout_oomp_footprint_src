@@ -18,9 +18,18 @@
   oomp:
     footprint_name: we_rj45lan_7499210124a
     library_name: agg
+    md5: 67e69def642c98d3d53f650b22e72a8d
+    md5_10: 67e69def64
+    md5_5: 67e69
+    md5_6: 67e69d
+    oomp_key: oomp_adamgreig_agg_we_rj45lan_7499210124a
+    oomp_key_extra: oomp_footprint_adamgreig_agg_we_rj45lan_7499210124a
+    oomp_key_full: oomp_footprint_adamgreig_agg_we_rj45lan_7499210124a_67e69d
+    oomp_key_simple: adamgreig_agg_we_rj45lan_7499210124a
     original_filename: agg-kicad/agg.pretty/WE-RJ45LAN-7499210124A.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_we_rj45lan_7499210124a
+  oomp_key_full: oomp_footprint_adamgreig_agg_we_rj45lan_7499210124a
   oomp_key_simple: adamgreig_agg_we_rj45lan_7499210124a
   owner: adamgreig
   repo:

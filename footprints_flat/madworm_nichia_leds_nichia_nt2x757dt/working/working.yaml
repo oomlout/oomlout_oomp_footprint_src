@@ -17,9 +17,18 @@
   oomp:
     footprint_name: nichia_nt2x757dt
     library_name: nichia_leds
+    md5: 4fc7dcd3201da4cf61c86fa6d6173255
+    md5_10: 4fc7dcd320
+    md5_5: 4fc7d
+    md5_6: 4fc7dc
+    oomp_key: oomp_madworm_nichia_leds_nichia_nt2x757dt
+    oomp_key_extra: oomp_footprint_madworm_nichia_leds_nichia_nt2x757dt
+    oomp_key_full: oomp_footprint_madworm_nichia_leds_nichia_nt2x757dt_4fc7dc
+    oomp_key_simple: madworm_nichia_leds_nichia_nt2x757dt
     original_filename: Nichia-LEDs.pretty/Nichia_NT2x757DT.kicad_mod
     owner_name: madworm
   oomp_key: oomp_madworm_nichia_leds_nichia_nt2x757dt
+  oomp_key_full: oomp_footprint_madworm_nichia_leds_nichia_nt2x757dt
   oomp_key_simple: madworm_nichia_leds_nichia_nt2x757dt
   owner: madworm
   repo:

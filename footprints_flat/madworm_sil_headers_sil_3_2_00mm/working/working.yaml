@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sil_3_2_00mm
     library_name: sil_headers
+    md5: 551b64eeb60dca365817f5a64bd51683
+    md5_10: 551b64eeb6
+    md5_5: 551b6
+    md5_6: 551b64
+    oomp_key: oomp_madworm_sil_headers_sil_3_2_00mm
+    oomp_key_extra: oomp_footprint_madworm_sil_headers_sil_3_2_00mm
+    oomp_key_full: oomp_footprint_madworm_sil_headers_sil_3_2_00mm_551b64
+    oomp_key_simple: madworm_sil_headers_sil_3_2_00mm
     original_filename: SIL-Headers.pretty/SIL-3-2.00mm.kicad_mod
     owner_name: madworm
   oomp_key: oomp_madworm_sil_headers_sil_3_2_00mm
+  oomp_key_full: oomp_footprint_madworm_sil_headers_sil_3_2_00mm
   oomp_key_simple: madworm_sil_headers_sil_3_2_00mm
   owner: madworm
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: imu_module_sen0140
     library_name: digikey_footprints
+    md5: 61a6c47f1ecc5316a3462437fd269944
+    md5_10: 61a6c47f1e
+    md5_5: 61a6c
+    md5_6: 61a6c4
+    oomp_key: oomp_digikey_digikey_footprints_imu_module_sen0140
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_imu_module_sen0140
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_imu_module_sen0140_61a6c4
+    oomp_key_simple: digikey_digikey_footprints_imu_module_sen0140
     original_filename: digikey-kicad-library/digikey-footprints.pretty/IMU_Module_SEN0140.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_imu_module_sen0140
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_imu_module_sen0140
   oomp_key_simple: digikey_digikey_footprints_imu_module_sen0140
   owner: digikey
   repo:

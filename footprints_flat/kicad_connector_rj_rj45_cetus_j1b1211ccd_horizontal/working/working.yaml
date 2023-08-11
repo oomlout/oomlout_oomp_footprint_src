@@ -18,9 +18,18 @@
   oomp:
     footprint_name: rj45_cetus_j1b1211ccd_horizontal
     library_name: connector_rj
+    md5: b631a937d072541997a4709f465e715c
+    md5_10: b631a937d0
+    md5_5: b631a
+    md5_6: b631a9
+    oomp_key: oomp_kicad_connector_rj_rj45_cetus_j1b1211ccd_horizontal
+    oomp_key_extra: oomp_footprint_kicad_connector_rj_rj45_cetus_j1b1211ccd_horizontal
+    oomp_key_full: oomp_footprint_kicad_connector_rj_rj45_cetus_j1b1211ccd_horizontal_b631a9
+    oomp_key_simple: kicad_connector_rj_rj45_cetus_j1b1211ccd_horizontal
     original_filename: libraries/kicad-footprints/Connector_RJ.pretty/RJ45_Cetus_J1B1211CCD_Horizontal.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_rj_rj45_cetus_j1b1211ccd_horizontal
+  oomp_key_full: oomp_footprint_kicad_connector_rj_rj45_cetus_j1b1211ccd_horizontal
   oomp_key_simple: kicad_connector_rj_rj45_cetus_j1b1211ccd_horizontal
   owner: kicad
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: pg_sso_3_02
     library_name: pth_semi
+    md5: fb0aaafa1c8095440a53b330fc4fc365
+    md5_10: fb0aaafa1c
+    md5_5: fb0aa
+    md5_6: fb0aaa
+    oomp_key: oomp_cpavlina_pth_semi_pg_sso_3_02
+    oomp_key_extra: oomp_footprint_cpavlina_pth_semi_pg_sso_3_02
+    oomp_key_full: oomp_footprint_cpavlina_pth_semi_pg_sso_3_02_fb0aaa
+    oomp_key_simple: cpavlina_pth_semi_pg_sso_3_02
     original_filename: kicad-pcblib/pth-semi.pretty/PG-SSO-3-02.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_pth_semi_pg_sso_3_02
+  oomp_key_full: oomp_footprint_cpavlina_pth_semi_pg_sso_3_02
   oomp_key_simple: cpavlina_pth_semi_pg_sso_3_02
   owner: cpavlina
   repo:

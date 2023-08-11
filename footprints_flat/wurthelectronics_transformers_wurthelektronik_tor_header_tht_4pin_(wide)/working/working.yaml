@@ -17,9 +17,18 @@
   oomp:
     footprint_name: tor_header_tht_4pin_(wide)
     library_name: transformers_wurthelektronik
+    md5: 23a3fc98f069295f311e1f440edefa07
+    md5_10: 23a3fc98f0
+    md5_5: 23a3f
+    md5_6: 23a3fc
+    oomp_key: oomp_wurthelectronics_transformers_wurthelektronik_tor_header_tht_4pin_(wide)
+    oomp_key_extra: oomp_footprint_wurthelectronics_transformers_wurthelektronik_tor_header_tht_4pin_(wide)
+    oomp_key_full: oomp_footprint_wurthelectronics_transformers_wurthelektronik_tor_header_tht_4pin_(wide)_23a3fc
+    oomp_key_simple: wurthelectronics_transformers_wurthelektronik_tor_header_tht_4pin_(wide)
     original_filename: Transformers_WurthElektronik.pretty/TOR_HEADER_THT_4PIN_(WIDE).kicad_mod
     owner_name: wurthelectronics
   oomp_key: oomp_wurthelectronics_transformers_wurthelektronik_tor_header_tht_4pin_(wide)
+  oomp_key_full: oomp_footprint_wurthelectronics_transformers_wurthelektronik_tor_header_tht_4pin_(wide)
   oomp_key_simple: wurthelectronics_transformers_wurthelektronik_tor_header_tht_4pin_(wide)
   owner: WurthElectronics
   repo:

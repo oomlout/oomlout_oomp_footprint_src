@@ -18,9 +18,18 @@
   oomp:
     footprint_name: l_radial_l11_5mm_w11_5mm_px6_00mm_py6_00mm_neosid_ne_cpb_11en_drill1_7mm
     library_name: inductor_tht
+    md5: d85bfe11fd2d429f263735d280257652
+    md5_10: d85bfe11fd
+    md5_5: d85bf
+    md5_6: d85bfe
+    oomp_key: oomp_kicad_inductor_tht_l_radial_l11_5mm_w11_5mm_px6_00mm_py6_00mm_neosid_ne_cpb_11en_drill1_7mm
+    oomp_key_extra: oomp_footprint_kicad_inductor_tht_l_radial_l11_5mm_w11_5mm_px6_00mm_py6_00mm_neosid_ne_cpb_11en_drill1_7mm
+    oomp_key_full: oomp_footprint_kicad_inductor_tht_l_radial_l11_5mm_w11_5mm_px6_00mm_py6_00mm_neosid_ne_cpb_11en_drill1_7mm_d85bfe
+    oomp_key_simple: kicad_inductor_tht_l_radial_l11_5mm_w11_5mm_px6_00mm_py6_00mm_neosid_ne_cpb_11en_drill1_7mm
     original_filename: libraries/kicad-footprints/Inductor_THT.pretty/L_Radial_L11.5mm_W11.5mm_Px6.00mm_Py6.00mm_Neosid_NE-CPB-11EN_Drill1.7mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_inductor_tht_l_radial_l11_5mm_w11_5mm_px6_00mm_py6_00mm_neosid_ne_cpb_11en_drill1_7mm
+  oomp_key_full: oomp_footprint_kicad_inductor_tht_l_radial_l11_5mm_w11_5mm_px6_00mm_py6_00mm_neosid_ne_cpb_11en_drill1_7mm
   oomp_key_simple: kicad_inductor_tht_l_radial_l11_5mm_w11_5mm_px6_00mm_py6_00mm_neosid_ne_cpb_11en_drill1_7mm
   owner: kicad
   repo:

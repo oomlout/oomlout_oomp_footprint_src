@@ -19,9 +19,18 @@
   oomp:
     footprint_name: oshw_symbol_22_3x20mm_silkscreen
     library_name: symbol
+    md5: c64da4acc21fd5a2d724bd56aef80086
+    md5_10: c64da4acc2
+    md5_5: c64da
+    md5_6: c64da4
+    oomp_key: oomp_iangitpers_symbol_oshw_symbol_22_3x20mm_silkscreen
+    oomp_key_extra: oomp_footprint_iangitpers_symbol_oshw_symbol_22_3x20mm_silkscreen
+    oomp_key_full: oomp_footprint_iangitpers_symbol_oshw_symbol_22_3x20mm_silkscreen_c64da4
+    oomp_key_simple: iangitpers_symbol_oshw_symbol_22_3x20mm_silkscreen
     original_filename: 4a/Symbol.pretty/OSHW-Symbol_22.3x20mm_SilkScreen.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_symbol_oshw_symbol_22_3x20mm_silkscreen
+  oomp_key_full: oomp_footprint_iangitpers_symbol_oshw_symbol_22_3x20mm_silkscreen
   oomp_key_simple: iangitpers_symbol_oshw_symbol_22_3x20mm_silkscreen
   owner: Iangitpers
   repo:

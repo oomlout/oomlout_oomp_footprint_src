@@ -18,10 +18,19 @@
   name: 4a
   oomp:
     footprint_name: sot65p210x110_6n
-    library_name: dmmt3906w_7
+    library_name: sot65p210x110_6n_kicad_mod
+    md5: 517468f7e8a235df2a46e77ccac803c8
+    md5_10: 517468f7e8
+    md5_5: '51746'
+    md5_6: '517468'
+    oomp_key: oomp_iangitpers_sot65p210x110_6n_sot65p210x110_6n
+    oomp_key_extra: oomp_footprint_iangitpers_sot65p210x110_6n_sot65p210x110_6n
+    oomp_key_full: oomp_footprint_iangitpers_sot65p210x110_6n_sot65p210x110_6n_517468
+    oomp_key_simple: iangitpers_sot65p210x110_6n_sot65p210x110_6n
     original_filename: 4a/DMMT3906W-7/SOT65P210X110-6N.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_sot65p210x110_6n_sot65p210x110_6n
+  oomp_key_full: oomp_footprint_iangitpers_sot65p210x110_6n_sot65p210x110_6n
   oomp_key_simple: iangitpers_sot65p210x110_6n_sot65p210x110_6n
   owner: Iangitpers
   repo:

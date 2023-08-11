@@ -17,9 +17,18 @@
   oomp:
     footprint_name: teensy_20
     library_name: keebs
+    md5: fa8f2cac1fbc019011369ed324a27ab2
+    md5_10: fa8f2cac1f
+    md5_5: fa8f2
+    md5_6: fa8f2c
+    oomp_key: oomp_egladman_keebs_teensy_20
+    oomp_key_extra: oomp_footprint_egladman_keebs_teensy_20
+    oomp_key_full: oomp_footprint_egladman_keebs_teensy_20_fa8f2c
+    oomp_key_simple: egladman_keebs_teensy_20
     original_filename: keebs.pretty/Teensy_20.kicad_mod
     owner_name: egladman
   oomp_key: oomp_egladman_keebs_teensy_20
+  oomp_key_full: oomp_footprint_egladman_keebs_teensy_20
   oomp_key_simple: egladman_keebs_teensy_20
   owner: egladman
   repo:

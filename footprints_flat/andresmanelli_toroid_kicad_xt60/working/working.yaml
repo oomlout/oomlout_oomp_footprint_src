@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xt60
     library_name: toroid_kicad
+    md5: b1bcc1aab6cd1ac80716fb815ab911df
+    md5_10: b1bcc1aab6
+    md5_5: b1bcc
+    md5_6: b1bcc1
+    oomp_key: oomp_andresmanelli_toroid_kicad_xt60
+    oomp_key_extra: oomp_footprint_andresmanelli_toroid_kicad_xt60
+    oomp_key_full: oomp_footprint_andresmanelli_toroid_kicad_xt60_b1bcc1
+    oomp_key_simple: andresmanelli_toroid_kicad_xt60
     original_filename: TOROID-KiCad.pretty/XT60.kicad_mod
     owner_name: andresmanelli
   oomp_key: oomp_andresmanelli_toroid_kicad_xt60
+  oomp_key_full: oomp_footprint_andresmanelli_toroid_kicad_xt60
   oomp_key_simple: andresmanelli_toroid_kicad_xt60
   owner: andresmanelli
   repo:

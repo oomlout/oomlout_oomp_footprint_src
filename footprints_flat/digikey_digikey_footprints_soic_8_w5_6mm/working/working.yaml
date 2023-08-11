@@ -17,9 +17,18 @@
   oomp:
     footprint_name: soic_8_w5_6mm
     library_name: digikey_footprints
+    md5: 5538d98df3a56e7fbafe32d1ca3a5ba6
+    md5_10: 5538d98df3
+    md5_5: 5538d
+    md5_6: 5538d9
+    oomp_key: oomp_digikey_digikey_footprints_soic_8_w5_6mm
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_soic_8_w5_6mm
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_soic_8_w5_6mm_5538d9
+    oomp_key_simple: digikey_digikey_footprints_soic_8_w5_6mm
     original_filename: digikey-kicad-library/digikey-footprints.pretty/SOIC-8_W5.6mm.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_soic_8_w5_6mm
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_soic_8_w5_6mm
   oomp_key_simple: digikey_digikey_footprints_soic_8_w5_6mm
   owner: digikey
   repo:

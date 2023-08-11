@@ -17,9 +17,18 @@
   oomp:
     footprint_name: qfn44_0_5mm_ep
     library_name: freetronics_footprints
+    md5: 4f78a0e2a93190cef716ae606f660543
+    md5_10: 4f78a0e2a9
+    md5_5: 4f78a
+    md5_6: 4f78a0
+    oomp_key: oomp_wykys_freetronics_footprints_qfn44_0_5mm_ep
+    oomp_key_extra: oomp_footprint_wykys_freetronics_footprints_qfn44_0_5mm_ep
+    oomp_key_full: oomp_footprint_wykys_freetronics_footprints_qfn44_0_5mm_ep_4f78a0
+    oomp_key_simple: wykys_freetronics_footprints_qfn44_0_5mm_ep
     original_filename: kicad/mods/freetronics_footprints.pretty/QFN44_0.5mm_EP.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_freetronics_footprints_qfn44_0_5mm_ep
+  oomp_key_full: oomp_footprint_wykys_freetronics_footprints_qfn44_0_5mm_ep
   oomp_key_simple: wykys_freetronics_footprints_qfn44_0_5mm_ep
   owner: wykys
   repo:

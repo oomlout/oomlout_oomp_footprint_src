@@ -17,9 +17,18 @@
   oomp:
     footprint_name: fsupcms
     library_name: kit_dev_coldfire
+    md5: 2718af1fb0c0e66b4c56fac6fa731e70
+    md5_10: 2718af1fb0
+    md5_5: 2718a
+    md5_6: 2718af
+    oomp_key: oomp_wykys_kit_dev_coldfire_fsupcms
+    oomp_key_extra: oomp_footprint_wykys_kit_dev_coldfire_fsupcms
+    oomp_key_full: oomp_footprint_wykys_kit_dev_coldfire_fsupcms_2718af
+    oomp_key_simple: wykys_kit_dev_coldfire_fsupcms
     original_filename: kicad/demos/kit-dev-coldfire-xilinx_5213/kit-dev-coldfire.pretty/FSUPCMS.kicad_mod
     owner_name: wykys
   oomp_key: oomp_wykys_kit_dev_coldfire_fsupcms
+  oomp_key_full: oomp_footprint_wykys_kit_dev_coldfire_fsupcms
   oomp_key_simple: wykys_kit_dev_coldfire_fsupcms
   owner: wykys
   repo:

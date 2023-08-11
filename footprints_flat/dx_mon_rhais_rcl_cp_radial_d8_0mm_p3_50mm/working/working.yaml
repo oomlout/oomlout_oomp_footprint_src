@@ -18,9 +18,18 @@
   oomp:
     footprint_name: cp_radial_d8_0mm_p3_50mm
     library_name: rhais_rcl
+    md5: c3427a9c8865162d369d2ec1e0d40926
+    md5_10: c3427a9c88
+    md5_5: c3427
+    md5_6: c3427a
+    oomp_key: oomp_dx_mon_rhais_rcl_cp_radial_d8_0mm_p3_50mm
+    oomp_key_extra: oomp_footprint_dx_mon_rhais_rcl_cp_radial_d8_0mm_p3_50mm
+    oomp_key_full: oomp_footprint_dx_mon_rhais_rcl_cp_radial_d8_0mm_p3_50mm_c3427a
+    oomp_key_simple: dx_mon_rhais_rcl_cp_radial_d8_0mm_p3_50mm
     original_filename: rhais_rcl.pretty/CP_Radial_D8.0mm_P3.50mm.kicad_mod
     owner_name: dx_mon
   oomp_key: oomp_dx_mon_rhais_rcl_cp_radial_d8_0mm_p3_50mm
+  oomp_key_full: oomp_footprint_dx_mon_rhais_rcl_cp_radial_d8_0mm_p3_50mm
   oomp_key_simple: dx_mon_rhais_rcl_cp_radial_d8_0mm_p3_50mm
   owner: DX-MON
   repo:

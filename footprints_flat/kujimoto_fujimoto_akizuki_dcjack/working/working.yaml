@@ -17,9 +17,18 @@
   oomp:
     footprint_name: akizuki_dcjack
     library_name: fujimoto
+    md5: afbfff69e863cb31d22a5bfaddbcfd4f
+    md5_10: afbfff69e8
+    md5_5: afbff
+    md5_6: afbfff
+    oomp_key: oomp_kujimoto_fujimoto_akizuki_dcjack
+    oomp_key_extra: oomp_footprint_kujimoto_fujimoto_akizuki_dcjack
+    oomp_key_full: oomp_footprint_kujimoto_fujimoto_akizuki_dcjack_afbfff
+    oomp_key_simple: kujimoto_fujimoto_akizuki_dcjack
     original_filename: fujimoto.pretty/Akizuki_DCJACK.kicad_mod
     owner_name: kujimoto
   oomp_key: oomp_kujimoto_fujimoto_akizuki_dcjack
+  oomp_key_full: oomp_footprint_kujimoto_fujimoto_akizuki_dcjack
   oomp_key_simple: kujimoto_fujimoto_akizuki_dcjack
   owner: Kujimoto
   repo:

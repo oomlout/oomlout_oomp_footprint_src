@@ -17,9 +17,18 @@
   oomp:
     footprint_name: l_wuerth_hci_5040
     library_name: inductor_smd
+    md5: 7b82b1941630dbdcec51123c973b54bc
+    md5_10: 7b82b19416
+    md5_5: 7b82b
+    md5_6: 7b82b1
+    oomp_key: oomp_kicad_inductor_smd_l_wuerth_hci_5040
+    oomp_key_extra: oomp_footprint_kicad_inductor_smd_l_wuerth_hci_5040
+    oomp_key_full: oomp_footprint_kicad_inductor_smd_l_wuerth_hci_5040_7b82b1
+    oomp_key_simple: kicad_inductor_smd_l_wuerth_hci_5040
     original_filename: libraries/kicad-footprints/Inductor_SMD.pretty/L_Wuerth_HCI-5040.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_inductor_smd_l_wuerth_hci_5040
+  oomp_key_full: oomp_footprint_kicad_inductor_smd_l_wuerth_hci_5040
   oomp_key_simple: kicad_inductor_smd_l_wuerth_hci_5040
   owner: kicad
   repo:

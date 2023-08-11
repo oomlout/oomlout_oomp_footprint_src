@@ -19,9 +19,18 @@
   oomp:
     footprint_name: phoenixcontact_spt_5_1_v_7_5_1x01_p7_5mm_vertical
     library_name: connector_phoenix_spt
+    md5: 002315c2b21f580102a00a2a778bc14b
+    md5_10: 002315c2b2
+    md5_5: '00231'
+    md5_6: '002315'
+    oomp_key: oomp_kicad_connector_phoenix_spt_phoenixcontact_spt_5_1_v_7_5_1x01_p7_5mm_vertical
+    oomp_key_extra: oomp_footprint_kicad_connector_phoenix_spt_phoenixcontact_spt_5_1_v_7_5_1x01_p7_5mm_vertical
+    oomp_key_full: oomp_footprint_kicad_connector_phoenix_spt_phoenixcontact_spt_5_1_v_7_5_1x01_p7_5mm_vertical_002315
+    oomp_key_simple: kicad_connector_phoenix_spt_phoenixcontact_spt_5_1_v_7_5_1x01_p7_5mm_vertical
     original_filename: libraries/kicad-footprints/Connector_Phoenix_SPT.pretty/PhoenixContact_SPT_5_1-V-7.5_1x01_P7.5mm_Vertical.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_phoenix_spt_phoenixcontact_spt_5_1_v_7_5_1x01_p7_5mm_vertical
+  oomp_key_full: oomp_footprint_kicad_connector_phoenix_spt_phoenixcontact_spt_5_1_v_7_5_1x01_p7_5mm_vertical
   oomp_key_simple: kicad_connector_phoenix_spt_phoenixcontact_spt_5_1_v_7_5_1x01_p7_5mm_vertical
   owner: kicad
   repo:

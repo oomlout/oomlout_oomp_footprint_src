@@ -17,9 +17,18 @@
   oomp:
     footprint_name: vo618a_smd_4_7
     library_name: agg
+    md5: e28aff873194c324eaf266c7d84147f7
+    md5_10: e28aff8731
+    md5_5: e28af
+    md5_6: e28aff
+    oomp_key: oomp_adamgreig_agg_vo618a_smd_4_7
+    oomp_key_extra: oomp_footprint_adamgreig_agg_vo618a_smd_4_7
+    oomp_key_full: oomp_footprint_adamgreig_agg_vo618a_smd_4_7_e28aff
+    oomp_key_simple: adamgreig_agg_vo618a_smd_4_7
     original_filename: agg-kicad/agg.pretty/VO618A-SMD-4-7.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_vo618a_smd_4_7
+  oomp_key_full: oomp_footprint_adamgreig_agg_vo618a_smd_4_7
   oomp_key_simple: adamgreig_agg_vo618a_smd_4_7
   owner: adamgreig
   repo:

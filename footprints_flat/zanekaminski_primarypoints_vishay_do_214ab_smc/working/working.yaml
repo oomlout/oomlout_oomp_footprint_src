@@ -17,9 +17,18 @@
   oomp:
     footprint_name: vishay_do_214ab_smc
     library_name: primarypoints
+    md5: 814027bd1f623502c8796e924de4aa81
+    md5_10: 814027bd1f
+    md5_5: '81402'
+    md5_6: '814027'
+    oomp_key: oomp_zanekaminski_primarypoints_vishay_do_214ab_smc
+    oomp_key_extra: oomp_footprint_zanekaminski_primarypoints_vishay_do_214ab_smc
+    oomp_key_full: oomp_footprint_zanekaminski_primarypoints_vishay_do_214ab_smc_814027
+    oomp_key_simple: zanekaminski_primarypoints_vishay_do_214ab_smc
     original_filename: primarypoints.pretty/Vishay_DO-214AB_SMC.kicad_mod
     owner_name: zanekaminski
   oomp_key: oomp_zanekaminski_primarypoints_vishay_do_214ab_smc
+  oomp_key_full: oomp_footprint_zanekaminski_primarypoints_vishay_do_214ab_smc
   oomp_key_simple: zanekaminski_primarypoints_vishay_do_214ab_smc
   owner: ZaneKaminski
   repo:

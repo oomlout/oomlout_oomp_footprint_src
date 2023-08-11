@@ -18,9 +18,18 @@
   oomp:
     footprint_name: jst_vh_s2p_vh_1x02_p3_96mm_horizontal
     library_name: connector_jst
+    md5: 3b1093896d7699df21ad3adaf765b86b
+    md5_10: 3b1093896d
+    md5_5: 3b109
+    md5_6: 3b1093
+    oomp_key: oomp_kicad_connector_jst_jst_vh_s2p_vh_1x02_p3_96mm_horizontal
+    oomp_key_extra: oomp_footprint_kicad_connector_jst_jst_vh_s2p_vh_1x02_p3_96mm_horizontal
+    oomp_key_full: oomp_footprint_kicad_connector_jst_jst_vh_s2p_vh_1x02_p3_96mm_horizontal_3b1093
+    oomp_key_simple: kicad_connector_jst_jst_vh_s2p_vh_1x02_p3_96mm_horizontal
     original_filename: libraries/kicad-footprints/Connector_JST.pretty/JST_VH_S2P-VH_1x02_P3.96mm_Horizontal.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_jst_jst_vh_s2p_vh_1x02_p3_96mm_horizontal
+  oomp_key_full: oomp_footprint_kicad_connector_jst_jst_vh_s2p_vh_1x02_p3_96mm_horizontal
   oomp_key_simple: kicad_connector_jst_jst_vh_s2p_vh_1x02_p3_96mm_horizontal
   owner: kicad
   repo:

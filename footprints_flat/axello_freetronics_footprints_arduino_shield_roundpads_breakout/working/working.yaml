@@ -17,9 +17,18 @@
   oomp:
     footprint_name: arduino_shield_roundpads_breakout
     library_name: freetronics_footprints
+    md5: 2ae63f38f78da8c6761d54b56f7097b6
+    md5_10: 2ae63f38f7
+    md5_5: 2ae63
+    md5_6: 2ae63f
+    oomp_key: oomp_axello_freetronics_footprints_arduino_shield_roundpads_breakout
+    oomp_key_extra: oomp_footprint_axello_freetronics_footprints_arduino_shield_roundpads_breakout
+    oomp_key_full: oomp_footprint_axello_freetronics_footprints_arduino_shield_roundpads_breakout_2ae63f
+    oomp_key_simple: axello_freetronics_footprints_arduino_shield_roundpads_breakout
     original_filename: kicad/mods/freetronics_footprints.pretty/ARDUINO_SHIELD_ROUNDPADS_BREAKOUT.kicad_mod
     owner_name: axello
   oomp_key: oomp_axello_freetronics_footprints_arduino_shield_roundpads_breakout
+  oomp_key_full: oomp_footprint_axello_freetronics_footprints_arduino_shield_roundpads_breakout
   oomp_key_simple: axello_freetronics_footprints_arduino_shield_roundpads_breakout
   owner: axello
   repo:

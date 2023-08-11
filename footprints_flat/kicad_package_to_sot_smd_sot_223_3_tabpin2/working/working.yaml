@@ -17,9 +17,18 @@
   oomp:
     footprint_name: sot_223_3_tabpin2
     library_name: package_to_sot_smd
+    md5: f3a339941bb3df4065711501afd4c2f7
+    md5_10: f3a339941b
+    md5_5: f3a33
+    md5_6: f3a339
+    oomp_key: oomp_kicad_package_to_sot_smd_sot_223_3_tabpin2
+    oomp_key_extra: oomp_footprint_kicad_package_to_sot_smd_sot_223_3_tabpin2
+    oomp_key_full: oomp_footprint_kicad_package_to_sot_smd_sot_223_3_tabpin2_f3a339
+    oomp_key_simple: kicad_package_to_sot_smd_sot_223_3_tabpin2
     original_filename: libraries/kicad-footprints/Package_TO_SOT_SMD.pretty/SOT-223-3_TabPin2.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_to_sot_smd_sot_223_3_tabpin2
+  oomp_key_full: oomp_footprint_kicad_package_to_sot_smd_sot_223_3_tabpin2
   oomp_key_simple: kicad_package_to_sot_smd_sot_223_3_tabpin2
   owner: kicad
   repo:

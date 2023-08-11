@@ -17,9 +17,18 @@
   oomp:
     footprint_name: symbol_gnu_gpl_coppertop_small
     library_name: symbol
+    md5: 20c206b1ccf4d4e9406953b58008f7b8
+    md5_10: 20c206b1cc
+    md5_5: 20c20
+    md5_6: 20c206
+    oomp_key: oomp_kicad_symbol_symbol_gnu_gpl_coppertop_small
+    oomp_key_extra: oomp_footprint_kicad_symbol_symbol_gnu_gpl_coppertop_small
+    oomp_key_full: oomp_footprint_kicad_symbol_symbol_gnu_gpl_coppertop_small_20c206
+    oomp_key_simple: kicad_symbol_symbol_gnu_gpl_coppertop_small
     original_filename: libraries/kicad-footprints/Symbol.pretty/Symbol_GNU-GPL_CopperTop_Small.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_symbol_symbol_gnu_gpl_coppertop_small
+  oomp_key_full: oomp_footprint_kicad_symbol_symbol_gnu_gpl_coppertop_small
   oomp_key_simple: kicad_symbol_symbol_gnu_gpl_coppertop_small
   owner: kicad
   repo:

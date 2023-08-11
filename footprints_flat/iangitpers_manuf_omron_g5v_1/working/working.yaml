@@ -19,9 +19,18 @@
   oomp:
     footprint_name: omron_g5v_1
     library_name: manuf
+    md5: 803ffdb732fccb1d3ab1df5e20d20b98
+    md5_10: 803ffdb732
+    md5_5: 803ff
+    md5_6: 803ffd
+    oomp_key: oomp_iangitpers_manuf_omron_g5v_1
+    oomp_key_extra: oomp_footprint_iangitpers_manuf_omron_g5v_1
+    oomp_key_full: oomp_footprint_iangitpers_manuf_omron_g5v_1_803ffd
+    oomp_key_simple: iangitpers_manuf_omron_g5v_1
     original_filename: 4a/manuf.pretty/OMRON-G5V-1.kicad_mod
     owner_name: iangitpers
   oomp_key: oomp_iangitpers_manuf_omron_g5v_1
+  oomp_key_full: oomp_footprint_iangitpers_manuf_omron_g5v_1
   oomp_key_simple: iangitpers_manuf_omron_g5v_1
   owner: Iangitpers
   repo:

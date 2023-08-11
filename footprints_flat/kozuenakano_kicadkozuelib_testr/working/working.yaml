@@ -17,9 +17,18 @@
   oomp:
     footprint_name: testr
     library_name: kicadkozuelib
+    md5: f28001ca3d24ce75eae50bc2ca791b08
+    md5_10: f28001ca3d
+    md5_5: f2800
+    md5_6: f28001
+    oomp_key: oomp_kozuenakano_kicadkozuelib_testr
+    oomp_key_extra: oomp_footprint_kozuenakano_kicadkozuelib_testr
+    oomp_key_full: oomp_footprint_kozuenakano_kicadkozuelib_testr_f28001
+    oomp_key_simple: kozuenakano_kicadkozuelib_testr
     original_filename: KiCADKozueLib.pretty/testR.kicad_mod
     owner_name: kozuenakano
   oomp_key: oomp_kozuenakano_kicadkozuelib_testr
+  oomp_key_full: oomp_footprint_kozuenakano_kicadkozuelib_testr
   oomp_key_simple: kozuenakano_kicadkozuelib_testr
   owner: KozueNakano
   repo:

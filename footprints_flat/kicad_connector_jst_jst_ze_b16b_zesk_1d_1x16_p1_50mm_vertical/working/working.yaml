@@ -18,9 +18,18 @@
   oomp:
     footprint_name: jst_ze_b16b_zesk_1d_1x16_p1_50mm_vertical
     library_name: connector_jst
+    md5: 264988861c66a023fc2f10b8ab2e9d02
+    md5_10: 264988861c
+    md5_5: '26498'
+    md5_6: '264988'
+    oomp_key: oomp_kicad_connector_jst_jst_ze_b16b_zesk_1d_1x16_p1_50mm_vertical
+    oomp_key_extra: oomp_footprint_kicad_connector_jst_jst_ze_b16b_zesk_1d_1x16_p1_50mm_vertical
+    oomp_key_full: oomp_footprint_kicad_connector_jst_jst_ze_b16b_zesk_1d_1x16_p1_50mm_vertical_264988
+    oomp_key_simple: kicad_connector_jst_jst_ze_b16b_zesk_1d_1x16_p1_50mm_vertical
     original_filename: libraries/kicad-footprints/Connector_JST.pretty/JST_ZE_B16B-ZESK-1D_1x16_P1.50mm_Vertical.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_connector_jst_jst_ze_b16b_zesk_1d_1x16_p1_50mm_vertical
+  oomp_key_full: oomp_footprint_kicad_connector_jst_jst_ze_b16b_zesk_1d_1x16_p1_50mm_vertical
   oomp_key_simple: kicad_connector_jst_jst_ze_b16b_zesk_1d_1x16_p1_50mm_vertical
   owner: kicad
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: deans_mini_t_female
     library_name: rc_battery_connectors
+    md5: f1095b55c6fd8515869cecd367514632
+    md5_10: f1095b55c6
+    md5_5: f1095
+    md5_6: f1095b
+    oomp_key: oomp_madworm_rc_battery_connectors_deans_mini_t_female
+    oomp_key_extra: oomp_footprint_madworm_rc_battery_connectors_deans_mini_t_female
+    oomp_key_full: oomp_footprint_madworm_rc_battery_connectors_deans_mini_t_female_f1095b
+    oomp_key_simple: madworm_rc_battery_connectors_deans_mini_t_female
     original_filename: RC-Battery-Connectors.pretty/Deans_mini-T_female.kicad_mod
     owner_name: madworm
   oomp_key: oomp_madworm_rc_battery_connectors_deans_mini_t_female
+  oomp_key_full: oomp_footprint_madworm_rc_battery_connectors_deans_mini_t_female
   oomp_key_simple: madworm_rc_battery_connectors_deans_mini_t_female
   owner: madworm
   repo:

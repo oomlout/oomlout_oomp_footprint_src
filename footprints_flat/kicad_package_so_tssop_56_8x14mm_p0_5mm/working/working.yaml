@@ -18,9 +18,18 @@
   oomp:
     footprint_name: tssop_56_8x14mm_p0_5mm
     library_name: package_so
+    md5: 679cdd71021c752f9730936afb1beccc
+    md5_10: 679cdd7102
+    md5_5: 679cd
+    md5_6: 679cdd
+    oomp_key: oomp_kicad_package_so_tssop_56_8x14mm_p0_5mm
+    oomp_key_extra: oomp_footprint_kicad_package_so_tssop_56_8x14mm_p0_5mm
+    oomp_key_full: oomp_footprint_kicad_package_so_tssop_56_8x14mm_p0_5mm_679cdd
+    oomp_key_simple: kicad_package_so_tssop_56_8x14mm_p0_5mm
     original_filename: libraries/kicad-footprints/Package_SO.pretty/TSSOP-56_8x14mm_P0.5mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_so_tssop_56_8x14mm_p0_5mm
+  oomp_key_full: oomp_footprint_kicad_package_so_tssop_56_8x14mm_p0_5mm
   oomp_key_simple: kicad_package_so_tssop_56_8x14mm_p0_5mm
   owner: kicad
   repo:

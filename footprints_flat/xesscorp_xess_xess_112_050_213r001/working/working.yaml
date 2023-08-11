@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_112_050_213r001
     library_name: xess
+    md5: 760e1236d3e7a47601e8990e641393f3
+    md5_10: 760e1236d3
+    md5_5: 760e1
+    md5_6: 760e12
+    oomp_key: oomp_xesscorp_xess_xess_112_050_213r001
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_112_050_213r001
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_112_050_213r001_760e12
+    oomp_key_simple: xesscorp_xess_xess_112_050_213r001
     original_filename: xess.pretty/xess-112-050-213R001.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_112_050_213r001
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_112_050_213r001
   oomp_key_simple: xesscorp_xess_xess_112_050_213r001
   owner: xesscorp
   repo:

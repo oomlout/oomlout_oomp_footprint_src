@@ -17,9 +17,18 @@
   oomp:
     footprint_name: vl53l0cxv0dh_1
     library_name: digikey_footprints
+    md5: cc8ff4bb05257938c46c422058de90ee
+    md5_10: cc8ff4bb05
+    md5_5: cc8ff
+    md5_6: cc8ff4
+    oomp_key: oomp_digikey_digikey_footprints_vl53l0cxv0dh_1
+    oomp_key_extra: oomp_footprint_digikey_digikey_footprints_vl53l0cxv0dh_1
+    oomp_key_full: oomp_footprint_digikey_digikey_footprints_vl53l0cxv0dh_1_cc8ff4
+    oomp_key_simple: digikey_digikey_footprints_vl53l0cxv0dh_1
     original_filename: digikey-kicad-library/digikey-footprints.pretty/VL53L0CXV0DH_1.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_digikey_footprints_vl53l0cxv0dh_1
+  oomp_key_full: oomp_footprint_digikey_digikey_footprints_vl53l0cxv0dh_1
   oomp_key_simple: digikey_digikey_footprints_vl53l0cxv0dh_1
   owner: digikey
   repo:

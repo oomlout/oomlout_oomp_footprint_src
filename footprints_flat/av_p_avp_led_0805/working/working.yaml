@@ -17,9 +17,18 @@
   oomp:
     footprint_name: led_0805
     library_name: avp
+    md5: 9af420ac9d45c1e401fb3646ae043dae
+    md5_10: 9af420ac9d
+    md5_5: 9af42
+    md5_6: 9af420
+    oomp_key: oomp_av_p_avp_led_0805
+    oomp_key_extra: oomp_footprint_av_p_avp_led_0805
+    oomp_key_full: oomp_footprint_av_p_avp_led_0805_9af420
+    oomp_key_simple: av_p_avp_led_0805
     original_filename: Avp.pretty/LED_0805.kicad_mod
     owner_name: av_p
   oomp_key: oomp_av_p_avp_led_0805
+  oomp_key_full: oomp_footprint_av_p_avp_led_0805
   oomp_key_simple: av_p_avp_led_0805
   owner: av-p
   repo:

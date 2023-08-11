@@ -17,9 +17,18 @@
   oomp:
     footprint_name: mill_max_0908
     library_name: conn_test
+    md5: 349a3e68b1fe0a095fae62643aeb3199
+    md5_10: 349a3e68b1
+    md5_5: 349a3
+    md5_6: 349a3e
+    oomp_key: oomp_cpavlina_conn_test_mill_max_0908
+    oomp_key_extra: oomp_footprint_cpavlina_conn_test_mill_max_0908
+    oomp_key_full: oomp_footprint_cpavlina_conn_test_mill_max_0908_349a3e
+    oomp_key_simple: cpavlina_conn_test_mill_max_0908
     original_filename: kicad-pcblib/conn-test.pretty/MILL-MAX_0908.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_conn_test_mill_max_0908
+  oomp_key_full: oomp_footprint_cpavlina_conn_test_mill_max_0908
   oomp_key_simple: cpavlina_conn_test_mill_max_0908
   owner: cpavlina
   repo:

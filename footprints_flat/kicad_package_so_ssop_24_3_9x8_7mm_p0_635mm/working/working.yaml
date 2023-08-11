@@ -18,9 +18,18 @@
   oomp:
     footprint_name: ssop_24_3_9x8_7mm_p0_635mm
     library_name: package_so
+    md5: 1805ff7fe8bbfe91016cbcbd24834792
+    md5_10: 1805ff7fe8
+    md5_5: 1805f
+    md5_6: 1805ff
+    oomp_key: oomp_kicad_package_so_ssop_24_3_9x8_7mm_p0_635mm
+    oomp_key_extra: oomp_footprint_kicad_package_so_ssop_24_3_9x8_7mm_p0_635mm
+    oomp_key_full: oomp_footprint_kicad_package_so_ssop_24_3_9x8_7mm_p0_635mm_1805ff
+    oomp_key_simple: kicad_package_so_ssop_24_3_9x8_7mm_p0_635mm
     original_filename: libraries/kicad-footprints/Package_SO.pretty/SSOP-24_3.9x8.7mm_P0.635mm.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_package_so_ssop_24_3_9x8_7mm_p0_635mm
+  oomp_key_full: oomp_footprint_kicad_package_so_ssop_24_3_9x8_7mm_p0_635mm
   oomp_key_simple: kicad_package_so_ssop_24_3_9x8_7mm_p0_635mm
   owner: kicad
   repo:

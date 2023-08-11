@@ -17,9 +17,18 @@
   oomp:
     footprint_name: capcwr5634x216
     library_name: ipc7351_nominal
+    md5: 9f248ef6e5f029e16de7032022d64fa3
+    md5_10: 9f248ef6e5
+    md5_5: 9f248
+    md5_6: 9f248e
+    oomp_key: oomp_cpavlina_ipc7351_nominal_capcwr5634x216
+    oomp_key_extra: oomp_footprint_cpavlina_ipc7351_nominal_capcwr5634x216
+    oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_capcwr5634x216_9f248e
+    oomp_key_simple: cpavlina_ipc7351_nominal_capcwr5634x216
     original_filename: kicad-pcblib/IPC7351-Nominal.pretty/CAPCWR5634X216.kicad_mod
     owner_name: cpavlina
   oomp_key: oomp_cpavlina_ipc7351_nominal_capcwr5634x216
+  oomp_key_full: oomp_footprint_cpavlina_ipc7351_nominal_capcwr5634x216
   oomp_key_simple: cpavlina_ipc7351_nominal_capcwr5634x216
   owner: cpavlina
   repo:

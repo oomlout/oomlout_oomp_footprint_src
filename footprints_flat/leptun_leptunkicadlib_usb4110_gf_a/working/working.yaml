@@ -18,9 +18,18 @@
   oomp:
     footprint_name: usb4110_gf_a
     library_name: leptunkicadlib
+    md5: df075a453bae6fbdc6dcac068f5bc4dc
+    md5_10: df075a453b
+    md5_5: df075
+    md5_6: df075a
+    oomp_key: oomp_leptun_leptunkicadlib_usb4110_gf_a
+    oomp_key_extra: oomp_footprint_leptun_leptunkicadlib_usb4110_gf_a
+    oomp_key_full: oomp_footprint_leptun_leptunkicadlib_usb4110_gf_a_df075a
+    oomp_key_simple: leptun_leptunkicadlib_usb4110_gf_a
     original_filename: leptunKicadLib.pretty/USB4110-GF-A.kicad_mod
     owner_name: leptun
   oomp_key: oomp_leptun_leptunkicadlib_usb4110_gf_a
+  oomp_key_full: oomp_footprint_leptun_leptunkicadlib_usb4110_gf_a
   oomp_key_simple: leptun_leptunkicadlib_usb4110_gf_a
   owner: leptun
   repo:

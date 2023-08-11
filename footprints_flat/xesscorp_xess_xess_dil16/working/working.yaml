@@ -17,9 +17,18 @@
   oomp:
     footprint_name: xess_dil16
     library_name: xess
+    md5: b2a148a438c9b1c72de26f7b592ae251
+    md5_10: b2a148a438
+    md5_5: b2a14
+    md5_6: b2a148
+    oomp_key: oomp_xesscorp_xess_xess_dil16
+    oomp_key_extra: oomp_footprint_xesscorp_xess_xess_dil16
+    oomp_key_full: oomp_footprint_xesscorp_xess_xess_dil16_b2a148
+    oomp_key_simple: xesscorp_xess_xess_dil16
     original_filename: xess.pretty/xess-DIL16.kicad_mod
     owner_name: xesscorp
   oomp_key: oomp_xesscorp_xess_xess_dil16
+  oomp_key_full: oomp_footprint_xesscorp_xess_xess_dil16
   oomp_key_simple: xesscorp_xess_xess_dil16
   owner: xesscorp
   repo:

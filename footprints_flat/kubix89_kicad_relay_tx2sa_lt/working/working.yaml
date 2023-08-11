@@ -17,9 +17,18 @@
   oomp:
     footprint_name: relay_tx2sa_lt
     library_name: kicad
+    md5: 46231838b888e9e65a0c4bb692e85adc
+    md5_10: 46231838b8
+    md5_5: '46231'
+    md5_6: '462318'
+    oomp_key: oomp_kubix89_kicad_relay_tx2sa_lt
+    oomp_key_extra: oomp_footprint_kubix89_kicad_relay_tx2sa_lt
+    oomp_key_full: oomp_footprint_kubix89_kicad_relay_tx2sa_lt_462318
+    oomp_key_simple: kubix89_kicad_relay_tx2sa_lt
     original_filename: kiCAD.pretty/RELAY_TX2SA-LT.kicad_mod
     owner_name: kubix89
   oomp_key: oomp_kubix89_kicad_relay_tx2sa_lt
+  oomp_key_full: oomp_footprint_kubix89_kicad_relay_tx2sa_lt
   oomp_key_simple: kubix89_kicad_relay_tx2sa_lt
   owner: kubiX89
   repo:

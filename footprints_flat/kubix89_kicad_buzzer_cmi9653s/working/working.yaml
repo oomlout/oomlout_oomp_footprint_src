@@ -17,9 +17,18 @@
   oomp:
     footprint_name: buzzer_cmi9653s
     library_name: kicad
+    md5: 3cb3c64b13f648a26b4ce052ad448aea
+    md5_10: 3cb3c64b13
+    md5_5: 3cb3c
+    md5_6: 3cb3c6
+    oomp_key: oomp_kubix89_kicad_buzzer_cmi9653s
+    oomp_key_extra: oomp_footprint_kubix89_kicad_buzzer_cmi9653s
+    oomp_key_full: oomp_footprint_kubix89_kicad_buzzer_cmi9653s_3cb3c6
+    oomp_key_simple: kubix89_kicad_buzzer_cmi9653s
     original_filename: kiCAD.pretty/BUZZER_CMI9653S.kicad_mod
     owner_name: kubix89
   oomp_key: oomp_kubix89_kicad_buzzer_cmi9653s
+  oomp_key_full: oomp_footprint_kubix89_kicad_buzzer_cmi9653s
   oomp_key_simple: kubix89_kicad_buzzer_cmi9653s
   owner: kubiX89
   repo:

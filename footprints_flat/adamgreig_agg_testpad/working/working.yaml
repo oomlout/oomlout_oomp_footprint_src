@@ -16,10 +16,19 @@
   name: agg-kicad
   oomp:
     footprint_name: testpad
-    library_name: unchecked
+    library_name: agg
+    md5: 7a1df796627cebecf6b458372c09c1b0
+    md5_10: 7a1df79662
+    md5_5: 7a1df
+    md5_6: 7a1df7
+    oomp_key: oomp_adamgreig_agg_testpad
+    oomp_key_extra: oomp_footprint_adamgreig_agg_testpad
+    oomp_key_full: oomp_footprint_adamgreig_agg_testpad_7a1df7
+    oomp_key_simple: adamgreig_agg_testpad
     original_filename: agg-kicad/agg.pretty/unchecked.pretty/TESTPAD.kicad_mod
     owner_name: adamgreig
   oomp_key: oomp_adamgreig_agg_testpad
+  oomp_key_full: oomp_footprint_adamgreig_agg_testpad
   oomp_key_simple: adamgreig_agg_testpad
   owner: adamgreig
   repo:

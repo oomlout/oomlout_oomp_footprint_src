@@ -17,9 +17,18 @@
   oomp:
     footprint_name: l_wuerth_we_pd2_typ_ms
     library_name: inductor_smd
+    md5: 7339ac47984f209413d723f14e2ff22a
+    md5_10: 7339ac4798
+    md5_5: 7339a
+    md5_6: 7339ac
+    oomp_key: oomp_kicad_inductor_smd_l_wuerth_we_pd2_typ_ms
+    oomp_key_extra: oomp_footprint_kicad_inductor_smd_l_wuerth_we_pd2_typ_ms
+    oomp_key_full: oomp_footprint_kicad_inductor_smd_l_wuerth_we_pd2_typ_ms_7339ac
+    oomp_key_simple: kicad_inductor_smd_l_wuerth_we_pd2_typ_ms
     original_filename: libraries/kicad-footprints/Inductor_SMD.pretty/L_Wuerth_WE-PD2-Typ-MS.kicad_mod
     owner_name: kicad
   oomp_key: oomp_kicad_inductor_smd_l_wuerth_we_pd2_typ_ms
+  oomp_key_full: oomp_footprint_kicad_inductor_smd_l_wuerth_we_pd2_typ_ms
   oomp_key_simple: kicad_inductor_smd_l_wuerth_we_pd2_typ_ms
   owner: kicad
   repo:

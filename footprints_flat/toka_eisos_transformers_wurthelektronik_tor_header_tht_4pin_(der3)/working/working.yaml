@@ -17,9 +17,18 @@
   oomp:
     footprint_name: tor_header_tht_4pin_(der3)
     library_name: transformers_wurthelektronik
+    md5: 3b8a4d18370ae95e0aa8e0ebeba1c690
+    md5_10: 3b8a4d1837
+    md5_5: 3b8a4
+    md5_6: 3b8a4d
+    oomp_key: oomp_toka_eisos_transformers_wurthelektronik_tor_header_tht_4pin_(der3)
+    oomp_key_extra: oomp_footprint_toka_eisos_transformers_wurthelektronik_tor_header_tht_4pin_(der3)
+    oomp_key_full: oomp_footprint_toka_eisos_transformers_wurthelektronik_tor_header_tht_4pin_(der3)_3b8a4d
+    oomp_key_simple: toka_eisos_transformers_wurthelektronik_tor_header_tht_4pin_(der3)
     original_filename: Transformers_WurthElektronik.pretty/TOR_HEADER_THT_4PIN_(DER3).kicad_mod
     owner_name: toka_eisos
   oomp_key: oomp_toka_eisos_transformers_wurthelektronik_tor_header_tht_4pin_(der3)
+  oomp_key_full: oomp_footprint_toka_eisos_transformers_wurthelektronik_tor_header_tht_4pin_(der3)
   oomp_key_simple: toka_eisos_transformers_wurthelektronik_tor_header_tht_4pin_(der3)
   owner: toka-eisos
   repo:

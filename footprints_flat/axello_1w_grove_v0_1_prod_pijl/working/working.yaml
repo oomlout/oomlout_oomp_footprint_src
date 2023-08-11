@@ -17,9 +17,18 @@
   oomp:
     footprint_name: prod_pijl
     library_name: 1w_grove_v0_1
+    md5: 6f0b10eb1c8c6d57e8423be5149e5ad8
+    md5_10: 6f0b10eb1c
+    md5_5: 6f0b1
+    md5_6: 6f0b10
+    oomp_key: oomp_axello_1w_grove_v0_1_prod_pijl
+    oomp_key_extra: oomp_footprint_axello_1w_grove_v0_1_prod_pijl
+    oomp_key_full: oomp_footprint_axello_1w_grove_v0_1_prod_pijl_6f0b10
+    oomp_key_simple: axello_1w_grove_v0_1_prod_pijl
     original_filename: kicad/6.0/projects/1w-grove-v0.1/1w-grove-v0.1.pretty/prod.pijl.kicad_mod
     owner_name: axello
   oomp_key: oomp_axello_1w_grove_v0_1_prod_pijl
+  oomp_key_full: oomp_footprint_axello_1w_grove_v0_1_prod_pijl
   oomp_key_simple: axello_1w_grove_v0_1_prod_pijl
   owner: axello
   repo:
