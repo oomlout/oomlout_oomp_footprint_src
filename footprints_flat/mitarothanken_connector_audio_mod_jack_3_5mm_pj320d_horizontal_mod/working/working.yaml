@@ -11,13 +11,14 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/mitarothanken_connector_audio_mod_jack_3_5mm_pj320d_horizontal_mod/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/mitarothanken_connector_audio_mod_jack_3_5mm_pj320d_horizontal_mod/working
-    oomp_doc: footprints/footprints/mitaroThanken/Connector_Audio_Mod/Jack_3.5mm_PJ320D_Horizontal_Mod/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/mitaroThanken/Connector_Audio_Mod/Jack_3.5mm_PJ320D_Horizontal_Mod/working
     oomp_src_flat: footprints_flat/footprints_flat/mitarothanken_connector_audio_mod_jack_3_5mm_pj320d_horizontal_mod/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/mitarothanken_connector_audio_mod_jack_3_5mm_pj320d_horizontal_mod/working
-    oomp_src_folder: footprints_folder/footprints_folder/mitaroThanken/Connector_Audio_Mod/Jack_3.5mm_PJ320D_Horizontal_Mod/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/mitaroThanken/Connector_Audio_Mod/Jack_3.5mm_PJ320D_Horizontal_Mod/working
   name: Connector_Audio_Mod.pretty
+  oomp:
+    footprint_name: jack_3_5mm_pj320d_horizontal_mod
+    library_name: connector_audio_mod
+    original_filename: Connector_Audio_Mod.pretty/Jack_3.5mm_PJ320D_Horizontal_Mod.kicad_mod
+    owner_name: mitarothanken
   oomp_key: oomp_mitarothanken_connector_audio_mod_jack_3_5mm_pj320d_horizontal_mod
   oomp_key_simple: mitarothanken_connector_audio_mod_jack_3_5mm_pj320d_horizontal_mod
   owner: mitaroThanken

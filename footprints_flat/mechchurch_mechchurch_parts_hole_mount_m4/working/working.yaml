@@ -11,13 +11,14 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/mechchurch_mechchurch_parts_hole_mount_m4/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/mechchurch_mechchurch_parts_hole_mount_m4/working
-    oomp_doc: footprints/footprints/MechChurch/MechChurch-parts/Hole_Mount_M4/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/MechChurch/MechChurch-parts/Hole_Mount_M4/working
     oomp_src_flat: footprints_flat/footprints_flat/mechchurch_mechchurch_parts_hole_mount_m4/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/mechchurch_mechchurch_parts_hole_mount_m4/working
-    oomp_src_folder: footprints_folder/footprints_folder/MechChurch/MechChurch-parts/Hole_Mount_M4/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/MechChurch/MechChurch-parts/Hole_Mount_M4/working
   name: MechChurch-parts.pretty
+  oomp:
+    footprint_name: hole_mount_m4
+    library_name: mechchurch_parts
+    original_filename: MechChurch-parts.pretty/Hole_Mount_M4.kicad_mod
+    owner_name: mechchurch
   oomp_key: oomp_mechchurch_mechchurch_parts_hole_mount_m4
   oomp_key_simple: mechchurch_mechchurch_parts_hole_mount_m4
   owner: MechChurch

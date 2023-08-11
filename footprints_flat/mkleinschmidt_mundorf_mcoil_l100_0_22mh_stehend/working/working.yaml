@@ -11,13 +11,14 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/mkleinschmidt_mundorf_mcoil_l100_0_22mh_stehend/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/mkleinschmidt_mundorf_mcoil_l100_0_22mh_stehend/working
-    oomp_doc: footprints/footprints/mkleinschmidt/Mundorf/MCoil_L100_0.22mH_stehend/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/mkleinschmidt/Mundorf/MCoil_L100_0.22mH_stehend/working
     oomp_src_flat: footprints_flat/footprints_flat/mkleinschmidt_mundorf_mcoil_l100_0_22mh_stehend/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/mkleinschmidt_mundorf_mcoil_l100_0_22mh_stehend/working
-    oomp_src_folder: footprints_folder/footprints_folder/mkleinschmidt/Mundorf/MCoil_L100_0.22mH_stehend/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/mkleinschmidt/Mundorf/MCoil_L100_0.22mH_stehend/working
   name: Mundorf.pretty
+  oomp:
+    footprint_name: mcoil_l100_0_22mh_stehend
+    library_name: mundorf
+    original_filename: Mundorf.pretty/MCoil_L100_0.22mH_stehend.kicad_mod
+    owner_name: mkleinschmidt
   oomp_key: oomp_mkleinschmidt_mundorf_mcoil_l100_0_22mh_stehend
   oomp_key_simple: mkleinschmidt_mundorf_mcoil_l100_0_22mh_stehend
   owner: mkleinschmidt

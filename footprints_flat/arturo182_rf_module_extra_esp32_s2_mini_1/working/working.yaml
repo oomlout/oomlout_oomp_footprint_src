@@ -13,13 +13,14 @@
     github_src_repo: https://github.com/arturo182/kicad-modules
     oomp_bot: footprints/arturo182_rf_module_extra_esp32_s2_mini_1/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/arturo182_rf_module_extra_esp32_s2_mini_1/working
-    oomp_doc: footprints/footprints/arturo182/RF_Module_Extra/ESP32-S2-MINI-1/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/arturo182/RF_Module_Extra/ESP32-S2-MINI-1/working
     oomp_src_flat: footprints_flat/footprints_flat/arturo182_rf_module_extra_esp32_s2_mini_1/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/arturo182_rf_module_extra_esp32_s2_mini_1/working
-    oomp_src_folder: footprints_folder/footprints_folder/arturo182/RF_Module_Extra/ESP32-S2-MINI-1/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/arturo182/RF_Module_Extra/ESP32-S2-MINI-1/working
   name: kicad-modules
+  oomp:
+    footprint_name: esp32_s2_mini_1
+    library_name: rf_module_extra
+    original_filename: kicad-modules/RF_Module_Extra.pretty/ESP32-S2-MINI-1.kicad_mod
+    owner_name: arturo182
   oomp_key: oomp_arturo182_rf_module_extra_esp32_s2_mini_1
   oomp_key_simple: arturo182_rf_module_extra_esp32_s2_mini_1
   owner: arturo182

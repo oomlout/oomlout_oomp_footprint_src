@@ -11,13 +11,14 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/marf41_mf_conn_b3fs_2pin/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/marf41_mf_conn_b3fs_2pin/working
-    oomp_doc: footprints/footprints/marf41/MF-conn/B3FS-2pin/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/marf41/MF-conn/B3FS-2pin/working
     oomp_src_flat: footprints_flat/footprints_flat/marf41_mf_conn_b3fs_2pin/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/marf41_mf_conn_b3fs_2pin/working
-    oomp_src_folder: footprints_folder/footprints_folder/marf41/MF-conn/B3FS-2pin/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/marf41/MF-conn/B3FS-2pin/working
   name: MF-conn.pretty
+  oomp:
+    footprint_name: b3fs_2pin
+    library_name: mf_conn
+    original_filename: MF-conn.pretty/B3FS-2pin.kicad_mod
+    owner_name: marf41
   oomp_key: oomp_marf41_mf_conn_b3fs_2pin
   oomp_key_simple: marf41_mf_conn_b3fs_2pin
   owner: marf41

@@ -6,19 +6,20 @@ The original footprint can be found at:
 http://github.com/AcheronProject/acheron_Connectors.pretty/blob/master/XFCN_F1004-H-16-20G-R_P1.0mm_MountingReliefs.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
-* description:   
-* libraryLink:   
-* number_of_pads:   
+* description: None  
+* libraryLink: SM04B-SRSS-TB(LF)(SN)_mounting-reliefs  
+* number_of_pads: 14  
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| error | Expression does not have the correct type |  
 | file | acheron_Connectors.pretty/SM04B-SRSS-TB(LF)(SN)_mounting-reliefs.kicad_mod |  
+| footprint | {'description': None, 'libraryLink': 'SM04B-SRSS-TB(LF)(SN)_mounting-reliefs', 'number_of_pads': 14} |  
 | footprint_library_directory | footprint_library_owner/AcheronProject_acheron_Connectors.pretty |  
 | footprint_library_directory_flat | footprints_flat/acheronproject_acheron_connectors_sm04b_srss_tb(lf)(sn)_mounting_reliefs/working |  
 | github_path | http://github.com/AcheronProject/acheron_Connectors.pretty/blob/master/SM04B-SRSS-TB(LF)(SN)_mounting-reliefs.kicad_mod |  
-| links | {'github_owner': 'AcheronProject', 'github_repo_name': 'acheron_Connectors.pretty', 'github_src': 'http://github.com/AcheronProject/acheron_Connectors.pretty/blob/master/XFCN_F1004-H-16-20G-R_P1.0mm_MountingReliefs.kicad_mod', 'github_src_repo': 'https://github.com/AcheronProject/acheron_Connectors.pretty', 'oomp_bot': 'footprints/acheronproject_acheron_connectors_sm04b_srss_tb(lf)(sn)_mounting_reliefs/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/acheronproject_acheron_connectors_sm04b_srss_tb(lf)(sn)_mounting_reliefs/working', 'oomp_doc': 'footprints/footprints/AcheronProject/acheron_Connectors/SM04B-SRSS-TB(LF)(SN)_mounting-reliefs/working/', 'oomp_doc_github': 'https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/AcheronProject/acheron_Connectors/SM04B-SRSS-TB(LF)(SN)_mounting-reliefs/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/acheronproject_acheron_connectors_sm04b_srss_tb(lf)(sn)_mounting_reliefs/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/acheronproject_acheron_connectors_sm04b_srss_tb(lf)(sn)_mounting_reliefs/working', 'oomp_src_folder': 'footprints_folder/footprints_folder/AcheronProject/acheron_Connectors/SM04B-SRSS-TB(LF)(SN)_mounting-reliefs/working', 'oomp_src_folder_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/AcheronProject/acheron_Connectors/SM04B-SRSS-TB(LF)(SN)_mounting-reliefs/working'} |  
+| links | {'github_owner': 'AcheronProject', 'github_repo_name': 'acheron_Connectors.pretty', 'github_src': 'http://github.com/AcheronProject/acheron_Connectors.pretty/blob/master/XFCN_F1004-H-16-20G-R_P1.0mm_MountingReliefs.kicad_mod', 'github_src_repo': 'https://github.com/AcheronProject/acheron_Connectors.pretty', 'oomp_bot': 'footprints/acheronproject_acheron_connectors_sm04b_srss_tb(lf)(sn)_mounting_reliefs/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/acheronproject_acheron_connectors_sm04b_srss_tb(lf)(sn)_mounting_reliefs/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/acheronproject_acheron_connectors_sm04b_srss_tb(lf)(sn)_mounting_reliefs/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/acheronproject_acheron_connectors_sm04b_srss_tb(lf)(sn)_mounting_reliefs/working'} |  
 | name | acheron_Connectors.pretty |  
+| oomp | {'footprint_name': 'sm04b_srss_tb(lf)(sn)_mounting_reliefs', 'library_name': 'acheron_connectors', 'original_filename': 'acheron_Connectors.pretty/SM04B-SRSS-TB(LF)(SN)_mounting-reliefs.kicad_mod', 'owner_name': 'acheronproject'} |  
 | oomp_key | oomp_acheronproject_acheron_connectors_sm04b_srss_tb(lf)(sn)_mounting_reliefs |  
 | oomp_key_simple | acheronproject_acheron_connectors_sm04b_srss_tb(lf)(sn)_mounting_reliefs |  
 | owner | AcheronProject |  

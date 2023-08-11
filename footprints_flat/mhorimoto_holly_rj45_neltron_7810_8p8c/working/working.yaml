@@ -12,13 +12,14 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/mhorimoto_holly_rj45_neltron_7810_8p8c/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/mhorimoto_holly_rj45_neltron_7810_8p8c/working
-    oomp_doc: footprints/footprints/mhorimoto/HOLLY/RJ45_Neltron_7810-8P8C/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/mhorimoto/HOLLY/RJ45_Neltron_7810-8P8C/working
     oomp_src_flat: footprints_flat/footprints_flat/mhorimoto_holly_rj45_neltron_7810_8p8c/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/mhorimoto_holly_rj45_neltron_7810_8p8c/working
-    oomp_src_folder: footprints_folder/footprints_folder/mhorimoto/HOLLY/RJ45_Neltron_7810-8P8C/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/mhorimoto/HOLLY/RJ45_Neltron_7810-8P8C/working
   name: HOLLY.pretty
+  oomp:
+    footprint_name: rj45_neltron_7810_8p8c
+    library_name: holly
+    original_filename: HOLLY.pretty/RJ45_Neltron_7810-8P8C.kicad_mod
+    owner_name: mhorimoto
   oomp_key: oomp_mhorimoto_holly_rj45_neltron_7810_8p8c
   oomp_key_simple: mhorimoto_holly_rj45_neltron_7810_8p8c
   owner: mhorimoto

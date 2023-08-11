@@ -11,13 +11,14 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/mcous_sensors_ms5611_01ba/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/mcous_sensors_ms5611_01ba/working
-    oomp_doc: footprints/footprints/mcous/_sensors/_MS5611-01BA/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/mcous/_sensors/_MS5611-01BA/working
     oomp_src_flat: footprints_flat/footprints_flat/mcous_sensors_ms5611_01ba/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/mcous_sensors_ms5611_01ba/working
-    oomp_src_folder: footprints_folder/footprints_folder/mcous/_sensors/_MS5611-01BA/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/mcous/_sensors/_MS5611-01BA/working
   name: kicad-lib
+  oomp:
+    footprint_name: _ms5611_01ba
+    library_name: _sensors
+    original_filename: kicad-lib/footprints/_sensors.pretty/_MS5611-01BA.kicad_mod
+    owner_name: mcous
   oomp_key: oomp_mcous_sensors_ms5611_01ba
   oomp_key_simple: mcous_sensors_ms5611_01ba
   owner: mcous

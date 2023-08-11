@@ -6,19 +6,20 @@ The original footprint can be found at:
 http://github.com/arturo182/kicad-modules/blob/master/Symbols_Extra.pretty/SolderParty-New-Logo_7.5x6.4mm_SilkScreen.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
-* description:   
-* libraryLink:   
-* number_of_pads:   
+* description: None  
+* libraryLink: FH35C-17S-0.3SHW_Inverted  
+* number_of_pads: 19  
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| error | Expression does not have the correct type |  
 | file | kicad-modules/Connector_Hirose_Extra.pretty/FH35C-17S-0.3SHW_Inverted.kicad_mod |  
+| footprint | {'description': None, 'libraryLink': 'FH35C-17S-0.3SHW_Inverted', 'number_of_pads': 19} |  
 | footprint_library_directory | footprint_library_owner/arturo182_kicad-modules |  
 | footprint_library_directory_flat | footprints_flat/arturo182_connector_hirose_extra_fh35c_17s_0_3shw_inverted/working |  
 | github_path | http://github.com/arturo182/kicad-modules/blob/master/Connector_Hirose_Extra.pretty/FH35C-17S-0.3SHW_Inverted.kicad_mod |  
-| links | {'github_owner': 'arturo182', 'github_repo_name': 'kicad-modules', 'github_src': 'http://github.com/arturo182/kicad-modules/blob/master/Symbols_Extra.pretty/SolderParty-New-Logo_7.5x6.4mm_SilkScreen.kicad_mod', 'github_src_repo': 'https://github.com/arturo182/kicad-modules', 'oomp_bot': 'footprints/arturo182_connector_hirose_extra_fh35c_17s_0_3shw_inverted/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/arturo182_connector_hirose_extra_fh35c_17s_0_3shw_inverted/working', 'oomp_doc': 'footprints/footprints/arturo182/Connector_Hirose_Extra/FH35C-17S-0.3SHW_Inverted/working/', 'oomp_doc_github': 'https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/arturo182/Connector_Hirose_Extra/FH35C-17S-0.3SHW_Inverted/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/arturo182_connector_hirose_extra_fh35c_17s_0_3shw_inverted/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/arturo182_connector_hirose_extra_fh35c_17s_0_3shw_inverted/working', 'oomp_src_folder': 'footprints_folder/footprints_folder/arturo182/Connector_Hirose_Extra/FH35C-17S-0.3SHW_Inverted/working', 'oomp_src_folder_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/arturo182/Connector_Hirose_Extra/FH35C-17S-0.3SHW_Inverted/working'} |  
+| links | {'github_owner': 'arturo182', 'github_repo_name': 'kicad-modules', 'github_src': 'http://github.com/arturo182/kicad-modules/blob/master/Symbols_Extra.pretty/SolderParty-New-Logo_7.5x6.4mm_SilkScreen.kicad_mod', 'github_src_repo': 'https://github.com/arturo182/kicad-modules', 'oomp_bot': 'footprints/arturo182_connector_hirose_extra_fh35c_17s_0_3shw_inverted/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/arturo182_connector_hirose_extra_fh35c_17s_0_3shw_inverted/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/arturo182_connector_hirose_extra_fh35c_17s_0_3shw_inverted/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/arturo182_connector_hirose_extra_fh35c_17s_0_3shw_inverted/working'} |  
 | name | kicad-modules |  
+| oomp | {'footprint_name': 'fh35c_17s_0_3shw_inverted', 'library_name': 'connector_hirose_extra', 'original_filename': 'kicad-modules/Connector_Hirose_Extra.pretty/FH35C-17S-0.3SHW_Inverted.kicad_mod', 'owner_name': 'arturo182'} |  
 | oomp_key | oomp_arturo182_connector_hirose_extra_fh35c_17s_0_3shw_inverted |  
 | oomp_key_simple | arturo182_connector_hirose_extra_fh35c_17s_0_3shw_inverted |  
 | owner | arturo182 |  

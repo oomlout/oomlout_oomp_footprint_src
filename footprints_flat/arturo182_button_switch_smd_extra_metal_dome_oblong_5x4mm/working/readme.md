@@ -6,19 +6,20 @@ The original footprint can be found at:
 http://github.com/arturo182/kicad-modules/blob/master/Symbols_Extra.pretty/SolderParty-New-Logo_7.5x6.4mm_SilkScreen.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
-* description:   
-* libraryLink:   
-* number_of_pads:   
+* description: None  
+* libraryLink: Metal_Dome_Oblong_5x4mm  
+* number_of_pads: 4  
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| error | Expression does not have the correct type |  
 | file | kicad-modules/Button_Switch_SMD_Extra.pretty/Metal_Dome_Oblong_5x4mm.kicad_mod |  
+| footprint | {'description': None, 'libraryLink': 'Metal_Dome_Oblong_5x4mm', 'number_of_pads': 4} |  
 | footprint_library_directory | footprint_library_owner/arturo182_kicad-modules |  
 | footprint_library_directory_flat | footprints_flat/arturo182_button_switch_smd_extra_metal_dome_oblong_5x4mm/working |  
 | github_path | http://github.com/arturo182/kicad-modules/blob/master/Button_Switch_SMD_Extra.pretty/Metal_Dome_Oblong_5x4mm.kicad_mod |  
-| links | {'github_owner': 'arturo182', 'github_repo_name': 'kicad-modules', 'github_src': 'http://github.com/arturo182/kicad-modules/blob/master/Symbols_Extra.pretty/SolderParty-New-Logo_7.5x6.4mm_SilkScreen.kicad_mod', 'github_src_repo': 'https://github.com/arturo182/kicad-modules', 'oomp_bot': 'footprints/arturo182_button_switch_smd_extra_metal_dome_oblong_5x4mm/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/arturo182_button_switch_smd_extra_metal_dome_oblong_5x4mm/working', 'oomp_doc': 'footprints/footprints/arturo182/Button_Switch_SMD_Extra/Metal_Dome_Oblong_5x4mm/working/', 'oomp_doc_github': 'https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/arturo182/Button_Switch_SMD_Extra/Metal_Dome_Oblong_5x4mm/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/arturo182_button_switch_smd_extra_metal_dome_oblong_5x4mm/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/arturo182_button_switch_smd_extra_metal_dome_oblong_5x4mm/working', 'oomp_src_folder': 'footprints_folder/footprints_folder/arturo182/Button_Switch_SMD_Extra/Metal_Dome_Oblong_5x4mm/working', 'oomp_src_folder_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/arturo182/Button_Switch_SMD_Extra/Metal_Dome_Oblong_5x4mm/working'} |  
+| links | {'github_owner': 'arturo182', 'github_repo_name': 'kicad-modules', 'github_src': 'http://github.com/arturo182/kicad-modules/blob/master/Symbols_Extra.pretty/SolderParty-New-Logo_7.5x6.4mm_SilkScreen.kicad_mod', 'github_src_repo': 'https://github.com/arturo182/kicad-modules', 'oomp_bot': 'footprints/arturo182_button_switch_smd_extra_metal_dome_oblong_5x4mm/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/arturo182_button_switch_smd_extra_metal_dome_oblong_5x4mm/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/arturo182_button_switch_smd_extra_metal_dome_oblong_5x4mm/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/arturo182_button_switch_smd_extra_metal_dome_oblong_5x4mm/working'} |  
 | name | kicad-modules |  
+| oomp | {'footprint_name': 'metal_dome_oblong_5x4mm', 'library_name': 'button_switch_smd_extra', 'original_filename': 'kicad-modules/Button_Switch_SMD_Extra.pretty/Metal_Dome_Oblong_5x4mm.kicad_mod', 'owner_name': 'arturo182'} |  
 | oomp_key | oomp_arturo182_button_switch_smd_extra_metal_dome_oblong_5x4mm |  
 | oomp_key_simple | arturo182_button_switch_smd_extra_metal_dome_oblong_5x4mm |  
 | owner | arturo182 |  

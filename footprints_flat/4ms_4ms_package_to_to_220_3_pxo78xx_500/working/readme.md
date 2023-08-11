@@ -6,19 +6,20 @@ The original footprint can be found at:
 http://github.com/4ms/4ms-kicad-lib/blob/master/footprints-legacy/4ms-legacy-footprints.pretty/wire-hole.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
-* description:   
-* libraryLink:   
-* number_of_pads:   
+* description: TO-220-3, Vertical, RM 2.54mm, see https://www.vishay.com/docs/66542/to-220-1.pdf  
+* libraryLink: TO-220-3_PXO78xx-500  
+* number_of_pads: 3  
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| error | Expression does not have the correct type |  
 | file | 4ms-kicad-lib/footprints/4ms_Package_TO.pretty/TO-220-3_PXO78xx-500.kicad_mod |  
+| footprint | {'description': 'TO-220-3, Vertical, RM 2.54mm, see https://www.vishay.com/docs/66542/to-220-1.pdf', 'libraryLink': 'TO-220-3_PXO78xx-500', 'number_of_pads': 3} |  
 | footprint_library_directory | footprint_library_owner/4ms_4ms-kicad-lib |  
 | footprint_library_directory_flat | footprints_flat/4ms_4ms_package_to_to_220_3_pxo78xx_500/working |  
 | github_path | http://github.com/4ms/4ms-kicad-lib/blob/master/footprints/4ms_Package_TO.pretty/TO-220-3_PXO78xx-500.kicad_mod |  
-| links | {'github_owner': '4ms', 'github_repo_name': '4ms-kicad-lib', 'github_src': 'http://github.com/4ms/4ms-kicad-lib/blob/master/footprints-legacy/4ms-legacy-footprints.pretty/wire-hole.kicad_mod', 'github_src_repo': 'https://github.com/4ms/4ms-kicad-lib', 'oomp_bot': 'footprints/4ms_4ms_package_to_to_220_3_pxo78xx_500/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/4ms_4ms_package_to_to_220_3_pxo78xx_500/working', 'oomp_doc': 'footprints/footprints/4ms/4ms_Package_TO/TO-220-3_PXO78xx-500/working/', 'oomp_doc_github': 'https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/4ms/4ms_Package_TO/TO-220-3_PXO78xx-500/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/4ms_4ms_package_to_to_220_3_pxo78xx_500/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/4ms_4ms_package_to_to_220_3_pxo78xx_500/working', 'oomp_src_folder': 'footprints_folder/footprints_folder/4ms/4ms_Package_TO/TO-220-3_PXO78xx-500/working', 'oomp_src_folder_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/4ms/4ms_Package_TO/TO-220-3_PXO78xx-500/working'} |  
+| links | {'github_owner': '4ms', 'github_repo_name': '4ms-kicad-lib', 'github_src': 'http://github.com/4ms/4ms-kicad-lib/blob/master/footprints-legacy/4ms-legacy-footprints.pretty/wire-hole.kicad_mod', 'github_src_repo': 'https://github.com/4ms/4ms-kicad-lib', 'oomp_bot': 'footprints/4ms_4ms_package_to_to_220_3_pxo78xx_500/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/4ms_4ms_package_to_to_220_3_pxo78xx_500/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/4ms_4ms_package_to_to_220_3_pxo78xx_500/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/4ms_4ms_package_to_to_220_3_pxo78xx_500/working'} |  
 | name | 4ms-kicad-lib |  
+| oomp | {'footprint_name': 'to_220_3_pxo78xx_500', 'library_name': '4ms_package_to', 'original_filename': '4ms-kicad-lib/footprints/4ms_Package_TO.pretty/TO-220-3_PXO78xx-500.kicad_mod', 'owner_name': '4ms'} |  
 | oomp_key | oomp_4ms_4ms_package_to_to_220_3_pxo78xx_500 |  
 | oomp_key_simple | 4ms_4ms_package_to_to_220_3_pxo78xx_500 |  
 | owner | 4ms |  

@@ -11,13 +11,14 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/pcsmithy_cas_d20ta_cas_d20ta/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/pcsmithy_cas_d20ta_cas_d20ta/working
-    oomp_doc: footprints/footprints/PCSmithy/CAS-D20TA/CAS-D20TA/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/PCSmithy/CAS-D20TA/CAS-D20TA/working
     oomp_src_flat: footprints_flat/footprints_flat/pcsmithy_cas_d20ta_cas_d20ta/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/pcsmithy_cas_d20ta_cas_d20ta/working
-    oomp_src_folder: footprints_folder/footprints_folder/PCSmithy/CAS-D20TA/CAS-D20TA/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/PCSmithy/CAS-D20TA/CAS-D20TA/working
   name: CAS-D20TA.pretty
+  oomp:
+    footprint_name: cas_d20ta
+    library_name: cas_d20ta
+    original_filename: CAS-D20TA.pretty/CAS-D20TA.kicad_mod
+    owner_name: pcsmithy
   oomp_key: oomp_pcsmithy_cas_d20ta_cas_d20ta
   oomp_key_simple: pcsmithy_cas_d20ta_cas_d20ta
   owner: PCSmithy

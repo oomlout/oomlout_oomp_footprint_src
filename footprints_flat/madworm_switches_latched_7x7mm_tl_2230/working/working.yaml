@@ -11,13 +11,14 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/madworm_switches_latched_7x7mm_tl_2230/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/madworm_switches_latched_7x7mm_tl_2230/working
-    oomp_doc: footprints/footprints/madworm/Switches/Latched_7x7mm_TL_2230/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/madworm/Switches/Latched_7x7mm_TL_2230/working
     oomp_src_flat: footprints_flat/footprints_flat/madworm_switches_latched_7x7mm_tl_2230/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/madworm_switches_latched_7x7mm_tl_2230/working
-    oomp_src_folder: footprints_folder/footprints_folder/madworm/Switches/Latched_7x7mm_TL_2230/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/madworm/Switches/Latched_7x7mm_TL_2230/working
   name: Switches.pretty
+  oomp:
+    footprint_name: latched_7x7mm_tl_2230
+    library_name: switches
+    original_filename: Switches.pretty/Latched_7x7mm_TL_2230.kicad_mod
+    owner_name: madworm
   oomp_key: oomp_madworm_switches_latched_7x7mm_tl_2230
   oomp_key_simple: madworm_switches_latched_7x7mm_tl_2230
   owner: madworm

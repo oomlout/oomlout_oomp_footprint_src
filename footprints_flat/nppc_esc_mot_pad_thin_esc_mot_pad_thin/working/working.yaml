@@ -11,13 +11,14 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/nppc_esc_mot_pad_thin_esc_mot_pad_thin/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/nppc_esc_mot_pad_thin_esc_mot_pad_thin/working
-    oomp_doc: footprints/footprints/nppc/ESC_MOT_PAD_THIN.kicad_mod/ESC_MOT_PAD_THIN/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/nppc/ESC_MOT_PAD_THIN.kicad_mod/ESC_MOT_PAD_THIN/working
     oomp_src_flat: footprints_flat/footprints_flat/nppc_esc_mot_pad_thin_esc_mot_pad_thin/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/nppc_esc_mot_pad_thin_esc_mot_pad_thin/working
-    oomp_src_folder: footprints_folder/footprints_folder/nppc/ESC_MOT_PAD_THIN.kicad_mod/ESC_MOT_PAD_THIN/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/nppc/ESC_MOT_PAD_THIN.kicad_mod/ESC_MOT_PAD_THIN/working
   name: KiCadCustomLibs
+  oomp:
+    footprint_name: esc_mot_pad_thin
+    library_name: kicadcustomlibs
+    original_filename: KiCadCustomLibs/ESC_MOT_PAD_THIN.kicad_mod
+    owner_name: nppc
   oomp_key: oomp_nppc_esc_mot_pad_thin_esc_mot_pad_thin
   oomp_key_simple: nppc_esc_mot_pad_thin_esc_mot_pad_thin
   owner: nppc

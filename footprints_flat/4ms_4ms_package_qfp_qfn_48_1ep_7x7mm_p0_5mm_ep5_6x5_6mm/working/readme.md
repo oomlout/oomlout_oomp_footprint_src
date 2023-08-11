@@ -6,19 +6,20 @@ The original footprint can be found at:
 http://github.com/4ms/4ms-kicad-lib/blob/master/footprints-legacy/4ms-legacy-footprints.pretty/wire-hole.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
-* description:   
-* libraryLink:   
-* number_of_pads:   
+* description: QFN, 48 Pin (http://www.st.com/resource/en/datasheet/stm32f042k6.pdf#page=94), generated with kicad-footprint-generator ipc_noLead_generator.py  
+* libraryLink: QFN-48-1EP_7x7mm_P0.5mm_EP5.6x5.6mm  
+* number_of_pads: 65  
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| error | Expression does not have the correct type |  
 | file | 4ms-kicad-lib/footprints/4ms_Package_QFP.pretty/QFN-48-1EP_7x7mm_P0.5mm_EP5.6x5.6mm.kicad_mod |  
+| footprint | {'description': 'QFN, 48 Pin (http://www.st.com/resource/en/datasheet/stm32f042k6.pdf#page=94), generated with kicad-footprint-generator ipc_noLead_generator.py', 'libraryLink': 'QFN-48-1EP_7x7mm_P0.5mm_EP5.6x5.6mm', 'number_of_pads': 65} |  
 | footprint_library_directory | footprint_library_owner/4ms_4ms-kicad-lib |  
 | footprint_library_directory_flat | footprints_flat/4ms_4ms_package_qfp_qfn_48_1ep_7x7mm_p0_5mm_ep5_6x5_6mm/working |  
 | github_path | http://github.com/4ms/4ms-kicad-lib/blob/master/footprints/4ms_Package_QFP.pretty/QFN-48-1EP_7x7mm_P0.5mm_EP5.6x5.6mm.kicad_mod |  
-| links | {'github_owner': '4ms', 'github_repo_name': '4ms-kicad-lib', 'github_src': 'http://github.com/4ms/4ms-kicad-lib/blob/master/footprints-legacy/4ms-legacy-footprints.pretty/wire-hole.kicad_mod', 'github_src_repo': 'https://github.com/4ms/4ms-kicad-lib', 'oomp_bot': 'footprints/4ms_4ms_package_qfp_qfn_48_1ep_7x7mm_p0_5mm_ep5_6x5_6mm/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/4ms_4ms_package_qfp_qfn_48_1ep_7x7mm_p0_5mm_ep5_6x5_6mm/working', 'oomp_doc': 'footprints/footprints/4ms/4ms_Package_QFP/QFN-48-1EP_7x7mm_P0.5mm_EP5.6x5.6mm/working/', 'oomp_doc_github': 'https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/4ms/4ms_Package_QFP/QFN-48-1EP_7x7mm_P0.5mm_EP5.6x5.6mm/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/4ms_4ms_package_qfp_qfn_48_1ep_7x7mm_p0_5mm_ep5_6x5_6mm/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/4ms_4ms_package_qfp_qfn_48_1ep_7x7mm_p0_5mm_ep5_6x5_6mm/working', 'oomp_src_folder': 'footprints_folder/footprints_folder/4ms/4ms_Package_QFP/QFN-48-1EP_7x7mm_P0.5mm_EP5.6x5.6mm/working', 'oomp_src_folder_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/4ms/4ms_Package_QFP/QFN-48-1EP_7x7mm_P0.5mm_EP5.6x5.6mm/working'} |  
+| links | {'github_owner': '4ms', 'github_repo_name': '4ms-kicad-lib', 'github_src': 'http://github.com/4ms/4ms-kicad-lib/blob/master/footprints-legacy/4ms-legacy-footprints.pretty/wire-hole.kicad_mod', 'github_src_repo': 'https://github.com/4ms/4ms-kicad-lib', 'oomp_bot': 'footprints/4ms_4ms_package_qfp_qfn_48_1ep_7x7mm_p0_5mm_ep5_6x5_6mm/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/4ms_4ms_package_qfp_qfn_48_1ep_7x7mm_p0_5mm_ep5_6x5_6mm/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/4ms_4ms_package_qfp_qfn_48_1ep_7x7mm_p0_5mm_ep5_6x5_6mm/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/4ms_4ms_package_qfp_qfn_48_1ep_7x7mm_p0_5mm_ep5_6x5_6mm/working'} |  
 | name | 4ms-kicad-lib |  
+| oomp | {'footprint_name': 'qfn_48_1ep_7x7mm_p0_5mm_ep5_6x5_6mm', 'library_name': '4ms_package_qfp', 'original_filename': '4ms-kicad-lib/footprints/4ms_Package_QFP.pretty/QFN-48-1EP_7x7mm_P0.5mm_EP5.6x5.6mm.kicad_mod', 'owner_name': '4ms'} |  
 | oomp_key | oomp_4ms_4ms_package_qfp_qfn_48_1ep_7x7mm_p0_5mm_ep5_6x5_6mm |  
 | oomp_key_simple | 4ms_4ms_package_qfp_qfn_48_1ep_7x7mm_p0_5mm_ep5_6x5_6mm |  
 | owner | 4ms |  

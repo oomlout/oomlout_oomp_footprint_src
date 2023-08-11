@@ -6,19 +6,20 @@ The original footprint can be found at:
 http://github.com/4ms/4ms-kicad-lib/blob/master/footprints-legacy/4ms-legacy-footprints.pretty/wire-hole.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
-* description:   
-* libraryLink:   
-* number_of_pads:   
+* description: Through hole angled pin header, 2x04, 2.54mm pitch, 6mm pin length, double rows  
+* libraryLink: Pins_2x04_P2.54mm_Horizontal_CroppedSilk  
+* number_of_pads: 8  
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| error | Expression does not have the correct type |  
 | file | 4ms-kicad-lib/footprints/4ms_Connector.pretty/Pins_2x04_P2.54mm_Horizontal_CroppedSilk.kicad_mod |  
+| footprint | {'description': 'Through hole angled pin header, 2x04, 2.54mm pitch, 6mm pin length, double rows', 'libraryLink': 'Pins_2x04_P2.54mm_Horizontal_CroppedSilk', 'number_of_pads': 8} |  
 | footprint_library_directory | footprint_library_owner/4ms_4ms-kicad-lib |  
 | footprint_library_directory_flat | footprints_flat/4ms_4ms_connector_pins_2x04_p2_54mm_horizontal_croppedsilk/working |  
 | github_path | http://github.com/4ms/4ms-kicad-lib/blob/master/footprints/4ms_Connector.pretty/Pins_2x04_P2.54mm_Horizontal_CroppedSilk.kicad_mod |  
-| links | {'github_owner': '4ms', 'github_repo_name': '4ms-kicad-lib', 'github_src': 'http://github.com/4ms/4ms-kicad-lib/blob/master/footprints-legacy/4ms-legacy-footprints.pretty/wire-hole.kicad_mod', 'github_src_repo': 'https://github.com/4ms/4ms-kicad-lib', 'oomp_bot': 'footprints/4ms_4ms_connector_pins_2x04_p2_54mm_horizontal_croppedsilk/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/4ms_4ms_connector_pins_2x04_p2_54mm_horizontal_croppedsilk/working', 'oomp_doc': 'footprints/footprints/4ms/4ms_Connector/Pins_2x04_P2.54mm_Horizontal_CroppedSilk/working/', 'oomp_doc_github': 'https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/4ms/4ms_Connector/Pins_2x04_P2.54mm_Horizontal_CroppedSilk/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/4ms_4ms_connector_pins_2x04_p2_54mm_horizontal_croppedsilk/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/4ms_4ms_connector_pins_2x04_p2_54mm_horizontal_croppedsilk/working', 'oomp_src_folder': 'footprints_folder/footprints_folder/4ms/4ms_Connector/Pins_2x04_P2.54mm_Horizontal_CroppedSilk/working', 'oomp_src_folder_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/4ms/4ms_Connector/Pins_2x04_P2.54mm_Horizontal_CroppedSilk/working'} |  
+| links | {'github_owner': '4ms', 'github_repo_name': '4ms-kicad-lib', 'github_src': 'http://github.com/4ms/4ms-kicad-lib/blob/master/footprints-legacy/4ms-legacy-footprints.pretty/wire-hole.kicad_mod', 'github_src_repo': 'https://github.com/4ms/4ms-kicad-lib', 'oomp_bot': 'footprints/4ms_4ms_connector_pins_2x04_p2_54mm_horizontal_croppedsilk/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/4ms_4ms_connector_pins_2x04_p2_54mm_horizontal_croppedsilk/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/4ms_4ms_connector_pins_2x04_p2_54mm_horizontal_croppedsilk/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/4ms_4ms_connector_pins_2x04_p2_54mm_horizontal_croppedsilk/working'} |  
 | name | 4ms-kicad-lib |  
+| oomp | {'footprint_name': 'pins_2x04_p2_54mm_horizontal_croppedsilk', 'library_name': '4ms_connector', 'original_filename': '4ms-kicad-lib/footprints/4ms_Connector.pretty/Pins_2x04_P2.54mm_Horizontal_CroppedSilk.kicad_mod', 'owner_name': '4ms'} |  
 | oomp_key | oomp_4ms_4ms_connector_pins_2x04_p2_54mm_horizontal_croppedsilk |  
 | oomp_key_simple | 4ms_4ms_connector_pins_2x04_p2_54mm_horizontal_croppedsilk |  
 | owner | 4ms |  

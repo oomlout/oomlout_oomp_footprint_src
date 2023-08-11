@@ -11,13 +11,14 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/mkudlacek_inductors_bourns_srn5040/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/mkudlacek_inductors_bourns_srn5040/working
-    oomp_doc: footprints/footprints/mkudlacek/Inductors_Bourns/SRN5040/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/mkudlacek/Inductors_Bourns/SRN5040/working
     oomp_src_flat: footprints_flat/footprints_flat/mkudlacek_inductors_bourns_srn5040/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/mkudlacek_inductors_bourns_srn5040/working
-    oomp_src_folder: footprints_folder/footprints_folder/mkudlacek/Inductors_Bourns/SRN5040/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/mkudlacek/Inductors_Bourns/SRN5040/working
   name: Inductors_Bourns.pretty
+  oomp:
+    footprint_name: srn5040
+    library_name: inductors_bourns
+    original_filename: Inductors_Bourns.pretty/SRN5040.kicad_mod
+    owner_name: mkudlacek
   oomp_key: oomp_mkudlacek_inductors_bourns_srn5040
   oomp_key_simple: mkudlacek_inductors_bourns_srn5040
   owner: mkudlacek

@@ -6,19 +6,20 @@ The original footprint can be found at:
 http://github.com/AcheronProject/acheron_Components.pretty/blob/master/VQFN-16-1EP_3x3mm_P0.5mm_EP1.6x1.6mm.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
-* description:   
-* libraryLink:   
-* number_of_pads:   
+* description: QFN, 48 Pin (http://www.thatcorp.com/datashts/THAT_626x_Datasheet.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py  
+* libraryLink: STM_UFQFPN-48_LQFP-48-1EP_7x7mm_P0.5mm_HandSoldering  
+* number_of_pads: 65  
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| error | Expression does not have the correct type |  
 | file | acheron_Components.pretty/STM_UFQFPN-48_LQFP-48-1EP_7x7mm_P0.5mm_HandSoldering.kicad_mod |  
+| footprint | {'description': 'QFN, 48 Pin (http://www.thatcorp.com/datashts/THAT_626x_Datasheet.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py', 'libraryLink': 'STM_UFQFPN-48_LQFP-48-1EP_7x7mm_P0.5mm_HandSoldering', 'number_of_pads': 65} |  
 | footprint_library_directory | footprint_library_owner/AcheronProject_acheron_Components.pretty |  
 | footprint_library_directory_flat | footprints_flat/acheronproject_acheron_components_stm_ufqfpn_48_lqfp_48_1ep_7x7mm_p0_5mm_handsoldering/working |  
 | github_path | http://github.com/AcheronProject/acheron_Components.pretty/blob/master/STM_UFQFPN-48_LQFP-48-1EP_7x7mm_P0.5mm_HandSoldering.kicad_mod |  
-| links | {'github_owner': 'AcheronProject', 'github_repo_name': 'acheron_Components.pretty', 'github_src': 'http://github.com/AcheronProject/acheron_Components.pretty/blob/master/VQFN-16-1EP_3x3mm_P0.5mm_EP1.6x1.6mm.kicad_mod', 'github_src_repo': 'https://github.com/AcheronProject/acheron_Components.pretty', 'oomp_bot': 'footprints/acheronproject_acheron_components_stm_ufqfpn_48_lqfp_48_1ep_7x7mm_p0_5mm_handsoldering/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/acheronproject_acheron_components_stm_ufqfpn_48_lqfp_48_1ep_7x7mm_p0_5mm_handsoldering/working', 'oomp_doc': 'footprints/footprints/AcheronProject/acheron_Components/STM_UFQFPN-48_LQFP-48-1EP_7x7mm_P0.5mm_HandSoldering/working/', 'oomp_doc_github': 'https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/AcheronProject/acheron_Components/STM_UFQFPN-48_LQFP-48-1EP_7x7mm_P0.5mm_HandSoldering/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/acheronproject_acheron_components_stm_ufqfpn_48_lqfp_48_1ep_7x7mm_p0_5mm_handsoldering/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/acheronproject_acheron_components_stm_ufqfpn_48_lqfp_48_1ep_7x7mm_p0_5mm_handsoldering/working', 'oomp_src_folder': 'footprints_folder/footprints_folder/AcheronProject/acheron_Components/STM_UFQFPN-48_LQFP-48-1EP_7x7mm_P0.5mm_HandSoldering/working', 'oomp_src_folder_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/AcheronProject/acheron_Components/STM_UFQFPN-48_LQFP-48-1EP_7x7mm_P0.5mm_HandSoldering/working'} |  
+| links | {'github_owner': 'AcheronProject', 'github_repo_name': 'acheron_Components.pretty', 'github_src': 'http://github.com/AcheronProject/acheron_Components.pretty/blob/master/VQFN-16-1EP_3x3mm_P0.5mm_EP1.6x1.6mm.kicad_mod', 'github_src_repo': 'https://github.com/AcheronProject/acheron_Components.pretty', 'oomp_bot': 'footprints/acheronproject_acheron_components_stm_ufqfpn_48_lqfp_48_1ep_7x7mm_p0_5mm_handsoldering/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/acheronproject_acheron_components_stm_ufqfpn_48_lqfp_48_1ep_7x7mm_p0_5mm_handsoldering/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/acheronproject_acheron_components_stm_ufqfpn_48_lqfp_48_1ep_7x7mm_p0_5mm_handsoldering/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/acheronproject_acheron_components_stm_ufqfpn_48_lqfp_48_1ep_7x7mm_p0_5mm_handsoldering/working'} |  
 | name | acheron_Components.pretty |  
+| oomp | {'footprint_name': 'stm_ufqfpn_48_lqfp_48_1ep_7x7mm_p0_5mm_handsoldering', 'library_name': 'acheron_components', 'original_filename': 'acheron_Components.pretty/STM_UFQFPN-48_LQFP-48-1EP_7x7mm_P0.5mm_HandSoldering.kicad_mod', 'owner_name': 'acheronproject'} |  
 | oomp_key | oomp_acheronproject_acheron_components_stm_ufqfpn_48_lqfp_48_1ep_7x7mm_p0_5mm_handsoldering |  
 | oomp_key_simple | acheronproject_acheron_components_stm_ufqfpn_48_lqfp_48_1ep_7x7mm_p0_5mm_handsoldering |  
 | owner | AcheronProject |  

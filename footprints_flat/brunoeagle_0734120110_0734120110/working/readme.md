@@ -6,19 +6,20 @@ The original footprint can be found at:
 http://gitlab.com/brunoeagle/kicad-open-modules/blob/master/XH-2AW.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
-* description: None  
-* libraryLink: 734120110  
-* number_of_pads: 4  
+* description:   
+* libraryLink:   
+* number_of_pads:   
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
+| error | expected string or bytes-like object, got 'int' |  
 | file | kicad-open-modules/0734120110.kicad_mod |  
-| footprint | {'description': None, 'libraryLink': 734120110, 'number_of_pads': 4} |  
 | footprint_library_directory | footprint_library_owner/brunoeagle_kicad-open-modules |  
 | footprint_library_directory_flat | footprints_flat/brunoeagle_0734120110_0734120110/working |  
 | github_path | http://github.com/brunoeagle/kicad-open-modules/blob/master/0734120110.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/brunoeagle/kicad-open-modules/blob/master/XH-2AW.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/brunoeagle_0734120110_0734120110/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/brunoeagle_0734120110_0734120110/working', 'oomp_doc': 'footprints/footprints/brunoeagle/0734120110.kicad_mod/0734120110/working/', 'oomp_doc_github': 'https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/brunoeagle/0734120110.kicad_mod/0734120110/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/brunoeagle_0734120110_0734120110/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/brunoeagle_0734120110_0734120110/working', 'oomp_src_folder': 'footprints_folder/footprints_folder/brunoeagle/0734120110.kicad_mod/0734120110/working', 'oomp_src_folder_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/brunoeagle/0734120110.kicad_mod/0734120110/working'} |  
+| links | {'github_src': 'http://gitlab.com/brunoeagle/kicad-open-modules/blob/master/XH-2AW.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/brunoeagle_0734120110_0734120110/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/brunoeagle_0734120110_0734120110/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/brunoeagle_0734120110_0734120110/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/brunoeagle_0734120110_0734120110/working'} |  
 | name | kicad-open-modules |  
+| oomp | {'footprint_name': '0734120110', 'library_name': 'kicad_open_modules', 'original_filename': 'kicad-open-modules/0734120110.kicad_mod', 'owner_name': 'brunoeagle'} |  
 | oomp_key | oomp_brunoeagle_0734120110_0734120110 |  
 | oomp_key_simple | brunoeagle_0734120110_0734120110 |  
 | owner | brunoeagle |  

@@ -11,13 +11,14 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/mcous_beaglebone_beaglebone/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/mcous_beaglebone_beaglebone/working
-    oomp_doc: footprints/footprints/mcous/_beaglebone/BEAGLEBONE/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/mcous/_beaglebone/BEAGLEBONE/working
     oomp_src_flat: footprints_flat/footprints_flat/mcous_beaglebone_beaglebone/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/mcous_beaglebone_beaglebone/working
-    oomp_src_folder: footprints_folder/footprints_folder/mcous/_beaglebone/BEAGLEBONE/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/mcous/_beaglebone/BEAGLEBONE/working
   name: kicad-lib
+  oomp:
+    footprint_name: beaglebone
+    library_name: _beaglebone
+    original_filename: kicad-lib/footprints/_beaglebone.pretty/BEAGLEBONE.kicad_mod
+    owner_name: mcous
   oomp_key: oomp_mcous_beaglebone_beaglebone
   oomp_key_simple: mcous_beaglebone_beaglebone
   owner: mcous

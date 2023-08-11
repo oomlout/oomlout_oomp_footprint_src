@@ -11,13 +11,14 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/mdhsweden_kicad_mdh_ic_to_263_!3/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/mdhsweden_kicad_mdh_ic_to_263_!3/working
-    oomp_doc: footprints/footprints/MDHSweden/KiCad-MDH-IC/TO-263-!3/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/MDHSweden/KiCad-MDH-IC/TO-263-!3/working
     oomp_src_flat: footprints_flat/footprints_flat/mdhsweden_kicad_mdh_ic_to_263_!3/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/mdhsweden_kicad_mdh_ic_to_263_!3/working
-    oomp_src_folder: footprints_folder/footprints_folder/MDHSweden/KiCad-MDH-IC/TO-263-!3/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/MDHSweden/KiCad-MDH-IC/TO-263-!3/working
   name: KiCad-MDH-IC.pretty
+  oomp:
+    footprint_name: to_263_!3
+    library_name: kicad_mdh_ic
+    original_filename: KiCad-MDH-IC.pretty/TO-263-!3.kicad_mod
+    owner_name: mdhsweden
   oomp_key: oomp_mdhsweden_kicad_mdh_ic_to_263_!3
   oomp_key_simple: mdhsweden_kicad_mdh_ic_to_263_!3
   owner: MDHSweden

@@ -6,19 +6,20 @@ The original footprint can be found at:
 http://github.com/4ms/4ms-kicad-lib/blob/master/footprints-legacy/4ms-legacy-footprints.pretty/wire-hole.kicad_mod
 Please consult that link for additional, details, files, and license information.  
 ## Footprint Details
-* description:   
-* libraryLink:   
-* number_of_pads:   
+* description: None  
+* libraryLink: Button_LED_PLA-N2P-W1NN-R3KT  
+* number_of_pads: 8  
 ## yaml dump  
 | Key | Value |  
 | --- | --- |  
-| error | Expression does not have the correct type |  
 | file | 4ms-kicad-lib/footprints/4ms_Switch.pretty/Button_LED_PLA-N2P-W1NN-R3KT.kicad_mod |  
+| footprint | {'description': None, 'libraryLink': 'Button_LED_PLA-N2P-W1NN-R3KT', 'number_of_pads': 8} |  
 | footprint_library_directory | footprint_library_owner/4ms_4ms-kicad-lib |  
 | footprint_library_directory_flat | footprints_flat/4ms_4ms_switch_button_led_pla_n2p_w1nn_r3kt/working |  
 | github_path | http://github.com/4ms/4ms-kicad-lib/blob/master/footprints/4ms_Switch.pretty/Button_LED_PLA-N2P-W1NN-R3KT.kicad_mod |  
-| links | {'github_owner': '4ms', 'github_repo_name': '4ms-kicad-lib', 'github_src': 'http://github.com/4ms/4ms-kicad-lib/blob/master/footprints-legacy/4ms-legacy-footprints.pretty/wire-hole.kicad_mod', 'github_src_repo': 'https://github.com/4ms/4ms-kicad-lib', 'oomp_bot': 'footprints/4ms_4ms_switch_button_led_pla_n2p_w1nn_r3kt/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/4ms_4ms_switch_button_led_pla_n2p_w1nn_r3kt/working', 'oomp_doc': 'footprints/footprints/4ms/4ms_Switch/Button_LED_PLA-N2P-W1NN-R3KT/working/', 'oomp_doc_github': 'https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/4ms/4ms_Switch/Button_LED_PLA-N2P-W1NN-R3KT/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/4ms_4ms_switch_button_led_pla_n2p_w1nn_r3kt/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/4ms_4ms_switch_button_led_pla_n2p_w1nn_r3kt/working', 'oomp_src_folder': 'footprints_folder/footprints_folder/4ms/4ms_Switch/Button_LED_PLA-N2P-W1NN-R3KT/working', 'oomp_src_folder_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/4ms/4ms_Switch/Button_LED_PLA-N2P-W1NN-R3KT/working'} |  
+| links | {'github_owner': '4ms', 'github_repo_name': '4ms-kicad-lib', 'github_src': 'http://github.com/4ms/4ms-kicad-lib/blob/master/footprints-legacy/4ms-legacy-footprints.pretty/wire-hole.kicad_mod', 'github_src_repo': 'https://github.com/4ms/4ms-kicad-lib', 'oomp_bot': 'footprints/4ms_4ms_switch_button_led_pla_n2p_w1nn_r3kt/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/4ms_4ms_switch_button_led_pla_n2p_w1nn_r3kt/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/4ms_4ms_switch_button_led_pla_n2p_w1nn_r3kt/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/4ms_4ms_switch_button_led_pla_n2p_w1nn_r3kt/working'} |  
 | name | 4ms-kicad-lib |  
+| oomp | {'footprint_name': 'button_led_pla_n2p_w1nn_r3kt', 'library_name': '4ms_switch', 'original_filename': '4ms-kicad-lib/footprints/4ms_Switch.pretty/Button_LED_PLA-N2P-W1NN-R3KT.kicad_mod', 'owner_name': '4ms'} |  
 | oomp_key | oomp_4ms_4ms_switch_button_led_pla_n2p_w1nn_r3kt |  
 | oomp_key_simple | 4ms_4ms_switch_button_led_pla_n2p_w1nn_r3kt |  
 | owner | 4ms |  

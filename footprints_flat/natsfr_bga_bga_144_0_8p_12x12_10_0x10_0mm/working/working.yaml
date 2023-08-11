@@ -11,13 +11,14 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/natsfr_bga_bga_144_0_8p_12x12_10_0x10_0mm/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/natsfr_bga_bga_144_0_8p_12x12_10_0x10_0mm/working
-    oomp_doc: footprints/footprints/natsfr/BGA/BGA-144_0.8p_12x12_10.0x10.0mm/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/natsfr/BGA/BGA-144_0.8p_12x12_10.0x10.0mm/working
     oomp_src_flat: footprints_flat/footprints_flat/natsfr_bga_bga_144_0_8p_12x12_10_0x10_0mm/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/natsfr_bga_bga_144_0_8p_12x12_10_0x10_0mm/working
-    oomp_src_folder: footprints_folder/footprints_folder/natsfr/BGA/BGA-144_0.8p_12x12_10.0x10.0mm/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/natsfr/BGA/BGA-144_0.8p_12x12_10.0x10.0mm/working
   name: kicad-components
+  oomp:
+    footprint_name: bga_144_0_8p_12x12_10_0x10_0mm
+    library_name: bga
+    original_filename: kicad-components/Pretty_Footprints/BGA.pretty/BGA-144_0.8p_12x12_10.0x10.0mm.kicad_mod
+    owner_name: natsfr
   oomp_key: oomp_natsfr_bga_bga_144_0_8p_12x12_10_0x10_0mm
   oomp_key_simple: natsfr_bga_bga_144_0_8p_12x12_10_0x10_0mm
   owner: natsfr

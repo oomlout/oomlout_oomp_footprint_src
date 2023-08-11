@@ -17,8 +17,9 @@ Please consult that link for additional, details, files, and license information
 | footprint_library_directory | footprint_library_owner/av-p_Avp.pretty |  
 | footprint_library_directory_flat | footprints_flat/av_p_avp_umax/working |  
 | github_path | http://github.com/av-p/Avp.pretty/blob/master/uMAX.kicad_mod |  
-| links | {'github_src': 'http://gitlab.com/av-p/Avp.pretty/blob/master/XTAL-3215.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/av_p_avp_umax/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/av_p_avp_umax/working', 'oomp_doc': 'footprints/footprints/av-p/Avp/uMAX/working/', 'oomp_doc_github': 'https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/av-p/Avp/uMAX/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/av_p_avp_umax/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/av_p_avp_umax/working', 'oomp_src_folder': 'footprints_folder/footprints_folder/av-p/Avp/uMAX/working', 'oomp_src_folder_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/av-p/Avp/uMAX/working'} |  
+| links | {'github_src': 'http://gitlab.com/av-p/Avp.pretty/blob/master/XTAL-3215.kicad_mod', 'github_src_repo': 'https://gitlab.com/kicad/libraries/kicad-footprints', 'oomp_bot': 'footprints/av_p_avp_umax/working', 'oomp_bot_github': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/av_p_avp_umax/working', 'oomp_src_flat': 'footprints_flat/footprints_flat/av_p_avp_umax/working', 'oomp_src_flat_github': 'https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/av_p_avp_umax/working'} |  
 | name | Avp.pretty |  
+| oomp | {'footprint_name': 'umax', 'library_name': 'avp', 'original_filename': 'Avp.pretty/uMAX.kicad_mod', 'owner_name': 'av_p'} |  
 | oomp_key | oomp_av_p_avp_umax |  
 | oomp_key_simple | av_p_avp_umax |  
 | owner | av-p |  

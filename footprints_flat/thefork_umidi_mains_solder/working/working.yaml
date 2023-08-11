@@ -11,13 +11,14 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/thefork_umidi_mains_solder/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/thefork_umidi_mains_solder/working
-    oomp_doc: footprints/footprints/theFork/uMIDI/Mains_Solder/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/theFork/uMIDI/Mains_Solder/working
     oomp_src_flat: footprints_flat/footprints_flat/thefork_umidi_mains_solder/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/thefork_umidi_mains_solder/working
-    oomp_src_folder: footprints_folder/footprints_folder/theFork/uMIDI/Mains_Solder/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/theFork/uMIDI/Mains_Solder/working
   name: uMIDI.pretty
+  oomp:
+    footprint_name: mains_solder
+    library_name: umidi
+    original_filename: uMIDI.pretty/Mains_Solder.kicad_mod
+    owner_name: thefork
   oomp_key: oomp_thefork_umidi_mains_solder
   oomp_key_simple: thefork_umidi_mains_solder
   owner: theFork

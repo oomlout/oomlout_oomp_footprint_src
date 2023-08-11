@@ -11,13 +11,14 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/stefanhamminga_sh_connectors_usb_cable_pads_4p/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/stefanhamminga_sh_connectors_usb_cable_pads_4p/working
-    oomp_doc: footprints/footprints/StefanHamminga/SH_Connectors/USB_Cable_Pads_4P/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/StefanHamminga/SH_Connectors/USB_Cable_Pads_4P/working
     oomp_src_flat: footprints_flat/footprints_flat/stefanhamminga_sh_connectors_usb_cable_pads_4p/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/stefanhamminga_sh_connectors_usb_cable_pads_4p/working
-    oomp_src_folder: footprints_folder/footprints_folder/StefanHamminga/SH_Connectors/USB_Cable_Pads_4P/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/StefanHamminga/SH_Connectors/USB_Cable_Pads_4P/working
   name: SH_Connectors.pretty
+  oomp:
+    footprint_name: usb_cable_pads_4p
+    library_name: sh_connectors
+    original_filename: SH_Connectors.pretty/USB_Cable_Pads_4P.kicad_mod
+    owner_name: stefanhamminga
   oomp_key: oomp_stefanhamminga_sh_connectors_usb_cable_pads_4p
   oomp_key_simple: stefanhamminga_sh_connectors_usb_cable_pads_4p
   owner: StefanHamminga

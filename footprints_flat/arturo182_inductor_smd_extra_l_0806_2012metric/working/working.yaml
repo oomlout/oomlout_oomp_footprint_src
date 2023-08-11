@@ -15,13 +15,14 @@
     github_src_repo: https://github.com/arturo182/kicad-modules
     oomp_bot: footprints/arturo182_inductor_smd_extra_l_0806_2012metric/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/arturo182_inductor_smd_extra_l_0806_2012metric/working
-    oomp_doc: footprints/footprints/arturo182/Inductor_SMD_Extra/L_0806_2012Metric/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/arturo182/Inductor_SMD_Extra/L_0806_2012Metric/working
     oomp_src_flat: footprints_flat/footprints_flat/arturo182_inductor_smd_extra_l_0806_2012metric/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/arturo182_inductor_smd_extra_l_0806_2012metric/working
-    oomp_src_folder: footprints_folder/footprints_folder/arturo182/Inductor_SMD_Extra/L_0806_2012Metric/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/arturo182/Inductor_SMD_Extra/L_0806_2012Metric/working
   name: kicad-modules
+  oomp:
+    footprint_name: l_0806_2012metric
+    library_name: inductor_smd_extra
+    original_filename: kicad-modules/Inductor_SMD_Extra.pretty/L_0806_2012Metric.kicad_mod
+    owner_name: arturo182
   oomp_key: oomp_arturo182_inductor_smd_extra_l_0806_2012metric
   oomp_key_simple: arturo182_inductor_smd_extra_l_0806_2012metric
   owner: arturo182

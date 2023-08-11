@@ -11,13 +11,14 @@
     github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/madworm_rotary_encoders_bi_en11_hsm1af15/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/madworm_rotary_encoders_bi_en11_hsm1af15/working
-    oomp_doc: footprints/footprints/madworm/Rotary-Encoders/BI_EN11-HSM1AF15/working/
-    oomp_doc_github: https://github.com/oomlout/oomlout_oomp_footprint_doc/tree/main/footprints/footprints/madworm/Rotary-Encoders/BI_EN11-HSM1AF15/working
     oomp_src_flat: footprints_flat/footprints_flat/madworm_rotary_encoders_bi_en11_hsm1af15/working
     oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_flat/madworm_rotary_encoders_bi_en11_hsm1af15/working
-    oomp_src_folder: footprints_folder/footprints_folder/madworm/Rotary-Encoders/BI_EN11-HSM1AF15/working
-    oomp_src_folder_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/footprints_folder/madworm/Rotary-Encoders/BI_EN11-HSM1AF15/working
   name: Rotary-Encoders.pretty
+  oomp:
+    footprint_name: bi_en11_hsm1af15
+    library_name: rotary_encoders
+    original_filename: Rotary-Encoders.pretty/BI_EN11-HSM1AF15.kicad_mod
+    owner_name: madworm
   oomp_key: oomp_madworm_rotary_encoders_bi_en11_hsm1af15
   oomp_key_simple: madworm_rotary_encoders_bi_en11_hsm1af15
   owner: madworm
