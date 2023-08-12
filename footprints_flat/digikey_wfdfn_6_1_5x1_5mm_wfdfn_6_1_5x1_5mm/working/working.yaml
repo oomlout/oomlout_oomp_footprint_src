@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: wfdfn_6_1_5x1_5mm
-    library_name: source_footprints
+    library_name: wfdfn_6_1_5x1_5mm_kicad_mod
+    md5: 269b6b8aef72e809de7861963e4c502e
+    md5_10: 269b6b8aef
+    md5_5: 269b6
+    md5_6: 269b6b
+    oomp_key: oomp_digikey_wfdfn_6_1_5x1_5mm_wfdfn_6_1_5x1_5mm
+    oomp_key_extra: oomp_footprint_digikey_wfdfn_6_1_5x1_5mm_wfdfn_6_1_5x1_5mm
+    oomp_key_full: oomp_footprint_digikey_wfdfn_6_1_5x1_5mm_wfdfn_6_1_5x1_5mm_269b6b
+    oomp_key_simple: digikey_wfdfn_6_1_5x1_5mm_wfdfn_6_1_5x1_5mm
     original_filename: digikey-kicad-library/src/Source_Footprints/WFDFN-6_1.5x1.5mm.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_wfdfn_6_1_5x1_5mm_wfdfn_6_1_5x1_5mm
+  oomp_key_full: oomp_footprint_digikey_wfdfn_6_1_5x1_5mm_wfdfn_6_1_5x1_5mm
   oomp_key_simple: digikey_wfdfn_6_1_5x1_5mm_wfdfn_6_1_5x1_5mm
   owner: digikey
   repo:

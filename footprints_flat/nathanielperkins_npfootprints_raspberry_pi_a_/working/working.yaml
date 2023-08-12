@@ -17,9 +17,18 @@
   oomp:
     footprint_name: raspberry_pi_a_
     library_name: npfootprints
+    md5: 6ed8d1d3fe459bd9e204b603859f8d15
+    md5_10: 6ed8d1d3fe
+    md5_5: 6ed8d
+    md5_6: 6ed8d1
+    oomp_key: oomp_nathanielperkins_npfootprints_raspberry_pi_a_
+    oomp_key_extra: oomp_footprint_nathanielperkins_npfootprints_raspberry_pi_a_
+    oomp_key_full: oomp_footprint_nathanielperkins_npfootprints_raspberry_pi_a__6ed8d1
+    oomp_key_simple: nathanielperkins_npfootprints_raspberry_pi_a_
     original_filename: NPFootprints.pretty/Raspberry_Pi_A+.kicad_mod
     owner_name: nathanielperkins
   oomp_key: oomp_nathanielperkins_npfootprints_raspberry_pi_a_
+  oomp_key_full: oomp_footprint_nathanielperkins_npfootprints_raspberry_pi_a_
   oomp_key_simple: nathanielperkins_npfootprints_raspberry_pi_a_
   owner: NathanielPerkins
   repo:

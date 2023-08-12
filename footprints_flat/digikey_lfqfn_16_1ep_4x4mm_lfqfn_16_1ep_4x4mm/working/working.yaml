@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: lfqfn_16_1ep_4x4mm
-    library_name: source_footprints
+    library_name: lfqfn_16_1ep_4x4mm_kicad_mod
+    md5: 7fb15f03491270064e598e4f079d2ada
+    md5_10: 7fb15f0349
+    md5_5: 7fb15
+    md5_6: 7fb15f
+    oomp_key: oomp_digikey_lfqfn_16_1ep_4x4mm_lfqfn_16_1ep_4x4mm
+    oomp_key_extra: oomp_footprint_digikey_lfqfn_16_1ep_4x4mm_lfqfn_16_1ep_4x4mm
+    oomp_key_full: oomp_footprint_digikey_lfqfn_16_1ep_4x4mm_lfqfn_16_1ep_4x4mm_7fb15f
+    oomp_key_simple: digikey_lfqfn_16_1ep_4x4mm_lfqfn_16_1ep_4x4mm
     original_filename: digikey-kicad-library/src/Source_Footprints/LFQFN-16-1EP_4x4mm.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_lfqfn_16_1ep_4x4mm_lfqfn_16_1ep_4x4mm
+  oomp_key_full: oomp_footprint_digikey_lfqfn_16_1ep_4x4mm_lfqfn_16_1ep_4x4mm
   oomp_key_simple: digikey_lfqfn_16_1ep_4x4mm_lfqfn_16_1ep_4x4mm
   owner: digikey
   repo:

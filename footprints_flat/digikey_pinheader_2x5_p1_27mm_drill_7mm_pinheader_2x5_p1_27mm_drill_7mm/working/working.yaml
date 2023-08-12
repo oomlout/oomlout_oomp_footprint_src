@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: pinheader_2x5_p1_27mm_drill_7mm
-    library_name: source_footprints
+    library_name: pinheader_2x5_p1_27mm_drill_7mm_kicad_mod
+    md5: 940cfe101bbeccba1243acae2055db35
+    md5_10: 940cfe101b
+    md5_5: 940cf
+    md5_6: 940cfe
+    oomp_key: oomp_digikey_pinheader_2x5_p1_27mm_drill_7mm_pinheader_2x5_p1_27mm_drill_7mm
+    oomp_key_extra: oomp_footprint_digikey_pinheader_2x5_p1_27mm_drill_7mm_pinheader_2x5_p1_27mm_drill_7mm
+    oomp_key_full: oomp_footprint_digikey_pinheader_2x5_p1_27mm_drill_7mm_pinheader_2x5_p1_27mm_drill_7mm_940cfe
+    oomp_key_simple: digikey_pinheader_2x5_p1_27mm_drill_7mm_pinheader_2x5_p1_27mm_drill_7mm
     original_filename: digikey-kicad-library/src/Source_Footprints/PinHeader_2x5_P1.27mm_Drill.7mm.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_pinheader_2x5_p1_27mm_drill_7mm_pinheader_2x5_p1_27mm_drill_7mm
+  oomp_key_full: oomp_footprint_digikey_pinheader_2x5_p1_27mm_drill_7mm_pinheader_2x5_p1_27mm_drill_7mm
   oomp_key_simple: digikey_pinheader_2x5_p1_27mm_drill_7mm_pinheader_2x5_p1_27mm_drill_7mm
   owner: digikey
   repo:

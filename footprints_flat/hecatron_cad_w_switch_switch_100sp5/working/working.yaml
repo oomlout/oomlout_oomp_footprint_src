@@ -1,5 +1,8 @@
-- error: '''Footprint'' object has no attribute ''libraryLink'''
-  file: CAD.KiCad.Libs/modules/w_switch.pretty/switch_100sp5.kicad_mod
+- file: CAD.KiCad.Libs/modules/w_switch.pretty/switch_100sp5.kicad_mod
+  footprint:
+    description: E-Switch 100SP5
+    libraryLink: switch_100sp5
+    number_of_pads: 3
   footprint_library_directory: footprint_library_owner/ASoftTech_CAD.KiCad.Libs
   footprint_library_directory_flat: footprints_flat/hecatron_cad_w_switch_switch_100sp5/working
   github_path: http://github.com/ASoftTech/CAD.KiCad.Libs/blob/master/modules/w_switch.pretty/switch_100sp5.kicad_mod
@@ -16,9 +19,18 @@
   oomp:
     footprint_name: switch_100sp5
     library_name: w_switch
+    md5: e354fc76321d5fb98b4fd9050d4a9a65
+    md5_10: e354fc7632
+    md5_5: e354f
+    md5_6: e354fc
+    oomp_key: oomp_hecatron_cad_w_switch_switch_100sp5
+    oomp_key_extra: oomp_footprint_hecatron_cad_w_switch_switch_100sp5
+    oomp_key_full: oomp_footprint_hecatron_cad_w_switch_switch_100sp5_e354fc
+    oomp_key_simple: hecatron_cad_w_switch_switch_100sp5
     original_filename: CAD.KiCad.Libs/modules/w_switch.pretty/switch_100sp5.kicad_mod
-    owner_name: asofttech
+    owner_name: hecatron_cad
   oomp_key: oomp_hecatron_cad_w_switch_switch_100sp5
+  oomp_key_full: oomp_footprint_hecatron_cad_w_switch_switch_100sp5
   oomp_key_simple: hecatron_cad_w_switch_switch_100sp5
   owner: ASoftTech
   repo:

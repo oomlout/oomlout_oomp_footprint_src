@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: pc_test_point_mini_3_43x1_78mm
-    library_name: source_footprints
+    library_name: pc_test_point_mini_3_43x1_78mm_kicad_mod
+    md5: d40b1bd908acc1bf36ca20e4dfd8cc81
+    md5_10: d40b1bd908
+    md5_5: d40b1
+    md5_6: d40b1b
+    oomp_key: oomp_digikey_pc_test_point_mini_3_43x1_78mm_pc_test_point_mini_3_43x1_78mm
+    oomp_key_extra: oomp_footprint_digikey_pc_test_point_mini_3_43x1_78mm_pc_test_point_mini_3_43x1_78mm
+    oomp_key_full: oomp_footprint_digikey_pc_test_point_mini_3_43x1_78mm_pc_test_point_mini_3_43x1_78mm_d40b1b
+    oomp_key_simple: digikey_pc_test_point_mini_3_43x1_78mm_pc_test_point_mini_3_43x1_78mm
     original_filename: digikey-kicad-library/src/Source_Footprints/PC_TEST-POINT_MINI_3.43x1.78mm.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_pc_test_point_mini_3_43x1_78mm_pc_test_point_mini_3_43x1_78mm
+  oomp_key_full: oomp_footprint_digikey_pc_test_point_mini_3_43x1_78mm_pc_test_point_mini_3_43x1_78mm
   oomp_key_simple: digikey_pc_test_point_mini_3_43x1_78mm_pc_test_point_mini_3_43x1_78mm
   owner: digikey
   repo:

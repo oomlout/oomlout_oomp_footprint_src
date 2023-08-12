@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: smd_8_7x5mm
-    library_name: source_footprints
+    library_name: smd_8_7x5mm_kicad_mod
+    md5: e299c5d403b7b64a564cdc796245090c
+    md5_10: e299c5d403
+    md5_5: e299c
+    md5_6: e299c5
+    oomp_key: oomp_digikey_smd_8_7x5mm_smd_8_7x5mm
+    oomp_key_extra: oomp_footprint_digikey_smd_8_7x5mm_smd_8_7x5mm
+    oomp_key_full: oomp_footprint_digikey_smd_8_7x5mm_smd_8_7x5mm_e299c5
+    oomp_key_simple: digikey_smd_8_7x5mm_smd_8_7x5mm
     original_filename: digikey-kicad-library/src/Source_Footprints/SMD-8_7x5mm.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_smd_8_7x5mm_smd_8_7x5mm
+  oomp_key_full: oomp_footprint_digikey_smd_8_7x5mm_smd_8_7x5mm
   oomp_key_simple: digikey_smd_8_7x5mm_smd_8_7x5mm
   owner: digikey
   repo:

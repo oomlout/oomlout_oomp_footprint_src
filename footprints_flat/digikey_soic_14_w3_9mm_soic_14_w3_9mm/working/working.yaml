@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: soic_14_w3_9mm
-    library_name: source_footprints
+    library_name: soic_14_w3_9mm_kicad_mod
+    md5: 6155e16bfdd183e9f0ea938b2727114c
+    md5_10: 6155e16bfd
+    md5_5: 6155e
+    md5_6: 6155e1
+    oomp_key: oomp_digikey_soic_14_w3_9mm_soic_14_w3_9mm
+    oomp_key_extra: oomp_footprint_digikey_soic_14_w3_9mm_soic_14_w3_9mm
+    oomp_key_full: oomp_footprint_digikey_soic_14_w3_9mm_soic_14_w3_9mm_6155e1
+    oomp_key_simple: digikey_soic_14_w3_9mm_soic_14_w3_9mm
     original_filename: digikey-kicad-library/src/Source_Footprints/SOIC-14_W3.9mm.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_soic_14_w3_9mm_soic_14_w3_9mm
+  oomp_key_full: oomp_footprint_digikey_soic_14_w3_9mm_soic_14_w3_9mm
   oomp_key_simple: digikey_soic_14_w3_9mm_soic_14_w3_9mm
   owner: digikey
   repo:

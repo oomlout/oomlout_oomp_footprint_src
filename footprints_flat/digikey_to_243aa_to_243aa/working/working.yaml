@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: to_243aa
-    library_name: source_footprints
+    library_name: to_243aa_kicad_mod
+    md5: a01c058b1f8ea4bbd41ec170df1af3ab
+    md5_10: a01c058b1f
+    md5_5: a01c0
+    md5_6: a01c05
+    oomp_key: oomp_digikey_to_243aa_to_243aa
+    oomp_key_extra: oomp_footprint_digikey_to_243aa_to_243aa
+    oomp_key_full: oomp_footprint_digikey_to_243aa_to_243aa_a01c05
+    oomp_key_simple: digikey_to_243aa_to_243aa
     original_filename: digikey-kicad-library/src/Source_Footprints/TO-243AA.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_to_243aa_to_243aa
+  oomp_key_full: oomp_footprint_digikey_to_243aa_to_243aa
   oomp_key_simple: digikey_to_243aa_to_243aa
   owner: digikey
   repo:

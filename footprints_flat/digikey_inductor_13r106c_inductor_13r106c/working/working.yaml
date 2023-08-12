@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: inductor_13r106c
-    library_name: source_footprints
+    library_name: inductor_13r106c_kicad_mod
+    md5: dfa52e6350f90bf8dfbc5231b5434df7
+    md5_10: dfa52e6350
+    md5_5: dfa52
+    md5_6: dfa52e
+    oomp_key: oomp_digikey_inductor_13r106c_inductor_13r106c
+    oomp_key_extra: oomp_footprint_digikey_inductor_13r106c_inductor_13r106c
+    oomp_key_full: oomp_footprint_digikey_inductor_13r106c_inductor_13r106c_dfa52e
+    oomp_key_simple: digikey_inductor_13r106c_inductor_13r106c
     original_filename: digikey-kicad-library/src/Source_Footprints/Inductor_13R106C.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_inductor_13r106c_inductor_13r106c
+  oomp_key_full: oomp_footprint_digikey_inductor_13r106c_inductor_13r106c
   oomp_key_simple: digikey_inductor_13r106c_inductor_13r106c
   owner: digikey
   repo:

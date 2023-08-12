@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: tssop_8_w4_4mm
-    library_name: source_footprints
+    library_name: tssop_8_w4_4mm_kicad_mod
+    md5: 988232a41540cc3ef1b22fb5a0d49953
+    md5_10: 988232a415
+    md5_5: '98823'
+    md5_6: '988232'
+    oomp_key: oomp_digikey_tssop_8_w4_4mm_tssop_8_w4_4mm
+    oomp_key_extra: oomp_footprint_digikey_tssop_8_w4_4mm_tssop_8_w4_4mm
+    oomp_key_full: oomp_footprint_digikey_tssop_8_w4_4mm_tssop_8_w4_4mm_988232
+    oomp_key_simple: digikey_tssop_8_w4_4mm_tssop_8_w4_4mm
     original_filename: digikey-kicad-library/src/Source_Footprints/TSSOP-8_W4.4mm.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_tssop_8_w4_4mm_tssop_8_w4_4mm
+  oomp_key_full: oomp_footprint_digikey_tssop_8_w4_4mm_tssop_8_w4_4mm
   oomp_key_simple: digikey_tssop_8_w4_4mm_tssop_8_w4_4mm
   owner: digikey
   repo:

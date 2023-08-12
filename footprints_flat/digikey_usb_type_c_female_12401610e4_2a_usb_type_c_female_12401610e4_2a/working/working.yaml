@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: usb_type_c_female_12401610e4_2a
-    library_name: source_footprints
+    library_name: usb_type_c_female_12401610e4_2a_kicad_mod
+    md5: 6005616b4bb908afbbde011d02a355d5
+    md5_10: 6005616b4b
+    md5_5: '60056'
+    md5_6: '600561'
+    oomp_key: oomp_digikey_usb_type_c_female_12401610e4_2a_usb_type_c_female_12401610e4_2a
+    oomp_key_extra: oomp_footprint_digikey_usb_type_c_female_12401610e4_2a_usb_type_c_female_12401610e4_2a
+    oomp_key_full: oomp_footprint_digikey_usb_type_c_female_12401610e4_2a_usb_type_c_female_12401610e4_2a_600561
+    oomp_key_simple: digikey_usb_type_c_female_12401610e4_2a_usb_type_c_female_12401610e4_2a
     original_filename: digikey-kicad-library/src/Source_Footprints/USB_Type_C_Female__12401610E4_2A.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_usb_type_c_female_12401610e4_2a_usb_type_c_female_12401610e4_2a
+  oomp_key_full: oomp_footprint_digikey_usb_type_c_female_12401610e4_2a_usb_type_c_female_12401610e4_2a
   oomp_key_simple: digikey_usb_type_c_female_12401610e4_2a_usb_type_c_female_12401610e4_2a
   owner: digikey
   repo:

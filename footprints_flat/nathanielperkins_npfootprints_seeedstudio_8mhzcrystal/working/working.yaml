@@ -17,9 +17,18 @@
   oomp:
     footprint_name: seeedstudio_8mhzcrystal
     library_name: npfootprints
+    md5: bccf828caeec4fbda3ce6cbbc778e794
+    md5_10: bccf828cae
+    md5_5: bccf8
+    md5_6: bccf82
+    oomp_key: oomp_nathanielperkins_npfootprints_seeedstudio_8mhzcrystal
+    oomp_key_extra: oomp_footprint_nathanielperkins_npfootprints_seeedstudio_8mhzcrystal
+    oomp_key_full: oomp_footprint_nathanielperkins_npfootprints_seeedstudio_8mhzcrystal_bccf82
+    oomp_key_simple: nathanielperkins_npfootprints_seeedstudio_8mhzcrystal
     original_filename: NPFootprints.pretty/Seeedstudio-8MHzCrystal.kicad_mod
     owner_name: nathanielperkins
   oomp_key: oomp_nathanielperkins_npfootprints_seeedstudio_8mhzcrystal
+  oomp_key_full: oomp_footprint_nathanielperkins_npfootprints_seeedstudio_8mhzcrystal
   oomp_key_simple: nathanielperkins_npfootprints_seeedstudio_8mhzcrystal
   owner: NathanielPerkins
   repo:

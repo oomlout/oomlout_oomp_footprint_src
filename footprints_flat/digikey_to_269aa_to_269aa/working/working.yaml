@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: to_269aa
-    library_name: source_footprints
+    library_name: to_269aa_kicad_mod
+    md5: 8a0dd499fe80f0dd09f8d5867efef638
+    md5_10: 8a0dd499fe
+    md5_5: 8a0dd
+    md5_6: 8a0dd4
+    oomp_key: oomp_digikey_to_269aa_to_269aa
+    oomp_key_extra: oomp_footprint_digikey_to_269aa_to_269aa
+    oomp_key_full: oomp_footprint_digikey_to_269aa_to_269aa_8a0dd4
+    oomp_key_simple: digikey_to_269aa_to_269aa
     original_filename: digikey-kicad-library/src/Source_Footprints/TO-269AA.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_to_269aa_to_269aa
+  oomp_key_full: oomp_footprint_digikey_to_269aa_to_269aa
   oomp_key_simple: digikey_to_269aa_to_269aa
   owner: digikey
   repo:

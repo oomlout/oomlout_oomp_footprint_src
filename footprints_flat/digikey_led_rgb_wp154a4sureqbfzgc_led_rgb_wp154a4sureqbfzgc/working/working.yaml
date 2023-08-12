@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: led_rgb_wp154a4sureqbfzgc
-    library_name: source_footprints
+    library_name: led_rgb_wp154a4sureqbfzgc_kicad_mod
+    md5: 41f3535a845df18cbde995899d5a9546
+    md5_10: 41f3535a84
+    md5_5: 41f35
+    md5_6: 41f353
+    oomp_key: oomp_digikey_led_rgb_wp154a4sureqbfzgc_led_rgb_wp154a4sureqbfzgc
+    oomp_key_extra: oomp_footprint_digikey_led_rgb_wp154a4sureqbfzgc_led_rgb_wp154a4sureqbfzgc
+    oomp_key_full: oomp_footprint_digikey_led_rgb_wp154a4sureqbfzgc_led_rgb_wp154a4sureqbfzgc_41f353
+    oomp_key_simple: digikey_led_rgb_wp154a4sureqbfzgc_led_rgb_wp154a4sureqbfzgc
     original_filename: digikey-kicad-library/src/Source_Footprints/LED_RGB_WP154A4SUREQBFZGC.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_led_rgb_wp154a4sureqbfzgc_led_rgb_wp154a4sureqbfzgc
+  oomp_key_full: oomp_footprint_digikey_led_rgb_wp154a4sureqbfzgc_led_rgb_wp154a4sureqbfzgc
   oomp_key_simple: digikey_led_rgb_wp154a4sureqbfzgc_led_rgb_wp154a4sureqbfzgc
   owner: digikey
   repo:

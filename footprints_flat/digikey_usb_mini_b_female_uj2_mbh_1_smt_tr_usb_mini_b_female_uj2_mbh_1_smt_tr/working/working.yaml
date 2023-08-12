@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: usb_mini_b_female_uj2_mbh_1_smt_tr
-    library_name: source_footprints
+    library_name: usb_mini_b_female_uj2_mbh_1_smt_tr_kicad_mod
+    md5: d06f14c21143299250020893372f5b3b
+    md5_10: d06f14c211
+    md5_5: d06f1
+    md5_6: d06f14
+    oomp_key: oomp_digikey_usb_mini_b_female_uj2_mbh_1_smt_tr_usb_mini_b_female_uj2_mbh_1_smt_tr
+    oomp_key_extra: oomp_footprint_digikey_usb_mini_b_female_uj2_mbh_1_smt_tr_usb_mini_b_female_uj2_mbh_1_smt_tr
+    oomp_key_full: oomp_footprint_digikey_usb_mini_b_female_uj2_mbh_1_smt_tr_usb_mini_b_female_uj2_mbh_1_smt_tr_d06f14
+    oomp_key_simple: digikey_usb_mini_b_female_uj2_mbh_1_smt_tr_usb_mini_b_female_uj2_mbh_1_smt_tr
     original_filename: digikey-kicad-library/src/Source_Footprints/USB_Mini_B_Female_UJ2-MBH-1-SMT-TR.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_usb_mini_b_female_uj2_mbh_1_smt_tr_usb_mini_b_female_uj2_mbh_1_smt_tr
+  oomp_key_full: oomp_footprint_digikey_usb_mini_b_female_uj2_mbh_1_smt_tr_usb_mini_b_female_uj2_mbh_1_smt_tr
   oomp_key_simple: digikey_usb_mini_b_female_uj2_mbh_1_smt_tr_usb_mini_b_female_uj2_mbh_1_smt_tr
   owner: digikey
   repo:

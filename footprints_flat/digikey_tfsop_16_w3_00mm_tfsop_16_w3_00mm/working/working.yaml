@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: tfsop_16_w3_00mm
-    library_name: source_footprints
+    library_name: tfsop_16_w3_00mm_kicad_mod
+    md5: f8575d1d3a045bff58e5ceab0e505ad9
+    md5_10: f8575d1d3a
+    md5_5: f8575
+    md5_6: f8575d
+    oomp_key: oomp_digikey_tfsop_16_w3_00mm_tfsop_16_w3_00mm
+    oomp_key_extra: oomp_footprint_digikey_tfsop_16_w3_00mm_tfsop_16_w3_00mm
+    oomp_key_full: oomp_footprint_digikey_tfsop_16_w3_00mm_tfsop_16_w3_00mm_f8575d
+    oomp_key_simple: digikey_tfsop_16_w3_00mm_tfsop_16_w3_00mm
     original_filename: digikey-kicad-library/src/Source_Footprints/TFSOP-16_W3.00mm.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_tfsop_16_w3_00mm_tfsop_16_w3_00mm
+  oomp_key_full: oomp_footprint_digikey_tfsop_16_w3_00mm_tfsop_16_w3_00mm
   oomp_key_simple: digikey_tfsop_16_w3_00mm_tfsop_16_w3_00mm
   owner: digikey
   repo:

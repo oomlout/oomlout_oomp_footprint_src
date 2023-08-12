@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: llga_10_2_5x2_5mm_lps25hb
-    library_name: source_footprints
+    library_name: llga_10_2_5x2_5mm_lps25hb_kicad_mod
+    md5: 20be5f3b8cfc3fc55720d05e753c612a
+    md5_10: 20be5f3b8c
+    md5_5: 20be5
+    md5_6: 20be5f
+    oomp_key: oomp_digikey_llga_10_2_5x2_5mm_lps25hb_llga_10_2_5x2_5mm_lps25hb
+    oomp_key_extra: oomp_footprint_digikey_llga_10_2_5x2_5mm_lps25hb_llga_10_2_5x2_5mm_lps25hb
+    oomp_key_full: oomp_footprint_digikey_llga_10_2_5x2_5mm_lps25hb_llga_10_2_5x2_5mm_lps25hb_20be5f
+    oomp_key_simple: digikey_llga_10_2_5x2_5mm_lps25hb_llga_10_2_5x2_5mm_lps25hb
     original_filename: digikey-kicad-library/src/Source_Footprints/LLGA-10_2.5x2.5mm_LPS25HB.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_llga_10_2_5x2_5mm_lps25hb_llga_10_2_5x2_5mm_lps25hb
+  oomp_key_full: oomp_footprint_digikey_llga_10_2_5x2_5mm_lps25hb_llga_10_2_5x2_5mm_lps25hb
   oomp_key_simple: digikey_llga_10_2_5x2_5mm_lps25hb_llga_10_2_5x2_5mm_lps25hb
   owner: digikey
   repo:

@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: to_261_4
-    library_name: source_footprints
+    library_name: to_261_4_kicad_mod
+    md5: 9537b9923f814721485490e5b0d52e26
+    md5_10: 9537b9923f
+    md5_5: 9537b
+    md5_6: 9537b9
+    oomp_key: oomp_digikey_to_261_4_to_261_4
+    oomp_key_extra: oomp_footprint_digikey_to_261_4_to_261_4
+    oomp_key_full: oomp_footprint_digikey_to_261_4_to_261_4_9537b9
+    oomp_key_simple: digikey_to_261_4_to_261_4
     original_filename: digikey-kicad-library/src/Source_Footprints/TO-261-4.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_to_261_4_to_261_4
+  oomp_key_full: oomp_footprint_digikey_to_261_4_to_261_4
   oomp_key_simple: digikey_to_261_4_to_261_4
   owner: digikey
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: powerterminal
     library_name: npfootprints
+    md5: 9a36c85c2542180c5279213b9dac93b8
+    md5_10: 9a36c85c25
+    md5_5: 9a36c
+    md5_6: 9a36c8
+    oomp_key: oomp_nathanielperkins_npfootprints_powerterminal
+    oomp_key_extra: oomp_footprint_nathanielperkins_npfootprints_powerterminal
+    oomp_key_full: oomp_footprint_nathanielperkins_npfootprints_powerterminal_9a36c8
+    oomp_key_simple: nathanielperkins_npfootprints_powerterminal
     original_filename: NPFootprints.pretty/PowerTerminal.kicad_mod
     owner_name: nathanielperkins
   oomp_key: oomp_nathanielperkins_npfootprints_powerterminal
+  oomp_key_full: oomp_footprint_nathanielperkins_npfootprints_powerterminal
   oomp_key_simple: nathanielperkins_npfootprints_powerterminal
   owner: NathanielPerkins
   repo:

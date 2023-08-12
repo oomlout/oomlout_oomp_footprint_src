@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: to_225aa
-    library_name: source_footprints
+    library_name: to_225aa_kicad_mod
+    md5: 878260f7509e6b6207eb897be4e94fb0
+    md5_10: 878260f750
+    md5_5: '87826'
+    md5_6: '878260'
+    oomp_key: oomp_digikey_to_225aa_to_225aa
+    oomp_key_extra: oomp_footprint_digikey_to_225aa_to_225aa
+    oomp_key_full: oomp_footprint_digikey_to_225aa_to_225aa_878260
+    oomp_key_simple: digikey_to_225aa_to_225aa
     original_filename: digikey-kicad-library/src/Source_Footprints/TO-225AA.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_to_225aa_to_225aa
+  oomp_key_full: oomp_footprint_digikey_to_225aa_to_225aa
   oomp_key_simple: digikey_to_225aa_to_225aa
   owner: digikey
   repo:

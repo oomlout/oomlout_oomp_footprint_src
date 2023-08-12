@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: jumper_tin_p10_9mm
-    library_name: source_footprints
+    library_name: jumper_tin_p10_9mm_kicad_mod
+    md5: d1186a89fd0da6e1a196c98a18d4e84b
+    md5_10: d1186a89fd
+    md5_5: d1186
+    md5_6: d1186a
+    oomp_key: oomp_digikey_jumper_tin_p10_9mm_jumper_tin_p10_9mm
+    oomp_key_extra: oomp_footprint_digikey_jumper_tin_p10_9mm_jumper_tin_p10_9mm
+    oomp_key_full: oomp_footprint_digikey_jumper_tin_p10_9mm_jumper_tin_p10_9mm_d1186a
+    oomp_key_simple: digikey_jumper_tin_p10_9mm_jumper_tin_p10_9mm
     original_filename: digikey-kicad-library/src/Source_Footprints/Jumper_Tin_P10.9mm.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_jumper_tin_p10_9mm_jumper_tin_p10_9mm
+  oomp_key_full: oomp_footprint_digikey_jumper_tin_p10_9mm_jumper_tin_p10_9mm
   oomp_key_simple: digikey_jumper_tin_p10_9mm_jumper_tin_p10_9mm
   owner: digikey
   repo:

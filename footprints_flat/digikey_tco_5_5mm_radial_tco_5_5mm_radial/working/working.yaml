@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: tco_5_5mm_radial
-    library_name: source_footprints
+    library_name: tco_5_5mm_radial_kicad_mod
+    md5: 2b81c3ca52a9a027ae77e04dfb823dd6
+    md5_10: 2b81c3ca52
+    md5_5: 2b81c
+    md5_6: 2b81c3
+    oomp_key: oomp_digikey_tco_5_5mm_radial_tco_5_5mm_radial
+    oomp_key_extra: oomp_footprint_digikey_tco_5_5mm_radial_tco_5_5mm_radial
+    oomp_key_full: oomp_footprint_digikey_tco_5_5mm_radial_tco_5_5mm_radial_2b81c3
+    oomp_key_simple: digikey_tco_5_5mm_radial_tco_5_5mm_radial
     original_filename: digikey-kicad-library/src/Source_Footprints/TCO_5.5mm_Radial.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_tco_5_5mm_radial_tco_5_5mm_radial
+  oomp_key_full: oomp_footprint_digikey_tco_5_5mm_radial_tco_5_5mm_radial
   oomp_key_simple: digikey_tco_5_5mm_radial_tco_5_5mm_radial
   owner: digikey
   repo:

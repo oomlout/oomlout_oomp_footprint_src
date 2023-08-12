@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: msop_8_1ep_w3mm
-    library_name: source_footprints
+    library_name: msop_8_1ep_w3mm_kicad_mod
+    md5: 75bdb4c7e388f0474e9427cf4adf9495
+    md5_10: 75bdb4c7e3
+    md5_5: 75bdb
+    md5_6: 75bdb4
+    oomp_key: oomp_digikey_msop_8_1ep_w3mm_msop_8_1ep_w3mm
+    oomp_key_extra: oomp_footprint_digikey_msop_8_1ep_w3mm_msop_8_1ep_w3mm
+    oomp_key_full: oomp_footprint_digikey_msop_8_1ep_w3mm_msop_8_1ep_w3mm_75bdb4
+    oomp_key_simple: digikey_msop_8_1ep_w3mm_msop_8_1ep_w3mm
     original_filename: digikey-kicad-library/src/Source_Footprints/MSOP-8-1EP_W3mm.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_msop_8_1ep_w3mm_msop_8_1ep_w3mm
+  oomp_key_full: oomp_footprint_digikey_msop_8_1ep_w3mm_msop_8_1ep_w3mm
   oomp_key_simple: digikey_msop_8_1ep_w3mm_msop_8_1ep_w3mm
   owner: digikey
   repo:

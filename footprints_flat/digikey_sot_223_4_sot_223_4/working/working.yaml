@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: sot_223_4
-    library_name: source_footprints
+    library_name: sot_223_4_kicad_mod
+    md5: b0702dfc449c2cadf4eb1ead927faa5e
+    md5_10: b0702dfc44
+    md5_5: b0702
+    md5_6: b0702d
+    oomp_key: oomp_digikey_sot_223_4_sot_223_4
+    oomp_key_extra: oomp_footprint_digikey_sot_223_4_sot_223_4
+    oomp_key_full: oomp_footprint_digikey_sot_223_4_sot_223_4_b0702d
+    oomp_key_simple: digikey_sot_223_4_sot_223_4
     original_filename: digikey-kicad-library/src/Source_Footprints/SOT-223-4.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_sot_223_4_sot_223_4
+  oomp_key_full: oomp_footprint_digikey_sot_223_4_sot_223_4
   oomp_key_simple: digikey_sot_223_4_sot_223_4
   owner: digikey
   repo:

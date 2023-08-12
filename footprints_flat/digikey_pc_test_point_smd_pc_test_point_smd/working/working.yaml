@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: pc_test_point_smd
-    library_name: source_footprints
+    library_name: pc_test_point_smd_kicad_mod
+    md5: 5711308e1844b0566f3c185edf3e8d88
+    md5_10: 5711308e18
+    md5_5: '57113'
+    md5_6: '571130'
+    oomp_key: oomp_digikey_pc_test_point_smd_pc_test_point_smd
+    oomp_key_extra: oomp_footprint_digikey_pc_test_point_smd_pc_test_point_smd
+    oomp_key_full: oomp_footprint_digikey_pc_test_point_smd_pc_test_point_smd_571130
+    oomp_key_simple: digikey_pc_test_point_smd_pc_test_point_smd
     original_filename: digikey-kicad-library/src/Source_Footprints/PC_TEST_POINT_SMD.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_pc_test_point_smd_pc_test_point_smd
+  oomp_key_full: oomp_footprint_digikey_pc_test_point_smd_pc_test_point_smd
   oomp_key_simple: digikey_pc_test_point_smd_pc_test_point_smd
   owner: digikey
   repo:

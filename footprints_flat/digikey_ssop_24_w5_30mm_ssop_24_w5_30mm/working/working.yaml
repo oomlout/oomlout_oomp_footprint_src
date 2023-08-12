@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: ssop_24_w5_30mm
-    library_name: source_footprints
+    library_name: ssop_24_w5_30mm_kicad_mod
+    md5: 54ec39ec8a8a2ca0bdbab3e629ea6709
+    md5_10: 54ec39ec8a
+    md5_5: 54ec3
+    md5_6: 54ec39
+    oomp_key: oomp_digikey_ssop_24_w5_30mm_ssop_24_w5_30mm
+    oomp_key_extra: oomp_footprint_digikey_ssop_24_w5_30mm_ssop_24_w5_30mm
+    oomp_key_full: oomp_footprint_digikey_ssop_24_w5_30mm_ssop_24_w5_30mm_54ec39
+    oomp_key_simple: digikey_ssop_24_w5_30mm_ssop_24_w5_30mm
     original_filename: digikey-kicad-library/src/Source_Footprints/SSOP-24_W5.30mm.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_ssop_24_w5_30mm_ssop_24_w5_30mm
+  oomp_key_full: oomp_footprint_digikey_ssop_24_w5_30mm_ssop_24_w5_30mm
   oomp_key_simple: digikey_ssop_24_w5_30mm_ssop_24_w5_30mm
   owner: digikey
   repo:

@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: rf_module_spbt2632c2a_at2
-    library_name: source_footprints
+    library_name: rf_module_spbt2632c2a_at2_kicad_mod
+    md5: 462ad0f262cce24f2bffa69ef3f91e21
+    md5_10: 462ad0f262
+    md5_5: 462ad
+    md5_6: 462ad0
+    oomp_key: oomp_digikey_rf_module_spbt2632c2a_at2_rf_module_spbt2632c2a_at2
+    oomp_key_extra: oomp_footprint_digikey_rf_module_spbt2632c2a_at2_rf_module_spbt2632c2a_at2
+    oomp_key_full: oomp_footprint_digikey_rf_module_spbt2632c2a_at2_rf_module_spbt2632c2a_at2_462ad0
+    oomp_key_simple: digikey_rf_module_spbt2632c2a_at2_rf_module_spbt2632c2a_at2
     original_filename: digikey-kicad-library/src/Source_Footprints/RF_Module_SPBT2632C2A.AT2.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_rf_module_spbt2632c2a_at2_rf_module_spbt2632c2a_at2
+  oomp_key_full: oomp_footprint_digikey_rf_module_spbt2632c2a_at2_rf_module_spbt2632c2a_at2
   oomp_key_simple: digikey_rf_module_spbt2632c2a_at2_rf_module_spbt2632c2a_at2
   owner: digikey
   repo:

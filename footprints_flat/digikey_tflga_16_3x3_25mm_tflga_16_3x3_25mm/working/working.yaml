@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: tflga_16_3x3_25mm
-    library_name: source_footprints
+    library_name: tflga_16_3x3_25mm_kicad_mod
+    md5: 84b9afeaa82ac7b43a537657325d9731
+    md5_10: 84b9afeaa8
+    md5_5: 84b9a
+    md5_6: 84b9af
+    oomp_key: oomp_digikey_tflga_16_3x3_25mm_tflga_16_3x3_25mm
+    oomp_key_extra: oomp_footprint_digikey_tflga_16_3x3_25mm_tflga_16_3x3_25mm
+    oomp_key_full: oomp_footprint_digikey_tflga_16_3x3_25mm_tflga_16_3x3_25mm_84b9af
+    oomp_key_simple: digikey_tflga_16_3x3_25mm_tflga_16_3x3_25mm
     original_filename: digikey-kicad-library/src/Source_Footprints/TFLGA-16_3x3.25mm.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_tflga_16_3x3_25mm_tflga_16_3x3_25mm
+  oomp_key_full: oomp_footprint_digikey_tflga_16_3x3_25mm_tflga_16_3x3_25mm
   oomp_key_simple: digikey_tflga_16_3x3_25mm_tflga_16_3x3_25mm
   owner: digikey
   repo:

@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: switch_toggle_ate1d_2m3_10_z
-    library_name: source_footprints
+    library_name: switch_toggle_ate1d_2m3_10_z_kicad_mod
+    md5: 1d0d9f0e9de5cddeb079225bdd44c27e
+    md5_10: 1d0d9f0e9d
+    md5_5: 1d0d9
+    md5_6: 1d0d9f
+    oomp_key: oomp_digikey_switch_toggle_ate1d_2m3_10_z_switch_toggle_ate1d_2m3_10_z
+    oomp_key_extra: oomp_footprint_digikey_switch_toggle_ate1d_2m3_10_z_switch_toggle_ate1d_2m3_10_z
+    oomp_key_full: oomp_footprint_digikey_switch_toggle_ate1d_2m3_10_z_switch_toggle_ate1d_2m3_10_z_1d0d9f
+    oomp_key_simple: digikey_switch_toggle_ate1d_2m3_10_z_switch_toggle_ate1d_2m3_10_z
     original_filename: digikey-kicad-library/src/Source_Footprints/Switch_Toggle_ATE1D-2M3-10-Z.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_switch_toggle_ate1d_2m3_10_z_switch_toggle_ate1d_2m3_10_z
+  oomp_key_full: oomp_footprint_digikey_switch_toggle_ate1d_2m3_10_z_switch_toggle_ate1d_2m3_10_z
   oomp_key_simple: digikey_switch_toggle_ate1d_2m3_10_z_switch_toggle_ate1d_2m3_10_z
   owner: digikey
   repo:

@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: lga_14_3x5mm_reva
-    library_name: source_footprints
+    library_name: lga_14_3x5mm_reva_kicad_mod
+    md5: 3c5470b7233956e7d64e0611dcee231f
+    md5_10: 3c5470b723
+    md5_5: 3c547
+    md5_6: 3c5470
+    oomp_key: oomp_digikey_lga_14_3x5mm_reva_lga_14_3x5mm_reva
+    oomp_key_extra: oomp_footprint_digikey_lga_14_3x5mm_reva_lga_14_3x5mm_reva
+    oomp_key_full: oomp_footprint_digikey_lga_14_3x5mm_reva_lga_14_3x5mm_reva_3c5470
+    oomp_key_simple: digikey_lga_14_3x5mm_reva_lga_14_3x5mm_reva
     original_filename: digikey-kicad-library/src/Source_Footprints/LGA-14_3x5mm_RevA.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_lga_14_3x5mm_reva_lga_14_3x5mm_reva
+  oomp_key_full: oomp_footprint_digikey_lga_14_3x5mm_reva_lga_14_3x5mm_reva
   oomp_key_simple: digikey_lga_14_3x5mm_reva_lga_14_3x5mm_reva
   owner: digikey
   repo:

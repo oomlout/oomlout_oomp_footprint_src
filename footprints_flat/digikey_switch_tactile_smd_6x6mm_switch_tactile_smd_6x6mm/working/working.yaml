@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: switch_tactile_smd_6x6mm
-    library_name: source_footprints
+    library_name: switch_tactile_smd_6x6mm_kicad_mod
+    md5: 3bf307e0deb47089b399c0dc7556ed53
+    md5_10: 3bf307e0de
+    md5_5: 3bf30
+    md5_6: 3bf307
+    oomp_key: oomp_digikey_switch_tactile_smd_6x6mm_switch_tactile_smd_6x6mm
+    oomp_key_extra: oomp_footprint_digikey_switch_tactile_smd_6x6mm_switch_tactile_smd_6x6mm
+    oomp_key_full: oomp_footprint_digikey_switch_tactile_smd_6x6mm_switch_tactile_smd_6x6mm_3bf307
+    oomp_key_simple: digikey_switch_tactile_smd_6x6mm_switch_tactile_smd_6x6mm
     original_filename: digikey-kicad-library/src/Source_Footprints/Switch_Tactile_SMD_6x6mm.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_switch_tactile_smd_6x6mm_switch_tactile_smd_6x6mm
+  oomp_key_full: oomp_footprint_digikey_switch_tactile_smd_6x6mm_switch_tactile_smd_6x6mm
   oomp_key_simple: digikey_switch_tactile_smd_6x6mm_switch_tactile_smd_6x6mm
   owner: digikey
   repo:

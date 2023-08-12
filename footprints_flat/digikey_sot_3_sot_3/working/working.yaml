@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: sot_3
-    library_name: source_footprints
+    library_name: sot_3_kicad_mod
+    md5: ee4a6530d189e71264045845e29ca53c
+    md5_10: ee4a6530d1
+    md5_5: ee4a6
+    md5_6: ee4a65
+    oomp_key: oomp_digikey_sot_3_sot_3
+    oomp_key_extra: oomp_footprint_digikey_sot_3_sot_3
+    oomp_key_full: oomp_footprint_digikey_sot_3_sot_3_ee4a65
+    oomp_key_simple: digikey_sot_3_sot_3
     original_filename: digikey-kicad-library/src/Source_Footprints/SOT-3.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_sot_3_sot_3
+  oomp_key_full: oomp_footprint_digikey_sot_3_sot_3
   oomp_key_simple: digikey_sot_3_sot_3
   owner: digikey
   repo:

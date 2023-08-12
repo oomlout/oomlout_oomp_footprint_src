@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: wfdfn_14_1ep_3x3mm
-    library_name: source_footprints
+    library_name: wfdfn_14_1ep_3x3mm_kicad_mod
+    md5: dc477dd229a8f7738c279829471cd478
+    md5_10: dc477dd229
+    md5_5: dc477
+    md5_6: dc477d
+    oomp_key: oomp_digikey_wfdfn_14_1ep_3x3mm_wfdfn_14_1ep_3x3mm
+    oomp_key_extra: oomp_footprint_digikey_wfdfn_14_1ep_3x3mm_wfdfn_14_1ep_3x3mm
+    oomp_key_full: oomp_footprint_digikey_wfdfn_14_1ep_3x3mm_wfdfn_14_1ep_3x3mm_dc477d
+    oomp_key_simple: digikey_wfdfn_14_1ep_3x3mm_wfdfn_14_1ep_3x3mm
     original_filename: digikey-kicad-library/src/Source_Footprints/WFDFN-14-1EP_3x3mm.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_wfdfn_14_1ep_3x3mm_wfdfn_14_1ep_3x3mm
+  oomp_key_full: oomp_footprint_digikey_wfdfn_14_1ep_3x3mm_wfdfn_14_1ep_3x3mm
   oomp_key_simple: digikey_wfdfn_14_1ep_3x3mm_wfdfn_14_1ep_3x3mm
   owner: digikey
   repo:

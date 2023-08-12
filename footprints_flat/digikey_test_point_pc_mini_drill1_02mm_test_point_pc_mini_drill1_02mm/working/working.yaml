@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: test_point_pc_mini_drill1_02mm
-    library_name: source_footprints
+    library_name: test_point_pc_mini_drill1_02mm_kicad_mod
+    md5: 94e90d78a90a08609de2487b919320da
+    md5_10: 94e90d78a9
+    md5_5: 94e90
+    md5_6: 94e90d
+    oomp_key: oomp_digikey_test_point_pc_mini_drill1_02mm_test_point_pc_mini_drill1_02mm
+    oomp_key_extra: oomp_footprint_digikey_test_point_pc_mini_drill1_02mm_test_point_pc_mini_drill1_02mm
+    oomp_key_full: oomp_footprint_digikey_test_point_pc_mini_drill1_02mm_test_point_pc_mini_drill1_02mm_94e90d
+    oomp_key_simple: digikey_test_point_pc_mini_drill1_02mm_test_point_pc_mini_drill1_02mm
     original_filename: digikey-kicad-library/src/Source_Footprints/TEST_POINT_PC-MINI_Drill1.02mm.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_test_point_pc_mini_drill1_02mm_test_point_pc_mini_drill1_02mm
+  oomp_key_full: oomp_footprint_digikey_test_point_pc_mini_drill1_02mm_test_point_pc_mini_drill1_02mm
   oomp_key_simple: digikey_test_point_pc_mini_drill1_02mm_test_point_pc_mini_drill1_02mm
   owner: digikey
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: ptv09a_horizontal_potentiometer
     library_name: npfootprints
+    md5: 9b7343eacd8a36be8199e9f104c421c4
+    md5_10: 9b7343eacd
+    md5_5: 9b734
+    md5_6: 9b7343
+    oomp_key: oomp_nathanielperkins_npfootprints_ptv09a_horizontal_potentiometer
+    oomp_key_extra: oomp_footprint_nathanielperkins_npfootprints_ptv09a_horizontal_potentiometer
+    oomp_key_full: oomp_footprint_nathanielperkins_npfootprints_ptv09a_horizontal_potentiometer_9b7343
+    oomp_key_simple: nathanielperkins_npfootprints_ptv09a_horizontal_potentiometer
     original_filename: NPFootprints.pretty/PTV09A-Horizontal_Potentiometer.kicad_mod
     owner_name: nathanielperkins
   oomp_key: oomp_nathanielperkins_npfootprints_ptv09a_horizontal_potentiometer
+  oomp_key_full: oomp_footprint_nathanielperkins_npfootprints_ptv09a_horizontal_potentiometer
   oomp_key_simple: nathanielperkins_npfootprints_ptv09a_horizontal_potentiometer
   owner: NathanielPerkins
   repo:

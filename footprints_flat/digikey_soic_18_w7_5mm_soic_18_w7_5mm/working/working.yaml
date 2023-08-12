@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: soic_18_w7_5mm
-    library_name: source_footprints
+    library_name: soic_18_w7_5mm_kicad_mod
+    md5: cf7b29c84fa2de1cc7f5bc1370dea418
+    md5_10: cf7b29c84f
+    md5_5: cf7b2
+    md5_6: cf7b29
+    oomp_key: oomp_digikey_soic_18_w7_5mm_soic_18_w7_5mm
+    oomp_key_extra: oomp_footprint_digikey_soic_18_w7_5mm_soic_18_w7_5mm
+    oomp_key_full: oomp_footprint_digikey_soic_18_w7_5mm_soic_18_w7_5mm_cf7b29
+    oomp_key_simple: digikey_soic_18_w7_5mm_soic_18_w7_5mm
     original_filename: digikey-kicad-library/src/Source_Footprints/SOIC-18_W7.5mm.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_soic_18_w7_5mm_soic_18_w7_5mm
+  oomp_key_full: oomp_footprint_digikey_soic_18_w7_5mm_soic_18_w7_5mm
   oomp_key_simple: digikey_soic_18_w7_5mm_soic_18_w7_5mm
   owner: digikey
   repo:

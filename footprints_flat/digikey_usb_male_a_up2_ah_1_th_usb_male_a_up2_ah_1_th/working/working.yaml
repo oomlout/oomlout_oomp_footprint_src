@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: usb_male_a_up2_ah_1_th
-    library_name: source_footprints
+    library_name: usb_male_a_up2_ah_1_th_kicad_mod
+    md5: bb89e64e733137430c29f93eba793366
+    md5_10: bb89e64e73
+    md5_5: bb89e
+    md5_6: bb89e6
+    oomp_key: oomp_digikey_usb_male_a_up2_ah_1_th_usb_male_a_up2_ah_1_th
+    oomp_key_extra: oomp_footprint_digikey_usb_male_a_up2_ah_1_th_usb_male_a_up2_ah_1_th
+    oomp_key_full: oomp_footprint_digikey_usb_male_a_up2_ah_1_th_usb_male_a_up2_ah_1_th_bb89e6
+    oomp_key_simple: digikey_usb_male_a_up2_ah_1_th_usb_male_a_up2_ah_1_th
     original_filename: digikey-kicad-library/src/Source_Footprints/USB_Male_A_UP2-AH-1-TH.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_usb_male_a_up2_ah_1_th_usb_male_a_up2_ah_1_th
+  oomp_key_full: oomp_footprint_digikey_usb_male_a_up2_ah_1_th_usb_male_a_up2_ah_1_th
   oomp_key_simple: digikey_usb_male_a_up2_ah_1_th_usb_male_a_up2_ah_1_th
   owner: digikey
   repo:

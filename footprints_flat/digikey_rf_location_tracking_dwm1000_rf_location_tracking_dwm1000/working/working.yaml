@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: rf_location_tracking_dwm1000
-    library_name: source_footprints
+    library_name: rf_location_tracking_dwm1000_kicad_mod
+    md5: e1ff96cf2ad0413cf9cd53cbce7cb301
+    md5_10: e1ff96cf2a
+    md5_5: e1ff9
+    md5_6: e1ff96
+    oomp_key: oomp_digikey_rf_location_tracking_dwm1000_rf_location_tracking_dwm1000
+    oomp_key_extra: oomp_footprint_digikey_rf_location_tracking_dwm1000_rf_location_tracking_dwm1000
+    oomp_key_full: oomp_footprint_digikey_rf_location_tracking_dwm1000_rf_location_tracking_dwm1000_e1ff96
+    oomp_key_simple: digikey_rf_location_tracking_dwm1000_rf_location_tracking_dwm1000
     original_filename: digikey-kicad-library/src/Source_Footprints/RF_Location_Tracking_DWM1000.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_rf_location_tracking_dwm1000_rf_location_tracking_dwm1000
+  oomp_key_full: oomp_footprint_digikey_rf_location_tracking_dwm1000_rf_location_tracking_dwm1000
   oomp_key_simple: digikey_rf_location_tracking_dwm1000_rf_location_tracking_dwm1000
   owner: digikey
   repo:

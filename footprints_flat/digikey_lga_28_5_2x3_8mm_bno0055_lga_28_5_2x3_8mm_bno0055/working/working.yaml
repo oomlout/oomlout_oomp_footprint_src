@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: lga_28_5_2x3_8mm_bno0055
-    library_name: source_footprints
+    library_name: lga_28_5_2x3_8mm_bno0055_kicad_mod
+    md5: 53619deefdf5959ecc5d27504242c9ed
+    md5_10: 53619deefd
+    md5_5: '53619'
+    md5_6: 53619d
+    oomp_key: oomp_digikey_lga_28_5_2x3_8mm_bno0055_lga_28_5_2x3_8mm_bno0055
+    oomp_key_extra: oomp_footprint_digikey_lga_28_5_2x3_8mm_bno0055_lga_28_5_2x3_8mm_bno0055
+    oomp_key_full: oomp_footprint_digikey_lga_28_5_2x3_8mm_bno0055_lga_28_5_2x3_8mm_bno0055_53619d
+    oomp_key_simple: digikey_lga_28_5_2x3_8mm_bno0055_lga_28_5_2x3_8mm_bno0055
     original_filename: digikey-kicad-library/src/Source_Footprints/LGA-28_5.2x3.8mm_BNO0055.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_lga_28_5_2x3_8mm_bno0055_lga_28_5_2x3_8mm_bno0055
+  oomp_key_full: oomp_footprint_digikey_lga_28_5_2x3_8mm_bno0055_lga_28_5_2x3_8mm_bno0055
   oomp_key_simple: digikey_lga_28_5_2x3_8mm_bno0055_lga_28_5_2x3_8mm_bno0055
   owner: digikey
   repo:

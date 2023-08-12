@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: voc_sensor_lga_10_1ep_2_7x4mm_ccs811b
-    library_name: source_footprints
+    library_name: voc_sensor_lga_10_1ep_2_7x4mm_ccs811b_kicad_mod
+    md5: a89058ca50649cdf5787e874c787d514
+    md5_10: a89058ca50
+    md5_5: a8905
+    md5_6: a89058
+    oomp_key: oomp_digikey_voc_sensor_lga_10_1ep_2_7x4mm_ccs811b_voc_sensor_lga_10_1ep_2_7x4mm_ccs811b
+    oomp_key_extra: oomp_footprint_digikey_voc_sensor_lga_10_1ep_2_7x4mm_ccs811b_voc_sensor_lga_10_1ep_2_7x4mm_ccs811b
+    oomp_key_full: oomp_footprint_digikey_voc_sensor_lga_10_1ep_2_7x4mm_ccs811b_voc_sensor_lga_10_1ep_2_7x4mm_ccs811b_a89058
+    oomp_key_simple: digikey_voc_sensor_lga_10_1ep_2_7x4mm_ccs811b_voc_sensor_lga_10_1ep_2_7x4mm_ccs811b
     original_filename: digikey-kicad-library/src/Source_Footprints/VOC_Sensor_LGA-10-1EP-2.7x4mm_CCS811B.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_voc_sensor_lga_10_1ep_2_7x4mm_ccs811b_voc_sensor_lga_10_1ep_2_7x4mm_ccs811b
+  oomp_key_full: oomp_footprint_digikey_voc_sensor_lga_10_1ep_2_7x4mm_ccs811b_voc_sensor_lga_10_1ep_2_7x4mm_ccs811b
   oomp_key_simple: digikey_voc_sensor_lga_10_1ep_2_7x4mm_ccs811b_voc_sensor_lga_10_1ep_2_7x4mm_ccs811b
   owner: digikey
   repo:

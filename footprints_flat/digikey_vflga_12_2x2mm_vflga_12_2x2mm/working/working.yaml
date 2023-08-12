@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: vflga_12_2x2mm
-    library_name: source_footprints
+    library_name: vflga_12_2x2mm_kicad_mod
+    md5: c5e9b567ecf39e6347ecb2f233c571f5
+    md5_10: c5e9b567ec
+    md5_5: c5e9b
+    md5_6: c5e9b5
+    oomp_key: oomp_digikey_vflga_12_2x2mm_vflga_12_2x2mm
+    oomp_key_extra: oomp_footprint_digikey_vflga_12_2x2mm_vflga_12_2x2mm
+    oomp_key_full: oomp_footprint_digikey_vflga_12_2x2mm_vflga_12_2x2mm_c5e9b5
+    oomp_key_simple: digikey_vflga_12_2x2mm_vflga_12_2x2mm
     original_filename: digikey-kicad-library/src/Source_Footprints/VFLGA-12_2x2mm.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_vflga_12_2x2mm_vflga_12_2x2mm
+  oomp_key_full: oomp_footprint_digikey_vflga_12_2x2mm_vflga_12_2x2mm
   oomp_key_simple: digikey_vflga_12_2x2mm_vflga_12_2x2mm
   owner: digikey
   repo:

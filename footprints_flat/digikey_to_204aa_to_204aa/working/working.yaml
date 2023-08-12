@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: to_204aa
-    library_name: source_footprints
+    library_name: to_204aa_kicad_mod
+    md5: 0900d314ae40ebc2703930c9d3b7ab1b
+    md5_10: 0900d314ae
+    md5_5: 0900d
+    md5_6: 0900d3
+    oomp_key: oomp_digikey_to_204aa_to_204aa
+    oomp_key_extra: oomp_footprint_digikey_to_204aa_to_204aa
+    oomp_key_full: oomp_footprint_digikey_to_204aa_to_204aa_0900d3
+    oomp_key_simple: digikey_to_204aa_to_204aa
     original_filename: digikey-kicad-library/src/Source_Footprints/TO-204AA.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_to_204aa_to_204aa
+  oomp_key_full: oomp_footprint_digikey_to_204aa_to_204aa
   oomp_key_simple: digikey_to_204aa_to_204aa
   owner: digikey
   repo:

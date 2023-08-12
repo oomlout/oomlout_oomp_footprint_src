@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: rf_sma_rightangle_5_1814400_1
-    library_name: source_footprints
+    library_name: rf_sma_rightangle_5_1814400_1_kicad_mod
+    md5: 22a42bbf92e8a4cbeec3298a0e0e233e
+    md5_10: 22a42bbf92
+    md5_5: 22a42
+    md5_6: 22a42b
+    oomp_key: oomp_digikey_rf_sma_rightangle_5_1814400_1_rf_sma_rightangle_5_1814400_1
+    oomp_key_extra: oomp_footprint_digikey_rf_sma_rightangle_5_1814400_1_rf_sma_rightangle_5_1814400_1
+    oomp_key_full: oomp_footprint_digikey_rf_sma_rightangle_5_1814400_1_rf_sma_rightangle_5_1814400_1_22a42b
+    oomp_key_simple: digikey_rf_sma_rightangle_5_1814400_1_rf_sma_rightangle_5_1814400_1
     original_filename: digikey-kicad-library/src/Source_Footprints/RF_SMA_RightAngle_5-1814400-1.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_rf_sma_rightangle_5_1814400_1_rf_sma_rightangle_5_1814400_1
+  oomp_key_full: oomp_footprint_digikey_rf_sma_rightangle_5_1814400_1_rf_sma_rightangle_5_1814400_1
   oomp_key_simple: digikey_rf_sma_rightangle_5_1814400_1_rf_sma_rightangle_5_1814400_1
   owner: digikey
   repo:

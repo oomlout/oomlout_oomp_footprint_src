@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: photodiode_radial_5mm_p2_54mm_sfh_203
-    library_name: source_footprints
+    library_name: photodiode_radial_5mm_p2_54mm_sfh_203_kicad_mod
+    md5: a149c0bcffb5f18b7df4cdfb72bf59d5
+    md5_10: a149c0bcff
+    md5_5: a149c
+    md5_6: a149c0
+    oomp_key: oomp_digikey_photodiode_radial_5mm_p2_54mm_sfh_203_photodiode_radial_5mm_p2_54mm_sfh_203
+    oomp_key_extra: oomp_footprint_digikey_photodiode_radial_5mm_p2_54mm_sfh_203_photodiode_radial_5mm_p2_54mm_sfh_203
+    oomp_key_full: oomp_footprint_digikey_photodiode_radial_5mm_p2_54mm_sfh_203_photodiode_radial_5mm_p2_54mm_sfh_203_a149c0
+    oomp_key_simple: digikey_photodiode_radial_5mm_p2_54mm_sfh_203_photodiode_radial_5mm_p2_54mm_sfh_203
     original_filename: digikey-kicad-library/src/Source_Footprints/Photodiode_Radial_5mm_P2.54mm_SFH_203.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_photodiode_radial_5mm_p2_54mm_sfh_203_photodiode_radial_5mm_p2_54mm_sfh_203
+  oomp_key_full: oomp_footprint_digikey_photodiode_radial_5mm_p2_54mm_sfh_203_photodiode_radial_5mm_p2_54mm_sfh_203
   oomp_key_simple: digikey_photodiode_radial_5mm_p2_54mm_sfh_203_photodiode_radial_5mm_p2_54mm_sfh_203
   owner: digikey
   repo:

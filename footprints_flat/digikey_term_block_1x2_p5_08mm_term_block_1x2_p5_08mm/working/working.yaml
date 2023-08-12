@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: term_block_1x2_p5_08mm
-    library_name: source_footprints
+    library_name: term_block_1x2_p5_08mm_kicad_mod
+    md5: 79823f84ba4e632a6c05ab4f25e2b838
+    md5_10: 79823f84ba
+    md5_5: '79823'
+    md5_6: 79823f
+    oomp_key: oomp_digikey_term_block_1x2_p5_08mm_term_block_1x2_p5_08mm
+    oomp_key_extra: oomp_footprint_digikey_term_block_1x2_p5_08mm_term_block_1x2_p5_08mm
+    oomp_key_full: oomp_footprint_digikey_term_block_1x2_p5_08mm_term_block_1x2_p5_08mm_79823f
+    oomp_key_simple: digikey_term_block_1x2_p5_08mm_term_block_1x2_p5_08mm
     original_filename: digikey-kicad-library/src/Source_Footprints/TERM_BLOCK_1x2_P5.08MM.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_term_block_1x2_p5_08mm_term_block_1x2_p5_08mm
+  oomp_key_full: oomp_footprint_digikey_term_block_1x2_p5_08mm_term_block_1x2_p5_08mm
   oomp_key_simple: digikey_term_block_1x2_p5_08mm_term_block_1x2_p5_08mm
   owner: digikey
   repo:

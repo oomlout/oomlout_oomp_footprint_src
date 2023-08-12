@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: smd_4_3_3x2_8_pd15_22c_tr8
-    library_name: source_footprints
+    library_name: smd_4_3_3x2_8_pd15_22c_tr8_kicad_mod
+    md5: fc4e263f25b5bcf72136cfcc88ef3801
+    md5_10: fc4e263f25
+    md5_5: fc4e2
+    md5_6: fc4e26
+    oomp_key: oomp_digikey_smd_4_3_3x2_8_pd15_22c_tr8_smd_4_3_3x2_8_pd15_22c_tr8
+    oomp_key_extra: oomp_footprint_digikey_smd_4_3_3x2_8_pd15_22c_tr8_smd_4_3_3x2_8_pd15_22c_tr8
+    oomp_key_full: oomp_footprint_digikey_smd_4_3_3x2_8_pd15_22c_tr8_smd_4_3_3x2_8_pd15_22c_tr8_fc4e26
+    oomp_key_simple: digikey_smd_4_3_3x2_8_pd15_22c_tr8_smd_4_3_3x2_8_pd15_22c_tr8
     original_filename: digikey-kicad-library/src/Source_Footprints/SMD-4_3.3x2.8_PD15-22C_TR8.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_smd_4_3_3x2_8_pd15_22c_tr8_smd_4_3_3x2_8_pd15_22c_tr8
+  oomp_key_full: oomp_footprint_digikey_smd_4_3_3x2_8_pd15_22c_tr8_smd_4_3_3x2_8_pd15_22c_tr8
   oomp_key_simple: digikey_smd_4_3_3x2_8_pd15_22c_tr8_smd_4_3_3x2_8_pd15_22c_tr8
   owner: digikey
   repo:

@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: lga_12_4_8x2_8_vl6180
-    library_name: source_footprints
+    library_name: lga_12_4_8x2_8_vl6180_kicad_mod
+    md5: 39b26a7c0f3bd4c109c50927ee3b8929
+    md5_10: 39b26a7c0f
+    md5_5: 39b26
+    md5_6: 39b26a
+    oomp_key: oomp_digikey_lga_12_4_8x2_8_vl6180_lga_12_4_8x2_8_vl6180
+    oomp_key_extra: oomp_footprint_digikey_lga_12_4_8x2_8_vl6180_lga_12_4_8x2_8_vl6180
+    oomp_key_full: oomp_footprint_digikey_lga_12_4_8x2_8_vl6180_lga_12_4_8x2_8_vl6180_39b26a
+    oomp_key_simple: digikey_lga_12_4_8x2_8_vl6180_lga_12_4_8x2_8_vl6180
     original_filename: digikey-kicad-library/src/Source_Footprints/LGA-12_4.8x2.8_VL6180.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_lga_12_4_8x2_8_vl6180_lga_12_4_8x2_8_vl6180
+  oomp_key_full: oomp_footprint_digikey_lga_12_4_8x2_8_vl6180_lga_12_4_8x2_8_vl6180
   oomp_key_simple: digikey_lga_12_4_8x2_8_vl6180_lga_12_4_8x2_8_vl6180
   owner: digikey
   repo:

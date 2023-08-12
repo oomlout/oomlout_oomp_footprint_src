@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: led_2_smd_no_lead_1_7x0_8mm
-    library_name: source_footprints
+    library_name: led_2_smd_no_lead_1_7x0_8mm_kicad_mod
+    md5: 237bf32c75c40f0946cea80db6a6dcdf
+    md5_10: 237bf32c75
+    md5_5: 237bf
+    md5_6: 237bf3
+    oomp_key: oomp_digikey_led_2_smd_no_lead_1_7x0_8mm_led_2_smd_no_lead_1_7x0_8mm
+    oomp_key_extra: oomp_footprint_digikey_led_2_smd_no_lead_1_7x0_8mm_led_2_smd_no_lead_1_7x0_8mm
+    oomp_key_full: oomp_footprint_digikey_led_2_smd_no_lead_1_7x0_8mm_led_2_smd_no_lead_1_7x0_8mm_237bf3
+    oomp_key_simple: digikey_led_2_smd_no_lead_1_7x0_8mm_led_2_smd_no_lead_1_7x0_8mm
     original_filename: digikey-kicad-library/src/Source_Footprints/LED_2-SMD_No_Lead_1.7x0.8mm.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_led_2_smd_no_lead_1_7x0_8mm_led_2_smd_no_lead_1_7x0_8mm
+  oomp_key_full: oomp_footprint_digikey_led_2_smd_no_lead_1_7x0_8mm_led_2_smd_no_lead_1_7x0_8mm
   oomp_key_simple: digikey_led_2_smd_no_lead_1_7x0_8mm_led_2_smd_no_lead_1_7x0_8mm
   owner: digikey
   repo:

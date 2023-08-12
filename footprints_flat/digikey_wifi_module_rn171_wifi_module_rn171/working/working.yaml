@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: wifi_module_rn171
-    library_name: source_footprints
+    library_name: wifi_module_rn171_kicad_mod
+    md5: 98a99ac75618a91afad266e30dcc4a80
+    md5_10: 98a99ac756
+    md5_5: 98a99
+    md5_6: 98a99a
+    oomp_key: oomp_digikey_wifi_module_rn171_wifi_module_rn171
+    oomp_key_extra: oomp_footprint_digikey_wifi_module_rn171_wifi_module_rn171
+    oomp_key_full: oomp_footprint_digikey_wifi_module_rn171_wifi_module_rn171_98a99a
+    oomp_key_simple: digikey_wifi_module_rn171_wifi_module_rn171
     original_filename: digikey-kicad-library/src/Source_Footprints/Wifi_Module_RN171.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_wifi_module_rn171_wifi_module_rn171
+  oomp_key_full: oomp_footprint_digikey_wifi_module_rn171_wifi_module_rn171
   oomp_key_simple: digikey_wifi_module_rn171_wifi_module_rn171
   owner: digikey
   repo:

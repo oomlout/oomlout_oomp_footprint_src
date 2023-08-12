@@ -17,9 +17,18 @@
   oomp:
     footprint_name: seeedstudio_5v_buck
     library_name: npfootprints
+    md5: 700dd967811d56b055a5c239edf0aeab
+    md5_10: 700dd96781
+    md5_5: 700dd
+    md5_6: 700dd9
+    oomp_key: oomp_nathanielperkins_npfootprints_seeedstudio_5v_buck
+    oomp_key_extra: oomp_footprint_nathanielperkins_npfootprints_seeedstudio_5v_buck
+    oomp_key_full: oomp_footprint_nathanielperkins_npfootprints_seeedstudio_5v_buck_700dd9
+    oomp_key_simple: nathanielperkins_npfootprints_seeedstudio_5v_buck
     original_filename: NPFootprints.pretty/Seeedstudio_5V_Buck.kicad_mod
     owner_name: nathanielperkins
   oomp_key: oomp_nathanielperkins_npfootprints_seeedstudio_5v_buck
+  oomp_key_full: oomp_footprint_nathanielperkins_npfootprints_seeedstudio_5v_buck
   oomp_key_simple: nathanielperkins_npfootprints_seeedstudio_5v_buck
   owner: NathanielPerkins
   repo:

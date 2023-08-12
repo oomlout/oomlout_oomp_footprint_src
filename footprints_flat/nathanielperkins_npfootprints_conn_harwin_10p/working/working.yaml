@@ -17,9 +17,18 @@
   oomp:
     footprint_name: conn_harwin_10p
     library_name: npfootprints
+    md5: b1e0bbf8dfdb70b6f77a457f10b6ccf0
+    md5_10: b1e0bbf8df
+    md5_5: b1e0b
+    md5_6: b1e0bb
+    oomp_key: oomp_nathanielperkins_npfootprints_conn_harwin_10p
+    oomp_key_extra: oomp_footprint_nathanielperkins_npfootprints_conn_harwin_10p
+    oomp_key_full: oomp_footprint_nathanielperkins_npfootprints_conn_harwin_10p_b1e0bb
+    oomp_key_simple: nathanielperkins_npfootprints_conn_harwin_10p
     original_filename: NPFootprints.pretty/Conn-Harwin-10p.kicad_mod
     owner_name: nathanielperkins
   oomp_key: oomp_nathanielperkins_npfootprints_conn_harwin_10p
+  oomp_key_full: oomp_footprint_nathanielperkins_npfootprints_conn_harwin_10p
   oomp_key_simple: nathanielperkins_npfootprints_conn_harwin_10p
   owner: NathanielPerkins
   repo:

@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: socket_dip_6_7_62mm_conn
-    library_name: source_footprints
+    library_name: socket_dip_6_7_62mm_conn_kicad_mod
+    md5: adeb9b9528a509d871fcb0e19a3f217b
+    md5_10: adeb9b9528
+    md5_5: adeb9
+    md5_6: adeb9b
+    oomp_key: oomp_digikey_socket_dip_6_7_62mm_conn_socket_dip_6_7_62mm_conn
+    oomp_key_extra: oomp_footprint_digikey_socket_dip_6_7_62mm_conn_socket_dip_6_7_62mm_conn
+    oomp_key_full: oomp_footprint_digikey_socket_dip_6_7_62mm_conn_socket_dip_6_7_62mm_conn_adeb9b
+    oomp_key_simple: digikey_socket_dip_6_7_62mm_conn_socket_dip_6_7_62mm_conn
     original_filename: digikey-kicad-library/src/Source_Footprints/SOCKET_DIP-6_7.62mm_Conn.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_socket_dip_6_7_62mm_conn_socket_dip_6_7_62mm_conn
+  oomp_key_full: oomp_footprint_digikey_socket_dip_6_7_62mm_conn_socket_dip_6_7_62mm_conn
   oomp_key_simple: digikey_socket_dip_6_7_62mm_conn_socket_dip_6_7_62mm_conn
   owner: digikey
   repo:

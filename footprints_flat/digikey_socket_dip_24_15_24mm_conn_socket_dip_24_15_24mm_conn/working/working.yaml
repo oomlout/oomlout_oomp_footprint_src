@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: socket_dip_24_15_24mm_conn
-    library_name: source_footprints
+    library_name: socket_dip_24_15_24mm_conn_kicad_mod
+    md5: 0616645c620c168bbbfe30c1aa235e1f
+    md5_10: 0616645c62
+    md5_5: '06166'
+    md5_6: '061664'
+    oomp_key: oomp_digikey_socket_dip_24_15_24mm_conn_socket_dip_24_15_24mm_conn
+    oomp_key_extra: oomp_footprint_digikey_socket_dip_24_15_24mm_conn_socket_dip_24_15_24mm_conn
+    oomp_key_full: oomp_footprint_digikey_socket_dip_24_15_24mm_conn_socket_dip_24_15_24mm_conn_061664
+    oomp_key_simple: digikey_socket_dip_24_15_24mm_conn_socket_dip_24_15_24mm_conn
     original_filename: digikey-kicad-library/src/Source_Footprints/Socket_DIP-24_15.24mm_Conn.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_socket_dip_24_15_24mm_conn_socket_dip_24_15_24mm_conn
+  oomp_key_full: oomp_footprint_digikey_socket_dip_24_15_24mm_conn_socket_dip_24_15_24mm_conn
   oomp_key_simple: digikey_socket_dip_24_15_24mm_conn_socket_dip_24_15_24mm_conn
   owner: digikey
   repo:

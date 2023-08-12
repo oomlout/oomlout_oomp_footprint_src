@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: ufdfn_6_1_45x1mm
-    library_name: source_footprints
+    library_name: ufdfn_6_1_45x1mm_kicad_mod
+    md5: eae3cabebc795f981779fc03e8159870
+    md5_10: eae3cabebc
+    md5_5: eae3c
+    md5_6: eae3ca
+    oomp_key: oomp_digikey_ufdfn_6_1_45x1mm_ufdfn_6_1_45x1mm
+    oomp_key_extra: oomp_footprint_digikey_ufdfn_6_1_45x1mm_ufdfn_6_1_45x1mm
+    oomp_key_full: oomp_footprint_digikey_ufdfn_6_1_45x1mm_ufdfn_6_1_45x1mm_eae3ca
+    oomp_key_simple: digikey_ufdfn_6_1_45x1mm_ufdfn_6_1_45x1mm
     original_filename: digikey-kicad-library/src/Source_Footprints/UFDFN-6_1.45x1mm.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_ufdfn_6_1_45x1mm_ufdfn_6_1_45x1mm
+  oomp_key_full: oomp_footprint_digikey_ufdfn_6_1_45x1mm_ufdfn_6_1_45x1mm
   oomp_key_simple: digikey_ufdfn_6_1_45x1mm_ufdfn_6_1_45x1mm
   owner: digikey
   repo:

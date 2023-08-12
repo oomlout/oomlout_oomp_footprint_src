@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: toggle_switch_100sp1t2b4m6qe
-    library_name: source_footprints
+    library_name: toggle_switch_100sp1t2b4m6qe_kicad_mod
+    md5: 744badc9ac57bacc050f656a6a85b004
+    md5_10: 744badc9ac
+    md5_5: 744ba
+    md5_6: 744bad
+    oomp_key: oomp_digikey_toggle_switch_100sp1t2b4m6qe_toggle_switch_100sp1t2b4m6qe
+    oomp_key_extra: oomp_footprint_digikey_toggle_switch_100sp1t2b4m6qe_toggle_switch_100sp1t2b4m6qe
+    oomp_key_full: oomp_footprint_digikey_toggle_switch_100sp1t2b4m6qe_toggle_switch_100sp1t2b4m6qe_744bad
+    oomp_key_simple: digikey_toggle_switch_100sp1t2b4m6qe_toggle_switch_100sp1t2b4m6qe
     original_filename: digikey-kicad-library/src/Source_Footprints/Toggle_Switch_100SP1T2B4M6QE.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_toggle_switch_100sp1t2b4m6qe_toggle_switch_100sp1t2b4m6qe
+  oomp_key_full: oomp_footprint_digikey_toggle_switch_100sp1t2b4m6qe_toggle_switch_100sp1t2b4m6qe
   oomp_key_simple: digikey_toggle_switch_100sp1t2b4m6qe_toggle_switch_100sp1t2b4m6qe
   owner: digikey
   repo:

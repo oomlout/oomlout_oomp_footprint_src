@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: zigbee_module_mrf24j40md
-    library_name: source_footprints
+    library_name: zigbee_module_mrf24j40md_kicad_mod
+    md5: 71f8be761d7748ddf316ff5c52f02d0c
+    md5_10: 71f8be761d
+    md5_5: 71f8b
+    md5_6: 71f8be
+    oomp_key: oomp_digikey_zigbee_module_mrf24j40md_zigbee_module_mrf24j40md
+    oomp_key_extra: oomp_footprint_digikey_zigbee_module_mrf24j40md_zigbee_module_mrf24j40md
+    oomp_key_full: oomp_footprint_digikey_zigbee_module_mrf24j40md_zigbee_module_mrf24j40md_71f8be
+    oomp_key_simple: digikey_zigbee_module_mrf24j40md_zigbee_module_mrf24j40md
     original_filename: digikey-kicad-library/src/Source_Footprints/Zigbee_Module_MRF24J40MD.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_zigbee_module_mrf24j40md_zigbee_module_mrf24j40md
+  oomp_key_full: oomp_footprint_digikey_zigbee_module_mrf24j40md_zigbee_module_mrf24j40md
   oomp_key_simple: digikey_zigbee_module_mrf24j40md_zigbee_module_mrf24j40md
   owner: digikey
   repo:

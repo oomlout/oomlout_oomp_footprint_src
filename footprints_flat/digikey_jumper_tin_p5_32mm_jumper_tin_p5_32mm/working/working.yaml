@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: jumper_tin_p5_32mm
-    library_name: source_footprints
+    library_name: jumper_tin_p5_32mm_kicad_mod
+    md5: ee9e4be7bc5722d35968f904728130c6
+    md5_10: ee9e4be7bc
+    md5_5: ee9e4
+    md5_6: ee9e4b
+    oomp_key: oomp_digikey_jumper_tin_p5_32mm_jumper_tin_p5_32mm
+    oomp_key_extra: oomp_footprint_digikey_jumper_tin_p5_32mm_jumper_tin_p5_32mm
+    oomp_key_full: oomp_footprint_digikey_jumper_tin_p5_32mm_jumper_tin_p5_32mm_ee9e4b
+    oomp_key_simple: digikey_jumper_tin_p5_32mm_jumper_tin_p5_32mm
     original_filename: digikey-kicad-library/src/Source_Footprints/Jumper_Tin_P5.32mm.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_jumper_tin_p5_32mm_jumper_tin_p5_32mm
+  oomp_key_full: oomp_footprint_digikey_jumper_tin_p5_32mm_jumper_tin_p5_32mm
   oomp_key_simple: digikey_jumper_tin_p5_32mm_jumper_tin_p5_32mm
   owner: digikey
   repo:

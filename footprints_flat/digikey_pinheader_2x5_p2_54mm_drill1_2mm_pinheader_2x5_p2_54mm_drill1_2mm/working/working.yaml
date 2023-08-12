@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: pinheader_2x5_p2_54mm_drill1_2mm
-    library_name: source_footprints
+    library_name: pinheader_2x5_p2_54mm_drill1_2mm_kicad_mod
+    md5: d46433ca0433c2f7772501eb8e3ffd98
+    md5_10: d46433ca04
+    md5_5: d4643
+    md5_6: d46433
+    oomp_key: oomp_digikey_pinheader_2x5_p2_54mm_drill1_2mm_pinheader_2x5_p2_54mm_drill1_2mm
+    oomp_key_extra: oomp_footprint_digikey_pinheader_2x5_p2_54mm_drill1_2mm_pinheader_2x5_p2_54mm_drill1_2mm
+    oomp_key_full: oomp_footprint_digikey_pinheader_2x5_p2_54mm_drill1_2mm_pinheader_2x5_p2_54mm_drill1_2mm_d46433
+    oomp_key_simple: digikey_pinheader_2x5_p2_54mm_drill1_2mm_pinheader_2x5_p2_54mm_drill1_2mm
     original_filename: digikey-kicad-library/src/Source_Footprints/PinHeader_2x5_P2.54mm_Drill1.2mm.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_pinheader_2x5_p2_54mm_drill1_2mm_pinheader_2x5_p2_54mm_drill1_2mm
+  oomp_key_full: oomp_footprint_digikey_pinheader_2x5_p2_54mm_drill1_2mm_pinheader_2x5_p2_54mm_drill1_2mm
   oomp_key_simple: digikey_pinheader_2x5_p2_54mm_drill1_2mm_pinheader_2x5_p2_54mm_drill1_2mm
   owner: digikey
   repo:

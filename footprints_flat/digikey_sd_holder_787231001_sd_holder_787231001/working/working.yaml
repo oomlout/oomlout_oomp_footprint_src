@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: sd_holder_787231001
-    library_name: source_footprints
+    library_name: sd_holder_787231001_kicad_mod
+    md5: bfe30e6e88bda1b1dbbe813229756a65
+    md5_10: bfe30e6e88
+    md5_5: bfe30
+    md5_6: bfe30e
+    oomp_key: oomp_digikey_sd_holder_787231001_sd_holder_787231001
+    oomp_key_extra: oomp_footprint_digikey_sd_holder_787231001_sd_holder_787231001
+    oomp_key_full: oomp_footprint_digikey_sd_holder_787231001_sd_holder_787231001_bfe30e
+    oomp_key_simple: digikey_sd_holder_787231001_sd_holder_787231001
     original_filename: digikey-kicad-library/src/Source_Footprints/SD_Holder_787231001.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_sd_holder_787231001_sd_holder_787231001
+  oomp_key_full: oomp_footprint_digikey_sd_holder_787231001_sd_holder_787231001
   oomp_key_simple: digikey_sd_holder_787231001_sd_holder_787231001
   owner: digikey
   repo:

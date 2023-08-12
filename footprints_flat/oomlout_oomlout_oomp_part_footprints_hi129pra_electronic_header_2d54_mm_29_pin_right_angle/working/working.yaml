@@ -9,7 +9,7 @@
   links:
     github_owner: oomlout
     github_repo_name: oomlout_oomp_part_kicad_footprints
-    github_src: http://github.com/oomlout/oomlout_oomp_part_kicad_footprints/blob/master/oomlout_oomp_part_footprints.pretty/r6o561_electronic_resistor_0603_560_ohm_187685.kicad_mod
+    github_src: http://github.com/oomlout/oomlout_oomp_part_kicad_footprints/blob/master/oomlout_oomp_part_footprints.pretty/r6o561_electronic_resistor_0603_560_ohm.kicad_mod
     github_src_repo: https://github.com/oomlout/oomlout_oomp_part_kicad_footprints
     oomp_bot: footprints/oomlout_oomlout_oomp_part_footprints_hi129pra_electronic_header_2d54_mm_29_pin_right_angle/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/oomlout_oomlout_oomp_part_footprints_hi129pra_electronic_header_2d54_mm_29_pin_right_angle/working
@@ -112,9 +112,9 @@
       url: https://api.github.com/users/oomlout
     private: false
     pulls_url: https://api.github.com/repos/oomlout/oomlout_oomp_part_kicad_footprints/pulls{/number}
-    pushed_at: '2023-08-11T19:13:33Z'
+    pushed_at: '2023-08-12T15:52:27Z'
     releases_url: https://api.github.com/repos/oomlout/oomlout_oomp_part_kicad_footprints/releases{/id}
-    size: 74
+    size: 78
     ssh_url: git@github.com:oomlout/oomlout_oomp_part_kicad_footprints.git
     stargazers_count: 0
     stargazers_url: https://api.github.com/repos/oomlout/oomlout_oomp_part_kicad_footprints/stargazers

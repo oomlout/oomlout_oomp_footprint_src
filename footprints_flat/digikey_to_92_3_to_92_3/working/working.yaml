@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: to_92_3
-    library_name: source_footprints
+    library_name: to_92_3_kicad_mod
+    md5: 3918dae94ec840fd586337907d88cc92
+    md5_10: 3918dae94e
+    md5_5: 3918d
+    md5_6: 3918da
+    oomp_key: oomp_digikey_to_92_3_to_92_3
+    oomp_key_extra: oomp_footprint_digikey_to_92_3_to_92_3
+    oomp_key_full: oomp_footprint_digikey_to_92_3_to_92_3_3918da
+    oomp_key_simple: digikey_to_92_3_to_92_3
     original_filename: digikey-kicad-library/src/Source_Footprints/TO-92-3.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_to_92_3_to_92_3
+  oomp_key_full: oomp_footprint_digikey_to_92_3_to_92_3
   oomp_key_simple: digikey_to_92_3_to_92_3
   owner: digikey
   repo:

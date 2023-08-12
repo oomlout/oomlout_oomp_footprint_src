@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: humidity_sht15
-    library_name: source_footprints
+    library_name: humidity_sht15_kicad_mod
+    md5: 79c3c34818efc30536ab4eea51fc4238
+    md5_10: 79c3c34818
+    md5_5: 79c3c
+    md5_6: 79c3c3
+    oomp_key: oomp_digikey_humidity_sht15_humidity_sht15
+    oomp_key_extra: oomp_footprint_digikey_humidity_sht15_humidity_sht15
+    oomp_key_full: oomp_footprint_digikey_humidity_sht15_humidity_sht15_79c3c3
+    oomp_key_simple: digikey_humidity_sht15_humidity_sht15
     original_filename: digikey-kicad-library/src/Source_Footprints/Humidity_SHT15.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_humidity_sht15_humidity_sht15
+  oomp_key_full: oomp_footprint_digikey_humidity_sht15_humidity_sht15
   oomp_key_simple: digikey_humidity_sht15_humidity_sht15
   owner: digikey
   repo:

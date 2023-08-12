@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: wqfn_24_1ep_4x4mm
-    library_name: source_footprints
+    library_name: wqfn_24_1ep_4x4mm_kicad_mod
+    md5: fc3cca4fa54cf36fee50824808ae4945
+    md5_10: fc3cca4fa5
+    md5_5: fc3cc
+    md5_6: fc3cca
+    oomp_key: oomp_digikey_wqfn_24_1ep_4x4mm_wqfn_24_1ep_4x4mm
+    oomp_key_extra: oomp_footprint_digikey_wqfn_24_1ep_4x4mm_wqfn_24_1ep_4x4mm
+    oomp_key_full: oomp_footprint_digikey_wqfn_24_1ep_4x4mm_wqfn_24_1ep_4x4mm_fc3cca
+    oomp_key_simple: digikey_wqfn_24_1ep_4x4mm_wqfn_24_1ep_4x4mm
     original_filename: digikey-kicad-library/src/Source_Footprints/WQFN-24-1EP_4x4mm.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_wqfn_24_1ep_4x4mm_wqfn_24_1ep_4x4mm
+  oomp_key_full: oomp_footprint_digikey_wqfn_24_1ep_4x4mm_wqfn_24_1ep_4x4mm
   oomp_key_simple: digikey_wqfn_24_1ep_4x4mm_wqfn_24_1ep_4x4mm
   owner: digikey
   repo:

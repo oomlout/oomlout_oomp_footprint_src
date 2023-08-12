@@ -17,9 +17,18 @@
   oomp:
     footprint_name: resistor_horizontal_rm13mm
     library_name: npfootprints
+    md5: 57e1475e9f4b44364b4b36848d384a26
+    md5_10: 57e1475e9f
+    md5_5: 57e14
+    md5_6: 57e147
+    oomp_key: oomp_nathanielperkins_npfootprints_resistor_horizontal_rm13mm
+    oomp_key_extra: oomp_footprint_nathanielperkins_npfootprints_resistor_horizontal_rm13mm
+    oomp_key_full: oomp_footprint_nathanielperkins_npfootprints_resistor_horizontal_rm13mm_57e147
+    oomp_key_simple: nathanielperkins_npfootprints_resistor_horizontal_rm13mm
     original_filename: NPFootprints.pretty/Resistor_Horizontal_RM13mm.kicad_mod
     owner_name: nathanielperkins
   oomp_key: oomp_nathanielperkins_npfootprints_resistor_horizontal_rm13mm
+  oomp_key_full: oomp_footprint_nathanielperkins_npfootprints_resistor_horizontal_rm13mm
   oomp_key_simple: nathanielperkins_npfootprints_resistor_horizontal_rm13mm
   owner: NathanielPerkins
   repo:

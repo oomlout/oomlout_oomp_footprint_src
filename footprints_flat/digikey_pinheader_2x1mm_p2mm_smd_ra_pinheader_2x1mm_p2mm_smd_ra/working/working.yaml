@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: pinheader_2x1mm_p2mm_smd_ra
-    library_name: source_footprints
+    library_name: pinheader_2x1mm_p2mm_smd_ra_kicad_mod
+    md5: 294a0e4d22438e896bc6b7fca2db3ec9
+    md5_10: 294a0e4d22
+    md5_5: 294a0
+    md5_6: 294a0e
+    oomp_key: oomp_digikey_pinheader_2x1mm_p2mm_smd_ra_pinheader_2x1mm_p2mm_smd_ra
+    oomp_key_extra: oomp_footprint_digikey_pinheader_2x1mm_p2mm_smd_ra_pinheader_2x1mm_p2mm_smd_ra
+    oomp_key_full: oomp_footprint_digikey_pinheader_2x1mm_p2mm_smd_ra_pinheader_2x1mm_p2mm_smd_ra_294a0e
+    oomp_key_simple: digikey_pinheader_2x1mm_p2mm_smd_ra_pinheader_2x1mm_p2mm_smd_ra
     original_filename: digikey-kicad-library/src/Source_Footprints/PinHeader_2x1mm_P2mm_SMD_RA.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_pinheader_2x1mm_p2mm_smd_ra_pinheader_2x1mm_p2mm_smd_ra
+  oomp_key_full: oomp_footprint_digikey_pinheader_2x1mm_p2mm_smd_ra_pinheader_2x1mm_p2mm_smd_ra
   oomp_key_simple: digikey_pinheader_2x1mm_p2mm_smd_ra_pinheader_2x1mm_p2mm_smd_ra
   owner: digikey
   repo:

@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: sph0645lm4h_b
-    library_name: source_footprints
+    library_name: sph0645lm4h_b_kicad_mod
+    md5: 7f8ed22ff44f0df52410da709b32ba66
+    md5_10: 7f8ed22ff4
+    md5_5: 7f8ed
+    md5_6: 7f8ed2
+    oomp_key: oomp_digikey_sph0645lm4h_b_sph0645lm4h_b
+    oomp_key_extra: oomp_footprint_digikey_sph0645lm4h_b_sph0645lm4h_b
+    oomp_key_full: oomp_footprint_digikey_sph0645lm4h_b_sph0645lm4h_b_7f8ed2
+    oomp_key_simple: digikey_sph0645lm4h_b_sph0645lm4h_b
     original_filename: digikey-kicad-library/src/Source_Footprints/SPH0645LM4H-B.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_sph0645lm4h_b_sph0645lm4h_b
+  oomp_key_full: oomp_footprint_digikey_sph0645lm4h_b_sph0645lm4h_b
   oomp_key_simple: digikey_sph0645lm4h_b_sph0645lm4h_b
   owner: digikey
   repo:

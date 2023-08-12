@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: switch_slide_11_6x4mm_sj_3523_smt
-    library_name: source_footprints
+    library_name: switch_slide_11_6x4mm_sj_3523_smt_kicad_mod
+    md5: ff1afb63792584d30388876f1d44818e
+    md5_10: ff1afb6379
+    md5_5: ff1af
+    md5_6: ff1afb
+    oomp_key: oomp_digikey_switch_slide_11_6x4mm_sj_3523_smt_switch_slide_11_6x4mm_sj_3523_smt
+    oomp_key_extra: oomp_footprint_digikey_switch_slide_11_6x4mm_sj_3523_smt_switch_slide_11_6x4mm_sj_3523_smt
+    oomp_key_full: oomp_footprint_digikey_switch_slide_11_6x4mm_sj_3523_smt_switch_slide_11_6x4mm_sj_3523_smt_ff1afb
+    oomp_key_simple: digikey_switch_slide_11_6x4mm_sj_3523_smt_switch_slide_11_6x4mm_sj_3523_smt
     original_filename: digikey-kicad-library/src/Source_Footprints/Switch_Slide_11.6x4mm_SJ-3523-SMT.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_switch_slide_11_6x4mm_sj_3523_smt_switch_slide_11_6x4mm_sj_3523_smt
+  oomp_key_full: oomp_footprint_digikey_switch_slide_11_6x4mm_sj_3523_smt_switch_slide_11_6x4mm_sj_3523_smt
   oomp_key_simple: digikey_switch_slide_11_6x4mm_sj_3523_smt_switch_slide_11_6x4mm_sj_3523_smt
   owner: digikey
   repo:

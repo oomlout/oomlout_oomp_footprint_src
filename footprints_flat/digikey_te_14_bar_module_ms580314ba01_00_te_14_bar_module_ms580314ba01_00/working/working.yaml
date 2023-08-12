@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: te_14_bar_module_ms580314ba01_00
-    library_name: source_footprints
+    library_name: te_14_bar_module_ms580314ba01_00_kicad_mod
+    md5: 4b108b139a2d761be29bf9bae23ee5a4
+    md5_10: 4b108b139a
+    md5_5: 4b108
+    md5_6: 4b108b
+    oomp_key: oomp_digikey_te_14_bar_module_ms580314ba01_00_te_14_bar_module_ms580314ba01_00
+    oomp_key_extra: oomp_footprint_digikey_te_14_bar_module_ms580314ba01_00_te_14_bar_module_ms580314ba01_00
+    oomp_key_full: oomp_footprint_digikey_te_14_bar_module_ms580314ba01_00_te_14_bar_module_ms580314ba01_00_4b108b
+    oomp_key_simple: digikey_te_14_bar_module_ms580314ba01_00_te_14_bar_module_ms580314ba01_00
     original_filename: digikey-kicad-library/src/Source_Footprints/TE_14_BAR_MODULE_MS580314BA01-00.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_te_14_bar_module_ms580314ba01_00_te_14_bar_module_ms580314ba01_00
+  oomp_key_full: oomp_footprint_digikey_te_14_bar_module_ms580314ba01_00_te_14_bar_module_ms580314ba01_00
   oomp_key_simple: digikey_te_14_bar_module_ms580314ba01_00_te_14_bar_module_ms580314ba01_00
   owner: digikey
   repo:

@@ -17,9 +17,18 @@
   oomp:
     footprint_name: seeedstudio_32khz_crystal_fc135
     library_name: npfootprints
+    md5: 19ea1686c793ae48163015cba47b0d32
+    md5_10: 19ea1686c7
+    md5_5: 19ea1
+    md5_6: 19ea16
+    oomp_key: oomp_nathanielperkins_npfootprints_seeedstudio_32khz_crystal_fc135
+    oomp_key_extra: oomp_footprint_nathanielperkins_npfootprints_seeedstudio_32khz_crystal_fc135
+    oomp_key_full: oomp_footprint_nathanielperkins_npfootprints_seeedstudio_32khz_crystal_fc135_19ea16
+    oomp_key_simple: nathanielperkins_npfootprints_seeedstudio_32khz_crystal_fc135
     original_filename: NPFootprints.pretty/Seeedstudio-32kHz_Crystal-FC135.kicad_mod
     owner_name: nathanielperkins
   oomp_key: oomp_nathanielperkins_npfootprints_seeedstudio_32khz_crystal_fc135
+  oomp_key_full: oomp_footprint_nathanielperkins_npfootprints_seeedstudio_32khz_crystal_fc135
   oomp_key_simple: nathanielperkins_npfootprints_seeedstudio_32khz_crystal_fc135
   owner: NathanielPerkins
   repo:

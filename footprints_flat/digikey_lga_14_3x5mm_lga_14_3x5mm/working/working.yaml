@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: lga_14_3x5mm
-    library_name: source_footprints
+    library_name: lga_14_3x5mm_kicad_mod
+    md5: 094e00f636c688012d968b2d41a8dc48
+    md5_10: 094e00f636
+    md5_5: 094e0
+    md5_6: 094e00
+    oomp_key: oomp_digikey_lga_14_3x5mm_lga_14_3x5mm
+    oomp_key_extra: oomp_footprint_digikey_lga_14_3x5mm_lga_14_3x5mm
+    oomp_key_full: oomp_footprint_digikey_lga_14_3x5mm_lga_14_3x5mm_094e00
+    oomp_key_simple: digikey_lga_14_3x5mm_lga_14_3x5mm
     original_filename: digikey-kicad-library/src/Source_Footprints/LGA-14_3x5mm.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_lga_14_3x5mm_lga_14_3x5mm
+  oomp_key_full: oomp_footprint_digikey_lga_14_3x5mm_lga_14_3x5mm
   oomp_key_simple: digikey_lga_14_3x5mm_lga_14_3x5mm
   owner: digikey
   repo:

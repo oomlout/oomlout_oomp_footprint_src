@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: ir_receiver_tsop38238
-    library_name: source_footprints
+    library_name: ir_receiver_tsop38238_kicad_mod
+    md5: 27f385c1a21ad8873b7f4158ca85fe60
+    md5_10: 27f385c1a2
+    md5_5: 27f38
+    md5_6: 27f385
+    oomp_key: oomp_digikey_ir_receiver_tsop38238_ir_receiver_tsop38238
+    oomp_key_extra: oomp_footprint_digikey_ir_receiver_tsop38238_ir_receiver_tsop38238
+    oomp_key_full: oomp_footprint_digikey_ir_receiver_tsop38238_ir_receiver_tsop38238_27f385
+    oomp_key_simple: digikey_ir_receiver_tsop38238_ir_receiver_tsop38238
     original_filename: digikey-kicad-library/src/Source_Footprints/IR_Receiver_TSOP38238.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_ir_receiver_tsop38238_ir_receiver_tsop38238
+  oomp_key_full: oomp_footprint_digikey_ir_receiver_tsop38238_ir_receiver_tsop38238
   oomp_key_simple: digikey_ir_receiver_tsop38238_ir_receiver_tsop38238
   owner: digikey
   repo:

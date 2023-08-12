@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: tdfn_8_1ep
-    library_name: source_footprints
+    library_name: tdfn_8_1ep_kicad_mod
+    md5: f6a934f43a004d8af26acee8461e356d
+    md5_10: f6a934f43a
+    md5_5: f6a93
+    md5_6: f6a934
+    oomp_key: oomp_digikey_tdfn_8_1ep_tdfn_8_1ep
+    oomp_key_extra: oomp_footprint_digikey_tdfn_8_1ep_tdfn_8_1ep
+    oomp_key_full: oomp_footprint_digikey_tdfn_8_1ep_tdfn_8_1ep_f6a934
+    oomp_key_simple: digikey_tdfn_8_1ep_tdfn_8_1ep
     original_filename: digikey-kicad-library/src/Source_Footprints/TDFN-8-1EP.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_tdfn_8_1ep_tdfn_8_1ep
+  oomp_key_full: oomp_footprint_digikey_tdfn_8_1ep_tdfn_8_1ep
   oomp_key_simple: digikey_tdfn_8_1ep_tdfn_8_1ep
   owner: digikey
   repo:

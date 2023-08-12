@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: ssop_16_w3_90mm
-    library_name: source_footprints
+    library_name: ssop_16_w3_90mm_kicad_mod
+    md5: 60081dae47b0279b87cc20f81fb9f277
+    md5_10: 60081dae47
+    md5_5: '60081'
+    md5_6: 60081d
+    oomp_key: oomp_digikey_ssop_16_w3_90mm_ssop_16_w3_90mm
+    oomp_key_extra: oomp_footprint_digikey_ssop_16_w3_90mm_ssop_16_w3_90mm
+    oomp_key_full: oomp_footprint_digikey_ssop_16_w3_90mm_ssop_16_w3_90mm_60081d
+    oomp_key_simple: digikey_ssop_16_w3_90mm_ssop_16_w3_90mm
     original_filename: digikey-kicad-library/src/Source_Footprints/SSOP-16_W3.90mm.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_ssop_16_w3_90mm_ssop_16_w3_90mm
+  oomp_key_full: oomp_footprint_digikey_ssop_16_w3_90mm_ssop_16_w3_90mm
   oomp_key_simple: digikey_ssop_16_w3_90mm_ssop_16_w3_90mm
   owner: digikey
   repo:

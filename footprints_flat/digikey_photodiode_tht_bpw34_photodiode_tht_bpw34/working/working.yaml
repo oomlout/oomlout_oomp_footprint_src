@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: photodiode_tht_bpw34
-    library_name: source_footprints
+    library_name: photodiode_tht_bpw34_kicad_mod
+    md5: d318917014133bcaa37bee33cb98d3d4
+    md5_10: d318917014
+    md5_5: d3189
+    md5_6: d31891
+    oomp_key: oomp_digikey_photodiode_tht_bpw34_photodiode_tht_bpw34
+    oomp_key_extra: oomp_footprint_digikey_photodiode_tht_bpw34_photodiode_tht_bpw34
+    oomp_key_full: oomp_footprint_digikey_photodiode_tht_bpw34_photodiode_tht_bpw34_d31891
+    oomp_key_simple: digikey_photodiode_tht_bpw34_photodiode_tht_bpw34
     original_filename: digikey-kicad-library/src/Source_Footprints/Photodiode_THT_BPW34.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_photodiode_tht_bpw34_photodiode_tht_bpw34
+  oomp_key_full: oomp_footprint_digikey_photodiode_tht_bpw34_photodiode_tht_bpw34
   oomp_key_simple: digikey_photodiode_tht_bpw34_photodiode_tht_bpw34
   owner: digikey
   repo:

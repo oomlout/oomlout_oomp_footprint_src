@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: switch_nav_12_4x12_4mm_smd_js5208
-    library_name: source_footprints
+    library_name: switch_nav_12_4x12_4mm_smd_js5208_kicad_mod
+    md5: 9063d0f304638abd46db34d3e61c8c08
+    md5_10: 9063d0f304
+    md5_5: 9063d
+    md5_6: 9063d0
+    oomp_key: oomp_digikey_switch_nav_12_4x12_4mm_smd_js5208_switch_nav_12_4x12_4mm_smd_js5208
+    oomp_key_extra: oomp_footprint_digikey_switch_nav_12_4x12_4mm_smd_js5208_switch_nav_12_4x12_4mm_smd_js5208
+    oomp_key_full: oomp_footprint_digikey_switch_nav_12_4x12_4mm_smd_js5208_switch_nav_12_4x12_4mm_smd_js5208_9063d0
+    oomp_key_simple: digikey_switch_nav_12_4x12_4mm_smd_js5208_switch_nav_12_4x12_4mm_smd_js5208
     original_filename: digikey-kicad-library/src/Source_Footprints/Switch_Nav_12.4x12.4mm_SMD_JS5208.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_switch_nav_12_4x12_4mm_smd_js5208_switch_nav_12_4x12_4mm_smd_js5208
+  oomp_key_full: oomp_footprint_digikey_switch_nav_12_4x12_4mm_smd_js5208_switch_nav_12_4x12_4mm_smd_js5208
   oomp_key_simple: digikey_switch_nav_12_4x12_4mm_smd_js5208_switch_nav_12_4x12_4mm_smd_js5208
   owner: digikey
   repo:

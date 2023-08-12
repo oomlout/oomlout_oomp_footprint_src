@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: led_dual0603
-    library_name: source_footprints
+    library_name: led_dual0603_kicad_mod
+    md5: be07020c5bdb28a1131ab364e9da2306
+    md5_10: be07020c5b
+    md5_5: be070
+    md5_6: be0702
+    oomp_key: oomp_digikey_led_dual0603_led_dual0603
+    oomp_key_extra: oomp_footprint_digikey_led_dual0603_led_dual0603
+    oomp_key_full: oomp_footprint_digikey_led_dual0603_led_dual0603_be0702
+    oomp_key_simple: digikey_led_dual0603_led_dual0603
     original_filename: digikey-kicad-library/src/Source_Footprints/LED_Dual0603.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_led_dual0603_led_dual0603
+  oomp_key_full: oomp_footprint_digikey_led_dual0603_led_dual0603
   oomp_key_simple: digikey_led_dual0603_led_dual0603
   owner: digikey
   repo:

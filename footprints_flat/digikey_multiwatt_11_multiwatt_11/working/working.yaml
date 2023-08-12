@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: multiwatt_11
-    library_name: source_footprints
+    library_name: multiwatt_11_kicad_mod
+    md5: 3369248fc33fc03499476c0cbb240a38
+    md5_10: 3369248fc3
+    md5_5: '33692'
+    md5_6: '336924'
+    oomp_key: oomp_digikey_multiwatt_11_multiwatt_11
+    oomp_key_extra: oomp_footprint_digikey_multiwatt_11_multiwatt_11
+    oomp_key_full: oomp_footprint_digikey_multiwatt_11_multiwatt_11_336924
+    oomp_key_simple: digikey_multiwatt_11_multiwatt_11
     original_filename: digikey-kicad-library/src/Source_Footprints/Multiwatt-11.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_multiwatt_11_multiwatt_11
+  oomp_key_full: oomp_footprint_digikey_multiwatt_11_multiwatt_11
   oomp_key_simple: digikey_multiwatt_11_multiwatt_11
   owner: digikey
   repo:

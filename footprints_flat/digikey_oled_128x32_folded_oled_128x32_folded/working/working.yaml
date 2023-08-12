@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: oled_128x32_folded
-    library_name: source_footprints
+    library_name: oled_128x32_folded_kicad_mod
+    md5: 34aec31fe135998e56bfb5a6b979c844
+    md5_10: 34aec31fe1
+    md5_5: 34aec
+    md5_6: 34aec3
+    oomp_key: oomp_digikey_oled_128x32_folded_oled_128x32_folded
+    oomp_key_extra: oomp_footprint_digikey_oled_128x32_folded_oled_128x32_folded
+    oomp_key_full: oomp_footprint_digikey_oled_128x32_folded_oled_128x32_folded_34aec3
+    oomp_key_simple: digikey_oled_128x32_folded_oled_128x32_folded
     original_filename: digikey-kicad-library/src/Source_Footprints/OLED_128x32_Folded.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_oled_128x32_folded_oled_128x32_folded
+  oomp_key_full: oomp_footprint_digikey_oled_128x32_folded_oled_128x32_folded
   oomp_key_simple: digikey_oled_128x32_folded_oled_128x32_folded
   owner: digikey
   repo:

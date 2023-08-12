@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: rf_module_rxm_433_lr
-    library_name: source_footprints
+    library_name: rf_module_rxm_433_lr_kicad_mod
+    md5: c1bf347d4cf5ed9e57c13cde68e8ba95
+    md5_10: c1bf347d4c
+    md5_5: c1bf3
+    md5_6: c1bf34
+    oomp_key: oomp_digikey_rf_module_rxm_433_lr_rf_module_rxm_433_lr
+    oomp_key_extra: oomp_footprint_digikey_rf_module_rxm_433_lr_rf_module_rxm_433_lr
+    oomp_key_full: oomp_footprint_digikey_rf_module_rxm_433_lr_rf_module_rxm_433_lr_c1bf34
+    oomp_key_simple: digikey_rf_module_rxm_433_lr_rf_module_rxm_433_lr
     original_filename: digikey-kicad-library/src/Source_Footprints/RF_Module_RXM-433-LR.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_rf_module_rxm_433_lr_rf_module_rxm_433_lr
+  oomp_key_full: oomp_footprint_digikey_rf_module_rxm_433_lr_rf_module_rxm_433_lr
   oomp_key_simple: digikey_rf_module_rxm_433_lr_rf_module_rxm_433_lr
   owner: digikey
   repo:

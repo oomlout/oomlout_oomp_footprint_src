@@ -7,10 +7,8 @@
   footprint_library_directory_flat: footprints_flat/pcsmithy_cas_d20ta_cas_d20ta/working
   github_path: http://github.com/PCSmithy/CAS-D20TA.pretty/blob/master/CAS-D20TA.kicad_mod
   links:
-    github_owner: PCSmithy
-    github_repo_name: CAS-D20TA.pretty
-    github_src: http://github.com/PCSmithy/CAS-D20TA.pretty/blob/master/CAS-D20TA.kicad_mod
-    github_src_repo: https://github.com/PCSmithy/CAS-D20TA.pretty
+    github_src: http://gitlab.com/PCSmithy/CAS-D20TA.pretty/blob/master/CAS-D20TA.kicad_mod
+    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
     oomp_bot: footprints/pcsmithy_cas_d20ta_cas_d20ta/working
     oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/pcsmithy_cas_d20ta_cas_d20ta/working
     oomp_src_flat: footprints_flat/footprints_flat/pcsmithy_cas_d20ta_cas_d20ta/working
@@ -34,104 +32,8 @@
   oomp_key_simple: pcsmithy_cas_d20ta_cas_d20ta
   owner: PCSmithy
   repo:
-    allow_forking: true
-    archive_url: https://api.github.com/repos/PCSmithy/CAS-D20TA.pretty/{archive_format}{/ref}
-    archived: false
-    assignees_url: https://api.github.com/repos/PCSmithy/CAS-D20TA.pretty/assignees{/user}
-    blobs_url: https://api.github.com/repos/PCSmithy/CAS-D20TA.pretty/git/blobs{/sha}
-    branches_url: https://api.github.com/repos/PCSmithy/CAS-D20TA.pretty/branches{/branch}
-    clone_url: https://github.com/PCSmithy/CAS-D20TA.pretty.git
-    collaborators_url: https://api.github.com/repos/PCSmithy/CAS-D20TA.pretty/collaborators{/collaborator}
-    comments_url: https://api.github.com/repos/PCSmithy/CAS-D20TA.pretty/comments{/number}
-    commits_url: https://api.github.com/repos/PCSmithy/CAS-D20TA.pretty/commits{/sha}
-    compare_url: https://api.github.com/repos/PCSmithy/CAS-D20TA.pretty/compare/{base}...{head}
-    contents_url: https://api.github.com/repos/PCSmithy/CAS-D20TA.pretty/contents/{+path}
-    contributors_url: https://api.github.com/repos/PCSmithy/CAS-D20TA.pretty/contributors
-    created_at: '2018-06-12T19:03:04Z'
-    default_branch: master
-    deployments_url: https://api.github.com/repos/PCSmithy/CAS-D20TA.pretty/deployments
-    description: KiCad Footprint for CAS-D20TA SPDTx2 slide switch
-    disabled: false
-    downloads_url: https://api.github.com/repos/PCSmithy/CAS-D20TA.pretty/downloads
-    events_url: https://api.github.com/repos/PCSmithy/CAS-D20TA.pretty/events
-    fork: false
-    forks: 0
-    forks_count: 0
-    forks_url: https://api.github.com/repos/PCSmithy/CAS-D20TA.pretty/forks
-    full_name: PCSmithy/CAS-D20TA.pretty
-    git_commits_url: https://api.github.com/repos/PCSmithy/CAS-D20TA.pretty/git/commits{/sha}
-    git_refs_url: https://api.github.com/repos/PCSmithy/CAS-D20TA.pretty/git/refs{/sha}
-    git_tags_url: https://api.github.com/repos/PCSmithy/CAS-D20TA.pretty/git/tags{/sha}
-    git_url: git://github.com/PCSmithy/CAS-D20TA.pretty.git
-    has_discussions: false
-    has_downloads: true
-    has_issues: true
-    has_pages: false
-    has_projects: true
-    has_wiki: true
-    homepage: null
-    hooks_url: https://api.github.com/repos/PCSmithy/CAS-D20TA.pretty/hooks
-    html_url: https://github.com/PCSmithy/CAS-D20TA.pretty
-    id: 137115717
-    is_template: false
-    issue_comment_url: https://api.github.com/repos/PCSmithy/CAS-D20TA.pretty/issues/comments{/number}
-    issue_events_url: https://api.github.com/repos/PCSmithy/CAS-D20TA.pretty/issues/events{/number}
-    issues_url: https://api.github.com/repos/PCSmithy/CAS-D20TA.pretty/issues{/number}
-    keys_url: https://api.github.com/repos/PCSmithy/CAS-D20TA.pretty/keys{/key_id}
-    labels_url: https://api.github.com/repos/PCSmithy/CAS-D20TA.pretty/labels{/name}
-    language: null
-    languages_url: https://api.github.com/repos/PCSmithy/CAS-D20TA.pretty/languages
-    license: null
-    merges_url: https://api.github.com/repos/PCSmithy/CAS-D20TA.pretty/merges
-    milestones_url: https://api.github.com/repos/PCSmithy/CAS-D20TA.pretty/milestones{/number}
-    mirror_url: null
-    name: CAS-D20TA.pretty
-    network_count: 0
-    node_id: MDEwOlJlcG9zaXRvcnkxMzcxMTU3MTc=
-    notifications_url: https://api.github.com/repos/PCSmithy/CAS-D20TA.pretty/notifications{?since,all,participating}
-    open_issues: 0
-    open_issues_count: 0
-    owner:
-      avatar_url: https://avatars.githubusercontent.com/u/31734108?v=4
-      events_url: https://api.github.com/users/PCSmithy/events{/privacy}
-      followers_url: https://api.github.com/users/PCSmithy/followers
-      following_url: https://api.github.com/users/PCSmithy/following{/other_user}
-      gists_url: https://api.github.com/users/PCSmithy/gists{/gist_id}
-      gravatar_id: ''
-      html_url: https://github.com/PCSmithy
-      id: 31734108
-      login: PCSmithy
-      node_id: MDQ6VXNlcjMxNzM0MTA4
-      organizations_url: https://api.github.com/users/PCSmithy/orgs
-      received_events_url: https://api.github.com/users/PCSmithy/received_events
-      repos_url: https://api.github.com/users/PCSmithy/repos
-      site_admin: false
-      starred_url: https://api.github.com/users/PCSmithy/starred{/owner}{/repo}
-      subscriptions_url: https://api.github.com/users/PCSmithy/subscriptions
-      type: User
-      url: https://api.github.com/users/PCSmithy
-    private: false
-    pulls_url: https://api.github.com/repos/PCSmithy/CAS-D20TA.pretty/pulls{/number}
-    pushed_at: '2018-06-12T19:03:58Z'
-    releases_url: https://api.github.com/repos/PCSmithy/CAS-D20TA.pretty/releases{/id}
-    size: 1
-    ssh_url: git@github.com:PCSmithy/CAS-D20TA.pretty.git
-    stargazers_count: 0
-    stargazers_url: https://api.github.com/repos/PCSmithy/CAS-D20TA.pretty/stargazers
-    statuses_url: https://api.github.com/repos/PCSmithy/CAS-D20TA.pretty/statuses/{sha}
-    subscribers_count: 1
-    subscribers_url: https://api.github.com/repos/PCSmithy/CAS-D20TA.pretty/subscribers
-    subscription_url: https://api.github.com/repos/PCSmithy/CAS-D20TA.pretty/subscription
-    svn_url: https://github.com/PCSmithy/CAS-D20TA.pretty
-    tags_url: https://api.github.com/repos/PCSmithy/CAS-D20TA.pretty/tags
-    teams_url: https://api.github.com/repos/PCSmithy/CAS-D20TA.pretty/teams
-    temp_clone_token: null
-    topics: []
-    trees_url: https://api.github.com/repos/PCSmithy/CAS-D20TA.pretty/git/trees{/sha}
-    updated_at: '2018-06-12T19:03:59Z'
-    url: https://api.github.com/repos/PCSmithy/CAS-D20TA.pretty
-    visibility: public
-    watchers: 0
-    watchers_count: 0
-    web_commit_signoff_required: false
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.173.59. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
   url: http://github.com/PCSmithy/CAS-D20TA.pretty

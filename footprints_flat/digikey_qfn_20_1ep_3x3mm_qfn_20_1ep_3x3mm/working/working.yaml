@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: qfn_20_1ep_3x3mm
-    library_name: source_footprints
+    library_name: qfn_20_1ep_3x3mm_kicad_mod
+    md5: bb543e10a8503956f0ef51621311ca3b
+    md5_10: bb543e10a8
+    md5_5: bb543
+    md5_6: bb543e
+    oomp_key: oomp_digikey_qfn_20_1ep_3x3mm_qfn_20_1ep_3x3mm
+    oomp_key_extra: oomp_footprint_digikey_qfn_20_1ep_3x3mm_qfn_20_1ep_3x3mm
+    oomp_key_full: oomp_footprint_digikey_qfn_20_1ep_3x3mm_qfn_20_1ep_3x3mm_bb543e
+    oomp_key_simple: digikey_qfn_20_1ep_3x3mm_qfn_20_1ep_3x3mm
     original_filename: digikey-kicad-library/src/Source_Footprints/QFN-20-1EP_3x3mm.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_qfn_20_1ep_3x3mm_qfn_20_1ep_3x3mm
+  oomp_key_full: oomp_footprint_digikey_qfn_20_1ep_3x3mm_qfn_20_1ep_3x3mm
   oomp_key_simple: digikey_qfn_20_1ep_3x3mm_qfn_20_1ep_3x3mm
   owner: digikey
   repo:

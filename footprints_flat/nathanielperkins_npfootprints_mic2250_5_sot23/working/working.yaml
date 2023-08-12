@@ -17,9 +17,18 @@
   oomp:
     footprint_name: mic2250_5_sot23
     library_name: npfootprints
+    md5: b79dc5d7a467a665948bccc07ef3e520
+    md5_10: b79dc5d7a4
+    md5_5: b79dc
+    md5_6: b79dc5
+    oomp_key: oomp_nathanielperkins_npfootprints_mic2250_5_sot23
+    oomp_key_extra: oomp_footprint_nathanielperkins_npfootprints_mic2250_5_sot23
+    oomp_key_full: oomp_footprint_nathanielperkins_npfootprints_mic2250_5_sot23_b79dc5
+    oomp_key_simple: nathanielperkins_npfootprints_mic2250_5_sot23
     original_filename: NPFootprints.pretty/MIC2250_5-Sot23.kicad_mod
     owner_name: nathanielperkins
   oomp_key: oomp_nathanielperkins_npfootprints_mic2250_5_sot23
+  oomp_key_full: oomp_footprint_nathanielperkins_npfootprints_mic2250_5_sot23
   oomp_key_simple: nathanielperkins_npfootprints_mic2250_5_sot23
   owner: NathanielPerkins
   repo:

@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: mic_cma_4544pf_w
-    library_name: source_footprints
+    library_name: mic_cma_4544pf_w_kicad_mod
+    md5: 0b62f538f86e6e3285384548ae9448e0
+    md5_10: 0b62f538f8
+    md5_5: 0b62f
+    md5_6: 0b62f5
+    oomp_key: oomp_digikey_mic_cma_4544pf_w_mic_cma_4544pf_w
+    oomp_key_extra: oomp_footprint_digikey_mic_cma_4544pf_w_mic_cma_4544pf_w
+    oomp_key_full: oomp_footprint_digikey_mic_cma_4544pf_w_mic_cma_4544pf_w_0b62f5
+    oomp_key_simple: digikey_mic_cma_4544pf_w_mic_cma_4544pf_w
     original_filename: digikey-kicad-library/src/Source_Footprints/Mic_CMA-4544PF-W.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_mic_cma_4544pf_w_mic_cma_4544pf_w
+  oomp_key_full: oomp_footprint_digikey_mic_cma_4544pf_w_mic_cma_4544pf_w
   oomp_key_simple: digikey_mic_cma_4544pf_w_mic_cma_4544pf_w
   owner: digikey
   repo:

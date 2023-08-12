@@ -17,9 +17,18 @@
   oomp:
     footprint_name: qtc3_series_crystal
     library_name: npfootprints
+    md5: 45175bf82f8817ac5b52d2baa1a35a96
+    md5_10: 45175bf82f
+    md5_5: '45175'
+    md5_6: 45175b
+    oomp_key: oomp_nathanielperkins_npfootprints_qtc3_series_crystal
+    oomp_key_extra: oomp_footprint_nathanielperkins_npfootprints_qtc3_series_crystal
+    oomp_key_full: oomp_footprint_nathanielperkins_npfootprints_qtc3_series_crystal_45175b
+    oomp_key_simple: nathanielperkins_npfootprints_qtc3_series_crystal
     original_filename: NPFootprints.pretty/QTC3_Series_Crystal.kicad_mod
     owner_name: nathanielperkins
   oomp_key: oomp_nathanielperkins_npfootprints_qtc3_series_crystal
+  oomp_key_full: oomp_footprint_nathanielperkins_npfootprints_qtc3_series_crystal
   oomp_key_simple: nathanielperkins_npfootprints_qtc3_series_crystal
   owner: NathanielPerkins
   repo:

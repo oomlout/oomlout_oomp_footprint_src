@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: mag_jack_module_wiz820io
-    library_name: source_footprints
+    library_name: mag_jack_module_wiz820io_kicad_mod
+    md5: 6504410c7c6944100fb42b951dbe383c
+    md5_10: 6504410c7c
+    md5_5: '65044'
+    md5_6: '650441'
+    oomp_key: oomp_digikey_mag_jack_module_wiz820io_mag_jack_module_wiz820io
+    oomp_key_extra: oomp_footprint_digikey_mag_jack_module_wiz820io_mag_jack_module_wiz820io
+    oomp_key_full: oomp_footprint_digikey_mag_jack_module_wiz820io_mag_jack_module_wiz820io_650441
+    oomp_key_simple: digikey_mag_jack_module_wiz820io_mag_jack_module_wiz820io
     original_filename: digikey-kicad-library/src/Source_Footprints/Mag_Jack_Module_WIZ820IO.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_mag_jack_module_wiz820io_mag_jack_module_wiz820io
+  oomp_key_full: oomp_footprint_digikey_mag_jack_module_wiz820io_mag_jack_module_wiz820io
   oomp_key_simple: digikey_mag_jack_module_wiz820io_mag_jack_module_wiz820io
   owner: digikey
   repo:

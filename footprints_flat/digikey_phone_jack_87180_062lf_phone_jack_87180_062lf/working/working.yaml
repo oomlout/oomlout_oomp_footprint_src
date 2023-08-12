@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: phone_jack_87180_062lf
-    library_name: source_footprints
+    library_name: phone_jack_87180_062lf_kicad_mod
+    md5: 281f38dd3260269183ad2751620921d8
+    md5_10: 281f38dd32
+    md5_5: 281f3
+    md5_6: 281f38
+    oomp_key: oomp_digikey_phone_jack_87180_062lf_phone_jack_87180_062lf
+    oomp_key_extra: oomp_footprint_digikey_phone_jack_87180_062lf_phone_jack_87180_062lf
+    oomp_key_full: oomp_footprint_digikey_phone_jack_87180_062lf_phone_jack_87180_062lf_281f38
+    oomp_key_simple: digikey_phone_jack_87180_062lf_phone_jack_87180_062lf
     original_filename: digikey-kicad-library/src/Source_Footprints/Phone_Jack_87180-062LF.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_phone_jack_87180_062lf_phone_jack_87180_062lf
+  oomp_key_full: oomp_footprint_digikey_phone_jack_87180_062lf_phone_jack_87180_062lf
   oomp_key_simple: digikey_phone_jack_87180_062lf_phone_jack_87180_062lf
   owner: digikey
   repo:

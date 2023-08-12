@@ -1,5 +1,8 @@
-- error: '''Footprint'' object has no attribute ''libraryLink'''
-  file: CAD.KiCad.Libs/modules/GBD-SMD.pretty/DO-220AA.kicad_mod
+- file: CAD.KiCad.Libs/modules/GBD-SMD.pretty/DO-220AA.kicad_mod
+  footprint:
+    description: null
+    libraryLink: DO-220AA
+    number_of_pads: 2
   footprint_library_directory: footprint_library_owner/ASoftTech_CAD.KiCad.Libs
   footprint_library_directory_flat: footprints_flat/hecatron_cad_gbd_smd_do_220aa/working
   github_path: http://github.com/ASoftTech/CAD.KiCad.Libs/blob/master/modules/GBD-SMD.pretty/DO-220AA.kicad_mod
@@ -16,9 +19,18 @@
   oomp:
     footprint_name: do_220aa
     library_name: gbd_smd
+    md5: 23cd66e317b67f592b42e0f24c6a786f
+    md5_10: 23cd66e317
+    md5_5: 23cd6
+    md5_6: 23cd66
+    oomp_key: oomp_hecatron_cad_gbd_smd_do_220aa
+    oomp_key_extra: oomp_footprint_hecatron_cad_gbd_smd_do_220aa
+    oomp_key_full: oomp_footprint_hecatron_cad_gbd_smd_do_220aa_23cd66
+    oomp_key_simple: hecatron_cad_gbd_smd_do_220aa
     original_filename: CAD.KiCad.Libs/modules/GBD-SMD.pretty/DO-220AA.kicad_mod
-    owner_name: asofttech
+    owner_name: hecatron_cad
   oomp_key: oomp_hecatron_cad_gbd_smd_do_220aa
+  oomp_key_full: oomp_footprint_hecatron_cad_gbd_smd_do_220aa
   oomp_key_simple: hecatron_cad_gbd_smd_do_220aa
   owner: ASoftTech
   repo:

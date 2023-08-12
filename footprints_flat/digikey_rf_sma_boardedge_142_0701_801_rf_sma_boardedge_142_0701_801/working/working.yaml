@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: rf_sma_boardedge_142_0701_801
-    library_name: source_footprints
+    library_name: rf_sma_boardedge_142_0701_801_kicad_mod
+    md5: d79325e2eb41003fd318aa2e081e93f2
+    md5_10: d79325e2eb
+    md5_5: d7932
+    md5_6: d79325
+    oomp_key: oomp_digikey_rf_sma_boardedge_142_0701_801_rf_sma_boardedge_142_0701_801
+    oomp_key_extra: oomp_footprint_digikey_rf_sma_boardedge_142_0701_801_rf_sma_boardedge_142_0701_801
+    oomp_key_full: oomp_footprint_digikey_rf_sma_boardedge_142_0701_801_rf_sma_boardedge_142_0701_801_d79325
+    oomp_key_simple: digikey_rf_sma_boardedge_142_0701_801_rf_sma_boardedge_142_0701_801
     original_filename: digikey-kicad-library/src/Source_Footprints/RF_SMA_BoardEdge_142-0701-801.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_rf_sma_boardedge_142_0701_801_rf_sma_boardedge_142_0701_801
+  oomp_key_full: oomp_footprint_digikey_rf_sma_boardedge_142_0701_801_rf_sma_boardedge_142_0701_801
   oomp_key_simple: digikey_rf_sma_boardedge_142_0701_801_rf_sma_boardedge_142_0701_801
   owner: digikey
   repo:

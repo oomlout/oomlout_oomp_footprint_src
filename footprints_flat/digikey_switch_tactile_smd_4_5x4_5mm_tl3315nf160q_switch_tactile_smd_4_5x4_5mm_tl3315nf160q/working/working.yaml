@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: switch_tactile_smd_4_5x4_5mm_tl3315nf160q
-    library_name: source_footprints
+    library_name: switch_tactile_smd_4_5x4_5mm_tl3315nf160q_kicad_mod
+    md5: 78195d7007499dea58abb8fbea40ee86
+    md5_10: 78195d7007
+    md5_5: '78195'
+    md5_6: 78195d
+    oomp_key: oomp_digikey_switch_tactile_smd_4_5x4_5mm_tl3315nf160q_switch_tactile_smd_4_5x4_5mm_tl3315nf160q
+    oomp_key_extra: oomp_footprint_digikey_switch_tactile_smd_4_5x4_5mm_tl3315nf160q_switch_tactile_smd_4_5x4_5mm_tl3315nf160q
+    oomp_key_full: oomp_footprint_digikey_switch_tactile_smd_4_5x4_5mm_tl3315nf160q_switch_tactile_smd_4_5x4_5mm_tl3315nf160q_78195d
+    oomp_key_simple: digikey_switch_tactile_smd_4_5x4_5mm_tl3315nf160q_switch_tactile_smd_4_5x4_5mm_tl3315nf160q
     original_filename: digikey-kicad-library/src/Source_Footprints/Switch_Tactile_SMD_4.5x4.5mm_TL3315NF160Q.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_switch_tactile_smd_4_5x4_5mm_tl3315nf160q_switch_tactile_smd_4_5x4_5mm_tl3315nf160q
+  oomp_key_full: oomp_footprint_digikey_switch_tactile_smd_4_5x4_5mm_tl3315nf160q_switch_tactile_smd_4_5x4_5mm_tl3315nf160q
   oomp_key_simple: digikey_switch_tactile_smd_4_5x4_5mm_tl3315nf160q_switch_tactile_smd_4_5x4_5mm_tl3315nf160q
   owner: digikey
   repo:

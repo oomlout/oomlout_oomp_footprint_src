@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: sot23_6l
-    library_name: source_footprints
+    library_name: sot23_6l_kicad_mod
+    md5: 2da2a6ed3f0f4e3868725fcfbcdeea69
+    md5_10: 2da2a6ed3f
+    md5_5: 2da2a
+    md5_6: 2da2a6
+    oomp_key: oomp_digikey_sot23_6l_sot23_6l
+    oomp_key_extra: oomp_footprint_digikey_sot23_6l_sot23_6l
+    oomp_key_full: oomp_footprint_digikey_sot23_6l_sot23_6l_2da2a6
+    oomp_key_simple: digikey_sot23_6l_sot23_6l
     original_filename: digikey-kicad-library/src/Source_Footprints/SOT23-6L.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_sot23_6l_sot23_6l
+  oomp_key_full: oomp_footprint_digikey_sot23_6l_sot23_6l
   oomp_key_simple: digikey_sot23_6l_sot23_6l
   owner: digikey
   repo:

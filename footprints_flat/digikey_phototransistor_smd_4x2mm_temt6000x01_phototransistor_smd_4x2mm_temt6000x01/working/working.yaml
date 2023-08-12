@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: phototransistor_smd_4x2mm_temt6000x01
-    library_name: source_footprints
+    library_name: phototransistor_smd_4x2mm_temt6000x01_kicad_mod
+    md5: ca0b4ddd001205e1b28eab1d990851e8
+    md5_10: ca0b4ddd00
+    md5_5: ca0b4
+    md5_6: ca0b4d
+    oomp_key: oomp_digikey_phototransistor_smd_4x2mm_temt6000x01_phototransistor_smd_4x2mm_temt6000x01
+    oomp_key_extra: oomp_footprint_digikey_phototransistor_smd_4x2mm_temt6000x01_phototransistor_smd_4x2mm_temt6000x01
+    oomp_key_full: oomp_footprint_digikey_phototransistor_smd_4x2mm_temt6000x01_phototransistor_smd_4x2mm_temt6000x01_ca0b4d
+    oomp_key_simple: digikey_phototransistor_smd_4x2mm_temt6000x01_phototransistor_smd_4x2mm_temt6000x01
     original_filename: digikey-kicad-library/src/Source_Footprints/Phototransistor_SMD_4x2mm_TEMT6000X01.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_phototransistor_smd_4x2mm_temt6000x01_phototransistor_smd_4x2mm_temt6000x01
+  oomp_key_full: oomp_footprint_digikey_phototransistor_smd_4x2mm_temt6000x01_phototransistor_smd_4x2mm_temt6000x01
   oomp_key_simple: digikey_phototransistor_smd_4x2mm_temt6000x01_phototransistor_smd_4x2mm_temt6000x01
   owner: digikey
   repo:

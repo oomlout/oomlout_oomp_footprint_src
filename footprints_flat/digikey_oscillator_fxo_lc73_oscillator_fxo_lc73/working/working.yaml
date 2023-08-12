@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: oscillator_fxo_lc73
-    library_name: source_footprints
+    library_name: oscillator_fxo_lc73_kicad_mod
+    md5: b7a0ee9476745da0fea004fc7a2ac37b
+    md5_10: b7a0ee9476
+    md5_5: b7a0e
+    md5_6: b7a0ee
+    oomp_key: oomp_digikey_oscillator_fxo_lc73_oscillator_fxo_lc73
+    oomp_key_extra: oomp_footprint_digikey_oscillator_fxo_lc73_oscillator_fxo_lc73
+    oomp_key_full: oomp_footprint_digikey_oscillator_fxo_lc73_oscillator_fxo_lc73_b7a0ee
+    oomp_key_simple: digikey_oscillator_fxo_lc73_oscillator_fxo_lc73
     original_filename: digikey-kicad-library/src/Source_Footprints/Oscillator_FXO-LC73.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_oscillator_fxo_lc73_oscillator_fxo_lc73
+  oomp_key_full: oomp_footprint_digikey_oscillator_fxo_lc73_oscillator_fxo_lc73
   oomp_key_simple: digikey_oscillator_fxo_lc73_oscillator_fxo_lc73
   owner: digikey
   repo:

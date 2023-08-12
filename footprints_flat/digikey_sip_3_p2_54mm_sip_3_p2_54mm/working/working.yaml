@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: sip_3_p2_54mm
-    library_name: source_footprints
+    library_name: sip_3_p2_54mm_kicad_mod
+    md5: 0bf7a9a8dccb30fbcf9f319f9e5fd078
+    md5_10: 0bf7a9a8dc
+    md5_5: 0bf7a
+    md5_6: 0bf7a9
+    oomp_key: oomp_digikey_sip_3_p2_54mm_sip_3_p2_54mm
+    oomp_key_extra: oomp_footprint_digikey_sip_3_p2_54mm_sip_3_p2_54mm
+    oomp_key_full: oomp_footprint_digikey_sip_3_p2_54mm_sip_3_p2_54mm_0bf7a9
+    oomp_key_simple: digikey_sip_3_p2_54mm_sip_3_p2_54mm
     original_filename: digikey-kicad-library/src/Source_Footprints/SIP-3_P2.54mm.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_sip_3_p2_54mm_sip_3_p2_54mm
+  oomp_key_full: oomp_footprint_digikey_sip_3_p2_54mm_sip_3_p2_54mm
   oomp_key_simple: digikey_sip_3_p2_54mm_sip_3_p2_54mm
   owner: digikey
   repo:

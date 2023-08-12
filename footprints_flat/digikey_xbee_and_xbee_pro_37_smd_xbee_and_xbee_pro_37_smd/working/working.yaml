@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: xbee_and_xbee_pro_37_smd
-    library_name: source_footprints
+    library_name: xbee_and_xbee_pro_37_smd_kicad_mod
+    md5: 04218332b2860da9495a4a8d1f3de863
+    md5_10: 04218332b2
+    md5_5: 04218
+    md5_6: 042183
+    oomp_key: oomp_digikey_xbee_and_xbee_pro_37_smd_xbee_and_xbee_pro_37_smd
+    oomp_key_extra: oomp_footprint_digikey_xbee_and_xbee_pro_37_smd_xbee_and_xbee_pro_37_smd
+    oomp_key_full: oomp_footprint_digikey_xbee_and_xbee_pro_37_smd_xbee_and_xbee_pro_37_smd_042183
+    oomp_key_simple: digikey_xbee_and_xbee_pro_37_smd_xbee_and_xbee_pro_37_smd
     original_filename: digikey-kicad-library/src/Source_Footprints/XBEE_and_XBEE-PRO_37_SMD.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_xbee_and_xbee_pro_37_smd_xbee_and_xbee_pro_37_smd
+  oomp_key_full: oomp_footprint_digikey_xbee_and_xbee_pro_37_smd_xbee_and_xbee_pro_37_smd
   oomp_key_simple: digikey_xbee_and_xbee_pro_37_smd_xbee_and_xbee_pro_37_smd
   owner: digikey
   repo:

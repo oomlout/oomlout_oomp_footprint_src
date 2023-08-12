@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: to_39_4
-    library_name: source_footprints
+    library_name: to_39_4_kicad_mod
+    md5: de890a1cb9e8a51b7608a82b8a768a11
+    md5_10: de890a1cb9
+    md5_5: de890
+    md5_6: de890a
+    oomp_key: oomp_digikey_to_39_4_to_39_4
+    oomp_key_extra: oomp_footprint_digikey_to_39_4_to_39_4
+    oomp_key_full: oomp_footprint_digikey_to_39_4_to_39_4_de890a
+    oomp_key_simple: digikey_to_39_4_to_39_4
     original_filename: digikey-kicad-library/src/Source_Footprints/TO-39-4.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_to_39_4_to_39_4
+  oomp_key_full: oomp_footprint_digikey_to_39_4_to_39_4
   oomp_key_simple: digikey_to_39_4_to_39_4
   owner: digikey
   repo:

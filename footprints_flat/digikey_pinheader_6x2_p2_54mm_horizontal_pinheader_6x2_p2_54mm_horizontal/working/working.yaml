@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: pinheader_6x2_p2_54mm_horizontal
-    library_name: source_footprints
+    library_name: pinheader_6x2_p2_54mm_horizontal_kicad_mod
+    md5: 4327b189f8e6710e6905f0627e518687
+    md5_10: 4327b189f8
+    md5_5: 4327b
+    md5_6: 4327b1
+    oomp_key: oomp_digikey_pinheader_6x2_p2_54mm_horizontal_pinheader_6x2_p2_54mm_horizontal
+    oomp_key_extra: oomp_footprint_digikey_pinheader_6x2_p2_54mm_horizontal_pinheader_6x2_p2_54mm_horizontal
+    oomp_key_full: oomp_footprint_digikey_pinheader_6x2_p2_54mm_horizontal_pinheader_6x2_p2_54mm_horizontal_4327b1
+    oomp_key_simple: digikey_pinheader_6x2_p2_54mm_horizontal_pinheader_6x2_p2_54mm_horizontal
     original_filename: digikey-kicad-library/src/Source_Footprints/PinHeader_6x2_P2.54mm_Horizontal.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_pinheader_6x2_p2_54mm_horizontal_pinheader_6x2_p2_54mm_horizontal
+  oomp_key_full: oomp_footprint_digikey_pinheader_6x2_p2_54mm_horizontal_pinheader_6x2_p2_54mm_horizontal
   oomp_key_simple: digikey_pinheader_6x2_p2_54mm_horizontal_pinheader_6x2_p2_54mm_horizontal
   owner: digikey
   repo:

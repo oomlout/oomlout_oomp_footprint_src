@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: sot_143_4
-    library_name: source_footprints
+    library_name: sot_143_4_kicad_mod
+    md5: c2da4eab4a88cf01fe9020466202e3f0
+    md5_10: c2da4eab4a
+    md5_5: c2da4
+    md5_6: c2da4e
+    oomp_key: oomp_digikey_sot_143_4_sot_143_4
+    oomp_key_extra: oomp_footprint_digikey_sot_143_4_sot_143_4
+    oomp_key_full: oomp_footprint_digikey_sot_143_4_sot_143_4_c2da4e
+    oomp_key_simple: digikey_sot_143_4_sot_143_4
     original_filename: digikey-kicad-library/src/Source_Footprints/SOT-143-4.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_sot_143_4_sot_143_4
+  oomp_key_full: oomp_footprint_digikey_sot_143_4_sot_143_4
   oomp_key_simple: digikey_sot_143_4_sot_143_4
   owner: digikey
   repo:

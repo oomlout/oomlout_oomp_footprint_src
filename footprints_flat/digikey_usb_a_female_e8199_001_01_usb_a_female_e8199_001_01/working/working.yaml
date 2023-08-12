@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: usb_a_female_e8199_001_01
-    library_name: source_footprints
+    library_name: usb_a_female_e8199_001_01_kicad_mod
+    md5: 8f9fc2576c0c630e570f2fd9f634b777
+    md5_10: 8f9fc2576c
+    md5_5: 8f9fc
+    md5_6: 8f9fc2
+    oomp_key: oomp_digikey_usb_a_female_e8199_001_01_usb_a_female_e8199_001_01
+    oomp_key_extra: oomp_footprint_digikey_usb_a_female_e8199_001_01_usb_a_female_e8199_001_01
+    oomp_key_full: oomp_footprint_digikey_usb_a_female_e8199_001_01_usb_a_female_e8199_001_01_8f9fc2
+    oomp_key_simple: digikey_usb_a_female_e8199_001_01_usb_a_female_e8199_001_01
     original_filename: digikey-kicad-library/src/Source_Footprints/USB_A_Female_E8199-001-01.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_usb_a_female_e8199_001_01_usb_a_female_e8199_001_01
+  oomp_key_full: oomp_footprint_digikey_usb_a_female_e8199_001_01_usb_a_female_e8199_001_01
   oomp_key_simple: digikey_usb_a_female_e8199_001_01_usb_a_female_e8199_001_01
   owner: digikey
   repo:

@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: wfqfn_10_2x2mm
-    library_name: source_footprints
+    library_name: wfqfn_10_2x2mm_kicad_mod
+    md5: 391b0aa56128633328bdc49d39a46ad1
+    md5_10: 391b0aa561
+    md5_5: 391b0
+    md5_6: 391b0a
+    oomp_key: oomp_digikey_wfqfn_10_2x2mm_wfqfn_10_2x2mm
+    oomp_key_extra: oomp_footprint_digikey_wfqfn_10_2x2mm_wfqfn_10_2x2mm
+    oomp_key_full: oomp_footprint_digikey_wfqfn_10_2x2mm_wfqfn_10_2x2mm_391b0a
+    oomp_key_simple: digikey_wfqfn_10_2x2mm_wfqfn_10_2x2mm
     original_filename: digikey-kicad-library/src/Source_Footprints/WFQFN-10_2x2mm.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_wfqfn_10_2x2mm_wfqfn_10_2x2mm
+  oomp_key_full: oomp_footprint_digikey_wfqfn_10_2x2mm_wfqfn_10_2x2mm
   oomp_key_simple: digikey_wfqfn_10_2x2mm_wfqfn_10_2x2mm
   owner: digikey
   repo:

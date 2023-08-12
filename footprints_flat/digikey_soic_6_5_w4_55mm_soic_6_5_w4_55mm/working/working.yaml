@@ -16,10 +16,19 @@
   name: digikey-kicad-library
   oomp:
     footprint_name: soic_6_5_w4_55mm
-    library_name: source_footprints
+    library_name: soic_6_5_w4_55mm_kicad_mod
+    md5: 1008a80b27b470d12e4aabdffab93be8
+    md5_10: 1008a80b27
+    md5_5: 1008a
+    md5_6: 1008a8
+    oomp_key: oomp_digikey_soic_6_5_w4_55mm_soic_6_5_w4_55mm
+    oomp_key_extra: oomp_footprint_digikey_soic_6_5_w4_55mm_soic_6_5_w4_55mm
+    oomp_key_full: oomp_footprint_digikey_soic_6_5_w4_55mm_soic_6_5_w4_55mm_1008a8
+    oomp_key_simple: digikey_soic_6_5_w4_55mm_soic_6_5_w4_55mm
     original_filename: digikey-kicad-library/src/Source_Footprints/SOIC-6-5_W4.55mm.kicad_mod
     owner_name: digikey
   oomp_key: oomp_digikey_soic_6_5_w4_55mm_soic_6_5_w4_55mm
+  oomp_key_full: oomp_footprint_digikey_soic_6_5_w4_55mm_soic_6_5_w4_55mm
   oomp_key_simple: digikey_soic_6_5_w4_55mm_soic_6_5_w4_55mm
   owner: digikey
   repo:
