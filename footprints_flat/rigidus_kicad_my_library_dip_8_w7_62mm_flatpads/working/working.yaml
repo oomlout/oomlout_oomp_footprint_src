@@ -1,0 +1,40 @@
+- file: data//oomlout_oomp_footprint_src/kicad_my_library.pretty/DIP-8_W7.62mm_FlatPads.kicad_mod
+  footprint:
+    description: 8-lead dip package, row spacing 7.62 mm (300 mils), longer pads
+    libraryLink: DIP-8_W7.62mm_FlatPads
+    number_of_pads: 8
+  footprint_library_directory: footprint_library_owner/rigidus_kicad_my_library.pretty
+  footprint_library_directory_flat: tmp/data//oomlout_oomp_footprint_src/footprints_flat/rigidus_kicad_my_library_dip_8_w7_62mm_flatpads/working
+  github_path: http://github.com/rigidus/kicad_my_library.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/DIP-8_W7.62mm_FlatPads.kicad_mod
+  links:
+    github_src: "http://gitlab.com/rigidus/kicad_my_library.pretty/blob/master/tmp/data//oomlout_oomp_footprint_src/\u043A\
+      \u0442-315.kicad_mod"
+    github_src_repo: https://gitlab.com/kicad/libraries/kicad-footprints
+    oomp_bot: tmp/data//oomlout_oomp_footprint_src/footprints/rigidus_kicad_my_library_dip_8_w7_62mm_flatpads/working
+    oomp_bot_github: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints/rigidus_kicad_my_library_dip_8_w7_62mm_flatpads/working
+    oomp_src_flat: footprints_flat/tmp/data//oomlout_oomp_footprint_src/footprints_flat/rigidus_kicad_my_library_dip_8_w7_62mm_flatpads/working
+    oomp_src_flat_github: https://github.com/oomlout/oomlout_oomp_footprint_src/tree/main/tmp/data//oomlout_oomp_footprint_src/footprints_flat/rigidus_kicad_my_library_dip_8_w7_62mm_flatpads/working
+  name: kicad_my_library.pretty
+  oomp:
+    footprint_name: dip_8_w7_62mm_flatpads
+    library_name: kicad_my_library
+    md5: 7468544b5016337f60d8308fd72011b1
+    md5_10: 7468544b50
+    md5_5: '74685'
+    md5_6: '746854'
+    oomp_key: oomp_rigidus_kicad_my_library_dip_8_w7_62mm_flatpads
+    oomp_key_extra: oomp_footprint_rigidus_kicad_my_library_dip_8_w7_62mm_flatpads
+    oomp_key_full: oomp_footprint_rigidus_kicad_my_library_dip_8_w7_62mm_flatpads_746854
+    oomp_key_simple: rigidus_kicad_my_library_dip_8_w7_62mm_flatpads
+    original_filename: data//oomlout_oomp_footprint_src/kicad_my_library.pretty/DIP-8_W7.62mm_FlatPads.kicad_mod
+    owner_name: rigidus
+  oomp_key: oomp_rigidus_kicad_my_library_dip_8_w7_62mm_flatpads
+  oomp_key_full: oomp_footprint_rigidus_kicad_my_library_dip_8_w7_62mm_flatpads
+  oomp_key_simple: rigidus_kicad_my_library_dip_8_w7_62mm_flatpads
+  owner: rigidus
+  repo:
+    documentation_url: https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting
+    message: 'API rate limit exceeded for 84.66.142.224. (But here''s the good news:
+      Authenticated requests get a higher rate limit. Check out the documentation
+      for more details.)'
+  url: http://github.com/rigidus/kicad_my_library.pretty
